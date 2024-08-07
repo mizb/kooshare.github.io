@@ -5,25 +5,25 @@
     <loc>https://example.com/</loc>
     <lastmod>2024-08-07T15:20:15+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/dianshizhibo/</loc>
+    <loc>https://example.com/post/dianshizhibo/</loc>
     <lastmod>2024-08-07T15:20:15+08:00</lastmod>
   </url><url>
     <loc>https://example.com/post/</loc>
     <lastmod>2024-08-07T15:20:15+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/tvbox/</loc>
+    <loc>https://example.com/post/tvbox/</loc>
     <lastmod>2024-08-07T15:20:09+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/yuedu/</loc>
+    <loc>https://example.com/post/yuedu/</loc>
     <lastmod>2024-08-07T15:19:49+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/litiaotiao/</loc>
+    <loc>https://example.com/post/litiaotiao/</loc>
     <lastmod>2024-08-06T20:53:42+08:00</lastmod>
   </url><url>
     <loc>https://example.com/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://example.com/page/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/</loc>
@@ -32,10 +32,10 @@
   </url><url>
     <loc>https://example.com/categories/test/</loc>
   </url><url>
-    <loc>https://example.com/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://example.com/page/about/</loc>
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://example.com/page/search/</loc>
   </url><url>
-    <loc>https://example.com/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://example.com/page/link/</loc>
   </url>
 </urlset>
