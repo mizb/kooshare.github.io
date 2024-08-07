@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on KUL藏宝库</title>
-        <link>https://example.com/page/</link>
+        <link>https://kooshare.github.io/page/</link>
         <description>Recent content in Pages on KUL藏宝库</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kooshare.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>存档</title>
-        <link>https://example.com/page/archives/</link>
+        <link>https://kooshare.github.io/page/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/page/archives/</guid>
+        <guid>https://kooshare.github.io/page/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>https://example.com/page/about/</link>
+        <link>https://kooshare.github.io/page/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/page/about/</guid>
+        <guid>https://kooshare.github.io/page/about/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>搜索</title>
-        <link>https://example.com/page/search/</link>
+        <link>https://kooshare.github.io/page/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/page/search/</guid>
+        <guid>https://kooshare.github.io/page/search/</guid>
         <description></description>
         </item>
         <item>
         <title>友情链接</title>
-        <link>https://example.com/page/link/</link>
+        <link>https://kooshare.github.io/page/link/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/page/link/</guid>
+        <guid>https://kooshare.github.io/page/link/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;

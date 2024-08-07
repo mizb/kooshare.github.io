@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://kooshare.github.io/</loc>
     <lastmod>2024-08-07T15:20:15+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/dianshizhibo/</loc>
+    <loc>https://kooshare.github.io/post/dianshizhibo/</loc>
     <lastmod>2024-08-07T15:20:15+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://kooshare.github.io/post/</loc>
     <lastmod>2024-08-07T15:20:15+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/tvbox/</loc>
+    <loc>https://kooshare.github.io/post/tvbox/</loc>
     <lastmod>2024-08-07T15:20:09+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/yuedu/</loc>
+    <loc>https://kooshare.github.io/post/yuedu/</loc>
     <lastmod>2024-08-07T15:19:49+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/litiaotiao/</loc>
+    <loc>https://kooshare.github.io/post/litiaotiao/</loc>
     <lastmod>2024-08-06T20:53:42+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/page/</loc>
+    <loc>https://kooshare.github.io/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/page/archives/</loc>
+    <loc>https://kooshare.github.io/page/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://kooshare.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://kooshare.github.io/tags/</loc>
   </url><url>
-    <loc>https://example.com/categories/test/</loc>
+    <loc>https://kooshare.github.io/categories/test/</loc>
   </url><url>
-    <loc>https://example.com/page/about/</loc>
+    <loc>https://kooshare.github.io/page/about/</loc>
   </url><url>
-    <loc>https://example.com/page/search/</loc>
+    <loc>https://kooshare.github.io/page/search/</loc>
   </url><url>
-    <loc>https://example.com/page/link/</loc>
+    <loc>https://kooshare.github.io/page/link/</loc>
   </url>
 </urlset>
