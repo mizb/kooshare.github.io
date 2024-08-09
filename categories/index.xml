@@ -6,7 +6,16 @@
         <description>Recent content in Categories on KUL藏宝库</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>KUL藏宝库</copyright><atom:link href="https://kooshare.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>KUL藏宝库</copyright>
+        <lastBuildDate>Tue, 06 Aug 2024 20:53:42 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>安卓APP</title>
+        <link>https://kooshare.github.io/categories/%E5%AE%89%E5%8D%93app/</link>
+        <pubDate>Tue, 06 Aug 2024 20:53:42 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/categories/%E5%AE%89%E5%8D%93app/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Test</title>
         <link>https://kooshare.github.io/categories/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
