@@ -50,6 +50,55 @@ CRC32: 7332AB4A&lt;/p&gt;
     &gt;https://pan.quark.cn/s/a7f417207ed6&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>Win11 v22H2(22621.1900)_小修深度精简版</title>
+        <link>https://kooshare.github.io/post/win11xiaoxiu/</link>
+        <pubDate>Tue, 13 Aug 2024 00:09:00 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/win11xiaoxiu/</guid>
+        <description>&lt;p&gt;小修Win11 22H2预览版,小修Win11精简版,小修Win10 22H2精简版,小修Win11 22H2深度精简版,小修Windows 11 22H2精简版,小修Win11专业版22H2精简版无更新版,小修Win11 Build 22621精简版无更新版,小修Win11系统下载,Win11小修精简优化版系统提供Win11轻度精简版和Win11深度精简版及Win11美化版.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;UUP dump（第三方查询下载页面）
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly91dXBkdW1wLm5ldC96aC1jbi8/bGFuZz16aC1jbg==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://uupdump.net/zh-cn/?lang=zh-cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Home | Windows Insider Blog（官方博客）
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9ibG9ncy53aW5kb3dzLmNvbS93aW5kb3dzLWluc2lkZXI=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://blogs.windows.com/windows-insider&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2023年6月15号 Windows 11 22H2 with Update [22621.1900] 2023年6月份预览更新版&lt;/p&gt;
+&lt;p&gt;Windows 11 Insider Preview Build 22621.1900 and 22631.1900 | Windows Insider Blog
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9ibG9ncy53aW5kb3dzLmNvbS93aW5kb3dzLWluc2lkZXIvMjAyMy8wNi8xNS9hbm5vdW5jaW5nLXdpbmRvd3MtMTEtaW5zaWRlci1wcmV2aWV3LWJ1aWxkLTIyNjIxLTE5MDAtYW5kLTIyNjMxLTE5MDAv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://blogs.windows.com/windows-insider/2023/06/15/announcing-windows-11-insider-preview-build-22621-1900-and-22631-1900/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;小修 Windows 11 22H2 Build 22621 纯净精简版 (Win11预览版)&lt;/p&gt;
+&lt;p&gt;小修 Windows 11 Pro 22621.1900 深度精简版 二合一[无更新版]&lt;/p&gt;
+&lt;p&gt;小修Win11 22H2轻度精简版，保留微软商店的游戏版
+– 关闭windows更新不包括驱动 更新不包括恶意软件删除工具
+– 集成.NET Framework 3.5 (仅限Windows转换程序) 旧版组件
+– 集成更新后运行清理（仅限Windows转换程序）后期封装制作
+– 使用微软商店记得打开服务 window up/wuauserv 默认关闭 [此版本不支持更新]&lt;/p&gt;
+&lt;p&gt;一、版本特色&lt;/p&gt;
+&lt;p&gt;纯净、无广告、流畅、右键设置、响应速度、适合办公娱乐/集成微软常用运行库合集、DX&lt;/p&gt;
+&lt;p&gt;二、主要保留&lt;/p&gt;
+&lt;p&gt;User版本 4.73G / [自建账户]&lt;/p&gt;
+&lt;p&gt;共享、计算器、打印、空间音效、看图、截图、Net3.5 – 4.8、光学、搜索、指纹、剪贴板、轻松访问
+IE、ODBC、简体输入法、蓝牙、wifi、xbox驱动、语音识别、远程桌面、画图、Mstsc、注册表、WMP&lt;/p&gt;
+&lt;p&gt;User安装完毕 C盘占用4.5G左右 首次进入桌面进程优化控制在55左右浮动&lt;/p&gt;
+&lt;p&gt;Admin版本 4.73G / [快速安装]&lt;/p&gt;
+&lt;p&gt;相比User&lt;del&gt;一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;# ESD映像2合1分卷备注说明：A表示管理员账户版、U表示自建账户版；&lt;/p&gt;
+&lt;p&gt;三、文件信息&lt;/p&gt;
+&lt;p&gt;小修Win11深度精简版[无更新版] (23年6月预览更新版)&lt;/p&gt;
+&lt;p&gt;文件: H:\Windows 11 Pro 22621 1900 2in1 深度精简版 小修.esd
+大小: 1440674142 字节
+修改时间: 2023年6月20日, 16:55:51
+MD5: C320F684BCCC23E95C547D59A9BA9DCD
+SHA1: 7BFB7A6CD4F2BB3AE36306B6431269DDC141F66C
+CRC32: 1E2ED945&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/3a3e7ce144a4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/3a3e7ce144a4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>
