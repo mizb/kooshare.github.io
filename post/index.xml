@@ -7,7 +7,420 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 12 Aug 2024 23:31:32 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 13 Aug 2024 00:09:00 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Win11 v22H2(22621.1900)_小修深度精简版</title>
+        <link>https://kooshare.github.io/post/win11xiaoxiu/</link>
+        <pubDate>Tue, 13 Aug 2024 00:09:00 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/win11xiaoxiu/</guid>
+        <description>&lt;p&gt;小修Win11 22H2预览版,小修Win11精简版,小修Win10 22H2精简版,小修Win11 22H2深度精简版,小修Windows 11 22H2精简版,小修Win11专业版22H2精简版无更新版,小修Win11 Build 22621精简版无更新版,小修Win11系统下载,Win11小修精简优化版系统提供Win11轻度精简版和Win11深度精简版及Win11美化版.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;UUP dump（第三方查询下载页面）
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly91dXBkdW1wLm5ldC96aC1jbi8/bGFuZz16aC1jbg==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://uupdump.net/zh-cn/?lang=zh-cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Home | Windows Insider Blog（官方博客）
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9ibG9ncy53aW5kb3dzLmNvbS93aW5kb3dzLWluc2lkZXI=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://blogs.windows.com/windows-insider&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2023年6月15号 Windows 11 22H2 with Update [22621.1900] 2023年6月份预览更新版&lt;/p&gt;
+&lt;p&gt;Windows 11 Insider Preview Build 22621.1900 and 22631.1900 | Windows Insider Blog
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9ibG9ncy53aW5kb3dzLmNvbS93aW5kb3dzLWluc2lkZXIvMjAyMy8wNi8xNS9hbm5vdW5jaW5nLXdpbmRvd3MtMTEtaW5zaWRlci1wcmV2aWV3LWJ1aWxkLTIyNjIxLTE5MDAtYW5kLTIyNjMxLTE5MDAv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://blogs.windows.com/windows-insider/2023/06/15/announcing-windows-11-insider-preview-build-22621-1900-and-22631-1900/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;小修 Windows 11 22H2 Build 22621 纯净精简版 (Win11预览版)&lt;/p&gt;
+&lt;p&gt;小修 Windows 11 Pro 22621.1900 深度精简版 二合一[无更新版]&lt;/p&gt;
+&lt;p&gt;小修Win11 22H2轻度精简版，保留微软商店的游戏版
+– 关闭windows更新不包括驱动 更新不包括恶意软件删除工具
+– 集成.NET Framework 3.5 (仅限Windows转换程序) 旧版组件
+– 集成更新后运行清理（仅限Windows转换程序）后期封装制作
+– 使用微软商店记得打开服务 window up/wuauserv 默认关闭 [此版本不支持更新]&lt;/p&gt;
+&lt;p&gt;一、版本特色&lt;/p&gt;
+&lt;p&gt;纯净、无广告、流畅、右键设置、响应速度、适合办公娱乐/集成微软常用运行库合集、DX&lt;/p&gt;
+&lt;p&gt;二、主要保留&lt;/p&gt;
+&lt;p&gt;User版本 4.73G / [自建账户]&lt;/p&gt;
+&lt;p&gt;共享、计算器、打印、空间音效、看图、截图、Net3.5 – 4.8、光学、搜索、指纹、剪贴板、轻松访问
+IE、ODBC、简体输入法、蓝牙、wifi、xbox驱动、语音识别、远程桌面、画图、Mstsc、注册表、WMP&lt;/p&gt;
+&lt;p&gt;User安装完毕 C盘占用4.5G左右 首次进入桌面进程优化控制在55左右浮动&lt;/p&gt;
+&lt;p&gt;Admin版本 4.73G / [快速安装]&lt;/p&gt;
+&lt;p&gt;相比User&lt;del&gt;一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;# ESD映像2合1分卷备注说明：A表示管理员账户版、U表示自建账户版；&lt;/p&gt;
+&lt;p&gt;三、文件信息&lt;/p&gt;
+&lt;p&gt;小修Win11深度精简版[无更新版] (23年6月预览更新版)&lt;/p&gt;
+&lt;p&gt;文件: H:\Windows 11 Pro 22621 1900 2in1 深度精简版 小修.esd
+大小: 1440674142 字节
+修改时间: 2023年6月20日, 16:55:51
+MD5: C320F684BCCC23E95C547D59A9BA9DCD
+SHA1: 7BFB7A6CD4F2BB3AE36306B6431269DDC141F66C
+CRC32: 1E2ED945&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/3a3e7ce144a4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/3a3e7ce144a4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>逆转裁判123：成步堂精选集 Build 11356493 免安装绿色中文版</title>
+        <link>https://kooshare.github.io/post/nizhuancaipan123/</link>
+        <pubDate>Tue, 13 Aug 2024 00:06:15 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/nizhuancaipan123/</guid>
+        <description>&lt;p&gt;逆转裁判123：成步堂精选集 Phoenix Wright: Ace Attorney Trilogy&lt;/p&gt;
+&lt;p&gt;本作是以法庭为舞台的冒险游戏。玩家将扮演律师「成步堂龙一」，为证明委託人的清白而踏上法庭。此精选集收录了作为系列原点的《逆转裁判 復甦的逆转》、《逆转裁判2》和《逆转裁判3》共14话。&lt;/p&gt;
+&lt;p&gt;自2001年10月发售首作以来，《逆转裁判》系列全球累计销量达670万套以上。本作是以法庭为舞台的冒险游戏，玩家将扮演律师「成步堂龙一」，为证明委託人的清白而踏上法庭。作为系列原点的《逆转裁判 復甦的逆转》、《逆转裁判2》和《逆转裁判3》的3作共14话，以更精美的画面收录于精选集中。当你见证所有故事后，将能发现被隐藏的真相。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/O9ViGyjI2deC5Y3.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/8Xw12lnDjrqeoFC.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/fFjuJCw25BN8Xgz.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/oJKNtan7PbS9xrB.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/B2PoeSdL8cfw67k.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/GLTVwZ1BqydDfXv.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;媒体评分&#34;&gt;媒体评分
+&lt;/h2&gt;&lt;p&gt;MC均分 (PC版)：80&lt;/p&gt;
+&lt;h2 id=&#34;面包实测&#34;&gt;面包实测
+&lt;/h2&gt;&lt;p&gt;1.解压到不包含中文路径的文件夹&lt;/p&gt;
+&lt;p&gt;2.到游戏目录运行 PWAAT.exe 开始游戏。&lt;/p&gt;
+&lt;p&gt;3.下载需要留出 3GB 以上空间，解压也是一样。&lt;/p&gt;
+&lt;p&gt;4.其他问题请自行通过搜索引擎解决。试玩满意请入正。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a9c0e85adeb4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a9c0e85adeb4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>模拟人生4 V1.107.151.1020 全DLC 免安装绿色中文版</title>
+        <link>https://kooshare.github.io/post/monirensheng4/</link>
+        <pubDate>Tue, 13 Aug 2024 00:02:58 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/monirensheng4/</guid>
+        <description>&lt;p&gt;模拟人生4 The Sims™ 4&lt;/p&gt;
+&lt;p&gt;在一个无拘无束的模拟人生4虚拟世界中，享受创造和控制人生的奇妙力量。 得到力量和自由，享受快乐，游戏人生！&lt;/p&gt;
+&lt;p&gt;释放您的想象力，创造一个独特的模拟市民世界，秀出您的独特风格。免费下载游戏，并自定义模拟市民及其住家的每个细节，还有更多内容。选定模拟市民的外观、行为和衣着，并决定他们将如何度过每一天。为每个家庭设计和建造超棒的家，并用您最喜爱的家具和装饰进行装扮。前往不同社区，结识其他模拟市民，了解他们的生活。发掘环境独特的美丽地点，踏上随心的冒险之旅。管理模拟市民日常生活的起起落落，看看将您现实生活中的场景演绎出来会发生什么。在发展人际关系、追求职业目标和人生抱负过程中，用自己的方式讲述自己的故事，沉浸在这个非凡卓越的游戏里，体验其中的无尽可能。&lt;/p&gt;
+&lt;p&gt;《The Sims™ 4》主游戏可免费下载。您有多到用不完的选项，可用于建造家园、打扮模拟市民和自定义他们的个性。创作他们的人生故事，探索充满活力的世界，发掘更多活出自我的方式。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/bTPsiaQ9g73rDGn.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/2enjwTW96oH4ALi.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/u5hxIbDMVP8vX7f.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/WcxeUs17yhR8EMd.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/yMEGV24xBWJfP8b.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/2BliExfFJKnmRvO.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/jfXMq13ebOZpKPy.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/YrToZD8dw2VU34O.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/TsAMgD58m2cbYW7.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/2omy5zjfM61ltLZ.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;媒体评分&#34;&gt;媒体评分
+&lt;/h2&gt;&lt;p&gt;MC均分 (PC版)：70&lt;/p&gt;
+&lt;h2 id=&#34;面包实测&#34;&gt;面包实测
+&lt;/h2&gt;&lt;p&gt;1.解压到不包含中文路径的文件夹&lt;/p&gt;
+&lt;p&gt;2.运行游戏目录里的 language-changer.exe 选择中文，然后运行游戏目录里的 Launcher.exe 点第一个 Launch ，随后弹出对话框，四个选项分别是：开始在线游戏、开始离线游戏、注销（灰色不可点击）、创建快捷方式（在桌面创建”在线游戏“和”离线游戏“两个图标）。此后直接在桌面点快捷方式进行游戏。&lt;/p&gt;
+&lt;p&gt;3.下载需要留出 62GB 以上空间，解压也是一样。&lt;/p&gt;
+&lt;p&gt;4.其他问题请自行通过搜索引擎解决。试玩满意请入正。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f1f127427c88&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f1f127427c88&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>死亡岛2 V1.0 全DLC 免安装绿色中文版</title>
+        <link>https://kooshare.github.io/post/siwangdao2/</link>
+        <pubDate>Mon, 12 Aug 2024 23:49:03 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/siwangdao2/</guid>
+        <description>&lt;p&gt;死亡岛2 Dead Island 2&lt;/p&gt;
+&lt;p&gt;《Dead Island 2》是款刺激的第一人称动作角色扮演游戏，有着恐怖、黑色幽默与夸张的丧尸砍杀调制而成的独特配方。探索遍地血污并且尸满为患的经典洛杉矶风光。认识非凡的角色，并装备大量武器、组件与技能，砍杀无数敌人，欣赏精致的血液细节。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/F5Rgi81eIyvZEBt.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/KGvSNJwYzRq4elr.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/jhMWARvfLN4EtTI.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/uT7QjFdfkVPn15g.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/8CDotvEHYBfs2Ih.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/ZT2eCjlO4nUGM5m.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/2muK5FPwyIi6rMz.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/n6dLWNqRVZ21gr3.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/9G3bjzTedIOQpSh.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/3YNt1qwQE7SaVAc.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/ge26bInl7wOVBPu.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/ZCkxUheRWmPzb1r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/UwhWLeS86lAomcx.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/x97mJ6TNESFnMdq.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;软件超小杯,rjcxb.com&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;媒体评分&#34;&gt;媒体评分
+&lt;/h2&gt;&lt;p&gt;MC均分 (PC版)：80&lt;/p&gt;
+&lt;h2 id=&#34;面包实测&#34;&gt;面包实测
+&lt;/h2&gt;&lt;p&gt;1.解压到不包含中文路径的文件夹&lt;/p&gt;
+&lt;p&gt;2.到游戏目录运行 DeadIsland.exe 开始游戏；也可以通过 Dead Island 2\DeadIsland\Binaries\Win64\DeadIsland-Win64-Shipping.exe 开始游戏&lt;/p&gt;
+&lt;p&gt;3.进入游戏主界面 OPTIONS – LANGUAGE – 方向键左右切换到中文&lt;/p&gt;
+&lt;p&gt;4.下载需要留出 46GB 以上空间，解压也是一样。&lt;/p&gt;
+&lt;p&gt;5.其他问题请自行通过搜索引擎解决。试玩满意请入正。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/04918dec5fae&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/04918dec5fae&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>博德之门3 V4.1.1.5022896 全DLC 免安装绿色中文版</title>
         <link>https://kooshare.github.io/post/bokezhimen3/</link>
         <pubDate>Mon, 12 Aug 2024 23:31:32 +0800</pubDate>
