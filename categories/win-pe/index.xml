@@ -7,7 +7,109 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 13 Aug 2024 00:16:17 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/win-pe/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 13 Aug 2024 00:41:43 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/win-pe/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>优启通VIP版 3.7.2024.0720 (启动盘制作) 绿色版</title>
+        <link>https://kooshare.github.io/post/youqitong/</link>
+        <pubDate>Tue, 13 Aug 2024 00:41:43 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/youqitong/</guid>
+        <description>&lt;p&gt;优启通VIP版(EasyU,简称EU)是IT天空打造的一款专业U盘启动盘制作工具,优启通工具采用U盘三分区方案,支持BIOS(Legacy)与UEFI双启动模式,在支持主流硬件基础上,同时兼容早期多数旧硬件.整合各种装机必备工具,并结合IT天空数款自研软件,有效提高系统安装效率.U盘PE所在分区于系统下自动隐藏,PE区与数据区分别独立,便于使用者对数据的各项操作.优启通WinPE系统定位于一线装机技术员,系统工程师和系统维护人员.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.rjcxb.com/img/cover/windows/395/01.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;优启通VIP版(EasyU) 最新版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;功能特点&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1）U盘模式：一键全新制作, 支持免格升级, UD/EFI分区, 个性化启动菜单, 模拟测试
+2）本地模式：将PE写入当前系统盘符, 支持BLOS/UEFI引导, 安装PETools/Dlc扩展包
+3）生成ISO：生成PE的ISO镜像,可用于量产,虚拟机;可选UDF/PETools/Dlc扩展包,可选引导菜单样式
+4）分区管理：这辅助功能,用于检查及修复U盘,创建磁盘分区操作,文件信息, 如:UD区信息,安装信息等
+5）高级选项：UD/EFI分区,本地模式,ISO-BLOS/EFI,2003PE/Win10PE,各种加载命令,磁盘检测模式等&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;3.7.2024.0720
+更新 – Intel RST VMD 20.1.0.1013 64位
+更新 – DiskGenius 5.6.0.1565
+更新 – FastCopy 5.7.14
+更新 – 傲梅分区助手 PartAssist 10.2.0&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特别提醒&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.下载解压后，请运行EasyU主程序进行制作；
+2.请预先准备好U盘或者移动硬盘，推荐标配16G或以上；
+3.请尽可能选择速度和性能好的U盘，某些较差的控制芯片的U盘可能导致制作失败；
+4.请在制作前备份U盘内重要数据，避免出现不必要的问题；
+5.个别杀软会将主程序或PE内工具软件报毒，还请理性判断；
+6.移动硬盘USB转接芯片的优劣，将导致制作成功与否或可否正常启动。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/828138aeadd2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/828138aeadd2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>杏雨梨云启动维护系统2024端午版v4 (杏雨梨云PE) 绿色版</title>
+        <link>https://kooshare.github.io/post/xingyuliyun/</link>
+        <pubDate>Tue, 13 Aug 2024 00:40:18 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/xingyuliyun/</guid>
+        <description>&lt;p&gt;杏雨梨云USB维护系统是一款知名的老牌U盘启动系统制作工具,杏雨梨云启动维护系统2024端午版提供个人开发的第十代 IQI X Windows 一键安装系统工具及OBR 一键备份&amp;amp;一键还原,IQI一键分区等人性化功能.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;含标准版、精简版、备选组件
+V4更新：
+1、更新XLoad v9.0.8.16；
+2、优化新硬件的驱动处理逻辑。
+1、更新Windows 11 PE x64 22631.2715；
+2、更新Windows 10 PE x64 19045.3693；
+3、更新IQI X Windows 一键安装 v10.0.3.1626；
+4、更新安装制作程序 v20.23.12.10；
+5、更新PE装载程序XLoad v9.0.6.8；
+6、更新部分驱动(如VMD)和组件；
+7、优化对新平台的兼容性；
+8、新增可使用U盘存储区Desk_PE目录自定义随机壁纸；
+9、新增启用网络后可一键HTTP或FTP共享本机分区；
+10、更新7-zip v23.1.0.0；
+11、更新Imagine v1.3.6.0；
+12、更新Diskgenius Free v5.5.1.1508；
+13、更新Partassist分区助手 v10.2.1.0；
+14、更新Ultraiso v9.7.6.3829；
+15、更新WinUnlocker v2.1.0.6357；
+16、更新Google Chrome v80经典版；
+17、更新LinuxReader v4.18.1.0；
+18、更新R-studio v9.3.191.259；
+19、更新Winhex v20.8.0.0；
+20、更新Winntsetup v5.3.3.0；
+21、更新Aida64 v7.0.6700.0；
+22、更新DiskInfo v9.2.1.0；
+23、其他调整不再一一列明。&lt;/p&gt;
+&lt;p&gt;关闭杏雨梨云启动维护系统的广告步骤：
+关于程序-设置退出程序时推送广告关闭&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/61f6808db48c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/61f6808db48c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>蜂鸟PE 2.4.1 (PE系统) 绿色版</title>
+        <link>https://kooshare.github.io/post/fengniaope/</link>
+        <pubDate>Tue, 13 Aug 2024 00:38:44 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/fengniaope/</guid>
+        <description>&lt;p&gt;蜂鸟PE使用批处理构建，WimBuilder2 处理注册表整合而成的维护PE，是一个以维护为目的的PE，励志做一个安全、小巧、稳定、流畅、可靠的WinPE。蜂鸟PE，小而强悍的WinPE维护系统，支持：笔记本电量显示、Bitlocker、Linux分区、VHD虚拟磁盘 等功能。&lt;/p&gt;
+&lt;h2 id=&#34;pe特点&#34;&gt;PE特点
+&lt;/h2&gt;&lt;p&gt;• 精简的文件内核与注册表
+• 减少对内存的占用
+• 全面的维护工具
+• 透明无加密的系统文件
+• 不接受任何形式的软件捆绑
+• 干净清晰的维护体验&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/3f8169cf24e0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/3f8169cf24e0&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>微PE工具箱 2.3 官方版</title>
         <link>https://kooshare.github.io/post/weipegongjuxiang/</link>
         <pubDate>Tue, 13 Aug 2024 00:16:17 +0800</pubDate>

@@ -7,7 +7,870 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 13 Aug 2024 00:19:14 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 13 Aug 2024 00:49:41 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows11 Win11 23H2 22631.3880 不忘初心游戏版</title>
+        <link>https://kooshare.github.io/post/buwangchunxinyouxiban22631/</link>
+        <pubDate>Tue, 13 Aug 2024 00:49:41 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/buwangchunxinyouxiban22631/</guid>
+        <description>&lt;p&gt;不忘初心Win11精简版,不忘初心游戏版Win11精简版,不忘初心Win11 23H2游戏版,不忘初心Win11 23H2精简版游戏版无更新版,不忘初心Windows 11 23H2游戏版,不忘初心Win11 Build 22631游戏版,Win11不忘初心精简优化版系统下载,不忘初心精简系统下载.主要提供Win11无更新版,Win11美化版和Win11游戏版.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不忘初心游戏版Win11精简版系统概述：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;注意此版不能更新补丁，而且非纯净版，此版为游戏版，为游戏稳定而生也可以用于办公，保留Hyper和linux，体积和稳定性介于可更新版和无更新版之间，集成任务栏透明软件，独家4K全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定系统全部都是离线精简和优化并补齐DX所需DLL，非二次封装。系统纯净、流畅、进程少，游戏办公基本无影响。&lt;/p&gt;
+&lt;p&gt;• 保留XBOX组件；&lt;/p&gt;
+&lt;p&gt;• 保留游戏需要的相关组件、离线修复DX所需要的DLL；&lt;/p&gt;
+&lt;p&gt;• 离线更换系统自带的字体，更换为鸿蒙HarmonyOS 字体（可选）；&lt;/p&gt;
+&lt;p&gt;• 不一样的系统不一样的壁纸，集成4K桌面壁纸，以及4张锁屏壁纸！&lt;/p&gt;
+&lt;p&gt;桌面壁纸源文件在：C:\Windows\Web\4K\Wallpaper\Windows
+锁屏壁纸源文件在：C:\Windows\Web\Screen&lt;/p&gt;
+&lt;p&gt;• 集成TranslucentTB非常好用的win10任务栏透明工具. 轻量级(使用几MB的RAM,几乎没有CPU),可根据
+自己喜好自定义设置任务栏的透明度，支持在不同效果之间进行切换，你会发现自己的桌面任务栏很美观。&lt;/p&gt;
+&lt;p&gt;TranslucentTB安装路径在：C:\ProgramData\TranslucentTB&lt;/p&gt;
+&lt;p&gt;• 集成字体：雅痞-简体, 腾祥爱情体简体, 方正少儿_GBK, 方正粗圆_GBK, 造字工房朗倩常规体等5款字体&lt;/p&gt;
+&lt;p&gt;• 集成右键 快捷设置 包含 注册表 组策略 计算器 桌面图标 控制面板 系统服务 重启桌面 系统版本。&lt;/p&gt;
+&lt;p&gt;• 集成右键在此处打开命令行，更加方便使用CMD命令。&lt;/p&gt;
+&lt;p&gt;• 集成右键 用记事本打开文件，方便查看一些文件。&lt;/p&gt;
+&lt;p&gt;• 启用新的文件夹图标预览&lt;/p&gt;
+&lt;p&gt;• 集成微软常用运行库新版&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关于版本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不忘初心Win11精简版无更新版及可更新版：
+﹂纯净精简版 (常用功能都有推荐教新电脑适应win11用户)
+﹂深度精简版 (ESD格式，无Bitlocker语音识别TTS等功能)
+不忘初心美化版Win11 11无更新精简版：太阳谷图标风格
+不忘初心游戏版Win11 11无更新精简版：集成游戏运行库&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;• 此版不能更新补丁
+• 除了运行库和任务栏透明软件无其它第三方软件。
+• 自动跳过硬件检测，去除不满足安装条件，老爷机也能安装。
+• 追求稳定、没有过度优化，可以正常办公。
+• 需要用到指纹和人脸识别的，请用自建账户，Admin原生不支持；
+• 总共优化170多项系统设置，禁用后台40多项系统不常用服务，系统流畅更胜一筹。
+• 优化后台进程首次开机大约60个进程左右；
+• 恢复Internet Explorer浏览器，开始菜单—所有应用 中可以打开。
+• 独家修复恢复IE后 internet选项无法打开问题.
+• 独家解决任务栏透明软件失效问题，此版本可正常使用TranslucentTB、TrayS等任务栏透明软件。
+• 提供“恢复WIN10经典右键.cmd”和“恢复WIN11原版右键.cmd”。
+• 避免以后升级到更高版本的系统，所有网络已经设置为按流量计费，检查更新后 下载补丁需经过你同意，但不影响系统给设备打驱动功能;
+• 提供“禁止系统自动安装驱动.reg” ,不需要系统自动打驱动的 请安装系统后 立即导入即可;
+• 系统恢复界面添加高级启动选项
+• 使用Compact OS释放空间，C盘占用空间可减少2G左右
+• 电源模式新增 卓越、高性能、节能3种模式
+• 高级电源设置USB选择性暂停 已禁用 避免有些USB设备断电
+• 禁用休眠文件，可减少C盘体积，如需开启 请使用管理员运行CMD命令：powercfg /hibernate on
+• 默认关闭7G预留空间。（如果有）
+• 集成Microsoft .NET Framework 3.5
+• IE主页默认设置为百度，原版是先打开微软再跳转百度。
+• 提供 Windows store商店安装包，可以随意安装卸载;
+• 提供 WindowsCamera相机APP安装包，可以随意安装卸载;
+• 提供 Microsoft.WindowsTermina 终端 安装包可以随意安装卸载;
+• 提供 Microsoft Edge程序安装包;
+• 提供 Xbox完整安装包，可以随意安装卸载;
+• 提供 OneDrive程序安装包;
+• 提供 WUB_1.7彻底关闭系统更新工具
+• 右键添加 用记事本打开
+• 右键添加 管理员取得所有权
+• 右键添加 复制文件路径
+• 右键添加 复制文件夹路径
+• 右键添加 在此处打开命令行&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;系统集成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft .NET Framework 3.5&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;保留功能&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;语音识别TTS、打印、蓝牙、指纹、共享、微软账户、远程桌面、搜索、计算器、相机、照片、屏幕投影、平板模式
+BitLocker、XBOX、NFS 、IE浏览器、画图、截图、防火墙、WMP、旧版组件 、Hyper、Linux、Telnet；不带IIS&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;优化列表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其它优化项目共141项
+#启用系统管理员账户（仅Admin版）
+#隐藏小娜图标
+#任务栏搜索仅显示图标
+#任务栏字体设置为白色，为配合透明软件
+#锁定任务栏
+#隐藏任务视图按钮
+#隐藏任务栏上的人脉
+#开始菜单关闭最近打开的项目
+#关闭任务栏搜索上面的新闻要点
+#任务栏隐藏聊天
+#任务栏隐藏小组件
+#账户控制UAC调整为从不通知
+#关闭Smartscreen应用筛选器
+#禁用Windows Defender
+#关闭锁屏界面的windows聚焦
+#优化视觉效果以及开关机动画效果
+#不允许在开始菜单显示建议
+#关闭“突出显示新安装的程序”
+#关闭商店应用推广
+#禁止自动安装推荐的应用程序
+#关闭锁屏时的Windows 聚焦推广
+#关闭Windows Ink推广应用
+#关闭游戏录制
+#关闭“当我玩游戏时在后台录制”，开启此功能会影响游戏质量
+#登陆界面默认打开小键盘
+#在桌面显示“此电脑”
+#在桌面显示“控制面板”
+#打开资源管理器时显示此电脑”
+#显示所有文件扩展名
+#显示隐藏的文件
+#创建快捷方式时不添快捷方式文字
+#默认关闭7G预留空间
+#关闭应用自动备份
+#禁止自动播放
+#禁用NTFS链接跟踪服务
+#在单独的进程中打开文件夹窗口
+#资源管理器快速访问不显示常用文件夹
+#隐藏资源管理器导航窗口中的收藏夹
+#隐藏资源管理器导航窗口中的可移动设备
+#资源管理器快速访问不显示最近使用的文件
+#资源管理器窗口最小化时显示完整路径
+#隐藏资源管理器窗口中的库
+#隐藏资源管理器窗口中的可移动设备
+#禁用可执行文件的“兼容性疑难解答”右键菜单
+#禁用磁盘的“以便携方式打开“右键菜单
+#禁用新建的“联系人”右键菜单
+#禁用文件、磁盘以及属性的“还原以前版本”右键菜单
+#禁用所有对象的“共享”右键菜单
+#禁用文件、目录、桌面、磁盘以及库的“授予访问权限”右键菜单
+#禁用图片文件的“使用 3D画图编辑”右键菜单
+#禁用MediaPlaye首次使用对话框
+#禁用MediaPlaye自动更新
+#禁用MediaPlaye播放时屏保
+#禁用MediaPlaye媒体共享
+#Internet Explorer 关闭多个选项卡时不发出警告
+#Internet Explorer 当创建新选项卡时，始终切换到新选项
+#Internet Explorer 其他程序从当前窗口的新选项卡打开连接
+#Internet Explorer 关闭建议的网站
+#Internet Explorer 跳过IE首次运行自定义设置
+#Internet Explorer 不保存附件的区域信息
+#Internet Explorer 启用增强保护模式
+#Internet Explorer 针对增强保护模式启用64位进程
+#Internet Explorer 锁定工具栏
+#Internet Explorer 将同时可用下载数目调整到 10
+#Internet Explorer 遇到弹出窗口时始终在新选项卡中打开弹出窗口
+#Internet Explorer 关闭自动更新
+#Internet Explorer 隐藏IE笑脸帮助按钮
+#禁用客户体验改善计划
+#微软拼音默认为英文输入
+#关闭微软拼音云计算
+#记事本启用自动换行
+#记事本始终显示状态栏
+#关闭远程协助
+#禁用程序兼容性助手
+#禁用休眠
+#使计算机进入睡眠状态设置为 从不
+#Windows更新不包括恶意软件删除工具
+#Windows更新不包括驱动程序
+#更新挂起时如果有用户登录不自动重启计算机
+#将Windows Update自动更新调整为从不推荐
+#启用 Windows 照片查看器
+#蓝屏时自动重启
+#禁用 当注销时自动保存我的重启的应用 APP，在我再次登录时重新打开这些 应用 APP
+#关闭传递优化该功能可以把下载的更新文件发送到局域网其他电脑上，没什么大作用。
+#关闭咨询和兴趣
+#优化局域网连接
+#优化网络参数设置，提高网络连接稳定性
+#优化网络快速转发机制，提高上网速
+#关闭系统自动调试功能，提高系统运行速度
+#加大系统的图标缓冲，提高系统开机速度
+#禁止系统自动生成错误报告，加快系统反应速度
+#关闭截图和草稿后台运行
+#关闭计算器后台运行
+#关闭照片后台运行
+#关闭记事本后台运行
+#关闭设置后台运行
+#关闭Microsoft.DesktopAppInstaller后台运行
+#关闭Microsoft.AAD.BrokerPlugin后台运行
+#关闭设置-系统-通知-其他设置 更新后以及登录后显示Windows 欢即体验以显示新增功能和建议内容
+#关闭设置-系统-通知-其他设置-在锁屏界面上显示提醒和 VolP 来电
+#关闭设置-系统-通知-当我使用Windows时获取提示和建议
+#关闭设置-系统-通知-建议我如何充分利用 windows 并完成设置此设备
+#禁用登录选项 当注销时自动保存我的重启的应用 APP，在我再次登录时重新打开这些 应用 APP
+#禁用Windows Defender 安全中心 – 所有通知
+#禁用Windows Defender 安全中心 – 非重要通知
+#禁用Windows Defender 篡改保护
+#禁用Windows Defender 警告用户使用微软账号的 Defender 账号保护
+#隐私选项 禁止 使用页面预测功能来提升阅读，提供浏览速度浏览数据会被发送到 Microsoft
+#隐私选项 禁止 允许 Windows 从此电脑中收集我的活动(活动历史记录”)
+#隐私选项 禁止 允许帮助提升用户体验
+#隐私选项 禁止 允许应用使用用户的广告标识符了解对各应用的体验
+#隐私选项 禁止 可让 Microsoft 通过使用你的诊断数据，提供更多的量身定制的相关提示和建议
+#隐私选项 禁止 向 Microsoft 发送有关我的写作习惯的信息，以便在将来改进键入与写入功能
+#隐私选项 禁止 在设置应用中为用户显示建议的内容
+#隐私选项 禁止 完成设备设置以充分利用Windows的建议方式
+#隐私选项 禁止 收集通讯录 让 Windows和小娜更好的了解你
+#隐私选项 禁止 收集键入文本让 Windows和小娜更好的了解你
+#隐私选项 禁止 自动安装建议的应用
+#隐私选项 禁止 自动安装赞助商的应用(客户体验）
+#隐私选项 禁止 自动连接到建议的开放热点
+#隐私选项 禁止 让 Skype(如果已安装) 帮助你联系地址中的好友并校验你的移动号码
+#隐私选项 通过 将用户的输入数据发送给 Microsoft 来个性化用户的语音输入，键盘输入和墨迹输入
+#隐私选项 禁止 键入见解
+#隐私选项 禁止 预安装 OEM 应用
+#隐私选项 禁止 预安装应用
+#隐私选项 禁止 收集语言和书写习惯
+#隐私选项 优化 遥测反馈频率改为“从不”
+#隐私选项 禁止 关闭查看诊断数据
+#隐私选项 关闭 反馈和诊断
+#隐私选项 关闭 在设置应用中为我显示建议的内容
+#隐私选项 关闭 在开始菜单显示建议
+#隐私选项 关闭 允许应用访问与其他应用有关的诊断信息
+#禁用计划任务 NET Framework
+#禁用计划任务 App列表备份
+#禁用计划任务 Windows 磁盘诊断会为加入客户体验计划的用户向 Microsoft 报告常规的磁盘和系统信息。
+#禁用计划任务 当系统处于无人参与模式时，将用户文件复制到备份位置以防意外丢失”
+#禁用计划任务 任务颜色校准设置
+#删除计划任务 验证WINRE环境
+#禁用计划任务 注册表空闲备份任务
+#禁用计划任务 内存诊断
+#禁用计划任务 DirectXDatabaseUpdater&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;文件信息&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;文件名称: 【不忘初心游戏版】Windows11_23H2_22631.3880_X64_无更新[精简版]&lt;a class=&#34;link&#34; href=&#34;2024.7.16&#34; &gt;2.71G&lt;/a&gt;.iso
+文件大小: 2.71 GB (2,919,301,120 字节)
+修改时间: 2024年07月15日，02:50:13
+MD5: CDAB6590E35751B4D12935C62334FF29
+SHA256: 89DAD4236BB06B749795EA5C3085047D79A1181A5052BE15539F4DF33698D43A&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/642aad24a80e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/642aad24a80e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Buwangchuxinmeihuaban22631</title>
+        <link>https://kooshare.github.io/post/buwangchuxinmeihuaban22631/</link>
+        <pubDate>Tue, 13 Aug 2024 00:48:14 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/buwangchuxinmeihuaban22631/</guid>
+        <description>&lt;p&gt;不忘初心Win11精简版,不忘初心美化版Win11精简版,不忘初心Win11 23H2美化版,不忘初心Win11 23H2精简版美化版无更新版,不忘初心Windows 11 23H2美化版,不忘初心Win11 Build 22631美化版,Win11不忘初心精简优化版系统下载,不忘初心精简系统下载.主要提供Win11无更新版,Win11美化版和Win11游戏版.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不忘初心美化版Win11精简版系统概述：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此版不能更新补丁，保留Hyper和linux，在无更新版本的基础上修改壁纸，任务栏透明，集成运行库字体等，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响！&lt;/p&gt;
+&lt;p&gt;• 离线更换太阳谷图标图标焕然一新，感受一下新图标带来的视觉感。&lt;/p&gt;
+&lt;p&gt;• 不一样的系统不一样的壁纸，集成4K桌面壁纸，以及4张锁屏壁纸惜！&lt;/p&gt;
+&lt;p&gt;桌面壁纸源文件在：C:\Windows\Web\4K\Wallpaper\Windows
+锁屏壁纸源文件在：C:\Windows\Web\Screen&lt;/p&gt;
+&lt;p&gt;• 集成TranslucentTB非常好用的win10任务栏透明工具. 轻量级(使用几MB的RAM,几乎没有CPU),可根据
+自己喜好自定义设置任务栏的透明度，支持在不同效果之间进行切换，你会发现自己的桌面任务栏很美观。&lt;/p&gt;
+&lt;p&gt;TranslucentTB安装路径在：C:\ProgramData\TranslucentTB&lt;/p&gt;
+&lt;p&gt;• 集成字体：雅痞-简体, 腾祥爱情体简体, 方正少儿_GBK, 方正粗圆_GBK, 造字工房朗倩常规体等5款字体&lt;/p&gt;
+&lt;p&gt;• 集成右键 快捷设置 包含 注册表 组策略 计算器 桌面图标 控制面板 系统服务 重启桌面 系统版本。&lt;/p&gt;
+&lt;p&gt;• 集成右键在此处打开命令行，更加方便使用CMD命令。&lt;/p&gt;
+&lt;p&gt;• 集成右键 用记事本打开文件，方便查看一些文件。&lt;/p&gt;
+&lt;p&gt;• 启用新的文件夹图标预览&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关于版本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不忘初心Win11精简版无更新版及可更新版：
+﹂纯净精简版 (常用功能都有推荐教新电脑适应win11用户)
+﹂深度精简版 (ESD格式，无Bitlocker语音识别TTS等功能)
+不忘初心美化版Win11 11无更新精简版：太阳谷图标风格
+不忘初心游戏版Win11 11无更新精简版：集成游戏运行库&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;● 此版不能更新补丁
+● 纯净 无任何第三方软件。
+● 自动跳过硬件检测，去除不满足安装条件，老爷机也能安装。
+● 追求稳定、没有过度优化，可以正常办公。
+● 需要用到指纹和人脸识别的，请用自建账户，Admin原生不支持；
+● 总共优化170多项系统设置，禁用后台40多项系统不常用服务，系统流畅更胜一筹。
+● 优化后台进程首次开机大约60个进程左右；
+● 恢复Internet Explorer浏览器，开始菜单—所有应用 中可以打开。
+● 独家修复恢复IE后 internet选项无法打开问题.
+● 独家解决任务栏透明软件失效问题，此版本可正常使用TranslucentTB、TrayS等任务栏透明软件。
+● 提供“恢复WIN10经典右键.cmd”和“恢复WIN11原版右键.cmd”。
+● 避免以后升级到更高版本的系统，所有网络已经设置为按流量计费，检查更新后 下载补丁需经过你同意，但不影响系统给设备打驱动功能;
+● 提供“禁止系统自动安装驱动.reg” ,不需要系统自动打驱动的 请安装系统后 立即导入即可;
+● 系统恢复界面添加高级启动选项
+● 使用Compact OS释放空间，C盘占用空间可减少2G左右
+● 电源模式新增 卓越、高性能、节能3种模式
+● 高级电源设置USB选择性暂停 已禁用 避免有些USB设备断电
+● 禁用休眠文件，可减少C盘体积，如需开启 请使用管理员运行CMD命令：powercfg /hibernate on
+● 默认关闭7G预留空间。（如果有）
+● 集成Microsoft .NET Framework 3.5
+● IE主页默认设置为百度，原版是先打开微软再跳转百度。
+● 提供 Windows store商店安装包，可以随意安装卸载;
+● 提供 WindowsCamera相机APP安装包，可以随意安装卸载;
+● 提供 Microsoft.WindowsTermina 终端 安装包可以随意安装卸载;
+● 提供 Microsoft Edge程序安装包;
+● 提供 Xbox完整安装包，可以随意安装卸载;
+● 提供 OneDrive程序安装包;
+● 提供 WUB_1.7彻底关闭系统更新工具
+● 右键添加 用记事本打开
+● 右键添加 管理员取得所有权
+● 右键添加 复制文件路径
+● 右键添加 复制文件夹路径
+●右键添加 在此处打开命令行&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;系统集成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;.NET Framework 3.5&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;保留组件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;打印、蓝牙、指纹、共享、防火墙、微软账户、搜索、画图、截图、照片uwp、计算器uwp、远程桌面
+BitLocker、WMP、IE浏览器、IIS 、NFS 、hyper、Linux、Telnet、旧版组件 、屏幕投影、平板模式&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;优化调整&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其它优化项目共141项
+#启用系统管理员账户（仅Admin版）
+#隐藏小娜图标
+#任务栏搜索仅显示图标
+#锁定任务栏
+#隐藏任务视图按钮
+#隐藏任务栏上的人脉
+#开始菜单关闭最近打开的项目
+#关闭任务栏搜索上面的新闻要点
+#任务栏隐藏聊天
+#任务栏隐藏小组件
+#账户控制UAC调整为从不通知
+#关闭Smartscreen应用筛选器
+#禁用Windows Defender
+#关闭锁屏界面的windows聚焦
+#优化视觉效果以及开关机动画效果
+#不允许在开始菜单显示建议
+#关闭“突出显示新安装的程序”
+#关闭商店应用推广
+#禁止自动安装推荐的应用程序
+#关闭锁屏时的Windows 聚焦推广
+#关闭Windows Ink推广应用
+#关闭游戏录制
+#关闭“当我玩游戏时在后台录制”，开启此功能会影响游戏质量
+#登陆界面默认打开小键盘
+#在桌面显示“此电脑”
+#在桌面显示“控制面板”
+#打开资源管理器时显示此电脑”
+#显示所有文件扩展名
+#显示隐藏的文件
+#创建快捷方式时不添快捷方式文字
+#默认关闭7G预留空间
+#关闭应用自动备份
+#禁止自动播放
+#禁用NTFS链接跟踪服务
+#在单独的进程中打开文件夹窗口
+#资源管理器快速访问不显示常用文件夹
+#隐藏资源管理器导航窗口中的收藏夹
+#隐藏资源管理器导航窗口中的可移动设备
+#资源管理器快速访问不显示最近使用的文件
+#资源管理器窗口最小化时显示完整路径
+#隐藏资源管理器窗口中的库
+#隐藏资源管理器窗口中的可移动设备
+#禁用可执行文件的“兼容性疑难解答”右键菜单
+#禁用磁盘的“以便携方式打开“右键菜单
+#禁用新建的“联系人”右键菜单
+#禁用文件、磁盘以及属性的“还原以前版本”右键菜单
+#禁用所有对象的“共享”右键菜单
+#禁用文件、目录、桌面、磁盘以及库的“授予访问权限”右键菜单
+#禁用图片文件的“使用 3D画图编辑”右键菜单
+#禁用MediaPlaye首次使用对话框
+#禁用MediaPlaye自动更新
+#禁用MediaPlaye播放时屏保
+#禁用MediaPlaye媒体共享
+#Internet Explorer 关闭多个选项卡时不发出警告
+#Internet Explorer 当创建新选项卡时，始终切换到新选项
+#Internet Explorer 其他程序从当前窗口的新选项卡打开连接
+#Internet Explorer 关闭建议的网站
+#Internet Explorer 跳过IE首次运行自定义设置
+#Internet Explorer 不保存附件的区域信息
+#Internet Explorer 启用增强保护模式
+#Internet Explorer 针对增强保护模式启用64位进程
+#Internet Explorer 锁定工具栏
+#Internet Explorer 将同时可用下载数目调整到 10
+#Internet Explorer 遇到弹出窗口时始终在新选项卡中打开弹出窗口
+#Internet Explorer 关闭自动更新
+#Internet Explorer 隐藏IE笑脸帮助按钮
+#禁用客户体验改善计划
+#微软拼音默认为英文输入
+#关闭微软拼音云计算
+#记事本启用自动换行
+#记事本始终显示状态栏
+#关闭远程协助
+#禁用程序兼容性助手
+#禁用休眠
+#使计算机进入睡眠状态设置为 从不
+#Windows更新不包括恶意软件删除工具
+#Windows更新不包括驱动程序
+#更新挂起时如果有用户登录不自动重启计算机
+#将Windows Update自动更新调整为从不推荐
+#启用 Windows 照片查看器
+#蓝屏时自动重启
+#禁用 当注销时自动保存我的重启的应用 APP，在我再次登录时重新打开这些 应用 APP
+#关闭传递优化该功能可以把下载的更新文件发送到局域网其他电脑上，没什么大作用。
+#关闭咨询和兴趣
+#优化局域网连接
+#优化网络参数设置，提高网络连接稳定性
+#优化网络快速转发机制，提高上网速
+#关闭系统自动调试功能，提高系统运行速度
+#加大系统的图标缓冲，提高系统开机速度
+#禁止系统自动生成错误报告，加快系统反应速度
+#关闭截图和草稿后台运行
+#关闭计算器后台运行
+#关闭照片后台运行
+#关闭记事本后台运行
+#关闭设置后台运行
+#关闭Microsoft.DesktopAppInstaller后台运行
+#关闭Microsoft.AAD.BrokerPlugin后台运行
+#关闭设置-系统-通知-其他设置 更新后以及登录后显示Windows 欢即体验以显示新增功能和建议内容
+#关闭设置-系统-通知-其他设置-在锁屏界面上显示提醒和 VolP 来电
+#关闭设置-系统-通知-当我使用Windows时获取提示和建议
+#关闭设置-系统-通知-建议我如何充分利用 windows 并完成设置此设备
+#禁用登录选项 当注销时自动保存我的重启的应用 APP，在我再次登录时重新打开这些 应用 APP
+#禁用Windows Defender 安全中心 – 所有通知
+#禁用Windows Defender 安全中心 – 非重要通知
+#禁用Windows Defender 篡改保护
+#禁用Windows Defender 警告用户使用微软账号的 Defender 账号保护
+#隐私选项 禁止 使用页面预测功能来提升阅读，提供浏览速度浏览数据会被发送到 Microsoft
+#隐私选项 禁止 允许 Windows 从此电脑中收集我的活动(活动历史记录”)
+#隐私选项 禁止 允许帮助提升用户体验
+#隐私选项 禁止 允许应用使用用户的广告标识符了解对各应用的体验
+#隐私选项 禁止 可让 Microsoft 通过使用你的诊断数据，提供更多的量身定制的相关提示和建议
+#隐私选项 禁止 向 Microsoft 发送有关我的写作习惯的信息，以便在将来改进键入与写入功能
+#隐私选项 禁止 在设置应用中为用户显示建议的内容
+#隐私选项 禁止 完成设备设置以充分利用Windows的建议方式
+#隐私选项 禁止 收集通讯录 让 Windows和小娜更好的了解你
+#隐私选项 禁止 收集键入文本让 Windows和小娜更好的了解你
+#隐私选项 禁止 自动安装建议的应用
+#隐私选项 禁止 自动安装赞助商的应用(客户体验）
+#隐私选项 禁止 自动连接到建议的开放热点
+#隐私选项 禁止 让 Skype(如果已安装) 帮助你联系地址中的好友并校验你的移动号码
+#隐私选项 通过 将用户的输入数据发送给 Microsoft 来个性化用户的语音输入，键盘输入和墨迹输入
+#隐私选项 禁止 键入见解
+#隐私选项 禁止 预安装 OEM 应用
+#隐私选项 禁止 预安装应用
+#隐私选项 禁止 收集语言和书写习惯
+#隐私选项 优化 遥测反馈频率改为“从不”
+#隐私选项 禁止 关闭查看诊断数据
+#隐私选项 关闭 反馈和诊断
+#隐私选项 关闭 在设置应用中为我显示建议的内容
+#隐私选项 关闭 在开始菜单显示建议
+#隐私选项 关闭 允许应用访问与其他应用有关的诊断信息
+#禁用计划任务 NET Framework
+#禁用计划任务 App列表备份
+#禁用计划任务 Windows 磁盘诊断会为加入客户体验计划的用户向 Microsoft 报告常规的磁盘和系统信息。
+#禁用计划任务 当系统处于无人参与模式时，将用户文件复制到备份位置以防意外丢失”
+#禁用计划任务 任务颜色校准设置
+#删除计划任务 验证WINRE环境
+#禁用计划任务 注册表空闲备份任务
+#禁用计划任务 内存诊断
+#禁用计划任务 DirectXDatabaseUpdater&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;文件信息&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;文件名称: 【不忘初心美化版】Windows11_23H2_22631.3880_X64_无更新[纯净精简版]&lt;a class=&#34;link&#34; href=&#34;2024.7.13&#34; &gt;2.45G&lt;/a&gt;.iso
+文件大小: 2.45 GB (2,640,314,368 字节)
+修改时间: 2024年07月14日，00:00:39
+MD5: 819A3B0A67E4CC44BD3013CE78617004
+SHA256: 7CD75A1A58F282FF33DB2A148435B171CAE62490E92BD079D02466135C9F4E79&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f0049a0e3980&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f0049a0e3980&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows11 Win11 23H2 22631.3880 不忘初心纯净版</title>
+        <link>https://kooshare.github.io/post/buwangchuxinchunjingban22631/</link>
+        <pubDate>Tue, 13 Aug 2024 00:45:05 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/buwangchuxinchunjingban22631/</guid>
+        <description>&lt;p&gt;不忘初心Win11精简版,不忘初心Win11纯净精简版,不忘初心精简Win11 23H2系统下载,不忘初心Win11 23H2精简版,不忘初心Windows 11 23H2纯净精简版,不忘初心Win11 Build 22631纯净精简版,Win11不忘初心精简优化版系统下载,不忘初心精简系统下载.主要提供Win11纯净精简版及Win11美化版和Win11游戏版.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不忘初心纯净版Win11精简版系统无更新版概述：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此版不能更新补丁，并开启按流量计费，此版保留Hyper和linux，母版来自UUP 22631.3880，本版本自动跳过硬件检测，优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不忘初心纯净版Win11精简版系统可更新版概述：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此版可正常更新补丁，本版本来自UUP bud 22631.3880，保留语言识别TTS、安全中心、Defender、hyper、Linux，离线精简部分APP、以及其他不常用组件，本版本自动绕过TPM bios检测，Admin版本可以实现不强制使用微软账号登录，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关于版本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不忘初心Win11精简版无更新版及可更新版：
+﹂纯净精简版 (常用功能都有推荐教新电脑适应win11用户)
+﹂深度精简版 (ESD格式，无Bitlocker语音识别TTS等功能)
+不忘初心美化版Win11 11无更新精简版：太阳谷图标风格
+不忘初心游戏版Win11 11无更新精简版：集成游戏运行库&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;• 此版不能更新补丁
+• 纯净 无任何第三方软件。
+• 自动跳过硬件检测，去除不满足安装条件，老爷机也能安装。
+• 追求稳定、没有过度优化，可以正常办公。
+• 需要用到指纹和人脸识别的，请用自建账户，Admin原生不支持；
+• 总共优化170多项系统设置，禁用后台40多项系统不常用服务，系统流畅更胜一筹。
+• 优化后台进程首次开机大约60个进程左右；
+• 恢复Internet Explorer浏览器，开始菜单—所有应用 中可以打开。
+• 独家修复恢复IE后 internet选项无法打开问题.
+• 独家解决任务栏透明软件失效问题，此版本可正常使用TranslucentTB、TrayS等任务栏透明软件。
+• 提供“恢复WIN10经典右键.cmd”和“恢复WIN11原版右键.cmd”。
+• 避免以后升级到更高版本的系统，所有网络已经设置为按流量计费，检查更新后 下载补丁需经过你同意，但不影响系统给设备打驱动功能;
+• 提供“禁止系统自动安装驱动.reg” ,不需要系统自动打驱动的 请安装系统后 立即导入即可;
+• 系统恢复界面添加高级启动选项
+• 使用Compact OS释放空间，C盘占用空间可减少2G左右
+• 电源模式新增 卓越、高性能、节能3种模式
+• 高级电源设置USB选择性暂停 已禁用 避免有些USB设备断电
+• 禁用休眠文件，可减少C盘体积，如需开启 请使用管理员运行CMD命令：powercfg /hibernate on
+• 默认关闭7G预留空间。（如果有）
+• 集成Microsoft .NET Framework 3.5
+• IE主页默认设置为百度，原版是先打开微软再跳转百度。
+• 提供 Windows store商店安装包，可以随意安装卸载;
+• 提供 WindowsCamera相机APP安装包，可以随意安装卸载;
+• 提供 Microsoft.WindowsTermina 终端 安装包可以随意安装卸载;
+• 提供 Microsoft Edge程序安装包;
+• 提供 Xbox完整安装包，可以随意安装卸载;
+• 提供 OneDrive程序安装包;
+• 提供 WUB_1.7彻底关闭系统更新工具
+• 提供 微软常用运行库合集 安装包
+• 右键添加 用记事本打开
+• 右键添加 管理员取得所有权
+• 右键添加 复制文件路径
+• 右键添加 复制文件夹路径
+• 右键添加 在此处打开命令行&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;系统集成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;.NET Framework 3.5&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;保留组件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[无更新版]
+打印、蓝牙、指纹、共享、防火墙、微软账户、搜索、画图、截图、照片uwp、计算器uwp、远程桌面
+BitLocker、WMP、IE浏览器、IIS 、NFS 、hyper、Linux、Telnet、旧版组件 、屏幕投影、平板模式&lt;/p&gt;
+&lt;p&gt;[可更新版]
+语音识别TTS、Defender、打印、蓝牙、相机、指纹、安全中心、共享、微软账户、搜索、计算器、屏幕投影、平板模式
+BitLocker、远程桌面、IIS 、NFS 、超级终端、IE浏览器、画图、照片、截图、防火墙、WMP、旧版组件 、Linux、Telnet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;优化调整&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其它优化项目共140项
+#启用系统管理员账户（仅Admin版）
+#隐藏小娜图标
+#任务栏搜索仅显示图标
+#锁定任务栏
+#隐藏任务视图按钮
+#隐藏任务栏上的人脉
+#开始菜单关闭最近打开的项目
+#关闭任务栏搜索上面的新闻要点
+#任务栏隐藏聊天
+#任务栏隐藏小组件
+#账户控制UAC调整为从不通知
+#关闭Smartscreen应用筛选器
+#禁用Windows Defender
+#关闭锁屏界面的windows聚焦
+#优化视觉效果以及开关机动画效果
+#不允许在开始菜单显示建议
+#关闭“突出显示新安装的程序”
+#关闭商店应用推广
+#禁止自动安装推荐的应用程序
+#关闭锁屏时的Windows 聚焦推广
+#关闭Windows Ink推广应用
+#关闭游戏录制
+#关闭“当我玩游戏时在后台录制”，开启此功能会影响游戏质量
+#登陆界面默认打开小键盘
+#在桌面显示“此电脑”
+#在桌面显示“控制面板”
+#打开资源管理器时显示此电脑”
+#显示所有文件扩展名
+#显示隐藏的文件
+#创建快捷方式时不添快捷方式文字
+#默认关闭7G预留空间
+#关闭应用自动备份
+#禁止自动播放
+#禁用NTFS链接跟踪服务
+#在单独的进程中打开文件夹窗口
+#资源管理器快速访问不显示常用文件夹
+#隐藏资源管理器导航窗口中的收藏夹
+#隐藏资源管理器导航窗口中的可移动设备
+#资源管理器快速访问不显示最近使用的文件
+#资源管理器窗口最小化时显示完整路径
+#隐藏资源管理器窗口中的库
+#隐藏资源管理器窗口中的可移动设备
+#禁用可执行文件的“兼容性疑难解答”右键菜单
+#禁用磁盘的“以便携方式打开“右键菜单
+#禁用新建的“联系人”右键菜单
+#禁用文件、磁盘以及属性的“还原以前版本”右键菜单
+#禁用所有对象的“共享”右键菜单
+#禁用文件、目录、桌面、磁盘以及库的“授予访问权限”右键菜单
+#禁用图片文件的“使用 3D画图编辑”右键菜单
+#禁用MediaPlaye首次使用对话框
+#禁用MediaPlaye自动更新
+#禁用MediaPlaye播放时屏保
+#禁用MediaPlaye媒体共享
+#Internet Explorer 关闭多个选项卡时不发出警告
+#Internet Explorer 当创建新选项卡时，始终切换到新选项
+#Internet Explorer 其他程序从当前窗口的新选项卡打开连接
+#Internet Explorer 关闭建议的网站
+#Internet Explorer 跳过IE首次运行自定义设置
+#Internet Explorer 不保存附件的区域信息
+#Internet Explorer 启用增强保护模式
+#Internet Explorer 针对增强保护模式启用64位进程
+#Internet Explorer 锁定工具栏
+#Internet Explorer 将同时可用下载数目调整到 10
+#Internet Explorer 遇到弹出窗口时始终在新选项卡中打开弹出窗口
+#Internet Explorer 关闭自动更新
+#Internet Explorer 隐藏IE笑脸帮助按钮
+#禁用客户体验改善计划
+#微软拼音默认为英文输入
+#关闭微软拼音云计算
+#记事本启用自动换行
+#记事本始终显示状态栏
+#关闭远程协助
+#禁用程序兼容性助手
+#禁用休眠
+#使计算机进入睡眠状态设置为 从不
+#Windows更新不包括恶意软件删除工具
+#Windows更新不包括驱动程序
+#更新挂起时如果有用户登录不自动重启计算机
+#将Windows Update自动更新调整为从不推荐
+#启用 Windows 照片查看器
+#蓝屏时自动重启
+#禁用 当注销时自动保存我的重启的应用 APP，在我再次登录时重新打开这些 应用 APP
+#关闭传递优化该功能可以把下载的更新文件发送到局域网其他电脑上，没什么大作用。
+#关闭咨询和兴趣
+#优化局域网连接
+#优化网络参数设置，提高网络连接稳定性
+#优化网络快速转发机制，提高上网速
+#关闭系统自动调试功能，提高系统运行速度
+#加大系统的图标缓冲，提高系统开机速度
+#禁止系统自动生成错误报告，加快系统反应速度
+#关闭截图和草稿后台运行
+#关闭计算器后台运行
+#关闭照片后台运行
+#关闭记事本后台运行
+#关闭设置后台运行
+#关闭Microsoft.DesktopAppInstaller后台运行
+#关闭Microsoft.AAD.BrokerPlugin后台运行
+#关闭设置-系统-通知-其他设置 更新后以及登录后显示Windows 欢即体验以显示新增功能和建议内容
+#关闭设置-系统-通知-其他设置-在锁屏界面上显示提醒和 VolP 来电
+#关闭设置-系统-通知-当我使用Windows时获取提示和建议
+#关闭设置-系统-通知-建议我如何充分利用 windows 并完成设置此设备
+#禁用登录选项 当注销时自动保存我的重启的应用 APP，在我再次登录时重新打开这些 应用 APP
+#禁用Windows Defender 安全中心 – 所有通知
+#禁用Windows Defender 安全中心 – 非重要通知
+#禁用Windows Defender 篡改保护
+#禁用Windows Defender 警告用户使用微软账号的 Defender 账号保护
+#隐私选项 禁止 使用页面预测功能来提升阅读，提供浏览速度浏览数据会被发送到 Microsoft
+#隐私选项 禁止 允许 Windows 从此电脑中收集我的活动(活动历史记录”)
+#隐私选项 禁止 允许帮助提升用户体验
+#隐私选项 禁止 允许应用使用用户的广告标识符了解对各应用的体验
+#隐私选项 禁止 可让 Microsoft 通过使用你的诊断数据，提供更多的量身定制的相关提示和建议
+#隐私选项 禁止 向 Microsoft 发送有关我的写作习惯的信息，以便在将来改进键入与写入功能
+#隐私选项 禁止 在设置应用中为用户显示建议的内容
+#隐私选项 禁止 完成设备设置以充分利用Windows的建议方式
+#隐私选项 禁止 收集通讯录 让 Windows和小娜更好的了解你
+#隐私选项 禁止 收集键入文本让 Windows和小娜更好的了解你
+#隐私选项 禁止 自动安装建议的应用
+#隐私选项 禁止 自动安装赞助商的应用(客户体验）
+#隐私选项 禁止 自动连接到建议的开放热点
+#隐私选项 禁止 让 Skype(如果已安装) 帮助你联系地址中的好友并校验你的移动号码
+#隐私选项 通过 将用户的输入数据发送给 Microsoft 来个性化用户的语音输入，键盘输入和墨迹输入
+#隐私选项 禁止 键入见解
+#隐私选项 禁止 预安装 OEM 应用
+#隐私选项 禁止 预安装应用
+#隐私选项 禁止 收集语言和书写习惯
+#隐私选项 优化 遥测反馈频率改为“从不”
+#隐私选项 禁止 关闭查看诊断数据
+#隐私选项 关闭 反馈和诊断
+#隐私选项 关闭 在设置应用中为我显示建议的内容
+#隐私选项 关闭 在开始菜单显示建议
+#隐私选项 关闭 允许应用访问与其他应用有关的诊断信息
+#禁用计划任务 NET Framework
+#禁用计划任务 App列表备份
+#禁用计划任务 Windows 磁盘诊断会为加入客户体验计划的用户向 Microsoft 报告常规的磁盘和系统信息。
+#禁用计划任务 当系统处于无人参与模式时，将用户文件复制到备份位置以防意外丢失”
+#禁用计划任务 任务颜色校准设置
+#删除计划任务 验证WINRE环境
+#禁用计划任务 注册表空闲备份任务
+#禁用计划任务 内存诊断
+#禁用计划任务 DirectXDatabaseUpdater&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;文件信息&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;文件名称: 【不忘初心】Windows11_23H2_22631.3880_X64_纯净[深度精简版]&lt;a class=&#34;link&#34; href=&#34;2024.7.13&#34; &gt;1.35G&lt;/a&gt;.esd
+文件大小: 1.35 GB (1,453,704,860 字节)
+修改时间: 2024年07月13日，15:39:53
+MD5: 52D125D9252C8E0980AF9990727DCAA7
+SHA256: B1378604041B979003A6B285559994198431A552B7B2E169832DBFA9E262245E&lt;/p&gt;
+&lt;p&gt;文件名称: 【不忘初心】Windows11_23H2_22631.3880_X64_无更新[纯净精简版]&lt;a class=&#34;link&#34; href=&#34;2024.7.11&#34; &gt;2.3G&lt;/a&gt;.iso
+文件大小: 2.30 GB (2,471,067,648 字节)
+修改时间: 2024年07月12日，02:50:36
+MD5: F193A739A13045D22629B8EE2DCBDAB8
+SHA256: 3F97EE7501D681926E509037572F9E49BE62C6D47EF3402539A41E0D3A0C3CA6&lt;/p&gt;
+&lt;p&gt;文件名称: 【不忘初心】Windows11_23H2_22631.3880_X64_可更新[纯净精简版]&lt;a class=&#34;link&#34; href=&#34;2024.7.11&#34; &gt;3.64G&lt;/a&gt;.iso
+文件大小: 3.64 GB (3,910,205,440 字节)
+修改时间: 2024年07月12日，03:41:15
+MD5: 2D6924AC0FF5D2D49DE02DAEF71C77B4
+SHA256: AA8732BF3962B6894E76F48163454F134A83C7BE71647E5BAD6464F76D131092&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2c599f745d6b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2c599f745d6b&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>优启通VIP版 3.7.2024.0720 (启动盘制作) 绿色版</title>
+        <link>https://kooshare.github.io/post/youqitong/</link>
+        <pubDate>Tue, 13 Aug 2024 00:41:43 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/youqitong/</guid>
+        <description>&lt;p&gt;优启通VIP版(EasyU,简称EU)是IT天空打造的一款专业U盘启动盘制作工具,优启通工具采用U盘三分区方案,支持BIOS(Legacy)与UEFI双启动模式,在支持主流硬件基础上,同时兼容早期多数旧硬件.整合各种装机必备工具,并结合IT天空数款自研软件,有效提高系统安装效率.U盘PE所在分区于系统下自动隐藏,PE区与数据区分别独立,便于使用者对数据的各项操作.优启通WinPE系统定位于一线装机技术员,系统工程师和系统维护人员.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.rjcxb.com/img/cover/windows/395/01.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;优启通VIP版(EasyU) 最新版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;功能特点&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1）U盘模式：一键全新制作, 支持免格升级, UD/EFI分区, 个性化启动菜单, 模拟测试
+2）本地模式：将PE写入当前系统盘符, 支持BLOS/UEFI引导, 安装PETools/Dlc扩展包
+3）生成ISO：生成PE的ISO镜像,可用于量产,虚拟机;可选UDF/PETools/Dlc扩展包,可选引导菜单样式
+4）分区管理：这辅助功能,用于检查及修复U盘,创建磁盘分区操作,文件信息, 如:UD区信息,安装信息等
+5）高级选项：UD/EFI分区,本地模式,ISO-BLOS/EFI,2003PE/Win10PE,各种加载命令,磁盘检测模式等&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;3.7.2024.0720
+更新 – Intel RST VMD 20.1.0.1013 64位
+更新 – DiskGenius 5.6.0.1565
+更新 – FastCopy 5.7.14
+更新 – 傲梅分区助手 PartAssist 10.2.0&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特别提醒&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.下载解压后，请运行EasyU主程序进行制作；
+2.请预先准备好U盘或者移动硬盘，推荐标配16G或以上；
+3.请尽可能选择速度和性能好的U盘，某些较差的控制芯片的U盘可能导致制作失败；
+4.请在制作前备份U盘内重要数据，避免出现不必要的问题；
+5.个别杀软会将主程序或PE内工具软件报毒，还请理性判断；
+6.移动硬盘USB转接芯片的优劣，将导致制作成功与否或可否正常启动。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/828138aeadd2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/828138aeadd2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>杏雨梨云启动维护系统2024端午版v4 (杏雨梨云PE) 绿色版</title>
+        <link>https://kooshare.github.io/post/xingyuliyun/</link>
+        <pubDate>Tue, 13 Aug 2024 00:40:18 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/xingyuliyun/</guid>
+        <description>&lt;p&gt;杏雨梨云USB维护系统是一款知名的老牌U盘启动系统制作工具,杏雨梨云启动维护系统2024端午版提供个人开发的第十代 IQI X Windows 一键安装系统工具及OBR 一键备份&amp;amp;一键还原,IQI一键分区等人性化功能.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;含标准版、精简版、备选组件
+V4更新：
+1、更新XLoad v9.0.8.16；
+2、优化新硬件的驱动处理逻辑。
+1、更新Windows 11 PE x64 22631.2715；
+2、更新Windows 10 PE x64 19045.3693；
+3、更新IQI X Windows 一键安装 v10.0.3.1626；
+4、更新安装制作程序 v20.23.12.10；
+5、更新PE装载程序XLoad v9.0.6.8；
+6、更新部分驱动(如VMD)和组件；
+7、优化对新平台的兼容性；
+8、新增可使用U盘存储区Desk_PE目录自定义随机壁纸；
+9、新增启用网络后可一键HTTP或FTP共享本机分区；
+10、更新7-zip v23.1.0.0；
+11、更新Imagine v1.3.6.0；
+12、更新Diskgenius Free v5.5.1.1508；
+13、更新Partassist分区助手 v10.2.1.0；
+14、更新Ultraiso v9.7.6.3829；
+15、更新WinUnlocker v2.1.0.6357；
+16、更新Google Chrome v80经典版；
+17、更新LinuxReader v4.18.1.0；
+18、更新R-studio v9.3.191.259；
+19、更新Winhex v20.8.0.0；
+20、更新Winntsetup v5.3.3.0；
+21、更新Aida64 v7.0.6700.0；
+22、更新DiskInfo v9.2.1.0；
+23、其他调整不再一一列明。&lt;/p&gt;
+&lt;p&gt;关闭杏雨梨云启动维护系统的广告步骤：
+关于程序-设置退出程序时推送广告关闭&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/61f6808db48c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/61f6808db48c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>蜂鸟PE 2.4.1 (PE系统) 绿色版</title>
+        <link>https://kooshare.github.io/post/fengniaope/</link>
+        <pubDate>Tue, 13 Aug 2024 00:38:44 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/fengniaope/</guid>
+        <description>&lt;p&gt;蜂鸟PE使用批处理构建，WimBuilder2 处理注册表整合而成的维护PE，是一个以维护为目的的PE，励志做一个安全、小巧、稳定、流畅、可靠的WinPE。蜂鸟PE，小而强悍的WinPE维护系统，支持：笔记本电量显示、Bitlocker、Linux分区、VHD虚拟磁盘 等功能。&lt;/p&gt;
+&lt;h2 id=&#34;pe特点&#34;&gt;PE特点
+&lt;/h2&gt;&lt;p&gt;• 精简的文件内核与注册表
+• 减少对内存的占用
+• 全面的维护工具
+• 透明无加密的系统文件
+• 不接受任何形式的软件捆绑
+• 干净清晰的维护体验&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/3f8169cf24e0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/3f8169cf24e0&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows 11 22H2 Build 22621.2506 RTM ISO镜像</title>
+        <link>https://kooshare.github.io/post/rtm22621/</link>
+        <pubDate>Tue, 13 Aug 2024 00:36:36 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/rtm22621/</guid>
+        <description>&lt;p&gt;微软Win11系统下载,微软Win11 22H2正式版,微软Win11 Build 22621正式版,微软Windows 11 22H2正式版,Windows 11 22H2官方正式版首个初始版的微软原版ISO镜像于2022年9月推出,系统版本为22H2,OS内部版本为22621,软件超小杯提供的Win11系统为微软官方原版集成累积更新的完整版ISO镜像.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.rjcxb.com/img/cover/windows/274/01.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Windows 11 22H2 Build RTM&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;UUP dump（第三方查询下载页面）
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly91dXBkdW1wLm5ldC8/bGFuZz16aC1jbg==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://uupdump.net/?lang=zh-cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Windows 11 – 版本信息 | Microsoft Docs
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vemgtY24vd2luZG93cy9yZWxlYXNlLWhlYWx0aC93aW5kb3dzMTEtcmVsZWFzZS1pbmZvcm1hdGlvbg==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.microsoft.com/zh-cn/windows/release-health/windows11-release-information&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2023年10月26号累积更新发布 Windows 11 Version 22H2 with Update [22621.2506]&lt;/p&gt;
+&lt;p&gt;10月累积更新正式版 (KB5031455) Windows 11 22H2 (OS build 22621.2506) Update
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vemgtY24vaGVscC81MDMxNDU1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/zh-cn/help/5031455&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[Windows 11 NI-22H2]22621.2506 原版集成映像 23年10月第2次更新 – ananhaid&lt;/p&gt;
+&lt;p&gt;● 13合1：直接选取所需版本即可安装，也支持安装之后使用其他密钥转换版本，包含版本为：
+﹂家庭版、专业版、企业版、教育版、专业工作站版、专业教育版、家庭单语言版、家庭中文版
+﹂企业版多会话、IoT 企业版、SE版、专业单语言版、专业中文版（总共13个版本映像生成ISO）&lt;/p&gt;
+&lt;p&gt;– 这里发布的是官方MSVS渠道版前面8个版+转换后的5个版，总共13个集成发布
+– 没有添加任何三方数据，母盘选用的NI-22H2（22621.525）官方ISO镜像制作
+– 使用工具只有DISM，没有删减任何内容，完全原版。系统镜像ESD格式生成ISO&lt;/p&gt;
+&lt;p&gt;● 集成功能和更新补丁：&lt;/p&gt;
+&lt;p&gt;集成功能：
+.net framework 3.5、.net framework 4.8.1&lt;/p&gt;
+&lt;p&gt;集成补丁：
+KB5031455（23年10月累积更新 22621.2506）（10月27日）
+KB5031817（23年10月 .net 累积更新）（10月27日）&lt;/p&gt;
+&lt;p&gt;原版 ISO 内置的密钥无改动，有数字权利的安装之后记得改成公共密钥（\sources\product.ini）
+关于品牌机，为了跳过读取板载随机附送操作系统版本从而没有版本选择，已在 sources 目录内添加 ei.cfg 文件，比如机器默认为家庭中文版，全新安装会时会有选择版本菜单。如有其他需求请网络搜索。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Windows 11 22H2 原版集成2023年10月份累积更新完整ISO镜像13合1 – Ananhaid (2023/10/27)
+::Windows 11 version 22H2(OS build 22621.2506) x64 AIO 13in1 Oct 2023 zh-CN – Ananhaid&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6c05702c0a8b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6c05702c0a8b&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows11 Win11 22H2 22621.2215 小修深度精简版</title>
+        <link>https://kooshare.github.io/post/xiaoxiushendu22621/</link>
+        <pubDate>Tue, 13 Aug 2024 00:34:01 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/xiaoxiushendu22621/</guid>
+        <description>&lt;p&gt;小修精简Win11系统最新正式版,小修Win11 22H2精简版,小修Win11 22H2深度精简版,小修Windows 11 22H2深度精简版,小修精简Win11 Build 22621正式版,小修系统Win11精简版专业版二合一无更新版.小修精简系统下载,小修Win11精简版系统提供轻度精简版,中度精简版,深度精简版,极限稳定版,太阳谷风格美化版.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关于版本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;小修Win11精简版,小修Windows 11纯净精简版二合一无更新版：
+﹂轻度精简版 (保留Hyper-v/面容/平板等功能，可选恢复语音TTS)
+﹂中度精简版 (无edge默认IE浏览器，保留打印/笔记本指纹等功能)
+﹂深度精简版 (无平板触屏功能，保留打印/笔记本指纹/Bitlocker等)
+﹂极限精简版 (适合较旧的电脑，支持指纹和平板，可选恢复语音TTS)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Win11 22H2 Build 22621 正式版，小修 Win11 22H2 精简版&lt;/p&gt;
+&lt;p&gt;小修 Windows 11 Pro 22621.2215 深度精简版 二合一[1.35G]&lt;/p&gt;
+&lt;p&gt;小修Win11 22H2深度精简版，不支持在线更新补丁无更新版
+– 关闭Windows更新不包括驱动 更新不包括恶意软件删除工具
+– 集成.NET Framework 3.5 (仅限Windows转换程序) 旧版组件
+– 集成更新后运行清理（仅限Windows转换程序）后期封装制作
+– 添加桌面右键个性化快捷方式，深度精简版无内置Edge浏览器&lt;/p&gt;
+&lt;p&gt;一、版本特色&lt;/p&gt;
+&lt;p&gt;无广告、右键设置、低延迟、低占用、集成微软常用运行库合集、DX
+默认可网络连接打印、IE版也保留了商店(需手动打开window Up服务)&lt;/p&gt;
+&lt;p&gt;二、主要保留&lt;/p&gt;
+&lt;p&gt;User版本 4.97G / [自建账户]
+共享、计算器、打印、空间音效、看图、截图、Net3.5 – 4.8、光学、搜索、指纹、剪贴板、轻松访问
+IE、ODBC、简体输入法、蓝牙、wifi、xbox驱动、语音识别、远程桌面、画图、Mstsc、注册表、WMP&lt;/p&gt;
+&lt;p&gt;User安装完毕 C盘占用4.5G左右 首次进入桌面进程优化控制在55左右浮动&lt;/p&gt;
+&lt;p&gt;Admin版本 4.97G / [快速安装]&lt;/p&gt;
+&lt;p&gt;相比User一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/p&gt;
+&lt;p&gt;三、文件信息&lt;/p&gt;
+&lt;p&gt;小修Win11 22H2深度精简版二合一 (2023年8月更新正式版)&lt;/p&gt;
+&lt;p&gt;文件: H:\Windows 11 Pro 22621 2215 2in1 深度精简版 小修.esd
+大小: 1458335706 字节
+修改时间: 2023年8月23日, 12:21:31
+MD5: 4086149317A6458A0F90B397701AAF9B
+SHA1: 12A5031BB823312021622BBC1399C04B134BB08A
+CRC32: 907A6CE8&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/290c3091bb38&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/290c3091bb38&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows11 Win11 22H2 22621.2215 小修轻度精简版</title>
         <link>https://kooshare.github.io/post/xiaoxiu22621/</link>
         <pubDate>Tue, 13 Aug 2024 00:19:14 +0800</pubDate>
