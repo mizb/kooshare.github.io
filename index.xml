@@ -7,7 +7,42 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 13 Aug 2024 10:45:14 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 13 Aug 2024 10:52:51 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>微信公众号自定义菜单栏添加历史消息方法</title>
+        <link>https://kooshare.github.io/post/mplishixiaoxi/</link>
+        <pubDate>Tue, 13 Aug 2024 10:52:51 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/mplishixiaoxi/</guid>
+        <description>&lt;p&gt;1.在浏览器中打开自己公众号的一篇推送，&lt;code&gt;Ctrl+U&lt;/code&gt;查看网页源代码。
+2.&lt;code&gt;Ctrl+F&lt;/code&gt;搜索&lt;code&gt;var biz&lt;/code&gt;,复制对应的代码&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/3hmiufPacKSyGdX.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;在这里插入图片描述&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;3.前面加上&lt;code&gt;https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;amp;__biz=&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;**完整路径为：**&lt;a class=&#34;link&#34; href=&#34;https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;amp;__biz=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=&lt;/a&gt;这里是你的varbiz&lt;/p&gt;
+&lt;p&gt;4.添加历史消息&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/xhvqgkO8sFJZeja.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;在这里插入图片描述&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;历史消息添加成功&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>应用管家TV版(1.4.2版本),电视应用管理,内置网盘下载</title>
         <link>https://kooshare.github.io/post/yingyongguanjia/</link>
         <pubDate>Tue, 13 Aug 2024 10:45:14 +0800</pubDate>
