@@ -7,7 +7,675 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 13 Aug 2024 14:09:04 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 13 Aug 2024 14:28:09 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>酷安 13.0.1 集成FuckCoolapk模块去广告版</title>
+        <link>https://kooshare.github.io/post/kuan13/</link>
+        <pubDate>Tue, 13 Aug 2024 14:28:09 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/kuan13/</guid>
+        <description>&lt;p&gt;酷安,真实有趣的数码社区.酷安app是一款国内安卓应用市场客户端,酷安安卓最新版的应用资源丰富,应用开发者水准高,应用无首发Logo,原汁原味上架,得到了安卓用户群广泛认可.有人说现在的酷安市场(酷安网)没有以前那么纯粹了,已经转型社区化,加入了各种资讯引流,手机评测等植入广告,对用户评论的管理也更加严格.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/dIj43Hh.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813142831868&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;酷安集成FuckCoolapk自定义去广告插件版
+FuckCoolapk / Coolapk with FuckCoolapk&lt;/p&gt;
+&lt;p&gt;FuckCoolapk R – Xposed Module Repository
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9tb2R1bGVzLmxzcG9zZWQub3JnL21vZHVsZS9vcmcuaGVsbG8uY29vbGFwaw==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://modules.lsposed.org/module/org.hello.coolapk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2023.04.05 FuckCoolapk R v1.16.5 RC&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;修复一个空指针错误导致模块加载失败&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;* 反馈请带LSPosed日志(确保打开了Debug日志输出)&lt;/p&gt;
+&lt;p&gt;2023.01.27 FuckCoolapk R v1.16.4 正式版&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;新增本地标签(Tag)黑名单&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;最近更新&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;新增本地话题黑名单&lt;/li&gt;
+&lt;li&gt;修复开启去除信息流广告后仍然显示开屏广告的问题&lt;/li&gt;
+&lt;li&gt;增加关闭输出Debug日志的开关&lt;/li&gt;
+&lt;li&gt;为部分DexKit寻找的方法增加缓存&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;2023.01.13 FuckCoolapk R v1.16.1 正式版&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;优化Apk大小&lt;/li&gt;
+&lt;li&gt;修复一个会导致闪退的问题&lt;/li&gt;
+&lt;li&gt;Apk可同时用于打包LSPatch版本&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;2022.12.27 FuckCoolapk R v1.16 正式版&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;本地用户黑名单 – new&lt;/li&gt;
+&lt;li&gt;云控去除广告 – new&lt;/li&gt;
+&lt;li&gt;修复去除审核水印的一个bug&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;13.0全新去广告纯净版
+– 脱壳去除了签名校验
+– 去除开屏广告，秒启动!
+– 去首页顶部区域（滚动横幅）
+– 去信息流广告、去帖子下方广告
+– 去搜索页面元素：热门搜索词、各种热榜
+– 去发布页面元素：二手, 扫一扫, 话题, 好物/单
+– 更改首页「发布」按钮移至首页底栏的中间位置
+– 去更新提示弹窗，移除无用权限，防止链接追踪&lt;/p&gt;
+&lt;p&gt;新修改解决了官方升级导致旧改版无法看评论问题！&lt;/p&gt;
+&lt;p&gt;应用大小：55.8MB
+应用架构：arm64-v8a
+应用版本：13.0.1(2301171)
+应用包名：com.coolapk.market
+编译日期：2023年11月18日, 17:27:46&lt;/p&gt;
+&lt;p&gt;酷安v13.0.1脱壳集成FuckCoolapkR1.16.5
+应用大小：63.2MB
+应用架构：arm64-v8a
+应用版本：13.0.1(2301171)
+应用包名：com.coolapk.market
+编译日期：2023年4月6日, 11:16:26&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7ce8bc6ec168&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/7ce8bc6ec168&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>太极 14.0.6 (免ROOT虚拟框架) 官方版</title>
+        <link>https://kooshare.github.io/post/taiji/</link>
+        <pubDate>Tue, 13 Aug 2024 14:26:45 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/taiji/</guid>
+        <description>&lt;p&gt;太极app是一个帮助你免Root,免解锁免刷机使用Xposed模块的APP框架.模块通过它改变系统和应用的行为,既能以传统的 Root/刷机方式运作,也能免Root/ 免刷机运行;并且它支持 Android 5.0 ~ 13.简单来说,太极虚拟框架就是个虚拟Xposed框架,能够加载Xposed模块,修改系统和内置APP,拦截方法,执行hook逻辑等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/zWDkMbB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813142707850&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;# 太极独有的特性：&lt;/p&gt;
+&lt;p&gt;– 太极完美支持包括 Android 5.0~13 在内的几乎所有机型（如华为、三星、小米，Oppo和 Vivo 等手机)
+– 太极能以免 Root/免刷机模式运行（无需 Root 也可以体验各种插件的强大功能，有 Root 之后也能解锁更多的能力）
+– 太极不影响全局。可以只对特定的应用开启 Xposed 功能，无需使用 Xposed 的 APP 运行起来就跟系统没有 Xposed 一样；这意味着太极能轻松绕过 SafetyNet 检测，完美契合某些金融/银行/奇葩类 APP。
+– 在大部分情况下，太极中的模块无需重启即刻生效。
+– 太极更不易被检测。太极的弱侵入特性不再修改 ART 运行时，也不在全局环境中留下任何踪影；因此只要想要做到，可以轻松逃过各种代码类型的检测。&lt;/p&gt;
+&lt;p&gt;# 什么是太极·阳？&lt;/p&gt;
+&lt;p&gt;太极·阴是普通版，太极·阳是增强版，普通版无法作用系统APP，且大部分Xposed模块不能免ROOT加载
+太极·阳Magisk卡包 借助 magisk 模块注入系统，从而可以作用所有 APP，实现Xposed框架的完整功能。&lt;/p&gt;
+&lt;p&gt;# 与太极·阴区别？&lt;/p&gt;
+&lt;p&gt;1.太极·Magisk 可以拦截系统，因此可以额外支持系统级别的 Xposed 模块；如边缘手势/核心破解/绿色守护/应用控制器等。
+2.太极·Magisk 不需要修改 APP，因此可以做到 秒添加 APP；再也不用烦心地等待。
+3.由于 太极·Magisk 不再需要修改 APP，因此 可以完美解决 微信/QQ 等应用无法被其他应用识别的问题。
+4.太极·Magisk 有能力对系统做更多地控制，因此可以做到更加稳定&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;太极APP官方下载页面
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly90YWljaGkuY29vbC96aC9kb3dubG9hZC5odG1s&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://taichi.cool/zh/download.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;太极Xposed模块下载中心（收集的各种模块，大部分已不兼容）
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly90YWljaGkuY29vbC96aC9tb2R1bGUv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://taichi.cool/zh/module/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;注意：如果需要激活Magisk模式，手机需要解锁+已ROOT权限
+然后刷太极阳Magisk卡包 (magisk-taichi-v7.x)配合太极APP用&lt;/p&gt;
+&lt;p&gt;2023.11.12 v14.0.6.11081404&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;大幅优化Android 12及以上系统的性能&lt;/li&gt;
+&lt;li&gt;修复Android 14系统太极阴闪退的问题&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;最近更新：
+– 支持 Android 14&lt;/p&gt;
+&lt;p&gt;应用大小：9.62MB
+应用架构：arm64-v8a
+应用包名：me.weishu.exp
+更新日期：2023年11月14号发布
+应用版本：14.0.6.11081404(14005)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6266b5e3b8d5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6266b5e3b8d5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>设备信息 DeviceInfo 2.9.6 (硬件参数) 去广告版</title>
+        <link>https://kooshare.github.io/post/shebeixinxi/</link>
+        <pubDate>Tue, 13 Aug 2024 14:25:35 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/shebeixinxi/</guid>
+        <description>&lt;p&gt;设备信息app(DeviceInfo手机参数app)是一款评分不错的查看手机硬件参数信息的安卓设备硬件检测工具,设备信息工具可以全面查看手机各种信息,包括:Android系统版本详细信息,芯片CPU处理器的详细信息,全球卫星定位,测试功能,硬件温度,屏幕检测,电池信息,实时传感器,网络信息,手机设备各个功能测试等功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/aLuueYi.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813142558529&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;• 手机概述：Android设备信息
+• 系统信息：Java虚拟机、系统信息、网络信息
+• 芯片信息：CPU处理器、GPU、RAM详细信息
+• 卫星定位：北斗/GPS等全球卫星分布图和定位
+• 硬件温度、屏幕检测、电池信息、实时传感器信息
+• 应用程序详细信息、内部存储和系统存储及外部存储&lt;/p&gt;
+&lt;p&gt;2023.10.28 v2.9.6&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;添加账号体系/付费Pro版（酷安版依旧保留‘关闭广告’开关），10月25日以前赞赏过的用户(无论金额多少)均可凭付款截图(需包含单号)发送邮件给开发者领取Pro版兑换码。&lt;/li&gt;
+&lt;li&gt;Target Api 33&lt;/li&gt;
+&lt;li&gt;支持显示充电功率&lt;/li&gt;
+&lt;li&gt;优化设备名称、芯片数据匹配逻辑&lt;/li&gt;
+&lt;li&gt;适配鸿蒙API9版本信息获取&lt;/li&gt;
+&lt;li&gt;其他bug修复和体验优化&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;by 黑鹰 (lxapk)
+基于国内版，解锁免广告付费Pro版&lt;/p&gt;
+&lt;p&gt;应用大小：9.39MB
+应用版本：2.9.6.3(284)
+应用包名：com.liuzh.deviceinfo
+编译日期：2023年11月09日，13:06:24
+应用架构：Universal (ARM7a, ARM64-8a, x86, x86-64)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/bbab6a0dfbc0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/bbab6a0dfbc0&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>万兴PDF 4.6.7 解锁内购去广告版</title>
+        <link>https://kooshare.github.io/post/wanxingpdf/</link>
+        <pubDate>Tue, 13 Aug 2024 14:24:22 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/wanxingpdf/</guid>
+        <description>&lt;p&gt;万兴PDF手机版(万兴PDF编辑器)是一款国产PDF编辑工具.万兴PDF安卓版提供PDF文档编辑,AI撰写摘要,文档签名,设置密码保护等功能,万兴PDF专家APP以简约风格及文档编辑功能为核心,支持多设备终端同步保存.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/sF94mZH.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813142446216&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;by 辰夕
+– 万兴pdf手机版,万兴pdf app会员版,万兴pdf安卓破解版
+– 破解免授权VIP黄金会员：免广告，无限制使用所有功能&lt;/p&gt;
+&lt;p&gt;应用大小：46.4MB
+应用架构：arm64-8a
+应用版本：4.6.7(406070)
+编译日期：2023年11月07日,23:14:36
+应用包名：com.wondershare.pdfelement&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d7c474b5cef7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d7c474b5cef7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AppShare 3.1.0 (app分享应用市场) 去广告版</title>
+        <link>https://kooshare.github.io/post/appshare/</link>
+        <pubDate>Tue, 13 Aug 2024 14:22:48 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/appshare/</guid>
+        <description>&lt;p&gt;App分享(AppShare)是一款由个人开发功能纯粹的安卓应用市场客户端,应用资源丰富,每天实时更新,版本更新速度挺快,应用无首发Logo,原汁原味上架应用,所有应用文件解析采用蓝奏云下载链接和官方下载链接.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/wIaIVOb.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813142312647&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2023-11-08 3.1.0(322)
+– 新增官方网盘下载流量包&lt;/p&gt;
+&lt;p&gt;2023-10-27 22:15:20 V3.0.9(321)
+事新框架
+新增设置-高级设香-更新应用自动填写信息
+新增「功能1Tab搜索框
+优化部分页面UI
+优化资源页展示效果
+新增功能页，资源页、应用事新及忽略页的横屏话配
+广告适配Android14
+新增功能页举报及处理
+新增火星救援页面赞，踩及评论
+默认不显示备用高防线路，其余线路不可用时才显示
+修复选择文件上传无后缀或后缀为apk的bug
+修复无法手动选择zip及apks的bug
+修复看视频不增加次数的bg
+修复官方网盘上传失败的bug
+修复关闭网络缓存后部分请求仍会缓存的bug&lt;/p&gt;
+&lt;p&gt;带Pro是官方提供的专业版，&lt;/p&gt;
+&lt;p&gt;没有启动广告，体积小很多！&lt;/p&gt;
+&lt;p&gt;应用大小：27.1MB
+应用版本：3.1.0(322) 正式版
+应用包名：info.muge.appshare
+应用架构：arm64-v8a,armeabi-v7a&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;by 帝落
+1.去除开屏、插入广告等
+2.半免广告获得奖励
+3.去除任务中心观看广告间隔时间&lt;/p&gt;
+&lt;p&gt;应用大小：25.6MB
+应用版本：3.0.7(315)
+应用包名：info.muge.appshare
+应用架构：arm64-v8a,armeabi-v7a
+编译时间：2023年8月12日, 1:34:48&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AppShare v3.1.0 官方正式版 + 专业版/ v3.0.7 去广告共存版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/26c7b6edf95b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/26c7b6edf95b&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>WPS Office Pro 13.37.6 (含激活密钥) 官方版</title>
+        <link>https://kooshare.github.io/post/wpspro/</link>
+        <pubDate>Tue, 13 Aug 2024 14:21:31 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/wpspro/</guid>
+        <description>&lt;p&gt;金山WP安卓版(WPS Office for Android)wps专业版安卓版采用黑金图标,干净无广告,有登陆及WPS云服务功能,无模板皮肤等付费功能,应用权限少,隐私较严格,免升级无更新提示.WPS Office移动专业版,允许根据用户需求进行功能定制.同时,拥有开放的App接口可以与现有系统对接,利用低成本完成高效办公需求.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/X4929Hl.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813142154324&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;金山WPS移动版，安卓版WPS下载
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9tby53cHMuY24vcGMtYXBwL29mZmljZS1wcm8uaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://mo.wps.cn/pc-app/office-pro.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;# WPS Office移动专业版和个人免费版有什么区别？
+个人版：有各种广告及会员增值服务、有升级提示弹窗
+专业版：纯净无广告，可选关闭底栏应用、无升级提示
+WPS移动专业版需要购买，产品密钥激活原价998元/套&lt;/p&gt;
+&lt;p&gt;v11.4.1版本图标为红色，使用激活密钥激活功能更完整！&lt;/p&gt;
+&lt;p&gt;应用大小：72.7MB
+应用架构：armeabi-v7a
+应用版本：13.37.6(1486)
+更新日期：2023年10月15号更新
+应用包名：com.kingsoft.moffice_pro&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;激活密钥&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#WPS Office移动专业版通用激活密钥：
+R8R8P-MTT6F-KLRPM-J7CAB-PJM8C
+7LR67-WTXPA-KLUHV-GEK2E-QW4CK
+EUYTH-3KWKL-PJMX7-XBCPW-9U2DD
+THUV2-32HH7-6NMHN-PTX7Y-QQCTH
+A4XV7-QP9JN-E7FCB-VQFRD-4NLKC
+U2PWU-H7D9H-69T3B-JEYC2-3R2NG
+7G2HE-JR8KL-ABB9D-Y7789-GLNFL
+9DP6T-9AGWG-KWV33-9MPC8-JDCVF&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;WPS专业版WPS Office Pro v13.37.6 官方版及激活密钥&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9fafa029011d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9fafa029011d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>哔哩漫游 1.7.0 (B站bilibili哔哩哔哩去广告模块) 官方版</title>
+        <link>https://kooshare.github.io/post/bilimanyou/</link>
+        <pubDate>Tue, 13 Aug 2024 14:20:17 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/bilimanyou/</guid>
+        <description>&lt;p&gt;哔哩漫游是一款解除哔哩哔哩app番剧相关限制的Xposed模块插件,其它功能包括:自定义去广告功能,精细的优化设置.加载该哔哩哔哩漫游版插件,能完美移除B站安卓版各种广告和自定义功能,从而彻底净化应用.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/UEsUQDt.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813142040309&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;哔哩漫游/BiliRoaming – Xposed Module Repository
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9tb2R1bGVzLmxzcG9zZWQub3JnL21vZHVsZS9tZS5pYWNuLmJpbGlyb2FtaW5n&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://modules.lsposed.org/module/me.iacn.biliroaming&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Home · yujincheng08/BiliRoaming Wiki
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL3l1amluY2hlbmcwOC9CaWxpUm9hbWluZy93aWtpI&amp;#43;S9v&amp;#43;eUqOaWueazlQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/yujincheng08/BiliRoaming/wiki#使用方法&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;# 哔哩漫游激活隐藏功能-&amp;gt;自定义去广告步骤：
+首先点五下哔哩哔哩漫游界面的「关于版本」 ，然后重启哔哩哔哩客户端
+继续进入哔哩哔哩漫游界面，下拉就看到隐藏功能（各种去广告净化功能）&lt;/p&gt;
+&lt;p&gt;▶ 解锁限制：
+• 支持哔哩漫游国内版、哔哩漫游国际版、哔哩漫游概念版
+• 无视B站番剧区域限制（免费观看中国大陆以外的版权番剧）
+• 无视版权番剧下载限制（无视番剧版权限制，可以任意缓存番剧）
+• 解除版权番剧下载限速（提高下载速度，但是会导致音频被分离）
+• 港澳台CDN加速（设置大陆/香港/台湾/泰国/东南亚解析服务器）&lt;/p&gt;
+&lt;p&gt;▶ 美化功能：
+• 自定义主题色
+• 替换启动图
+• 替换启动Loogo
+• 强制满屏启动图
+• 原生音乐通知样式
+• 夜间模式跟随系统
+• 移动我的页面到侧边栏
+• 自定义字幕样式&lt;/p&gt;
+&lt;p&gt;▶ 其它优化：
+• 关闭青少年模式弹窗
+• 评论区楼层显示（旧版不支持）
+• Play版本添加直播（旧版不支持）
+• 添加4K支持（旧版不支持）
+• 不以小程序形式分享
+• 自动点赞视频
+• 显示AV号
+• 自定义同时缓存数
+• 保存视频和直播封面
+• 自定义播放速度列表
+• 默认播放速度
+• 独立弹幕速度
+• 更精细的弹幕设置
+• 备份和还原配置&lt;/p&gt;
+&lt;p&gt;2023.10.12 v1.7.0 正式版
+– 修复大量自 7.41 版本兼容问题
+– 改善 PCDN 替换
+– 添加禁止播放器长按加速
+– 支持固定推荐页面封面比例&lt;/p&gt;
+&lt;p&gt;2023.05.27 v1.6.12 正式版
+– 兼容 7.31+
+– 修复 play 版兼容
+– 调整设置顺序，更加符合逻辑
+– 添加捐赠渠道，喜欢漫游的可以在设置中点击捐赠喵&lt;/p&gt;
+&lt;p&gt;2023.05.19 v1.6.11
+– 修复评论图片保存（点开图片后长按保存）
+– 修复 UPOS 测速可能卡住的问题
+– 兼容 7.24+ 区域限制番剧解锁
+– 支持自定义默认清晰度
+– 支持禁用首页自动刷新
+– 支持禁用图片评论时自动勾选转发到动态
+– 支持设置旧版弹幕屏蔽等级
+– 支持禁用 APP 检查更新
+– 支持禁用播放器长按加速
+– 支持禁用直播间双击点赞
+– 支持点击首页头像跳转“我的”页面
+– 支持搜索模块设置&lt;/p&gt;
+&lt;p&gt;应用大小：671KB
+应用版本：1.7.0(1289)
+更新日期：2023年10月12号
+应用包名：me.iacn.biliroaming&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6cec3257e4c9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6cec3257e4c9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LSPosed 1.9.2 (LSP Xposed框架) 官方版</title>
+        <link>https://kooshare.github.io/post/lsposed/</link>
+        <pubDate>Tue, 13 Aug 2024 14:18:23 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/lsposed/</guid>
+        <description>&lt;p&gt;LSP框架(LSPosed Xposed Framework)是XDA论坛投票结果得分最高的Xposed框架,LSP框架基于Rirud的ART挂钩框架(最初为Android Pie)提供与原版Xposed相同的API,利用YAHFA挂钩框架,支持Android 13.&lt;/p&gt;
+&lt;p&gt;Xposed 框架是一套开放源代码的、在Android高权限模式下运行的框架服务，可以在不修改APK文件的情况下修改程序的运行，基于它可以制作出许多功能强大的Xposed模块，且在功能不冲突的情况下同时运作。&lt;/p&gt;
+&lt;p&gt;如其它很多安卓神器一样，Xposed框架这款App最初诞生于安卓开发者云集的境外XDA论坛。Xposed框架是一款特殊的安卓App，其主要功能是提供一个新的应用平台，玩家们安装Xposed框架后，就能够通过Xposed框架搭建起的平台安装更多系统级的应用模块，实现诸多神奇的功能——从使用方面来说，和iOS越狱后的Cydia平台体验类似。基于它可制作出许多功能强大的模块，且在功能不冲突的情况下同时运作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Ehmm2U3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813141912458&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;支持系统&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;√LSPosed目前支持的安卓版本：
+Android 8/9/10/11/13 正式版&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Releases · LSPosed/LSPosed
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL0xTUG9zZWQvTFNQb3NlZC9yZWxlYXNlcw==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/LSPosed/LSPosed/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2023.10.12 v1.9.2 正式版
+– 修复 Android P 及以下版本的 IContentProvider
+– 正确处理无效的 Parcel
+– 修复某些设备上无效的 setOverrideTable 地址
+– 将管理器 APK 移动到模块路径
+– 修复系统框架上 remote preference 监听器无效的问题
+– 修复 Android 14 上的 hook 错误
+– 修复某些设备上 Android 14 的静态方法 hook 问题
+– 修复一些 LoadedApk 没有回调 onPackageLoad
+– 修复新 XSharedPreferences 的路径错误
+– 增加 Android Studio 部署优化提示&lt;/p&gt;
+&lt;p&gt;最近更新：
+初步支持Android 14
+完全兼容Android 13&lt;/p&gt;
+&lt;p&gt;版本型号：Riru
+应用大小：2.34MB
+应用版本：1.9.2(7024)
+应用包名：com.elinkway.tvlive2
+编译日期：2023年10月11日, 12:12:40&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装教程&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;解锁或刷机，刷入ROOT工具面具补丁Magisk v23+&lt;/li&gt;
+&lt;li&gt;在Magisk仓库搜索Riru-Core v25 或更高版模块安装&lt;/li&gt;
+&lt;li&gt;安装本地卡包zip或在Magisk仓库搜索Riru-LSPosed&lt;/li&gt;
+&lt;li&gt;安装完成后，重启手机，完毕！&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Github仓库国内下载慢，因此建议下载到手机本地安装！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Magisk / LSPosed&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ea3bfbcdb68a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ea3bfbcdb68a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>OneDrive 6.89 (微软云盘) 谷歌版</title>
+        <link>https://kooshare.github.io/post/ondedrivepan/</link>
+        <pubDate>Tue, 13 Aug 2024 14:17:01 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/ondedrivepan/</guid>
+        <description>&lt;p&gt;OneDrive安卓版是一款微软云盘APP客户端,OneDrive云盘手机版可以跨越多个设备同步文件,通过登录微软账号来连通所有设备,实现轻松同步数据,再也不用担心数据会丢失啦,赶快来下载OneDrive手机版试试吧!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ZGqyzeN.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813141729385&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft OneDrive – Google Play
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5taWNyb3NvZnQuc2t5ZHJpdmU=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://play.google.com/store/apps/details?id=com.microsoft.skydrive&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;无论你身处何地，使用 Microsoft OneDrive 来完成更多工作吧。从你的 Android 设备、计算机(PC 或 Mac)或所使用的任何其他设备获取并共享你的文档、照片和其他文件。无论你身处何处，使用 Office 移动应用保持你的工作效率并实现协同工作。当你出门在外时，适用于 Android 的 OneDrive 应用使你可以轻松处理你的个人和工作文件。&lt;/p&gt;
+&lt;p&gt;• 在 Word、Excel、PowerPoint 和 OneNote 等 Office 应用中轻松打开并保存 OneDrive 文件。
+• 共享文件、备份相机照片、使用自动标记轻松查找照片。&lt;/p&gt;
+&lt;p&gt;OneDrive正式版
+应用大小：87.6MB
+应用架构：arm64-v8a
+应用版本：6.89(2026890102)
+应用包名：com.microsoft.skydrive
+更新日期：Play商店2023年9月17号&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6aa377f47f22&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6aa377f47f22&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>IP Tools中文版 8.68 (ping工具) 解锁内购去广告版</title>
+        <link>https://kooshare.github.io/post/iptool/</link>
+        <pubDate>Tue, 13 Aug 2024 14:15:39 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/iptool/</guid>
+        <description>&lt;p&gt;IPTools安卓版是一款ping工具,IP查询工具,分析网络情况的ip工具包.IP Tools中文版提供IP查询,ping查询,DNS查询,Whios查询,路由追踪,IP地址计算器,IP地址/主机转换,无线网络探测器,端口扫描,局域网扫描等功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/3dPdQyK.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813141605150&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;IP Tools: WiFi Analyzer – Google Play
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5kZG0uaXB0b29scw==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://play.google.com/store/apps/details?id=com.ddm.iptools&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近更新：
+– 兼容 Android 13 正式版
+– VP#N(测试功能)再次可用
+– Telegram Bot 再次可用&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;IP Tools: WiFi Analyzer [Premium] [Mod Extra]&lt;/p&gt;
+&lt;p&gt;by Balatan
+– 解锁内购，移除谷歌广告
+– 移除调试代码，多国语言，兼容所有安卓设备
+– 禁用且移除不必要权限、服务、接收器、提供器
+– 清理不必要应用资源文件、对齐优化、压缩打包&lt;/p&gt;
+&lt;p&gt;应用大小：7.98M
+应用版本：8.68(480)
+应用包名：com.ddm.iptools
+编译日期：2023年9月3日, 16:06:30
+应用架构：Universal (ARM7a, ARM64-8a, x86, x86-64)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8b86524f4c6a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8b86524f4c6a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>百度贴吧 12.46.3 去广告版</title>
+        <link>https://kooshare.github.io/post/tiebaquguanggao/</link>
+        <pubDate>Tue, 13 Aug 2024 14:14:19 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/tiebaquguanggao/</guid>
+        <description>&lt;p&gt;百度贴吧安卓客户端百度贴吧APP版本有贴吧完整版,贴吧简版,贴吧极速版.贴吧简版客户端是专为广大手机用户打造,具有更轻,更小,更省流量特点的手机贴吧客户端,为你节省流量,逛贴吧更加流畅极速.在应用越来越臃肿的今天,百度贴吧精简版不仅占用内存极小,而且其界面简单清爽,只保留了百度贴吧安卓版的核心功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/vz9iGGT.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813141439334&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;by 帝落
+1.禁止贴吧缓存开屏广告
+2.去除开屏广告
+3.去除信息流广告
+4.禁止第三方广告sdk初始化
+5.去除进入吧内弹窗度小满借钱广告
+6.去除吧规上的免费领60天会员广告
+7.去除帖子、以及播放视频下方的相关推荐
+8.去除进入贴吧弹出印记、成长等级对话框
+9.去除吧内、首页推荐、帖子内、位于吧规的直播推荐
+10.去除滑动图片滑到最后边的直播推荐页
+11.去除吧友直播
+12.去除提示资源加载失败
+13.去除首页顶部栏Tab
+14.去除官方版本更新检测
+15.去除评论文字输入框的广告
+16.自动同意隐私政策
+17.去除搜索发现、热搜榜、热吧榜等
+18.去除热游榜
+19.去除底部栏+号
+20.去除+号里的直播按钮
+21.去除灰白
+22.去除热门吧精选、关注贴吧,热门发现
+23.修改图标+logo
+24.点亮会员图标
+25.修改昵称颜色
+26.去除查看他人帖子时提示图片找不到:image_emoticon
+27.去除首页视频推荐
+28.强显查看原图按钮
+29.去除热门搜索信息
+30.去除位于吧规下面的横幅广告
+31.去除首页推荐位于刷新的横幅广告
+32.禁用贴吧初始化AdCardView
+33.去除搜索发现、热搜榜、热吧榜等
+34.去除贴吧内无用的广告Tab（保留最基本的Tab）
+35.禁止贴吧生成log日志
+36.禁止贴吧获取设备标识Imei、AndroidId
+37.去除“我的”个人信息卡片背景
+38.净化”我的”界面
+39.去除贴吧内背景广告
+40.去除吧内”群聊”悬浮窗
+new新增
+41.去除首页顶部直播卡片列表推荐
+42.去除无用插件
+极致版在以上基础上修改了
+43.去除整个首页&lt;/p&gt;
+&lt;p&gt;应用大小：66.6M
+应用架构：arm64-v8a
+应用包名：com.baidu.tieba
+应用版本：12.46.3.0(204342016)
+编译日期：2023年9月5日, 10:42:04&lt;/p&gt;
+&lt;p&gt;# 贴吧极速板APP
+– 无夜间模式、无首页推荐；登陆不兼容安卓13&lt;/p&gt;
+&lt;p&gt;# 贴吧内部版APP
+– 无需担心账户被封禁危险！登陆不兼容安卓13
+– 小巧无广告、无启动广告、可以搜索贴吧关注
+– 支持手机号和度盘登陆，不支持QQ/微信登陆&lt;/p&gt;
+&lt;p&gt;# 关于旧版本无法登陆的解决办法：
+1、先用户名和密码登录，这时提示验证码错误无法登陆（因官方早已升级登陆验证）
+2、在点右上角注册，输入手机号接验证码即可，然后登陆，在点随便看看就进去了！
+直接注册用手机验证也是不行的，如果你不是手机号，可用新版绑定打开手机号登录。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c377a7a08428&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c377a7a08428&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>全能计算器 23.0.2 去广告版</title>
+        <link>https://kooshare.github.io/post/quannengjisuanqi/</link>
+        <pubDate>Tue, 13 Aug 2024 14:12:42 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/quannengjisuanqi/</guid>
+        <description>&lt;p&gt;全能计算器app最新版是一款免费支持语音的全能计算器软件,集计算器,语音计算器,科学计算器,汇率换算,亲戚计算器,房贷计算器,五险一金,日期计算器,进制转换,理财计算,万能公式,容量转换,功率转换,角度转换,单位换算,记账和备忘录等功能为一体,功能强大,样式简约,方便好用,简单解决各种计算,单位称呼换算的超级计算器.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/SBOCshP.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813141307095&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2023.08.02 v22.0.2
+1.修复已知bug，提高稳定性。
+2.优化运行速度，提升用户体验。&lt;/p&gt;
+&lt;p&gt;2023.02.15 v22.0.1
+1.[修复]修复汇率换算功能，换算更精准。
+2.[优化]优化运行速度，提升用户体验。&lt;/p&gt;
+&lt;p&gt;最近更新
+1.[新增]新增年龄计算、BMI计算功能。
+2.[优化]房贷LPR利率修改为最新利率。
+3.[修复]BUG修复，性能优化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;by 耗子(RatCrack)
+去开屏广告，优化启动速度，兼容华为！&lt;/p&gt;
+&lt;p&gt;应用大小：6.75MB
+应用版本：23.0.2(88)
+应用架构：arm64-v8a
+编译日期：2023年8月23日, 23:36:44
+应用包名：com.jincheng.supercaculator&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/dfdc7f7deee5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/dfdc7f7deee5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Netflix 8.82.1 Build 15 50484 (奈飞/网飞) 谷歌版</title>
         <link>https://kooshare.github.io/post/netfilx/</link>
         <pubDate>Tue, 13 Aug 2024 14:09:04 +0800</pubDate>
