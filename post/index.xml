@@ -7,7 +7,490 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 13 Aug 2024 14:28:09 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 13 Aug 2024 14:50:13 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>核心破解 4.5 (Xposed模块) 官方版</title>
+        <link>https://kooshare.github.io/post/hexinpojie/</link>
+        <pubDate>Tue, 13 Aug 2024 14:50:13 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/hexinpojie/</guid>
+        <description>&lt;p&gt;核心破解APP是一个可以破解系统签名校验的Xposed模块.它的作用包括:允许降级安装应用,禁用APK签名验证,直接安装修改过的未签名APK,覆盖安装不同签名的应用.LSP模块核心破解模块新版兼容Android 10-13.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/6noTP3r.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813145035820&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Releases · LSPosed/CorePatch
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL0xTUG9zZWQvQ29yZVBhdGNoL3JlbGVhc2Vz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/LSPosed/CorePatch/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2024.03.01 v4.5
+– 支持在 Android 11+ 上绕过 shared uid 验证&lt;/p&gt;
+&lt;p&gt;2024.01.01 v4.4
+– 增强对 Android 14 的支持
+– 绕过某些设备如 Nothing Phone 上的黑名单
+– 支持 Android 9
+– 不再默认禁用软件包管理器签名验证&lt;/p&gt;
+&lt;p&gt;应用大小：47.2KB
+应用版本：4.5(2019)
+应用包名：com.coderstory.toolkit&lt;/p&gt;
+&lt;p&gt;温馨提示：会报毒请点无视风险安装！&lt;/p&gt;
+&lt;p&gt;温馨提示：会报毒请点无视风险安装！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;使用说明&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;解锁或刷机，刷入ROOT工具面具补丁「Magisk v23+」&lt;/li&gt;
+&lt;li&gt;Magisk仓库搜索「Riru-Core v25 或更高版」模块安装&lt;/li&gt;
+&lt;li&gt;安装LSPosed卡包或Magisk仓库搜索「Riru-LSPosed」&lt;/li&gt;
+&lt;li&gt;安装完成后，重启手机，然后安装「核心模块」&lt;/li&gt;
+&lt;li&gt;启动LSPosed框架，勾选「核心破解」，完！&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/086e3f39aa78&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/086e3f39aa78&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>B612咔叽 13.0.11 (美颜相机) 解锁内购去广告版</title>
+        <link>https://kooshare.github.io/post/kaji/</link>
+        <pubDate>Tue, 13 Aug 2024 14:48:46 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/kaji/</guid>
+        <description>&lt;p&gt;B612咔叽app是一款国内美颜美装全能相机软件的自拍神器,支持视频编辑和图片美化,B612咔叽美颜滤镜相机核心功能为:自拍,美颜,时髦贴纸,品质滤镜,表情包制作.和普通的相机不同,B612咔叽安卓最新版加入了AR场景技术,可以制造梦幻般,神秘的等亦真亦幻的背景.各种模板,贴纸,表情包,滤镜,各种修图功能一应俱全.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/KO9d7D9.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813144912410&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;官方更新&#34;&gt;官方更新
+&lt;/h2&gt;&lt;p&gt;・ VIP新增高清视频拍摄、高级美妆、修复背景等超多高级功能
+・ DIY上线了新功能！通过更换背景制作更丰富的贴纸
+・ 达人同款菜单搜索栏已升级！现在可以更快速方便的搜索贴纸啦&lt;/p&gt;
+&lt;h2 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h2&gt;&lt;p&gt;• 无需登录账号，解锁VIP会员
+• 去除启动广告
+• 去除更新提示&lt;/p&gt;
+&lt;p&gt;谷歌版，解锁VIP订阅会员（免登陆）&lt;/p&gt;
+&lt;p&gt;应用大小：169MB
+应用架构：arm64-v8a
+应用版本：13.0.11(91130011)
+编译时间：2024年02月27日，22:44:20
+应用包名：com.campmobile.snowcamera&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/b40b45b692ba&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/b40b45b692ba&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Miru 1.8.1 (多源视频漫画小说安卓版) 官方版</title>
+        <link>https://kooshare.github.io/post/miru/</link>
+        <pubDate>Tue, 13 Aug 2024 14:46:29 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/miru/</guid>
+        <description>&lt;p&gt;很多APP打造成可扩展的、像容器一样的软件，可以将不同类型的资源装在里面使用，这样在一个APP里面就可以实现音乐、漫画、小说、视频等功能；比如tvb0x、海阔视界等等。&lt;/p&gt;
+&lt;p&gt;今天这款APP也是如此原理，一个极其实用的开源软件，内置各种扩展功能，能实现视频、漫画、小说等功能。&lt;/p&gt;
+&lt;p&gt;软件看起来相当成熟，除了支持多种语言之外，还支持安卓和Windows，而且安卓端还适配了pad大屏，理论上也可以说支持车机——Miru&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Oq9VdsE.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813144651674&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Miru是一款免费、开源的支持视频、漫画、小说扩展源的多功能应用，支持Windows、支持手机、支持pad。&lt;/p&gt;
+&lt;p&gt;自适应竖屏、横屏显示&lt;/p&gt;
+&lt;p&gt;软件支持多种语言，首次安装默认为英语，所以我们需要修改为中文。&lt;/p&gt;
+&lt;p&gt;软件内置了扩展仓库地址，所以我们先在『扩展』里面安装你想使用的仓库。&lt;/p&gt;
+&lt;p&gt;在『扩展-仓库』里面有很多仓库源，点击安装你需要的仓库。&lt;/p&gt;
+&lt;p&gt;然后再『搜索』栏目里面就可以直接使用你安装的各类仓库。&lt;/p&gt;
+&lt;p&gt;目前的仓库主要可以实现视频、漫画、小说；同时软件也是支持自定义扩展仓库的，有能力的朋友可以去软件官网学习一些如何编写，然后顺带给大家分享一下你的仓库源。&lt;/p&gt;
+&lt;p&gt;同时软件也是支持Windows的，想在电脑上使用也可以。&lt;/p&gt;
+&lt;p&gt;由于Miru也是支持横屏的，我也不抱希望的在电视上测试了一下，很遗憾，无法使用遥控的OK键，其他都基本能控制，所以电视上无法操控。&lt;/p&gt;
+&lt;p&gt;Miru有点像简化版的海阔视界，海阔灵活性太高、扩展性极强，以至于很多朋友觉得门槛太高，但是Miru就很好，使用简单。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/96ff11db4413&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/96ff11db4413&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜书大师 23.11 (小说软件) 解锁内购去广告版</title>
+        <link>https://kooshare.github.io/post/soushudashi/</link>
+        <pubDate>Tue, 13 Aug 2024 14:45:08 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/soushudashi/</guid>
+        <description>&lt;p&gt;搜书大师app是一款强大的小说软件的搜书神器,聚合全网免费小说的小说阅读器,内置大量书源,免费阅读各大网站小说,提供自选换书源管理,自定义换源,智能转码净化广告,仿真翻页效果,精确搜索模式和无缓存模式.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/75JLsjq.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813144531386&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;v23.11
+● 修复语音朗读在熄屏时停止的问题(仅Android13/14)
+● 修复第三方书源管理本地导入的问题
+● 优化紧凑模式排版
+● 优化从第三方应用打开书籍
+● 改进TXT书籍的目录识别
+● 长按选择文字后,可直接加入净化
+● 切换书源时在扫描页可长按移除无效源
+● 增加阅读背景图透明度及柔化支持
+● 支持第三方书源仓库的一键导入
+● 更新隐私政策条款,不读取不收集任何个人设备信息&lt;/p&gt;
+&lt;p&gt;最近更新：
+– 支持第三方整本下载源
+– 支持第三方书源仓库的一键导入
+– 新增数千本已获授权的免费书籍
+– 新增用户主贴管理功能(编辑/删除评论等)
+– 新增实验室功能”Web服务|从电脑上传书籍”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;by 耗子(Null), 黑鹰(lxapk)
+– 去启动广告、解锁VIP特权: 云端备份(需登录)；去更新！
+– 去搜索禁书限制、解除书源限制(导入第三方书源无限制)
+– 增加旧版本自带的E小说、2K小说、笔趣阁等书源 (黑鹰)&lt;/p&gt;
+&lt;p&gt;应用大小：17.5MB
+应用版本：v23.11(231100) 黑鹰
+应用包名：com.flyersoft.seekbooks
+编译日期：2024年01月12日，11:48:56
+应用架构：Universal (ARM7a, ARM64-8a, x86, x86-64)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;搜书大师APP v23.11 去书源限制免广告破解永久Vip会员版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a7c8f014a943&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a7c8f014a943&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>海星TV 2.1.0 (电视直播) 去广告版</title>
+        <link>https://kooshare.github.io/post/haixingtv/</link>
+        <pubDate>Tue, 13 Aug 2024 14:42:52 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/haixingtv/</guid>
+        <description>&lt;p&gt;《海星TV》是一款引人入胜的节目直播电视应用程序，为您呈现来自台湾、香港、澳门等地的多元直播节目，透过充实的直播源，能够欣赏到精彩纷呈的台湾、香港、澳门、日本、韩国、欧美等范畴的直播精彩节目，此应用程式采用大量直播来源，同时提供丰富的备份直播资源，确保观众在使用时能够享受到无间断、高品质的节目体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/fxEqrZQ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813144356751&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;【软件语言】- 中文
+【软件名称】- 海星TV
+【版本信息】- v2.1.0
+【软件大小】- 16 MB （APK）
+【使用权限】- 免费，全程需连网
+【系统支持】- 支持 Android 版本&lt;/p&gt;
+&lt;h2 id=&#34;软件内容&#34;&gt;&lt;strong&gt;软件内容&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;1.去广告
+2.VIP 免登入&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/22432e4d889a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/22432e4d889a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>飞韵听书 1.3.2 (有声小说/听书) 去广告版</title>
+        <link>https://kooshare.github.io/post/feiyuntingshu/</link>
+        <pubDate>Tue, 13 Aug 2024 14:41:32 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/feiyuntingshu/</guid>
+        <description>&lt;p&gt;看小说，曾经是很多粉丝朋友的一大消遣；当然现在看小说的也还不少，只不过很大一部分人投奔更直接、且不费脑的短视频了。&lt;/p&gt;
+&lt;p&gt;想当年，网络还不像现在这么发达，流量也极其宝贵的时候，我们看小说都是去网上下载TXT文件，几M大小就够看几个月。&lt;/p&gt;
+&lt;p&gt;现在看小说就简单多了，现在不仅仅是看，而且还能听；所以今天要给大家分享一款超级好用的听书软件——飞韵听书&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/wC7tDV1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813144152673&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;飞韵听书是一个专注听书的软件，除了听书，也能看书；软件收录了很多的热门小说资源，资源更新也快，非常好用的听书/看书app。&lt;/p&gt;
+&lt;p&gt;非常喜欢这类UI好看的app，主页主要由搜索框和推荐资源以及分类构成。&lt;/p&gt;
+&lt;p&gt;我发现有声资源里面竟然还有粤语评书，广东的伙伴有福了。&lt;/p&gt;
+&lt;p&gt;所有资源，不管是有声小说、评书还是小说都可以非常快速的打开，体验不错。&lt;/p&gt;
+&lt;p&gt;阅读功能方面支持定时、倍速、语速、跳片头尾等。&lt;/p&gt;
+&lt;p&gt;其中定时播放，支持听完本章、30 分钟、1 小时、1.5 小时、2 小时、自定义时长等，非常照顾大家的使用体验。&lt;/p&gt;
+&lt;p&gt;不方便听的时候也支持阅读小说&lt;/p&gt;
+&lt;h3 id=&#34;特色&#34;&gt;特色
+&lt;/h3&gt;&lt;p&gt;去升级、去广告（安卓）；软件原版就是免费。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/15a23da5f4e6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/15a23da5f4e6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>酷我畅听 9.1.8.1 (有声小说/听书) 破解版</title>
+        <link>https://kooshare.github.io/post/kuwochangting/</link>
+        <pubDate>Tue, 13 Aug 2024 14:40:02 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/kuwochangting/</guid>
+        <description>&lt;p&gt;酷我畅听是酷我听书的升级版，酷我畅听是一款可以满足大家在电脑上听书的愿望哦，比如中午午睡的时候就可以开着酷我听书边听书边睡觉啦。有声小说、名家评书、相声小品、海量资源，应有尽有，非常实用的，相信你一定有需要。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/BSSQrHJ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813144024958&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;官方更新&#34;&gt;官方更新
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;新增《成也萧河》沉浸式弹幕；&lt;/li&gt;
+&lt;li&gt;任务体系-知识大作战上线；&lt;/li&gt;
+&lt;li&gt;优化播放器加载速度。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h2&gt;&lt;p&gt;├—所有VIP内容有声读物全部免费畅听
+├—免广告, 自动跳过有声读物音频广告
+├—可下载（需登录）&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/cd079f4d7b66&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/cd079f4d7b66&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>下厨房 8.8.22 (美食菜谱) 去广告版</title>
+        <link>https://kooshare.github.io/post/xiachufang/</link>
+        <pubDate>Tue, 13 Aug 2024 14:38:39 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/xiachufang/</guid>
+        <description>&lt;p&gt;下厨房并不仅仅只教人们如何烹调美食，而是期望找回迷失在童年那股熟悉的味道。在这里，你能找到躲在宿舍用电饭煲做蛋糕的学生；也能看到卸去西装烹制男子汉料理的型男…在风卷残云过后的深夜，全世界的厨房怪咖猫在被窝一边寻找明天早餐的灵感，一边问候彼端的厨友“嘿，今儿吃得不错呀”。每张美食图片背后都记录着一段生活故事。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/N2eOAzV.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813143901768&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h2&gt;&lt;p&gt;•基于国内最新版
+•去除开屏广告
+•去除布局广告
+•去除评论广告
+•去除全部广告
+•去除更新检测&lt;/p&gt;
+&lt;h2 id=&#34;官方介绍&#34;&gt;官方介绍
+&lt;/h2&gt;&lt;p&gt;•时令流行：根据不同节气，告诉你应该吃什么，三餐不重样
+•榜单推荐：进来看看被两万多人做过的一道菜谱是什么
+•人气社区：你尝试发布一道菜谱，会获得最真实的厨友点赞，交流心得提升厨艺
+•活动奖品：定期与品牌联合发布线上和线下活动征集令，赢奖品，交朋友
+•购买食材：联合达人推荐，帮你挑选最有品质的食材和厨具，瞬间成为身边人仰慕的美食专家
+•中文菜谱更全，人气更高的美食社区
+•苹果官方 App Store 精选推荐的美食应用
+•被央视CCTV新闻频道报道为年轻人流行的生活方式APP&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/50e55cb9bc3c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/50e55cb9bc3c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>隐秘参数 2.8.7 (手机硬件信息) 官方版</title>
+        <link>https://kooshare.github.io/post/yinmicanshu/</link>
+        <pubDate>Tue, 13 Aug 2024 14:37:00 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/yinmicanshu/</guid>
+        <description>&lt;p&gt;隐秘参数app(手机硬件信息查询工具)是一款手机硬件检测工具和性能测试工具.为什么开发这个App?消费者有知道自己手机内部组件信息的权利,但现在的厂商通常隐藏了很多硬件信息,这App能还原消费者这权利.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/JPIw13g.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813143736381&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h2&gt;&lt;p&gt;• 增加天玑8200/9200
+• 增加骁龙782g
+• 修复天玑1080识别问题&lt;/p&gt;
+&lt;p&gt;• 增加天玑1080
+• 增加骁龙4Gen1&lt;/p&gt;
+&lt;p&gt;• 增加部分传感器识别
+• 优化触控测试的界面显示
+• 计步器测试增加总天数数据
+• 修复谷歌平台识别错误&lt;/p&gt;
+&lt;p&gt;• 增加天玑8100
+• 增加部分ufs设备的health信息
+• 增加exynos2200
+• 增加骁龙695
+• 增加骁龙720G
+• 增加屏幕亮度测试
+• 增加部分华星的屏幕
+• 增加部分机型fm识别
+• 增加屏幕的10bit测试
+• 识别更多紫光平台
+• 识别更多高通soc
+• 解决部分鸿蒙机型版本号识别错误问题
+• 解决部分机型音频厂商ess错误识别问题
+• 增加部分exynos 1080识别
+• 修改LGUI为LG UX
+• 增加部分电池型号
+• 优化帮助，存储测试增加关于fsync的说明。
+• 优化指纹传感器识别。
+• 采样率测试直接排除多个手指的情况。
+• 识别更多的指纹芯片
+• 识别更多华为触控芯片
+• 修复骁龙820的参数错误&lt;/p&gt;
+&lt;h2 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h2&gt;&lt;p&gt;• 支持检测系统基本软件版本信息。
+• 支持检测CPU、GUP、存贮等硬件信息。
+• 支持检测屏幕基本信息。
+• 支持检测电池基本信息等。
+• 支持WEB 3D性能测试。&lt;/p&gt;
+&lt;h2 id=&#34;软件优势&#34;&gt;软件优势
+&lt;/h2&gt;&lt;p&gt;• 尝试获取显示屏参数。
+• 尝试获取手机、基本硬件参数。
+• 尝试获取触摸屏参数。
+• 尝试获取内存和存储相关参数。&lt;/p&gt;
+&lt;h2 id=&#34;常见问题&#34;&gt;常见问题
+&lt;/h2&gt;&lt;p&gt;• 为什么开发这个App?
+消费者有知道自己手机内部组件信息的权利，但是现在的厂商通常隐藏了很多硬件的信息，这个App尝试还原消费者这个权力。&lt;/p&gt;
+&lt;p&gt;• 如何得到更多硬件信息?
+因为安卓权限的限制，正常运行时一些硬件信息没有办法读取，可以通过安卓adb调试工具来运行App以获得更多硬件信息，详细方法请点击查看。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/759068966a37&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/759068966a37&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LSPatch 0.6.0(402) (免root凯入Xposed模块) 官方版</title>
+        <link>https://kooshare.github.io/post/lspatch/</link>
+        <pubDate>Tue, 13 Aug 2024 14:35:34 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/lspatch/</guid>
+        <description>&lt;p&gt;LSPatch是一款免费的基于LSPosed核心的免Root Xposed框架,提供两种修补模式:便携模式,本地模式,可调试及可覆写版本号,破解签名效验,通过重新修补的方式将本地apk文件或已安装的应用凯入Xposed模块,无需搭配Shizuku就能通过便携模式修补App并内置XP模块,修补的应用能在未安装LSPatch管理器的设备运行.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8aoi7Tn.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813143555565&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LSPosed/LSPatch – GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL0xTUG9zZWQvTFNQYXRjaA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/LSPosed/LSPatch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;系统要求：Andorid 9 – 13&lt;/p&gt;
+&lt;p&gt;应用大小：6.87M
+应用版本：0.6.0(402)
+更新日期：2023年12月13号
+应用包名：org.lsposed.lspatch
+应用架构：Universal (ARM7a, ARM64-8a, x86, x86-64)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8785f3dd33fa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8785f3dd33fa&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PrettyUp 5.9.1 (人像美化) 解锁内购去广告版</title>
+        <link>https://kooshare.github.io/post/prettyup/</link>
+        <pubDate>Tue, 13 Aug 2024 14:33:21 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/prettyup/</guid>
+        <description>&lt;p&gt;PrettyUp破解VIP版是一款面向海外用户推出的视频人像美化App,这款视频人像美化软件核心功能为:人物视频一键美体,支持视频人体识别,抠图,滤镜,打光,美妆等视频美颜功能,同时提供各种视频美化,P图修图,修饰身材,脸部优化,瘦腰瘦身,丰满塑形,长腿瘦腿等演示教程,用户可以任意将视频中的人物进行深度美化.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Y8ruJLz.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813143433025&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;by 黑鹰，辰夕
+– 解锁年费VIP会员，无需登陆！
+– 无加固、去更新提示的纯净版&lt;/p&gt;
+&lt;p&gt;应用大小：141MB
+应用版本：5.9.1(235) 辰夕
+应用架构：arm64-v8a,armeabi-v7a
+编译时间：2023年12月07日，18:09:40
+应用包名：com.campmobile.snowcamera&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e3b1ac64f895&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e3b1ac64f895&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LibChecker 2.4.4 (应用架构查看器分析) 官方版</title>
+        <link>https://kooshare.github.io/post/libcheck/</link>
+        <pubDate>Tue, 13 Aug 2024 14:31:46 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/libcheck/</guid>
+        <description>&lt;p&gt;LibChecker最新版APP(应用架构查看器)是一个应用架构分析工具,LibChecker安卓版可以查看App版本原生库架构和分析应用第三方库引用统计信息,主要特色功能:知名库标记,库引用统计,包特性分析,应用快照信息.&lt;/p&gt;
+&lt;p&gt;基础功能：
+• 查看App使用的原生库架构（无原生库/32位/64位）
+• 查看App的注册组件（服务/活动/广播接收器/内容提供器）
+• 饼状图统计原生库架构分布&lt;/p&gt;
+&lt;p&gt;特色功能：
+• 知名库标记：实时更新在线规则仓库，标记第三方库组件
+• 库引用统计：统计各个库的使用频率、统计使用最多的SDK
+• 包特性分析：解析App是否是Split APKs、是否使用了Kotlin编写
+• 快照，将当前所有应用的信息保存，对比应用升级前后的组件差异&lt;/p&gt;
+&lt;p&gt;主流架构：
+arm64-v8a：第8代、64位ARM处理器，近些年生产的Android 设备通常是此架构
+armeabi-v7a：第7代及以上的ARM处理器。2011年以后生产的大部分Android 设备都使用此架构
+armeabi：第5代、第6代的ARM处理器，早期的手机一般是此架构
+x86_64：64位的平板或模拟器使用此架构
+×86：平板、模拟器一般是此架构&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Sih76YJ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240813143216765&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;zhaobozhen/LibChecker
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL3poYW9ib3poZW4vTGliQ2hlY2tlci9yZWxlYXNlcw==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/zhaobozhen/LibChecker/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.4.4
+– 修复了一些应用的快照无法被保存的问题
+– 修复了一些应用进入详情页崩溃的问题
+– 该版本第一次保存快照将使用全量保存，耗时会比较长&lt;/p&gt;
+&lt;p&gt;应用大小：4.08MB
+应用版本：2.4.4
+应用包名：com.absinthe.libchecker
+应用架构：Universal (ARM7a, ARM64-8a, x86, x86-64)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/30814c547f54&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/30814c547f54&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>酷安 13.0.1 集成FuckCoolapk模块去广告版</title>
         <link>https://kooshare.github.io/post/kuan13/</link>
         <pubDate>Tue, 13 Aug 2024 14:28:09 +0800</pubDate>
