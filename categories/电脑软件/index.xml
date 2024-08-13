@@ -7,7 +7,108 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 13 Aug 2024 21:26:05 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 14 Aug 2024 01:42:36 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>纯粹直播TV 1.7.4 (虎牙斗鱼B站抖音聚合直播) PC&#43;安卓</title>
+        <link>https://kooshare.github.io/post/chuncuizhibo/</link>
+        <pubDate>Wed, 14 Aug 2024 01:42:36 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/chuncuizhibo/</guid>
+        <description>&lt;p&gt;看各类游戏直播、户外直播、才艺直播等兴趣化主题化特征显著的节目是一部分粉丝朋友们的喜好，目前主要在斗鱼、B站、虎牙、抖音直播这几个平台比较多。&lt;/p&gt;
+&lt;p&gt;软件超小杯曾经给大家分享过一款叫&lt;strong&gt;SimpleLive&lt;/strong&gt;的聚合型软件，它就整合了上述四大直播平台，可惜没有适配TV端，只能在手机使用，稍有遗憾。&lt;/p&gt;
+&lt;p&gt;但是没想到的是，今天这款同类型的软件实现了TV端的适配，并扩大到支持Windows，而且是开源软件——纯粹直播&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/mZLJ05m.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814014330324&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;纯粹直播是一款开源软件，纯净无广，整合了斗鱼、B站、虎牙、抖音直播四大平台，并适配TV+安卓手机+Windows。&lt;/p&gt;
+&lt;p&gt;这款软件其实很早就上线了，有些朋友可能使用过，不过之前都只是安卓手机版。&lt;/p&gt;
+&lt;h3 id=&#34;手机端&#34;&gt;手机端
+&lt;/h3&gt;&lt;p&gt;软件在最近更新的版本中才适配TV端。所以咱们重点看看tv端。&lt;/p&gt;
+&lt;h3 id=&#34;支持关注&#34;&gt;支持关注
+&lt;/h3&gt;&lt;p&gt;需要在手机端注册一下才能关注，不过这个账号是单独的，一切都要重新关注，但可以同时关注这四个平台的up主。&lt;/p&gt;
+&lt;p&gt;注意：关注只能在手机端才能操作，电视上，遥控光标无法选中关注按钮。&lt;/p&gt;
+&lt;h3 id=&#34;tv端一定这样设置&#34;&gt;TV端一定这样设置
+&lt;/h3&gt;&lt;p&gt;目前TV端还刚适配不久，肯定还是会存在bug的地方，比如上述说的无法关注，也还有无法全屏！&lt;/p&gt;
+&lt;p&gt;在TV端使用时无法用遥控选择全屏，所以大家要记得把『&lt;strong&gt;自动全屏&lt;/strong&gt;』打开。&lt;/p&gt;
+&lt;p&gt;这样在电视上就可以直接进入全屏观看。&lt;/p&gt;
+&lt;p&gt;软件的Windows端用的是msix安装包，必须要Windows10系统以上才能安装。如果你是window10系统，但还是安装不了，那么你可能用的是精简版的系统，精简了Windows10自带的应用安装程序。&lt;/p&gt;
+&lt;p&gt;不过也没关系了，电脑端可有可无，完全可以直接使用官方网站来看。&lt;/p&gt;
+&lt;h3 id=&#34;v174&#34;&gt;v1.7.4
+&lt;/h3&gt;&lt;p&gt;-Fix:修复Bilibili&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;纯粹直播 1.7.4 纯净版 手机+TV+PC版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2986b7742d30&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2986b7742d30&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>oneAnime 1.2.9 (看番软件) PC&#43;MAC&#43;安卓</title>
+        <link>https://kooshare.github.io/post/oneanime129/</link>
+        <pubDate>Wed, 14 Aug 2024 01:39:40 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/oneanime129/</guid>
+        <description>&lt;p&gt;oneAnime 是一款使用Flutter开发的Anime1第三方客户端。它是一款简洁清爽且无广告的看番软件，为用户提供了舒适的观影体验。该软件的界面设计符合Material You规范，使得用户能够享受到现代化、流畅且直观的操作体验。除了提供丰富的番剧资源外，oneAnime还具备弹幕功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/b3zdcST.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814014022386&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;最新更新&#34;&gt;最新更新
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;1.2.9&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修复 macOS 窗口按钮不隐藏的问题&lt;/li&gt;
+&lt;li&gt;升级 flutter 到 3.24.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/75e9ec081f10&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/75e9ec081f10&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>闪电藤 2.2.7 (局域网传输) PC&#43;安卓&#43;MAC</title>
+        <link>https://kooshare.github.io/post/shandianteng227/</link>
+        <pubDate>Wed, 14 Aug 2024 01:02:21 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/shandianteng227/</guid>
+        <description>&lt;p&gt;闪电藤是基于LocalSend二次开发的一款局域网文件传输工具，在它的基础上进行UI交互的重新设计，以及功能上的增强和删减，使其更加符合中国用户的使用体验。&lt;/p&gt;
+&lt;p&gt;有了LocalSend，还要开发闪电藤，在于它的使用体验更多的是按国外的来设计的，并且国内很多需求反馈无法实现，所以我重新设计LocalSend，并征集大家的需求，共同建设一个更完美的LocalSend。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ab3I9hz.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814010318521&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;功能特性&#34;&gt;功能特性
+&lt;/h2&gt;&lt;p&gt;极简无广告
+免登录使用
+像聊天一样传文件（国内习惯）
+自动连接同局域网内设备（已上线）
+跨网段连接（已上线）
+传输快，不限速（后续计划：断点续传，并发传输）
+支持网盘，如123网盘、坚果云等webdav网盘（已上线，2.2.0版本）
+支持对象存储，一键生成图床，便捷办公（待开发）&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;闪电藤 2.2.7 PC+安卓+MAC&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/af3e59bb8bcb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/af3e59bb8bcb&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>NAS文件传输 1.2.8 (手机电脑变NAS) PC&#43;安卓</title>
         <link>https://kooshare.github.io/post/naswenjianchuanshu/</link>
         <pubDate>Tue, 13 Aug 2024 21:26:05 +0800</pubDate>

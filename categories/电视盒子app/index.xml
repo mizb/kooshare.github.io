@@ -7,7 +7,229 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 14 Aug 2024 00:29:54 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 14 Aug 2024 01:42:36 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>纯粹直播TV 1.7.4 (虎牙斗鱼B站抖音聚合直播) PC&#43;安卓</title>
+        <link>https://kooshare.github.io/post/chuncuizhibo/</link>
+        <pubDate>Wed, 14 Aug 2024 01:42:36 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/chuncuizhibo/</guid>
+        <description>&lt;p&gt;看各类游戏直播、户外直播、才艺直播等兴趣化主题化特征显著的节目是一部分粉丝朋友们的喜好，目前主要在斗鱼、B站、虎牙、抖音直播这几个平台比较多。&lt;/p&gt;
+&lt;p&gt;软件超小杯曾经给大家分享过一款叫&lt;strong&gt;SimpleLive&lt;/strong&gt;的聚合型软件，它就整合了上述四大直播平台，可惜没有适配TV端，只能在手机使用，稍有遗憾。&lt;/p&gt;
+&lt;p&gt;但是没想到的是，今天这款同类型的软件实现了TV端的适配，并扩大到支持Windows，而且是开源软件——纯粹直播&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/mZLJ05m.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814014330324&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;纯粹直播是一款开源软件，纯净无广，整合了斗鱼、B站、虎牙、抖音直播四大平台，并适配TV+安卓手机+Windows。&lt;/p&gt;
+&lt;p&gt;这款软件其实很早就上线了，有些朋友可能使用过，不过之前都只是安卓手机版。&lt;/p&gt;
+&lt;h3 id=&#34;手机端&#34;&gt;手机端
+&lt;/h3&gt;&lt;p&gt;软件在最近更新的版本中才适配TV端。所以咱们重点看看tv端。&lt;/p&gt;
+&lt;h3 id=&#34;支持关注&#34;&gt;支持关注
+&lt;/h3&gt;&lt;p&gt;需要在手机端注册一下才能关注，不过这个账号是单独的，一切都要重新关注，但可以同时关注这四个平台的up主。&lt;/p&gt;
+&lt;p&gt;注意：关注只能在手机端才能操作，电视上，遥控光标无法选中关注按钮。&lt;/p&gt;
+&lt;h3 id=&#34;tv端一定这样设置&#34;&gt;TV端一定这样设置
+&lt;/h3&gt;&lt;p&gt;目前TV端还刚适配不久，肯定还是会存在bug的地方，比如上述说的无法关注，也还有无法全屏！&lt;/p&gt;
+&lt;p&gt;在TV端使用时无法用遥控选择全屏，所以大家要记得把『&lt;strong&gt;自动全屏&lt;/strong&gt;』打开。&lt;/p&gt;
+&lt;p&gt;这样在电视上就可以直接进入全屏观看。&lt;/p&gt;
+&lt;p&gt;软件的Windows端用的是msix安装包，必须要Windows10系统以上才能安装。如果你是window10系统，但还是安装不了，那么你可能用的是精简版的系统，精简了Windows10自带的应用安装程序。&lt;/p&gt;
+&lt;p&gt;不过也没关系了，电脑端可有可无，完全可以直接使用官方网站来看。&lt;/p&gt;
+&lt;h3 id=&#34;v174&#34;&gt;v1.7.4
+&lt;/h3&gt;&lt;p&gt;-Fix:修复Bilibili&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;纯粹直播 1.7.4 纯净版 手机+TV+PC版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2986b7742d30&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2986b7742d30&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>我的电视 mytv-android 2.1.2 (电视直播) 官方版</title>
+        <link>https://kooshare.github.io/post/wodedianshi212/</link>
+        <pubDate>Wed, 14 Aug 2024 01:41:22 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/wodedianshi212/</guid>
+        <description>&lt;p&gt;原版我的电视 my-tv 在 2.1.8 版本后出现“认证状态错误”，据说作者已经停止了维护。面包发现另一个作者基于 my-tv 开发的一个修改版，频道方面增加了港澳台、数字高清、和部分国际频道，速度快，没有购物台，值得收藏。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/nKsX6wT.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814014146509&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h2&gt;&lt;h3 id=&#34;手机触摸屏用户请关闭焦点优化更多设置-界面-焦点优化关闭后可解决触摸设备在部分场景下闪退&#34;&gt;手机、触摸屏用户请关闭焦点优化（更多设置-界面-焦点优化），关闭后可解决触摸设备在部分场景下闪退
+&lt;/h3&gt;&lt;h3 id=&#34;新增&#34;&gt;新增
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;支持回放&lt;/li&gt;
+&lt;li&gt;新增播放控制（长按方向键下）&lt;/li&gt;
+&lt;li&gt;新增常驻底部节目进度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;优化&#34;&gt;优化
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;修复混合模式频道未对应正确&lt;/li&gt;
+&lt;li&gt;优化自定义直播源推送&lt;/li&gt;
+&lt;li&gt;优化焦点&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;修复&#34;&gt;修复
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;修复部分场景下闪退&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;破坏&#34;&gt;破坏
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;本地直播源将无法正常使用，请删除后重新添加&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;面包提醒&lt;/strong&gt;：软件内置了几个直播源，默认放不了可以切换其他源然后重启软件再试试，另外尽快开启ipv6，以后大多数直播软件源都是ipv6的地址，不再支持ipv4.&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/14a16dabd492&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/14a16dabd492&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>我的電視·〇 my-tv-0 1.3.5.11 (电视直播) 官方版</title>
+        <link>https://kooshare.github.io/post/wodedianshi13511/</link>
+        <pubDate>Wed, 14 Aug 2024 01:38:29 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/wodedianshi13511/</guid>
+        <description>&lt;p&gt;很多人非常喜欢&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/9274.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;我的电视(my-tv)&lt;/a&gt;这款电视直播软件，他确实是目前免费直播里面体验相当不错的一款，极为流畅。最近该作者又开发了另外一款不同UI风格的我的电视，可自定义，自带的源和我的电视(my-tv)一样。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/2wF8Zei.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814013848202&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;使用&#34;&gt;使用
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;遥控器左键/触屏单击打开节目列表&lt;/li&gt;
+&lt;li&gt;遥控器右键/触屏双击打开配置&lt;/li&gt;
+&lt;li&gt;遥控器返回键关闭节目列表/配置&lt;/li&gt;
+&lt;li&gt;打开配置页后，配置地址后并确认，更新节目列表&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h2&gt;&lt;p&gt;v1.3.5.11&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可配置緊湊的菜單&lt;/li&gt;
+&lt;li&gt;其他一些細節優化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c5965ec60384&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c5965ec60384&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Filemanager&#43; 3.4.7 (文件管理器) 官方版</title>
+        <link>https://kooshare.github.io/post/filemanager/</link>
+        <pubDate>Wed, 14 Aug 2024 01:17:37 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/filemanager/</guid>
+        <description>&lt;p&gt;智能电视的功能越来越丰富，可以安装各种应用程序、存储和播放多媒体文件，甚至连接到外部设备或网络共享资源。&lt;/p&gt;
+&lt;p&gt;在这种情况下，一个高效的文件管理工具就显得尤为重要。比如适配电视端操作的es文件管理、小白文件管理、MiXplorer_Silver等。&lt;/p&gt;
+&lt;p&gt;那么，这次要再推荐一款更为简洁、响应速度更快、操作体验要更好的电视端文件管理工具——Filemanager+ 文件管理器+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/vuLJm49.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814011755584&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Filemanager+ 文件管理器+是一款方便和强大好用的文件管理器，支持电视/手机，完美适配遥控操作，可以更好管理电视内存，云存储等。并支持局域网、WebDAV、网盘以及SMB3.0和SMB2.0等协议。&lt;/p&gt;
+&lt;p&gt;纯净无广无使用限制，完全可以当做电视文件管理长久使用。&lt;/p&gt;
+&lt;h3 id=&#34;轻松管理分析电视文件&#34;&gt;轻松管理、分析电视文件
+&lt;/h3&gt;&lt;p&gt;支持多种常用操作：打开、搜索、浏览目录、复制、粘贴、移动、删除、重命名、压缩、解压、下载等；还能对内存数据进行分析，以便更好的管理。&lt;/p&gt;
+&lt;h3 id=&#34;支持webdav网盘&#34;&gt;支持WebDAV、网盘
+&lt;/h3&gt;&lt;p&gt;网盘不支持咱们国内的网盘，但是支持WebDAV，因此可以挂载阿里网盘等，以便在电视上访问阿里网盘的资源。&lt;/p&gt;
+&lt;h3 id=&#34;支持smb30和smb20速度更快&#34;&gt;支持SMB3.0和SMB2.0，速度更快
+&lt;/h3&gt;&lt;p&gt;软件支持SMB3.0和SMB2.0协议，这意味着你可以享受到更快的文件传输速度和更稳定的连接。现在很多人都组建了自己的nas，里面存储了很多大文件资源，比如几十上百G的视频文件，那么就需要更快的传输速度，不然就会出现卡顿。&lt;/p&gt;
+&lt;h3 id=&#34;手机端效果&#34;&gt;手机端效果
+&lt;/h3&gt;&lt;p&gt;软件除了功能强大之外，也拥有简洁直观的界面设计，让你能够轻松上手。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后&lt;/strong&gt;来个简单对比吧，毕竟分享过好几款同类型软件，纯属个人使用体验：&lt;/p&gt;
+&lt;p&gt;es文件管理器普通版只支持SMB1.0，开通会员才有SMB2.0，文件传输速度没有文件管理器+那么快。&lt;/p&gt;
+&lt;p&gt;小白文件管理也是一样，而且小白还是好多年前的产品，多年前停更了。&lt;/p&gt;
+&lt;p&gt;最后MiXplorer_Silver和文件管理+都支持SMB3.0和SMB2.0，前者更花哨，后者更简单，而且遥控操作更好。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/80980586da5e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/80980586da5e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>星火直播/星火电视海外版 1.0.40.2 (电视直播) 官方版</title>
+        <link>https://kooshare.github.io/post/xinghuohaiwaiban/</link>
+        <pubDate>Wed, 14 Aug 2024 01:13:04 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/xinghuohaiwaiban/</guid>
+        <description>&lt;p&gt;星火直播TV电视版又称星火NEW直播（星火电视 StarFire TV），APP 兼容各种电视盒子与安卓电视手机，支持CCTV在线直播、内地卫视直播、台湾、香港、澳门等海外直播，是接口直播源流畅的电视应用，经过几年更新已经相当完善&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Brec6ne.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814011326644&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;星火电视名称与历史&#34;&gt;星火电视名称与历史
+&lt;/h2&gt;&lt;p&gt;1.星火NEW直播 – APP 诞生&lt;/p&gt;
+&lt;p&gt;2.星火直播TV或星火TV电视版 – 别称&lt;/p&gt;
+&lt;p&gt;3.火焰直播 – 因审查更动名称，当时成功解决台港澳不能看问题&lt;/p&gt;
+&lt;p&gt;4.星火海外版 – 此版为新开发团&lt;/p&gt;
+&lt;h2 id=&#34;星火电视功能特色&#34;&gt;星火电视&lt;strong&gt;功能特色&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;1.支持全国5000+个电视直播频道
+2.高清流畅便捷的用户体验
+3.央视、卫视、地方、体育、影视、动漫等频道应有尽有
+4.每个频道支持多条线路接口直播源选择
+5.支持用户自定义直播源，定义自己个性化的专属电视&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;支持400多个地方台与台湾、香港、澳门高清直&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;版本更新内容&#34;&gt;版本更新内容
+&lt;/h2&gt;&lt;p&gt;星火海外版 v1.0.40.2 （2024/8/1更新）&lt;/p&gt;
+&lt;p&gt;1.更新直播源&lt;/p&gt;
+&lt;p&gt;2.优化点播解码&lt;/p&gt;
+&lt;p&gt;3.增加特色节目&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9ded880923c9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9ded880923c9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>前线电视 1.2 (电视直播) 官方版</title>
+        <link>https://kooshare.github.io/post/qianxiandianshi/</link>
+        <pubDate>Wed, 14 Aug 2024 00:43:40 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/qianxiandianshi/</guid>
+        <description>&lt;p&gt;前线电视是一款收看电视直播的安卓app软件，内置绝大多数国内频道如央视、卫视、各省地方台、港澳台以及国际频道，还收录了许多电影剧集小品音乐轮播频道等几十个分类。并且支持隐藏分类，还没有广告或购物台，老人孩子也能放心观看。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/4DRqRTE.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814004359923&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d5f635c507c6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d5f635c507c6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>我的电视 my-tv 2.1.8-19 (电视直播) 修改版</title>
         <link>https://kooshare.github.io/post/wodedianshi/</link>
         <pubDate>Wed, 14 Aug 2024 00:29:54 +0800</pubDate>

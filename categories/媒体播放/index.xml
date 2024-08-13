@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>媒体播放 on KUL藏宝库</title>
+        <link>https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/</link>
+        <description>Recent content in 媒体播放 on KUL藏宝库</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>KUL藏宝库</copyright>
+        <lastBuildDate>Wed, 14 Aug 2024 01:42:36 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>纯粹直播TV 1.7.4 (虎牙斗鱼B站抖音聚合直播) PC&#43;安卓</title>
+        <link>https://kooshare.github.io/post/chuncuizhibo/</link>
+        <pubDate>Wed, 14 Aug 2024 01:42:36 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/chuncuizhibo/</guid>
+        <description>&lt;p&gt;看各类游戏直播、户外直播、才艺直播等兴趣化主题化特征显著的节目是一部分粉丝朋友们的喜好，目前主要在斗鱼、B站、虎牙、抖音直播这几个平台比较多。&lt;/p&gt;
+&lt;p&gt;软件超小杯曾经给大家分享过一款叫&lt;strong&gt;SimpleLive&lt;/strong&gt;的聚合型软件，它就整合了上述四大直播平台，可惜没有适配TV端，只能在手机使用，稍有遗憾。&lt;/p&gt;
+&lt;p&gt;但是没想到的是，今天这款同类型的软件实现了TV端的适配，并扩大到支持Windows，而且是开源软件——纯粹直播&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/mZLJ05m.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814014330324&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;纯粹直播是一款开源软件，纯净无广，整合了斗鱼、B站、虎牙、抖音直播四大平台，并适配TV+安卓手机+Windows。&lt;/p&gt;
+&lt;p&gt;这款软件其实很早就上线了，有些朋友可能使用过，不过之前都只是安卓手机版。&lt;/p&gt;
+&lt;h3 id=&#34;手机端&#34;&gt;手机端
+&lt;/h3&gt;&lt;p&gt;软件在最近更新的版本中才适配TV端。所以咱们重点看看tv端。&lt;/p&gt;
+&lt;h3 id=&#34;支持关注&#34;&gt;支持关注
+&lt;/h3&gt;&lt;p&gt;需要在手机端注册一下才能关注，不过这个账号是单独的，一切都要重新关注，但可以同时关注这四个平台的up主。&lt;/p&gt;
+&lt;p&gt;注意：关注只能在手机端才能操作，电视上，遥控光标无法选中关注按钮。&lt;/p&gt;
+&lt;h3 id=&#34;tv端一定这样设置&#34;&gt;TV端一定这样设置
+&lt;/h3&gt;&lt;p&gt;目前TV端还刚适配不久，肯定还是会存在bug的地方，比如上述说的无法关注，也还有无法全屏！&lt;/p&gt;
+&lt;p&gt;在TV端使用时无法用遥控选择全屏，所以大家要记得把『&lt;strong&gt;自动全屏&lt;/strong&gt;』打开。&lt;/p&gt;
+&lt;p&gt;这样在电视上就可以直接进入全屏观看。&lt;/p&gt;
+&lt;p&gt;软件的Windows端用的是msix安装包，必须要Windows10系统以上才能安装。如果你是window10系统，但还是安装不了，那么你可能用的是精简版的系统，精简了Windows10自带的应用安装程序。&lt;/p&gt;
+&lt;p&gt;不过也没关系了，电脑端可有可无，完全可以直接使用官方网站来看。&lt;/p&gt;
+&lt;h3 id=&#34;v174&#34;&gt;v1.7.4
+&lt;/h3&gt;&lt;p&gt;-Fix:修复Bilibili&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;纯粹直播 1.7.4 纯净版 手机+TV+PC版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2986b7742d30&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2986b7742d30&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>oneAnime 1.2.9 (看番软件) PC&#43;MAC&#43;安卓</title>
+        <link>https://kooshare.github.io/post/oneanime129/</link>
+        <pubDate>Wed, 14 Aug 2024 01:39:40 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/oneanime129/</guid>
+        <description>&lt;p&gt;oneAnime 是一款使用Flutter开发的Anime1第三方客户端。它是一款简洁清爽且无广告的看番软件，为用户提供了舒适的观影体验。该软件的界面设计符合Material You规范，使得用户能够享受到现代化、流畅且直观的操作体验。除了提供丰富的番剧资源外，oneAnime还具备弹幕功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/b3zdcST.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814014022386&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;最新更新&#34;&gt;最新更新
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;1.2.9&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修复 macOS 窗口按钮不隐藏的问题&lt;/li&gt;
+&lt;li&gt;升级 flutter 到 3.24.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/75e9ec081f10&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/75e9ec081f10&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
