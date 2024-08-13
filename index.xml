@@ -7,7 +7,644 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 13 Aug 2024 22:19:50 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 14 Aug 2024 00:39:31 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>花瓣测速 4.8.0.307 官方版</title>
+        <link>https://kooshare.github.io/post/huabancesu/</link>
+        <pubDate>Wed, 14 Aug 2024 00:39:31 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/huabancesu/</guid>
+        <description>&lt;p&gt;华为花瓣测速app是一款手机网速测试工具的网络测速工具.支持运营商3G/4G/5G/WiFi网络测速及时延抖动测试诊断,实时准确查看网络状态,功能包括:手机网络诊断,网络状态定位,游戏测试,蹭网检测,网络地图.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ygb8xTY.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814003955544&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;功能特性&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;支持Android、华为鸿蒙&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;免费无广告，界面简单易用、网络测试精准，测试速度快；&lt;/li&gt;
+&lt;li&gt;支持自动定位/手动选择测试服务器，国内测试节点数量多；&lt;/li&gt;
+&lt;li&gt;测试结果可显示待测网络的运营商名称，测试所在城市位置；&lt;/li&gt;
+&lt;li&gt;测试结果指标：Ping 时延、上传、下载速率，抖动，及丢包率等；&lt;/li&gt;
+&lt;li&gt;直观显示测试结果的整体排名分数，测试历史记录自动保存手机上；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;v4.8.0.307&lt;/p&gt;
+&lt;p&gt;【补丁】修复已知问题，优化APP稳定性&lt;/p&gt;
+&lt;p&gt;最近更新：
+【新增】Wifi仿真
+【新增】wifi安全检测
+【新增】视频测速
+【新增】蹭网检测
+【新增】网络地图&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7dd55ff4c2d2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/7dd55ff4c2d2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小红书 8.45.0 集成红薯猪手模块1.2.4 去广告版</title>
+        <link>https://kooshare.github.io/post/xiaohongshu845/</link>
+        <pubDate>Wed, 14 Aug 2024 00:38:04 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/xiaohongshu845/</guid>
+        <description>&lt;p&gt;小红书 App，是年轻人的生活方式平台，每月有超过2亿人在这里分享生活经验，发现真实、美好、多元的世界，找到想要的生活 。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/vb1NlK1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814003823944&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;【更有趣的生活方式】这里有年轻人流行的生活趋势。无论是野外露营、户外飞盘等新兴生活方式，还是潮流穿搭、美食烘焙等兴趣爱好，都能在这里入门和找到同好。 【真诚有用的直播】来小红书直播，与董洁、章小蕙等众多主播，聊聊小众穿搭配饰，宝藏美妆护肤品……即使什么也不买，也能有所得。&lt;/p&gt;
+&lt;p&gt;【明星大咖的另一面】这里有行走的“大理种草机”李现，超美“板姐”Angelababy……你可以看到明星们的露营、骑行、徒步户外体验，也可以看到他们宅家、做饭的“养老生活”。&lt;/p&gt;
+&lt;p&gt;【本地生活指南】本地人更及时、更实用的生活经验交流！当地买房租房避雷、怎么找工作……这里有本地人自己写的办事指南、教育资讯等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;
+· 去除图片和视频下载水印&lt;/p&gt;
+&lt;p&gt;**红薯猪手模块
+**净化功能：
+去除开屏广告
+去除首页悬浮控件
+自定义我的侧边栏
+自定义首页底部Tab
+去除搜索笔记瀑布流广告
+去除搜索商品瀑布流广告
+去除首页瀑布流的赞助广告
+加强功能：
+视频全屏沉浸
+长按视频下半区快进
+瞬间的图片和视频下载
+强制开启笔记浏览历史
+笔记详情图可以大图浏览
+被拉黑也可以看Ta的笔记
+可长按选择复制 笔记标题和内容
+瀑布流点击用户头像或名字可直接进入用户主页
+高级功能：
+本地访问用户历史记录
+本地评论回复历史记录
+标题过滤、用户名过滤
+去水印下载单张或全部原图图片
+允许全部视频下载，去水印下载，原声下载
+其它功能：
+去除检查更新
+直播修改默认招呼语
+直播默认关闭礼物特效&lt;/p&gt;
+&lt;p&gt;对比1.2.3更新记录:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;更新适配最低适配 8.32.0&lt;/li&gt;
+&lt;li&gt;修复 图片保存可能出现损坏&lt;/li&gt;
+&lt;li&gt;其它bug 修复&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/606ec5459b22&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/606ec5459b22&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>漫天星/漫天玉 2.3.5 (漫画软件) 去广告版</title>
+        <link>https://kooshare.github.io/post/mantianxing/</link>
+        <pubDate>Wed, 14 Aug 2024 00:37:00 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/mantianxing/</guid>
+        <description>&lt;p&gt;漫天星app是一款漫画大全阅读软件，软件内收录了非常丰富全面的漫画资源，实时更新最新章节，用户可以通过本软件线上免费观看喜欢的漫画，高清无水印。&lt;/p&gt;
+&lt;p&gt;精美页面，全场漫画免费读，漫天星应有尽有！看全彩高清漫画，就来漫天星；看热血日韩漫画，就来漫天星；看唯美可爱漫画，就来漫天星。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ytjjjPr.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814003720327&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;
+By zhou45
+去各种广告
+去阅读页面弹窗
+手动过签 提高兼容性
+精简
+去更新
+*如果加载不出来内容，需要重新安装一遍&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6fc37ecca9f5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6fc37ecca9f5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>李跳跳 2.2 (自动跳广告) 官方最终版&#43;2024年7月最新规则</title>
+        <link>https://kooshare.github.io/post/litiaotiao22/</link>
+        <pubDate>Wed, 14 Aug 2024 00:35:28 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/litiaotiao22/</guid>
+        <description>&lt;p&gt;李跳跳app(安卓跳广告APP软件)是一个评分超高下载量霸榜的用来跳广告的APP神器.李跳跳安卓版,免费功能强大,仅需一个权限.支持微信QQ自动登陆,李跳跳安卓最新版可节约APP启动时间,大大提高APP开启效率.&lt;/p&gt;
+&lt;p&gt;【我的缺点】在少数系统上为了稳定性，会延长音量条的消失时间。
+【很能跳】专注跳广告，能跳过绝大多数APP的开屏广告和弹窗广告。
+【能省电】每跳过一次广告，相当于变相地帮你节省2~3秒的电量。耗电快的手机，赶紧试试吧，别把电量花在看广告上。
+【不收费】免费使用，没有任何套路。用收费的标准，做免费的产品。
+【速度快】能秒跳绝大多数广告。
+【稳定】运行极其稳定，无需反复开启无障碍权限。
+【安全】无需联网，从源头上杜绝了隐私外泄的可能。
+【极简】极简设计，傻瓜式操作，懒癌专属。
+【良心】仅需一个权限。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/dTal61s.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814003600610&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2023.04.05 派大星2.2
+– 更新改了包名，可使用规则导入导出功能进行迁移。&lt;/p&gt;
+&lt;p&gt;李跳跳*派大星2.1
+– 修复部分系统稳定性
+– 更换包名，安装之后卸载旧版即可&lt;/p&gt;
+&lt;p&gt;李跳跳*派大星2.0
+– 更换了应用包名
+1.内置更多规则。
+2.新增失效提醒。
+3.新增导入导出规则。
+4.新增规则生成器。
+5.新增微信自动勾选原图。
+6.新增QQ自动查看原图。
+7.为每个功能都添加注解。
+8.支持页面白名单。
+9.支持模糊匹配、首尾匹配、全匹配。
+10.支持联合规则。
+11.支持坐标点击。
+12.优化用户体验。
+13.优化内存占用。
+14.优化省电逻辑。
+15.优化暗色模式。
+16.优化安卓12系统下的一糟糕体验。
+17.修复少量BUG。
+18.适配锁屏然后亮屏出现的广告。&lt;/p&gt;
+&lt;p&gt;应用大小：3.05MB
+应用版本：派大星2.2(3)
+应用包名：hello.litiaotiao.app
+编译时间：2023年4月5日, 1:24:39&lt;/p&gt;
+&lt;p&gt;Github上网友维护的李跳跳自定义规则 更新到20231028&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9zbm9vcHkxODY2LmdpdGh1Yi5pby9MaVRpYW90aWFvLUN1c3RvbS1SdWxlcy8=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://snoopy1866.github.io/LiTiaotiao-Custom-Rules/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;规则导入方法：李跳跳主界面点“更多”——右上角省略号——导入规则——将上面复制的全部规则粘贴——保存&lt;/p&gt;
+&lt;p&gt;也可以尝试同类软件&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/7269.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GKD&lt;/a&gt;，除了开屏广告还能跳过应用内广告，不过需要联网权限才能随时更新规则。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;李跳跳(派大星)2.2+2024最新规则文件&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/290599cc5a88&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/290599cc5a88&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>全球网测 4.3.4 (网络测速) 官方版</title>
+        <link>https://kooshare.github.io/post/quanqiuwangce/</link>
+        <pubDate>Wed, 14 Aug 2024 00:34:27 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/quanqiuwangce/</guid>
+        <description>&lt;p&gt;我们现在对于网络的需求已经远远超越了仅仅浏览网页和发送邮件的范畴，一个好的网速环境对我们非常重要，因为我们需要更快速、更稳定的网络来支持高清视频、在线游戏和远程办公等多种需求。&lt;/p&gt;
+&lt;p&gt;最近发现了一款更适合我们使用测速APP，由国家队-中国信息通信研究院出品，完全免费且无广，支持iOS+安卓——全球网测&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/EwstxWH.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814003446883&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;妥妥的国家队开发的产品，由工信部直属科研单位中国信通院产业与规划研究所自主研发的一款拥有宽带测速、上网体验和网络诊断等功能的综合测速软件。&lt;/p&gt;
+&lt;p&gt;我们使用并对比了一下之前的Ookla Speedtest和花瓣测速，觉得全球网测还是更好用些，部分网友的评价也说比Ookla Speedtest的准确度高些。&lt;/p&gt;
+&lt;p&gt;支持千兆宽带和5G网络测速，内置多个运营商节点，可以自动选择就近节点进行测速。&lt;/p&gt;
+&lt;p&gt;支持定期自动测速，将结果保存为日志，方便分享和分析。还内置境外网络测试功能，可以测试用户所在网络到全球六大洲的链路性能，包括延时和丢包等。此外，该应用还支持PING、DIG、DNS等查询功能。&lt;/p&gt;
+&lt;p&gt;支持体验测速&lt;/p&gt;
+&lt;p&gt;如网站类、视频类、文件类、游戏类相关产品在目前网络下的使用体验。比如我想知道现在的网络会不会影响我玩王者荣耀。现在的网络看剧卡不卡。等等。&lt;/p&gt;
+&lt;p&gt;全球网测APP的测试基于中国信通院规划所覆盖全国的千余台自有测量服务器，既能达到专业技术人员的测试要求，也能满足普通宽带用户的测速需求，让你可以随时随地通过app测试网络，了解当前网络状态，并找到网络问题的根源。&lt;/p&gt;
+&lt;h3 id=&#34;v434&#34;&gt;v4.3.4
+&lt;/h3&gt;&lt;p&gt;改进测试场所配置功能；&lt;/p&gt;
+&lt;p&gt;部分视频失败问题解决；&lt;/p&gt;
+&lt;p&gt;部分业务测试参数修正&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/64afc82e6c09&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/64afc82e6c09&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>墨迹天气 9.0874.02 解锁内购去广告版</title>
+        <link>https://kooshare.github.io/post/mojitianqi/</link>
+        <pubDate>Wed, 14 Aug 2024 00:33:06 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/mojitianqi/</guid>
+        <description>&lt;p&gt;墨迹天气是运行在Symbian和Android上的一款免费天气信息查询软件。人性化设计，使用简单，是中国支持城市最多的手机天气预报软件。墨迹天气有多个版本，每个版本都有自己的特点。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/dme2SUA.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814003334077&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h2&gt;&lt;p&gt;• 基于官方版修改
+• 解除VIP限制
+• 删除所有广告&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c8e39e2e8fc0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c8e39e2e8fc0&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Pixiv 6.115.1 (插画社区P站) 去广告版</title>
+        <link>https://kooshare.github.io/post/pixiv/</link>
+        <pubDate>Wed, 14 Aug 2024 00:32:03 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/pixiv/</guid>
+        <description>&lt;p&gt;Pixiv 是一个主要由日本艺术家所组成的虚拟社群应用，主体为 pixiv 插画艺术特化的社交网络服务网站。主要分享新兴的日本同人画、插画作品。每个参与者都有自己的主页并可以对作品评价打分。&lt;/p&gt;
+&lt;p&gt;Pixiv 的特色在于作者会在里面放入分辨率很高的大图。不光有日本知名插画家，中国、韩国、美国……等国家的绘画高手也聚会于此互相交流。就算不懂日语，光是看画收集图片也是一种很令人高兴的事！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/kKUDynS.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814003224934&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Pixiv 最大特色是支持关键字检索，每张图片都会被标注有标签，所以可以以查找自己感兴趣的标签的方法来找图交流！在 Pixiv 里面发表著作的话，只要是新发的就会显示在首页。但是因为用户量非常大，大约是每一秒钟就会有N幅新著作上传，所以……！&lt;/p&gt;
+&lt;p&gt;pixiv 现在收录著作主要分为：插画、漫画、小说三类内容，并经过标签系统对用户的著作进行分类和查找，主题来历可能为：日本动漫、日本漫画、电子游戏的同人艺术，或者是朴实的原始艺术。当图片内容只合适成人观众，而不合适儿童欣赏时，便会透过一过滤器分隔其内容，防止儿童直接阅读，这项设定可在用户的个人资料中敞开或关闭。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;
+解锁高级功能，去除广告。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/34d281b29eb2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/34d281b29eb2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>bilibili 8.3.1 (B站哔哩哔哩) 集成哔哩漫游模块去广告版</title>
+        <link>https://kooshare.github.io/post/bilibili831/</link>
+        <pubDate>Wed, 14 Aug 2024 00:31:05 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/bilibili831/</guid>
+        <description>&lt;p&gt;哔哩哔哩app(英文名称:bilibili简称B站)是国内知名的动漫视频弹幕社区的安卓客户端,哔哩哔哩安卓最新版的bilibili漫游版,内置哔哩漫游模块,b站漫游版可以自定义去除广告,解除番剧版权限制,哔哩哔哩漫游版下载.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/YPFymzS.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814003124065&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;哔哩哔哩app,b站漫游版,bilibili漫游版,哔哩哔哩漫游版,b站去广告版
+– 哔哩哔哩内置哔哩漫游模块版，可以自定义去广告，无需root就能安装
+– 官方哔哩哔哩原版LSPatch凯入方式集成模块：哔哩漫游 v1.7.0 正式版&lt;/p&gt;
+&lt;p&gt;# 内置哔哩漫游版激活隐藏功能-&amp;gt;自定义去广告步骤方法：
+首先点五下哔哩哔哩漫游界面的「关于版本」 ，然后重启哔哩哔哩客户端
+继续进入哔哩哔哩漫游界面，下拉就看到隐藏功能（各种去广告净化功能）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/96564ec54c69&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/96564ec54c69&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>我的电视 my-tv 2.1.8-19 (电视直播) 修改版</title>
+        <link>https://kooshare.github.io/post/wodedianshi/</link>
+        <pubDate>Wed, 14 Aug 2024 00:29:54 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/wodedianshi/</guid>
+        <description>&lt;p&gt;我的电视APP(我的电视TV版)是一款免费无广告的智能电视及机顶盒电视直播软件APP,我的tv电视版同步央视卫视高清直播和地方卫视频道.我的电视tv电视版支持直播时移/直播预约/回看功能,高清/超清直播源切换.&lt;/p&gt;
+&lt;p&gt;我的电视 my-tv 是一款安卓电视直播软件，内置直播源。频道不多，只有央视、卫视，国际频道只有央视所有的CGTN，没有广告和购物台，可以放心给父母或孩子观看。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/5xeAsv3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814003017238&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志：
+&lt;/h2&gt;&lt;p&gt;免费、无广告、无购物台&lt;/p&gt;
+&lt;p&gt;v2.1.8-19-alpha&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优化卫视播放源&lt;/li&gt;
+&lt;li&gt;增加吉林、云南、广东卫视&lt;/li&gt;
+&lt;li&gt;恢复河南卫视&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2.1.8之后原版作者不再更新，目前更新版为别人接手维护的版本&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/951fe1d2b526&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/951fe1d2b526&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>万兴喵影 Filmora 13.6.01 (视频剪辑) 解锁内购去广告版</title>
+        <link>https://kooshare.github.io/post/wanxingmiaoying/</link>
+        <pubDate>Wed, 14 Aug 2024 00:28:41 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/wanxingmiaoying/</guid>
+        <description>&lt;p&gt;万兴喵影 Filmora 视频编辑器(原名 FilmoraGo 视频编辑器)一款适用于 YouTube 和 Tik Tok 的易于使用的视频编辑器和电影制作器，拥有超过 1000 首音乐、超过 5000 个贴纸和滤镜、文本、音频、表情符号、背景等。修剪剪辑、添加音乐、过渡效果、文本、表情符号和滤镜，在几分钟内创建令人难以置信的视频。模板可帮助您在 TikTok、Instagram Reels、YouTube 或任何您喜欢的地方创建自己的电影！使用 Filmora 视频编辑器，您将节省时间并享受乐趣。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/GlXG9RG.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814002905521&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;·支持视频比例调节：1:1、4:3、3:4、4:5、16:9、9:16等 ◦
+·支持高清拍摄，快速导入，直接编辑视频
+·剪辑、分割、合并、裁剪、拼接多个视频，轻松完成视频修剪与处理
+·支持视频裁剪、旋转、截屏、复制、静音
+·支持导入照片，一键制作电子相册视频
+·视频加速、减速、快进、慢放，你的节奏由你掌控
+·视频倒放，时间倒流，跟着你左手右手反复慢动作
+·支持画面调节：亮度、对比度、饱和度、锐度、色温、暗角
+·画中画支持图片与视频&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;by Balatan、Alien、Pie
+此版本专注修改，开启会员至尊功能，解锁全部高级特效。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/5116e9bf3b3f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/5116e9bf3b3f&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>微信输入法 1.3.1 (安卓键盘输入) 官方版</title>
+        <link>https://kooshare.github.io/post/weixinshurufa/</link>
+        <pubDate>Wed, 14 Aug 2024 00:27:33 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/weixinshurufa/</guid>
+        <description>&lt;p&gt;微信输入法是微信官方出品的中文输入法，提供高效的输入体验、精准的推荐策略、多元的创新玩法。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/WCiUU4P.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814002753459&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;去年微信公开课Pro版的微信之夜上，张小龙透露，微信即将有自己的输入法。张小龙表示微信原来并不想去做输入法，但收到很多用户投诉自己聊天记录被窃取，因为输入什么就会看到相应的广告。彼时张小龙解释道，微信不保存聊天记录，微信也规定谁看了用户的聊天记录会被开除的。所以出于保护用户的隐私，微信就要自己做一个输入法。微信输入法界面清新，拼写Plus功能高效输入。支持九宫输入、全键盘输入、五笔输入、双拼输入、语音输入。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;v1.3.1&lt;/p&gt;
+&lt;p&gt;– 输入问题后，可通过「问 AI」获取答案&lt;/p&gt;
+&lt;p&gt;– 支持自定义键盘切换键&lt;/p&gt;
+&lt;p&gt;– 体验优化与问题修复&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a43e03c74151&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a43e03c74151&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>OfficeSuite 14.6.52812 解锁内购去广告版</title>
+        <link>https://kooshare.github.io/post/officesuite/</link>
+        <pubDate>Wed, 14 Aug 2024 00:26:29 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/officesuite/</guid>
+        <description>&lt;p&gt;OfficeSuite中文版是一款Google Play商店下载量最多的移动办公软件应用,迄今为止,智能手机平台上,功能最强大,兼容性最好的移动Office办公套件.OfficeSuite破解版支持创建,查看和编辑Word,Excel和PowerPoint文档,支持查看PDF文档及增强安全性,支持将PDF导出为Word,Excel和ePub,将任何文件转换为PDF格式.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/AcNIoH5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814002651738&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OfficeSuite Pro + PDF – Google Play
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5tb2Jpc3lzdGVtcy5lZGl0b3Iub2ZmaWNlX3JlZ2lzdGVyZWQ=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://play.google.com/store/apps/details?id=com.mobisystems.editor.office_registered&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【免费版】OfficeSuite + PDF Editor
+– 有广告，在Play商店免费下载功能有限制
+【专业版】OfficeSuite Pro + PDF
+– 无广告，在Play商店需要付费购买才能下载
+【高级版】OfficeSuite Premium + PDF
+– 无广告，要付费购买密钥才能激活升级高级版&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OfficeSuite: Word, Sheets, PDF [Premium] [Mod Extra]&lt;/p&gt;
+&lt;p&gt;by Balatan
+– 解锁高级版，免费畅享高级版特性（注：部分特权需登陆）
+├—免广告；Word文档转换为PDF无水印；保存文档无水印
+├—支持PDF导出Word,Excel,ePub，可将任何文件导出PDF&lt;/p&gt;
+&lt;p&gt;小提示：反编译后签名原因不可以Google/Adobe账户登陆&lt;/p&gt;
+&lt;p&gt;应用大小：88.4MB
+应用架构：arm64-v8a
+应用版本：14.6.52812(52812)
+应用包名：com.mobisystems.office
+编译日期：2024年07月11日，19:28:58&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/00eb43c8e033&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/00eb43c8e033&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>酷我音乐 10.8.7.0 解锁内购去广告版</title>
+        <link>https://kooshare.github.io/post/kuwo108/</link>
+        <pubDate>Wed, 14 Aug 2024 00:25:18 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/kuwo108/</guid>
+        <description>&lt;p&gt;酷我音乐app是老牌音乐播放软件,酷我音乐安卓最新版供智能煲机,蝰蛇音效,AI智能音效,听歌识曲,KTV点歌等功能.酷我音乐手机版,无损音质歌曲支持免费试听及下载.拥有专业音频解码技术,实现各音频高保真播放.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/uRMyFRn.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814002539456&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h2&gt;&lt;p&gt;10.0全新改版，支持暗色皮肤！&lt;/p&gt;
+&lt;p&gt;by 暗猎魂殇,童鞋,东明
+– 破解豪华VIP会员，显示SVIP尊贵标识，免费畅享会员特权
+– 已特别处理：解除海外限制、灰色歌曲(已下架的收藏歌曲) (@耗子)
+– 免登陆解锁：会员音质/版权付费歌曲/HiRes专区数字专辑/付费听书
+– 免登陆解锁：下载加速、会员音效、会员皮肤、会员背景、会员动效
+– 去启动广告、去更新提示弹窗禁止升级、解决酷我音乐盗版提示问题
+– 去直播按钮、去免费小说和看漫画标签、精简底部栏和右侧栏无用项&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/928bb2cb29ea&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/928bb2cb29ea&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>秒看电视HD/秒看直播 9.2.17 (电视直播) 去广告版</title>
+        <link>https://kooshare.github.io/post/miankandianshi/</link>
+        <pubDate>Wed, 14 Aug 2024 00:24:10 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/miankandianshi/</guid>
+        <description>&lt;p&gt;秒看电视APP(秒看电视TV版)是一款免费无广告的智能电视及机顶盒电视直播软件,秒看tv电视版提供稳定高清频道,数字频道,经典影视专栏等.秒看tv电视软件支持直播时移/直播预约/回看功能,高清/超清直播源切换.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/M0P6dvO.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814002432070&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2024.07.13 v9.2.17 无购物台&lt;/p&gt;
+&lt;p&gt;v9.2.x 云控加启动广告&lt;/p&gt;
+&lt;p&gt;v9.x.x 秒看HD, 无广告最新免费纯净版&lt;/p&gt;
+&lt;p&gt;v7.8.0 秒看直播，开始添加了启动广告&lt;/p&gt;
+&lt;p&gt;v7.7.0 秒看电视，开始自动下载秒看助手&lt;/p&gt;
+&lt;p&gt;v7.6.8 秒看电视，开始分类夹杂购物频道&lt;/p&gt;
+&lt;p&gt;最近更新：
+– 增加高清回看
+– 支持语音换台
+– 支持频道自建码分享
+– 增加了秒看手机助手
+– 设置增加记忆源功&lt;/p&gt;
+&lt;h2 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h2&gt;&lt;p&gt;面包暂不清楚新版“秒看HD”是否为原秒看团队开发，仅从UI看和原来的版本差不多。加载速度很快，每个类别下有一个购物台。安装在手机上会自动下载一个手机版APP“手机电视”，可自由选择是否安装，第二次启动秒看HD不会再提示。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;秒看电视TV版 秒看HD 9.2.17&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/98b09cbde2bb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/98b09cbde2bb&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AdGuard Android 4.6.33 (广告拦截) 解锁内购去广告版</title>
+        <link>https://kooshare.github.io/post/adguard/</link>
+        <pubDate>Wed, 14 Aug 2024 00:23:11 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/adguard/</guid>
+        <description>&lt;p&gt;AdGuard中文版广告拦截器是一款最受欢迎的广告拦截程序.Adguard手机版Adguard安卓版无需ROOT权限,可以拦截所有应用和浏览器的广告.具有广告内容拦截跟踪器(包括:广告过滤器,社交过滤器,隐私过滤器,安全过滤器,自定义过滤器),DNS过滤,HTTPS过滤,节省应用流量数据管理以及隐身模式保护个人安全隐私.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Xod953K.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814002330343&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AdGuard – Block Ads Without Root Nightly for Android
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9hZGd1YXJkLmNvbS96aF9jbi92ZXJzaW9ucy9hbmRyb2lkL25pZ2h0bHkuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://adguard.com/zh_cn/versions/android/nightly.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2024年7月11日 AdGuard Android版 4.6 Nightly 14 测试版&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Adguard [Nightly] [Premium] [Mod]&lt;/p&gt;
+&lt;p&gt;by Balatan
+adguard安卓版,adguard破解订阅版
+– 解锁永久订阅版，可以正常更新规则
+– 去除首次启动欢迎界面快速设置向导
+– 跳过发送改善体验以及隐私政策向导
+– 禁用或移除了不必要的权限、服务、接收器、提供器
+– 删除不必要资源文件、对齐优化、压缩打包减小体积&lt;/p&gt;
+&lt;p&gt;应用大小：31.6MB
+应用架构：arm64-v8a
+应用版本：4.6.33(10201591)
+应用包名：com.adguard.android
+编译日期：2024年07月11日，16:05:16&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/96ffdd4e111b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/96ffdd4e111b&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Solid Explorer 2.8.46 (文件管理器) 解锁内购去广告版</title>
+        <link>https://kooshare.github.io/post/solidexplorer/</link>
+        <pubDate>Wed, 14 Aug 2024 00:22:07 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/solidexplorer/</guid>
+        <description>&lt;p&gt;Solid Explorer文件管理器是一款外观配色精美功能强大的安卓文件管理器及网盘文件管理器.Solid Explorer最新版可以访问Android 11/Android/Data目录,支持各种网络共享传输协议:FTP,SFTP,WebDav,SMB,CIFS.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/q48wsyD.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814002226571&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Solid Explorer File Manager – Google Play
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPXBsLnNvbGlkZXhwbG9yZXIy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://play.google.com/store/apps/details?id=pl.solidexplorer2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近更新：
+-支持访问Android 11+根目录/Android/Data (v2.8.8+)
+-支持在Google Drive客户端共享驱动器 (v2.8.33+)
+-支持SMB3功能，改进了文件传输速度 (v2.8.33+)
+-更新了Dropbox网盘接口&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Solid Explorer [Full] [Mod Extra]&lt;/p&gt;
+&lt;p&gt;by Balatan
+– 解锁付费功能完整版，移除所有广告元素
+– 添加回 Google Drive 谷歌云端硬盘且可以验证使用
+– 禁用或移除了不必要的权限、服务、接收器、提供器
+– 删除不必要资源文件、压缩资源对齐优化、减小体积&lt;/p&gt;
+&lt;p&gt;相关插件：
+﹂MEGA v1.1.5 [armv7] [arm64]
+﹂USB OTG Plugin v1.0.6 解锁版
+﹂Amazon Cloud Drive &amp;amp; S3 v1.0.2
+﹂SE FTPServer v1.2.5
+﹂Cast v1.0&lt;/p&gt;
+&lt;p&gt;应用大小：22.3M
+应用架构：arm64-v8a
+应用版本：2.8.46(200288)
+应用包名：pl.solidexplorer2
+编译日期：2024年07月11日，11:53:04&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c448d13c8bae&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c448d13c8bae&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>CIBN 17区免费听书 1.0.1 (电视听书) 官方版</title>
+        <link>https://kooshare.github.io/post/cibn/</link>
+        <pubDate>Wed, 14 Aug 2024 00:20:41 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/cibn/</guid>
+        <description>&lt;p&gt;听书全免费是17区免费听书这款应用的slogan，CIBN_17区免费听书TV提供了涵盖都市爽文、悬疑惊悚、言情穿越、玄幻修仙、武侠江湖等多种题材的有声书。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/mS3EKP7.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814002109848&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;软件界面非常之极简，简洁到甚至有点丑陋，连登录系统也省了，安装就能听，简陋归简陋，但是非常适合电视遥控操作。&lt;/p&gt;
+&lt;p&gt;大屏听书，别样体验&lt;/p&gt;
+&lt;p&gt;电视作为家庭娱乐的中心设备，其大屏、高音质等特性，特别是音效好的特点，为听书提供了更好的体验。所以，在电视上听书也是一种很好的方式，各位喜欢听书的朋友，尝试一下电视上听书这种方式，没准你会喜欢。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/62a5b12f00c3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/62a5b12f00c3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>万能AI证件照 1.3.2 破解版</title>
         <link>https://kooshare.github.io/post/aizhengjianzhao/</link>
         <pubDate>Tue, 13 Aug 2024 22:19:50 +0800</pubDate>
