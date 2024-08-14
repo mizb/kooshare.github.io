@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="CGI-Plus最新版(CGI一键备份恢复工具)是一款集备份,恢复,NT6安装自动修复引导等功能于一身的硬盘备份软件一键恢复工具,一键恢复C">
+<title>CGI-Plus 5.0.0.6 (一键备份/还原硬盘分区) 绿色版</title>
+
+<link rel='canonical' href='https://kooshare.github.io/post/cgiplus/'>
+
+<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="CGI-Plus 5.0.0.6 (一键备份/还原硬盘分区) 绿色版">
+<meta property='og:description' content="CGI-Plus最新版(CGI一键备份恢复工具)是一款集备份,恢复,NT6安装自动修复引导等功能于一身的硬盘备份软件一键恢复工具,一键恢复C">
+<meta property='og:url' content='https://kooshare.github.io/post/cgiplus/'>
+<meta property='og:site_name' content='KUL藏宝库'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-08-15T01:15:07&#43;08:00'/><meta property='article:modified_time' content='2024-08-15T01:15:07&#43;08:00'/>
+<meta name="twitter:title" content="CGI-Plus 5.0.0.6 (一键备份/还原硬盘分区) 绿色版">
+<meta name="twitter:description" content="CGI-Plus最新版(CGI一键备份恢复工具)是一款集备份,恢复,NT6安装自动修复引导等功能于一身的硬盘备份软件一键恢复工具,一键恢复C">
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+  
+
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu12742395681378621043.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">KUL藏宝库</a></h1>
+            <h2 class="site-description">纯净软件爱好者</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>存档</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/link/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>友情链接</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/" >
+                电脑软件
+            </a>
+        
+            <a href="/categories/%E5%A4%87%E4%BB%BD%E8%BF%98%E5%8E%9F/" >
+                备份还原
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/cgiplus/">CGI-Plus 5.0.0.6 (一键备份/还原硬盘分区) 绿色版</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024-08-15</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <p>CGI-Plus最新版(CGI一键备份恢复工具)是一款集备份,恢复,NT6安装自动修复引导等功能于一身的硬盘备份软件一键恢复工具,一键恢复CGI增强版具备GHOST和ImageX双核心,32/64位自适应,支持GHO/WIM/SWM/ESD,支持UEFI+GPT启动,支持动态磁盘.对外置工具及无人值守配置文件的支持使其功能得到极大扩展.</p>
+<p><img src="https://i.imgur.com/ETKRQAG.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20240815011524168"
+	
+	
+></p>
+<p><strong>功能描述</strong></p>
+<p>1、智能判断当前运行的Windows或PE是32位还是64位，如果是32位调用GHOST32/32位的ImageX，如果是64位则调用GHOST64/64位的ImageX。64位速度比32位要快，支持多核多线程备份还原才最快。
+2、支持无人值守配置，支持镜像格式：GHO、WIM、SWM、ESD、ISO，可实现真正的一键备份恢复。</p>
+<p>3、支持在UEFI + GPT平台中往全新的GPT硬盘（有ESP分区）恢复64位的WIN7/WIN8.1的GHO/WIM/SWM/ESD/ESD镜像，当然需用支持UEFI启动的U盘启动到PE恢复（到PE区选支持UEFI启动的PE即可）。</p>
+<p>4、支持用WIN7/8/8.1原版ISO/光盘安装，如有OEM信息则自动添加；支持蜻蜓、无约等大侠WIN7/WIN8合盘的安装，如有OEM信息也自动添加。</p>
+<p>5、支持EISA分区，支持Ext2/3分区，是否可写取决于GHOST/ImageX。</p>
+<p>6、支持GPT磁盘。在32位XP下也能正确备份/还原基本磁盘GPT分区，支持动态GPT隐藏分区。</p>
+<p>7、支持动态磁盘，不论是MBR分区方式还是GPT分区方式。只要不是当前系统分区，在Windows中和PE中都可备份/还原，系统分区需在PE下还原，但可在Windows备份。除了能正确备份/还原简单卷外，也能正确备份/还原跨区卷等。</p>
+<p>8、有分区到分区的拷贝—–分区对拷；有对整块硬盘的操作——还原硬盘、备份硬盘、硬盘对拷。</p>
+<p>9、支持ISO中的GHO/WIM/SWM/ESD镜像。</p>
+<p>10、支持多硬盘，支持IDE/SCSI/SATA/SAS/USB HDD/USB FLASH DRIVE混合硬盘/磁盘，支持SSD(固态硬盘)，支持4K对齐，支持一个硬盘有多个主分区的情况，支持盘符交错，支持Win分区和非Win分区交错。</p>
+<p>11、还原时，如果GHO镜像文件有密码，则直接破解该密码，用户无需做任何干预。检查GHO镜像完整性时，也同样可直接破解密码。</p>
+<p>12、可运行于XP/2K3/VISTA/WIN7/WIN8/WIN8.1和相应的PE。</p>
+<p>【一键恢复CGI增强版比标准版多的功能】
+1、在Windows还原/备份当前系统时，可重启到DOS进行（UEFI + GPT除外）；
+2、可安装系统菜单（UEFI + GPT除外）；可设置启动热键（UEFI + GPT除外）；
+3、可自定义GHOST核心版（只在Windows/PE中有效，在DOS中只有11.5.1版）。</p>
+<p>关于JexChan(老五)的CGI增强版：</p>
+<p>在网上得到一份CGI-plus源码，对其做系列更改优化。并将对以后使用中发现的问题修正。
+一键恢复CGI原帖 （无人值守配置指南、常见问题及解答）by clonecd (原创作者早年已停更)
+一键恢复CGI 3.2，32/64位自适应，支持GHO/WIM/SWM，支持GPT/动态磁盘(2014.02.09)</p>
+<p>– 更新Ghost、wimlib-imagex
+– 支持ESD解密，无需人工干预
+– 保留原版的所有特性（无人值守配置等）
+– 更改执行方式，原来是整体解压，现在是按需释放
+– 使用最新版PECMD，支持繁体系统，简繁自适应
+– 删除内置的15个小程序，全部改用PECMD代码完成
+– 支持WIM分卷使用中文卷名，同时显示描述信息
+– 支持配置文件(程序名.cfg)，指定外置程序，减少体积
+– 64位程序代码和32位保持一致，使64位比原版功能更强大
+– 挂载ISO改成OSFMount、优化精简代码、高分屏自适应等</p>
+<p><strong>新版变化</strong></p>
+<p>2023年4月更新</p>
+<p>更新内置 wimlib 组件版本为 v1.14.0 正式版</p>
+<p>2023年2月更新</p>
+<p>更新内置工具 Ghost 版本为 v12.0.0.11531</p>
+<p>更新内置 wimlib 组件版本为 v1.13.6 正式版</p>
+<p>========================</p>
+<p>2020.04.28 v5.0.0.5（原作者最终版本）
+更新usort.exe</p>
+<p>2020.04.25 v5.0.4.0
+1.升级PECMD到最新版。
+2.升级格式化脚本（无format.com的情况）
+3.中间升级过osfmount，发现有问题，又回溯到上个能正常的版本了
+4.中间换过图标，发现已经习惯旧图标，还是换回来吧
+5.拉宽了界面
+6.修正由于升级PECMD造成的静默模式读不到映像列表的问题。（不知道从哪个版本开始的，没深究，也许很早就有了）</p>
+<p>2020.03.15 v5.0.0.2
+1.尝试解决 OSFMount 驱动版本太低的蓝屏问题。（无法重现，只能臆测）
+2.显示WIM分卷信息时将“显示名称”和“名称”对调，没名字的强行安个名字。</p>
+<p>2019.03.19
+1.优化代码，提升软件打开速度。
+2.Wimlib-imagex升级到1.13.0。
+3.某些特殊情况下还原时，自动复制ISO内的ghs分卷到硬盘分区。
+4.当路径长度超出下拉列表框时才出现气泡提醒。
+5.第一页选择分区的列表，增加分区形式、是否激活等信息。
+6.第二页选择硬盘的列表，增加分区形式。
+7.修正无人值守配置中无法指定修复引导方式的BUG。
+8.当使用Wimlib-imagex方式恢复系统时，格式化磁盘后继承原卷标。
+9.当ESD是加密的情况下，不用解密也可显示分卷信息。</p>
+<p># 为什么不推荐使用CGI-Plus单文件版？
+因为单文件某些U盘或者PE环境会出现ghost文件无法加载运行！</p>
+<p><strong>下载地址</strong></p>
+<p>CGI-Plus v5.0.0.6(202304) 资源外置绿色版</p>
+<p><a class="link" href="https://pan.quark.cn/s/8e5aef846dca"  target="_blank" rel="noopener"
+    >https://pan.quark.cn/s/8e5aef846dca</a></p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/deepfreeze90/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">冰点还原 Deep Freeze 9.0.20.5760 (系统还原) 破解版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/macroritpartitionexpert820/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Macrorit Partition Expert 8.2.0 (分区专家) 单文件</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/snapshot15001525/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">SnapShot 1.50.0.1525 (硬盘备份) 绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/aomeipartitionassistant1041/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">分区助手 AOMEI Partition Assistant 10.4.1 绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/diskgenius5601565/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">DiskGenius 5.6.0.1565 (磁盘分区) 单文件</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2024 KUL藏宝库
+    </section>
+    
+    <section class="powerby">
+        使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
+        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.26.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>
