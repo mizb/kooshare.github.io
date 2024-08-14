@@ -7,7 +7,1369 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 14 Aug 2024 19:56:45 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 14 Aug 2024 20:47:27 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Simple Live 1.7.3 (虎牙斗鱼B站抖音聚合直播) PC&#43;安卓&#43;MAC</title>
+        <link>https://kooshare.github.io/post/simplelive/</link>
+        <pubDate>Wed, 14 Aug 2024 20:47:27 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/simplelive/</guid>
+        <description>&lt;p&gt;B站、斗鱼、虎牙这三个平台都是国内比较大的视频及直播平台，深受年轻人的喜爱，兴趣化主题化特征显著。&lt;/p&gt;
+&lt;p&gt;软件超小杯之前给第三方开发大佬们提过一个小建议，就是可以搞个直播平台的第三方聚合版本，把斗鱼、虎牙、yy甚至B站和acfun等都聚合在一个软件里面。&lt;/p&gt;
+&lt;p&gt;今天，说来就来，一个聚合B站、斗鱼、虎牙和抖音的直播APP来了，而且&lt;strong&gt;已开源，支持安卓+iOS以及车机，差一点支持TV&lt;/strong&gt;——Simple Live&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/qbEE3lv.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814204754187&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Simple_Live是一个开源的，获取各个平台的直播信息及弹幕,基于AllLive项目实现的APP。&lt;/p&gt;
+&lt;p&gt;软件目前主要整合了B站、斗鱼、虎牙和抖音这四个直播平台的内容。&lt;/p&gt;
+&lt;p&gt;这四个都是目前最知名的直播平台，各有其特点和用户群体。&lt;/p&gt;
+&lt;p&gt;B站，以分享ACG（动画、漫画、游戏）文化而闻名，有大量的二次元内容，也是各种科普、纪录片、舞蹈、相声小品等多元化内容的聚集地。&lt;/p&gt;
+&lt;p&gt;斗鱼，是中国最大的游戏直播平台之一，有各类游戏的直播。除了游戏直播，还涉及到了生活领域，包括美食、旅游、户外活动等不同领域的直播。&lt;/p&gt;
+&lt;p&gt;虎牙，跟斗鱼一样，也是以游戏直播为主要内容的平台。虎牙平台也涵盖娱乐、体育、生活等多元化的内容。&lt;/p&gt;
+&lt;p&gt;其实虎牙和斗鱼的内容比较重叠，不过这两个平台已经合并，背后都是鹅厂控股。&lt;/p&gt;
+&lt;p&gt;Simple_Live的界面极其纯净，使用体验还可以，同时对四大平台的内容都支持搜索，也支持查看关注的up主。&lt;/p&gt;
+&lt;h3 id=&#34;软件是自适应设计支持车机&#34;&gt;软件是自适应设计，支持车机
+&lt;/h3&gt;&lt;p&gt;完全可以安装一个在车上使用，这样就同时可以观看四个平台的视频。&lt;/p&gt;
+&lt;p&gt;开篇软件超小杯说差一点支持TV端，为什么这么说呢？&lt;/p&gt;
+&lt;p&gt;是因为软件支持横屏显示，且大部分操作都支持遥控（实测），可结果就差一个关键的确定键不支持，伤脑筋，希望作者能稍微适配一下下，适配了就可以说完美了。&lt;/p&gt;
+&lt;p&gt;v1.7.2&lt;/p&gt;
+&lt;p&gt;修复斗鱼分类无法加载
+修复哔哩哔哩直播加载失败
+支持远程同步数据
+支持导入导出应用设置
+支持手动输入Cookie登录哔哩哔哩
+支持定时自动更新关注列表&lt;/p&gt;
+&lt;p&gt;v1.7.3&lt;/p&gt;
+&lt;p&gt;修复修改自动更新间隔后无法打开应用&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;Simple Live 1.7.3 纯净版 PC+安卓+MAC&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c626d58fdc42&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c626d58fdc42&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PotPlayer 1.7.22299 (播放器) 去广告绿色版</title>
+        <link>https://kooshare.github.io/post/potplayer17/</link>
+        <pubDate>Wed, 14 Aug 2024 20:46:19 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/potplayer17/</guid>
+        <description>&lt;p&gt;Daum PotPlayer播放器是一款全能多媒体影音播放器,堪称Windows平台最强大的本地视频播放器.PotPlayer最新版拥有强劲播放引擎加速,支持DXVA,CUDA,QuickSync,多媒体播放器支持蓝光3D,其内置强大的编码器及滤镜/分离器,支持自定义添加解码器,对字幕的支持非常优秀,能兼容特效字幕及在线搜索字幕实时翻译.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/bLqngMV.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814204635991&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PotPlayer Version History – VideoHelp
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cudmlkZW9oZWxwLmNvbS9zb2Z0d2FyZS9Qb3RQbGF5ZXIvdmVyc2lvbi1oaXN0b3J5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.videohelp.com/software/PotPlayer/version-history&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;231220(1.7.22074)版本之后PotPlayer64.dll已被作者加壳防修改！&lt;/p&gt;
+&lt;p&gt;[240809] v240809(1.7.22299)
++ 添加 WEBP 格式到图像截取
++ 添加在图像源滤镜中将延迟时间设置为秒或更短的功能
+– 修正快捷方式图标的大小设置无法反映的问题
+– 修正在某些情况下过滤重复文件设置被重置的问题
+– 修正使用某些编解码器播放时视频被识别为隔行扫描的问题
+– 修正使用 libVPX 8/9 解码时出现错误的问题
+– 修正播放 MP4 流时导航异常的问题
+– 修正浏览某些 FLV 文件速度缓慢的问题&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;pot播放器,potplayer绿色精简版,potplayer绿色便携版
+1、去效验，去右下角空白广告弹窗！卸载可选备份设置
+2、禁止后台联网请求：境外广告、发送日志、检查升级
+3、集成额外的音频解码器及视频解码器组件：Open Codec for PotPlayer
+├—DTS, MLP, TrueHD编码器Module\FFmpeg4\FFmpegMininum64.dll
+├—S/W HEVC(H265)编码器PotPlayer\Module\FFmpeg4\FFmpeg64.dll
+├—Intel H.264 MVC 3D编解码器库 PotPlayer\Module\libmfxsw(64).dll
+4、预设配置：常规设置 + 默认启用自定义解码器H.265/HEVC及硬件加速
+├—滤镜—视频解码器—内置解码器/DXVA设置—&amp;gt;使用硬件加速 (DXVA)
+├—滤镜—视频解码器—内置解码器/DXVA设置—解码器—&amp;gt;H.265/HEVC
+5、集成三款精选皮肤主题：简约暴风, ModernW10, Carefree (轻尘系列)
+6、删除TV直播列表, 登陆程序,日志管理, 消息通知, 多语言等不必要的文件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载列表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PotPlayer 240809(1.7.22299) x64 Stable 正式版去除广告绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/5b3cee237d1b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/5b3cee237d1b&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>DashPlayer 4.2.4 (播放器) 官方版</title>
+        <link>https://kooshare.github.io/post/dashplayer/</link>
+        <pubDate>Wed, 14 Aug 2024 20:45:19 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/dashplayer/</guid>
+        <description>&lt;p&gt;DashPlayer是一款专为英语学习者设计的视频播放器。这款播放器的主要目标是帮助用户通过观看视频来提升他们的英语水平。它提供了一个平台，让用户能够沉浸在真实的语境中，从而更好地理解和掌握英语。通过使用DashPlayer，你可以更轻松地提高你的英语能力，无论你是初学者还是已经有一定基础的学习者。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/81dXbWX.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814204535576&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h2&gt;&lt;p&gt;高效的界面布局：DashPlayer 的界面布局旨在最大化视频占用的空间，让你看得清。&lt;/p&gt;
+&lt;p&gt;按字幕跳转： 打开对应字幕文件，可以按句子快速跳转视频位置，轻松精听。.&lt;/p&gt;
+&lt;p&gt;支持字幕机器翻译： 机器翻译相较于人工翻译更忠实于原文。DashPlayer 同时支持展示机器翻译与双语字幕中的翻译，学习更高效。&lt;/p&gt;
+&lt;p&gt;查词查询：鼠标悬停生词可快速查询，不打断学习进程。&lt;/p&gt;
+&lt;p&gt;可调整界面尺寸： 界面尺寸可调，适应不同屏幕和学习场景。&lt;/p&gt;
+&lt;p&gt;记录播放位置： 自动记录上次播放位置，方便下次接着学习。&lt;/p&gt;
+&lt;p&gt;蓝牙遥控操作： 支持蓝牙遥控，让你随时调整音量、跳转视频，学习更轻松！&lt;/p&gt;
+&lt;p&gt;多彩主题：内置多款不同亮度的主题，完美适应您的学习环境。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c4687fd65e34&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c4687fd65e34&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>oneAnime 1.2.9 (看番软件) PC&#43;MAC&#43;安卓</title>
+        <link>https://kooshare.github.io/post/oneanime/</link>
+        <pubDate>Wed, 14 Aug 2024 20:44:15 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/oneanime/</guid>
+        <description>&lt;p&gt;oneAnime 是一款使用Flutter开发的Anime1第三方客户端。它是一款简洁清爽且无广告的看番软件，为用户提供了舒适的观影体验。该软件的界面设计符合Material You规范，使得用户能够享受到现代化、流畅且直观的操作体验。除了提供丰富的番剧资源外，oneAnime还具备弹幕功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/M2fcDqW.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814204430689&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;最新更新&#34;&gt;最新更新
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;1.2.9&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修复 macOS 窗口按钮不隐藏的问题&lt;/li&gt;
+&lt;li&gt;升级 flutter 到 3.24.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/18f06e3e22a9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/18f06e3e22a9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MPC-BE 1.7.3 (播放器) 绿色版</title>
+        <link>https://kooshare.github.io/post/mpcbe/</link>
+        <pubDate>Wed, 14 Aug 2024 20:43:24 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/mpcbe/</guid>
+        <description>&lt;p&gt;MPC播放器(MPC-BE)是一款经典多媒体播放器的电脑影音播放器,纯净无广告,启动速度快,占用消耗低,支持解码各种视频,播放流畅不卡.内置最新解码器,音视频过滤器,字幕渲染器/滤镜/分离器等,支持播放油管视频.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/BL31rIc.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814204338501&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;MPC-BE（Media Player Classic Black Edition）是来自 MPC-HC（Media Player Classic Home Cinema）的俄罗斯开发者重新编译优化后的一款经典影音播放器。MPC-BE是MPC-HC的衍生版，支持32位和64位系统，相比MPC-HC来说，MPC-BE的音视频解码器更新快些，界面也做了些美化，在保留所有特点的基础上改进了UI界面，古老的Windows原生风格界面被漂亮的皮肤所取代，从而迎合了大众的审美，也让老用户更加喜欢使用它。需要注意，MPC-BE依赖VC++运行库和DX9.0C支持才可以运行使用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;官方论坛 MPC-BE forum
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9tcGMtYmUub3JnL2ZvcnVtL2luZGV4LnBocD9ib2FyZD0zLjA=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://mpc-be.org/forum/index.php?board=3.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Aleksoid1978/MPC-BE · GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL0FsZWtzb2lkMTk3OC9NUEMtQkUvcmVsZWFzZXM=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/Aleksoid1978/MPC-BE/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;MPC-BE v1.7.3 Stable (2024/08/07)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/3ffdfc70f48e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/3ffdfc70f48e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PicView 2.3.1 (看图软件) 官方版&#43;绿色版</title>
+        <link>https://kooshare.github.io/post/picview/</link>
+        <pubDate>Wed, 14 Aug 2024 20:41:46 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/picview/</guid>
+        <description>&lt;p&gt;PicView 是一款适用于 Windows 10 和 11 的快速、免费和完全自定义的图像查看器。它支持多种图像文件类型，包括 &lt;code&gt;WEBP&lt;/code&gt; 、 &lt;code&gt;GIF&lt;/code&gt; 、 &lt;code&gt;SVG&lt;/code&gt; 、 &lt;code&gt;PNG&lt;/code&gt; 、 &lt;code&gt;JXL&lt;/code&gt; 、 &lt;code&gt;HEIC&lt;/code&gt; 、 &lt;code&gt;PSD&lt;/code&gt; 等。其他功能包括查看 EXIF 元数据、图像压缩、批量调整大小、查看档案和漫画书中的图像、图像特效、图像画廊等。享受简洁、自由、快速的体验，没有臃肿的用户界面，也没有恼人的弹出窗口。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/n5lqZWX.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814204202596&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;启动快速，并使用内置预加载器即时切换到下一幅图像。&lt;/p&gt;
+&lt;p&gt;用户界面小巧整洁，不需要时可方便地隐藏起来。&lt;/p&gt;
+&lt;p&gt;查看 ZIP、RAR、7z 等压缩包内的图片（需要安装 7-Zip 或 WinRAR）。&lt;/p&gt;
+&lt;p&gt;应用程序可以自动调整，以最适合您的屏幕。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/1019d87ab0c2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/1019d87ab0c2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Spotify 1.2.42.290 (在线音乐) 绿色版</title>
+        <link>https://kooshare.github.io/post/spotify12/</link>
+        <pubDate>Wed, 14 Aug 2024 20:40:48 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/spotify12/</guid>
+        <description>&lt;p&gt;Spotify是一项数字音乐服务，可让您集中并下载来自世界各地最著名的艺术家的许多歌曲，播客和视频。一切都封装在一个应用程序中。该设备是由Spotify公司开发和发布的。借助Spotify，用户可以寻找世界上任何艺术家或喜爱的音乐类别。您将在包括Android，iOS，Window，Mac OS在内的各种平台上使用Spotify。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/aqx9NFa.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814204105507&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;音乐通常是在情感之中，而情感是突然出现的，没人能预料到。因此，音乐也必须立即与情感融为一体。和以前一样，一旦我想欣赏音乐，我通常需要花费几分钟来查找其高质量文件，然后下载并使用播放器来集中精力，这花了我很多时间。现在，借助Spotify，我可以访问超过4000万首歌曲的资料库，并且可以轻松找到并听到我最喜欢的歌曲，并且质量最高。Spotify Premium流速率非常出色。您将选择4G，5G或Wifi专注于音乐。&lt;/p&gt;
+&lt;p&gt;如何修改为中文语言？
+软件左上角的“…”，Edit，Preferences，Language，选择“中文Chinese”，点顶部弹出的提示去重启软件即可。&lt;/p&gt;
+&lt;p&gt;Spotify如何导入网易云音乐、QQ音乐、虾米音乐、百度音乐歌单&lt;/p&gt;
+&lt;p&gt;登录spot.uselesses.com，然后授权，输入歌单链接，点击获取即可。&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+&lt;/h2&gt;&lt;p&gt;温馨提示
+该软件是需要梯子才能使用的，没有的就别瞎折腾了。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;PC版Spotify v1.2.42.290 绿色便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6fd22a3b562a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6fd22a3b562a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MPC-HC 2.3.4 (播放器) 绿色版</title>
+        <link>https://kooshare.github.io/post/mpchc/</link>
+        <pubDate>Wed, 14 Aug 2024 20:39:48 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/mpchc/</guid>
+        <description>&lt;p&gt;MPC-HC是MediaPlayerClassicHomeCinema的简称，是一款非常简洁的播放器，也是MediaPlayerClassic的后续版本。MPC-HC支持32位和64位的系统，并且完全开源。现在全球很多程序猿都在维护这个项目。&lt;/p&gt;
+&lt;p&gt;用惯了花里胡哨的各类播放器，换成MPC-HC体验一下纯粹的简单。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/U4neVVm.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814204004528&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;官方更新&#34;&gt;官方更新
+&lt;/h2&gt;&lt;p&gt;更新LAV过滤器至0.78版本
+已将MediaInfo DLL更新到23.10版本
+更新的MPC音频渲染器
+更新了所有其他第三方库
+更改/添加/改进：
+添加了OpenSubtitless.com字幕搜索提供商。现有的OpenSubtitles.org提供商计划于2023年底停止工作。注意：您需要OpenSubtitles.com的新登录名
+视频预览现在也可以放在搜索栏下面。请参见：选项&amp;gt;调整
+内部字幕渲染器现在可以选择使用libass进行渲染
+与单独全屏的高级选项相关的一些改进
+为一些工具栏按钮添加了右键单击操作：
+播放=打开文件，停止=关闭文件，向后跳=上一个文件，向前跳=下一个文件、帧步=帧步向后（搜索）、静音=切换下一音轨
+支持ATSC频道扫描
+播放列表现在默认停靠在右侧。如果您喜欢这些位置，可以将其拖动到底部/左侧/顶部。甚至在球员窗口外。
+拖放/LoadSubtitle/ToggleSubtitle现在也可以与DirectVobSub和XySubFilter一起使用
+对于Intel Haswell/Broadwell GPU，HEVC硬件解码现在默认禁用（在新安装或重置设置时）。这些较老的GPU具有缓慢的部分加速解码，并且为了稳定性，软件解码可能是优选的。当然，如果需要，您仍然可以启用它。
+修复：
+对在具有不同DPI的两个屏幕之间移动时出现的问题进行了一些DPI缩放修复
+修复了DVB字幕在实时播放过程中不起作用的问题
+修复了通过样式对话框更改字幕默认样式的问题
+修正了使用MadVR旋转视频的平移和扫描移动错误
+其他几个小修复&lt;/p&gt;
+&lt;h2 id=&#34;支持格式&#34;&gt;支持格式
+&lt;/h2&gt;&lt;p&gt;WAV, WMA, MP3, OGG, SND, AU, AIF, AIFC, AIFF, MIDI, MPEG, MPG, MP2, VOB, AC3, DTS, ASX, M3U, PLS, WAX, ASF, WM, WMA, WMV, AVI, CDA, JPEG, JPG, GIF, PNG, BMP, D2V, MP4, SWF, MOV, QT, FLV.&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/3b192eaad262&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/3b192eaad262&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AIMP 5.30.2563 (本地音乐播放器) 绿色版</title>
+        <link>https://kooshare.github.io/post/aimp/</link>
+        <pubDate>Wed, 14 Aug 2024 20:38:55 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/aimp/</guid>
+        <description>&lt;p&gt;AIMP是一款来自于俄罗斯的极为出色的顶级音乐播放软件，几乎支持所有主流音频格式文件的播放，当然也囊括如：APE、FLAC、DTS 等无损音乐格式。除此之外，它还有标签编辑、声音录制、皮肤制作以及插件拓展等实用功能，由于该播放器的内核设计及引擎优化的比较完善，使其在播放音乐时仅占用较少的系统资源。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/geCIAvx.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814203912350&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h2&gt;&lt;p&gt;• 基于官方版制作
+• 绿色便携版
+• 集成可道在线同步歌词
+• 保留官方版随包附带的中文语言包
+• 精简无用说明文件
+• 精简其他国家语言文件
+• 皮肤可选下载&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ab2ad559cd07&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ab2ad559cd07&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>完美解码 2024.07.30 (全能影音解码包) 官方版</title>
+        <link>https://kooshare.github.io/post/wanmeijiema/</link>
+        <pubDate>Wed, 14 Aug 2024 20:36:33 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/wanmeijiema/</guid>
+        <description>&lt;p&gt;完美解码是一款为高清影视爱好者精心打造的影音解码包，能软硬件解码播放流行的视频和音频格式。集成多媒体播放器PotPlayer、MPC-HC、MPC-BE，分离器解码器套件LAV Filters，高画质渲染器madVR，支持中英语言安装使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/RD750eF.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814203649879&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;20240730
++ 更新 PotPlayer v240618(1.7.22262) 未加壳修改版
++ 更新 MPC-HC v2.3.3
++ 更新 MPC Video Renderer v0.8.5.2268&lt;/p&gt;
+&lt;p&gt;20240618
++ 更新 PotPlayer v240618(1.7.22260)
++ 更新 MPC-BE v1.7.2
++ 更新 MPC-HC v2.3.0
++ 更新 MPC Video Renderer v0.8.3.2255&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f17d0552d619&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f17d0552d619&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>方格音乐 1.6.1 (音乐免费下载) 去广告版</title>
+        <link>https://kooshare.github.io/post/fangeyinyue/</link>
+        <pubDate>Wed, 14 Aug 2024 20:35:00 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/fangeyinyue/</guid>
+        <description>&lt;p&gt;方格音乐是一个免费的第三方听歌软件，界面时尚又好看，和魔音MORIN是同一作者。可以说是魔音的全面升级版，提升了颜值的同时也增加了很多功能。支持歌单导入，以及智能识别第三方音乐歌曲链接，下载mp3或无损文件到本地。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/X2DE339.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814203517685&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h2&gt;&lt;p&gt;2024.07.31 v1.6.1 紧急修复
+– 修复无法搜索显示空白的问题
+– 修复播放收藏歌单无法播放的问题
+– 修复乐库2无法播放提示获取失败问题
+– 修复当单曲循环的时歌词不能循环显示问题&lt;/p&gt;
+&lt;p&gt;2024.07.23 v1.6.0
+– 新增 本地音乐新增时间/大小/名称排序
+– 修复 解决乐库2无法播放的问题
+– 修复 本地音乐无法添加文件夹的问题
+– 修复 播放完毕后不自动下一曲的问题
+– 修复 桌面歌词可能不更新的问题
+– 修复 歌词页出现错误弹窗的问题
+– 修复 下载的音质只有128的问题
+– 修复 默认下载目录异常的问题
+– 修复 切换频谱样式时窗体闪烁的问题
+– 优化 歌词页样式优化
+– 其他一些BUG修复
+– 请务必更新,因资源失效旧版将不再维护&lt;/p&gt;
+&lt;h2 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h2&gt;&lt;p&gt;– 去除广告弹窗（推广）
+– 去除首页顶部广告横幅（推广）
+– 去除更新提示弹窗，切断在线检测更新
+– 去除关于界面按钮：更新、反馈、公众号&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;方格音乐PC版(无损音乐播放器) v1.6.1 x32/x64 免升级去广告绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/52e4bd588b3d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/52e4bd588b3d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>腾讯视频 11.99.8523 去广告绿色版</title>
+        <link>https://kooshare.github.io/post/tengxunshipinquguanggao/</link>
+        <pubDate>Wed, 14 Aug 2024 20:33:48 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/tengxunshipinquguanggao/</guid>
+        <description>&lt;p&gt;腾讯视频PC客户端,腾讯视频最新版支持沉浸式无框播放器,三倍流畅播放,界面交互不错.腾讯视频Windows客户端腾讯视频播放器(QQLive)拥有海量正版高清影视,大量独播英美剧,独播NBA版权,热门赛事,短视频频道等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/MAOnvZ9.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814203405737&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;腾讯视频2024 v11.80 更新内容
+– 桌面迷你模式，让追剧触手可及；&lt;/p&gt;
+&lt;p&gt;腾讯视频2023 v11.70 更新内容
+– 新版导航样式，频道切换更方便；
+– 近期热播好剧，升级观看体验更佳；
+– 频道页面全新改版，沉浸式找片更高效；
+– 首页增加我的在追，常看影片续看更方便；
+– 视频内容在线讨论，紧扣剧情边看边聊；&lt;/p&gt;
+&lt;p&gt;腾讯视频Windows客户端2023年更新记录：
+– 增加设置个性化推荐，精准推送偏好内容
+– 增加用户协议确认，为个人隐私保驾护航
+– 个人页新增专辑，支持创作专辑展示和播放
+– 帐号登录协议更新，登录获取帐号专属体验
+– 推荐IP相关短视频，为你发掘更多潜力影片
+– 知识付费内容更新，权威阐述元宇宙前沿报告&lt;/p&gt;
+&lt;p&gt;v11.24.1059（无需登陆蓝光1080P免费的最终版）&lt;/p&gt;
+&lt;p&gt;v11.13.2056（下载QLV格式无加密保护的最终版）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;腾讯视频2024去广告,腾讯视频去广告绿色精简优化版
+– 绿化处理免安装，去安全效验、去各种广告视频秒播！
+– 去首次启动的隐私政策弹窗，去右下角游戏推荐弹窗
+– 去迷你腾讯弹窗、去播放器首页广告、去右下角推送
+– 去所有的广告：缓冲广告、暂停广告、播放中等广告
+– 去主界面标题游戏中心按钮、去设置界面游戏管理项
+– 逆向修改默认点关闭不最小化到托盘，而是彻底完全退出
+– 禁止每次启动在磁盘目录生成QLDownloadGame文件夹
+– 禁止检测升级，禁止后续强制在后台下载新版安装包升级
+– 禁止播放本地视频关闭返回界面后弹出“QQ影音下载安装”询问弹窗
+– 禁止驻留后台，去设置界面：相关协议, 允许腾讯视频驻留, 允许推送迷你页面
+– 去主菜单和托盘菜单无用项：迷你腾讯网、在线升级、修复与反馈，帮助相关
+– 禁止在系统后台 %AppData%\Tencent\目录里面生成logs产品日志的文件夹
+– 删除服务程序、自动升级插件、安全修复相关模块等大量无用的不必要的文件&lt;/p&gt;
+&lt;p&gt;最近更新：
+* 新增去主界面“桌面迷你模式”按钮及悬浮提示
+* 新增禁止自动启动桌面侧边栏的迷你模式悬浮球
+* 新增去除托盘菜单和设置选项的桌面迷你模式项&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;腾讯视频PC版(腾讯视频播放器) v11.99.8523.0 去广告绿色纯净版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d6f9962e9f92&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d6f9962e9f92&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PowerDVD 23.0.1825.62 (蓝光播放器) 破解版</title>
+        <link>https://kooshare.github.io/post/powerdvd/</link>
+        <pubDate>Wed, 14 Aug 2024 20:27:30 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/powerdvd/</guid>
+        <description>&lt;p&gt;讯连科技PowerDVD播放器是一款功能强大的专业影音播放软件.PowerDVD极致蓝光版蓝光播放器支持8K超清,4K超清,HDR画质及360全景的视频播放软件,支持影音格式含影片/光盘/ISO镜像等,无论是在PC或TV设备.HEIC图片,HEVC/H.265超清视频,原画蓝光光盘规范(Ultra HD Blu-ray&amp;amp;HDR TV),4K蓝光光盘字幕,独家TrueTheater HDR影像增强技术,支持HEVC/H.265超清解码播放360&amp;amp;4K视频,环场音效(DTS音效/FLAC/DSD无损音质),搭配VR头戴式设备,PowerDVD23中文版影音播放器让你体验身历其境的高画质360˚VR模式.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/hNoEWOj.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814202745499&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;产品版本和最新信息 – 讯连科技支持中心
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9jbi5jeWJlcmxpbmsuY29tL3N1cHBvcnQvaW5kZXguaHRtbD9hY3Rpb249ZG93bmxvYWQ=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://cn.cyberlink.com/support/index.html?action=download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;注：2020年4月之后发布的PowerDVD不再支持蓝光3D播放功能
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9jbi5jeWJlcmxpbmsuY29tL3N1cHBvcnQvZmFxLWNvbnRlbnQuZG8/aWQ9MjQ5MDI=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://cn.cyberlink.com/support/faq-content.do?id=24902&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PowerDVD23：破解版之后已经不支持(UltraHD)功能
+PowerDVD22：破解版之后已经不支持激活BD-Live网络！
+PowerDVD22：不再支持Vimeo视频播客网站在线播放功能
+PowerDVD21：支持启用蓝光光盘 BD-Live网络最终破解版
+PowerDVD20：不再支持蓝光3D媒体播放(Blu-ray3D)功能
+PowerDVD19：支持蓝光3D媒体播放(Blu-ray3D)的最终版&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PowerDVD23中文激活版,CyberLink PowerDVD23极致蓝光版破解版
+– 安装配置加入序列号改为离线激活，解锁极致蓝光版，无需阻止联网！
+– 修改安装配置：启用激活蓝光3D播放(Blu-ray3D)和家庭媒体(DLNA)
+– 修改安装配置：重置蓝光光盘国家区域码，安装自动重置区域码次数
+– 删除升级组件和统计上报服务组件(CLUpdater, OLRSubmission)
+– 删除了VC++运行库组件和多国语言，大幅减小体积
+* 安装完毕自动移除开机启动项和后台安装备份文件
+* 参考毛子@Lisbon过去的俄语版修改参数更新而来&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CyberLink PowerDVD v23.0.1825.62 x64 Ultra 中文免激活极致蓝光版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/eed1fceabdce&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/eed1fceabdce&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Foobar2000 2.1.5 (本地音乐播放器) 优化版</title>
+        <link>https://kooshare.github.io/post/foobar/</link>
+        <pubDate>Wed, 14 Aug 2024 20:25:25 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/foobar/</guid>
+        <description>&lt;p&gt;Foobar2000中文版是一款全球知名的专业高品质音频播放器的本地音乐播放器.Foobar2000音乐播放器占用内存低,内置强大的音频解码器完美支持音频播放增益,提供强大扩展插件以及优秀的音效输出支持.Foobar2000汉化版出自@Asion汉化之手,无损音乐爱好者不妨更新,顶级好音质就用Foobar2000音频播放器.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240814202541946.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814202541946&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;foobar2000: Change Log
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cuZm9vYmFyMjAwMC5vcmcvY2hhbmdlbG9n&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.foobar2000.org/changelog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;foobar2000 是一个 Windows 平台下的高级音频播放器.包含
+完全支持 unicode 及支持播放增益的高级标签功能. 特色具有：
+* 支持的音频格式: MP3, MP4, AAC, CD Audio, WMA, Vorbis,
+FLAC, WavPack, WAV, AIFF, Musepack, Speex, AU, SND, 通
+过第三方插件将支持更多的格式.&lt;/p&gt;
+&lt;p&gt;* 完全支持 Unicode、轻松定制用户界面布局
+* 高级标签功能、支持播放增益、可自定义快捷键
+* 可以使用转换器组件对所有支持的格式转换编码格式
+* 开放的组件体系结构允许第三方开发者来扩展播放器的功能
+* 汉化版加入以下插件（以下插件均为最新版，均为可选安装）
+└—解码器包含：APE、DTS、TTA、TAK、SACD、DVD-Audio
+└—ESLyric歌词, ASIO输出, WASAPI输出, DSD转换器, 播放统计信息&lt;/p&gt;
+&lt;p&gt;ESLyric使用方法：
+打开配置快捷键Ctrl+P，转至工具 -&amp;gt; ESLyric
+点击搜索标签页，在歌词来源处点击更新即可。&lt;/p&gt;
+&lt;p&gt;ESLyric现在支持 LRC、TXT、酷狗的KRC。目前添加的歌词源搜索接口：
+QQ音乐, 网易云音乐, 酷狗音乐, 虾米音乐, 百度音乐,千千静听, 天天动听&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特别说明&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;foobox 7 是一个基于 DUI 的 foobar2000 界面配置文件，适合大界面使用
+可适配高分屏善于管理曲目数量大的媒体库 ，对音乐各种封面提供丰富支持。&lt;/p&gt;
+&lt;p&gt;注意：下载不要修改安装程序的名称，否则无法打开安装哦
+安装界面勾选：绿色安装、使用独立配置文件，就是绿色版&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;系统要求&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.6.x -&amp;gt; Windows 7 或更高版
+1.5.x -&amp;gt; Windows XP 或更高版&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;foobar2000 v2.1.5 汉化版 x64/x86 Final (2024/07/12)&lt;/p&gt;
+&lt;p&gt;foobar2000 v2.1.3 x64/x86 汉化版 / 蜘蛛猴面板 (2024/04/02)&lt;/p&gt;
+&lt;p&gt;foobar2000 v1.6.16 汉化版 / 蜘蛛猴面板 (Plus版) (2023/04/19)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d568d64411ab&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d568d64411ab&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MPV 2024.07.07 (播放器) 绿色版</title>
+        <link>https://kooshare.github.io/post/mpv2024/</link>
+        <pubDate>Wed, 14 Aug 2024 20:23:08 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/mpv2024/</guid>
+        <description>&lt;p&gt;mpv 是一个免费、开源、跨平台的多媒体播放器，可用于 Windows、Linux、MacOS、BSD 以及 Android 等平台。&lt;/p&gt;
+&lt;p&gt;mpv 带有极简的 GUI 界面以及丰富的命令行控制，它支持各种媒体文件格式、音频和视频编解码器以及字幕类型。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240814202334074.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814202334074&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h2&gt;&lt;p&gt;脚本处理&lt;/p&gt;
+&lt;p&gt;强大的脚本能力几乎可以让播放器做任何事情，Wiki 上有大量用户脚本可供选择。（https://github.com/mpv-player/mpv/wiki/User-Scripts）&lt;/p&gt;
+&lt;p&gt;屏幕控制器&lt;/p&gt;
+&lt;p&gt;虽然 mpv 力求简约，并没有提供真正的 GUI，但它在视频顶部有一个小控制器，用于基本控制。&lt;/p&gt;
+&lt;p&gt;高品质视频输出&lt;/p&gt;
+&lt;p&gt;mpv 具有基于 OpenGL、Vulkan 和 D3D11 的视频输出，能够支持视频发烧友喜爱的许多功能，例如：使用流行的高质量算法进行视频缩放、色彩管理、帧时序、插值、HDR 等。&lt;/p&gt;
+&lt;p&gt;GPU 视频解码&lt;/p&gt;
+&lt;p&gt;mpv 可以利用所有平台上的大多数硬件解码 API，硬件解码可在运行时按需启用。&lt;/p&gt;
+&lt;p&gt;可嵌入&lt;/p&gt;
+&lt;p&gt;mpv 从头开始设计了一个简单的 C API，使其可以作为一个库使用，并便于和其他应用轻松集成。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e4cee9e7f9d0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e4cee9e7f9d0&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>益达app 1.1.28 (多源小说/漫画/音视频) PC&#43;安卓&#43;iOS</title>
+        <link>https://kooshare.github.io/post/yidaapp/</link>
+        <pubDate>Wed, 14 Aug 2024 20:22:07 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/yidaapp/</guid>
+        <description>&lt;p&gt;在当下的开发环境中，越来越多的个人开发者选择“源+壳”的模式开发作品，这样可以没有服务器端，开发者节省了开支，而源的开放又可以博采众长，简直双赢。&lt;/p&gt;
+&lt;p&gt;所以今天这款软件就是如此，导入规则后就可以能看能听能播放，这就是你的益达——益达app&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/HvHf5nd.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814202225887&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;这是采用lutter+rust开发的作品，支持&lt;strong&gt;安卓、iOS、Windows、Mac&lt;/strong&gt;多端运行。&lt;/p&gt;
+&lt;p&gt;纯净无广以及无门槛的使用体验，再加上能实现多种娱乐功能，是你不能错过的应用。&lt;/p&gt;
+&lt;p&gt;我们先看看它能实现的功能：&lt;/p&gt;
+&lt;p&gt;导入特定规则后，它就可以轻松实现上述功能，那么如何导入呢？&lt;/p&gt;
+&lt;p&gt;很简单，以安卓端为例：&lt;/p&gt;
+&lt;p&gt;软件安装打开后，在『我的』-『管理站点』-右上角『更多』-『本地导入』，选择下载的规则文件导入后就可以使用了。&lt;/p&gt;
+&lt;p&gt;导入的时候记得先全选，然后再导入。&lt;/p&gt;
+&lt;p&gt;之后你就可以用它来看小说、看漫画、看动画、听歌、播放视频等，体验非常好，堪称丝滑。&lt;/p&gt;
+&lt;p&gt;你可以单独点击某个站点去看相应的资源，也可以直接在搜索栏目直接针对所有站点搜索想要的资源。如何使用，都随你。&lt;/p&gt;
+&lt;p&gt;Windows&lt;/p&gt;
+&lt;p&gt;软件支持PC端，可以安装在Windows和Mac，使用方式和上述安卓端一样，都是需要先导规则，才能正常使用。&lt;/p&gt;
+&lt;p&gt;iOS端需要自己搞定签名才能使用，不清楚的朋友可以网上查询如何签名。&lt;/p&gt;
+&lt;p&gt;总结一下，从目前的资源来看，比较倾向用来看小说、听书、看漫画，当然看视频也是可以的。清新无广，使用简单，就像随时随地都能为你带来清新口感的益达口香糖，你的益达，来试试吧。&lt;/p&gt;
+&lt;h3 id=&#34;v1128&#34;&gt;v.1.1.28
+&lt;/h3&gt;&lt;p&gt;fix windows平台应用崩溃与安卓平台webview报错问题&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/802f96e4e3d2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/802f96e4e3d2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>央视影音桌面版 6.0.1.0 (电视直播) 去广告绿色版</title>
+        <link>https://kooshare.github.io/post/yangshiyingyin/</link>
+        <pubDate>Wed, 14 Aug 2024 20:20:53 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/yangshiyingyin/</guid>
+        <description>&lt;p&gt;央视影音客户端(Cbox网络电视)是中国电视直播客户端,聚合央视旗下海量独家资源.CNTV中国网络电视台独家采用P2P技术点播形式,汇集央视频道,地方卫视高清直播,以及央视节目点播和下载,满足观看直播节目需求.央视影音桌面版具有高清直播流畅,简洁广告少,直播时移,点播倍速,直播回看,界面预订,智能EPG等功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240814202123048.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814202123048&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;①去除：播放前的广告、精品商场广告墙。
+②保留开机消息弹出框以免导致CPU占用升高。
+③禁用CBox故障检测及优化服务模块。
+④删除一些无用的文件。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e4c76a59ed18&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e4c76a59ed18&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MusicFree 0.0.5 (PC免费音乐) 官方版</title>
+        <link>https://kooshare.github.io/post/musicfree/</link>
+        <pubDate>Wed, 14 Aug 2024 20:19:58 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/musicfree/</guid>
+        <description>&lt;p&gt;MusicFree 是一个插件化、定制化、无广告的免费音乐播放器。本身不带音源，通过导入插件实现全网音源免费收听和下载以及各种其他功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240814202011585.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814202011585&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;官方更新&#34;&gt;官方更新
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;【修复】修复重启软件后歌单丢失的问题；如果未出现上述问题可忽略此版本更新&lt;/li&gt;
+&lt;li&gt;【功能】播放列表支持拖拽排序&lt;/li&gt;
+&lt;li&gt;【功能】支持多语言。本次支持简体中文、繁体中文、英文、西班牙语&lt;/li&gt;
+&lt;li&gt;【功能】支持歌词翻译功能（需要插件实现 getLyric 方法）&lt;/li&gt;
+&lt;li&gt;【功能】新增最近播放，默认保存最近播放的 500 首歌&lt;/li&gt;
+&lt;li&gt;【功能】新增小窗模式&lt;/li&gt;
+&lt;li&gt;【功能】新增音频设备移除时的行为设置，现在可以让拔掉耳机的时候停止播放了&lt;/li&gt;
+&lt;li&gt;【功能】新增单独的主题页，可以在主题市场中直接使用主题；本地.mftheme 主题可以直接拖拽到播放器安装&lt;/li&gt;
+&lt;li&gt;【优化】本地音乐会尝试读取本地路径下的同名 .lrc 文件作为歌词；同时会读取同名 -tr.lrc 文件作为翻译&lt;/li&gt;
+&lt;li&gt;【修复】修复部分情况下本地歌词无法读取的问题&lt;/li&gt;
+&lt;li&gt;【修复】修复 linux 托盘点击无效的问题&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h2&gt;&lt;p&gt;• 插件化
+本软件仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件。这也就意味着，只要可以在互联网上搜索到的音源，只要有对应的插件，你都可以使用本软件进行搜索、播放等功能。 关于插件的详细说明请参考 安卓版 Readme 的插件部分。&lt;/p&gt;
+&lt;p&gt;• 支持功能
+搜索（音乐、专辑、作者、歌单）、播放、查看专辑、查看作者详细信息、导入单曲、导入歌单、获取歌词等。&lt;/p&gt;
+&lt;p&gt;• 定制化
+本软件可以通过主题包定义软件外观及背景，详见下方主题包一节。&lt;/p&gt;
+&lt;p&gt;• 无广告
+基于 GPL3.0 协议开源，将会保持免费。&lt;/p&gt;
+&lt;p&gt;• 隐私
+软件所有数据存储在本地，本软件不会上传你的个人信息。&lt;/p&gt;
+&lt;h2 id=&#34;使用方法&#34;&gt;使用方法
+&lt;/h2&gt;&lt;p&gt;MusicFree 仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件。这也就意味着，只要可以在互联网上搜索到的音源，只要有对应的插件，你都可以使用本软件进行搜索、播放等功能。&lt;/p&gt;
+&lt;p&gt;设置 → 插件管理 → 本地/在线。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/81ea46867ad5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/81ea46867ad5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>随风飞音 Mcool 3360.2 2024.6.26 (简约音乐播放器) 绿色版</title>
+        <link>https://kooshare.github.io/post/suifengfeiyin/</link>
+        <pubDate>Wed, 14 Aug 2024 20:18:25 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/suifengfeiyin/</guid>
+        <description>&lt;p&gt;曾经本地音乐播放器百花齐放，比如国产的千千静听、酷狗音乐，比如海外神器foobar2000，Winamp，还有号称国内神软的猫大神的作品airplayer，这些音乐播放软件都有很多用户支持，发展形势也一片大好，但是或多或少的有点小广告，有点臃肿。今天给大家介绍的这个音乐播放器小巧但是功能强大，目前也已经支持最新操作系统，它就是diystar的作品“随风飞音Mcool”。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240814201840173.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814201840173&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;官方更新&#34;&gt;官方更新
+&lt;/h2&gt;&lt;p&gt;• 支持 GIF 动态封面及背景
+• 支持下载高清封面&lt;/p&gt;
+&lt;h2 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h2&gt;&lt;p&gt;• 纯粹，绿色，开源软件 (Delphi, MIT 开源协议)。运行环境：电脑 PC，Windows XP / 7 / 10 / 11，简体 / 繁體 / English / Unicode
+• 极简主义，全透明无边框，“没有界面，只有音乐”。该有的一个不少，音频设备选择、均衡器、字体设置、透明调节、任意布局等。
+• 专注本地高品质无损音乐播放。采用超小 Bass 音频库，提供最佳音质和强大扩展能力。模块化代码设计，可高度自定义。
+• 支持轻媒体库、歌词、可视化。最小化到托盘，占用资源少，适合边听音乐边工作。
+• 这些个性化选项来自网友建议：Tag 编辑、自动切换列表、播放队列、绿色便携播放、Winamp 音效插件支持、音量滚轮（限托盘区域）、可定制快捷键、鼠标手势、鼠标穿透、极简模式、桌词、嵌入桌面。
+• 本地从有损到无损音乐全格式：APE / FLAC / WavPack / MP3 / OGG / TTA / TAK / Musepack / AAC / AC3 / WMA / Wav / CD / ALAC / Aiff / MOD / CUE（通过插件支持视频格式）&lt;/p&gt;
+&lt;h2 id=&#34;支持格式&#34;&gt;支持格式
+&lt;/h2&gt;&lt;p&gt;• 音频格式APE、FLAC、WavPack、MP3、OGG、TTA、Musepack、AAC、WMA、Wav、CD、ALAC、Aiff、MOD、CUE
+• 支持视频及MIDI格式&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;Mcool 3360.2 中文绿色纯净版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0d49ea524b61&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0d49ea524b61&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>SPlayer 2.0.9 (音乐免费下载) 官方版&#43;绿色版</title>
+        <link>https://kooshare.github.io/post/splayer/</link>
+        <pubDate>Wed, 14 Aug 2024 20:17:34 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/splayer/</guid>
+        <description>&lt;p&gt;SPlayer 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240814201749205.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814201749205&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;这款PC端的第三方音乐软件，支持Windows和Mac，软件内置音源，当然也支持自己导入歌曲，而且还支持云盘导入。&lt;/p&gt;
+&lt;h2 id=&#34;功能&#34;&gt;功能
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;✨ 支持扫码登录&lt;/li&gt;
+&lt;li&gt;📱 支持手机号登录&lt;/li&gt;
+&lt;li&gt;📅 自动进行每日签到及云贝签到&lt;/li&gt;
+&lt;li&gt;🎨 封面主题色自适应&lt;/li&gt;
+&lt;li&gt;🌚 Light / Dark 模式自动切换&lt;/li&gt;
+&lt;li&gt;📁 本地歌曲管理及分类（建议先使用 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vdmlubHhjL3AvMTEzNDc3NDQuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;音乐标签&lt;/a&gt; 进行匹配后再使用）&lt;/li&gt;
+&lt;li&gt;🎵 &lt;strong&gt;支持播放部分无版权歌曲（可能会与原曲不匹配，客户端独占功能）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;⬇️ 下载歌曲（最高支持 Hi-Res）&lt;/li&gt;
+&lt;li&gt;➕ 新建歌单及歌单编辑&lt;/li&gt;
+&lt;li&gt;❤️ 收藏 / 取消收藏歌单或歌手&lt;/li&gt;
+&lt;li&gt;🎶 每日推荐歌曲&lt;/li&gt;
+&lt;li&gt;📻 私人 FM&lt;/li&gt;
+&lt;li&gt;☁️ 云盘音乐上传&lt;/li&gt;
+&lt;li&gt;📂 云盘内歌曲播放&lt;/li&gt;
+&lt;li&gt;🔄 云盘内歌曲纠正&lt;/li&gt;
+&lt;li&gt;🗑️ 云盘歌曲删除&lt;/li&gt;
+&lt;li&gt;📝 支持逐字歌词&lt;/li&gt;
+&lt;li&gt;🔄 歌词滚动以及歌词翻译&lt;/li&gt;
+&lt;li&gt;📹 MV 与视频播放&lt;/li&gt;
+&lt;li&gt;🎶 音乐频谱显示&lt;/li&gt;
+&lt;li&gt;⏭️ 音乐渐入渐出&lt;/li&gt;
+&lt;li&gt;🔄 支持 PWA&lt;/li&gt;
+&lt;li&gt;💬 支持评论区及评论点赞&lt;/li&gt;
+&lt;li&gt;🌓 明暗模式自动 / 手动切换&lt;/li&gt;
+&lt;li&gt;📱 移动端基础适配&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/4ae36f2e0804&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/4ae36f2e0804&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>洛雪音乐助手 2.8.0 (音乐免费下载) 绿色版</title>
+        <link>https://kooshare.github.io/post/luoxueyinyuezhushou/</link>
+        <pubDate>Wed, 14 Aug 2024 20:16:37 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/luoxueyinyuezhushou/</guid>
+        <description>&lt;p&gt;洛雪音乐助手(lx-music)音乐下载工具是一款音乐聚合软件.聚合大量音乐平台搜索接口,免费在线试听下载全网付费歌曲版权音乐;挖掘酷狗音乐歌单,酷我音乐排行榜;可选音乐来源接口,下载歌词,专辑封面等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/oP94ugM.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814201652924&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Releases · lyswhut/lx-music-desktop
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL2x5c3dodXQvbHgtbXVzaWMtZGVza3RvcC9yZWxlYXNlcw==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/lyswhut/lx-music-desktop/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;洛雪音乐助手，基于 Electron + Vue 开发的音乐软件。
+完全免费开源软件，所用技术栈：Electron 10，Vue 2
+支持的平台：Windows 7或更高版，Mac OS，Linux&lt;/p&gt;
+&lt;p&gt;提示：选项启用临时接口才能开启下载普通品质歌曲功能&lt;/p&gt;
+&lt;h2 id=&#34;v280&#34;&gt;v2.8.0
+&lt;/h2&gt;&lt;h3 id=&#34;新增&#34;&gt;新增
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;新增 设置-播放设置-使用设备能处理的最大声道数输出音频 设置（未启用时固定为2声道输出），由于这用到高级音频API，考虑到在某些设备上的兼容问题，默认禁用&lt;/li&gt;
+&lt;li&gt;允许添加 &lt;code&gt;m4a&lt;/code&gt;、&lt;code&gt;oga&lt;/code&gt; 格式的本地歌曲到列表中&lt;/li&gt;
+&lt;li&gt;开放API支持跨域请求&lt;/li&gt;
+&lt;li&gt;Scheme URL API新增 &lt;code&gt;music/searchPlay&lt;/code&gt; 支持，用于搜索并播放指定的歌曲名字，详细入参请阅读 Scheme URL 支持文档&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;优化&#34;&gt;优化
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;优化白色托盘图标显示，修复windows下托盘图标不清晰的问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;修复&#34;&gt;修复
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;修复存在多级弹窗时的背景显示问题&lt;/li&gt;
+&lt;li&gt;增大在线导入自定义源文件的大小限制问题&lt;/li&gt;
+&lt;li&gt;修复Mac下窗口出现残留阴影的问题，这解决了Mac下桌面歌词出现残留阴影的远古bug.&lt;/li&gt;
+&lt;li&gt;增大在线导入自定义源文件的大小限制，解决某些音源无法导入的问题&lt;/li&gt;
+&lt;li&gt;修复Mac下即使开启了托盘， &lt;code&gt;cmd+w&lt;/code&gt; 仍会中断播放的问题&lt;/li&gt;
+&lt;li&gt;修复播放详情页的歌词无法使用触碰拖动的问题&lt;/li&gt;
+&lt;li&gt;修复与优化繁体中文、英语翻译显示&lt;/li&gt;
+&lt;li&gt;修复歌曲时文件名过长导致歌曲无法下载的问题&lt;/li&gt;
+&lt;li&gt;修复文本提示气泡在内容过长时，文本未被换行而被截断的问题&lt;/li&gt;
+&lt;li&gt;修复翻页按钮栏切页按钮只显示前几页的问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;变更&#34;&gt;变更
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;设置-播放设置-优先播放320k音质选项改为“优先播放的音质”，允许选择更高优先播放的音质，如果歌曲及音源支持的话&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;开放api变更&#34;&gt;开放API变更
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;/status&lt;/code&gt; 的入参现在与 &lt;code&gt;/subscribe-player-status&lt;/code&gt; 保持一致&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/status&lt;/code&gt; 新增 &lt;code&gt;filter&lt;/code&gt; 入参用于过滤返回的字段，并内置了默认值，与之前相比默认不再返回 &lt;code&gt;picUrl&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/status&lt;/code&gt; 及 &lt;code&gt;/subscribe-player-status&lt;/code&gt; 的可用字段名添加了 &lt;code&gt;lyricLineAllText&lt;/code&gt;，它对应的值是当前句歌词及扩展歌词文本（扩展歌词包含翻译、罗马音等，按换行符分割）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;详情看开放API接入文档&lt;/p&gt;
+&lt;h3 id=&#34;其他&#34;&gt;其他
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;更新 electron 到 v28.3.3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;洛雪音乐助手 v2.8.0 绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/32eba0985b44&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/32eba0985b44&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>千千静听 5.7.9 (本地音乐播放器) 去广告绿色版</title>
+        <link>https://kooshare.github.io/post/tiantianjingting/</link>
+        <pubDate>Wed, 14 Aug 2024 20:15:45 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/tiantianjingting/</guid>
+        <description>&lt;p&gt;千千静听曾经是国内最好的音乐播放软件，千千静听非常小巧。但是功能却非常全面，相信很多05年后接触网络的朋友都深有体会，PC上的千千静听，手机端的天天动听，那都是我们这一代人的装机必备。随着千千静听被百度改版，一代音乐神器也就此陨落。但仍不失为一个优秀的本地音频播放器。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240814201600426.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814201600426&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h2&gt;&lt;p&gt;• 集成 kongfl888 编写的关联工
+• 集成 凉雨浮生 的歌词在线搜索插件 2024.05
+• 集成 插件和皮肤&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/1b45e29e2323&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/1b45e29e2323&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>GOM Player Plus 2.3.94.5365 (播放器) 绿色版</title>
+        <link>https://kooshare.github.io/post/gomplayer/</link>
+        <pubDate>Wed, 14 Aug 2024 20:14:46 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/gomplayer/</guid>
+        <description>&lt;p&gt;GOM Player播放器是一款Windows平台高级本地视频播放器,这款韩国多媒体影音播放器,不仅韩国在全球也被广泛使用,内置强大的解码器/滤镜过滤器,字幕功能,支持360度VR全景视频,UHD/4K超高清视频流畅播放.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240814201505529.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814201505529&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ad-free premium video player｜GOM Player Plus
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cuZ29tbGFiLmNvbS9nb21wbGF5ZXJwbHVzLW1lZGlhLXBsYXllci8jaGlzdG9yeQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.gomlab.com/gomplayerplus-media-player/#history&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;gom播放器绿色版,gomplayer播放器,gom player plus绿色版&lt;/p&gt;
+&lt;p&gt;gom player plus免激活中文绿色版，无需许可证，去更新提示&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GOM Player中文破解版 v2.3.94.5365 x64 免安装绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0dc0adb9ce85&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0dc0adb9ce85&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>苹果 iTunes 12.13.2.3 / 12.6.5.3 AppStore 官方版</title>
+        <link>https://kooshare.github.io/post/itunes12/</link>
+        <pubDate>Wed, 14 Aug 2024 20:13:15 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/itunes12/</guid>
+        <description>&lt;p&gt;iTunes电脑版是苹果公司旗下用于连接PC电脑的苹果设备驱动程序及音乐和视频播放器,苹果iTunes客户端不仅能对电脑上的iPhone苹果设备文件管理备份同步,从iTunes Store商店中购买音乐,电影,铃声,电视节目等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Uue2mRn.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814201351571&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;苹果PC套件 iTunes for Windows 包含的应用程序组件：
+﹂Apple Mobile Device Support（苹果设备驱动程序）
+﹂Apple Soft Update（苹果应用程序升级程序）
+﹂Bonjour（苹果设备共享通讯数据组件）
+﹂iTunes（苹果设备连接PC端的管理器）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;iTunes v12.13.2.3 官方版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a335d08cfcfa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a335d08cfcfa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;iTunes 12.6.5.3 for Windows 7+（含AppStore功能的最终版）
+x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9zZWN1cmUtYXBwbGRubGQuYXBwbGUuY29tL2l0dW5lczEyLzA5MS04NzgxOS0yMDE4MDkxMi02OTE3NzE3MC1CMDg1LTExRTgtQjZBQi1DMUQwMzQwOUFEMkE2L2lUdW5lczY0U2V0dXAuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://secure-appldnld.apple.com/itunes12/091-87819-20180912-69177170-B085-11E8-B6AB-C1D03409AD2A6/iTunes64Setup.exe&lt;/a&gt;
+x32 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9zZWN1cmUtYXBwbGRubGQuYXBwbGUuY29tL2l0dW5lczEyLzA5MS04NzgyMC0yMDE4MDkxMi02OTE3NzE3MC1CMDg1LTExRTgtQjZBQi1DMUQwMzQwOUFEMkE1L2lUdW5lc1NldHVwLmV4ZQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://secure-appldnld.apple.com/itunes12/091-87820-20180912-69177170-B085-11E8-B6AB-C1D03409AD2A5/iTunesSetup.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;iTunes 12.1.3.6 for Windows XP+
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9zZWN1cmUtYXBwbGRubGQuYXBwbGUuY29tL2l0dW5lczEyLzAzMS0zNDAwMi0yMDE1MDkxNi05OEQzMkE5Mi01QzExLTExRTUtODBBQy1DMjVBNkRBOTlDQjEvaVR1bmVzU2V0dXAuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://secure-appldnld.apple.com/itunes12/031-34002-20150916-98D32A92-5C11-11E5-80AC-C25A6DA99CB1/iTunesSetup.exe&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>爱奇艺视频 12.2.5.7850 去广告绿色版</title>
+        <link>https://kooshare.github.io/post/aiqiyishipin/</link>
+        <pubDate>Wed, 14 Aug 2024 20:11:31 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/aiqiyishipin/</guid>
+        <description>&lt;p&gt;爱奇艺视频客户端最新版,极清HDR画质,蓝光1080P画质,免费下载4K/1080P超清视频,爱奇艺视频播放器具有杜比音效,AI识人特色功能.爱奇艺视频PC版,拥有正版高清视频版权自制节目,视频资源方面有自己的特色.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/1xYONv4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814201150134&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近更新：
+– 全新64位版
+– 全新LOGO设计颜色统一深色风格
+– 新增VIP画质：帧绮印画（4K低码率25帧HDR）
+– 服务端策略变动：1080P/4K限免结束不再免费！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;爱奇艺IQIYIVideo,爱奇艺视频去广告绿色版
+– 绿化处理免安装，去安全效验，移除各种广告
+– 去今日推荐弹窗、去右下角热点内容推送弹窗
+– 去缓冲广告、暂停广告，看片秒播，拒绝卡顿
+– NSIS编译额外启动器，退出软件自动结束进程驻留程序
+– 去主界面按钮：短视频、爱奇艺游戏、发现（插件容器页）
+– 去爱奇艺播放器侧边栏视频详情及评论页顶部 [游戏] 标签
+– 去每日任务页：玩游戏领积分、去登陆账号多终端同步提示
+– 去爱奇艺播放器右键菜单项：在线升级, 在线帮助, 今日推荐
+– 去主界面提示：登陆可同步移动端设置头像挂件哦, 频道列表在这里哦
+– 去相关菜单无用项：今日推荐, 在线升级, 在线客服, 自动修复, 意见反馈
+– 去设置界面无用项：开机启动, 广告设置, 今日推荐, 资讯热点, 版本更新
+– 禁止强制升级，禁止后台自动下载安装包文件，禁止后台下载广告数据
+– 禁止强制创建开机启动项，去相关设置项：开机启动, 开机视频加速服务
+– 禁止强制后台下载安装推广插件容器（爱奇艺游戏, 短视频, 直播, 奇秀等）
+– 删除爱奇艺服务程序, 崩溃报告模块, 升级模块, 爱奇艺游戏相关等无用文件&lt;/p&gt;
+&lt;p&gt;最近更新：
+* 更新NSIS启动器，解决新版关闭退出仍有进程残留问&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;爱奇艺视频PC版 v12.2.5.7850(64) 去广告绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9809747d25fa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9809747d25fa&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PlayerFab / Ultra HD Player 7.0.4.5 (4K蓝光播放器) 绿色版</title>
+        <link>https://kooshare.github.io/post/playerfab/</link>
+        <pubDate>Wed, 14 Aug 2024 20:09:44 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/playerfab/</guid>
+        <description>&lt;p&gt;DVDFab PlayerFab播放器是一款全球优秀的4K蓝光影音播放软件,这款蓝光高清播放器拥有TrueTheater影像增强技术和蓝光3D播放引擎,可以播放DVD光盘,全球区域蓝光原盘和4K UHD/HEVC(H.265) 超清视频.支持各类家庭影院效果输出,如HDR10和环场音效/杜比视界/杜比全景声/7.1声道等输出,PlayerFab最新版本支持各类编解码器,如H.264, H.265 (HEVC)等,支持所有媒体格式,如MP4, MKV, MOV, VBO, M2TS等格式.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240814201001008.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814201001008&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DVDFab PlayerFab Update History
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cuZHZkZmFiLmNuL21lZGlhLXBsYXllci1uZXcuaHRtP3Y9Nw==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.dvdfab.cn/media-player-new.htm?v=7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DVDFab Player 现已改名 PlayerFab Ultra HD Player&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;playerfab蓝光播放器,playerfab破解版,playerfab中文绿色便携版&lt;/p&gt;
+&lt;p&gt;激活授权去联网验证，去更新删除多语言，免激活中文绿色便携版&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PlayerFab播放器中文破解版 v7.0.4.5 x64 绿色便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/eb765648ab10&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/eb765648ab10&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Miru 1.8.1 (多源视频漫画小说) 绿色版</title>
+        <link>https://kooshare.github.io/post/miru181/</link>
+        <pubDate>Wed, 14 Aug 2024 20:08:48 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/miru181/</guid>
+        <description>&lt;p&gt;很多APP打造成可扩展的、像容器一样的软件，可以将不同类型的资源装在里面使用，这样在一个APP里面就可以实现音乐、漫画、小说、视频等功能；比如tvb0x、海阔视界等等。&lt;/p&gt;
+&lt;p&gt;今天这款APP也是如此原理，一个极其实用的开源软件，内置各种扩展功能，能实现视频、漫画、小说等功能。&lt;/p&gt;
+&lt;p&gt;软件看起来相当成熟，除了支持多种语言之外，还支持安卓和Windows，而且安卓端还适配了pad大屏，理论上也可以说支持车机——Miru&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/S6eAibT.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814200904473&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Miru是一款免费、开源的支持视频、漫画、小说扩展源的多功能应用，支持Windows、支持手机、支持pad。&lt;/p&gt;
+&lt;p&gt;自适应竖屏、横屏显示&lt;/p&gt;
+&lt;p&gt;软件支持多种语言，首次安装默认为英语，所以我们需要修改为中文。&lt;/p&gt;
+&lt;p&gt;软件内置了扩展仓库地址，所以我们先在『扩展』里面安装你想使用的仓库。&lt;/p&gt;
+&lt;p&gt;在『扩展-仓库』里面有很多仓库源，点击安装你需要的仓库。&lt;/p&gt;
+&lt;p&gt;然后再『搜索』栏目里面就可以直接使用你安装的各类仓库。&lt;/p&gt;
+&lt;p&gt;目前的仓库主要可以实现视频、漫画、小说；同时软件也是支持自定义扩展仓库的，有能力的朋友可以去软件官网学习一些如何编写，然后顺带给大家分享一下你的仓库源。&lt;/p&gt;
+&lt;p&gt;同时软件也是支持Windows的，想在电脑上使用也可以。&lt;/p&gt;
+&lt;p&gt;由于Miru也是支持横屏的，我也不抱希望的在电视上测试了一下，很遗憾，无法使用遥控的OK键，其他都基本能控制，所以电视上无法操控。&lt;/p&gt;
+&lt;p&gt;Miru有点像简化版的海阔视界，海阔灵活性太高、扩展性极强，以至于很多朋友觉得门槛太高，但是Miru就很好，使用简单。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f43b8a71a595&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f43b8a71a595&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>QQ音乐 20.05.0 去广告绿色版</title>
+        <link>https://kooshare.github.io/post/qqyinyue20/</link>
+        <pubDate>Wed, 14 Aug 2024 20:07:30 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/qqyinyue20/</guid>
+        <description>&lt;p&gt;QQ音乐播放器(QQMusic)拥有最大正版音乐曲库,免费畅享5.1声道品质音效,耳纹音效,Super Sound智能音效,黑胶音效等,支持声学适配.QQ音乐客户端,听歌偏好智能推荐,支持听歌识曲,QQ等级加速,首创歌词翻译.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/fniPRhx.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814200746486&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;QQ音乐下载页 – QQ音乐,音乐你的生活!
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly95LnFxLmNvbS9kb3dubG9hZC9kb3dubG9hZC5odG1s&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://y.qq.com/download/download.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2024.01.05 v20.05.0
+2023-12-18 v20.03.0
+– 1.QQ音乐PC全新改版，完美视听体验
+– 2.匠心打造，焕新布局，优雅便捷
+– 3.其他用户体验优化&lt;/p&gt;
+&lt;p&gt;最近更新：
+– 「登陆」新增QQ音乐扫码登录（ v19.37）
+– 「雷达模式」雷达模式全新上线（ v19.33）
+– 「臻品全景声」QQ音乐自制空间音频（ v19.06）
+– （Hi-Res无损）最高可达192kHz/24bit（ v19.06）
+– 「臻品母带」全新神经网络技术，深度还原母（ v19.06）
+– 「臻品音质2.0」提升，配合空间全景环绕效果（ v19.02）
+– 支持「杜比全景声」啦，支持Airpods空间音频（v18.97）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;qq音乐客户端,qq音乐播放器绿色版,qq音乐2023去广告版
+&lt;del&gt;– 解锁无损音乐试听，免费试听SQ无损品质（不是破解VIP）&lt;/del&gt;
+– 反汇编处理，去我的音乐页面右侧广告及歌单页面右侧广告
+– 去组件检测上报效验，删除QQMusicUp.exe,QQMusicExternal.exe
+– 禁止检测升级，去后续提示版本过低无法使用限制，去菜单检测更新
+– 禁止在系统后台%AppData%\Tencent\ 里生成产品日志logs文件夹
+– 删除无用的辅助程序，电脑管家下载、在线升级程序(已脱离) 等文件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;QQ音乐PC版(QQ音乐播放器) v20.05 去广告绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9527b5e2ae1a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9527b5e2ae1a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>网易云音乐64位 3.0.1.201589 绿色版</title>
+        <link>https://kooshare.github.io/post/wangyiyunyinyue301/</link>
+        <pubDate>Wed, 14 Aug 2024 20:06:18 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/wangyiyunyinyue301/</guid>
+        <description>&lt;p&gt;网易云音乐3.0版是一款专注于发现与分享的音乐产品,依托音乐人,DJ,好友推荐及社交功能,打造全新音乐生活.网易云音乐最大特色是推荐算法和歌曲评论,正版高质量歌单:外语,电音, 纯音乐,ACG等,深受年轻用户喜爱.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/iH6kI9n.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814200645731&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;网易云音乐PC端3.0版是全新64位版，和2.X版本并行更新。&lt;/p&gt;
+&lt;p&gt;网易云音乐3.0采用现代化UI设计，播放页可以使用动效，而且还能使用自定义壁纸。&lt;/p&gt;
+&lt;p&gt;但由于新技术的原因，网易云电脑版3.0最新版目前在资源占用方面高于旧版客户端。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;网易云电脑版,网易云音乐播放器,网易云音乐客户端去升级绿色便携版
+– 逆向修改实现便携化，数据强制保存到根目录CloudMusic\NetEase
+– 切断强制升级，无视选项升级开关，禁后续检测升级提示下载安装包
+– 删除了多国语言pak包、错误报告程序&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;网易云音乐PC版 v3.0.1 Build 201589 绿色便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f3fcdf9e87fe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f3fcdf9e87fe&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>网易云音乐 2.10.11.201538 绿色版</title>
+        <link>https://kooshare.github.io/post/wangyiyunyinyue210/</link>
+        <pubDate>Wed, 14 Aug 2024 20:05:20 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/wangyiyunyinyue210/</guid>
+        <description>&lt;p&gt;网易云音乐PC版是一款专注于发现与分享的音乐产品,依托音乐人,DJ,好友推荐及社交功能,打造全新音乐生活.网易云音乐最大特色是推荐算法和歌曲评论,正版高质量歌单:外语,电音, 纯音乐,ACG等,深受年轻用户喜爱.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/3jYMuDa.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814200535174&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2022年11月更新 v2.10.6
+*【网易云音乐x杜比全景声】重磅上线！带来全新听觉盛宴限时尝新体验~
+* 互动新玩法【音乐弹幕】新鲜上线！音乐边听边看随手记录你的听歌心情~
+* 修复已知问题，优化体验&lt;/p&gt;
+&lt;p&gt;2022年10月更新 v2.10.5
+*【有声书】首页增加有声书推荐
+* 修复已知问题，优化体验&lt;/p&gt;
+&lt;p&gt;最近更新：
+*【播客】首页增加了兴趣电台，更多电台等你解锁
+* 优化了播放设备管理能力，蓝牙设备切换更加丝滑
+* 升级解码器，适应更多音频内容的播放
+– 新增功能：罗马音功能、歌词定位、相似歌曲推荐
+– 新增功能：播放歌曲定位、侧边栏加入了最近播放
+– 一起听已上线，用电脑也可以和好友一起听歌啦！
+– 鲸云音效上新：360°环绕音效，让歌曲旋动起来！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;网易云电脑版,网易云音乐播放器,网易云音乐客户端去升级绿色便携版
+– 逆向修改实现便携化，数据强制保存到根目录CloudMusic\NetEase
+– 切断强制升级，无视选项升级开关，禁后续检测升级提示下载安装包
+– 删除了多国语言pak包、错误报告程序&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;网易云音乐PC版 v2.10.11 Build 201538 绿色便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/54dd80f63ec7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/54dd80f63ec7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>魔音Morin 2.7.6 (音乐免费下载) 绿色版</title>
+        <link>https://kooshare.github.io/post/morin/</link>
+        <pubDate>Wed, 14 Aug 2024 20:03:58 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/morin/</guid>
+        <description>&lt;p&gt;魔音Morin电脑版是一个干净简洁的音乐播放器及免费小巧的付费歌曲无损音乐下载软件.魔音Morin最新版可以免费在线试听及下载付费歌曲,版权音乐,无损音质歌曲.挖掘热门音乐榜单,聚合音乐搜索接口,智能解析音乐源.魔音Morin音乐播放器支持同时下载音乐及下载歌词文件专辑图片,显示歌词,MV播放,听歌识曲.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/vdI00O5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814200414529&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2023.06.16 v2.7.6
+– 修复 排行榜无法加载的问题
+– 修复 其他一些问题&lt;/p&gt;
+&lt;p&gt;2023.03.28 v2.7.5
+– 修复无法正常播放的问题
+– 修复 其它一些问题&lt;/p&gt;
+&lt;p&gt;2022.11.25 v2.7.0
+– 修复 GPU占用过高的问题
+– 修复 最大化不完整的问题
+– 优化 总体的加载流畅性
+– 优化 托盘退出按钮放最后
+– 修复 其他一些问题&lt;/p&gt;
+&lt;p&gt;近期更新
+– 新增 暗色系、修复酷我搜索失败的问题
+– 桌面歌词支持：锁定、播放控制、双行歌词&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;运行要求&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;.Net Framwork 4.8, Windows 7 或更高版
+提示：有壳如安全软件误报，请添加排除项&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;魔音Morin电脑版 v2.7.6.0 免安装绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a5ccde36d294&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a5ccde36d294&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;注意：此版有问题无法播放付费歌曲，请等待官方更新。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>暴风影音16 9.06.0523.1111 (播放器) 绿色版</title>
+        <link>https://kooshare.github.io/post/bofengyingyin/</link>
+        <pubDate>Wed, 14 Aug 2024 20:03:00 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/bofengyingyin/</guid>
+        <description>&lt;p&gt;暴风影音16是暴风影音播放器16周年之际于2019年6月推出的一款简单纯碎的本地视频播放器,启动快播放流畅,支持816种解码可播放目前所有的视频格式,提供左眼优化,VR设备3D模式,全景环绕声,截图和投屏功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/201jzHa.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814200315933&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;暴风影音下载
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cDovL3d3dy5iYW9mZW5nLmNvbS9kb3dubG9hZA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www.baofeng.com/download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;极速版：精简轻量版，仅聚焦播放功能！&lt;/p&gt;
+&lt;p&gt;暴风影音极速版
+– 左眼键专利技术。
+– 万能播放媒体格式全兼容。
+– 支持各种格式文件本地播放。
+– 画面锐化处理，细节纹理清晰自然。
+– 支持各种格式的本地文件播放，看节目更轻松。
+– 软件支持市面大多数视频格式，支持截图和投屏。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;暴风影音16周年特别版,暴风影音极速版多开绿色版
+1、基于官方版精简，解除多开限制，可以无限多开
+2、硬核修改禁止每次启动时总是强制关联所选文件
+3、逆向修改默认关闭最小化到托盘为完全退出程序
+4、去主界面播放列表顶部：意见反馈、应用图标按钮
+5、精简大堆不必要的暴风业务组件、基础组件、产品迭代预留文件：
+├—感谢信, http, 升级组件, 日志, 安装, 诊断器, 异退监控, 崩溃管理等&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;暴风影音16 v9.06.0523.1111 多开绿色精简版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c5facc4359a7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c5facc4359a7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>酷我音乐 9.2.0.0 W6 去广告破解VIP绿色版</title>
+        <link>https://kooshare.github.io/post/kuwoyinyue/</link>
+        <pubDate>Wed, 14 Aug 2024 20:02:02 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/kuwoyinyue/</guid>
+        <description>&lt;p&gt;酷我音乐PC版(酷我播放器)是一款腾讯旗下的音乐播放器,酷我音乐2023最新版提供无损音质正版歌曲在线试听.酷我音乐豪华VIP破解版下载.酷我音乐电脑版,酷我音乐Windows版支持蝰蛇音效,AI智能音效,听歌识曲.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/FMGrizt.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814200216866&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;酷我音乐PC版 v9.2.0.0 W6 / v8.7.7 BCS37 去广告破解豪华VIP绿色版&lt;/p&gt;
+&lt;p&gt;☑ 反汇编处理，破解豪华VIP会员，显示尊贵身份标识，畅享豪华VIP特权
+├—试听完整版会员歌曲及无损音质、下载付费歌曲及无损音乐（免登陆）
+├—VIP下载加速、下载蓝光MV、蝰蛇HIFI、专属皮肤（需任意账号登陆）
+注：由于网络验证、破解并不涉及部分腾讯版权歌曲、HiFi发烧音乐专辑；&lt;/p&gt;
+&lt;p&gt;☑ 禁止首次启动时跳出烦人的隐私政策弹窗
+☑ 逆向修改模块移除各种广告及各种无用项：
+├—免登陆去音频广告 (播放歌曲详情页真人直播秀悬浮球)
+├—去界面广告推广项：签到送豪礼、耳机推广、消息中心
+├—去界面左侧直播项、去今日看点弹窗、去游戏、去秀场
+├—移除更多音乐工具界面：今日看点、酷我秀场、VIP服务
+☑ 逆向修改退出软件为强制结束进程驻留程序 (KwService.exe)
+☑ 去升级，禁止后台偷偷下载安装包强制升级；去主菜单项：升级音乐盒、铃声制作
+☑ 去选项无用项：今日看点、检查更新、显示主播上线提醒、退出后关闭播放引擎等
+☑ 删除垃圾文件：今日看点、游戏程序、爱奇艺客户端插件、自动升级、错误报告等&lt;/p&gt;
+&lt;p&gt;# 解决9.x破解版第二次启动后，之前听过的会员歌曲及切换无损音质要付费问题：
+﹂只需删除以下文件夹，新建同名文件占位（但会导致最近播放/歌单列表被清空）
+﹂%ProgramData%\Kuwodata\kwmusic2013\ModuleData\ModPlayList&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;酷我音乐PC版 v9.2.0.0 W6 去广告破解豪华VIP绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a88907b76905&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a88907b76905&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>优酷视频 8.1.0.1280 去广告绿色版</title>
+        <link>https://kooshare.github.io/post/youkushipin/</link>
+        <pubDate>Wed, 14 Aug 2024 20:01:01 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/youkushipin/</guid>
+        <description>&lt;p&gt;优酷客户端,免费畅享非标准蓝光1080P,支持极清4K画质,流光HDR高品质,优酷视频播放器具有一键追剧,视觉增强,视频转码,GIF录制等功能.优酷视频,最大的特色独家拥有大量修复画质版的高清经典电影和TVB港台剧.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/GsTsghF.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814200120016&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2022.09.15 v8.1.0.1280 最终版
+* 去掉每次播放视频的强制提示升级9.x版本弹窗！&lt;/p&gt;
+&lt;p&gt;– 反汇编处理，去暂停广告、去缓冲广告秒播，告别等待！
+– 解除非会员用户限制，显示VIP身份标识，自动会员加速
+├—即免费下载会员专属1080P视频（不支持版权和VIP视频）
+– 免升级，禁止自动检测升级强制在后台下载升级包静默安装
+– 去主界面来疯标签页，禁止点击菜单启动极速版、检查升级项
+– 禁止任务栏通知区域PP助手诱导广告弹窗、删除热点弹窗程序
+– 禁止后台下载优酷极速版，禁止桌面生成优酷极速版快捷方式
+– 无阿里粑粑防护，删除优酷医生、热点弹窗、错误报告等文件&lt;/p&gt;
+&lt;p&gt;# 无人值守静默安装参数：/ai /gm2（默认绝对路径D盘）
+静默安装指定位置：/ai /gm2 /InstallPath=”自定义路径”
+示例：软件包.exe /ai /gm2 /InstallPath=”D:\MyProgram”
+• 常规运行=安装版（含开始菜单快捷方式和程序卸载项的快捷方式）
+• 右键解压=绿色版（本身不提供便携式的软件要手动运行绿化处理）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;优酷视频PC版 v8.1.0.1280 解除1080P下载限制去广告绿色纯净版 (最终收藏版)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d1983cc02895&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d1983cc02895&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>PixPin 1.8.24 (截图/OCR) 官方版&#43;绿色版</title>
         <link>https://kooshare.github.io/post/pixpin/</link>
         <pubDate>Wed, 14 Aug 2024 19:56:45 +0800</pubDate>
