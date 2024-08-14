@@ -7,7 +7,61 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 14 Aug 2024 01:50:39 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 14 Aug 2024 07:59:16 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>CloudFlare 造成重定向的次数过多的问题</title>
+        <link>https://kooshare.github.io/post/chongdingxiangcishuguoduo/</link>
+        <pubDate>Wed, 14 Aug 2024 07:59:16 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/chongdingxiangcishuguoduo/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://img-home.csdnimg.cn/images/20240711042549.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;CloudFlare的SSL/TLS加密模式设置为完全(Strict)可以防止因HTTP和HTTPS重定向导致的循环重定向错误。当源网站支持HTTPS并配置正确时，选择Full(Strict)确保安全回源。如果遇到重定向循环，可调整为Full(Strict)或修改源站的HTTPS设置。&lt;/p&gt;
+&lt;h3 id=&#34;一句话解决&#34;&gt;一句话解决
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;在 CloudFlare 的 SSL/TLS 菜单里将「SSL/TLS 加密模式」设置为完全（Strict）即可。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;以下内容转载自 CSDN 博主「补了个丁」的原创文章，遵循 &lt;a class=&#34;link&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CC 4.0 BY-SA&lt;/a&gt; 版权协议。
+原文链接：https://blog.csdn.net/weixin_29405101/article/details/112659223&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;cloudflare-造成重定向的次数过多的原因&#34;&gt;CloudFlare 造成重定向的次数过多的原因
+&lt;/h3&gt;&lt;p&gt;当网站开启了 CloudFlare 服务，用户访问我们的网站时，其实访问的离用户比较近的 Cloudflare 服务器，Cloudflare 再代理用户请求我们的源服务器，以达到加速和保护源服务器的目的。Cloudflare 代理用户请求我们源服务器获取网页资源的过程叫回源。&lt;/p&gt;
+&lt;p&gt;Cloudflare 造成循环重定向的错误就出在了回源的过程中，造成这种错误的原因就是 http 和 https 之间的重定向。&lt;/p&gt;
+&lt;p&gt;Cloudflare Crypto 的 SSL 中有 4 个选项 (如下)，其中 Off 就是不启用 SSL，通过 HTTP 协议访问网站。另外 3 种是通过 HTTPS 协议访问网站。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/TClnB4l.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814080720953&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;cloudflare-cdn-配置&#34;&gt;Cloudflare CDN 配置
+&lt;/h3&gt;&lt;p&gt;Flexible：当我们的源网站没有配置 HTTPS 支持时，启用这个选项，Cloudflare 会在回源的时候通过 HTTP 协议访问我们的网站。
+Full：当我们的源网站支持 HTTPS，但是 HTTPS 证书和域名不匹配或者是自签名证书时，Cloudflare 会通过 HTTPS 协议访问源网站，但不会验证证书，也就是说，即使我们的源网站提供的 HTTPS 证书不受浏览器信任，Cloudflare 也会通过 HTTPS 回源网站。
+Full (strict)：当我们的源网站支持 HTTP ，并且证书有效时 (未过期且受信任)。Cloudflare 会通过 HTTPS 协议访问源网站，并在每个请求过程中验证证书。
+了解了上面各个设置的功能，我们来看一下 Cloudflare 的循环重定向问题是怎么出现的，在 Cloudflare 中开启了 SSL 后，访问网站时出现循环重定向需满足下面两个条件：&lt;/p&gt;
+&lt;p&gt;SSL 中设置了 Flexible，CDN 以 HTTP 协议回源网站。
+源网站支持 HTTPS，并且设置了通过 HTTP 协议访问时，自动跳转到 HTTPS 协议。
+到这里，可能就有朋友发现问题了，我们访问 Cloudflare 的 CDN 服务器的时候，是通过 HTTPS 访问的，CDN 访问源网站的时候，是通过 HTTP 访问的，源网站上 HTTP 又自动跳转了 HTTPS，完美的一个循环重定向。重定向的次数多了，浏览器就撂挑子报出了 ERR_TOO_MANY_REDIRECTS 的错误。&lt;/p&gt;
+&lt;h3 id=&#34;cloudflare-造成重定向的次数过多问题的解决办法&#34;&gt;CloudFlare 造成重定向的次数过多问题的解决办法
+&lt;/h3&gt;&lt;p&gt;知道了循环重定向的原因，我们也就知道了怎么解决这个问题，通过测试，下面的两种设置方法都可以解决 Cloudflare 循环重定向的问题。&lt;/p&gt;
+&lt;p&gt;SSL 中选择 Full (strict) 或者 Full (strict)，让 CDN 回源的时候使用 HTTPS 的方式回源，没有 HTTP 什么事了，就不会跳来跳去了
+源网站不设置 HTTPS 支持或者 不设置 HTTP 跳转 HTTPS，让 Cloudflare 回源的时候使用 HTTP 方式获取资源。
+修改了 CloudFlare 设置后，可能需要过几分钟或清理浏览器缓存后才能生效。&lt;/p&gt;
+&lt;p&gt;除了 Cloudflare，使用其他 CDN 提供商的时候，也可能会出现这个问题，如果设置了 CDN 后，遇到了 Chrome 报重定向次数过多的问题，可以通过上面的思路查找问题。如果你在使用其他 CDN 的时候也遇到了类似的问题，欢迎在评论中提出，让更多的朋友看到。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>微博 14.8.0 集成猪手模块2.31(286) 去广告版</title>
         <link>https://kooshare.github.io/post/weibo1480/</link>
         <pubDate>Wed, 14 Aug 2024 01:50:39 +0800</pubDate>

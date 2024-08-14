@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="zh-cn" dir="ltr">
     <head><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="1.在浏览器中打开自己公众号的一篇推送，Ctrl+U查看网页源代码。 2.Ctrl+F搜索var biz,复制对应的代码 3.前面加上https:">
-<title>微信公众号自定义菜单栏添加历史消息方法</title>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="CloudFlare的SSL/TLS加密模式设置为完全(Strict)可以防止因HTTP和HTTPS重定向导致的循环重定向错误。当源网站支持">
+<title>CloudFlare 造成重定向的次数过多的问题</title>
 
-<link rel='canonical' href='https://kooshare.github.io/post/mplishixiaoxi/'>
+<link rel='canonical' href='https://kooshare.github.io/post/chongdingxiangcishuguoduo/'>
 
-<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="微信公众号自定义菜单栏添加历史消息方法">
-<meta property='og:description' content="1.在浏览器中打开自己公众号的一篇推送，Ctrl+U查看网页源代码。 2.Ctrl+F搜索var biz,复制对应的代码 3.前面加上https:">
-<meta property='og:url' content='https://kooshare.github.io/post/mplishixiaoxi/'>
+<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="CloudFlare 造成重定向的次数过多的问题">
+<meta property='og:description' content="CloudFlare的SSL/TLS加密模式设置为完全(Strict)可以防止因HTTP和HTTPS重定向导致的循环重定向错误。当源网站支持">
+<meta property='og:url' content='https://kooshare.github.io/post/chongdingxiangcishuguoduo/'>
 <meta property='og:site_name' content='KUL藏宝库'>
-<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-08-13T10:52:51&#43;08:00'/><meta property='article:modified_time' content='2024-08-13T10:52:51&#43;08:00'/>
-<meta name="twitter:title" content="微信公众号自定义菜单栏添加历史消息方法">
-<meta name="twitter:description" content="1.在浏览器中打开自己公众号的一篇推送，Ctrl+U查看网页源代码。 2.Ctrl+F搜索var biz,复制对应的代码 3.前面加上https:">
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-08-14T07:59:16&#43;08:00'/><meta property='article:modified_time' content='2024-08-14T07:59:16&#43;08:00'/>
+<meta name="twitter:title" content="CloudFlare 造成重定向的次数过多的问题">
+<meta name="twitter:description" content="CloudFlare的SSL/TLS加密模式设置为完全(Strict)可以防止因HTTP和HTTPS重定向导致的循环重定向错误。当源网站支持">
     <link rel="shortcut icon" href="/favicon.ico" />
 
   
@@ -248,7 +248,45 @@
     </ol>
 </aside>
 
-    
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#一句话解决">一句话解决</a></li>
+        <li><a href="#cloudflare-造成重定向的次数过多的原因">CloudFlare 造成重定向的次数过多的原因</a></li>
+        <li><a href="#cloudflare-cdn-配置">Cloudflare CDN 配置</a></li>
+        <li><a href="#cloudflare-造成重定向的次数过多问题的解决办法">CloudFlare 造成重定向的次数过多问题的解决办法</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
 
             <main class="main full-width">
     <article class="main-article">
@@ -267,7 +305,7 @@
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/post/mplishixiaoxi/">微信公众号自定义菜单栏添加历史消息方法</a>
+            <a href="/post/chongdingxiangcishuguoduo/">CloudFlare 造成重定向的次数过多的问题</a>
         </h2>
     
         
@@ -289,7 +327,7 @@
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">2024-08-13</time>
+                <time class="article-time--published">2024-08-14</time>
             </div>
         
 
@@ -305,33 +343,52 @@
     <section class="article-content">
     
     
-    <p>1.在浏览器中打开自己公众号的一篇推送，<code>Ctrl+U</code>查看网页源代码。
-2.<code>Ctrl+F</code>搜索<code>var biz</code>,复制对应的代码</p>
-<p><img src="https://s2.loli.net/2024/08/13/3hmiufPacKSyGdX.png"
+    <p><img src="https://img-home.csdnimg.cn/images/20240711042549.png"
 	
 	
 	
 	loading="lazy"
 	
-		alt="在这里插入图片描述"
+		alt="img"
 	
 	
-></p>
-<p>3.前面加上<code>https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=</code></p>
-<p>**完整路径为：**<a class="link" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz="  target="_blank" rel="noopener"
-    >https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=</a>这里是你的varbiz</p>
-<p>4.添加历史消息</p>
-<p><img src="https://s2.loli.net/2024/08/13/xhvqgkO8sFJZeja.png"
+>CloudFlare的SSL/TLS加密模式设置为完全(Strict)可以防止因HTTP和HTTPS重定向导致的循环重定向错误。当源网站支持HTTPS并配置正确时，选择Full(Strict)确保安全回源。如果遇到重定向循环，可调整为Full(Strict)或修改源站的HTTPS设置。</p>
+<h3 id="一句话解决">一句话解决
+</h3><p><strong>在 CloudFlare 的 SSL/TLS 菜单里将「SSL/TLS 加密模式」设置为完全（Strict）即可。</strong></p>
+<hr>
+<blockquote>
+<p>以下内容转载自 CSDN 博主「补了个丁」的原创文章，遵循 <a class="link" href="http://creativecommons.org/licenses/by-sa/4.0/"  target="_blank" rel="noopener"
+    >CC 4.0 BY-SA</a> 版权协议。
+原文链接：https://blog.csdn.net/weixin_29405101/article/details/112659223</p>
+</blockquote>
+<h3 id="cloudflare-造成重定向的次数过多的原因">CloudFlare 造成重定向的次数过多的原因
+</h3><p>当网站开启了 CloudFlare 服务，用户访问我们的网站时，其实访问的离用户比较近的 Cloudflare 服务器，Cloudflare 再代理用户请求我们的源服务器，以达到加速和保护源服务器的目的。Cloudflare 代理用户请求我们源服务器获取网页资源的过程叫回源。</p>
+<p>Cloudflare 造成循环重定向的错误就出在了回源的过程中，造成这种错误的原因就是 http 和 https 之间的重定向。</p>
+<p>Cloudflare Crypto 的 SSL 中有 4 个选项 (如下)，其中 Off 就是不启用 SSL，通过 HTTP 协议访问网站。另外 3 种是通过 HTTPS 协议访问网站。</p>
+<p><img src="https://i.imgur.com/TClnB4l.png"
 	
 	
 	
 	loading="lazy"
 	
-		alt="在这里插入图片描述"
+		alt="image-20240814080720953"
 	
 	
 ></p>
-<p>历史消息添加成功</p>
+<h3 id="cloudflare-cdn-配置">Cloudflare CDN 配置
+</h3><p>Flexible：当我们的源网站没有配置 HTTPS 支持时，启用这个选项，Cloudflare 会在回源的时候通过 HTTP 协议访问我们的网站。
+Full：当我们的源网站支持 HTTPS，但是 HTTPS 证书和域名不匹配或者是自签名证书时，Cloudflare 会通过 HTTPS 协议访问源网站，但不会验证证书，也就是说，即使我们的源网站提供的 HTTPS 证书不受浏览器信任，Cloudflare 也会通过 HTTPS 回源网站。
+Full (strict)：当我们的源网站支持 HTTP ，并且证书有效时 (未过期且受信任)。Cloudflare 会通过 HTTPS 协议访问源网站，并在每个请求过程中验证证书。
+了解了上面各个设置的功能，我们来看一下 Cloudflare 的循环重定向问题是怎么出现的，在 Cloudflare 中开启了 SSL 后，访问网站时出现循环重定向需满足下面两个条件：</p>
+<p>SSL 中设置了 Flexible，CDN 以 HTTP 协议回源网站。
+源网站支持 HTTPS，并且设置了通过 HTTP 协议访问时，自动跳转到 HTTPS 协议。
+到这里，可能就有朋友发现问题了，我们访问 Cloudflare 的 CDN 服务器的时候，是通过 HTTPS 访问的，CDN 访问源网站的时候，是通过 HTTP 访问的，源网站上 HTTP 又自动跳转了 HTTPS，完美的一个循环重定向。重定向的次数多了，浏览器就撂挑子报出了 ERR_TOO_MANY_REDIRECTS 的错误。</p>
+<h3 id="cloudflare-造成重定向的次数过多问题的解决办法">CloudFlare 造成重定向的次数过多问题的解决办法
+</h3><p>知道了循环重定向的原因，我们也就知道了怎么解决这个问题，通过测试，下面的两种设置方法都可以解决 Cloudflare 循环重定向的问题。</p>
+<p>SSL 中选择 Full (strict) 或者 Full (strict)，让 CDN 回源的时候使用 HTTPS 的方式回源，没有 HTTP 什么事了，就不会跳来跳去了
+源网站不设置 HTTPS 支持或者 不设置 HTTP 跳转 HTTPS，让 Cloudflare 回源的时候使用 HTTP 方式获取资源。
+修改了 CloudFlare 设置后，可能需要过几分钟或清理浏览器缓存后才能生效。</p>
+<p>除了 Cloudflare，使用其他 CDN 提供商的时候，也可能会出现这个问题，如果设置了 CDN 后，遇到了 Chrome 报重定向次数过多的问题，可以通过上面的思路查找问题。如果你在使用其他 CDN 的时候也遇到了类似的问题，欢迎在评论中提出，让更多的朋友看到。</p>
 
 </section>
 
@@ -356,12 +413,12 @@
             
                 
 <article class="">
-    <a href="/post/chongdingxiangcishuguoduo/">
+    <a href="/post/mplishixiaoxi/">
         
         
 
         <div class="article-details">
-            <h2 class="article-title">CloudFlare 造成重定向的次数过多的问题</h2>
+            <h2 class="article-title">微信公众号自定义菜单栏添加历史消息方法</h2>
         </div>
     </a>
 </article>
