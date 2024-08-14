@@ -7,7 +7,447 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 14 Aug 2024 13:41:43 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 14 Aug 2024 13:54:58 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>360安全浏览器 15.3.5124 去广告绿色版</title>
+        <link>https://kooshare.github.io/post/360anquanliulanqilvseban/</link>
+        <pubDate>Wed, 14 Aug 2024 13:54:58 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/360anquanliulanqilvseban/</guid>
+        <description>&lt;p&gt;360安全浏览器15正式版(360SE15)是基于Chromium内核的双核浏览器,Chromium内核提升至122,支持Win7系统,新增夜间模式,自动模式动态切换支持IE内核.各类实用功能,安全保护技术,丰富皮肤库,风格多样化.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/sgdezEP.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814135514350&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;官方更新&#34;&gt;官方更新
+&lt;/h2&gt;&lt;p&gt;360安全浏览器_360社区
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9iYnMuMzYwLmNuL3RocmVhZC0xNjA5NjU0NC0xLTEuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://bbs.360.cn/thread-16096544-1-1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;360安全浏览器15正式版，Chromium内核提升至122，双核64位，整合AI功能&lt;/p&gt;
+&lt;p&gt;360安全浏览器14正式版，Chromium内核提升至108，正式版支持Win7+系统&lt;/p&gt;
+&lt;p&gt;v15.x：相比14.x，新增64位版，主要提升内核，并内置了AI功能和360智脑！&lt;/p&gt;
+&lt;p&gt;v14.x：不再调用内置的flash插件而是直接调用系统flash插件仅支持npFlash&lt;/p&gt;
+&lt;p&gt;v13.x：经典版，支持flash插件&lt;/p&gt;
+&lt;p&gt;2024.7.27版本号15.3.5112.64
+1、新标签页新增AI功能
+2、优化侧边栏
+3、优化AI阅读
+4、优化AI办公&lt;/p&gt;
+&lt;h2 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h2&gt;&lt;p&gt;360浏览器精简版,360安全浏览器绿色版,360安全浏览器去广告精简优化版
+√去右下角广告弹窗、去新标签页广告、合理精简优化、免升级绿色便携式
+– 改chrome.dll去右下角广告弹窗并切断下载热点资讯弹窗文件popdt.dat
+– 删除并阻止下载驻留后台进程的辅助服务程序(sesvc.exe)
+– 修改chrome.dll禁止自动检查升级,切断下载升级数据文件
+– 修改chrome.dll选中文本的鼠标划词默认搜索为百度搜索
+– 修改chrome.dll标签页的360导航推荐改为空白页
+– 修改chrome.dll主页设置首页360导航改为空白页
+– 修改默认主页为新标签页去广告净化版空白页
+– 修改去网络错误网页无法访问页面的广告
+– 阻止创建.\User Data\safemon目录&lt;/p&gt;
+&lt;p&gt;「新标签页部分」
+– 去游戏弹窗广告、去资讯聚合、去热搜和实时热点词
+– 去个性化推荐设置按钮、清空常用网址并且默认关闭
+– 改页面的搜索框和地址栏默认搜索指向为百度搜索
+– 改顶部的天气”查看本周天气指&amp;gt;”指向为百度搜索&lt;/p&gt;
+&lt;p&gt;「状态栏、收藏夹、菜单」
+– 去状态栏：今日优选、今日直播、每日关注、360画报、青少年模式
+– 移除收藏夹：自带的360搜索、游戏中心、网址大全、手机收藏夹项
+– 去帮助子菜单项：安全上网、问题反馈、官方论坛、检查新版本等等&lt;/p&gt;
+&lt;p&gt;「选项设置调优」
+– 隐藏侧边栏和头像登陆框
+– 修改默认主页hao123导航为新标签页净化版
+– 取消搜索栏热搜词推荐、关闭地址栏下拉框推荐网址
+– 启用IE代理自动检测机制、开启“禁止跟踪(DNT)”功能
+– 取消实验室：消息推荐、360画报、状态栏消息(组件已移除)&lt;/p&gt;
+&lt;p&gt;「精简组件插件」
+– 删除并阻止自动下载插件：服务组件、便签、游戏、阅读模式、邮箱等等
+– 删除组件：服务组件、防护、医生、云安全、小程序、URL查询、升级等
+– 删除扩展模块并阻止下载：360画报模块、游戏小帮手、邮件通、微博提醒&lt;/p&gt;
+&lt;h2 id=&#34;下载方式&#34;&gt;下载方式
+&lt;/h2&gt;&lt;p&gt;360安全浏览器去广告精简优化版 v15.3.5124 绿色便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/698dfbcd6d38&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/698dfbcd6d38&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>360极速浏览器X 22.3.3065 绿色版</title>
+        <link>https://kooshare.github.io/post/360jisu/</link>
+        <pubDate>Wed, 14 Aug 2024 13:53:53 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/360jisu/</guid>
+        <description>&lt;p&gt;360极速浏览器是基于Chromium内核的首款64位双核浏览器,360极速浏览器X版采用Chromeium122极速内核,支持IE内核,极简无弹窗广告,全新阅读模式,新标签页壁纸功能,专业级导航,性能更好,体验更佳,速度更快.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/YrLmvYb.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814135407957&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;360极速浏览器_360社区
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9iYnMuMzYwLmNuL3RocmVhZC0xNjEwNTE4My0xLTEuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://bbs.360.cn/thread-16105183-1-1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;360极速浏览器X最新版，采用64位双核，支持64位Win7以上系统
+最新Chromeium 122的内核，支持IE内核，无弹窗广告，简洁干净&lt;/p&gt;
+&lt;p&gt;v22版本为Chromium 122内核，仅64位版，已不再支持flash插件&lt;/p&gt;
+&lt;p&gt;v21版本为Chromium95内核，仅64位版，支持flash插件的最终版&lt;/p&gt;
+&lt;p&gt;2024.6.28版本号22.3.3050.64
+1、优化新标签页
+2、优化图片转PDF
+3、修复editor-box样式错乱问题&lt;/p&gt;
+&lt;p&gt;最近更新：
+– 支持设置同步
+– 支持查看密码
+– 界面适配win11系统
+– 增加经典皮肤、暗黑皮肤
+– 增加浏览器启动加速功能&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;360极速浏览器X,360极速浏览器X绿色版,360极速浏览器精简优化版
+– 集成Flash插件 Flash Player 34.0.0.301 净化版 (v21.x支持最终版)
+– 删除：360BDoctor组件、URL查询模块、反馈程序、安装备份包
+– 删除：360安全防护、360医生、云安全、URL查询、升级文件等
+– 彻底去掉联网的花里胡哨的HTM5新标签页，改为本地纯空白页
+– 修改chrome.dll选中文本的鼠标划词默认搜索为百度搜索
+– 修改chrome.dll地址栏默认搜索引擎为百度搜索
+– 去无法访问网页出错页面的联网推荐信息流区域
+– 去帮助菜单项：安全上网、检查新版等
+– 优化设置：修改主页默认空白主页等
+– 阻止创建.\User Data\safemon目录&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;360极速浏览器X精简优化版 v22.3.3065 绿色便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/30f6d38bef93&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/30f6d38bef93&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Opera 浏览器 112.0.5197.53 绿色版</title>
+        <link>https://kooshare.github.io/post/opera/</link>
+        <pubDate>Wed, 14 Aug 2024 13:52:48 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/opera/</guid>
+        <description>&lt;p&gt;Opera更换Chromium内核后，我作为浏览器折腾发烧友，也是第一时间安装使用，全新的Opera速度很快，在最近的Tomshardware的评测上，Opera以微弱的差距落后firefox和chrome，远远领先于IE。看得出来，全新的Opera正在发力，往日的经典能不能再现呢。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8xqM2WG.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814135308534&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h2&gt;&lt;p&gt;• 支持地址栏既能执行网址，又能执行搜索
+• 随时随地随心所欲为网页添加书签收藏，并能方便地对其进行分类管理
+• 地址栏建议提示包含历史、书签、推荐网址数据
+• 可在收藏历史气泡中查看最近关闭网页
+• 在欧朋浏览器应用中心汇聚万千应用
+• 沙箱功能保证浏览更安全
+• 欧朋浏览器支持新标签页中统计用户常用网站
+• 支持一键清除浏览器的临时文件及访问历史
+• 支持弹窗拦截阻止广告干扰&lt;/p&gt;
+&lt;h2 id=&#34;下载方式&#34;&gt;下载方式
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9504fa06b1b6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9504fa06b1b6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Google Chrome 127.0.6533.100 (谷歌浏览器) 绿色版</title>
+        <link>https://kooshare.github.io/post/googlechromelvseban/</link>
+        <pubDate>Wed, 14 Aug 2024 13:51:49 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/googlechromelvseban/</guid>
+        <description>&lt;p&gt;谷歌浏览器2024最新便携增强版,Google Chrome浏览器增强版,无更新组件集成增强补丁,Chrome++增强软件功能包括:保存数据实现便携式,增强标签页和标签栏操作方式,移除开发者模式警告和更新错误警告等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/H3pgg6W.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814135204336&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h2&gt;&lt;p&gt;√ 无升级、便携式、绿色免安装，即可以覆盖更新又能解压使用！&lt;/p&gt;
+&lt;p&gt;√ 此增强版，支持右键解压使用，Win7系统可以自定义安装位置&lt;/p&gt;
+&lt;p&gt;√ 加入Chrome增强软件补丁 Chrome++ 1.8.9 (version.dll)
+﹂Chrome++特点 (原始作者@shuax，新作者@Bush2021)
+├—关闭标签页增强 (双击左键关闭标签页、右键关闭标签页)
+├—保留最后标签页 (保留最后一个标签页不关闭，手动点关闭除外)
+├—鼠标标签栏滚动 (鼠标悬停在标签栏时使用鼠标滚轮切换标签页)
+├—在浏览器窗口任意位置按住右键时可以使用鼠标滚轮切换标签页
+&lt;del&gt;├—移除flash锁区，移除2020年过期警告 (v88版彻底删除了Flash支持)&lt;/del&gt;
+├—移除管理员身份运行的警告
+├—移除开发者模式警告 (无需开启开发者模式直接安装第三方扩展程序)
+├—便携式，程序放App目录，用户数据文件放Data目录(兼容原版数据)
+├—移除关于版本更新错误警告 (因为是绿色版所以没有自动更新功能)
+* 启动软件App/chrome.exe, 增强功能通过App/version.dll补丁实现
+* 由于是便携版，不会和其它版本冲突，不想用了直接删掉整个文件夹&lt;/p&gt;
+&lt;p&gt;√ 根目录加入优化启动.bat , 可快速追踪参数快捷方式和屏蔽以下提示&lt;/p&gt;
+&lt;p&gt;√ 屏蔽了Win7系统的提示通告 (获取将来的更新,需要Win10或更高版)&lt;/p&gt;
+&lt;p&gt;√ 采用的不带更新组件服务的官方正式版，删除Chromium多语言Pak&lt;/p&gt;
+&lt;p&gt;√ 自解压安装释放过程，移除系统Chrome升级计划任务项及残留数据&lt;/p&gt;
+&lt;p&gt;提醒：如果启动提示应用程序错误，请取消杀毒软件的保护所有浏览器&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;Google Chrome v127.0.6533.100 增强版 (绿色便携版)
+Google Chrome 109.0.5414.168 Windows 7 or later&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2dad8f39eaaa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2dad8f39eaaa&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Microsoft Edge 127.0.2651.86 (微软浏览器) 绿色版</title>
+        <link>https://kooshare.github.io/post/microsoftedgelvseban/</link>
+        <pubDate>Wed, 14 Aug 2024 13:50:41 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/microsoftedgelvseban/</guid>
+        <description>&lt;p&gt;微软edge浏览器2023最新便携增强版,Microsoft Edge浏览器增强版,无更新组件集成增强补丁,edge++增强软件功能包括:保存数据实现便携式,增强标签页和标签栏操作方式,移除开发者模式警告和更新错误警告等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/oOyvEVc.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814135058379&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h2&gt;&lt;p&gt;edge浏览器增强版,edge浏览器绿色版,微软edge网络浏览器&lt;/p&gt;
+&lt;p&gt;√ 无升级、便携式、默认标签页无广告、可覆盖更新可解压使用！&lt;/p&gt;
+&lt;p&gt;√ 此增强版，支持右键解压使用，Win7系统可以自定义安装位置&lt;/p&gt;
+&lt;p&gt;√ v118及以上版本强制注入最新chrome增强软件chrome++ 1.8.9&lt;/p&gt;
+&lt;p&gt;√ v109及以下版本强制注入edge增强软件 edge++ 1.5.1 (Win7+)&lt;/p&gt;
+&lt;p&gt;﹂Chrome++ 特点 (源作者@shuax，新作者@Bush2021)
+├—关闭标签页增强 (双击左键关闭标签页、右键关闭标签页)
+├—保留最后标签页 (保留最后一个标签页不关闭，手动点关闭除外)
+├—鼠标标签栏滚动 (鼠标悬停在标签栏时使用鼠标滚轮切换标签页)
+├—在浏览器窗口任意位置按住右键时可以使用鼠标滚轮切换标签页
+&lt;del&gt;├—移除flash锁区，移除2020年过期警告 (v88版彻底删除了Flash支持)&lt;/del&gt;
+├—移除管理员身份运行的警告
+├—移除开发者模式警告 (无需开启开发者模式直接安装第三方扩展程序)
+├—便携式，程序放App目录，用户数据文件放Data目录(兼容原版数据)
+├—移除关于版本更新错误警告 (因为是绿色版所以没有自动更新功能)
+* 由于是便携版不会和其它版数据冲突，不想用了直接删除掉整个文件夹
+* 增强特性通过将version.dll注入到edge浏览器msedge.exe程序实现的&lt;/p&gt;
+&lt;p&gt;√ 根目录加入优化启动.bat , 可快速追踪参数快捷方式和以下优化&lt;/p&gt;
+&lt;p&gt;√ 自解压安装释放过程自动屏蔽Win7低版本提示通告(109最终版)&lt;/p&gt;
+&lt;p&gt;√ 自解压安装释放过程自动解除edge最新版默认禁用IE浏览器限制&lt;/p&gt;
+&lt;p&gt;√ 自解压安装释放过程自动隐藏edge最新版新增的右上角发现按钮&lt;/p&gt;
+&lt;p&gt;√ 改了msedge.dll, 禁止自动创建升级计划任务及升级相关系统数据&lt;/p&gt;
+&lt;p&gt;√ 采用的官方正式版，删除更新组件服务及Chromium内核多语言Pak&lt;/p&gt;
+&lt;p&gt;√ 自解压安装释放过程，彻底移除系统Edge升级计划任务及残留数据！&lt;/p&gt;
+&lt;p&gt;提醒：如果启动提示应用程序错误，请取消杀毒软件的保护所有浏览器&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;Microsoft Edge浏览器 v127.0.2651.86 绿色便携增强版浏览器&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/823446c42a98&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/823446c42a98&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>tete009 Firefox 128.0.2 (第三方火狐浏览器) 绿色版</title>
+        <link>https://kooshare.github.io/post/tete009firefox/</link>
+        <pubDate>Wed, 14 Aug 2024 13:49:28 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/tete009firefox/</guid>
+        <description>&lt;p&gt;tete009 Firefox最新版火狐浏览器知名第三方编译版,火狐浏览器tete009编译版,其优化设计和兼容性非常优秀.它的便携化制作方式完美,加载大容量网页速度特别快,尤其是加载图片速度快,兼容性启动速度非常不错.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/dzSB3pn.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814134943449&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;● tete009 Firefox 特点介绍&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;tete009 Mozilla Firefox – Tete’s Atelier
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cDovL3d3dzEucGxhbGEub3IuanAvdGV0ZTAwOS9lbi1VUy9zb2Z0d2FyZS5odG1s&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www1.plala.or.jp/tete009/en-US/software.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;tete009 Firefox 编译版的启动和加载图片时间是所有火狐浏览器版本里最快的！tete009的版本改进了Firefox内存占用，根据不同的CPU指令集重写了tmemutil.dll，即内存管理的dll文件，使效率大为提高；改善了浏览器的渲染过程，使渲染效率更高；此外Module Binder能缩短Firefox的启动时间。根据不同的CPU指令集制作不同的版本，使Mozilla Firefox能够根据不同的平台而优化，这也是众多第三方编译版共同的特征。&lt;/p&gt;
+&lt;p&gt;● tete009 Firefox版本切换简体中文方法
+设置(Settings)-&amp;gt;常规(General)-&amp;gt;language(语言)
+English(US)-&amp;gt;下拉-&amp;gt;Search for more languages (搜索更多语言)
+Select a language to add-&amp;gt;下拉-&amp;gt;简体中文-&amp;gt;Add-&amp;gt;添加完-OK&lt;/p&gt;
+&lt;p&gt;● tete009 Firefox版本如何启用便携模式？
+在根目录新建文件 tmemutil.ini，启用以下内容即可完成便携模式
+%AppData%\Local\Mozilla\Firefox\Profiles可以保存到跟根目录
+Portable = 1，如果为0则禁用便携模式
+[General]
+Portable = 1
+PortableDataPath = D:\Firefox\Profiles&lt;/p&gt;
+&lt;p&gt;● 如何更新tete009 Firefox版本 (作者方法)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打开tete009 Firefox旧版的所在位置，根据需要备份以下文件和文件夹&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;├—PortableDataPath 指定的文件夹（如果启用了便携模式）
+├—searchplugins folder (搜索插件目录)
+├—plugins folder (插件目录)
+├—tmemutil.ini (如果已存在)&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;删除tete009 Firefox旧版本&lt;/li&gt;
+&lt;li&gt;解压tete009 Firefox最新版&lt;/li&gt;
+&lt;li&gt;将备份文件复制到新版目录&lt;/li&gt;
+&lt;li&gt;如有必要重新安装语言包&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;tete009 Firefox 128.0.2 x64 (2024/07/24)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/4bdf1d370d90&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/4bdf1d370d90&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Vivaldi 浏览器 6.8.3381.48 官方版</title>
+        <link>https://kooshare.github.io/post/vivaldi/</link>
+        <pubDate>Wed, 14 Aug 2024 13:48:15 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/vivaldi/</guid>
+        <description>&lt;p&gt;Vivaldi浏览器是opera浏览器创始人于2015年发布的一款全新浏览器，Vivaldi浏览器拥有高度自定义定制的优点，其他与chrome也相似，强大的标签栏支持预览，还可以把任意的标签文件夹作为快速拨号，功能强大的侧边栏，支持全键盘操作的快捷键，支持快速笔记，可以说，一千个用户就会有一千个Vivaldi浏览器。&lt;/p&gt;
+&lt;p&gt;Vivaldi 最大的特色是几乎「一切皆可定制」，自由度相当高。每个人上网都有自己不同的喜好和使用习惯，Vivaldi 浏览器正是为了适应用户习惯而生的。譬如你想把标签栏放在屏幕底部或侧边？或地址栏换个位置？在 Vivaldi 都可以轻松设置，让它成为你最顺手高效的上网工具。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/L2ale0k.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814134832144&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Vivaldi 是一款独特、清爽、高效、继承 Opera 与 Chrome 两者优点、专为喜爱上网的进阶专业用户而设计的新一代浏览器！它提供了高度自由可定制的界面功能来满足高端用户各种不同的需求，譬如页面标签栏不仅可以移到界面的上下左右，甚至还能隐藏起来并通过键盘快捷键来操作。其他能设置和调整的地方相当丰富，反正你觉得浏览器怎么顺手好用你就怎么去改。&lt;/p&gt;
+&lt;p&gt;不仅如此，因为 Vivaldi 使用了 Chromium 内核，直接就继承了 Chrome 谷歌浏览器的高性能、高兼容性特点，而且还能兼容直接安装和使用 Chrome 的扩展插件。在此基础上，Vivaldi 还提供了大量贴心的内置功能：键盘快捷键、鼠标手势、标签群组堆叠、多页面平铺、快速拨号、侧边栏面板、网页截图/笔记等等。&lt;/p&gt;
+&lt;p&gt;另外，Vivaldi 还提供了很多诸如移除网页图片、以 3D 立体效果显示网页、黑白浏览、根据网站的配色自动更改标签栏和地址栏颜色等有趣的小功能，这对于很多普通用户可能感觉没啥卵用，但确实能让一小部分用户为它动心。&lt;/p&gt;
+&lt;p&gt;对于键盘装逼党，你一定会喜欢 Vivaldi！你只需按下一个简单的快捷键，即可呼出命令框，随时通过命令来搜索所有打开的标签页、书签、历史记录、设置以及其它更多内容。而且快捷命令的菜单也是高度可定制的，你可以创建适合自己的命令来执行。&lt;/p&gt;
+&lt;p&gt;而且，你再也无需用 TAB 键在页面里循环跳转了，Vivaldi 里用方向键即可沿轴线任意移动光标，只需键盘即可游历网页的任何角落，让你轻松抛弃鼠标，最大化利用键盘高效率地上网！&lt;/p&gt;
+&lt;h2 id=&#34;官方更新&#34;&gt;官方更新
+&lt;/h2&gt;&lt;p&gt;● 更容易创建主题&lt;/p&gt;
+&lt;p&gt;Vivaldi 5.0 新版允许用户更容易创建主题，可以更无缝地处理壁纸。如果你不太擅长自己制作主题，还增加了一个新选项，可以从网上下载主题。另一方面，如果你能做出好的主题，那么请随时在Vivaldi的主题网站上分享它们，这样别人就可以下载和使用你的创作。&lt;/p&gt;
+&lt;p&gt;● 翻译面板&lt;/p&gt;
+&lt;p&gt;本次更新上线了翻译面板，它可以让你更容易地翻译文本片段。要使用这个功能，你只需打开翻译面板，然后高亮显示页面上的任何文本，它将自动出现在翻译面板中，并附有目标语言的翻译，无需额外的点击。如果你做了大量的翻译，Vivaldi 会帮助你保留一个本地历史记录，这样你就可以查看你以前翻译的片段。&lt;/p&gt;
+&lt;p&gt;● 双层浏览器标签&lt;/p&gt;
+&lt;p&gt;在手机上，Vivaldi的主要变化是引入了所谓的双层浏览器标签。手机往往有大量的垂直空间，所以Vivaldi团队可能认为为什么不利用这些额外的空间来塞进更多的标签。像桌面浏览器那样拥有完整的标签，使你更容易在网页之间切换，因为你不必像在Chrome和Firefox上那样打开一个单独的标签选择器。&lt;/p&gt;
+&lt;p&gt;说到针对屏幕尺寸的优化，Vivaldi 5.0 for Android 已经更新，可以在平板电脑和Chromebook上正常工作。与桌面体验类似，平板电脑用户现在可以在浏览器的左侧打开面板。这些面板提供了对各种项目的访问，包括历史、下载、书签、笔记等等。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9f1528cba7ae&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9f1528cba7ae&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>百分浏览器 CentBrowser 5.1.1130.128 官方版&#43;绿色版</title>
+        <link>https://kooshare.github.io/post/centbrowser/</link>
+        <pubDate>Wed, 14 Aug 2024 13:47:32 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/centbrowser/</guid>
+        <description>&lt;p&gt;Cent Browser(百分浏览器)是一款功能实用的Chrome增强版谷歌浏览器,CentBrowser浏览器基于Chromium内核较新版编译,功能支持:鼠标手势,超级拖拽,延迟加载,小号新标签,增强标签页,内存自动优化,持H5弹出播放,免扩展支持迅雷下载,网页视频下载,隐私保护增强,自动更新Chrome内核及内置Flash插件版本支持等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/LGOgjYH.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814134750367&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;百分浏览器 – 更新日志
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9jZW50YnJvd3Nlci5jbi9oaXN0b3J5Lmh0bWw=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://centbrowser.cn/history.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;v5.1.1130.128 [2024-06-24]
+快捷键设置支持Ctrl+Alt
+使用老板键隐藏浏览器之后允许启动新窗口
+[BUG修复] “导出密码”菜单项不起作用
+[BUG修复] 检查更新进程有时无法退出
+[BUG修复] 标签栏字体未被MacType渲染
+[BUG修复] 某些环境下网页崩溃 (STATUS_INVALID_IMAGE_HASH)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cent Browser Download
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cDovL3N0YXRpYy5jZW50YnJvd3Nlci5jb20v&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://static.centbrowser.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>360安全浏览器 13.1.6410 去广告绿色版</title>
+        <link>https://kooshare.github.io/post/360anquanliulanqi/</link>
+        <pubDate>Wed, 14 Aug 2024 13:46:27 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/360anquanliulanqi/</guid>
+        <description>&lt;p&gt;360安全浏览器(360SE)是基于Chromium内核的双核浏览器,360SE13全新升级了,新增夜间模式,自动模式动态切换支持IE内核.采用Chromeium86稳定版的内核,各类实用功能,安全保护技术,丰富皮肤库,风格多样.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/llQgvBh.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814134643781&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;360安全浏览器_360社区
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9iYnMuMzYwLmNuL3RocmVhZC0xNTk0ODU4OS0xLTEuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://bbs.360.cn/thread-15948589-1-1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SE13正式版已全面升级内核Chromium 86稳定版！&lt;/p&gt;
+&lt;p&gt;2023.1.12—SE13.1.6410.0
+1、新增实验性办公导航功能
+2、修复画报某个问题
+3、新增高版本覆盖低版本时的提示
+4、修复崩溃问题
+5、浏览器内存优化&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;√去右下角广告弹窗、去新标签页广告、合理精简优化、免升级绿色便携式
+– 集成Flash插件纯净版 Adobe Flash Player 34.0.0.277 PPAPI 中国特供版
+– 修改chrome.dll去右下角广告弹窗并切断下载热点资讯弹窗文件popdt.dat
+– 删除并阻止下载驻留后台进程的辅助服务程序(sesvc.exe)
+– 修改chrome.dll禁止自动检查升级,切断下载升级数据文件
+– 修改chrome.dll选中文本的鼠标划词默认搜索为百度搜索
+– 修改chrome.dll标签页的360导航推荐改为空白页
+– 修改chrome.dll主页设置首页360导航改为空白页
+– 修改默认主页为新标签页去广告净化版空白页
+– 修改去网络错误网页无法访问页面的广告
+– 阻止创建.\User Data\safemon目录&lt;/p&gt;
+&lt;p&gt;「新标签页部分」
+– 去游戏弹窗广告、去资讯聚合、去热搜和实时热点词
+– 去个性化推荐设置按钮、清空常用网址并且默认关闭
+– 改页面的搜索框和地址栏默认搜索指向为百度搜索
+– 改顶部的天气”查看本周天气指&amp;gt;”指向为百度搜索&lt;/p&gt;
+&lt;p&gt;「状态栏、收藏夹、菜单」
+– 去状态栏：今日优选、今日直播、每日关注、360画报、青少年模式
+– 移除收藏夹：自带的360搜索、游戏中心、网址大全、手机收藏夹项
+– 去帮助子菜单项：安全上网、问题反馈、官方论坛、检查新版本等等&lt;/p&gt;
+&lt;p&gt;「选项设置调优」
+– 隐藏侧边栏和头像登陆框
+– 修改默认主页hao123导航为新标签页净化版
+– 取消搜索栏热搜词推荐、关闭地址栏下拉框推荐网址
+– 启用IE代理自动检测机制、开启“禁止跟踪(DNT)”功能
+– 取消实验室：消息推荐、360画报、状态栏消息(组件已移除)&lt;/p&gt;
+&lt;p&gt;「精简组件插件」
+– 删除并阻止自动下载插件：服务组件、便签、游戏、阅读模式、邮箱等等
+– 删除组件：服务组件、防护、医生、云安全、小程序、URL查询、升级等
+– 删除扩展模块并阻止下载：360画报模块、游戏小帮手、邮件通、微博提醒&lt;/p&gt;
+&lt;p&gt;# 无人值守静默安装参数：/ai /gm2（默认绝对路径D盘）
+静默安装指定位置：/ai /gm2 /InstallPath=”自定义路径”
+示例：软件包.exe /ai /gm2 /InstallPath=”D:\MyProgram”
+• 常规运行=安装版（含开始菜单快捷方式和程序卸载项的快捷方式）
+• 右键解压=绿色版（本身不提供便携式的软件要手动运行绿化处理）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;360安全浏览器去广告精简优化版 v13.1.6410 绿色便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/876ba5996e4d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/876ba5996e4d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>HEU KMS Activator 42.1.0 (激活工具) 绿色版</title>
         <link>https://kooshare.github.io/post/heukmsactivator4210/</link>
         <pubDate>Wed, 14 Aug 2024 13:41:43 +0800</pubDate>
