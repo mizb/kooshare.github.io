@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>虚拟机 on KUL藏宝库</title>
+        <link>https://kooshare.github.io/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/</link>
+        <description>Recent content in 虚拟机 on KUL藏宝库</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>KUL藏宝库</copyright>
+        <lastBuildDate>Wed, 14 Aug 2024 11:03:40 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>雷电模拟器9(64) 9.0.75.1 (安卓模拟器) 去广告绿色版</title>
+        <link>https://kooshare.github.io/post/leidianmoniqi90751lvseban/</link>
+        <pubDate>Wed, 14 Aug 2024 11:03:40 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/leidianmoniqi90751lvseban/</guid>
+        <description>&lt;p&gt;玩电脑手游模拟器安卓版首选雷电模拟器9.0最新版采用Android 9版本内核.雷电安卓模拟器最新版,支持OpenGL3.1模式3D渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/VlrhP2s.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814110356354&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;更新日志_雷电安卓模拟器
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cubGRtbnEuY29tL2xkX3VwZGF0ZV9sb2cuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/ld_update_log.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;雷电模拟器绿色精简版,雷电安卓模拟器去广告绿色版
+1.去启动界面广告、去任务栏右下角通知区域游戏弹窗
+2.去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为）
+3.去桌面底部广告（桌面主屏幕内下方5个内置游戏推广应用）
+4.拒绝后台广告数据下载请求 %AppData%\Leidian64\Cache
+5.破解游戏多开（解除了官方版不能同时运行超过5个APP的限制）
+6.拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为
+7.免安装净化处理，删除资讯广告程序、上传组件、错误报告文件
+8.删除系统镜像内置短信app，提供面具(Magisk)及LSPosed框架&lt;/p&gt;
+&lt;p&gt;● 如何启用ROOT权限？
+雷电模拟器9.0默认没开ROOT权限
+界面-设置-其它-root权限-启用即可&lt;/p&gt;
+&lt;p&gt;● 如何只更新去广告后的系统镜像呢？
+只需下载去广告版提取镜像文件替换到以下位置
+├—LDPlayer9\system.vmdk, vms\system.vmdk&lt;/p&gt;
+&lt;p&gt;● 雷电模拟器9.0、雷电模拟器5.0/4.0 和 3.x 有什么区别？
+# 主要指的安卓系统镜像Android版本不同(system.vmdk)：
+﹂9.0：Android 9-x86_64 (64位版，64位指的安卓系统版本)
+﹂5.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64位版)
+﹂3.x：Android 5.1.2-x86
+# 所有版本都兼容ARM库，可共存使用支持各版无限多开运行&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;运行要求&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Windows 7、Windows 10 或更高版64位&lt;/p&gt;
+&lt;p&gt;需要开启虚拟化技术(VT)，电脑怎么开启VT教程
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cubGRtbnEuY29tL3N1cHBvcnQvVlRqaWFvLzI5MC5odG1s&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/support/VTjiao/290.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其它的说明: &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9sZG1ucS5jb20vZm9ydW0vODY0OTUuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ldmnq.com/forum/86495.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;雷电安卓模拟器 v9.0.75.1 (64) 去广告绿色纯净版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/095a3ee0f07e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/095a3ee0f07e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>SandBoxie Classic 5.69.6 / Plus 1.14.6 (沙盘沙盒沙箱) 官方版</title>
+        <link>https://kooshare.github.io/post/sandboxie5696/</link>
+        <pubDate>Wed, 14 Aug 2024 11:02:28 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/sandboxie5696/</guid>
+        <description>&lt;p&gt;沙盘Sandboxie中文版是一款知名的系统安全工具的菜鸟高手裸奔工具,它可以让选定程序在安全的隔离系统环境下运行,只要在此环境中运行的软件,浏览器或注册表信息等都可以完整的进行清空,不留一点痕迹.同时可以防御些带有木马或者病毒的恶意网站,对于经常测试软件或者不放心的软件,可放心在沙盘里面运行.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/fStYwgh.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814110248815&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;sandboxie-plus/Sandboxie – GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL3NhbmRib3hpZS1wbHVzL1NhbmRib3hpZS9yZWxlYXNlcw==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/sandboxie-plus/Sandboxie/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;官方论坛2020年3月份公布免费开源Sandboxie源码&lt;/p&gt;
+&lt;p&gt;最后一个官方数字签名的免费版的版本号为 v5.33.6&lt;/p&gt;
+&lt;p&gt;现由开发者@DavidXanatos个人接盘持续更新维护&lt;/p&gt;
+&lt;p&gt;Sandboxie Classic ：沙盘经典版，安全更新！&lt;/p&gt;
+&lt;p&gt;Sandboxie Plus：沙盘增强版，全新开发版！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sandboxie Classic 5.69.6 / Sandboxie Plus 1.14.6 (2024/07/31)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/839531bdaaa6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/839531bdaaa6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VirtualBox 7.0.20 (虚拟机) 官方版</title>
+        <link>https://kooshare.github.io/post/virtualbox7020/</link>
+        <pubDate>Wed, 14 Aug 2024 11:01:09 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/virtualbox7020/</guid>
+        <description>&lt;p&gt;Oracle VM VirtualBox中文版是一款甲骨文公司旗下的免费开源轻量级虚拟机软件.它主要优势是完全免费,性能稳定,可以在Linux/Windows平台运行,可以在主机上安装Win,MacOS,Linux,BSD等客户机操作系统.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/RKC8d3q.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814110127891&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Changelog – Oracle VM VirtualBox
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cudmlydHVhbGJveC5vcmcvd2lraS9DaGFuZ2Vsb2c=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.virtualbox.org/wiki/Changelog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Oracle VM VirtualBox 7.0.20 for Windows (2024/07/16)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/3fd57fea8199&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/3fd57fea8199&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>雷电模拟器5 5.0.82 (安卓模拟器) 去广告绿色版</title>
+        <link>https://kooshare.github.io/post/leidianmoniqi55082/</link>
+        <pubDate>Wed, 14 Aug 2024 11:00:03 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/leidianmoniqi55082/</guid>
+        <description>&lt;p&gt;玩电脑手游模拟器安卓版首选雷电模拟器5.0稳定版采用Android 7.1.2版内核.雷电安卓模拟器5.0版,支持OpenGL3.1模式3D渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/85XgAKo.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814110022143&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;更新日志_雷电安卓模拟器
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cubGRtbnEuY29tL2xkX3VwZGF0ZV9sb2cuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/ld_update_log.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;雷电模拟器绿色精简版,雷电安卓模拟器去广告绿色版
+1.去启动界面广告、去任务栏右下角通知区域游戏弹窗
+2.去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为）
+3.去桌面底部广告（桌面主屏幕内下方5个内置游戏推广应用）
+4.拒绝后台广告数据下载请求 %AppData%\Leidian64\Cache
+5.破解游戏多开（解除了官方版不能同时运行超过5个APP的限制）
+6.拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为
+7.免安装净化处理，删除资讯广告程序、上传组件、错误报告文件&lt;/p&gt;
+&lt;p&gt;● 如何只更新去广告后的系统镜像呢？
+只需下载去广告版提取镜像文件替换到以下位置
+├—LDPlayer9\system.vmdk, vms\system.vmdk&lt;/p&gt;
+&lt;p&gt;● 雷电模拟器9.0、雷电模拟器5.0/4.0 和 3.x 有什么区别？
+# 主要指的安卓系统镜像Android版本不同(system.vmdk)：
+﹂9.0：Android 9-x86_64 (64位版，64位指的安卓系统版本)
+﹂5.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64位版)
+﹂3.x：Android 5.1.2-x86
+# 所有版本都兼容ARM库，可共存使用支持各版无限多开运行&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;雷电模拟器 v5.0.82(64) / v5.0.82(32) 去广告绿色纯净版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7368f00b0dfe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/7368f00b0dfe&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VMware Workstation Pro 17.5.2 (虚拟机) 精简优化版</title>
+        <link>https://kooshare.github.io/post/vmware1752jingjianyouhua/</link>
+        <pubDate>Wed, 14 Aug 2024 10:58:45 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/vmware1752jingjianyouhua/</guid>
+        <description>&lt;p&gt;VMware Workstation中文版是一款功能强大的VMware虚拟机软件.最新VMware精简版集成许可密钥免激活,最大特色是已解锁支持安装MAC OS X客户操作系统,添加了微软MSDM,DELL SLIC的BLOS支持,号称世界史上第一位解决,VMware中文注册精简版相比原版体积小,功能实用性较强,安装方便深受部分用户喜爱.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/SYaUs2b.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814105903707&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;by cuiplay&lt;/p&gt;
+&lt;p&gt;• 精简列表：
+– VMware Tray（托盘程序）
+– VMware VIX（导出OVF支持）
+– Visual Studio（微软VS工具集）
+– VirtualPrinter（虚拟打印机驱动）
+– VC Runtimes Redist（VC++运行库）
+– 除英文、中文外的其它多国语言包文件
+– 除Windows外其它VMware Tools ISO&lt;/p&gt;
+&lt;p&gt;• 主要特色：
+– 修改添加 APPLE OSK，已解锁可安装MAC OS X主机系统
+– 修改添加 DELL SLIC2.5 + MSDM + SLP + Virtual PC XP
+– 直接在安装程序中集成CDK，调整安装UI，安装好即注册！&lt;/p&gt;
+&lt;p&gt;VMware Workstation全系列合集 精简安装注册版 支持SLIC2.6、MSDM、OSX&lt;/p&gt;
+&lt;p&gt;BIOS 支持OEM激活 Windows XP/7/Vista/Server 2003R2/2008R2, 2012R2, 2016, 2019, 2022；
+EFI BIOS支持OEM激活Windows Vista/Server 2008, 2008R2, 2012, 2012R2, 2016, 2019, 2022；
+VISTA~2019对安装盘无要求，导入OEM证书和系统版本对应的OEM-CDK即可激活（证书已提供）&lt;/p&gt;
+&lt;p&gt;已解除OSX Server安装限制，编辑虚拟机设置 -&amp;gt; 选项 -&amp;gt; 高级 -&amp;gt; 勾选“通过 EFI 而非 BIOS 引导”&lt;/p&gt;
+&lt;p&gt;• 如何安装VM MacOS 客户机？
+::官方版不支持安装，此精简版已解除限制，具体使用步骤：
+1.新建虚拟机 -&amp;gt; 硬件兼容性选VM10.x -&amp;gt; Apple Mac OS X
+2.新建好虚拟机后，找到你新建的镜像名称文件“名称.vmx”
+3.然后添加1行参数保存启动虚拟机即可：smc.version = “0”&lt;/p&gt;
+&lt;p&gt;2024-05-15 更新 VMware Workstation Pro 17.5.2-23775571
+继续集成CDK，商业用途许可版。。。
+MD5: 806DB309E704B2A12FF1621F9AB2AA12
+SHA-1: 5D95E64A4CB7FBDF28F095B8A8EB4E55D5840137&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;系统要求&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VM16：硬件要求高，Windows 10 或更高版64位
+VM15：硬件要求中，Windows 7 或更高版64位
+VM12：硬件要求低，Windows 7 或更高版64位
+VM10：Windows XP 或更高版32位和64位旧版
+注意：VM14版本开始不支持某些旧的电脑硬件，
+会提示不支持或安装失败, 如遇到请退回12版本。&lt;/p&gt;
+&lt;p&gt;注意，VM11 及后续版本 仅支持 X64 系统使用！X86 请用 10 版本系列！
+注意，VM16 不再支持 Win7 系统使用！Win7 请用15.5及以下版本系列！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VMware Workstation Pro v17.5.2-23775571 中文精简安装注册版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/368a578f8319&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/368a578f8319&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VMware Workstation Pro 17.5.2 (虚拟机) 破解版</title>
+        <link>https://kooshare.github.io/post/vmware1752/</link>
+        <pubDate>Wed, 14 Aug 2024 10:57:29 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/vmware1752/</guid>
+        <description>&lt;p&gt;威睿虚拟机软件VMware Workstation 17 PRO 正式版更新.VMware17最新版增加了全新暗色界面,支持最新Win和Linux客户机系统版本,进了WDDM 1.2和OpenGL 4.3 3D硬件加速支持,12.0版本之后专门为Win10兼容性和功能做了优化,新技术支持DX10,4K高分辨率显示屏,OpenGL 3.3,7.1声道及兼容主流新硬件设备.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/quguNSl.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814105754981&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2024年5月14日 VMware Workstation 17.5.2 Pro 发行说明
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb2NzLnZtd2FyZS5jb20vZW4vVk13YXJlLVdvcmtzdGF0aW9uLVByby8xNy41LjIvcm4vdm13YXJlLXdvcmtzdGF0aW9uLTE3NTItcHJvLXJlbGVhc2Utbm90ZXMvaW5kZXguaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.vmware.com/en/VMware-Workstation-Pro/17.5.2/rn/vmware-workstation-1752-pro-release-notes/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;常见问题&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;# 碰到启动VMware客户机系统黑屏如何解决？
+经总结可能原因是14版之后注册了两个LSP协议（vSockets DGRAM、vSockets STREAM）导致异常！
+解决方法：使用LSP修复工具（例如：火绒安全里或ARK工具里的LSP工具）修复LSP网络协议，或者重置下网络链接Winsock，即打开命令提示符cmd.exe，输入命令netsh winsock reset，重启系统即可解决！&lt;/p&gt;
+&lt;p&gt;# 碰到启动VMware软件后假死卡住如何解决？
+解决方法：可以尝试关闭系统防火墙！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;系统要求&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VM16：硬件要求高，Windows 10 或更高版64位
+VM15：硬件要求中，Windows 7 或更高版64位
+VM12：硬件要求低，Windows 7 或更高版64位
+VM10：Windows XP 或更高版32位和64位旧版
+注意：VM14版本开始不支持某些旧的电脑硬件，
+会提示不支持或安装失败, 如遇到请退回12版本。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;激活密钥&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VMware激活密钥（通用批量永久激活许可）
+17：JU090-6039P-08409-8J0QH-2YR7F
+16：ZF3R0-FHED2-M80TY-8QYGC-NPKYF
+15：FC7D0-D1YDL-M8DXZ-CYPZE-P2AY6
+12：ZC3TK-63GE6-481JY-WWW5T-Z7ATA
+10：1Z0G9-67285-FZG78-ZL3Q2-234JG&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VMware v17.5.2 中文激活版 (官方版+注册机)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f4be6108655e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f4be6108655e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>WinKawaks 1.65 (街机模拟器) 绿色版</title>
+        <link>https://kooshare.github.io/post/winkawaks165/</link>
+        <pubDate>Wed, 14 Aug 2024 10:56:05 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/winkawaks165/</guid>
+        <description>&lt;p&gt;WinKawaks 是一款带有 NeoGeo、CP System 和 CP System II 板的街机模拟器。 这意味着可以享受 90 年代中后期街机游戏中一些最受欢迎的视频游戏，包括《街头霸王》、《拳皇》、《恐龙快打》和《三国志》等史诗系列游戏。WinKawaks 模拟器的特点在于其优秀的画面表现和流畅的运行速度。通过模拟器，可以体验到与原版游戏相差无几的画质，同时保证游戏的流畅运行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/4VfYYDB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814105623522&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7a32a238ed66&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/7a32a238ed66&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
