@@ -2330,8 +2330,6 @@
     <loc>https://kooshare.github.io/page/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kooshare.github.io/page/link/</loc>
-  </url><url>
     <loc>https://kooshare.github.io/tags/</loc>
   </url><url>
     <loc>https://kooshare.github.io/categories/test/</loc>
@@ -2339,5 +2337,7 @@
     <loc>https://kooshare.github.io/page/about/</loc>
   </url><url>
     <loc>https://kooshare.github.io/page/search/</loc>
+  </url><url>
+    <loc>https://kooshare.github.io/page/link/</loc>
   </url>
 </urlset>
