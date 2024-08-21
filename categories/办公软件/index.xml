@@ -7,7 +7,99 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 15 Aug 2024 10:23:21 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 16 Aug 2024 06:52:10 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>蜂蜜(fongmi)本地包使用教程</title>
+        <link>https://kooshare.github.io/post/bendibaoshiyongjiaocheng/</link>
+        <pubDate>Fri, 16 Aug 2024 06:52:10 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/bendibaoshiyongjiaocheng/</guid>
+        <description>&lt;p&gt;近期增加了PG和倒长本地包，很多新手一脸懵逼；会折腾本地包的朋友一看就懂，新手其实没必要折腾这些本地包。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/PbUnNza.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240816070301581&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;手机端教程&#34;&gt;手机端教程
+&lt;/h2&gt;&lt;p&gt;其实将本地包解压到手机，查看文件内容就能发现，“index.json”是倒长本地包的配置文件，所以“***/drpy_dzlive/index.json”就是倒长本地包的配置地址，配置地址前面的内容就是这个本地包的文件位置。&lt;/p&gt;
+&lt;p&gt;竖屏版都已支持选择本地配置文件，直接获取配置地址，如下图所示。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/nhFCBIp.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240816070337115&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;比如，我把这个本地包解压至“tvboxqq”文件夹中，那么配置地址就是：&lt;/p&gt;
+&lt;p&gt;影拭仓等通用：&lt;/p&gt;
+&lt;p&gt;clan://localhost/tvboxqq/drpy_dzlive/index.json&lt;/p&gt;
+&lt;p&gt;蜂蜜版：&lt;/p&gt;
+&lt;p&gt;file://tvboxqq/drpy_dzlive/index.json&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240816070404898.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240816070404898&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;PG包的配置文件是“jsm.json”，把zip文件解压到手机的任意位置，同上面的教程，配置文件前加上文件的位置就是配置地址；如下图，奇奇把压缩包解压至“tvboxqq/PG”这个文件夹中，那么配置地址就是：&lt;/p&gt;
+&lt;p&gt;影拭仓等通用：&lt;/p&gt;
+&lt;p&gt;clan://localhost/tvboxqq/PG/jsm.json&lt;/p&gt;
+&lt;p&gt;蜂蜜版：&lt;/p&gt;
+&lt;p&gt;file://tvboxqq/PG/jsm.json&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240816070512166.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240816070512166&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;电视端教程&#34;&gt;电视端教程
+&lt;/h2&gt;&lt;p&gt;电拭端的配置也是非常简单的，由于最新PG包目前仅适配影拭与EasyBox，今天的教程以蜂蜜版作为演示。首先进入点波配置界面，按下图步骤开启存储权限，然后使用连接同个网络的手机扫描电拭端的配置二维码。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240816070552823.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240816070552823&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;手机打开配置界面，参考下图步骤，选择最后一项“本地”，选择本地包压缩文件上传到指定位置后，再点击对应的配置文件“index.json”或“jsm.json”，即可使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240816070615629.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240816070615629&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;简单教程一篇，希望你可以看懂！&lt;/p&gt;
+&lt;h2 id=&#34;本地包下载地址&#34;&gt;本地包下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ec313f02de0b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ec313f02de0b&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;FM(蜂蜜)下载&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e7aa78309c77&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e7aa78309c77&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>FastCopy 5.7.15 (文件快速复制工具) 绿色版&#43;单文件</title>
         <link>https://kooshare.github.io/post/fastcopy/</link>
         <pubDate>Thu, 15 Aug 2024 10:23:21 +0800</pubDate>
