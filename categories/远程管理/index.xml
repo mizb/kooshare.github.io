@@ -7,7 +7,86 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 14 Aug 2024 10:24:33 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 21 Aug 2024 23:38:34 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>AnyDesk 8.0.13 (远程桌面) 官方版</title>
+        <link>https://kooshare.github.io/post/anydesk8013/</link>
+        <pubDate>Wed, 21 Aug 2024 23:38:34 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/anydesk8013/</guid>
+        <description>&lt;p&gt;AnyDesk免费版是一款适用于Windows的免费远程桌面软件的远程控制软件,拥有先进的视频压缩技术DeskRT,可以轻松穿透防火墙/路由器,AnyDesk远程工具,采用轻量化设计,支持无缝远程桌面连接,在线远程协作.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/21/fpZn6Fvq5Qli94H.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821233855313&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Changelog – AnyDesk
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5hbnlkZXNrLmNvbS9jaGFuZ2Vsb2cudHh0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.anydesk.com/changelog.txt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;8.0.13 新功能：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;通过URL处理程序进行许可证注册&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;修复的错误：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;尝试在许可证过期的情况下建立会话时崩溃&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;其他更改：&lt;/p&gt;
+&lt;p&gt;改进了对过期许可证的整体处理&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AnyDesk 8.0.13 Multilingual&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/52c1eda6110b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/52c1eda6110b&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>FinalShell 4.5.3 (SSH工具) 绿色版</title>
+        <link>https://kooshare.github.io/post/finalshell453/</link>
+        <pubDate>Wed, 21 Aug 2024 23:09:18 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/finalshell453/</guid>
+        <description>&lt;p&gt;FinalShell专业版是一体化的服务器管理SSH工具,网络管理软件,远程桌面加速软件,Linux系统远程连接工具.finalshell破解版不仅是SSH客户端还是功能强大的开发运维工具,充分满足开发及运维需求.特色功能包括:云端同步,免费海外服务器,远程桌面加速,ssh加速,本地化命令输入框,支持自动补全,命令历史,自定义命令参数.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240821230943468.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821230943468&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;更新日志 – SSH工具 客户端
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cDovL3d3dy5ob3N0YnVmLmNvbS90Lzk4OS5odG1s&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www.hostbuf.com/t/989.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;FinalShell自定义加速教程-加速SSH连接
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cDovL3d3dy5ob3N0YnVmLmNvbS90LzEwNzYuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www.hostbuf.com/t/1076.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2024.8.13 版本号4.5
+修改切换按键为单击Ctrl(命令输入框)
+增加历史命令左右键选择字段输入功能(命令输入框)
+增加命令名称快速输入功能(命令输入框)
+专业版增加快速输入路径功能,可在窗口显示并选择系统的目录文件列表(命令输入框)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;魔影网络&lt;/p&gt;
+&lt;p&gt;修补内容：
+– 解锁专业版功能
+– 本版本不需要登录和注册
+Ps:本版本不支持云同步以及其他云功能&lt;/p&gt;
+&lt;p&gt;其他系统MacOs或Linux,下载原版替换FinalShell.jar&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;FinalShell破解专业版(SSH工具) v4.5.3 免安装绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/cb6e965cc476&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/cb6e965cc476&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>AnyDesk 8.0.12 (远程桌面) 官方版</title>
         <link>https://kooshare.github.io/post/anydesk/</link>
         <pubDate>Wed, 14 Aug 2024 10:24:33 +0800</pubDate>

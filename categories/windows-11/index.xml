@@ -7,7 +7,225 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 13 Aug 2024 00:49:41 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 21 Aug 2024 23:03:40 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows11 Win11 23H2 22631.4037.1 xb21cn纯净精简版</title>
+        <link>https://kooshare.github.io/post/win1123h222631xb21cn/</link>
+        <pubDate>Wed, 21 Aug 2024 23:03:40 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/win1123h222631xb21cn/</guid>
+        <description>&lt;p&gt;xb21cn精简Win11系统最新版,xb21cn Win11 23H2预览版,xb21cn Win11精简系统下载,xb21cn Win11 23H2精简版,xb21cn Windows 11 23H2精简版,xb21cn Win11 Build 22631精简版,xb21cn Win11精简版系统无更新企业版.xb21cn精简版Win11纯净版系统,xb21cn系统纯净无第三方软件,xb21cn精简系统下载.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/aUyJTlr.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821230417008&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Win11 Beta 22635.4037 预览版&lt;/p&gt;
+&lt;p&gt;Windows 11 Insider Preview Build 22635.4037 (Beta Channel)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;xb21cn精简Windows 10 23H2 Build 22635 xb21cn系统Win11精简版&lt;/p&gt;
+&lt;p&gt;无更新版：转换企业版G版、极限精简优化、彻底阉割更新、占用低性能高！&lt;/p&gt;
+&lt;p&gt;– 内部详细版本：Windows 11 23H2(OS build 22635.4037) 企业版 G x64
+– 集成2024年8月累积更新合安全更新及堆栈更新，并启用 Net3.5和Net4.8
+– 桌面提供授权转换脚本，支持转为服务器版的DC授权，支持服务器管理器
+– 移植服务器版统一写入筛选器功能：UWF + WEF，并汉化集成GUI控制器
+– 彻底阉割系统更新功能，去更新选项、极限精简WinSXS，故不可以更新!
+– 移植增加：蓝牙设备、人脸识别、触屏等功能，集成网卡触摸屏等驱动
+– 功能精简：杀毒、hyv、小娜、pdf、xps、iis、ps和服务器相关组件
+– 功能保留：人脸和指纹识别、WMP、IE、旧版组件、打印机、SMB
+– 破解驱动数字签名（可免F8安装无签名驱动，主要是旧网卡驱动）
+– 添加中文美式键盘（默认隐藏微软输入法图标可在语言自行添加）
+– 修改替换：原版老旧驱动（主要是网卡驱动，国产数字可能误报）
+– 集成驱动：英特尔i219v网卡/触摸屏等驱动 (主要针对的旧电脑)
+– 默认管埋员帐户，优化调整：关闭防火墙，禁用各种不常用服务&lt;/p&gt;
+&lt;p&gt;【不可更新精简版使用说明】&lt;/p&gt;
+&lt;p&gt;系统仅做了部分注册表优化，如需进一步降低进程，可自行禁用不需要服务！
+** 自建账户：释放完系统 ESD 后删除文件夹 Windows\Panther
+** 笔记本启用休眠：电源设置中选择　平衡模式 或 节能模式
+** 破解驱动数字签名（可免F8安装无签名驱动）
+** 集成统一写入筛选器：UWF 、EWF　和 GUI控制器
+(ewf第一次进桌面就运行会有错误提示，重启一次系统即可)&lt;/p&gt;
+&lt;p&gt;集成 NET3.5 及 net 4.8或4.8.1最新补丁&lt;/p&gt;
+&lt;p&gt;一、精简项目：
+Defender、Hyper-V、Cortana、XPS、IIS、BitLocker等办公不常用组件&lt;/p&gt;
+&lt;p&gt;二、保留系统绝大部分功能
+打印机、wmp、IE、SMB、SNMP、TCPIP、TFTP、Telnet、工作文件夹、计算器、远程桌面
+旧版组件、远程差分、PDF、PowerShell、截图、orc、手写识别、人脸、完整驱动等&lt;/p&gt;
+&lt;p&gt;三、可在线或离线安装的组件：
+各国语言、基本输入法、语音识别、补充字体 和 部分小补丁&lt;/p&gt;
+&lt;p&gt;—–建议官方网站或uup网站下载 语言包 用 dism 命令安装&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;文件信息&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;xb21cn精简Win11 23H2系统无更新极限精简版 (24年8月Beta版)&lt;/p&gt;
+&lt;p&gt;22635×64.4037-(E3828E69A1B64D86A2914C3DC27E6998).esd
+发布时间: 2024年8月16号，文件大小: 1,592,053,844 字节(1.48G)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/b366ebad72f9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/b366ebad72f9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows11 Win11 23H2 22631.4037 小修深度精简版</title>
+        <link>https://kooshare.github.io/post/win1123h222631xiaoxiushendujingjian/</link>
+        <pubDate>Wed, 21 Aug 2024 22:54:38 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/win1123h222631xiaoxiushendujingjian/</guid>
+        <description>&lt;p&gt;小修精简Win11系统最新正式版,小修Win11 23H2精简版,小修Win11 23H2稳定极限版,小修Windows 11 23H2稳定极限版,小修精简Win11 Build 22631正式版,小修系统Win11精简版专业版二合一无更新版.小修精简系统下载,小修Win11精简版系统提供轻度精简版,中度精简版,深度精简版,稳定极限版,太阳谷风格美化版.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关于版本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;小修Win11精简版,小修Windows 11纯净精简版二合一无更新版：
+﹂轻度精简版 (保留Hyper-v/面容/平板等功能，可选恢复语音TTS)
+﹂中度精简版 (无edge默认IE浏览器，保留打印/笔记本指纹等功能)
+﹂深度精简版 (无平板触屏功能，保留打印/笔记本指纹/Bitlocker等)
+﹂极限精简版 (适合较旧的电脑，支持指纹和平板，可选恢复语音TTS)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/eqcBrDo.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821225505723&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;小修Windows 11 23H2精简版 (小修精简Win11稳定极限版)&lt;/p&gt;
+&lt;p&gt;Win11 23H2 Build 22631 正式版，小修 Win11 23H2 精简版&lt;/p&gt;
+&lt;p&gt;小修 Windows 11 Pro 22631.4037 深度精简版 二合一[1.51G]&lt;/p&gt;
+&lt;p&gt;小修Win11 23H2稳定极限版，不支持在线更新补丁无更新版
+– 关闭Windows更新不包括驱动 更新不包括恶意软件删除工具
+– 集成.NET Framework 3.5 (仅限Windows转换程序) 旧版组件
+– 集成更新后运行清理（仅限Windows转换程序）后期封装制作
+– 添加桌面右键个性化快捷方式，深度精简版无内置Edge浏览器&lt;/p&gt;
+&lt;p&gt;一、版本特色&lt;/p&gt;
+&lt;p&gt;无广告、右键设置、低延迟、低占用、集成微软常用运行库合集、DX
+默认可网络连接打印、IE版也保留了商店(需手动打开window Up服务)&lt;/p&gt;
+&lt;p&gt;二、主要保留&lt;/p&gt;
+&lt;p&gt;User版本 5.26G / [自建账户]
+共享、计算器、打印、空间音效、看图、截图、Net3.5 – 4.8、光学、搜索、指纹、剪贴板、轻松访问
+IE、ODBC、简体输入法、蓝牙、wifi、xbox驱动、语音识别、远程桌面、画图、Mstsc、注册表、WMP&lt;/p&gt;
+&lt;p&gt;User安装完毕 C盘占用4.5G左右 首次进入桌面进程优化控制在55左右浮动&lt;/p&gt;
+&lt;p&gt;Admin版本 5.26G / [快速安装]&lt;/p&gt;
+&lt;p&gt;相比User一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/p&gt;
+&lt;p&gt;三、文件信息&lt;/p&gt;
+&lt;p&gt;小修Win11 23H2稳定极限版二合一无更新版 (2024年8月更新正式版)&lt;/p&gt;
+&lt;p&gt;文件名称: H:\Windows 11 Pro 22631 4037 2in1 稳定极限版 小修.esd
+文件大小: 1628030754 字节
+修改时间: 2024年8月15日, 13:55:54
+MD5: FBA242A5FB155DE7C66DFCEF79EA5B62
+SHA1: A149DFEFF9A7F947A622052AB50CCC57C5DB9BAA
+CRC32: C200FFA6&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a01a76e3c5a8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a01a76e3c5a8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows11 Win11 23H2 22631.4037 小修轻度精简版</title>
+        <link>https://kooshare.github.io/post/win1123h222631xiaoxiuqingdujingjianban/</link>
+        <pubDate>Wed, 21 Aug 2024 22:53:01 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/win1123h222631xiaoxiuqingdujingjianban/</guid>
+        <description>&lt;p&gt;小修精简Win11系统最新正式版,小修Win11 23H2精简版,小修Win11 23H2轻度精简版,小修Windows 11 23H2轻度精简版,小修精简Win11 Build 22631正式版,小修系统Win11精简版专业版二合一无更新版.小修精简系统下载,小修Win11精简版系统提供轻度精简版,中度精简版,深度精简版,稳定极限版,太阳谷风格美化版.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关于版本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;小修Win11精简版,小修Windows 11纯净精简版二合一无更新版：
+﹂轻度精简版 (保留Hyper-v/面容/平板等功能，可选恢复语音TTS)
+﹂中度精简版 (无edge默认IE浏览器，保留打印/笔记本指纹等功能)
+﹂深度精简版 (无平板触屏功能，保留打印/笔记本指纹/Bitlocker等)
+﹂极限精简版 (适合较旧的电脑，支持指纹和平板，可选恢复语音TTS)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/MCipXPE.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821225342628&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;小修Windows 11 23H2精简版 (小修精简Win11轻度精简版)&lt;/p&gt;
+&lt;p&gt;Win11 23H2 Build 22631 正式版，小修 Win11 23H2精简版&lt;/p&gt;
+&lt;p&gt;小修 Windows 11 Pro 22631.4037 轻度精简版二合一[1.69G]&lt;/p&gt;
+&lt;p&gt;小修Win11 23H2轻度精简版，不支持在线更新补丁无更新版
+– 关闭Windows更新不包括驱动 更新不包括恶意软件删除工具
+– 集成.NET Framework 3.5 (仅限Windows转换程序) 旧版组件
+– 集成更新后运行清理（仅限Windows转换程序）后期封装制作
+– 添加桌面右键个性化快捷方式，轻度精简版无内置Edge浏览器&lt;/p&gt;
+&lt;p&gt;一、版本特色&lt;/p&gt;
+&lt;p&gt;无广告、右键设置、低延迟、低占用、集成微软常用运行库合集、DX&lt;/p&gt;
+&lt;p&gt;二、主要保留&lt;/p&gt;
+&lt;p&gt;User版本 5.98G / [自建账户]&lt;/p&gt;
+&lt;p&gt;共享、计算器、打印、空间音效、看图、WMP、截图、Net3.5 – 4.8、光学、IIS、搜索、指纹、剪贴板、Hyper
+IE、ODBC、简体输入法、蓝牙、wifi、xbox驱动、bitlocker、防火墙、画图、Mstsc、触摸、人脸、平板、语音&lt;/p&gt;
+&lt;p&gt;User安装完毕 C盘占用4.5G左右 首次进入桌面进程优化控制在55左右浮动&lt;/p&gt;
+&lt;p&gt;Admin版本 5.98G / [快速安装]&lt;/p&gt;
+&lt;p&gt;相比User一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/p&gt;
+&lt;p&gt;三、文件信息&lt;/p&gt;
+&lt;p&gt;小修Win11 23H2轻度精简版二合一无更新版 (2024年8月更新正式版)&lt;/p&gt;
+&lt;p&gt;文件名称: H:\Windows 11 Pro 22631 4037 2in1 轻度精简版 小修.esd
+文件大小: 1820292938 字节
+修改时间: 2024年8月15日, 11:53:48
+MD5: 4BFEE031C8F89E67CC4975A2057C7E0F
+SHA1: 56905B92813982E98026C20FCCD868E492EE35E3
+CRC32: 7330F4EB&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/b5b1b23dac6c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/b5b1b23dac6c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows 11 23H2 Build 22631.4037 RTM ISO镜像</title>
+        <link>https://kooshare.github.io/post/windows1123h2build22631/</link>
+        <pubDate>Wed, 21 Aug 2024 22:36:22 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/windows1123h2build22631/</guid>
+        <description>&lt;p&gt;微软Win11系统下载,微软Win11 23H2正式版,微软Win11 Build 22631正式版,微软Windows 11 23H2正式版,Windows 11 23H2官方正式版首个初始版的微软原版ISO镜像于2023年10月推出,系统版本为23H2,OS内部版本为22631,软件超小杯提供的Win11系统为微软官方原版集成累积更新的完整版ISO镜像.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/CUTKZnt.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821223652568&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Windows 11 – 版本信息 | Microsoft Docs
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vemgtY24vd2luZG93cy9yZWxlYXNlLWhlYWx0aC93aW5kb3dzMTEtcmVsZWFzZS1pbmZvcm1hdGlvbg==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.microsoft.com/zh-cn/windows/release-health/windows11-release-information&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2024年8月13号累积更新发布 Windows 11 Version 23H2 with Update [22631.4037]&lt;/p&gt;
+&lt;p&gt;8月累积更新正式版(KB5041585) Windows 11 23H2 (OS build 22631.4037) Update
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vemgtY24vaGVscC81MDQxNTg1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/zh-cn/help/5041585&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[Windows 11 NI-23H2]22631.4037 原版集成映像 2024年8月第1次更新 by ananhaid&lt;/p&gt;
+&lt;p&gt;● 13合1：直接选取所需版本即可安装，也支持安装之后使用其他密钥转换版本，包含版本为：
+﹂家庭版、专业版、企业版、教育版、专业工作站版、专业教育版、家庭单语言版、家庭中文版
+﹂企业版多会话、IoT 企业版、SE版、专业单语言版、专业中文版（总共13个版本映像生成ISO）&lt;/p&gt;
+&lt;p&gt;– 这里发布的是官方MSVS渠道版前面8个版+转换后的5个版，总共13个集成发布
+– 没有添加任何三方数据，母盘选用的NI-23H2 (22631.2428) 官方ISO镜像制作
+– 使用工具只有DISM，没有删减任何内容，完全原版。系统镜像ESD格式生成ISO&lt;/p&gt;
+&lt;p&gt;● 集成功能：
+.net framework 3.5&lt;/p&gt;
+&lt;p&gt;● 集成补丁：
+KB5027397（23H2 启用包）（10月27日）
+KB5041585（24年8月累积更新 22631.4037）（8月14日）
+KB5042099（24年8月 .net 累积更新）（8月14日）&lt;/p&gt;
+&lt;p&gt;原版 ISO 内置的密钥无改动，有数字权利的安装之后记得改成公共密钥（\sources\product.ini）
+关于品牌机，为了跳过读取板载随机附送操作系统版本从而没有版本选择，已在 sources 目录内添加 ei.cfg 文件，比如机器默认为家庭中文版，全新安装会时会有选择版本菜单。如有其他需求请网络搜索。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;Windows 11 23H2 原版集成 2024年8月份累积更新完整ISO镜像13合1 – Ananhaid (2024/08/14)
+Windows 11 version 23H2(OS build 22631.3958) x64 AIO 13in1 Aug 2024 zh-CN – Ananhaid&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/72565811793d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/72565811793d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows11 Win11 23H2 22631.3880 不忘初心游戏版</title>
         <link>https://kooshare.github.io/post/buwangchunxinyouxiban22631/</link>
         <pubDate>Tue, 13 Aug 2024 00:49:41 +0800</pubDate>

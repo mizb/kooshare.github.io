@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Windows 10 on KUL藏宝库</title>
+        <link>https://kooshare.github.io/categories/windows-10/</link>
+        <description>Recent content in Windows 10 on KUL藏宝库</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>KUL藏宝库</copyright>
+        <lastBuildDate>Wed, 21 Aug 2024 23:01:50 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/windows-10/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows10 Win10 22H2 19045.4780.1 xb21cn纯净精简版</title>
+        <link>https://kooshare.github.io/post/win1022h219045xb21cn/</link>
+        <pubDate>Wed, 21 Aug 2024 23:01:50 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/win1022h219045xb21cn/</guid>
+        <description>&lt;p&gt;xb21cn精简Win10系统最新版,xb21cn Win10 22H2预览版,xb21cn Win10精简系统下载,xb21cn Win10 22H2精简版,xb21cn Windows 10 22H2精简版,xb21cn Win10 Build 19045精简版,xb21cn Win10精简版系统无更新企业版.xb21cn精简版Win10纯净版系统,xb21cn系统纯净无第三方软件,xb21cn精简系统下载.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/SmmUHiJ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821230223900&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Windows 10 版本22H2更新历史记录 – Microsoft 支持
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vZW4tdXMvaGVscC81MDE4Njgy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/en-us/help/5018682&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2024年7月累积更新(KB5040525) Windows 10 version 22H2(OS build 19045.4717) Update
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vZW4tdXMvaGVscC81MDQxNTgw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/en-us/help/5041580&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;xb21cn精简Windows 10 22H2 Build 19045 xb21cn系统Win10精简版&lt;/p&gt;
+&lt;p&gt;无更新版：转换企业版G版、极限精简优化、彻底阉割更新、占用低性能高！&lt;/p&gt;
+&lt;p&gt;– 详细版本：Windows 10 22H2(OS build 19045.4780) 企业版G x86/x64
+– 集成2024年8月累积更新合安全更新及堆栈更新，并启用Net3.5和Net4.8
+– 桌面提供授权转换脚本，支持转为服务器版的DC授权，支持服务器管理器
+– 移植服务器版统一写入筛选器功能：UWF + WEF，并汉化集成GUI控制器
+– 彻底阉割系统更新功能，去更新选项、极限精简WinSXS，故不可以更新!
+– 移植增加：蓝牙设备、人脸识别、触屏等功能，集成网卡触摸屏等驱动
+– 功能精简：杀毒、hyv、小娜、pdf、xps、iis、ps和服务器相关组件
+– 功能保留：人脸和指纹识别、WMP、IE、旧版组件、打印机、SMB
+– 破解驱动数字签名（可免F8安装无签名驱动，主要是旧网卡驱动）
+– 添加中文美式键盘（默认隐藏微软输入法图标可在语言自行添加）
+– 修改替换：原版老旧驱动（主要是网卡驱动，国产数字可能误报）
+– 集成驱动：英特尔i219v网卡/触摸屏等驱动 (主要针对的旧电脑)
+– 默认管埋员帐户，优化调整：关闭防火墙，禁用各种不常用服务&lt;/p&gt;
+&lt;p&gt;【不可更新精简版使用说明】&lt;/p&gt;
+&lt;p&gt;系统仅做了部分注册表优化，如需进一步降低进程，可自行禁用不需要服务！
+** 自建账户：释放完系统 ESD 后删除文件夹 Windows\Panther
+** 笔记本启用休眠：电源设置中选择　平衡模式 或 节能模式
+** 破解驱动数字签名（可免F8安装无签名驱动）
+** 集成统一写入筛选器：UWF 、EWF　和 GUI控制器
+(ewf第一次进桌面就运行会有错误提示，重启一次系统即可)&lt;/p&gt;
+&lt;p&gt;集成 NET3.5 及 net 4.8或4.8.1最新补丁&lt;/p&gt;
+&lt;p&gt;一、精简项目：
+Defender、Hyper-V、Cortana、XPS、IIS、BitLocker等办公不常用组件&lt;/p&gt;
+&lt;p&gt;二、保留系统绝大部分功能
+打印机、wmp、IE、SMB、SNMP、TCPIP、TFTP、Telnet、工作文件夹、计算器、远程桌面
+旧版组件、远程差分、PDF、PowerShell、截图、orc、手写识别、人脸、完整驱动等&lt;/p&gt;
+&lt;p&gt;三、可在线或离线安装的组件：
+各国语言、基本输入法、语音识别、补充字体 和 部分小补丁&lt;/p&gt;
+&lt;p&gt;—–建议官方网站或uup网站下载 语言包 用 dism 命令安装&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;文件信息&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;xb21cn精简Win10 22H2系统无更新极限精简版 (24年08月正式版)&lt;/p&gt;
+&lt;p&gt;19045×64.4780-(9B3FBE2582110248B4F1A0B5017ADA35).esd
+发布时间: 2024年8月16号，文件大小: 1,481,580,620 字节(1.37G)&lt;/p&gt;
+&lt;p&gt;19045×86.4780-(6FD1C254F317C7B98A7A1A83271BA867).esd
+发布时间: 2024年8月15号，文件大小: 1,095,633,801 字节(1.01G)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e9a9f9b5ff50&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e9a9f9b5ff50&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows10 Win10 22H2 19045.4780 小修深度精简版</title>
+        <link>https://kooshare.github.io/post/win1022h219045xiaoxiushendujingjian/</link>
+        <pubDate>Wed, 21 Aug 2024 22:51:15 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/win1022h219045xiaoxiushendujingjian/</guid>
+        <description>&lt;p&gt;小修Win10精简版,小修精简Win10纯净版,小修Win10 22H2精简版,小修Win10 22H2轻度精简版,小修Windows 10 22H2纯净精简版,小修Win10 Build 19045纯净精简版.小修精简系统下载,小修Win10系统下载,Win10小修精简优化版系统提供Win10轻度精简版游戏版和Win10深度精简版办公版及Win10美化版太阳谷.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/oYGP5Oi.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821225150479&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/cpn1MC0.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821225200913&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;小修Windows 10 22H2纯净精简版(小修精简Win10深度精简版)&lt;/p&gt;
+&lt;p&gt;小修 Windows 10 Pro 19045.4780 深度精简版 二合一[1.31G]&lt;/p&gt;
+&lt;p&gt;– 关闭windows更新不包括驱动 更新不包括恶意软件删除工具
+– 集成.NET Framework 3.5(仅限Windows转换程序)旧版制作
+– 集成更新后运行清理 (仅限Windows转换程序) 后期封装制作
+– 此版本为win10深度精简版，不支持平板触摸功能、bitlocker
+– 深度精简版：保留了打印，笔记本指纹等功能
+– 如需要面容、hyper-v、平板推荐轻度精简版&lt;/p&gt;
+&lt;p&gt;一、版本特色&lt;/p&gt;
+&lt;p&gt;纯净、无广告、流畅、右键设置、响应速度、适合办公娱乐/集成微软常用运行库合集、DX&lt;/p&gt;
+&lt;p&gt;二、主要保留&lt;/p&gt;
+&lt;p&gt;User版本 4.56G / [自建账户]&lt;/p&gt;
+&lt;p&gt;共享、计算器、打印、空间音效、看图、WMP、截图、Net3.5 – 4.8、光学、搜索、指纹、剪贴板、Heic
+IE、ODBC、简体输入法、蓝牙、wifi、xbox驱动、、防火墙、画图、Mstsc、注册表、语音识别、远程桌面&lt;/p&gt;
+&lt;p&gt;User安装完毕 C盘占用4.0G左右 首次进入桌面进程优化控制在45左右浮动&lt;/p&gt;
+&lt;p&gt;Admin版本 4.56G / [快速安装]&lt;/p&gt;
+&lt;p&gt;相比User&lt;del&gt;一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;三、文件信息&lt;/p&gt;
+&lt;p&gt;小修Win10 22H2深度精简版二合一 （2024年8月更新Win10正式版）&lt;/p&gt;
+&lt;p&gt;文件名称: H:\Windows 10 Pro 19045.4780 2in1 深度精简版 小修.esd
+文件大小: 1407552774 字节
+修改时间: 2024年8月14日, 11:30:06
+MD5: AF9C6C73AA7BD68D63E3D68DF9501A14
+SHA1: 142DEF80B3EA95083397C85D379CF2E4D36BE120
+CRC32: F15D8CAE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/fc6c1da06f70&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/fc6c1da06f70&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows10 Win10 22H2 19045.4780 小修轻度精简版</title>
+        <link>https://kooshare.github.io/post/win1022h219045xiaoxiu/</link>
+        <pubDate>Wed, 21 Aug 2024 22:49:36 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/win1022h219045xiaoxiu/</guid>
+        <description>&lt;p&gt;小修Win10精简版,小修精简Win10纯净版,小修Win10 22H2精简版,小修Win10 22H2轻度精简版,小修Windows 10 22H2纯净精简版,小修Win10 Build 19045纯净精简版.小修精简系统下载,小修Win10系统下载,Win10小修精简优化版系统提供Win10轻度精简版游戏版和Win10深度精简版办公版及Win10美化版太阳谷.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/dm65ETP.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821225010038&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/3aF4z8p.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821225019249&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;小修Windows 10 22H2纯净精简版(小修精简Win10轻度精简版)&lt;/p&gt;
+&lt;p&gt;小修 Windows 10 Pro 19045.4780 轻度精简版 二合一[1.50G]&lt;/p&gt;
+&lt;p&gt;– 关闭windows更新不包括驱动 更新不包括恶意软件删除工具
+– 集成.NET Framework 3.5(仅限Windows转换程序)旧版制作
+– 集成更新后运行清理 (仅限Windows转换程序) 后期封装制作
+– 添加了支持11代CPU驱动、关闭虚拟内存、优化开关机速度等
+– 使用微软商店记得打开系统更新服务默认关闭 [此版不可更新]
+– 系统可用商店恢复包组件(下载app记得手动打开Update服务)&lt;/p&gt;
+&lt;p&gt;一、版本特色&lt;/p&gt;
+&lt;p&gt;纯净、无广告、流畅、右键设置、响应速度、适合办公娱乐/集成微软常用运行库合集、DX&lt;/p&gt;
+&lt;p&gt;二、主要保留&lt;/p&gt;
+&lt;p&gt;• User版本 5.01G / [自建账户]&lt;/p&gt;
+&lt;p&gt;共享、计算器、打印、空间音效、看图、WMP、截图、Net 3.5 – 4.8、光学、IIS、搜索、指纹、剪贴板、TTS
+IE、ODBC、简体输入法、蓝牙、wifi、xbox驱动、bitlocker、防火墙、画图、Mstsc、触摸、人脸、平板、商店&lt;/p&gt;
+&lt;p&gt;User安装完毕 C盘占用4G左右 首次进入桌面进程优化控制在45左右浮动&lt;/p&gt;
+&lt;p&gt;• Admin版本 5.01G / [快速安装]&lt;/p&gt;
+&lt;p&gt;相比User&lt;del&gt;一个是自建用户名、一个快速管理员账户、且可能不支持指纹&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;• A+(快速安装 管理员Administrator) /U+(需手动 创建用户名) 5.06G&lt;/p&gt;
+&lt;p&gt;美化版：就是太阳谷风格，替换了Win11的新LOGO和一些文件的图标&lt;/p&gt;
+&lt;p&gt;三、文件信息&lt;/p&gt;
+&lt;p&gt;小修Win10 22H2轻度精简版二合一 （2024年8月更新Win10正式版）&lt;/p&gt;
+&lt;p&gt;文件名称: H:\Windows 10 Pro 19045.4780 2in1 轻度精简版 小修.esd
+文件大小: 1617400012 字节
+修改时间: 2024年8月14日, 10:44:45
+MD5: 7DDCDF5462A19EE962B5DB1B3EB7CBFD
+SHA1: 4874D5D260CC835E9A40C5BA800B3A7AEDA77812
+CRC32: E9458449&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6bb41239ccd9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6bb41239ccd9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows 10 22H2 Build 19045.4780 RTM ISO镜像</title>
+        <link>https://kooshare.github.io/post/windows1022h2build190454780/</link>
+        <pubDate>Wed, 21 Aug 2024 22:33:37 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/windows1022h2build190454780/</guid>
+        <description>&lt;p&gt;微软Win10系统下载,微软Win10 22H2下载,微软Win10 22H2正式版,Windows 10 22H2系统Win10 Build 19045累积更新正式版.Windows 10 22H2正式版首个初始版官方ISO镜像2022年10月推出,大版本命名22H2,内部版19045.软件超小杯提供的Win10系统为微软官方原版集成累积更新补丁的完整版ISO镜像.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/J9sWIUc.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821223516266&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Windows 10 版本22H2更新历史记录 – Microsoft 支持
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vZW4tdXMvaGVscC81MDE4Njgy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/en-us/help/5018682&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2024年8月累积更新(KB5041580) Windows 10 version 22H2(OS build 19045.4780) Update
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vemgtY24vaGVscC81MDQxNTgw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/zh-cn/help/5041580&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[简体中文] Windows 10 22H2 19045.4780 22in1镜像(2024年08月) – fch1993&lt;/p&gt;
+&lt;p&gt;– 包含8大基准版和转制转制得到的14个版本
+(家庭版/家庭中文版/家庭版N,专业版/专业版N,企业版 LTSC 2021/企业版 N LTSC 2021/企业版G)&lt;/p&gt;
+&lt;p&gt;– 集成功能和更新如下：
+.NET Framewrok 3.5（含简体中文语言包）
+KB5041579（2024年08月服务堆栈更新 19041.4769.1.1）
+KB5041580（2024年08月累积更新 19041.4780.1.15，包含Chromium Edge，Adobe Flash Player 移除）
+KB5011048（.NET Framework 4.8.1 10.0.1.8028）
+KB5011050（.NET Framework 4.8.1 简体中文语言包）
+KB5042097（2024年08月.NET Framewrok 4.8.1 累积更新 10.0.9266.2）
+KB5034232（2024年01月Safe OS更新）
+KB5015684（22H2启用补丁，仅用于SAC版本）
+KB5032906（2023年11月安装镜像文件更新）
+KB5019180（2023年03月Intel 微码更新）&lt;/p&gt;
+&lt;p&gt;– 基于微软官方下载的原版文件自制的简体中文版和多国语言版RTM镜像
+– 转制版本后转换为install.esd节省体积, 制作过程严格参考微软集成说明&lt;/p&gt;
+&lt;p&gt;注：根据微软目前的推荐推荐方案，对于winre.wim只需集成Safe OS更新
+无需集成累计更新。(而 boot.wim 则是集成累计更新而不是Safe OS更新)&lt;/p&gt;
+&lt;p&gt;19045.4780.240810-2329.22H2_RELEASE_SVC_PROD1_CLIENTMULTI_X64FRE_ZH-CN.ISO
+SHA1: 097c4b47d9038464cd97755e6ddc5a8e4a38bbf8
+MD5: 5636bef2708737f2841a43489b011a83&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Windows 10 22H2 原版集成2024年8月份累积更新完整版ISO镜像22合1 – fch1993(2024/07/15)
+:: Windows 10 version 22H2(OS build 19045.4780) x64 AIO 22in1 Aug 2024 zh-CN – fch1993&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7a4cb7c520c3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/7a4cb7c520c3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

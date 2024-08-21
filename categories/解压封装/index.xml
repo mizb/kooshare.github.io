@@ -7,7 +7,64 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 14 Aug 2024 10:54:15 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E8%A7%A3%E5%8E%8B%E5%B0%81%E8%A3%85/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 21 Aug 2024 22:15:06 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E8%A7%A3%E5%8E%8B%E5%B0%81%E8%A3%85/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>7-Zip 24.08 Final (解压缩软件) 优化版</title>
+        <link>https://kooshare.github.io/post/7zip2408/</link>
+        <pubDate>Wed, 21 Aug 2024 22:15:06 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/7zip2408/</guid>
+        <description>&lt;p&gt;7-Zip中文版(7Zip压缩文件管理器)是一款免费开源的解压缩软件.7-Zip解压软件拥有极高压缩算法,提供图形界面操作和命令行接口,支持独立的7z格式及几乎所有压缩文件类型,包括ZIP,RAR,ISO,CAB,GZIP,BZIP2,TAR等.其多线程LZMA压缩比要比普通ZIP文件高达30-50%,它可以把ZIP格式的文件压缩比再提高至2-10%.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/PCxpKoM.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821221532378&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;History of the 7-Zip
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cuNy16aXAub3JnL2hpc3RvcnkudHh0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.7-zip.org/history.txt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近更新：
+– 优化了 LZMA/LZMA2压缩算法的速度
+-增加LZMA/LZMA2压缩算法最大字典到4GB (3840MiB)
+– LZMA2压缩算法中每个固实块的大小数量已增加到64GB
+；固实块越大，大型7z压缩文件的压缩速度CPU线程就越高
+– 给7Z/ZIP/RAR压缩文件类型加入PPMd压缩/解压缩的速度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;7-Zip中文汉化版&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;完整汉化所有文件&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;﹂7zSFX模板 7z.sfx
+﹂更新翻译 zh-cn.txt
+﹂帮助文档7-zip.chm
+﹂自述文档readme.txt
+﹂更新日志History.txt
+﹂文件描述 descript.ion
+﹂卸载程序Uninstall.exe&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;修改7z.dll的默认7z,zip,iso格式关联图标为WinRar经典主题&lt;/li&gt;
+&lt;li&gt;优化7-zip压缩文件管理器默认设置包括初始最高压缩比参数&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;﹂默认仅关联7z, zip文件类型、默认创建压缩文件时最高压缩比
+﹂取消折叠右键菜单、右键菜单显示图标、简化右键菜单显示项&lt;/p&gt;
+&lt;p&gt;# 无人值守静默安装参数：/ai /gm2（默认C盘程序目录）
+静默安装到指定位置：/ai /gm2 /InstallPath=”自定义路径”
+示例：安装包.exe /ai /gm2 /InstallPath=”D:\MyProgram”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;7-Zip v24.08 x86/x64 Final 中文汉化版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2acfa28ebb7b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2acfa28ebb7b&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;7-Zip的极限压缩比设置参数分享：
+– 压缩等级&amp;gt;极限，算法&amp;gt;LZMA2, 字典&amp;gt;256MB, 单词大小-&amp;gt;273
+– 固实块大小-&amp;gt;固实, CPU线程-&amp;gt;6或8, 底部的参数框填入f=BCJ2&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Enigma Virtual Box 10.90.20240722 (单文件制作) 单文件</title>
         <link>https://kooshare.github.io/post/enigmavirtualbox1090/</link>
         <pubDate>Wed, 14 Aug 2024 10:54:15 +0800</pubDate>

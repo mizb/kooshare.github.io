@@ -7,7 +7,196 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 15 Aug 2024 20:48:08 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 22 Aug 2024 00:22:20 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>我们的电视 Ourtv 3.2.0 (电视直播) 手机&#43;TV</title>
+        <link>https://kooshare.github.io/post/ourtv320/</link>
+        <pubDate>Thu, 22 Aug 2024 00:22:20 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/ourtv320/</guid>
+        <description>&lt;p&gt;开源软件我的电视(my-tv)，因极其流畅的体验获得许多用户的喜欢。由于开源的原因，现在已经出现了各种基于其修改的衍生版本。&lt;/p&gt;
+&lt;p&gt;我们的电视是一款支持手机和TV端的电视直播app，安装即可使用，高清，超清，蓝光，完全免费，您再也不用费劲巴力的找各种不稳定的直播源了。 更有节目单回看强大功能秒杀市面上各类XXXPTV&lt;/p&gt;
+&lt;p&gt;需要注意的是：软件与央视频不兼容，建议关闭各应用市场的自动更新，否则可能会被央视频覆盖安装。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/22/KRZyncAVEDxPr7Q.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240822002258958&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;手机端：&lt;/p&gt;
+&lt;p&gt;用于交个朋友&lt;/p&gt;
+&lt;p&gt;电视端：&lt;/p&gt;
+&lt;p&gt;正常观看：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;上下左右键唤出选台菜单，菜单10秒后自动消失，或返回键消失&lt;/li&gt;
+&lt;li&gt;选择分类CCTV 卫视 港澳&lt;/li&gt;
+&lt;li&gt;选择频道&lt;/li&gt;
+&lt;li&gt;菜单键唤出设置页面，切换清晰度&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;回看节目：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;进入回看：各频道的节目预告(EPG)有回看能力的，会有&lt;code&gt;回看&lt;/code&gt;字样标识&lt;/li&gt;
+&lt;li&gt;回看过程：屏幕右上角会固定&lt;code&gt;正在回看&lt;/code&gt;标识，左键快退，右键快进，上下键唤出选台菜单&lt;/li&gt;
+&lt;li&gt;退出回看：进入回看后，上下键唤出选台菜单，移动光标选中&lt;code&gt;正在回看&lt;/code&gt;点击OK后，返回该频道最新的直播画面，或另外选其他频道即可退出当前的回看节目，或快进到最新直播画面&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f656ecdc0f91&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f656ecdc0f91&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>我的電視·〇 my-tv-0 1.3.7.11 (电视直播) 官方版</title>
+        <link>https://kooshare.github.io/post/mytv013711/</link>
+        <pubDate>Wed, 21 Aug 2024 23:58:03 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/mytv013711/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/21/7V9ktGzgySNTRBf.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821235836851&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;使用&#34;&gt;使用
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;遥控器左键/触屏单击打开节目列表&lt;/li&gt;
+&lt;li&gt;遥控器右键/触屏双击打开配置&lt;/li&gt;
+&lt;li&gt;遥控器返回键关闭节目列表/配置&lt;/li&gt;
+&lt;li&gt;打开配置页后，配置地址后并确认，更新节目列表&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h2&gt;&lt;p&gt;v1.3.7.11&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修復閃退問題&lt;/li&gt;
+&lt;li&gt;修復部分設備菜單異常問題&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/306167cb71b3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/306167cb71b3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>猫TV影视 712 (电视直播) 官方版</title>
+        <link>https://kooshare.github.io/post/maotv712/</link>
+        <pubDate>Wed, 21 Aug 2024 23:29:11 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/maotv712/</guid>
+        <description>&lt;p&gt;《猫TV影视》这款专为台湾、香港和澳门观众打造的电视直播APP，专注于提供种类繁多的节目选择，以迎合广泛的观影需求。 无论您是新闻迷、娱乐爱好者，还是热衷体育赛事、综艺节目的人士，都可以轻松透过此应用找到您喜爱的内容，透过整合多元化的直播来源，这款APP致力于确保各类观众都能享受到最精彩的节目。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/21/l64i8JHKSFRykEe.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821232947546&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/3bfd7a36f347&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/3bfd7a36f347&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>我的电视 mytv-android 1.4.4 / 2.2.0 (电视直播) 官方版</title>
+        <link>https://kooshare.github.io/post/mytvandroid144/</link>
+        <pubDate>Wed, 21 Aug 2024 23:26:08 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/mytvandroid144/</guid>
+        <description>&lt;p&gt;原版我的电视 my-tv 在 2.1.8 版本后出现“认证状态错误”，据说作者已经停止了维护。面包发现另一个作者基于 my-tv 开发的一个修改版，频道方面增加了港澳台、数字高清、和部分国际频道，速度快，没有购物台，值得收藏。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/21/csa871SAVLeyZdj.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821232640402&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h2&gt;&lt;p&gt;v1.4.4&lt;/p&gt;
+&lt;p&gt;修复设置网页无法打开&lt;/p&gt;
+&lt;p&gt;——————————————————&lt;/p&gt;
+&lt;p&gt;v2.2.0&lt;/p&gt;
+&lt;h3 id=&#34;新增&#34;&gt;新增
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;超时关闭界面延时可修改&lt;/li&gt;
+&lt;li&gt;新增播放器显示模式&lt;/li&gt;
+&lt;li&gt;新增使用须知&lt;/li&gt;
+&lt;li&gt;新增设置恢复初始化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;优化&#34;&gt;优化
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;去除直播源重复线路&lt;/li&gt;
+&lt;li&gt;优化播放控制进度&lt;/li&gt;
+&lt;li&gt;优化频道分组管理名称过长&lt;/li&gt;
+&lt;li&gt;优化长文本自动滚动&lt;/li&gt;
+&lt;li&gt;跟换media3 ffmpeg aar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;修复&#34;&gt;修复
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;修复部分场景下链接回放检测闪退&lt;/li&gt;
+&lt;li&gt;修复部分设备无未知来源安装权限设置项导致闪退&lt;/li&gt;
+&lt;li&gt;移除自定义直播源界面获取直播源信息，可能导致部分低内存设备OOM&lt;/li&gt;
+&lt;li&gt;修复设置网页无法打开&lt;/li&gt;
+&lt;li&gt;修复节目单匹配问题&lt;/li&gt;
+&lt;li&gt;修复切换频道时播放器信息未重置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;面包提醒&lt;/strong&gt;：软件内置了几个直播源，默认放不了可以切换其他源然后重启软件再试试，另外尽快开启ipv6，以后大多数直播软件源都是ipv6的地址，不再支持ipv4.&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0a8f38e03972&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0a8f38e03972&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>BV 0.2.8 (第三方B站bilibili哔哩哔哩TV版) 官方版</title>
+        <link>https://kooshare.github.io/post/bv028/</link>
+        <pubDate>Wed, 21 Aug 2024 23:24:24 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/bv028/</guid>
+        <description>&lt;p&gt;之前跟大家说过b站官方的TV版超级难用，于是大多数人都比较推荐使用网上一款口碑非常好的第三方开发的哔哩哔哩TV版本，比官版更简洁、体验更好，可以说方方面面的体验都完爆官版。&lt;/p&gt;
+&lt;p&gt;但是这个版本无法观看动态视频，且最高也只支持1080P的画质，部分B站迷还是感到些许美中不足。&lt;/p&gt;
+&lt;p&gt;那么这次又一大佬出手，不仅支持动态视频，而且画质逆天，支持4K、真彩HDR甚至杜比视界——&lt;strong&gt;BV&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/21/RKVOZLQ4x7l52XU.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821232521389&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;BV同样也是由个人开发的第三方哔哩哔哩TV版，目前功能比较单一，仅支持看热门和动态视频，但是画质很逆天。&lt;/p&gt;
+&lt;p&gt;整个软件极其简单，看界面就知道，就别说什么广告之类了，而且软件也只有5M大小。&lt;/p&gt;
+&lt;p&gt;同样支持登陆自己的b站账号，也只有登陆才能观看到动态视频。&lt;/p&gt;
+&lt;p&gt;此版B站tv版可以说是一种凑合的状态，对于兼容性方面，目前软件只支持Android 5+，低于此版本是设备无法使用。&lt;/p&gt;
+&lt;p&gt;最大特色，支持超高清4K~杜比视界等画质**（仅大会员账号支持）**&lt;/p&gt;
+&lt;p&gt;有大会员账号的粉丝朋友就有福了，可以直接在电视端观看B站的4K甚至是杜比视界级别的画质。其他平台账户只能看1080P。&lt;/p&gt;
+&lt;p&gt;软件目前缺点优点都很明显，体验相比哔哩哔哩TV版（第三方）还是差一些，首先只有登陆才能观看1080P以上，其次UI以及兼容方面都还有待进一步优化；但是优点非常亮眼：支持动态、支持高画质。&lt;/p&gt;
+&lt;h3 id=&#34;v028&#34;&gt;v0.2.8
+&lt;/h3&gt;&lt;p&gt;1.新增用户锁
+2.新增弹幕防遮挡
+3.新增进度条预览
+4.新增进度条装扮显示
+5.优化音频选择顺序
+6.修复部分视频弹幕无法加载
+7.修复历史记录可能无法加载
+8.修复 UP 关注状态无法加载（App接口）
+9.修复无法加载 UP 稿件列表（Web 接口）&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0daaed5b1a36&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0daaed5b1a36&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Overtv电视直播软件</title>
         <link>https://kooshare.github.io/post/overtv/</link>
         <pubDate>Thu, 15 Aug 2024 20:48:08 +0800</pubDate>

@@ -7,7 +7,121 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 14 Aug 2024 20:47:27 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 22 Aug 2024 00:15:21 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>oneAnime 1.3.2 (看番软件) PC&#43;MAC&#43;安卓&#43;iOS</title>
+        <link>https://kooshare.github.io/post/oneanime132/</link>
+        <pubDate>Thu, 22 Aug 2024 00:15:21 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/oneanime132/</guid>
+        <description>&lt;p&gt;oneAnime 是一款使用Flutter开发的Anime1第三方客户端。它是一款简洁清爽且无广告的看番软件，为用户提供了舒适的观影体验。该软件的界面设计符合Material You规范，使得用户能够享受到现代化、流畅且直观的操作体验。除了提供丰富的番剧资源外，oneAnime还具备弹幕功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/22/p7VO5nxal48RJ2X.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240822001604175&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;最新更新&#34;&gt;最新更新
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;1.3.2&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新增随机UA&lt;/li&gt;
+&lt;li&gt;修复在长宽比低于 16:9 的屏幕上播放时的拉伸问题&lt;/li&gt;
+&lt;li&gt;修复 iOS 全屏时屏幕不旋转的问题&lt;/li&gt;
+&lt;li&gt;修复 iOS 视频控制栏无法呼出的问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0b9838d17eb2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0b9838d17eb2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PotPlayer 1.7.22308 (播放器) 去广告绿色版</title>
+        <link>https://kooshare.github.io/post/potplayer1722308/</link>
+        <pubDate>Thu, 22 Aug 2024 00:11:59 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/potplayer1722308/</guid>
+        <description>&lt;p&gt;Daum PotPlayer播放器是一款全能多媒体影音播放器,堪称Windows平台最强大的本地视频播放器.PotPlayer最新版拥有强劲播放引擎加速,支持DXVA,CUDA,QuickSync,多媒体播放器支持蓝光3D,其内置强大的编码器及滤镜/分离器,支持自定义添加解码器,对字幕的支持非常优秀,能兼容特效字幕及在线搜索字幕实时翻译.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/22/S8vQUtjupWErGzA.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240822001222997&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PotPlayer Version History – VideoHelp
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cudmlkZW9oZWxwLmNvbS9zb2Z0d2FyZS9Qb3RQbGF5ZXIvdmVyc2lvbi1oaXN0b3J5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.videohelp.com/software/PotPlayer/version-history&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;231220(1.7.22074)版本之后PotPlayer64.dll已被作者加壳防修改！&lt;/p&gt;
+&lt;p&gt;[240809] v240809(1.7.22299)
++ 添加 WEBP 格式到图像截取
++ 添加在图像源滤镜中将延迟时间设置为秒或更短的功能
+– 修正快捷方式图标的大小设置无法反映的问题
+– 修正在某些情况下过滤重复文件设置被重置的问题
+– 修正使用某些编解码器播放时视频被识别为隔行扫描的问题
+– 修正使用 libVPX 8/9 解码时出现错误的问题
+– 修正播放 MP4 流时导航异常的问题
+– 修正浏览某些 FLV 文件速度缓慢的问题&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;pot播放器,potplayer绿色精简版,potplayer绿色便携版
+1、去效验，去右下角空白广告弹窗！卸载可选备份设置
+2、禁止后台联网请求：境外广告、发送日志、检查升级
+3、集成额外的音频解码器及视频解码器组件：Open Codec for PotPlayer
+├—DTS, MLP, TrueHD编码器Module\FFmpeg4\FFmpegMininum64.dll
+├—S/W HEVC(H265)编码器PotPlayer\Module\FFmpeg4\FFmpeg64.dll
+├—Intel H.264 MVC 3D编解码器库 PotPlayer\Module\libmfxsw(64).dll
+4、预设配置：常规设置 + 默认启用自定义解码器H.265/HEVC及硬件加速
+├—滤镜—视频解码器—内置解码器/DXVA设置—&amp;gt;使用硬件加速 (DXVA)
+├—滤镜—视频解码器—内置解码器/DXVA设置—解码器—&amp;gt;H.265/HEVC
+5、集成三款精选皮肤主题：简约暴风, ModernW10, Carefree (轻尘系列)
+6、删除TV直播列表, 登陆程序,日志管理, 消息通知, 多语言等不必要的文件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载列表&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PotPlayer 1.7.22308 x64 Stable 正式版去除广告绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/db87581a59dc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/db87581a59dc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MPV 2024.08.11 (播放器) 绿色版</title>
+        <link>https://kooshare.github.io/post/mpv20240811/</link>
+        <pubDate>Wed, 21 Aug 2024 23:14:08 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/mpv20240811/</guid>
+        <description>&lt;p&gt;mpv 是一个免费、开源、跨平台的多媒体播放器，可用于 Windows、Linux、MacOS、BSD 以及 Android 等平台。&lt;/p&gt;
+&lt;p&gt;mpv 带有极简的 GUI 界面以及丰富的命令行控制，它支持各种媒体文件格式、音频和视频编解码器以及字幕类型。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/21/IMjlQ4xPS17rYHa.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821231432512&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h2&gt;&lt;p&gt;脚本处理&lt;/p&gt;
+&lt;p&gt;强大的脚本能力几乎可以让播放器做任何事情，Wiki 上有大量用户脚本可供选择。（https://github.com/mpv-player/mpv/wiki/User-Scripts）&lt;/p&gt;
+&lt;p&gt;屏幕控制器&lt;/p&gt;
+&lt;p&gt;虽然 mpv 力求简约，并没有提供真正的 GUI，但它在视频顶部有一个小控制器，用于基本控制。&lt;/p&gt;
+&lt;p&gt;高品质视频输出&lt;/p&gt;
+&lt;p&gt;mpv 具有基于 OpenGL、Vulkan 和 D3D11 的视频输出，能够支持视频发烧友喜爱的许多功能，例如：使用流行的高质量算法进行视频缩放、色彩管理、帧时序、插值、HDR 等。&lt;/p&gt;
+&lt;p&gt;GPU 视频解码&lt;/p&gt;
+&lt;p&gt;mpv 可以利用所有平台上的大多数硬件解码 API，硬件解码可在运行时按需启用。&lt;/p&gt;
+&lt;p&gt;可嵌入&lt;/p&gt;
+&lt;p&gt;mpv 从头开始设计了一个简单的 C API，使其可以作为一个库使用，并便于和其他应用轻松集成。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/78d6a312c496&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/78d6a312c496&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Simple Live 1.7.3 (虎牙斗鱼B站抖音聚合直播) PC&#43;安卓&#43;MAC</title>
         <link>https://kooshare.github.io/post/simplelive/</link>
         <pubDate>Wed, 14 Aug 2024 20:47:27 +0800</pubDate>
