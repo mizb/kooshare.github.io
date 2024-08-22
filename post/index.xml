@@ -7,7 +7,130 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 22 Aug 2024 11:44:10 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 23 Aug 2024 00:10:03 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>分享一些稳定的TvBox接口</title>
+        <link>https://kooshare.github.io/post/tvboxzaixianjiekou/</link>
+        <pubDate>Fri, 23 Aug 2024 00:10:03 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/tvboxzaixianjiekou/</guid>
+        <description>&lt;p&gt;这些接口都是目前我在使用在线接口,比较稳定,如果想用本地包,可以参考下面这个链接&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kooshare.github.io/post/bendibaoshiyongjiaocheng/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;蜂蜜(fongmi)本地包使用教程 (kooshare.github.io)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;在线接口推荐&#34;&gt;在线接口推荐
+&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;名称&lt;/th&gt;
+&lt;th&gt;地址&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;肥猫&lt;/td&gt;
+&lt;td&gt;https://肥猫.com/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;饭太硬&lt;/td&gt;
+&lt;td&gt;http://饭太硬.top/tv&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FongMi&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;巧儿&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;http://pandown.pro/tvbox/tvbox.json&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;俊哥&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;http://home.jundie.top:81/top98.json&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;小雅&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;http://drpy.site/js1&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;莱妮丝&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;https://tvbox.cainisi.cf&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;神器&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;https://神器每日推送.tk/pz.json&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;云星&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;http://itvbox.cc/tvbox/云星日记/1.m3u8&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        </item>
+        <item>
+        <title>勇芳自动校时1.1.3</title>
+        <link>https://kooshare.github.io/post/yongfangzidongjiaoshi/</link>
+        <pubDate>Thu, 22 Aug 2024 23:59:36 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/yongfangzidongjiaoshi/</guid>
+        <description>&lt;p&gt;参与秒杀活动时候,需要精准校对电脑时间,windows系统虽然自带校时功能,但是现在安装的系统大部分做了优化,把功能给屏蔽了.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/23/FZqfm1PrdAU4KTx.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240823000200347&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作者自述:去网上找，就一个小功能，居然找到好多软件，什么样的都有，但是大多加了什么乱七八糟的东西，都无法满意。就几行代码的事，好多下载来居然压缩后还有 1MB多，还有超2MB的，让人不敢用，在现在的中国，良心软件实在太少。
+于是就自己写了一个，解压后也就200KB，绝对绿色，绝对纯净，还可以开机自动校正时间，校对完了自动退出，不占任何系统资源。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f4f29bc0a3c2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f4f29bc0a3c2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>软媒魔方（原魔方电脑大师）V6.25正式版 去广告免安装</title>
+        <link>https://kooshare.github.io/post/ruanmeimofang/</link>
+        <pubDate>Thu, 22 Aug 2024 23:55:05 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/ruanmeimofang/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;软媒魔方（原魔方电脑大师）是一代优化大师，首批通过微软官方Windows徽标认证的系统软件，多项国内顶级奖项。功能全面覆盖Windows系统优化设置、清理、美化、安全、维护、修复、备份还原、文件处理、磁盘整理、系统软硬件信息查询、进程管理、服务管理等等。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;已做去广告处理&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/22/L9CiqRnXmsocejI.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240822235601773&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;软件介绍&#34;&gt;软件介绍
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;-禁止自动添加魔方服务到系统计划任务、系统服务项、开机启动项；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;-禁止各种篡改浏览器主页及搜索引擎，禁止添加导航及收藏夹行为；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;-禁止各种任务栏通知区弹窗：魔方守护温馨提示、IT之家应用推广；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;-去首页检测列表项：各种诱导设置浏览器主页及开启搜索引擎保护项；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;-去除设置向导界面-&amp;gt;网络优化-&amp;gt;浏览器主页项-&amp;gt; 各种推广网址导航；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;-去除设置向导界面-&amp;gt;完成-&amp;gt;添加hao123网址导航到浏览器收藏夹项；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;-去魔方主界面：底部的软媒通行证登陆、支持软媒、顶部的反馈按钮；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;-去魔方主菜单下拉页面：接受IT之家新闻推送、维护提醒、检测更新；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;-去魔方主界面右侧区域：软媒桌面按钮项、IT资讯列表、IT之家导航；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;-去魔方应用大全：魔方守护、旗鱼/闪游浏览器、各类移动App推广项；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;-删除程序：魔珠游戏、IT之家、魔方服务程序、云日历工具网页浏览库模块；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;-删除魔方守护及升级程序；禁止自动下载升级程序、守护组件及添加开机启动项；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;-禁止所有小工具检测更新下载升级程序、去各个工具的检测更新项及多余菜单项。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/812a6147ff05&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/812a6147ff05&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Hugo_stack修改“链接页面为三栏样式”</title>
         <link>https://kooshare.github.io/post/sanlanlianjieyemian/</link>
         <pubDate>Thu, 22 Aug 2024 11:44:10 +0800</pubDate>

@@ -7,7 +7,65 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 22 Aug 2024 00:22:20 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 23 Aug 2024 00:10:03 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>分享一些稳定的TvBox接口</title>
+        <link>https://kooshare.github.io/post/tvboxzaixianjiekou/</link>
+        <pubDate>Fri, 23 Aug 2024 00:10:03 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/tvboxzaixianjiekou/</guid>
+        <description>&lt;p&gt;这些接口都是目前我在使用在线接口,比较稳定,如果想用本地包,可以参考下面这个链接&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kooshare.github.io/post/bendibaoshiyongjiaocheng/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;蜂蜜(fongmi)本地包使用教程 (kooshare.github.io)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;在线接口推荐&#34;&gt;在线接口推荐
+&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;名称&lt;/th&gt;
+&lt;th&gt;地址&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;肥猫&lt;/td&gt;
+&lt;td&gt;https://肥猫.com/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;饭太硬&lt;/td&gt;
+&lt;td&gt;http://饭太硬.top/tv&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FongMi&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;巧儿&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;http://pandown.pro/tvbox/tvbox.json&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;俊哥&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;http://home.jundie.top:81/top98.json&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;小雅&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;http://drpy.site/js1&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;莱妮丝&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;https://tvbox.cainisi.cf&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;神器&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;https://神器每日推送.tk/pz.json&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;云星&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;http://itvbox.cc/tvbox/云星日记/1.m3u8&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        </item>
+        <item>
         <title>我们的电视 Ourtv 3.2.0 (电视直播) 手机&#43;TV</title>
         <link>https://kooshare.github.io/post/ourtv320/</link>
         <pubDate>Thu, 22 Aug 2024 00:22:20 +0800</pubDate>
