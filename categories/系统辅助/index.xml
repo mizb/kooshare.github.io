@@ -7,7 +7,185 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 22 Aug 2024 23:59:36 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 24 Aug 2024 00:49:27 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows TreeSize Free 磁盘空间分析_v4.4.2 绿色便携版</title>
+        <link>https://kooshare.github.io/post/treesizefree/</link>
+        <pubDate>Sat, 24 Aug 2024 00:49:27 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/treesizefree/</guid>
+        <description>&lt;h3 id=&#34;软件介绍&#34;&gt;&lt;strong&gt;软件介绍&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;TreeSize Free是一款免费的强大灵活的硬盘空间管理工具。可以帮你找出硬盘上最大的目录以及它占用的空间。支持空间大小显示、分配空间和占用空间、文件数、3D工具条和分配图、最近使用数据、文件作者、NTFS压缩率等信息，并支持搜索文件。该软件类似浏览器界面，快速多线程，可以导入导出Excel、HTML或ASCII文件。可以详细的知晓每一种文件类型占用的空间大小，帮助用户更加高效的利用磁盘存储空间，同时，能够使用本软件对此盘进行各种清理，软件使用操作简单，使用界面没有任何广告，绿色安全无毒。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;和资源管理器集成。在资源管理器中选中一个文件夹，选择右键菜单中的“TreeSize Free”菜单项，就可以在这个软件中切换到相同路径下，从而可以看到各个子文件夹的体积&lt;/li&gt;
+&lt;li&gt;能够对文件和文件夹进行删除、复制、剪切等管理操作，也可以使用拖放&lt;/li&gt;
+&lt;li&gt;多种文件夹大小计量方式。默认情况下，文件夹体积是使用KB、MB来计量、不过你也可以在view菜单中改成百分比显示&lt;/li&gt;
+&lt;li&gt;能够立刻展开带有大量文件的文件夹。即使是system32文件夹也是如此。所以使用的时候不会感觉到任何的卡顿&lt;/li&gt;
+&lt;li&gt;近似阅读器场景布局，迅速多线程，可以导入导出Excel、HTML或ASCII文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;&lt;strong&gt;软件截图&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/24/3AFvhO7MJHdwteR.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Windows TreeSize Free 磁盘空间分析_v4.4.2 绿色便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/3b8ffadaada2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/3b8ffadaada2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows 服务健康状态监控_v1.2 绿色便携版</title>
+        <link>https://kooshare.github.io/post/fuwujiankangzhuangtaijiankong/</link>
+        <pubDate>Sat, 24 Aug 2024 00:47:29 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/fuwujiankangzhuangtaijiankong/</guid>
+        <description>&lt;h3 id=&#34;软件介绍&#34;&gt;&lt;strong&gt;软件介绍&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;服务健康状态监控提供进程崩溃守护、定时重启、Post接口监测重启（解决程序假死现象）、内存占用阈值重启等多种监控规则守护方式。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;定时守护未激活的程序，并支持延时若干秒启动&lt;/li&gt;
+&lt;li&gt;支持自定义周期的强制重启程序，灵活的cron时间周期&lt;/li&gt;
+&lt;li&gt;支持http Post请求接口，获取到异常响应结果时重启程序&lt;/li&gt;
+&lt;li&gt;实时显示内存占用值&lt;/li&gt;
+&lt;li&gt;支持监控程序的配置可视化修改，并且实时保存配置项&lt;/li&gt;
+&lt;li&gt;支持日志记录功能、最小化到托盘&lt;/li&gt;
+&lt;li&gt;支持通过PID反查窗体标题和程序启动路径&lt;/li&gt;
+&lt;li&gt;支持exe、bat、windows系统服务等多种常见程序&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;postapi接口判断规则api接口地址非必填&#34;&gt;&lt;strong&gt;PostApi接口判断规则：Api接口地址（非必填）&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;每隔【请求间隔】秒数后，请求一次Api接口，根据返回的json对象中的message或msg字段（二者有其一即可），字符串值部分内容含有指定【异常响应值】，即判定为接口调用异常。
+若接口调用连续异常的次数达到【阈值】时，触发重启机制。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;&lt;strong&gt;软件截图&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/24/Dqrh2bAYGNnXMwz.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/1a02574b816f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/1a02574b816f&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows IO AutoClicker 自动鼠标点击器_v1.0 绿色便携版</title>
+        <link>https://kooshare.github.io/post/autoclicker/</link>
+        <pubDate>Sat, 24 Aug 2024 00:39:42 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/autoclicker/</guid>
+        <description>&lt;h3 id=&#34;软件介绍&#34;&gt;&lt;strong&gt;软件介绍&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;IO AutoClicker是一款免费简洁功能强大的自动鼠标点击器。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;可设置固定时间点击；设置在时间段内随机时长点击，模拟手动点击&lt;/li&gt;
+&lt;li&gt;可设置鼠标左键、中键、右键的单击或者双击&lt;/li&gt;
+&lt;li&gt;可设置点击重复次数后停止，或者手动停止&lt;/li&gt;
+&lt;li&gt;可根据坐标设置点击位置，或者通过光标拾取点击位置&lt;/li&gt;
+&lt;li&gt;设置快捷键，通过快捷键后台关闭开启点击任务&lt;/li&gt;
+&lt;li&gt;无广告，无收费、小体积，仅有431KB&lt;/li&gt;
+&lt;li&gt;界面可以昼夜主题切换&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;&lt;strong&gt;软件截图&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/24/GlEtwgUzrk1h3sB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Windows IO AutoClicker 自动鼠标点击器_v1.0 绿色便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9c2b0357751e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9c2b0357751e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows WinPEMaker生成器_v1.2.1 斗鱼PE生成器</title>
+        <link>https://kooshare.github.io/post/winpemaker/</link>
+        <pubDate>Sat, 24 Aug 2024 00:35:59 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/winpemaker/</guid>
+        <description>&lt;h3 id=&#34;软件介绍&#34;&gt;&lt;strong&gt;软件介绍&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;WinPEMaker生成器（斗鱼PE生成器）是一款可基于用户下载的Windows10/11原版镜像来制作个人PE的软件（PE制作工具），这款制作工具，理念为积木式制作pe，只要你有微软原版ISO镜像（软件自带下载原版ISO功能），就能根据自己的需求制作出属于自己的PE。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;支持Windows 10、Windows 11所有版本&lt;/li&gt;
+&lt;li&gt;模块化、快速构建您独一无二的Windows PE&lt;/li&gt;
+&lt;li&gt;基于aardio编写的Windows PE生成器，用户界面操作友好且具有良好的扩展性&lt;/li&gt;
+&lt;li&gt;丰富的个性化设置功能，堆积木方式创造您的WinPE工程&lt;/li&gt;
+&lt;li&gt;生成器内置了常见的第三方绿色软件，省去自行制作绿色软件的烦恼&lt;/li&gt;
+&lt;li&gt;提供大量可选功能，包括用户可自定义PE的主要账户，管理员账户，Adm超级管理员账户、PE的外壳，PE美化，PE预装的软件等等可选自定义&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;注意事项&#34;&gt;&lt;strong&gt;注意事项&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;请使用官方Windows镜像或者安全性较高的原版镜像仓库，请勿使用魔改的Windows iso&lt;/li&gt;
+&lt;li&gt;由于WinPEmaker提供的是镜像制作，不提供镜像验证，请勿将已经制作好的PE再次拖入WinPEMaker编辑，不听劝拖进去导致自己的PE损坏，或者驱动器损坏，后果自负&lt;/li&gt;
+&lt;li&gt;PE具有对计算机的高级权限，请勿下载网络上个人制作的PE（不包含雷电PE，微PE工具箱等经过验证的PE）&lt;/li&gt;
+&lt;li&gt;Windows所有版本用户，想要重启进入PE时，请提前备份Bitlocker设备加密的密钥，或者关闭设备加密，已开启设备加密且设置好密码的用户，重启时会验证BitLocker的密码，才能正常进入PE&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;下载完成后，除了安装文件还有一个exe和一个txt，txt里面有安装包校验值，hash.exe用来显示安装包的校验值，请验证安装包校验值与txt中的校验值完全一样时，再安装使用&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;&lt;strong&gt;软件截图&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/24/18EQ7JDrYuq93Mi.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Windows WinPEMaker生成器_v1.2.1 斗鱼PE生成器&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/111cf45aaded&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/111cf45aaded&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows 万能按键模拟器_v2.8.20</title>
+        <link>https://kooshare.github.io/post/wannenganjianmoniqi/</link>
+        <pubDate>Sat, 24 Aug 2024 00:31:38 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/wannenganjianmoniqi/</guid>
+        <description>&lt;h3 id=&#34;软件介绍&#34;&gt;&lt;strong&gt;软件介绍&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;万能按键模拟器是一款操作简单的键盘鼠标模拟器。可用于代替人完成些固定重复的键盘鼠标操作，以减少劳动量。不管是娱乐还是办公都有用武之地。用来单机游戏挂机用的功能强大，新版免费15步，超出了就要收费了。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;操作简单方便的键盘鼠标模拟器。可用于代替人完成些固定重复的键盘鼠标操作，以减少劳动量&lt;/li&gt;
+&lt;li&gt;加上图色检测等还可以实现智能模拟。不管是娱乐还是办公都有用武之地&lt;/li&gt;
+&lt;li&gt;全中文脚本命令，易学易用&lt;/li&gt;
+&lt;li&gt;插件用于CV视觉库、OCR文字识别、百度文字识别、谷歌浏览器操作和硬件模拟用。插件下载后把DLL放到软件目录&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;&lt;strong&gt;软件截图&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/24/nSEN65LqioTY7Om.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Windows 万能按键模拟器_v2.8.20&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a8cfec1bc5b6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a8cfec1bc5b6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>勇芳自动校时1.1.3</title>
         <link>https://kooshare.github.io/post/yongfangzidongjiaoshi/</link>
         <pubDate>Thu, 22 Aug 2024 23:59:36 +0800</pubDate>
