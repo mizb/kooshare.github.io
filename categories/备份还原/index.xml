@@ -7,7 +7,40 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 22 Aug 2024 00:03:54 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%A4%87%E4%BB%BD%E8%BF%98%E5%8E%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 24 Aug 2024 10:02:17 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%A4%87%E4%BB%BD%E8%BF%98%E5%8E%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>闪电藤 2.3.1 (局域网传输) PC&#43;安卓&#43;MAC</title>
+        <link>https://kooshare.github.io/post/shandianteng231/</link>
+        <pubDate>Sat, 24 Aug 2024 10:02:17 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/shandianteng231/</guid>
+        <description>&lt;p&gt;闪电藤是基于LocalSend二次开发的一款局域网文件传输工具，在它的基础上进行UI交互的重新设计，以及功能上的增强和删减，使其更加符合中国用户的使用体验。&lt;/p&gt;
+&lt;p&gt;有了LocalSend，还要开发闪电藤，在于它的使用体验更多的是按国外的来设计的，并且国内很多需求反馈无法实现，所以我重新设计LocalSend，并征集大家的需求，共同建设一个更完美的LocalSend。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/24/hGqycZSpMHD24dX.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240824100302283&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;功能特性&#34;&gt;功能特性
+&lt;/h2&gt;&lt;p&gt;极简无广告
+免登录使用
+像聊天一样传文件（国内习惯）
+自动连接同局域网内设备（已上线）
+跨网段连接（已上线）
+传输快，不限速（后续计划：断点续传，并发传输）
+支持网盘，如123网盘、坚果云等webdav网盘（已上线，2.2.0版本）
+支持对象存储，一键生成图床，便捷办公（待开发）&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;闪电藤 2.3.1 PC+安卓+MAC&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/71f684bc2519&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/71f684bc2519&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>SnapShot 1.50.0.1528 (硬盘备份) 绿色版</title>
         <link>https://kooshare.github.io/post/snapshot15001528/</link>
         <pubDate>Thu, 22 Aug 2024 00:03:54 +0800</pubDate>

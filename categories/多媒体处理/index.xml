@@ -7,7 +7,163 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 23 Aug 2024 20:57:19 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 24 Aug 2024 10:04:07 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Mp3tag 3.27.1.0 (MP3标签修改) 绿色版</title>
+        <link>https://kooshare.github.io/post/mp3tag32710/</link>
+        <pubDate>Sat, 24 Aug 2024 10:04:07 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/mp3tag32710/</guid>
+        <description>&lt;p&gt;每个人的电脑里，多多少少都有收藏MP3歌曲吧？网络上下载的MP3很多时候里面的标签信息(如主题名称、尺寸、专辑名、歌手、封面等)不完整，有时候要找硬盘里面一首歌曲要找很久，而mp3Tag可帮助你对所有歌曲进行标签管理。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/24/GDALi3yXQUcK6es.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240824100430963&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cubXAzdGFnLmRlL2VuL2Rvd25sb2FkLmh0bWw=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.mp3tag.de/en/download.html&lt;/a&gt;
+3.26f（2024-07-30）
+CHG：重新实现了TAK文件的解析，并删除了对TAK_eco_lib.dll的依赖
+3.26e（2024-07-26）
+CHG：添加了完整性检查和手动加载tak_dco_lib.dll来处理tak文件，以防止dll侧加载。
+修复：如果引用的大小超过unsigned int 32位范围，则将32位MP4 stco块偏移原子更新为64位co64块偏移原子。(#65218)
+CHG：通过编辑→查找搜索文件列表时的性能改进。&lt;/p&gt;
+&lt;h2 id=&#34;功能介绍&#34;&gt;功能介绍
+&lt;/h2&gt;&lt;p&gt;1.一次对对多个文件写入 ID3v1.1、 ID3v2、APEv2等标签。
+2.自动创建列表。
+3.支持扫描子文件夹。
+4.删除多个文件的部分或者这个标签内容。
+5.给予标签信息重命名文件。
+6.从文件名导入标签。
+7.格式化标签和文件名。
+8.用标签和文件名替换字符。
+9.输出标签信息为用户定义的格式。
+10.从在线数据库导入标签信息。
+11.从本地数据库导入标签信息。&lt;/p&gt;
+&lt;p&gt;p3Tag该程序支持通过编辑标签信息实现文件重命名，替换标签或文件名中的部分文字，标签导入/导出，以及创建播放列表功能。 此外，程序本身的设计也可圈可点，如界面简洁、启动迅速、运行稳定等。&lt;/p&gt;
+&lt;p&gt;mp3Tag 支持格式：aac、flac、ape、mp3、MPEG-4 (mp4 / m4a / m4b / iTunes 兼容e) 、mpc、ogg、spx、tak、tta、wma、wv。&lt;/p&gt;
+&lt;h2 id=&#34;使用方法&#34;&gt;使用方法
+&lt;/h2&gt;&lt;p&gt;1.打开你MP3文件所在的文件目录
+　1).菜单中“文件“ – ”改变目录“，此时会出现文件目录选择，选择上你MP3所在的目录。
+　2).可以采用”更改目录“菜单，则下一次启动Mp3tag(MP3信息修改器)的时候，就自动打开你更改过的目录。&lt;/p&gt;
+&lt;p&gt;2.选择要更改的文件
+　1).打开目录后，在右面的列表中会出现MP3文件，选择你要更改的MP3音乐，右键点击就可以。
+　2).Mp3tag可以按住CTRL键进行多个选择、或按住SHIFT键进行一排进择。&lt;/p&gt;
+&lt;p&gt;3.移除标签
+　1).菜单中“文件“ – ”移除标签“，则把你所选择的MP3的标签清除。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;中文切换&lt;/strong&gt;
+Mp3tag默认是显示英文界面的，切换简体中文语言可以通过顶部菜单栏“Tools，Options，Language”选择简体中文即可。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2ea41427c419&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2ea41427c419&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>TechSmith Camtasia 2024.0.3.2885 破解版</title>
+        <link>https://kooshare.github.io/post/techsmithcamtasia2024032885/</link>
+        <pubDate>Sat, 24 Aug 2024 09:52:09 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/techsmithcamtasia2024032885/</guid>
+        <description>&lt;p&gt;TechSmith Camtasia 2024中文破解版是一款屏幕录像软件及视频编辑软件.Camtasia2024高清录屏软件与视频创作软件套装包含了:捕获屏幕录制,视频剪辑和视频编辑,视频录音配音,视频菜单创作,视频剧场等功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/24/EAqaO9WsgxPYScb.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240824095233641&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Camtasia Windows Version History – TechSmith Support
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cudGVjaHNtaXRoLmNvbS9jYW10YXNpYS12ZXJzaW9uLWhpc3RvcnkuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.techsmith.com/camtasia-version-history.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;TechSmith Camtasia 24.0.3.2885 x64 Multilingual (2024.08.22)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;系统要求&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CamtasiaStudio：  .NET Framework 4.7.2 及更高版
+Camtasia2023-22：Windows 10 21h2 及更高版64位
+Camtasia2022-20：Windows 10 1903 及更高版64位
+Camtasia2022-20：Microsoft Edge WebView2 Runtime
+Camtasia2019-18：支持Windows 7 及更高版64位的最终版
+Camtasia2019.0.3：该版本开始官方已自带简体中文无需汉化
+Camtasia8.6.0 ：   Windows XP 及更高版32/64位的最终版&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Camtasia中文破解版 2024.0.3&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9431ac01def2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9431ac01def2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Perfectly Clear WorkBench 4.6.1.2690 (图像处理) 绿色版</title>
+        <link>https://kooshare.github.io/post/workbench461/</link>
+        <pubDate>Sat, 24 Aug 2024 09:34:22 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/workbench461/</guid>
+        <description>&lt;p&gt;Perfectly Clear WorkBench中文版是全球领先的智能图像校正技术商推出的图像清晰处理软件,这款智能图像处理软件的照片自动校正技术,智能处理图像,自动校正照片,例如:去瑕疵,去红眼,去黑眼圈,皮肤软化等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/24/vFaGpbSltOiA9NR.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240824093453432&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;它引入下一代图像质量规范的图像无损清晰的Perfectly Clear AI
+完全清晰的人工智能的自动化、精准的、可定制的、革命性的的！&lt;/p&gt;
+&lt;p&gt;Perfectly Clear AI 该技术为需求专业级图像的业务，节省时间和成本。&lt;/p&gt;
+&lt;p&gt;认识Perfectly Clear AI，Perfectly Clear 它的经典深度科学与革命性的AI人工智能相结合。
+作为智能图像校正和真彩色摄影Ⓡ 20年的领导者，致力于解决最具挑战性的图像领域问题。&lt;/p&gt;
+&lt;p&gt;是什么让 Perfectly Clear AI 技术如此独特？&lt;/p&gt;
+&lt;p&gt;我们保留了独家经典技术的精华，并集成三项新的AI图像增强创新功能：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;AI 预设选择- 使用AI，我们将分析图像的内容，识别照明条件，并对场景进行分类以应用最佳校正.&lt;/li&gt;
+&lt;li&gt;AI 图像增强- 在每年修正超过百亿张照片后，我们创建了一个经专业照片编辑训练的深度学习系统。&lt;/li&gt;
+&lt;li&gt;AI 肤色准确度- 我们的 AI 深度学习系统已经针对各种人像肤色进行了模拟训练，可以确保完全精准。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;支持的图像格式仅包括：JPEG, PNG, TIF, BMP&lt;/p&gt;
+&lt;p&gt;PerfectlyClearWorkBench插件包 2021年更新
+Perfectly Clear WorkBench for AddonsPack：
+– Beautiful Woman Presets by Matthew Jordan Smith
+– BW Contrast LOOKs
+– Creative LOOKs by Photofocus
+– Digital Film LOOKs
+– Fabulous Fireworks
+– Fantastic Fall
+– Food and Beverage by Joe Glyda
+– Pros Toolbox Preset Pack
+– SharkPixel 1 Click Portrait
+– SharkPixel Eyes Mini Pack
+– SharkPixel Portrait Pack
+– Split Tones by Vanelli
+– Vintage Love by Vanelli
+– Vivid Landscapes
+– Wandering Traveler
+– World Traveler Presets by Matthew Jordan Smith&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;perfectly clear workbench破解版,perfectly clear workbench中文破解版,图像校正软件&lt;/p&gt;
+&lt;p&gt;PerfectlyClearWorkbench免激活中文绿色便携版，免许可证破解版，集成所有额外插件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;运行要求&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;• Windows 7, 8, 10 or 11 (64-bit only)
+• Photoshop CS6 or Creative Cloud
+• Photoshop Elements 13,14,15
+• Corel PaintShop Pro X6, X7, X8, X9
+• Lightroom 4 or newer, including v6 and CC&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Perfectly Clear WorkBench中文破解版 v4.6.1.2690 绿色便携版 (包含25个额外插件)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/5937e09d0c3c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/5937e09d0c3c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>畅片 v4.93.5 大疆免费视频剪辑 安卓&#43;iOS</title>
         <link>https://kooshare.github.io/post/changpian4935/</link>
         <pubDate>Fri, 23 Aug 2024 20:57:19 +0800</pubDate>

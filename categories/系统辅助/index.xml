@@ -7,7 +7,156 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 24 Aug 2024 00:49:27 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 24 Aug 2024 10:06:43 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows系统调校 OlSoul 2024.08.22 (系统辅助) 单文件</title>
+        <link>https://kooshare.github.io/post/olsoul20240822/</link>
+        <pubDate>Sat, 24 Aug 2024 10:06:43 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/olsoul20240822/</guid>
+        <description>&lt;p&gt;Windows系统调校 OlSoul 程序是一款专为微软操作系统所推出的系统辅助工具。该软件支持Win XP/7/8.1/10等操作系统，提供主体支持、打印机、无线网络、计划任务等多种功能，随用户自己的喜好进行调校，免费下载。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/24/uaGJ2Mx9SvOUrwH.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240824100707903&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;功能特点&#34;&gt;功能特点
+&lt;/h2&gt;&lt;p&gt;• 启用主题支持功能
+• 启用打印机功能
+• 启用自带防火墙服务
+• 启用ONS Cache]功能
+• 启用无网络功能
+• 启用网铬文件夹共享
+• 启用系统自动升级服务
+• 启用系统自带还原服务
+• 启用IPSEC安全策略功能
+• 启用时间同步功能&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;Windows系统调校 OlSoul 2024.07.22 单文件&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/26482f2410c9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/26482f2410c9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>CCleaner 6.27.11214 (系统清理) 绿色版</title>
+        <link>https://kooshare.github.io/post/ccleaner62711214/</link>
+        <pubDate>Sat, 24 Aug 2024 09:42:11 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/ccleaner62711214/</guid>
+        <description>&lt;p&gt;CCleaner中文版是一款免费的系统优化和隐私保护工具的系统清理软件,它体积小,扫描速度非常快,支持自定义清理规则,增强了应用程序清理范围和效果.CCleaner最新版是Piriform(梨子公司)最著名广受好评的系统清理优化及隐私保护软件,也是该公司主打和首发产品,能有效清除各种系统垃圾文件及应用程序垃圾,同时具备系统优化功能;能对临时文件夹,历史记录,注册表冗余条目等进行垃圾清理,附带启动项管理,软件卸载功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/24/Enoxhyudr7VwNAv.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240824094234358&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CCleaner – Version History
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cuY2NsZWFuZXIuY29tL2NjbGVhbmVyL3ZlcnNpb24taGlzdG9yeQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ccleaner.com/ccleaner/version-history&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;6.26 版本开始主界面「注册表」按钮已移至「工具」界面&lt;/p&gt;
+&lt;p&gt;5.47 版本开始界面改版，增加了驱动更新、软件更新功能&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ccleaner中文版,ccleaner清理软件,CCleaner中文注册版
+√ 集成许可证密钥，去许可证联网验证，将配置便携式保存
+√ 逆向修改实现INI配置文件便携化后也能使用智能清理功能
+├—官方版开启便携不能使用智能清理功能，选项智能清理是灰色
+√ 禁止每次启动临时创建「谷歌检测Api接口模块」，加快启动速度！
+√ 禁止后台各种联网请求，提升启动速度，无网络情况下启动不卡顿
+├—后台联网请求包括：检测许可密钥、发送匿名数据、检测升级提示
+├—官方原版每次启动会后台偷偷联网请求avast安全中心上传匿名数据
+√ 去界面左侧按钮：「健康检查」、去界面工具项目：「软件更新」项
+√ 去界面右上角按钮：「帮助按钮」/「许可证管理」、底部按钮：「检查更新」
+√ 优化选项：跳过UAC、关闭获取收集隐私数据和优惠信息、不启用智能清理功能等
+√ 取消原版内置规则默认勾选Edge/谷歌/火狐等浏览器Cookies项的钩子避免误清理
+√ 集成扫描规则：最新WinApp2规则 + 昔之光规则 (飞扬时空、slzyk | 孤雨 、lrxy)
+√ 更新简体中文字串翻译并优化对齐，将中文语言移到程序内，删除其它多语言模块
+√ 删除了驱动升级模块 (会联网功能不成熟)、删除性能优化器组件 (会驻留后台进程)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CCleaner中文破解版 v6.27.11214 x64 绿色便携版 (精简优化版)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f523691bb5e3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f523691bb5e3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Yamicsoft Windows Manager 2.0.4 (系统优化) 绿色版</title>
+        <link>https://kooshare.github.io/post/yamicsoftwindowsmanager204/</link>
+        <pubDate>Sat, 24 Aug 2024 09:40:26 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/yamicsoftwindowsmanager204/</guid>
+        <description>&lt;p&gt;Windows Manager中文破解版(Win11优化大师)是一款集Windows10/11所有功能于一身的Win10/11系统优化工具,这款系统优化软件提供40多个实用程序来优化,调整,清理,加速和修复Windows 10/11,可以让系统运行流畅,解决系统故障,提高稳定性和安全性,个性化Windows 10/11,满足系统优化调整所有要求.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/24/X9Hp27Z1rVAymuS.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240824094052469&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Windows Manager for Windows 10/11 What is New – YamicSoft
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly95YW1pY3NvZnQuY29tL3dpbmRvd3NtYW5hZ2VyL3Byb2R1Y3QuaHRtbCNXaGF0aXNOZXc=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://yamicsoft.com/windowsmanager/product.html#WhatisNew&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;winmanager破解版,win10优化工具,win11优化工具
+– 去盗版验证，免授权码，解锁免激活中文绿色便携版
+– 去在线更新，脱离在线升级程序，删除多国语言文件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Windows Manager中文破解版 v2.0.4 绿色便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9f4bfad05026&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9f4bfad05026&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Glary Utilities Pro 6.14.0 绿色版</title>
+        <link>https://kooshare.github.io/post/glaryutilitiespro6140/</link>
+        <pubDate>Sat, 24 Aug 2024 09:36:01 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/glaryutilitiespro6140/</guid>
+        <description>&lt;p&gt;GlaryUtilities中文版是一款国外功能强大的系统优化软件,堪称世界老牌系统维护军刀百宝箱.这款系统清理优化工具,提供了涵盖系统优化,系统辅助管理,保护和系统加速所有功能.能实现系统垃圾文件清理,注册表键值清理,上网记录等个人隐私文件清理,IE插件管理和删除,磁盘空间使用情况分析,查找重复文件,优化内存,清理无效快捷方式,系统启动项,软件卸载清除,安全粉碎文件,查找空文件夹等众多功能,非常优秀的系统维护工具.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/24/4U6XcRf2BOSxezn.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240824093625788&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Glary Utilities Pro Release Notes | Glarysoft
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cuZ2xhcnlzb2Z0LmNvbS9nbGFyeS11dGlsaXRpZXMtcHJvL2Rvd25sb2Fk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.glarysoft.com/glary-utilities-pro/download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;glaryutilities中文版,glaryutilities破解版,glary utilities电脑系统优化软件
+glaryutilities免激活中文绿色便携版，默认中文, 取消更新，优化默认设置&lt;/p&gt;
+&lt;p&gt;• 基于官方版
+• 绿色便携版免安装
+• 注册启动为专业版
+• 去除多国语言
+• 去除在线升级
+• 去除错误报告
+• 精简多余模块&lt;/p&gt;
+&lt;p&gt;• 在Menu项里的Setting-Languare里选择简体中文&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Glary Utilities Pro v6.14.0.18 中文绿色便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/505404d7cd59&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/505404d7cd59&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows TreeSize Free 磁盘空间分析_v4.4.2 绿色便携版</title>
         <link>https://kooshare.github.io/post/treesizefree/</link>
         <pubDate>Sat, 24 Aug 2024 00:49:27 +0800</pubDate>

@@ -7,7 +7,45 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 23 Aug 2024 00:10:03 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 24 Aug 2024 10:12:07 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Filemanager&#43; 3.4.9 (文件管理器) 官方版</title>
+        <link>https://kooshare.github.io/post/filemanager349/</link>
+        <pubDate>Sat, 24 Aug 2024 10:12:07 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/filemanager349/</guid>
+        <description>&lt;p&gt;智能电视的功能越来越丰富，可以安装各种应用程序、存储和播放多媒体文件，甚至连接到外部设备或网络共享资源。&lt;/p&gt;
+&lt;p&gt;在这种情况下，一个高效的文件管理工具就显得尤为重要。比如适配电视端操作的es文件管理、小白文件管理、MiXplorer_Silver等。&lt;/p&gt;
+&lt;p&gt;那么，这次要再推荐一款更为简洁、响应速度更快、操作体验要更好的电视端文件管理工具——Filemanager+ 文件管理器+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/24/I4Fp3dH1vWnXQcf.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240824101243872&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Filemanager+ 文件管理器+是一款方便和强大好用的文件管理器，支持电视/手机，完美适配遥控操作，可以更好管理电视内存，云存储等。并支持局域网、WebDAV、网盘以及SMB3.0和SMB2.0等协议。&lt;/p&gt;
+&lt;p&gt;纯净无广无使用限制，完全可以当做电视文件管理长久使用。&lt;/p&gt;
+&lt;h3 id=&#34;轻松管理分析电视文件&#34;&gt;轻松管理、分析电视文件
+&lt;/h3&gt;&lt;p&gt;支持多种常用操作：打开、搜索、浏览目录、复制、粘贴、移动、删除、重命名、压缩、解压、下载等；还能对内存数据进行分析，以便更好的管理。&lt;/p&gt;
+&lt;h3 id=&#34;支持webdav网盘&#34;&gt;支持WebDAV、网盘
+&lt;/h3&gt;&lt;p&gt;网盘不支持咱们国内的网盘，但是支持WebDAV，因此可以挂载阿里网盘等，以便在电视上访问阿里网盘的资源。&lt;/p&gt;
+&lt;h3 id=&#34;支持smb30和smb20速度更快&#34;&gt;支持SMB3.0和SMB2.0，速度更快
+&lt;/h3&gt;&lt;p&gt;软件支持SMB3.0和SMB2.0协议，这意味着你可以享受到更快的文件传输速度和更稳定的连接。现在很多人都组建了自己的nas，里面存储了很多大文件资源，比如几十上百G的视频文件，那么就需要更快的传输速度，不然就会出现卡顿。&lt;/p&gt;
+&lt;h3 id=&#34;手机端效果&#34;&gt;手机端效果
+&lt;/h3&gt;&lt;p&gt;软件除了功能强大之外，也拥有简洁直观的界面设计，让你能够轻松上手。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后&lt;/strong&gt;来个简单对比吧，毕竟分享过好几款同类型软件，纯属个人使用体验：&lt;/p&gt;
+&lt;p&gt;es文件管理器普通版只支持SMB1.0，开通会员才有SMB2.0，文件传输速度没有文件管理器+那么快。&lt;/p&gt;
+&lt;p&gt;小白文件管理也是一样，而且小白还是好多年前的产品，多年前停更了。&lt;/p&gt;
+&lt;p&gt;最后MiXplorer_Silver和文件管理+都支持SMB3.0和SMB2.0，前者更花哨，后者更简单，而且遥控操作更好。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/622670791497&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/622670791497&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>分享一些稳定的TvBox接口</title>
         <link>https://kooshare.github.io/post/tvboxzaixianjiekou/</link>
         <pubDate>Fri, 23 Aug 2024 00:10:03 +0800</pubDate>
