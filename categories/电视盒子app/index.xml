@@ -7,7 +7,42 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 24 Aug 2024 10:12:07 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 24 Aug 2024 11:37:03 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>TVBOX takagen 20240819-1117 空壳版，多版本合集</title>
+        <link>https://kooshare.github.io/post/tvboxtakagen20240819/</link>
+        <pubDate>Sat, 24 Aug 2024 11:37:03 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/tvboxtakagen20240819/</guid>
+        <description>&lt;p&gt;TV电影/TVBOX是一款电视直播软件，与《猫影视TV》跟《BiubiuTV》一样属于空壳自行导入数据直播源的方式，因为直播源常常流失，目前这种方式较为主流，怕使用者麻烦这里提供内置版不需要再另外新增，经过实测 TVBOX 资源高达上千台，资源丰富，定期维护。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/24/rKFOV36zQCHcNny.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240824113747091&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;使用教程&#34;&gt;使用教程
+&lt;/h2&gt;&lt;p&gt;安装后首次使用时，会显示拉取失败，这个很正常，因为后端有个内部调用api地址，用户是没法使用这个api的，需要替换成自己的站源api才可以&lt;/p&gt;
+&lt;p&gt;【显示提取失败不要紧，点击取消即可跳过。然后就看到设置用户界面了】&lt;/p&gt;
+&lt;p&gt;具体操作&lt;/p&gt;
+&lt;p&gt;1、首先下载打开APP，点击【设置】&lt;/p&gt;
+&lt;p&gt;2、点击【设置其他】，点击【配置地址】&lt;/p&gt;
+&lt;p&gt;3、将接口填入&lt;/p&gt;
+&lt;p&gt;(自己复制填入到到APP的配置中即可)，点击确定!&lt;/p&gt;
+&lt;p&gt;4、回到首页即可看到已经更新了新的片源，可以开始愉快的观影了&lt;/p&gt;
+&lt;h2 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h2&gt;&lt;p&gt;1、完美继承猫影视，兼容猫影视接口&lt;/p&gt;
+&lt;p&gt;2、支持在线/本地接口&lt;/p&gt;
+&lt;p&gt;3、强大的播放解码能力&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/798caab06cb3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/798caab06cb3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Filemanager&#43; 3.4.9 (文件管理器) 官方版</title>
         <link>https://kooshare.github.io/post/filemanager349/</link>
         <pubDate>Sat, 24 Aug 2024 10:12:07 +0800</pubDate>
