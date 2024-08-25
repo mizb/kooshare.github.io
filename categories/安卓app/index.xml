@@ -7,7 +7,38 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 25 Aug 2024 13:14:36 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 25 Aug 2024 22:19:27 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>我的听书 v2.5.3 安卓免费听书</title>
+        <link>https://kooshare.github.io/post/wodetingshu253/</link>
+        <pubDate>Sun, 25 Aug 2024 22:19:27 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/wodetingshu253/</guid>
+        <description>&lt;p&gt;我的听书是一款安卓免费有声书源聚合软件。内置了大量的音频书源，资源丰富，提供小说、相声评书、童话故事、新东方英语等诸多有声内容，完全免费。&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h2&gt;&lt;p&gt;v2.5.3
+昨天更新的比较急有个严重bug没修复，请再次更新。
+1．修复喜马拉雅不能搜索的问题&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;修复阿里云盘不能播放视频的问题，注意： 阿里云盘推出了三方应用权限包，若需要高清播放得先去开通此功能。&lt;/li&gt;
+&lt;li&gt;添加源的时候增加进度提示4．清理一些失效的源&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;应用预览&#34;&gt;应用预览
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/25/IKZp6FhjxsEDunc.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240825222028554&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;应用下载&#34;&gt;应用下载
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/89d20e631ec6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/89d20e631ec6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>CCleaner v24.16.0 安卓系统清理优化及隐私保护软件，解锁专业版</title>
         <link>https://kooshare.github.io/post/ccleanerv24160/</link>
         <pubDate>Sun, 25 Aug 2024 13:14:36 +0800</pubDate>
