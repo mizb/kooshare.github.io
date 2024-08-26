@@ -7,7 +7,537 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 26 Aug 2024 16:47:12 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 26 Aug 2024 17:49:40 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>OK影视2.4.9正式版,已内置接口</title>
+        <link>https://kooshare.github.io/post/okyingshi249/</link>
+        <pubDate>Mon, 26 Aug 2024 07:17:16 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/okyingshi249/</guid>
+        <description>&lt;p&gt;OK版最新的2.4.9版本&lt;/p&gt;
+&lt;h2 id=&#34;更新内容&#34;&gt;更新内容
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/oudeJ6U4RNawz7X.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240826071933059&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;版本区别&#34;&gt;版本区别
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/HZAWi7Mke4yx9Eu.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240826072117408&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;电视配置低的,优先选择4.X通用版&lt;/p&gt;
+&lt;p&gt;电视配置正常的.在5.0以上的,通用版和4.X通用版都可以选择&lt;/p&gt;
+&lt;p&gt;手机同理.低的用32位,高的32位和64位都可以选择&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f75391868e51&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f75391868e51&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>FilmlyTV v1.3.3 支持直连网盘视频自动匹配海报</title>
+        <link>https://kooshare.github.io/post/filmlytv/</link>
+        <pubDate>Mon, 26 Aug 2024 17:49:40 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/filmlytv/</guid>
+        <description>&lt;p&gt;许多人都有打造自己影视库的想法，加上越来越多的人使用网盘收藏资源，这些需求逐渐汇聚成了一个明确的市场趋势。于是，相应的产品也应运而生。&lt;/p&gt;
+&lt;p&gt;上个月，网易就推出了这么一款支持直连网盘资源并自动刮削封面海报、智能识别影片信息的播放器——Filmly，当时初上线还只有安卓手机的版本，许多电视迷还略感遗憾，没想到这么快电视版本就来了——FilmlyTV&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/AoBmJi9uKhaV2Wd.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;FilmlyTV v1.3.3 支持直连网盘视频自动匹配海报-第1张图片-KUL&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;这是网易推出的专为网盘资源打造的智能识别影片信息，自动刮削封面海报，优雅打造个人媒体库的播放器，这次是TV版。&lt;/p&gt;
+&lt;p&gt;Filmly播放器TV端目前不具备任何功能设置，所有设置都需要通过手机端来操作，所以，在使用TV时，需要先用手机端进行扫码登录。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/PgwC7UfsRukVtEe.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;FilmlyTV v1.3.3 支持直连网盘视频自动匹配海报-第2张图片-KUL&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;登录之后会自动同步手机端上导入的数据，你要做的就是直接使用就行。&lt;/p&gt;
+&lt;p&gt;非常简洁，匹配海报等信息之后能让你快速找到自己想看的内容，使用起来更有氛围感。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/G71UtmF6MIeJuDy.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;FilmlyTV v1.3.3 支持直连网盘视频自动匹配海报-第3张图片-KUL&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Filmly据说是通过AI技术自动识别影片的封面海报、演员、简介和评分等信息，并进行自动分类管理的，准确率还是有待进一步提升的，不过从这个产品的更新频率来看，后续应该是越来越好。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/kcpROKJShHAezl8.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;FilmlyTV v1.3.3 支持直连网盘视频自动匹配海报-第4张图片-KUL&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;支持跨平台使用。Filmly无论是在家中的智能电视、电脑，还是在外出时的手机或平板，都可以同步自己的影视库。&lt;/p&gt;
+&lt;p&gt;目前这个版本为公开测试的第一个版本，最低&lt;strong&gt;只支持安卓5.0版&lt;/strong&gt;本电视，据KUL了解，还有不少人是5.0以下的安卓系统，暂时比较遗憾了。&lt;/p&gt;
+&lt;p&gt;不过目前这个FilmlyTV还只是初步实现大屏影视库的效果，值得优化和提升的地方还有很多，比如加入搜索功能（这个非常重要），调用第三方播放器；之后还可以加入更详细的分类和评分信息等等。&lt;/p&gt;
+&lt;h3 id=&#34;v133&#34;&gt;v1.3.3
+&lt;/h3&gt;&lt;p&gt;1、修复字幕乱码问题；
+2、修复部分切换清晰度后字幕无法加载问题；
+3、支持记住视频字幕设置；
+4、支持记住视频音轨设置；
+5、修复音轨显示为空的问题；
+6、修复WebDAV反向代理时，二级目录读取失败问题；
+7、修复影片详情页文件名展示问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9246d6a9b76d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9246d6a9b76d&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其他版本自行去网易官网下载：&lt;code&gt;https://filmly.163.com/&lt;/code&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>布蕾4K v3.0.0 纯净版</title>
+        <link>https://kooshare.github.io/post/bulei4k300/</link>
+        <pubDate>Mon, 26 Aug 2024 17:46:42 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/bulei4k300/</guid>
+        <description>&lt;p&gt;近段时间比较热门的安卓手机端影视app，很流畅，画质也高，使用体验非常好；这个是去除广告的版本，无广告干扰看剧更爽。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/c9vR6MEDCJo3njy.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h2&gt;&lt;p&gt;去广告&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c81100b1edea&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c81100b1edea&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>洛雪音乐助手 v2.9.0 支持win&#43;Mac 全平台音乐</title>
+        <link>https://kooshare.github.io/post/luoxueyinyuezhushou290/</link>
+        <pubDate>Mon, 26 Aug 2024 17:42:28 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/luoxueyinyuezhushou290/</guid>
+        <description>&lt;p&gt;一款**支持全平台音乐无损下载与试听的软件，且支持Windows+Mac——**&lt;strong&gt;落雪音乐助手；&lt;/strong&gt;
+落雪音乐助手是一个基于 Electron + Vue 开发的音乐软件，包含Windows和macOS两大平台， 开发者是来自吾爱破解论坛的洛雪无痕；全网付费歌曲版权音乐下载软件。聚合大量音乐平台搜索接口，免费在线试听下载全网付费歌曲版权音乐。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/jpBtO2SEP9NXsI3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240826174315048&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;搜索是洛雪音乐助手的第一大功能，洛雪音乐助手整合了市场上主流音乐软件的搜索接口，也就是说在这里可以搜索到各大音乐库里的音乐。对于音乐迷来说，最令人开心的莫过于能下载无损音质音乐，所有下载的歌曲都保存在下载管理。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/zc9oAgULpdhYxkJ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240826174346610&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;并且落雪音乐助手还罗列出了各大音乐软件对应的各种榜单，比如热歌榜、飙升榜，方便用户根据自身喜好选择不同歌曲，告别选择恐惧；&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/EbQiewGgRMJK8lk.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240826174417127&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;v290&#34;&gt;v2.9.0
+&lt;/h4&gt;&lt;h3 id=&#34;新增&#34;&gt;新增
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;新增 设置-播放设置-是否将歌词显示在状态栏 设置，默认关闭，该功能只在 MacOS 下可用（#1940）&lt;/li&gt;
+&lt;li&gt;新增设置-播放详情页设置-延迟歌词滚动设置（#1985）&lt;/li&gt;
+&lt;li&gt;新增鼠标在音量按钮使用滚轮时可以调整音量大小的功能（#2000）&lt;/li&gt;
+&lt;li&gt;新增设置-下载设置-同时下载任务数设置（#1498）&lt;/li&gt;
+&lt;li&gt;新增 我的列表-歌曲右击菜单-歌曲换源 功能，换源后下次再播放该列表的该歌曲时将优先尝试播放所选源的歌曲，该功能允许你手动指定来源以解决自动换源失败或者换源不准确的问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;优化&#34;&gt;优化
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;优化侧栏图标显示，修复图标可能被裁切的问题（#1960）&lt;/li&gt;
+&lt;li&gt;托盘图标添加当前播放歌曲名字显示&lt;/li&gt;
+&lt;li&gt;优化本地歌曲内嵌封面过大时的加载方式&lt;/li&gt;
+&lt;li&gt;将下载歌曲的歌手信息中的分隔符从 &lt;code&gt;、&lt;/code&gt; 替换为 &lt;code&gt;;&lt;/code&gt; 以确保音乐元数据在写入时的兼容性和一致性（#1989 @qnnp-me）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;修复&#34;&gt;修复
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;修复 MacOS 下点击 dock 右键菜单的退出按钮时，程序没有退出的问题（#1923）&lt;/li&gt;
+&lt;li&gt;修复 OpenAPI 的 &lt;code&gt;lyricLineAllText&lt;/code&gt; 在切换到无歌词的音乐时内容没有更新的问题（#1925）&lt;/li&gt;
+&lt;li&gt;修复切换音源时可能出现切换死循环的问题&lt;/li&gt;
+&lt;li&gt;尝试修复某些情况下播放音频时，处于播放状态但是进度条不走的问题&lt;/li&gt;
+&lt;li&gt;修复程序目录路径存在 &lt;code&gt;#&lt;/code&gt; 或 &lt;code&gt;%&lt;/code&gt; 时，自定义源、托盘等图标异常的问题（#1997）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;变更&#34;&gt;变更
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;简化了应用退出行为，据测试，现在 linux 下，若启用了托盘，dock 右键菜单的 退出、关闭所有 之类的功能将不再退出程序，需改用托盘的退出按钮退出程序&lt;/li&gt;
+&lt;li&gt;现在如果在设置或者启动参数配置了代理服务，那么应用内的图片、音频加载，歌曲下载也将走代理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;其他&#34;&gt;其他
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;更新 electron 到 v30.4.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;自定义源的不兼容变更与新增内容源开发者需要看&#34;&gt;自定义源的不兼容变更与新增内容（源开发者需要看）
+&lt;/h3&gt;&lt;p&gt;自定义源的调用方式已改变：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;为了与移动端的调用方式统一，不再推荐使用 &lt;code&gt;window.lx&lt;/code&gt; 对象（移动端无&lt;code&gt;window&lt;/code&gt;对象），改用 &lt;code&gt;globalThis.lx&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;inited&lt;/code&gt; 事件不再需要传递 &lt;code&gt;status&lt;/code&gt; 属性，脚本运行过程中，在成功调用 &lt;code&gt;inited&lt;/code&gt; 事件之前的任何首次未捕获的错误都将视为初始化失败，所以现在若想人为让脚本初始化失败，直接抛出一个错误即可&lt;/li&gt;
+&lt;li&gt;新增 &lt;code&gt;globalThis.lx.env&lt;/code&gt; 属性，桌面端环境固定为 &lt;code&gt;desktop&lt;/code&gt;，移动端环境固定为 &lt;code&gt;mobile&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;新增 &lt;code&gt;globalThis.lx.currentScriptInfo&lt;/code&gt; 对象，可以从这里获取解析后的脚本头部注释信息及脚本原始内容，具体可用属性看文档说明&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;globalThis.lx.version&lt;/code&gt; 属性更新到 &lt;code&gt;2.0.0&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;自定义源不再使用&lt;code&gt;script&lt;/code&gt;标签的形式执行，若要获取脚本原始代码字符串需从 &lt;code&gt;globalThis.lx.currentScriptInfo.rawScript&lt;/code&gt; 属性获取&lt;/li&gt;
+&lt;li&gt;自定义源新增支持&lt;code&gt;local&lt;/code&gt;源的&lt;code&gt;musicUrl&lt;/code&gt;、&lt;code&gt;pic&lt;/code&gt;、&lt;code&gt;lyric&lt;/code&gt;的获取操作详情看自定义源文档说明&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;GitHub：https://github.com/lyswhut/lx-music-desktop/releases&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/1ce125cc4824&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/1ce125cc4824&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LX_Music v1.6.0 音乐播放器app</title>
+        <link>https://kooshare.github.io/post/lxmusic160/</link>
+        <pubDate>Mon, 26 Aug 2024 17:36:31 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/lxmusic160/</guid>
+        <description>&lt;p&gt;洛雪音乐，大家最先熟悉的是它的PC版本，KUL也一直在持续更新，那么其实落雪音乐也有安卓手机版本，同样是开源免费，而且音乐资源丰富。&lt;/p&gt;
+&lt;p&gt;落雪音乐app一款开源的免费音乐app，基于 React native 开发的音乐软件。软件界面清新，功能强大，内置多路音乐资源，几乎涵盖全网音乐。&lt;/p&gt;
+&lt;p&gt;软件支持pad等横屏,加上无需登陆，作者也没添加任何广告，所以体验是相当不错的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/QMEp4LgnFv9ReWj.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240826173743089&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;大家在图示中可以看到不少熟悉的平台，而且LXmusic也同步了各平台分类歌单。&lt;/p&gt;
+&lt;p&gt;软件在功能上除了最基本的海报、歌词显示之外，还新增了一个定时停止播放的功能。&lt;/p&gt;
+&lt;h3 id=&#34;v160&#34;&gt;v1.6.0
+&lt;/h3&gt;&lt;h3 id=&#34;新增&#34;&gt;新增
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;新增 我的列表-歌曲右击菜单-歌曲换源 功能，换源后下次再播放该列表的该歌曲时将优先尝试播放所选源的歌曲，该功能允许你手动指定来源以解决自动换源失败或者换源不准确的问题&lt;/li&gt;
+&lt;li&gt;新增 Scheme URL 调用支持，调用传参格式与PC端一致，详情看文档说明： &lt;a class=&#34;link&#34; href=&#34;https://lyswhut.github.io/lx-music-doc/mobile/scheme-url&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://lyswhut.github.io/lx-music-doc/mobile/scheme-url&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;v150&#34;&gt;v1.5.0
+&lt;/h3&gt;&lt;h3 id=&#34;新增-1&#34;&gt;新增
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;新增重复歌曲列表，可以方便移除我的列表中的重复歌曲，此列表会列出目标列表里歌曲名相同的歌曲，可在“我的列表”里的列表名菜单中使用（注：该功能与PC端的区别是可以点击歌曲名多选删除）&lt;/li&gt;
+&lt;li&gt;新增打开当前歌曲详情页菜单，可以在歌曲菜单中使用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;修复&#34;&gt;修复
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;修复潜在桌面歌词导致的崩溃问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;其他&#34;&gt;其他
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;更新 React native 到 v0.73.9&lt;/li&gt;
+&lt;li&gt;更新 exoplayer 到 v1.4.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;v142&#34;&gt;v1.4.2
+&lt;/h3&gt;&lt;h3 id=&#34;新增-2&#34;&gt;新增
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;新增 设置-基本设置-启动后打开播放详情界面 设置，默认关闭（#502 @mingcc7）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;修复-1&#34;&gt;修复
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;修复重复的数据初始化调用&lt;/li&gt;
+&lt;li&gt;修复导入歌单时可能会导致歌单数据存储异常的问题（#500）&lt;/li&gt;
+&lt;li&gt;修复数据存储管理在移除数据时可能出现移除失败的问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;变更&#34;&gt;变更
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;设置-播放设置-优先播放320k音质选项改为“优先播放的音质”，允许选择更高优先播放的音质，如果歌曲及音源支持的话（#487）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;其他-1&#34;&gt;其他
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;更新 React native 到 v0.73.8&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;v130&#34;&gt;v1.3.0
+&lt;/h3&gt;&lt;h3 id=&#34;新增-3&#34;&gt;新增
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;新增棕色主题“泥牛入海”&lt;/li&gt;
+&lt;li&gt;新增设置-基本设置-总是保留状态栏高度设置，如果在你的设备上出现软件可交互内容与状态栏内容显示重叠的情况，可以启用该设置以始终为系统状态栏保留空间&lt;/li&gt;
+&lt;li&gt;新增在线自定义源导入功能，允许通过http/https链接导入自定义源&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;优化&#34;&gt;优化
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;不再丢弃kg源逐行歌词（@helloplhm-qwq）&lt;/li&gt;
+&lt;li&gt;支持kw源排行榜显示大小（revert @Folltoshe #1460）&lt;/li&gt;
+&lt;li&gt;优化本地歌曲换源匹配机制&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;修复-2&#34;&gt;修复
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;修复mg歌词在某些情况下获取失败的问题&lt;/li&gt;
+&lt;li&gt;修复mg歌单搜索（@helloplhm-qwq）&lt;/li&gt;
+&lt;li&gt;修复kg最新评论无法获取的问题（@helloplhm-qwq）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;其他-2&#34;&gt;其他
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;更新 React native 到 v0.73.6&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;版本选择&#34;&gt;版本选择
+&lt;/h3&gt;&lt;p&gt;后缀armeabi-v7a：适合低版本安卓系统老旧配置低手机；&lt;/p&gt;
+&lt;p&gt;后缀arm64-v8a：一般及配置较高手机；&lt;/p&gt;
+&lt;p&gt;后缀universal：不清楚配置情况无脑选这个；&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f6044dcc6bfb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f6044dcc6bfb&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Womendedianshi321</title>
+        <link>https://kooshare.github.io/post/womendedianshi321/</link>
+        <pubDate>Mon, 26 Aug 2024 17:32:14 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/womendedianshi321/</guid>
+        <description>&lt;p&gt;开源软件我的电视(my-tv)，因极其流畅的体验获得许多用户的喜欢。由于开源的原因，现在已经出现了各种基于其修改的衍生版本。&lt;/p&gt;
+&lt;p&gt;今天这款也是其中之一，不仅有电视版，还出了手机专用的版本。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/F8YyGZrvKuaXcSt.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;我们的电视 TV v3.2.1/手机 v3.2.1-第1张图片-KUL&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/oVvktMBWLAEfQma.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;我们的电视 TV v3.2.1/手机 v3.2.1-第2张图片-KUL&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;手机版&#34;&gt;手机版
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/ZRe25X3ovYVUlmy.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240826174104969&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;v321&#34;&gt;v3.2.1
+&lt;/h3&gt;&lt;p&gt;修正回看期间切换清晰度
+切换清晰度增加提示&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e84c842e8369&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e84c842e8369&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Salt Player(椒盐音乐) v10.5.0-beta04 音乐播放器</title>
+        <link>https://kooshare.github.io/post/saltplayer1050beta4/</link>
+        <pubDate>Mon, 26 Aug 2024 17:27:39 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/saltplayer1050beta4/</guid>
+        <description>&lt;p&gt;在酷安拥有167万下载量的最强音乐播放器，&lt;strong&gt;不仅支持手机+车机，支持鸿蒙系统&lt;/strong&gt;，而且无需付费就能开启Pro版——椒盐音乐&lt;/p&gt;
+&lt;p&gt;椒盐音乐是一款 Android 平台的本地音乐播放软件，几乎支持全部音乐格式，支持多种音效，支持歌词、封面等等，使用体验绝对不比大厂付费音乐APP差。&lt;/p&gt;
+&lt;p&gt;本地音乐APP比在线音乐APP更好的地方就是绝对纯净，根本无广告。而且椒盐音乐竟然支持诚信开启Pro版。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/iG1aRH5467BYklp.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Salt Player(椒盐音乐) v10.5.0-beta04 音乐播放器-第2张图片-KUL&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;什么是诚信开启pro版&#34;&gt;什么是诚信开启Pro版？
+&lt;/h3&gt;&lt;p&gt;软件开通Pro版原本是需要10元的，但是开发大佬并没有强制，是采取自助且自愿的模式（其实算是打赏），付款之后，自己再点击开启Pro版；但其实，你不付费也照样可以开启Pro版（当然，觉得好用还是支持一下最好）。&lt;/p&gt;
+&lt;p&gt;Pro版开启方式：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/dcWQ5ZY4ls1jEJr.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;至于Pro版有哪些功能，大家可以自己去体验。&lt;/p&gt;
+&lt;p&gt;椒盐音乐APP是纯播放器，无任何音乐资源，所以需要自行下载音乐资源之后再导入使用。&lt;/p&gt;
+&lt;p&gt;软件的界面非常的美观，而且会根据封面的色彩产生流光元素，非常多的主题可以选择，还支持横屏模式和桌面歌词等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/tqTLr8uBys9zmpU.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;为什么要导入到椒盐音乐app&#34;&gt;为什么要导入到椒盐音乐APP？
+&lt;/h3&gt;&lt;p&gt;椒盐音乐可以对音乐资源进行智能音效优化，让您的音乐更加出色，软件内置多种音效设置。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/oeHkTsBfyLKX1qj.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;再一个，现在的官版音乐APP，无论哪一个，都把各种跟听歌没一点关系的东西塞进来，一个音乐APP硬要加入各种直播、短视频，最重要的是还有各种怎么也不能彻底关闭的广告推荐。&lt;/p&gt;
+&lt;p&gt;这些烦人的东西在本地音乐APP上绝对没有。&lt;/p&gt;
+&lt;p&gt;当然，本地音乐APP不好的地方也很明显，无任何音乐资源，需要自己下载，推荐使用KUL前几天发布的云听音乐来搭配使用，用云听下载音乐资源，然后导入到椒盐音乐。&lt;/p&gt;
+&lt;p&gt;椒盐音乐还是自适应设计，支持pad和车机。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/aM4UcksBwn15C6E.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;颜值和使用体验以及功能都是最强的音乐播放器，非常推荐爱音乐的小伙伴们。&lt;/p&gt;
+&lt;h3 id=&#34;1050-beta04-2024082301&#34;&gt;10.5.0-beta04-2024082301
+&lt;/h3&gt;&lt;p&gt;*公开测试版本，对比 10.5.0-beta02
+新增专辑视觉设计界面（查看歌曲专辑的封面/封底/艺术家图片）
+优化播放界面性能
+优化主界面列表滚动性能
+更新部分翻译文本
+修复一些崩溃问题
+修复在华为 Mate 30 Pro 上可能存在的获取状态栏高度崩溃问题
+修复在小米 Hyper OS 上调整小窗大小界面抽搐的问题
+修复在小米 Hyper OS 上可能获取状态栏高度过大的问题
+修复歌词界面设置 PRO 图标颜色错误的问题
+其他一些小优化&lt;/p&gt;
+&lt;h3 id=&#34;1050-beta02-2024081301&#34;&gt;10.5.0-beta02-2024081301
+&lt;/h3&gt;&lt;p&gt;*公开测试版本，对比 10.5.0-beta01
+添加对小米 Mix Flip 外屏的适配
+更新 Salt UI 2.0.6
+无障碍缩放调整为 0.5 ~ 2.0 倍
+优化日期文本秒数显示
+优化部分界面组件样式、主题色适配，完成旧版 Salt UI 的清理工作
+优化对部分特殊艺术家名称的适配
+优化无障碍界面
+修复修改播放队列歌曲数据后重启播放队列丢失的问题
+修复一些崩溃问题&lt;/p&gt;
+&lt;h3 id=&#34;1050-beta01-2024080601&#34;&gt;10.5.0-beta01-2024080601
+&lt;/h3&gt;&lt;p&gt;*公开测试版本，对比 10.4.4
+PRO 价格 CNY 18
+新增播放队列移除项目动画
+优化重写了播放队列底层
+优化文件夹界面加载速度提升稳定性
+优化对文件权限的访问性
+优化一些界面小细节
+优化显式指定可调节的应用大小
+优化重启软件随机播放队列不自动刷新
+优化专辑内容界面背景图圆角问题（目前在小米小窗上存在兼容性问题）
+修复重新在扫描音乐界面完整扫描歌曲自定义排序被重置的问题
+修复主页歌曲快速滚动延迟显示的问题
+修复释放播放器可能三星设备上崩溃的问题
+修复自定义歌曲排序第一项拖动会快速滚动的问题
+修复自定义歌曲排序向上拖动超过顶部会被打断的问题
+修复歌单界面非自定义歌曲排序模式下长按无法换出歌曲对话框的问题
+修复多次点开 DLNA 对话框设备项目会异常增加的问题
+修复自定义排序第一个项目拖动会抽搐一下的问题
+修复搜索框背景色未应用动态颜色主题的问题
+*为了清理老旧的代码，10.5.0-alpha02 开始将不支持直接从椒盐音乐 V7 迁移，会丢失歌单数据。若在使用椒盐音乐 V7 版本需要升级到 Salt Player 10.5.0-alpha02 及后续版本需要现升级到 V8 - Salt Player 10.5.0-alpha01 之间版本
+其他一些改进&lt;/p&gt;
+&lt;h3 id=&#34;1043-release-2024072401&#34;&gt;10.4.3-release-2024072401
+&lt;/h3&gt;&lt;p&gt;更新解码器 Monkey&amp;rsquo;s Audio SDK（APE） 10.74
+更新解码器 libOpus 1.4
+优化 Google Play 渠道激活和 Pro 界面
+修复在 Android 8.1 上的崩溃问题
+修复设置界面 Google Play 渠道图标颜色问题&lt;/p&gt;
+&lt;h3 id=&#34;1042-release-2024072001&#34;&gt;10.4.2-release-2024072001
+&lt;/h3&gt;&lt;p&gt;软件更新界面添加“去酷安下载”选项
+移除不必要的媒体控制权限
+优化标题、艺术家和专辑艺术家格式化适配
+修复允许解析歌词空行的问题
+修复意外的多时间戳最后匹配的问题
+修复在 Android 8.0 及以下系统崩溃的问题&lt;/p&gt;
+&lt;h3 id=&#34;1041-release-2024071703&#34;&gt;10.4.1-release-2024071703
+&lt;/h3&gt;&lt;p&gt;逻辑变更：
+*允许不规则封面功能将默认开启
+*开关允许不规则封面会立刻变化无需切歌
+*打开圆形播放界面不会影响允许不规则封面开关状态
+修复在一些低 Android 版本设备界面恢复后播放界面专辑封面丢失的问题
+更新语言翻译&lt;/p&gt;
+&lt;h3 id=&#34;1040-release-2024071601&#34;&gt;10.4.0-release-2024071601
+&lt;/h3&gt;&lt;p&gt;新增支持重复型时间戳
+优化艺术家分割和专辑分类（Guqin）
+优化歌词响应延迟
+修复在部分车机等系统上点击位置错位的问题&lt;/p&gt;
+&lt;h3 id=&#34;10210-release-2024042801&#34;&gt;10.2.10-release-2024042801
+&lt;/h3&gt;&lt;p&gt;修复歌词组件存在的崩溃问题
+修复全屏对话框在车机设备上的底部边距问题
+更新部分语言翻译&lt;/p&gt;
+&lt;h3 id=&#34;1027-release-2024040301&#34;&gt;10.2.7-release-2024040301
+&lt;/h3&gt;&lt;p&gt;DSD 转 PCM 增益现在可以在 0 - 12 dB 中选择
+优化 DSD 相关设置
+优化添加歌曲到歌单对话框
+优化歌词界面性能
+优化快速切换歌曲后台加载歌词性能延迟的问题
+修复部分界面存在的颜色问题
+修复对于部分字体歌词界面歌词文本绘制对齐问题&lt;/p&gt;
+&lt;h3 id=&#34;1026-release-2024032801&#34;&gt;10.2.6-release-2024032801
+&lt;/h3&gt;&lt;p&gt;重构了播放界面展开组件
+优化页面切换动画
+优化歌曲列表副标题显示
+修复卡拉 OK 歌词部分问题
+修复主页一些图标颜色问题
+修复调整屏幕大小播放界面可能会自动隐藏的问题
+修复实验室启动软件自动打开播放界面偶尔无效的问题
+修复播放界面横向滑动可能异常卡顿的问题
+修复歌词对西里尔字母的部分字符的换行&lt;/p&gt;
+&lt;h3 id=&#34;1025-release-2024032601&#34;&gt;10.2.5-release-2024032601
+&lt;/h3&gt;&lt;p&gt;优化播放界面展开性能和效果
+优化沉浸模式布局
+优化车机界面布局
+优化播放界面部分动画效果
+修复使用部分字体歌词界面歌词文本下部被裁切的问题
+修复在横屏/平板模式下页面边距问题
+修复卡拉 OK 歌词部分问题
+更新部分翻译文本&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/581d4269978a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/581d4269978a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Hugo部署到VPS服务器</title>
         <link>https://kooshare.github.io/post/hugobushuvps/</link>
         <pubDate>Mon, 26 Aug 2024 16:47:12 +0800</pubDate>
@@ -60,43 +590,6 @@
 	
 	
 &gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>OK影视2.4.9正式版,已内置接口</title>
-        <link>https://kooshare.github.io/post/okyingshi249/</link>
-        <pubDate>Mon, 26 Aug 2024 07:17:16 +0800</pubDate>
-        
-        <guid>https://kooshare.github.io/post/okyingshi249/</guid>
-        <description>&lt;p&gt;OK版最新的2.4.9版本&lt;/p&gt;
-&lt;h2 id=&#34;更新内容&#34;&gt;更新内容
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/oudeJ6U4RNawz7X.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;image-20240826071933059&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;版本区别&#34;&gt;版本区别
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/HZAWi7Mke4yx9Eu.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;image-20240826072117408&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;电视配置低的,优先选择4.X通用版&lt;/p&gt;
-&lt;p&gt;电视配置正常的.在5.0以上的,通用版和4.X通用版都可以选择&lt;/p&gt;
-&lt;p&gt;手机同理.低的用32位,高的32位和64位都可以选择&lt;/p&gt;
-&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f75391868e51&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://pan.quark.cn/s/f75391868e51&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>

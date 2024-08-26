@@ -7,7 +7,97 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 24 Aug 2024 09:50:11 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 26 Aug 2024 17:42:28 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>洛雪音乐助手 v2.9.0 支持win&#43;Mac 全平台音乐</title>
+        <link>https://kooshare.github.io/post/luoxueyinyuezhushou290/</link>
+        <pubDate>Mon, 26 Aug 2024 17:42:28 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/luoxueyinyuezhushou290/</guid>
+        <description>&lt;p&gt;一款**支持全平台音乐无损下载与试听的软件，且支持Windows+Mac——**&lt;strong&gt;落雪音乐助手；&lt;/strong&gt;
+落雪音乐助手是一个基于 Electron + Vue 开发的音乐软件，包含Windows和macOS两大平台， 开发者是来自吾爱破解论坛的洛雪无痕；全网付费歌曲版权音乐下载软件。聚合大量音乐平台搜索接口，免费在线试听下载全网付费歌曲版权音乐。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/jpBtO2SEP9NXsI3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240826174315048&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;搜索是洛雪音乐助手的第一大功能，洛雪音乐助手整合了市场上主流音乐软件的搜索接口，也就是说在这里可以搜索到各大音乐库里的音乐。对于音乐迷来说，最令人开心的莫过于能下载无损音质音乐，所有下载的歌曲都保存在下载管理。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/zc9oAgULpdhYxkJ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240826174346610&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;并且落雪音乐助手还罗列出了各大音乐软件对应的各种榜单，比如热歌榜、飙升榜，方便用户根据自身喜好选择不同歌曲，告别选择恐惧；&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/EbQiewGgRMJK8lk.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240826174417127&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;v290&#34;&gt;v2.9.0
+&lt;/h4&gt;&lt;h3 id=&#34;新增&#34;&gt;新增
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;新增 设置-播放设置-是否将歌词显示在状态栏 设置，默认关闭，该功能只在 MacOS 下可用（#1940）&lt;/li&gt;
+&lt;li&gt;新增设置-播放详情页设置-延迟歌词滚动设置（#1985）&lt;/li&gt;
+&lt;li&gt;新增鼠标在音量按钮使用滚轮时可以调整音量大小的功能（#2000）&lt;/li&gt;
+&lt;li&gt;新增设置-下载设置-同时下载任务数设置（#1498）&lt;/li&gt;
+&lt;li&gt;新增 我的列表-歌曲右击菜单-歌曲换源 功能，换源后下次再播放该列表的该歌曲时将优先尝试播放所选源的歌曲，该功能允许你手动指定来源以解决自动换源失败或者换源不准确的问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;优化&#34;&gt;优化
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;优化侧栏图标显示，修复图标可能被裁切的问题（#1960）&lt;/li&gt;
+&lt;li&gt;托盘图标添加当前播放歌曲名字显示&lt;/li&gt;
+&lt;li&gt;优化本地歌曲内嵌封面过大时的加载方式&lt;/li&gt;
+&lt;li&gt;将下载歌曲的歌手信息中的分隔符从 &lt;code&gt;、&lt;/code&gt; 替换为 &lt;code&gt;;&lt;/code&gt; 以确保音乐元数据在写入时的兼容性和一致性（#1989 @qnnp-me）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;修复&#34;&gt;修复
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;修复 MacOS 下点击 dock 右键菜单的退出按钮时，程序没有退出的问题（#1923）&lt;/li&gt;
+&lt;li&gt;修复 OpenAPI 的 &lt;code&gt;lyricLineAllText&lt;/code&gt; 在切换到无歌词的音乐时内容没有更新的问题（#1925）&lt;/li&gt;
+&lt;li&gt;修复切换音源时可能出现切换死循环的问题&lt;/li&gt;
+&lt;li&gt;尝试修复某些情况下播放音频时，处于播放状态但是进度条不走的问题&lt;/li&gt;
+&lt;li&gt;修复程序目录路径存在 &lt;code&gt;#&lt;/code&gt; 或 &lt;code&gt;%&lt;/code&gt; 时，自定义源、托盘等图标异常的问题（#1997）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;变更&#34;&gt;变更
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;简化了应用退出行为，据测试，现在 linux 下，若启用了托盘，dock 右键菜单的 退出、关闭所有 之类的功能将不再退出程序，需改用托盘的退出按钮退出程序&lt;/li&gt;
+&lt;li&gt;现在如果在设置或者启动参数配置了代理服务，那么应用内的图片、音频加载，歌曲下载也将走代理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;其他&#34;&gt;其他
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;更新 electron 到 v30.4.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;自定义源的不兼容变更与新增内容源开发者需要看&#34;&gt;自定义源的不兼容变更与新增内容（源开发者需要看）
+&lt;/h3&gt;&lt;p&gt;自定义源的调用方式已改变：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;为了与移动端的调用方式统一，不再推荐使用 &lt;code&gt;window.lx&lt;/code&gt; 对象（移动端无&lt;code&gt;window&lt;/code&gt;对象），改用 &lt;code&gt;globalThis.lx&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;inited&lt;/code&gt; 事件不再需要传递 &lt;code&gt;status&lt;/code&gt; 属性，脚本运行过程中，在成功调用 &lt;code&gt;inited&lt;/code&gt; 事件之前的任何首次未捕获的错误都将视为初始化失败，所以现在若想人为让脚本初始化失败，直接抛出一个错误即可&lt;/li&gt;
+&lt;li&gt;新增 &lt;code&gt;globalThis.lx.env&lt;/code&gt; 属性，桌面端环境固定为 &lt;code&gt;desktop&lt;/code&gt;，移动端环境固定为 &lt;code&gt;mobile&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;新增 &lt;code&gt;globalThis.lx.currentScriptInfo&lt;/code&gt; 对象，可以从这里获取解析后的脚本头部注释信息及脚本原始内容，具体可用属性看文档说明&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;globalThis.lx.version&lt;/code&gt; 属性更新到 &lt;code&gt;2.0.0&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;自定义源不再使用&lt;code&gt;script&lt;/code&gt;标签的形式执行，若要获取脚本原始代码字符串需从 &lt;code&gt;globalThis.lx.currentScriptInfo.rawScript&lt;/code&gt; 属性获取&lt;/li&gt;
+&lt;li&gt;自定义源新增支持&lt;code&gt;local&lt;/code&gt;源的&lt;code&gt;musicUrl&lt;/code&gt;、&lt;code&gt;pic&lt;/code&gt;、&lt;code&gt;lyric&lt;/code&gt;的获取操作详情看自定义源文档说明&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;GitHub：https://github.com/lyswhut/lx-music-desktop/releases&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/1ce125cc4824&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/1ce125cc4824&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>腾讯视频 11.101.1526 去广告绿色版</title>
         <link>https://kooshare.github.io/post/tengxunshipin1526/</link>
         <pubDate>Sat, 24 Aug 2024 09:50:11 +0800</pubDate>

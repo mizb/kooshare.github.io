@@ -7,7 +7,77 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 25 Aug 2024 08:22:24 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 26 Aug 2024 17:49:40 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>FilmlyTV v1.3.3 支持直连网盘视频自动匹配海报</title>
+        <link>https://kooshare.github.io/post/filmlytv/</link>
+        <pubDate>Mon, 26 Aug 2024 17:49:40 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/filmlytv/</guid>
+        <description>&lt;p&gt;许多人都有打造自己影视库的想法，加上越来越多的人使用网盘收藏资源，这些需求逐渐汇聚成了一个明确的市场趋势。于是，相应的产品也应运而生。&lt;/p&gt;
+&lt;p&gt;上个月，网易就推出了这么一款支持直连网盘资源并自动刮削封面海报、智能识别影片信息的播放器——Filmly，当时初上线还只有安卓手机的版本，许多电视迷还略感遗憾，没想到这么快电视版本就来了——FilmlyTV&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/AoBmJi9uKhaV2Wd.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;FilmlyTV v1.3.3 支持直连网盘视频自动匹配海报-第1张图片-KUL&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;这是网易推出的专为网盘资源打造的智能识别影片信息，自动刮削封面海报，优雅打造个人媒体库的播放器，这次是TV版。&lt;/p&gt;
+&lt;p&gt;Filmly播放器TV端目前不具备任何功能设置，所有设置都需要通过手机端来操作，所以，在使用TV时，需要先用手机端进行扫码登录。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/PgwC7UfsRukVtEe.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;FilmlyTV v1.3.3 支持直连网盘视频自动匹配海报-第2张图片-KUL&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;登录之后会自动同步手机端上导入的数据，你要做的就是直接使用就行。&lt;/p&gt;
+&lt;p&gt;非常简洁，匹配海报等信息之后能让你快速找到自己想看的内容，使用起来更有氛围感。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/G71UtmF6MIeJuDy.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;FilmlyTV v1.3.3 支持直连网盘视频自动匹配海报-第3张图片-KUL&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Filmly据说是通过AI技术自动识别影片的封面海报、演员、简介和评分等信息，并进行自动分类管理的，准确率还是有待进一步提升的，不过从这个产品的更新频率来看，后续应该是越来越好。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/26/kcpROKJShHAezl8.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;FilmlyTV v1.3.3 支持直连网盘视频自动匹配海报-第4张图片-KUL&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;支持跨平台使用。Filmly无论是在家中的智能电视、电脑，还是在外出时的手机或平板，都可以同步自己的影视库。&lt;/p&gt;
+&lt;p&gt;目前这个版本为公开测试的第一个版本，最低&lt;strong&gt;只支持安卓5.0版&lt;/strong&gt;本电视，据KUL了解，还有不少人是5.0以下的安卓系统，暂时比较遗憾了。&lt;/p&gt;
+&lt;p&gt;不过目前这个FilmlyTV还只是初步实现大屏影视库的效果，值得优化和提升的地方还有很多，比如加入搜索功能（这个非常重要），调用第三方播放器；之后还可以加入更详细的分类和评分信息等等。&lt;/p&gt;
+&lt;h3 id=&#34;v133&#34;&gt;v1.3.3
+&lt;/h3&gt;&lt;p&gt;1、修复字幕乱码问题；
+2、修复部分切换清晰度后字幕无法加载问题；
+3、支持记住视频字幕设置；
+4、支持记住视频音轨设置；
+5、修复音轨显示为空的问题；
+6、修复WebDAV反向代理时，二级目录读取失败问题；
+7、修复影片详情页文件名展示问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9246d6a9b76d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9246d6a9b76d&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其他版本自行去网易官网下载：&lt;code&gt;https://filmly.163.com/&lt;/code&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>FongMi和OK内置单仓,适配手机和电视TV,无需配置</title>
         <link>https://kooshare.github.io/post/dancangneizhi/</link>
         <pubDate>Sun, 25 Aug 2024 08:22:24 +0800</pubDate>
