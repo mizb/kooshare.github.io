@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html lang="zh-cn" dir="ltr">
 	<head><meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="纯净实用软件爱好收藏者"> <title>Category: 远程管理 - KUL藏宝库</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="Debian 安装 Hugo APT 安装的版本较老，所以去 Github 直接下载 .deb 包安装，要下载 extended 版本。 1 2 wget https://github.com/gohugoio/hugo/releases/download/v0.125.2/hugo_extended_0.125.2_linux-amd64.deb dpkg -i hugo_extended_0.125.2_linux-amd64.deb 安装完成后检查版本。 1 hugo version 运行 Hugo 把本机的 hugo 博客目录打包上传到"> <title>Hugo部署到VPS服务器</title>
 
-<link rel="canonical" href="https://kooshare.github.io/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/" />
+<link rel="canonical" href="https://kooshare.github.io/post/hugobushuvps/" />
 
-<link rel="stylesheet" href="/scss/style.min.f64c625c251f23e1a0ba7b106e4b729477ac4af61ade03fb25c749edb86be194.css"><meta property='og:title' content="Category: 远程管理 - KUL藏宝库">
-<meta property='og:description' content="纯净实用软件爱好收藏者">
-<meta property='og:url' content='https://kooshare.github.io/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/'>
+<link rel="stylesheet" href="/scss/style.min.f64c625c251f23e1a0ba7b106e4b729477ac4af61ade03fb25c749edb86be194.css"><meta property='og:title' content="Hugo部署到VPS服务器">
+<meta property='og:description' content="Debian 安装 Hugo APT 安装的版本较老，所以去 Github 直接下载 .deb 包安装，要下载 extended 版本。 1 2 wget https://github.com/gohugoio/hugo/releases/download/v0.125.2/hugo_extended_0.125.2_linux-amd64.deb dpkg -i hugo_extended_0.125.2_linux-amd64.deb 安装完成后检查版本。 1 hugo version 运行 Hugo 把本机的 hugo 博客目录打包上传到">
+<meta property='og:url' content='https://kooshare.github.io/post/hugobushuvps/'>
 <meta property='og:site_name' content='KUL藏宝库'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2024-08-26T16:47:12&#43;08:00 '/>
-<meta name="twitter:title" content="Category: 远程管理 - KUL藏宝库">
-<meta name="twitter:description" content="纯净实用软件爱好收藏者"><link rel="alternate" type="application/rss&#43;xml" href="https://kooshare.github.io/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/index.xml" />
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-08-26T16:47:12&#43;08:00'/><meta property='article:modified_time' content='2024-08-26T16:47:12&#43;08:00'/>
+<meta name="twitter:title" content="Hugo部署到VPS服务器">
+<meta name="twitter:description" content="Debian 安装 Hugo APT 安装的版本较老，所以去 Github 直接下载 .deb 包安装，要下载 extended 版本。 1 2 wget https://github.com/gohugoio/hugo/releases/download/v0.125.2/hugo_extended_0.125.2_linux-amd64.deb dpkg -i hugo_extended_0.125.2_linux-amd64.deb 安装完成后检查版本。 1 hugo version 运行 Hugo 把本机的 hugo 博客目录打包上传到">
 <link rel="shortcut icon" href="/favicon.ico" />
 
   
@@ -36,7 +36,9 @@
 
 
 	</head>
-	<body class="">
+	<body class="
+    article-page
+    ">
     <script>
         (function() {
             const colorSchemeKey = 'StackColorScheme';
@@ -266,61 +268,10 @@
     <aside class="sidebar right-sidebar sticky">
         
             
-                <form action="/page/search/" class="search-form widget" >
-        <p>
-            <label>搜索</label>
-            <input name="keyword" required placeholder="输入关键词..." />
-        
-            <button title="搜索">
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="10" cy="10" r="7" />
-  <line x1="21" y1="21" x2="15" y2="15" />
-</svg>
-
-
-
-            </button>
-        </p>
-    </form>
-            
-        
-            
-                <section class="widget archives">
+                
+    <section class="widget archives">
         <div class="widget-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-infinity" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <path d="M9.828 9.172a4 4 0 1 0 0 5.656 a10 10 0 0 0 2.172 -2.828a10 10 0 0 1 2.172 -2.828 a4 4 0 1 1 0 5.656a10 10 0 0 1 -2.172 -2.828a10 10 0 0 0 -2.172 -2.828" />
-</svg>
-
-
-
-        </div>
-        <h2 class="widget-title section-title">归档</h2>
-
-        
-        
-        
-        
-        
-        <div class="widget-archive--list">
-            <div class="archives-year">
-                    <a href="/page/archives/#2024">
-                        
-                            <span class="year">2024</span>
-                            <span class="count">1024</span>
-                        
-                    </a> 
-                </div>
-            
-        </div>
-    </section>
-            
-        
-            
-                <section class="widget tagCloud">
-    <div class="widget-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
   <line x1="5" y1="9" x2="19" y2="9" />
   <line x1="5" y1="15" x2="19" y2="15" />
@@ -330,129 +281,23 @@
 
 
 
-    </div>
-    <h2 class="widget-title section-title">分类</h2>
-
-    <div class="tagCloud-tags">
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
         
-            <a href="/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/" class="font_size_620">
-                电脑软件
-            </a>
-        
-            <a href="/categories/%E5%AE%89%E5%8D%93app/" class="font_size_342">
-                安卓APP
-            </a>
-        
-            <a href="/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/" class="font_size_139">
-                多媒体处理
-            </a>
-        
-            <a href="/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/" class="font_size_125">
-                办公软件
-            </a>
-        
-            <a href="/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/" class="font_size_76">
-                系统辅助
-            </a>
-        
-            <a href="/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/" class="font_size_40">
-                媒体播放
-            </a>
-        
-            <a href="/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/" class="font_size_38">
-                电视(盒子APP)
-            </a>
-        
-            <a href="/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/" class="font_size_34">
-                上传下载
-            </a>
-        
-            <a href="/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/" class="font_size_34">
-                操作系统
-            </a>
-        
-            <a href="/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/" class="font_size_30">
-                硬件工具
-            </a>
-        
-            <a href="/categories/%E7%94%B5%E8%84%91%E6%B8%B8%E6%88%8F/" class="font_size_25">
-                电脑游戏
-            </a>
-        
-            <a href="/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/" class="font_size_21">
-                浏览器
-            </a>
-        
-            <a href="/categories/%E5%A4%87%E4%BB%BD%E8%BF%98%E5%8E%9F/" class="font_size_19">
-                备份还原
-            </a>
-        
-            <a href="/categories/%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F/" class="font_size_18">
-                截图录屏
-            </a>
-        
-            <a href="/categories/%E6%A1%8C%E9%9D%A2%E8%BE%85%E5%8A%A9/" class="font_size_18">
-                桌面辅助
-            </a>
-        
-            <a href="/categories/windows-11/" class="font_size_17">
-                Windows 11
-            </a>
-        
-            <a href="/categories/%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2/" class="font_size_17">
-                格式转换
-            </a>
-        
-            <a href="/categories/%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6/" class="font_size_15">
-                聊天软件
-            </a>
-        
-            <a href="/categories/%E8%A7%A3%E5%8E%8B%E5%B0%81%E8%A3%85/" class="font_size_15">
-                解压封装
-            </a>
-        
-            <a href="/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/" class="font_size_15">
-                运行库
-            </a>
-        
-            <a href="/categories/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/" class="font_size_12">
-                激活工具
-            </a>
-        
-            <a href="/categories/windows-10/" class="font_size_11">
-                Windows 10
-            </a>
-        
-            <a href="/categories/%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D/" class="font_size_9">
-                数据恢复
-            </a>
-        
-            <a href="/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/" class="font_size_9">
-                远程管理
-            </a>
-        
-            <a href="/categories/%E6%95%99%E7%A8%8B/" class="font_size_8">
-                教程
-            </a>
-        
-            <a href="/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/" class="font_size_8">
-                虚拟机
-            </a>
-        
-            <a href="/categories/win-pe/" class="font_size_4">
-                Win PE
-            </a>
-        
-            <a href="/categories/hugo/" class="font_size_2">
-                Hugo
-            </a>
-        
-            <a href="/categories/windows-7/" class="font_size_2">
-                Windows 7
-            </a>
-        
-    </div>
-</section>
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#debian-安装-hugo">Debian 安装 Hugo</a></li>
+        <li><a href="#运行-hugo">运行 Hugo</a></li>
+      </ol>
+    </li>
+    <li><a href="#同步">同步</a></li>
+  </ol>
+</nav>
+        </div>
+    </section>
 
             
         
@@ -460,125 +305,204 @@
 
 
 			<main class="main full-width">
-    <header>
-        <h3 class="section-title">
-            
-                Categories
-            
-        </h3>
+    <article class="main-article">
+    <header class="article-header">
 
-        <div class="section-card">
-            <div class="section-details">
-                <h3 class="section-count">9 个页面</h3>
-                <h1 class="section-term">远程管理</h1>
-                
-            </div>
-        </div>
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E6%95%99%E7%A8%8B/" >
+                教程
+            </a>
+        
     </header>
     
-    <section class="article-list--compact">
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/hugobushuvps/">Hugo部署到VPS服务器</a>
+        </h2>
+    
         
-            <article>
-    <a href="/post/anydesk8013/">
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024-08-26</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <h3 id="debian-安装-hugo">Debian 安装 Hugo
+</h3><p>APT 安装的版本较老，所以去 <a class="link" href="https://github.com/gohugoio/hugo/releases"  target="_blank" rel="noopener"
+    >Github</a> 直接下载 .deb 包安装，要下载 extended 版本。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-cmd" data-lang="cmd"><span class="line"><span class="cl">wget https://github.com/gohugoio/hugo/releases/download/v0.125.2/hugo_extended_0.125.2_linux-amd64.deb
+</span></span><span class="line"><span class="cl">dpkg -i hugo_extended_0.125.2_linux-amd64.deb
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>安装完成后检查版本。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-cmd" data-lang="cmd"><span class="line"><span class="cl">hugo version
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="运行-hugo">运行 Hugo
+</h3><p>把本机的 hugo 博客目录打包上传到 VPS 上，在 hugo 目录运行：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-cmd" data-lang="cmd"><span class="line"><span class="cl">hugo server --appendPort=false --baseURL=<span class="s2">&#34;https://域名地址&#34;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>如果不加 –appendPort 参数会导致搜索无法使用。</p>
+<p>运行后会在 hugo 目录生成 public 目录，用 Nginx 配置的静态网站指向这个目录，再配置好证书就可以访问了。</p>
+<h2 id="同步">同步
+</h2><p>成功部署到 VPS 后发现想修改文章或者主题有点麻烦,可以安装 Syncthing 在服务器和本机上双向同步 Hugo 目录。</p>
+<p>这样修改了内容基本秒是同步的，记得排除掉 VPS 的 public/* 目录。</p>
+<p><img src="https://s2.loli.net/2024/08/26/qhtZiHUgJTlLC4m.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="syncthing-hugo"
+	
+	
+></p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/pingguohoujifangsaorao/">
+        
+        
+
         <div class="article-details">
-            <h2 class="article-title">AnyDesk 8.0.13 (远程桌面) 官方版</h2>
-            <footer class="article-time">
-                <time datetime='2024-08-21T23:38:34&#43;08:00'>2024-08-21</time>
-            </footer>
+            <h2 class="article-title">iphone苹果手机设置防骚扰,彻底解决广告骚扰电话</h2>
         </div>
     </a>
 </article>
+
+            
+                
+<article class="">
+    <a href="/post/sanlanlianjieyemian/">
         
-            <article>
-    <a href="/post/finalshell453/">
+        
+
         <div class="article-details">
-            <h2 class="article-title">FinalShell 4.5.3 (SSH工具) 绿色版</h2>
-            <footer class="article-time">
-                <time datetime='2024-08-21T23:09:18&#43;08:00'>2024-08-21</time>
-            </footer>
+            <h2 class="article-title">Hugo_stack修改“链接页面为三栏样式”</h2>
         </div>
     </a>
 </article>
+
+            
+                
+<article class="">
+    <a href="/post/stackshuanglangxianshi/">
         
-            <article>
-    <a href="/post/anydesk/">
+        
+
         <div class="article-details">
-            <h2 class="article-title">AnyDesk 8.0.12 (远程桌面) 官方版</h2>
-            <footer class="article-time">
-                <time datetime='2024-08-14T10:24:33&#43;08:00'>2024-08-14</time>
-            </footer>
+            <h2 class="article-title">Hugo_stack主题修改“归档页面为双栏显示”</h2>
         </div>
     </a>
 </article>
+
+            
+                
+<article class="">
+    <a href="/post/wangzhanyunxingshichang/">
         
-            <article>
-    <a href="/post/netsaranglvseban/">
+        
+
         <div class="article-details">
-            <h2 class="article-title">NetSarang Xshell 7 Build 0164 (SSH工具) 绿色版</h2>
-            <footer class="article-time">
-                <time datetime='2024-08-14T10:23:34&#43;08:00'>2024-08-14</time>
-            </footer>
+            <h2 class="article-title">Hugo页面底栏添加“网站运行时长”stack主题</h2>
         </div>
     </a>
 </article>
+
+            
+                
+<article class="">
+    <a href="/post/hugogoogleanalytics/">
         
-            <article>
-    <a href="/post/netsarang/">
+        
+
         <div class="article-details">
-            <h2 class="article-title">NetSarang Xshell 7 Build 0164 (SSH工具) 个人免费版</h2>
-            <footer class="article-time">
-                <time datetime='2024-08-14T10:22:28&#43;08:00'>2024-08-14</time>
-            </footer>
+            <h2 class="article-title">Hugo 添加 Google Analytics</h2>
         </div>
     </a>
 </article>
-        
-            <article>
-    <a href="/post/putty/">
-        <div class="article-details">
-            <h2 class="article-title">PuTTY 0.81 (SSH工具) 绿色版</h2>
-            <footer class="article-time">
-                <time datetime='2024-08-14T10:20:59&#43;08:00'>2024-08-14</time>
-            </footer>
+
+            
         </div>
-    </a>
-</article>
+    </div>
+</aside>
+
+     
+    
         
-            <article>
-    <a href="/post/bypass/">
-        <div class="article-details">
-            <h2 class="article-title">Bypass 分流抢票 1.16.25 (12306抢火车票) 绿色版</h2>
-            <footer class="article-time">
-                <time datetime='2024-08-14T10:19:22&#43;08:00'>2024-08-14</time>
-            </footer>
-        </div>
-    </a>
-</article>
-        
-            <article>
-    <a href="/post/nxshell/">
-        <div class="article-details">
-            <h2 class="article-title">NxShell 1.9.3 (SSH工具) 官方版</h2>
-            <footer class="article-time">
-                <time datetime='2024-08-14T10:17:51&#43;08:00'>2024-08-14</time>
-            </footer>
-        </div>
-    </a>
-</article>
-        
-            <article>
-    <a href="/post/finalshell/">
-        <div class="article-details">
-            <h2 class="article-title">FinalShell 3.9.2 (SSH工具) 绿色版</h2>
-            <footer class="article-time">
-                <time datetime='2024-08-14T10:16:45&#43;08:00'>2024-08-14</time>
-            </footer>
-        </div>
-    </a>
-</article>
-        
-    </section>
-<footer class="site-footer">
+    
+
+    <footer class="site-footer">
 	<section class="copyright">
 		&copy;  2024 KUL藏宝库
 	</section>
@@ -593,6 +517,84 @@
 	</section>
 </footer>
 
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
 </main>
 		</div>
 		<script 
