@@ -7,7 +7,98 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 27 Aug 2024 17:49:10 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 27 Aug 2024 21:46:02 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>洛雪音乐助手 v1.6.0 / v2.9.0 免费音乐聚合软件</title>
+        <link>https://kooshare.github.io/post/luxueyinyuezhushou160/</link>
+        <pubDate>Tue, 27 Aug 2024 21:46:02 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/luxueyinyuezhushou160/</guid>
+        <description>&lt;p&gt;洛雪音乐助手是一款基于 Electron + Vue 开发的免费开源音乐软件。支持 Windows、MacOS、Linux 平台；洛雪音乐助手聚合大量音乐平台接口，挖掘酷狗音乐歌单、酷我音乐排行榜，免费在线收听全网付费歌曲；支持自定义来源接口、下载歌词、专辑封面等。&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h2&gt;&lt;p&gt;Releases · lyswhut / lx-music-mobile
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/lyswhut/lx-music-mobile/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/lyswhut/lx-music-mobile/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Releases · lyswhut/lx-music-desktop
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/lyswhut/lx-music-desktop/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/lyswhut/lx-music-desktop/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LX Music
+&lt;a class=&#34;link&#34; href=&#34;https://lxmusic.toside.cn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://lxmusic.toside.cn/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;v1.6.0 Android
+新增 我的列表-歌曲右击菜单-歌曲换源 功能，换源后下次再播放该列表的该歌曲时将优先尝试播放所选源的歌曲，该功能允许你手动指定来源以解决自动换源失败或者换源不准确的问题
+新增 Scheme URL 调用支持，调用传参格式与PC端一致，详情看文档说明： &lt;a class=&#34;link&#34; href=&#34;https://lyswhut.github.io/lx-music-doc/mobile/scheme-url&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://lyswhut.github.io/lx-music-doc/mobile/scheme-url&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;v2.9.0 windows
+新增
+新增 设置-播放设置-是否将歌词显示在状态栏 设置，默认关闭，该功能只在 MacOS 下可用（#1940）
+新增设置-播放详情页设置-延迟歌词滚动设置（#1985）
+新增鼠标在音量按钮使用滚轮时可以调整音量大小的功能（#2000）
+新增设置-下载设置-同时下载任务数设置（#1498）
+新增 我的列表-歌曲右击菜单-歌曲换源 功能，换源后下次再播放该列表的该歌曲时将优先尝试播放所选源的歌曲，该功能允许你手动指定来源以解决自动换源失败或者换源不准确的问题&lt;/p&gt;
+&lt;p&gt;优化
+优化侧栏图标显示，修复图标可能被裁切的问题（#1960）
+托盘图标添加当前播放歌曲名字显示
+优化本地歌曲内嵌封面过大时的加载方式
+将下载歌曲的歌手信息中的分隔符从 、 替换为 ; 以确保音乐元数据在写入时的兼容性和一致性（#1989 @qnnp-me）&lt;/p&gt;
+&lt;p&gt;修复
+修复 MacOS 下点击 dock 右键菜单的退出按钮时，程序没有退出的问题（#1923）
+修复 OpenAPI 的 lyricLineAllText 在切换到无歌词的音乐时内容没有更新的问题（#1925）
+修复切换音源时可能出现切换死循环的问题
+尝试修复某些情况下播放音频时，处于播放状态但是进度条不走的问题
+修复程序目录路径存在 # 或 % 时，自定义源、托盘等图标异常的问题（#1997）&lt;/p&gt;
+&lt;p&gt;变更
+简化了应用退出行为，据测试，现在 linux 下，若启用了托盘，dock 右键菜单的 退出、关闭所有 之类的功能将不再退出程序，需改用托盘的退出按钮退出程序
+现在如果在设置或者启动参数配置了代理服务，那么应用内的图片、音频加载，歌曲下载也将走代理&lt;/p&gt;
+&lt;p&gt;其他
+更新 electron 到 v30.4.0&lt;/p&gt;
+&lt;h2 id=&#34;安卓预览&#34;&gt;安卓预览
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/Qcr7pfGnbBCZ3iO.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827214706257&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;pc-预览&#34;&gt;PC 预览
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/4ZMcGNk9yvo8HdQ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827214744336&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装提示&#34;&gt;安装提示
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;==============桌面版安装包说明==============&lt;/strong&gt;
+文件名带 win_ 或带 Setup 的是在 Windows 系统上运行的版本，
+其中以 Setup.exe 结尾的版本为安装版，带自动更新功能，可自动更新软件（但若你所在网络访问 GitHub 较慢，则可能会更新失败，这时需要手动下载安装包覆盖更新），
+以 green.7z 结尾的版本为免安装版，解压后可直接运行里面的 lx-music-desktop.exe，但自动更新功能不可用；
+带有 x64 的为64位的系统版本，带 x86 的为32位的系统版本；&lt;/p&gt;
+&lt;p&gt;从v2.5.0起，LX的默认 Windows 版不再支持 Win 7、8 系统，但考虑到仍然有许多人使用 Win 7，我们特别构建了能在 Win 7 上使用的免安装版（文件名带win7），
+需要注意的是win7版本将缺乏安全更新，若非必要情况，不要使用该版本；
+从v2.5.0起，LX的默认 Windows 版已不再提供32位的支持&lt;/p&gt;
+&lt;p&gt;注：绿色版（免安装版）已经被压缩成7z文件（以.7z结尾），需要用 解压软件 解压后才可以运行，
+若你的电脑没有解压缩软件，推荐使用这个软件：https://www.bandisoft.com/bandizip/old/6/&lt;/p&gt;
+&lt;p&gt;以 .dmg 结尾的文件为在 MAC 系统上运行的版本。
+注：带arm64名称的dmg安装包是给MAC M1用的。&lt;/p&gt;
+&lt;p&gt;以 .deb 结尾的文件为在 Linux 系统上运行的版本，软件还有 .rpm/AppImage/pacman 格式的 Linux 包，但没有上传到网盘，可自行到项目发布页面下载。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;==============移动版安装包说明==============&lt;/strong&gt;
+以 .apk 结尾的是安卓手机版，本网盘提供两种安卓版本，优先下载 arm64-v8a 版，若无法安装再下载 universal 版，
+另外还有 armeabi-v7a、x86_64等版本，但没有上传到网盘，若需要可自行到项目发布页面下载。&lt;/p&gt;
+&lt;p&gt;注：移动版不计划支持苹果设备。&lt;/p&gt;
+&lt;h2 id=&#34;应用下载&#34;&gt;应用下载
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/5b3d9510014c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/5b3d9510014c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>PotPlayer 240827(1.7.22314) 去广告绿色版(全能影音播放器)</title>
         <link>https://kooshare.github.io/post/potplayer22314/</link>
         <pubDate>Tue, 27 Aug 2024 17:49:10 +0800</pubDate>
