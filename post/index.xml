@@ -7,7 +7,152 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 27 Aug 2024 17:52:47 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 27 Aug 2024 18:14:21 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Topaz Photo AI v3.2.1 智能图片降噪软件</title>
+        <link>https://kooshare.github.io/post/topazphotoaiv321/</link>
+        <pubDate>Tue, 27 Aug 2024 18:14:21 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/topazphotoaiv321/</guid>
+        <description>&lt;p&gt;Topaz Photo AI 是一款专业的人工智能图片降噪软件。得益于Topaz公司AI算法，这款照片修复软件可以在修复照片的同时运用人工智能算法AI模型计算图片模糊部分，自动修复图片受损的细节，以增强图片画质。&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h2&gt;&lt;p&gt;快速入门指南 | Topaz Photo AI
+&lt;a class=&#34;link&#34; href=&#34;https://docs.topazlabs.com/photo-ai/quick-start&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.topazlabs.com/photo-ai/quick-start&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Topaz Photo AI topics - Topaz Discussion Forum
+&lt;a class=&#34;link&#34; href=&#34;https://community.topazlabs.com/c/releases/topaz-photo-ai/85&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://community.topazlabs.com/c/releases/topaz-photo-ai/85&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2024.04.11 v3.0 主要变化：
+- PhotoAI3全新颜色图标和跨平台外观设计
+- 允许使用预设包括过滤器设置和选择来处理
+- 控制面板支持悬浮停靠、右侧面板支持折叠
+- 基于AI滤镜调整RAW文件的色彩平衡和明暗
+- 面部恢复和保留文本现在可以多次应用于图片
+- 标准化UI框架更新，重新排序和组合增强功能&lt;/p&gt;
+&lt;h2 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h2&gt;&lt;p&gt;汉化：xzf吾爱
+- 汉化携版授权版，免登陆无输出水印
+- 集成全部离线模型数据，离线完整版
+- 修改模块彻底去掉软件升级提示弹窗&lt;/p&gt;
+&lt;p&gt;关于v2.4.0版本以后导入浏览图片出现程序闪退问题的解决办法？
+官方版部分系统环境也会这样，好像是软件不兼容部分NVIDIA显卡硬件加速导致！
+更新显卡驱动，点菜单编辑-&amp;gt;首选项-&amp;gt;通用-&amp;gt;AI处理器选择-&amp;gt;自动-&amp;gt;更改为CPU&lt;/p&gt;
+&lt;h2 id=&#34;应用预览&#34;&gt;应用预览
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/5XoYWcjduq8QmAJ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827181538524&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;系统要求&#34;&gt;&lt;strong&gt;系统要求&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Windows 10 或更高版 64位
+CPU：最低需要支持AVX指令的 Intel i3 或 AMD Ryzen 3 及更高版(3.0GHz+)
+显卡：最低需要支持 OpenGL 3.3 或更高版的 Nvidia GTX 740 或 AMD 5870&lt;/p&gt;
+&lt;h2 id=&#34;应用下载&#34;&gt;应用下载
+&lt;/h2&gt;&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;Topaz Photo AI 3.2.1 x64 (2024/08/26)
+&lt;a class=&#34;link&#34; href=&#34;https://downloads.topazlabs.com/deploy/TopazPhotoAI/3.2.1/TopazPhotoAI-3.2.1.msi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://downloads.topazlabs.com/deploy/TopazPhotoAI/3.2.1/TopazPhotoAI-3.2.1.msi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Topaz Photo AI 3.2.0 x64 (2024/08/08)
+&lt;a class=&#34;link&#34; href=&#34;https://downloads.topazlabs.com/deploy/TopazPhotoAI/3.2.0/TopazPhotoAI-3.2.0.msi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://downloads.topazlabs.com/deploy/TopazPhotoAI/3.2.0/TopazPhotoAI-3.2.0.msi&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;Topaz Photo AI v3.2.0 汉化开启码 by xzf
+Topaz Photo AI v1.2.0 中文绿色便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/5dbd72da92f1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/5dbd72da92f1&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;TopazPhotoAI 3.2.1 Patch by AlekseyPopovv (2024/08/23)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/37835110c749&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/37835110c749&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;TopazPhotoAI 1.5.5+ Patch by diablo2oo2&amp;rsquo;s (2023/09/06)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/38715c8de48c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/38715c8de48c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Autodesk Revit 2024.2.2 多国语言 特别版</title>
+        <link>https://kooshare.github.io/post/autodeskrevit202422/</link>
+        <pubDate>Tue, 27 Aug 2024 18:09:31 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/autodeskrevit202422/</guid>
+        <description>&lt;p&gt;Autodesk Revit 2024 是一款实用的BIM模型设计软件，Revit系列软件是为建筑信息模型(BIM)构建的，可帮助建筑设计师设计、建造和维护质量更好、能效更高的建筑，软件提供了丰富实用的功能模块，涵盖了建筑建模、结构建模、MEP建模、高级建模、分析、文档编制等。&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h2&gt;&lt;p&gt;Revit 2024 帮助 | Autodesk
+&lt;a class=&#34;link&#34; href=&#34;https://help.autodesk.com/view/RVT/2024/CHS/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://help.autodesk.com/view/RVT/2024/CHS/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Revit 2024 新特性 - Revit 2024 功能 - Autodesk 欧特克官网
+&lt;a class=&#34;link&#34; href=&#34;https://www.autodesk.com.cn/products/revit/new-features&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.autodesk.com.cn/products/revit/new-features&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Autodesk 产品教育版1年免费授权官网申请地址
+&lt;a class=&#34;link&#34; href=&#34;https://www.autodesk.com.cn/education/edu-software/overview?sorting=featured&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.autodesk.com.cn/education/edu-software/overview?sorting=featured&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;应用预览&#34;&gt;应用预览
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/GvsTideNCy3FpqR.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Autodesk Revit 2024.2.2 多国语言 特别版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;运行要求&#34;&gt;&lt;strong&gt;运行要求&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Revit2024-Revit2022：Windows 10 及更高版64位
+Revit2021/Revit2020：仅64位版开始不再提供32位
+Revit2019-Revit2021：Windows 7 及更高版64位&lt;/p&gt;
+&lt;h2 id=&#34;应用下载&#34;&gt;应用下载
+&lt;/h2&gt;&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;Autodesk Revit 2024.2.2 Update 2024年8月订阅更新补丁安装包
+&lt;a class=&#34;link&#34; href=&#34;https://up1.autodesk.com/NetSWCOM/prd/2024/RVT/41B10980-9B32-357E-A3FA-2FE2E443D3AC/Revit_2024_2_2.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://up1.autodesk.com/NetSWCOM/prd/2024/RVT/41B10980-9B32-357E-A3FA-2FE2E443D3AC/Revit_2024_2_2.exe&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Autodesk Revit 2024 G1 官方多国语言版完整离线安装包 (完整版)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://efulfillment.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_001_005.sfx.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://efulfillment.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_001_005.sfx.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://efulfillment.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_002_005.sfx.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://efulfillment.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_002_005.sfx.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://efulfillment.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_003_005.sfx.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://efulfillment.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_003_005.sfx.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://efulfillment.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_004_005.sfx.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://efulfillment.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_004_005.sfx.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://efulfillment.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_005_005.sfx.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://efulfillment.autodesk.com/NetSWDLD/2024/RVT/E7F68AA6-4954-3ACE-8543-D2FCC9B0A356/SFX/Revit_2024_G1_Win_64bit_dlm_005_005.sfx.exe&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Autodesk Revit LT 2024.2 Update 2023年11月订阅更新补丁安装包
+&lt;a class=&#34;link&#34; href=&#34;https://up.autodesk.com/2024/RVTLT/0AE4378F-D4CB-3104-A658-3FD4CAB530A8/RevitLT_2024_2_0.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://up.autodesk.com/2024/RVTLT/0AE4378F-D4CB-3104-A658-3FD4CAB530A8/RevitLT_2024_2_0.exe&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Autodesk Revit LT 2024 G1 官方多国语言版完整离线安装包 (简化版)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://efulfillment.autodesk.com/NetSWDLD/2024/RVTLT/E1B90D22-904A-35F3-A698-34A173D18ADF/SFX/RevitLT_2024_G1_Win_64bit_dlm_001_004.sfx.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://efulfillment.autodesk.com/NetSWDLD/2024/RVTLT/E1B90D22-904A-35F3-A698-34A173D18ADF/SFX/RevitLT_2024_G1_Win_64bit_dlm_001_004.sfx.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://efulfillment.autodesk.com/NetSWDLD/2024/RVTLT/E1B90D22-904A-35F3-A698-34A173D18ADF/SFX/RevitLT_2024_G1_Win_64bit_dlm_002_004.sfx.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://efulfillment.autodesk.com/NetSWDLD/2024/RVTLT/E1B90D22-904A-35F3-A698-34A173D18ADF/SFX/RevitLT_2024_G1_Win_64bit_dlm_002_004.sfx.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://efulfillment.autodesk.com/NetSWDLD/2024/RVTLT/E1B90D22-904A-35F3-A698-34A173D18ADF/SFX/RevitLT_2024_G1_Win_64bit_dlm_003_004.sfx.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://efulfillment.autodesk.com/NetSWDLD/2024/RVTLT/E1B90D22-904A-35F3-A698-34A173D18ADF/SFX/RevitLT_2024_G1_Win_64bit_dlm_003_004.sfx.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://efulfillment.autodesk.com/NetSWDLD/2024/RVTLT/E1B90D22-904A-35F3-A698-34A173D18ADF/SFX/RevitLT_2024_G1_Win_64bit_dlm_004_004.sfx.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://efulfillment.autodesk.com/NetSWDLD/2024/RVTLT/E1B90D22-904A-35F3-A698-34A173D18ADF/SFX/RevitLT_2024_G1_Win_64bit_dlm_004_004.sfx.exe&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;Autodesk Revit 2024.2.2 多国语言特别版 (Revit2024中文破解版)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/320e6dcf0b99&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/320e6dcf0b99&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;• 欧特克2024-2021系列网络许可管理器激活补丁简化步骤全自动通用版
+- 管理员身份运行AdskNLM.exe等待完毕, 启动软件-&amp;gt;选网络许可-&amp;gt;完
+- Autodesk NLM Cracked (MAGNiTUDE method) (2024/05/27)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0fa63a14053d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0fa63a14053d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>PowerISO v8.9.0 中文便携版(虚拟光驱软件)</title>
         <link>https://kooshare.github.io/post/powerisov890/</link>
         <pubDate>Tue, 27 Aug 2024 17:52:47 +0800</pubDate>
