@@ -7,7 +7,593 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 27 Aug 2024 01:35:56 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 27 Aug 2024 17:52:47 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PowerISO v8.9.0 中文便携版(虚拟光驱软件)</title>
+        <link>https://kooshare.github.io/post/powerisov890/</link>
+        <pubDate>Tue, 27 Aug 2024 17:52:47 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/powerisov890/</guid>
+        <description>&lt;p&gt;PowerISO中文版是一款虚拟光驱软件及强大的光盘映像文件制作软件，它能通过自带虚拟光驱的驱动器加载映像文件，用于制作映像、编辑提取、数据修改、转换格式、压缩加密、镜像刻录等处理。同时具有DISM工具,ESD/ISO/WIM/ESD格式转换工具，镜像文件写入U盘启动工具，支持ISO、BIN、IMG、DAA、WIM等各种常见文件类型。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/PKTe9p3WSjrCtHA.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827175314504&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/cbZXWDUArv925yN.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827175322445&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h1&gt;&lt;p&gt;PowerISO版本更新历史
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cHM6Ly9wb3dlcmlzby5jb20vY24vdHV0b3JpYWxzL2hpc3RvcnkuaHRt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://poweriso.com/cn/tutorials/history.htm&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支持几乎所有格式的光盘镜像文件&lt;/li&gt;
+&lt;li&gt;提取音轨到MP3, FLAC, APE文件&lt;/li&gt;
+&lt;li&gt;创建ISO镜像文件&lt;/li&gt;
+&lt;li&gt;从MP3, FLAC, APE等格式制作音乐光盘&lt;/li&gt;
+&lt;li&gt;刻录ISO镜像文件&lt;/li&gt;
+&lt;li&gt;处理ISO文件&lt;/li&gt;
+&lt;li&gt;支持多达23个虚拟光驱&lt;/li&gt;
+&lt;li&gt;制作启动U盘&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;poweriso-功能特点&#34;&gt;PowerISO 功能特点
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;支持几乎所有 CD/DVD/BD-ROM 映像文件格式（ISO、BIN、NRG、CDI、DAA 等）。&lt;/li&gt;
+&lt;li&gt;打开并提取 ISO 文件。您可以通过单击提取 ISO 文件。&lt;/li&gt;
+&lt;li&gt;将 ISO 文件刻录到 CD、DVD 或蓝光光盘。PowerISO 是一款专业的刻录软件。使用此工具，您可以创建音频 CD、数据 CD、数据 DVD、视频 DVD 或 VCD。PowerISO 还支持蓝光刻录。&lt;/li&gt;
+&lt;li&gt;从 MP3、FLAC、APE、WMA 或 BIN 文件刻录音频 CD。&lt;/li&gt;
+&lt;li&gt;将音频 CD 翻录为 MP3、FLAC、APE、WMA 或 BIN 文件。&lt;/li&gt;
+&lt;li&gt;从硬盘文件或 CD / DVD / BD 光盘创建 ISO 文件或 BIN 文件。&lt;/li&gt;
+&lt;li&gt;直接编辑 ISO 映像文件。&lt;/li&gt;
+&lt;li&gt;在 ISO / BIN 和其他格式之间转换图像文件。PowerISO 不仅可以将 BIN 转换为 ISO，还可以将几乎所有的图像文件格式转换为标准的 ISO 图像文件。&lt;/li&gt;
+&lt;li&gt;创建可启动的 USB 驱动器。PowerISO 允许您通过 USB 驱动器设置 Windows。&amp;raquo;更多详情&lt;/li&gt;
+&lt;li&gt;制作可启动的 ISO 文件并创建可启动的 CD、DVD 光盘。&lt;/li&gt;
+&lt;li&gt;支持 32 位和 64 位 Windows。&lt;/li&gt;
+&lt;li&gt;可以轻松使用。PowerISO 支持 shell 集成、上下文菜单、拖放、剪贴板复制粘贴…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;PowerISO中文破解版 v8.9.0 x64 绿色便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9b066c8c0f35&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9b066c8c0f35&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;PowerISO v8.9 Multilingual x86/x64 (2024/08/26)
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cDovL3d3dy5wb3dlcmlzby1taXJyb3IuY29tL1Bvd2VySVNPOC5leGU=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www.poweriso-mirror.com/PowerISO8.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cDovL3d3dy5wb3dlcmlzby1taXJyb3IuY29tL1Bvd2VySVNPOC14NjQuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www.poweriso-mirror.com/PowerISO8-x64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PowerISO KeyGen v1.1b – Kindly (2017/10/29)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/63584c754214&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/63584c754214&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PotPlayer 240827(1.7.22314) 去广告绿色版(全能影音播放器)</title>
+        <link>https://kooshare.github.io/post/potplayer22314/</link>
+        <pubDate>Tue, 27 Aug 2024 17:49:10 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/potplayer22314/</guid>
+        <description>&lt;p&gt;PotPlayer 去广告绿色版是一款优秀的高清视频播放器，它的前身是著名的KMPlayer。它可以播放大多数主流的视频、音频文件，并不需要额外安装第三方解码器。它强大的定制性与扩展能力让它成为播放高清影片的不二之选！Daum PotPlayer，免费全能影音播放器，堪称Windows平台最强本地视频播放器。PotPlayer播放器，拥有强劲播放引擎加速，支持DXVA, CUDA, QuickSync，多媒体播放器支持蓝光3D，内置强大的解码器及滤镜/分离器，支持自定义添加解码器，对字幕的支持非常优秀，能够兼容特效字幕及在线搜索字幕实时翻译。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/CUjZAdYvDgmfTOp.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827174943022&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/q524r793CIxHkeW.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827174956245&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;PotPlayer播放器是KMPlayer的制作者姜龙喜先生进入Daum公司后的新一代作品，目前主窗口在全力开发中。PotPlayer的优势在于强大的内置解码器；而KMPlayer 的优势在于强大的定制能力和个性化功能。&lt;/p&gt;
+&lt;p&gt;PotPlayer使用VC++ 编写，KMPlayer为Delphi 编写。是Daum 公司的一款网络播放器，有自己的独立著作权，并非由姜龙喜先生原创，目前由KMPlayer 的原始作者姜龙喜进行后续开发。&lt;/p&gt;
+&lt;h1 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h1&gt;&lt;p&gt;PotPlayer Version History – VideoHelp
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cHM6Ly93d3cuNDIzZG93bi5jb20vZ28ucGhwP3VybD1hSFIwY0hNNkx5OTNkM2N1ZG1sa1pXOW9aV3h3TG1OdmJTOXpiMlowZDJGeVpTOVFiM1JRYkdGNVpYSXZkbVZ5YzJsdmJpMW9hWE4wYjNKNQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.videohelp.com/software/PotPlayer/version-history&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PotPlayer v240827(1.7.22314) 正式版(2024/08/27)
+———————————————–
++ 添加 WEBP 格式到图像截取
++ 添加在图像源滤镜中将延迟时间设置为秒或更短的功能
++ 添加系统启动时自动运行功能
+– 修正快捷方式图标的大小设置无法反映的问题
+– 修正在某些情况下过滤重复文件设置被重置的问题
+– 修正使用某些编解码器播放时视频被识别为隔行扫描的问题
+– 修正使用 libVPX 8/9 解码时出现错误的问题
+– 修正播放 MP4 流时导航异常的问题
+– 修正浏览某些 FLV 文件速度缓慢的问题
+– 提高字幕输出速度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;去效验，去右下角空白广告弹窗！卸载可选备份设置&lt;/li&gt;
+&lt;li&gt;禁止后台联网请求：境外广告、发送日志、检查升级&lt;/li&gt;
+&lt;li&gt;集成额外的音频解码器及视频解码器组件：Open Codec for PotPlayer
+&lt;ul&gt;
+&lt;li&gt;DTS, MLP, TrueHD编码器Module\FFmpeg4\FFmpegMininum64.dll&lt;/li&gt;
+&lt;li&gt;S/W HEVC(H265)编码器PotPlayer\Module\FFmpeg4\FFmpeg64.dll&lt;/li&gt;
+&lt;li&gt;Intel H.264 MVC 3D编解码器库 PotPlayer\Module\libmfxsw(64).dll&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;预设配置：常规设置 + 默认启用自定义解码器H.265/HEVC及硬件加速
+&lt;ul&gt;
+&lt;li&gt;滤镜—视频解码器—内置解码器/DXVA设置—&amp;gt;使用硬件加速 (DXVA)&lt;/li&gt;
+&lt;li&gt;滤镜—视频解码器—内置解码器/DXVA设置—解码器—&amp;gt;H.265/HEVC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;删除TV直播列表, 登陆程序,日志管理, 消息通知, 多语言等不必要的文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;静默安装&#34;&gt;静默安装
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;# 无人值守静默安装参数：/ai /gm2（默认绝对路径C盘）&lt;/li&gt;
+&lt;li&gt;静默安装指定位置：/ai /gm2 /InstallPath=”自定义路径”&lt;/li&gt;
+&lt;li&gt;示例：软件包.exe /ai /gm2 /InstallPath=”D:\MyProgram”
+&lt;ul&gt;
+&lt;li&gt;常规运行=安装版（含开始菜单快捷方式和程序卸载项的快捷方式）&lt;/li&gt;
+&lt;li&gt;右键解压=绿色版（本身不提供便携式的软件要手动运行绿化处理）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f105484c1e42&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f105484c1e42&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;以下Global Potplayer官方所有链接访问需要梯子
+官方主页 &lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cHM6Ly90di5rYWthby5jb20vZ3VpZGUvcG90cGxheWVy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://tv.kakao.com/guide/potplayer&lt;/a&gt;
+历史版本 &lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cDovL2NhZmUuZGF1bS5uZXQvcG90LXRvb2wvQkhQVw==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://cafe.daum.net/pot-tool/BHPW&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PotPlayer Dev 测试版 //此为开发者调试版作者几乎每天晚上都会更新
+64位 &lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cDovL3QxLmRhdW1jZG4ubmV0L3BvdHBsYXllci9iZXRhL1BvdFBsYXllclNldHVwNjQuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://t1.daumcdn.net/potplayer/beta/PotPlayerSetup64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Daum PotPlayer 240827 (1.7.22314) Multilingual Stable 官方正式版（2024/08/27)
+64位 &lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cDovL3QxLmRhdW1jZG4ubmV0L3BvdHBsYXllci9Qb3RQbGF5ZXIvVmVyc2lvbi9MYXRlc3QvUG90UGxheWVyU2V0dXA2NC5leGU=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;额外的视频解码器组件 S/W HEVC(H.265) / Intel H.264 MVC Encoder
+64位 &lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cHM6Ly90MS5kYXVtY2RuLm5ldC9wb3RwbGF5ZXIvUG90UGxheWVyL0NvZGVjL3YxL09wZW5Db2RlY1NldHVwNjQuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://t1.daumcdn.net/potplayer/PotPlayer/Codec/v1/OpenCodecSetup64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;额外的音频解码器组件 DTS, MLP, TrueHD
+64位 &lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cHM6Ly90MS5kYXVtY2RuLm5ldC9wb3RwbGF5ZXIvUG90UGxheWVyL0NvZGVjL3YxL0ZGbXBlZ01pbmludW02NC5kbGw=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://t1.daumcdn.net/potplayer/PotPlayer/Codec/v1/FFmpegMininum64.dll&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PotPlayer64去模块效验补丁通用版（修改模块及美化关联格式图标必备补丁)
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cHM6Ly9sbXVzaWMubGFuem91ZS5jb20vaTZNbVIwZjN0MGdq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://lmusic.lanzoue.com/i6MmR0f3t0gj&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;先用去效验补丁修改，然后反汇编修改以下地方，去广告禁后台各种联网请求！&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Mod&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;jwsky&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;--&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;去除右下角广告弹窗&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;--&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cm&#34;&gt;/*提示：kakao.com和daum.net域名被墙及DNS污染，没开梯子看不到广告，但仍会跳右下角空白弹窗*/&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;搜索字符串：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;LastNotifyValue&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;，将关键词上面&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;jnz跳转的判断指令test&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ebx&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ebx&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;//改为xor ebx,ebx
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;下面字符串：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lastShowMark&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;、&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;startTime&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;、&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;startupAdvSec&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;//这些字符串地方跳转改为无条件改为jmp
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;--&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;禁后台联网广告请求&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;--&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;搜索字符串：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;p1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;play&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;edge4k&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;com&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;status&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;mi&#34;&gt;4883&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;??&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;????????&lt;/span&gt; &lt;span class=&#34;mo&#34;&gt;01&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;cmp&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;qword&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ptr&lt;/span&gt; &lt;span class=&#34;nl&#34;&gt;ds&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:[&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;xxxxxxxx&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;//1改为0
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;0F&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;85&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;????&lt;/span&gt;&lt;span class=&#34;mo&#34;&gt;0000&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;jne&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;potplayer64&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;xxxxxxxx&lt;/span&gt;   &lt;span class=&#34;err&#34;&gt;或者这里无条件&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;jmp&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;mi&#34;&gt;45&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;33F&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;6&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;xor&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;r14d&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;r14d&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;然后用&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;WinHex编辑器继续搜索以下关键词用十六进制改为Null&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mo&#34;&gt;00&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;填充&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;daum&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;net&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;recommendations&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;、&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;prohibit_words&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;json&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;、&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;adfit&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;html&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;play&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;kakao&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;com&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;svc&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;potplayer&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;page&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;chat&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;play&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;kakao&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;com&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;svc&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;potplayer&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;api&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;dns&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;--&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;禁后台联网上报数据&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;--&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;搜索字符串：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stat&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tiara&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;kakao&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;com&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;//领空改为ret
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;--&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;禁后台实时检测升级&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;--&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;搜索字符串：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;update_urls&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;两个跳转&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ja和je&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;改&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;nop&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（核心禁止联网升级）&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;搜索字符串：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;MajorVersion2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sig&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;上面&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Eng的test&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;al&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;al&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;改为&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;inc&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;al&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>CrystalDiskInfo v9.4.1 中文修订绿色便携版(硬盘检测工具)</title>
+        <link>https://kooshare.github.io/post/crystaldiskinfo941/</link>
+        <pubDate>Tue, 27 Aug 2024 17:45:12 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/crystaldiskinfo941/</guid>
+        <description>&lt;p&gt;CrystalDiskInfo，免费硬盘检测工具，硬盘健康状态硬盘信息检测工具。支持检测机械硬盘及固态硬盘信息，采用S.M.A.R.T.技术检测分析读取磁盘的详细信息，包含硬盘温度，固件、序列号、驱动器接口等。CrystalDiskInfo是由日本人hiyohiyo个人开发的小工具，能全面详细直观的检查硬盘的健康状态及各种参数。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/Ky8QknuY5SzlGMH.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827174539477&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/eof38IWFO4UpJHG.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827174548571&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h1&gt;&lt;p&gt;History – Crystal Dew World
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cHM6Ly9jcnlzdGFsbWFyay5pbmZvL2VuL3NvZnR3YXJlL2NyeXN0YWxkaXNraW5mby9jcnlzdGFsZGlza2luZm8taGlzdG9yeQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://crystalmark.info/en/software/crystaldiskinfo/crystaldiskinfo-history&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;主要特色&#34;&gt;主要特色
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;打开解压后得到的CrystalDiskInfo，在主页面的界面中即可看到有关计算机本机硬盘的所有相关信息。&lt;/li&gt;
+&lt;li&gt;在CrystalDiskInfo下方的列表中，可以看到硬盘的工作情况，以及各项数值是否健康，便于用户更快找到损坏点。&lt;/li&gt;
+&lt;li&gt;点击软件界面左侧的“健康状态”图标，在打开的新窗口中可以修改警告临界值，如果当健康状态超过临界值时，就会发出警告提醒用户。&lt;/li&gt;
+&lt;li&gt;点击顶部菜单栏中的“功能”按钮，在打开的下拉菜单中，将鼠标指向“警告功能”一栏，在子菜单中可以设置警告的方式。&lt;/li&gt;
+&lt;li&gt;在“功能”菜单中的“高级特征”栏中，可以对“”AAM/APM控制最重要。&lt;/li&gt;
+&lt;li&gt;这个功能如图所示，能够对硬盘的噪音和电源等属性进行设置，保证在使用计算机时，能够调节到最为合适的情况。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;CrystalDiskInfo v9.4.1 x86/x64 修订中文版(绿色单文件)
+更新中文翻译, 删除多语言和皮肤, 压缩PNG程序至2.4M&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d26706746e69&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d26706746e69&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CrystalDiskInfo 9.4.1 Multilingual (2024/08/27)
+CrystalDiskInfo Standard Edition（标准默认主题风格版）
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cHM6Ly9waG9lbml4bmFwLmRsLnNvdXJjZWZvcmdlLm5ldC9wcm9qZWN0L2NyeXN0YWxkaXNraW5mby85LjQuMS9DcnlzdGFsRGlza0luZm85XzRfMS56aXA/dmlhc2Y9MQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://phoenixnap.dl.sourceforge.net/project/crystaldiskinfo/9.4.1/CrystalDiskInfo9_4_1.zip?viasf=1&lt;/a&gt;
+CrystalDiskInfo Shizuku / KureiKei Edition（ 二次元萌妹风格版）
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cHM6Ly9waG9lbml4bmFwLmRsLnNvdXJjZWZvcmdlLm5ldC9wcm9qZWN0L2NyeXN0YWxkaXNraW5mby85LjQuMS9DcnlzdGFsRGlza0luZm85XzRfMVNoaXp1a3UuemlwP3ZpYXNmPTE=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://phoenixnap.dl.sourceforge.net/project/crystaldiskinfo/9.4.1/CrystalDiskInfo9_4_1Shizuku.zip?viasf=1&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cHM6Ly9waG9lbml4bmFwLmRsLnNvdXJjZWZvcmdlLm5ldC9wcm9qZWN0L2NyeXN0YWxkaXNraW5mby85LjQuMS9DcnlzdGFsRGlza0luZm85XzRfMUt1cmVpS2VpLnppcD92aWFzZj0x&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://phoenixnap.dl.sourceforge.net/project/crystaldiskinfo/9.4.1/CrystalDiskInfo9_4_1KureiKei.zip?viasf=1&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>雷电模拟器9.0 v9.0.76.2 去广告纯净版</title>
+        <link>https://kooshare.github.io/post/leidianmoniqi0762/</link>
+        <pubDate>Tue, 27 Aug 2024 17:38:14 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/leidianmoniqi0762/</guid>
+        <description>&lt;p&gt;雷电模拟器非常不错，也是分享迷一直在用的安卓模拟器，经常会用来测试软件；之前给大家分享过雷电的3.0版本，那么自从安卓9.0出来之后，雷电也推出了其基于9.0系统的版本。&lt;/p&gt;
+&lt;p&gt;雷电模拟器9是基于安卓9内核开发的全新版本模拟器，具备强大的游戏兼容性和系统兼容性，能够稳定运行市面上万款热门手游，带你感受更快的速度、更完美的操控体验！且全面升级了Android 9 作业系统，将32位和64位元框架合并，有着比以往更快的启动速度，更低的电脑资源占用。&lt;/p&gt;
+&lt;p&gt;支持OpenGL3.1模式3D渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/nPJ9iGvDj48xwfc.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827173850150&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/OLP38dmjpyV6gwU.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827173857777&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;@423down&lt;/p&gt;
+&lt;p&gt;1.去启动界面广告、去任务栏右下角通知区域游戏弹窗
+2.去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为）
+3.去桌面底部广告（桌面主屏幕内下方5个内置游戏推广应用）
+4.拒绝后台广告数据下载请求 %AppData%\Leidian9\Cache
+5.拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为
+6.免安装净化处理，删除资讯广告程序、上传组件、错误报告文件
+7.禁止点击主界面顶部的远程控制(无界趣连)按钮下载软件安装包
+8.删除系统镜像内置短信app，提供面具(Magisk)及LSPosed框架&lt;/p&gt;
+&lt;p&gt;**
+**&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;● 如何启用ROOT权限？&lt;/strong&gt;
+界面-设置-其它-root权限-启用即可&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;● 如何只更新去广告后的系统镜像呢？&lt;/strong&gt;
+只需下载去广告版提取镜像文件替换到以下位置
+├—LDPlayer9\system.vmdk, vms\system.vmdk&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;● 雷电模拟器9.0、雷电模拟器4.0 和 3.x 有什么区别？&lt;/strong&gt;
+# 主要指的安卓系统镜像Android版本不同(system.vmdk)：
+﹂9.0：Android 9-x86_64 (64位版，64位指的安卓系统版本)
+﹂4.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64位版)
+﹂3.x：Android 5.1.2-x86
+# 所有版本都兼容ARM库，可共存使用支持各版无限多开运行&lt;/p&gt;
+&lt;h3 id=&#34;v90762&#34;&gt;v9.0.76.2
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;修复了近期的模拟器版本，部分游戏会闪退的问题。&lt;/li&gt;
+&lt;li&gt;修复了《冒险岛：枫之传说》有概率卡死的问题。&lt;/li&gt;
+&lt;li&gt;修复了《色块大作战》角色显示成黑影的问题。&lt;/li&gt;
+&lt;li&gt;修复了部分情况下模拟器启动失败的问题。&lt;/li&gt;
+&lt;li&gt;修复了“滑动轨迹”按键滑动速度过慢的问题。&lt;/li&gt;
+&lt;li&gt;修复了安装APK时，安装包扫描时间过长的问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;v90750&#34;&gt;v9.0.75.0
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;小游戏专区上线，一键秒玩无需下载。&lt;/li&gt;
+&lt;li&gt;修复了浏览器无法下载QQ的问题。&lt;/li&gt;
+&lt;li&gt;修复了荣耀渠道闪退的问题。&lt;/li&gt;
+&lt;li&gt;优化了adb可能连接不上的问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;v90734&#34;&gt;v9.0.73.4
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;新增了“安全守护”功能，安装APK时自动识别风险应用，保护个人信息安全与模拟器系统稳定。&lt;/li&gt;
+&lt;li&gt;修复了APK安装失败时，错误原因描述不准确的问题。&lt;/li&gt;
+&lt;li&gt;修复了部分情况下，模拟器启动会卡30%的问题。&lt;/li&gt;
+&lt;li&gt;修复了部分游戏的iOS登录有概率失效的问题。&lt;/li&gt;
+&lt;li&gt;修复了一些bug，改进用户体验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;v90731&#34;&gt;v9.0.73.1
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;修复了部分情况下，模拟器启动会卡30%的问题。&lt;/li&gt;
+&lt;li&gt;进一步优化了部分游戏的iOS登录有概率失效的问题。&lt;/li&gt;
+&lt;li&gt;修复了一些bug，改进用户体验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;v90725&#34;&gt;v9.0.72.5
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;优化了App同步手机功能，支持把模拟器上的游戏和应用传到手机使用。&lt;/li&gt;
+&lt;li&gt;优化了模拟器扫码下载游戏的提示。&lt;/li&gt;
+&lt;li&gt;优化了安装APK时的性能占用。&lt;/li&gt;
+&lt;li&gt;修复了一些bug，改进用户体验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/79759a584695&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/79759a584695&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜狗输入法电脑版 v14.8.0.9884 精简纯净版</title>
+        <link>https://kooshare.github.io/post/sougoushurufa9884/</link>
+        <pubDate>Tue, 27 Aug 2024 17:34:29 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/sougoushurufa9884/</guid>
+        <description>&lt;p&gt;搜狗输入法，以前可以说是装机必备软件，其打字准、词库全、功能强大、使得输入更高效。只可惜，后期随着不断更新，该软件变得越来越臃肿，广告也越来越多。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;那么今天给大家分享一款去广告免升级精简版本。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/J6swcRHL574lKrt.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827173459554&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;特点说明&#34;&gt;特点说明
+&lt;/h4&gt;&lt;p&gt;* 去广告，精简优化，免升级，有效阻止程序相关广告弹窗！
+* 纯净无广告，无多余干扰提示，默认无不必要联网程序驻留！
+* 默认阻止检测升级请求、下载释放广告程序收集相关信息推送广告行为
+* 可选：云计算候选、词库更新及账户配置同步、工具箱和扩展管理器组件
+* 删除：所有搜狗广告程序（广告获取模块、搜狐新闻弹窗、勋章推荐弹窗）
+* 删除：搜索提示, 网址直达, 修复器, 核心服务, 网络更新, 辅助工具, 崩溃反馈等文件
+* 删除：图片表情, 人工语音, 皮肤推荐, 皮肤盒子/flash皮肤等，可在工具箱安装扩展
+* 取消：搜索候选, 节日/皮肤推荐/flash皮肤模式, 词条/升级/新勋章/活跃天数等提示
+* 安装程序：支持Windows 10 Metro模式，32位和64位系统，支持检测可覆盖安装&lt;/p&gt;
+&lt;p&gt;注：如果不启用防火墙勾选组件：词库更新及账户同步程序安装，后续会有升级提示！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;# 如何启用语音输入和手写输入？&lt;/strong&gt;
+1、安装 -&amp;gt;选择要安装的组件-&amp;gt;勾选工具箱及扩展管理器组件
+2、在开始菜单-搜狗输入法-输入法扩展管理器，安装启用组件&lt;/p&gt;
+&lt;h4 id=&#34;新版特点&#34;&gt;新版特点
+&lt;/h4&gt;&lt;p&gt;修复部分已知问题&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;医生版，有很多医学类相关的词库&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c799962e20f9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c799962e20f9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>X浏览器 4.8.1 GooglePlay</title>
+        <link>https://kooshare.github.io/post/xliulanqi481/</link>
+        <pubDate>Tue, 27 Aug 2024 17:31:28 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/xliulanqi481/</guid>
+        <description>&lt;p&gt;X浏览器是一款无新闻，无推送，无后台，小而强大的手机浏览器；作者本身是一个极简主义者,喜欢简单极致的产品，所以在产品的的开发设计过程正中一直遵循保持简单极致的原则，回归浏览器本质，还你一个纯粹的手机浏览器。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/3tVez7EM48QnHUN.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827173159851&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;资源嗅探&#34;&gt;资源嗅探
+&lt;/h4&gt;&lt;p&gt;强大的资源嗅探能力，轻松下载保存网络资源，图片，音频，视频一个都不能少。&lt;/p&gt;
+&lt;h4 id=&#34;极速轻便&#34;&gt;极速轻便
+&lt;/h4&gt;&lt;p&gt;不足1M大小,占用极少资源，启动秒开&lt;/p&gt;
+&lt;h4 id=&#34;安全隐私&#34;&gt;安全隐私
+&lt;/h4&gt;&lt;p&gt;提供了丰富的隐私设置选项，最大限度的保护用户数据安全及隐私.&lt;/p&gt;
+&lt;h4 id=&#34;极简绿色&#34;&gt;极简绿色
+&lt;/h4&gt;&lt;p&gt;极简干净整洁的界面交互，无新闻，无推送，无后台服务，省流省电&lt;/p&gt;
+&lt;h4 id=&#34;个性化&#34;&gt;个性化
+&lt;/h4&gt;&lt;p&gt;非常多的个性化配置选项，总能调教的适合你的口味&lt;/p&gt;
+&lt;h4 id=&#34;扩展插件&#34;&gt;扩展插件
+&lt;/h4&gt;&lt;p&gt;支持油猴脚本、JS脚本、本地扩展，按需提升浏览器能力&lt;/p&gt;
+&lt;h3 id=&#34;v481-874-正式版&#34;&gt;v4.8.1 874 正式版
+&lt;/h3&gt;&lt;p&gt;- 升级至Android API LEVEL 35 提升安全级别
+- 视频全屏支持双击&amp;quot;暂停/播放&amp;quot;手势
+- 油猴脚本显示最后更新时间
+- 全屏模式呼出工具栏支持浮动按钮和下拉手势两种方式。 (浏览器设置》外观/定制)
+- 优化自动填充，修复某些情况下填写字段错误的问题
+- 移除了搜狗内置搜索链接（如需要，请自行重新添加自定义)
+- 文件导入拦截规则，规则名称使用原文件的名称
+- 修复默认浏览器UA存在的不兼容的问题
+- 修复了油猴脚本引擎的一些兼容性问题
+- 修复某些情况下下载无法获取正确文件名的问题。
+- 修复从文件导入拦截规则，需要重现启动浏览器才能生效的问题
+- 修复某些情况下无法同步用户名密码问题
+- 修复某些情况下桌面模式无法生效的问题。
+- 修复某些情况下图片下载失败的问题
+- 修复某些情况下在超级缓存模式下载失败的问题。
+- 修复禁用通知权限后，不断提示&amp;quot;request permit failed&amp;quot;的问题。
+- 修复网页无法启动抖音app的问题&lt;/p&gt;
+&lt;h3 id=&#34;v480-870&#34;&gt;v4.8.0 870
+&lt;/h3&gt;&lt;p&gt;- 升级至Android API LEVEL 35 提升安全级别
+- 视频全屏支持双击&amp;quot;暂停/播放&amp;quot;手势
+- 油猴脚本显示最后更新时间
+- 全屏模式呼出工具栏支持浮动按钮和下拉手势两种方式。 (浏览器设置》外观/定制)
+- 优化自动填充，修复某些情况下填写字段错误的问题
+- 移除了搜狗内置搜索链接（如需要，请自行重新添加自定义)
+- 文件导入拦截规则，规则名称使用原文件的名称
+- 修复默认浏览器UA存在的不兼容的问题
+- 修复了油猴脚本引擎的一些兼容性问题
+- 修复某些情况下下载无法获取正确文件名的问题。
+- 修复从文件导入拦截规则，需要重现启动浏览器才能生效的问题
+- 修复某些情况下无法同步用户名密码问题
+- 修复某些情况下桌面模式无法生效的问题。
+- 修复某些情况下图片下载失败的问题
+- 修复某些情况下在超级缓存模式下载失败的问题。
+- 修复禁用通知权限后，不断提示&amp;quot;request permit failed&amp;quot;的问题。
+- 修复网页无法启动抖音app的问题&lt;/p&gt;
+&lt;h3 id=&#34;v480&#34;&gt;v4.8.0
+&lt;/h3&gt;&lt;p&gt;- 升级至Android API LEVEL 35 提升安全级别
+- 视频全屏支持双击&amp;quot;暂停/播放&amp;quot;手势
+- 油猴脚本显示最后更新时间
+- 全屏模式呼出工具栏支持浮动按钮和下拉手势两种方式。 (浏览器设置》外观/定制)
+- 修复了油猴脚本引擎的一些兼容性问题
+- 优化自动填充，修复某些情况下填写字段错误的问题
+- 移除了搜狗内置搜索链接
+- 修复禁用通知权限后，不断提示&amp;quot;request permit failed&amp;quot;的问题。
+- 修复网页无法启动抖音app的问题&lt;/p&gt;
+&lt;h3 id=&#34;v471&#34;&gt;v4.7.1
+&lt;/h3&gt;&lt;p&gt;- 优化媒体嗅探，解决某些情况下媒体资源无法嗅探成功的问题
+- 修复了下载到私有目录文件无法“分享/发送”的问题。
+- 修复了某些情况下导致下载失败的问题。
+- 修复了某些情况下剪贴板内容无法更新到网址建议中的问题。&lt;/p&gt;
+&lt;h3 id=&#34;v470-build-857-正式版&#34;&gt;v4.7.0 build 857 正式版
+&lt;/h3&gt;&lt;p&gt;- 修复上个版本某些情况下可能产生崩溃的问题。&lt;/p&gt;
+&lt;h3 id=&#34;v462&#34;&gt;v4.6.2
+&lt;/h3&gt;&lt;p&gt;- 全屏模式的交互模式改为浮动按钮的形式
+- 全屏模式隐藏状态栏/导航栏，更大的阅读视野。
+- 优化资源嗅探，提升资源嗅探的成功率，没有嗅探到资源自动进行深度嗅探
+- 网址建议自动从剪贴板内容解析出网址。
+- 移除了&amp;quot;自动嗅探媒体资源&amp;quot; 选项。
+- 修复复制内容后，网址建议剪贴板不能时时更新的问题
+- 修复了某些情况下个别拦截规则会导致误杀的问题。
+- 修复某些设备在杀掉浏览器应用时无法恢复上次打开的标签的问题&lt;/p&gt;
+&lt;h3 id=&#34;v462-1&#34;&gt;v4.6.2
+&lt;/h3&gt;&lt;p&gt;- 改善油猴的兼容性问题，新增urlchange事件的支持。
+- 修正了可能违反 GooglePlay 开发者协议的潜在问题&lt;/p&gt;
+&lt;h3 id=&#34;v461&#34;&gt;v4.6.1
+&lt;/h3&gt;&lt;p&gt;- 支持备份/保存打开的标签到书签目录
+- 优化前进后退手势，解决页面元素水平滚动和左右滑动手势的冲突
+- 修复一些可能存在安全隐患的问题
+- 解决某些情况下垂直滚动标签列表容易误删除标签的问题
+- 可以通过 关闭&amp;quot;显示拦截提示消息&amp;quot;选项禁用“阻止了跳转第三方网站”的提醒信息。
+- 修复了清除应用缓存导致页面工具脚本菜单图标不显示的问题。
+- 修复了修改书签目录名称导致添加书签待选目录没有同步更新的问题
+- 修复了收藏/历史favicon只显示主域名图标的问题&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/264f96361388&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/264f96361388&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>人民日报电子阅报栏 v2.6.1161 电视看报</title>
+        <link>https://kooshare.github.io/post/dianziyuebao/</link>
+        <pubDate>Tue, 27 Aug 2024 17:23:40 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/dianziyuebao/</guid>
+        <description>&lt;p&gt;在那个没有智能手机、没有互联网的年代里，我们了解外界信息的主要途径就是报纸。&lt;/p&gt;
+&lt;p&gt;如今，虽然我们已经生活在信息爆炸的时代，可以随时随地通过手机、电脑获取各种新闻和资讯，但那份对报纸的深情和怀念却永远无法替代。&lt;/p&gt;
+&lt;p&gt;那么今天，分享迷要给大家分享一款由人民日报推出的TV版报纸，让你用大屏的方式享受阅读报纸的体验——人民日报电子阅报栏TV&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/9Z4VTbvKwUON5my.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827172417445&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;人民日报电子阅报栏TV，是人民日报为了适应时代的发展，结合现代科技而精心开发出来的产品。专为电视端开发，当然也适合手机使用。&lt;/p&gt;
+&lt;p&gt;当你打开这款软件，它默认显示的就是今日的新闻，然后通过遥控器上下键就可以选择要听的新闻。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/NIUB4V5CD9E3xRs.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827172431268&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;可听可看&lt;/p&gt;
+&lt;p&gt;所有新闻都会进行朗读，所以你不必盯着屏幕来看。只需静下心来，用耳朵去聆听，就能获取到最新的新闻资讯。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/dmOLo9GFybq3E6i.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827172841872&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;如果想体验传统的看报体验，那么选择左边的报纸，就会进入全屏模式，你可以像翻阅真实的报纸一样，一页一页地浏览新闻。而按下遥控器的“OK键”，还能放大报纸进行查看，让你感受到每一个字、每一张图片的细腻与真实。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/LTVfRhtjDUwqxiO.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827172855830&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;使用遥控器的菜单键可以呼出期刊列表，你可以选择查看往期的内容。&lt;/p&gt;
+&lt;p&gt;报纸所带给我们的，不仅仅是新闻本身，更是一种阅读的仪式感；而人民日报电子阅报栏TV版，不仅是一款产品，更是一种情怀的延续。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a84127cccd6d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a84127cccd6d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Finalshell4.3.10版本激活高级版专业版教程</title>
         <link>https://kooshare.github.io/post/finalshell4310zhuanyeban/</link>
         <pubDate>Tue, 27 Aug 2024 01:35:56 +0800</pubDate>

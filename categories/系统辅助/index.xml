@@ -7,7 +7,270 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 25 Aug 2024 22:54:40 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 27 Aug 2024 17:52:47 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PowerISO v8.9.0 中文便携版(虚拟光驱软件)</title>
+        <link>https://kooshare.github.io/post/powerisov890/</link>
+        <pubDate>Tue, 27 Aug 2024 17:52:47 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/powerisov890/</guid>
+        <description>&lt;p&gt;PowerISO中文版是一款虚拟光驱软件及强大的光盘映像文件制作软件，它能通过自带虚拟光驱的驱动器加载映像文件，用于制作映像、编辑提取、数据修改、转换格式、压缩加密、镜像刻录等处理。同时具有DISM工具,ESD/ISO/WIM/ESD格式转换工具，镜像文件写入U盘启动工具，支持ISO、BIN、IMG、DAA、WIM等各种常见文件类型。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/PKTe9p3WSjrCtHA.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827175314504&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/cbZXWDUArv925yN.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827175322445&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h1&gt;&lt;p&gt;PowerISO版本更新历史
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cHM6Ly9wb3dlcmlzby5jb20vY24vdHV0b3JpYWxzL2hpc3RvcnkuaHRt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://poweriso.com/cn/tutorials/history.htm&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支持几乎所有格式的光盘镜像文件&lt;/li&gt;
+&lt;li&gt;提取音轨到MP3, FLAC, APE文件&lt;/li&gt;
+&lt;li&gt;创建ISO镜像文件&lt;/li&gt;
+&lt;li&gt;从MP3, FLAC, APE等格式制作音乐光盘&lt;/li&gt;
+&lt;li&gt;刻录ISO镜像文件&lt;/li&gt;
+&lt;li&gt;处理ISO文件&lt;/li&gt;
+&lt;li&gt;支持多达23个虚拟光驱&lt;/li&gt;
+&lt;li&gt;制作启动U盘&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;poweriso-功能特点&#34;&gt;PowerISO 功能特点
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;支持几乎所有 CD/DVD/BD-ROM 映像文件格式（ISO、BIN、NRG、CDI、DAA 等）。&lt;/li&gt;
+&lt;li&gt;打开并提取 ISO 文件。您可以通过单击提取 ISO 文件。&lt;/li&gt;
+&lt;li&gt;将 ISO 文件刻录到 CD、DVD 或蓝光光盘。PowerISO 是一款专业的刻录软件。使用此工具，您可以创建音频 CD、数据 CD、数据 DVD、视频 DVD 或 VCD。PowerISO 还支持蓝光刻录。&lt;/li&gt;
+&lt;li&gt;从 MP3、FLAC、APE、WMA 或 BIN 文件刻录音频 CD。&lt;/li&gt;
+&lt;li&gt;将音频 CD 翻录为 MP3、FLAC、APE、WMA 或 BIN 文件。&lt;/li&gt;
+&lt;li&gt;从硬盘文件或 CD / DVD / BD 光盘创建 ISO 文件或 BIN 文件。&lt;/li&gt;
+&lt;li&gt;直接编辑 ISO 映像文件。&lt;/li&gt;
+&lt;li&gt;在 ISO / BIN 和其他格式之间转换图像文件。PowerISO 不仅可以将 BIN 转换为 ISO，还可以将几乎所有的图像文件格式转换为标准的 ISO 图像文件。&lt;/li&gt;
+&lt;li&gt;创建可启动的 USB 驱动器。PowerISO 允许您通过 USB 驱动器设置 Windows。&amp;raquo;更多详情&lt;/li&gt;
+&lt;li&gt;制作可启动的 ISO 文件并创建可启动的 CD、DVD 光盘。&lt;/li&gt;
+&lt;li&gt;支持 32 位和 64 位 Windows。&lt;/li&gt;
+&lt;li&gt;可以轻松使用。PowerISO 支持 shell 集成、上下文菜单、拖放、剪贴板复制粘贴…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;PowerISO中文破解版 v8.9.0 x64 绿色便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9b066c8c0f35&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9b066c8c0f35&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;PowerISO v8.9 Multilingual x86/x64 (2024/08/26)
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cDovL3d3dy5wb3dlcmlzby1taXJyb3IuY29tL1Bvd2VySVNPOC5leGU=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www.poweriso-mirror.com/PowerISO8.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cDovL3d3dy5wb3dlcmlzby1taXJyb3IuY29tL1Bvd2VySVNPOC14NjQuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www.poweriso-mirror.com/PowerISO8-x64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PowerISO KeyGen v1.1b – Kindly (2017/10/29)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/63584c754214&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/63584c754214&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>CrystalDiskInfo v9.4.1 中文修订绿色便携版(硬盘检测工具)</title>
+        <link>https://kooshare.github.io/post/crystaldiskinfo941/</link>
+        <pubDate>Tue, 27 Aug 2024 17:45:12 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/crystaldiskinfo941/</guid>
+        <description>&lt;p&gt;CrystalDiskInfo，免费硬盘检测工具，硬盘健康状态硬盘信息检测工具。支持检测机械硬盘及固态硬盘信息，采用S.M.A.R.T.技术检测分析读取磁盘的详细信息，包含硬盘温度，固件、序列号、驱动器接口等。CrystalDiskInfo是由日本人hiyohiyo个人开发的小工具，能全面详细直观的检查硬盘的健康状态及各种参数。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/Ky8QknuY5SzlGMH.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827174539477&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/eof38IWFO4UpJHG.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827174548571&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h1&gt;&lt;p&gt;History – Crystal Dew World
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cHM6Ly9jcnlzdGFsbWFyay5pbmZvL2VuL3NvZnR3YXJlL2NyeXN0YWxkaXNraW5mby9jcnlzdGFsZGlza2luZm8taGlzdG9yeQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://crystalmark.info/en/software/crystaldiskinfo/crystaldiskinfo-history&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;主要特色&#34;&gt;主要特色
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;打开解压后得到的CrystalDiskInfo，在主页面的界面中即可看到有关计算机本机硬盘的所有相关信息。&lt;/li&gt;
+&lt;li&gt;在CrystalDiskInfo下方的列表中，可以看到硬盘的工作情况，以及各项数值是否健康，便于用户更快找到损坏点。&lt;/li&gt;
+&lt;li&gt;点击软件界面左侧的“健康状态”图标，在打开的新窗口中可以修改警告临界值，如果当健康状态超过临界值时，就会发出警告提醒用户。&lt;/li&gt;
+&lt;li&gt;点击顶部菜单栏中的“功能”按钮，在打开的下拉菜单中，将鼠标指向“警告功能”一栏，在子菜单中可以设置警告的方式。&lt;/li&gt;
+&lt;li&gt;在“功能”菜单中的“高级特征”栏中，可以对“”AAM/APM控制最重要。&lt;/li&gt;
+&lt;li&gt;这个功能如图所示，能够对硬盘的噪音和电源等属性进行设置，保证在使用计算机时，能够调节到最为合适的情况。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;CrystalDiskInfo v9.4.1 x86/x64 修订中文版(绿色单文件)
+更新中文翻译, 删除多语言和皮肤, 压缩PNG程序至2.4M&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d26706746e69&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d26706746e69&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CrystalDiskInfo 9.4.1 Multilingual (2024/08/27)
+CrystalDiskInfo Standard Edition（标准默认主题风格版）
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cHM6Ly9waG9lbml4bmFwLmRsLnNvdXJjZWZvcmdlLm5ldC9wcm9qZWN0L2NyeXN0YWxkaXNraW5mby85LjQuMS9DcnlzdGFsRGlza0luZm85XzRfMS56aXA/dmlhc2Y9MQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://phoenixnap.dl.sourceforge.net/project/crystaldiskinfo/9.4.1/CrystalDiskInfo9_4_1.zip?viasf=1&lt;/a&gt;
+CrystalDiskInfo Shizuku / KureiKei Edition（ 二次元萌妹风格版）
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cHM6Ly9waG9lbml4bmFwLmRsLnNvdXJjZWZvcmdlLm5ldC9wcm9qZWN0L2NyeXN0YWxkaXNraW5mby85LjQuMS9DcnlzdGFsRGlza0luZm85XzRfMVNoaXp1a3UuemlwP3ZpYXNmPTE=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://phoenixnap.dl.sourceforge.net/project/crystaldiskinfo/9.4.1/CrystalDiskInfo9_4_1Shizuku.zip?viasf=1&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.jwsky.com/?golink=aHR0cHM6Ly9waG9lbml4bmFwLmRsLnNvdXJjZWZvcmdlLm5ldC9wcm9qZWN0L2NyeXN0YWxkaXNraW5mby85LjQuMS9DcnlzdGFsRGlza0luZm85XzRfMUt1cmVpS2VpLnppcD92aWFzZj0x&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://phoenixnap.dl.sourceforge.net/project/crystaldiskinfo/9.4.1/CrystalDiskInfo9_4_1KureiKei.zip?viasf=1&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>雷电模拟器9.0 v9.0.76.2 去广告纯净版</title>
+        <link>https://kooshare.github.io/post/leidianmoniqi0762/</link>
+        <pubDate>Tue, 27 Aug 2024 17:38:14 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/leidianmoniqi0762/</guid>
+        <description>&lt;p&gt;雷电模拟器非常不错，也是分享迷一直在用的安卓模拟器，经常会用来测试软件；之前给大家分享过雷电的3.0版本，那么自从安卓9.0出来之后，雷电也推出了其基于9.0系统的版本。&lt;/p&gt;
+&lt;p&gt;雷电模拟器9是基于安卓9内核开发的全新版本模拟器，具备强大的游戏兼容性和系统兼容性，能够稳定运行市面上万款热门手游，带你感受更快的速度、更完美的操控体验！且全面升级了Android 9 作业系统，将32位和64位元框架合并，有着比以往更快的启动速度，更低的电脑资源占用。&lt;/p&gt;
+&lt;p&gt;支持OpenGL3.1模式3D渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/nPJ9iGvDj48xwfc.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827173850150&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/OLP38dmjpyV6gwU.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827173857777&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;@423down&lt;/p&gt;
+&lt;p&gt;1.去启动界面广告、去任务栏右下角通知区域游戏弹窗
+2.去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为）
+3.去桌面底部广告（桌面主屏幕内下方5个内置游戏推广应用）
+4.拒绝后台广告数据下载请求 %AppData%\Leidian9\Cache
+5.拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为
+6.免安装净化处理，删除资讯广告程序、上传组件、错误报告文件
+7.禁止点击主界面顶部的远程控制(无界趣连)按钮下载软件安装包
+8.删除系统镜像内置短信app，提供面具(Magisk)及LSPosed框架&lt;/p&gt;
+&lt;p&gt;**
+**&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;● 如何启用ROOT权限？&lt;/strong&gt;
+界面-设置-其它-root权限-启用即可&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;● 如何只更新去广告后的系统镜像呢？&lt;/strong&gt;
+只需下载去广告版提取镜像文件替换到以下位置
+├—LDPlayer9\system.vmdk, vms\system.vmdk&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;● 雷电模拟器9.0、雷电模拟器4.0 和 3.x 有什么区别？&lt;/strong&gt;
+# 主要指的安卓系统镜像Android版本不同(system.vmdk)：
+﹂9.0：Android 9-x86_64 (64位版，64位指的安卓系统版本)
+﹂4.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64位版)
+﹂3.x：Android 5.1.2-x86
+# 所有版本都兼容ARM库，可共存使用支持各版无限多开运行&lt;/p&gt;
+&lt;h3 id=&#34;v90762&#34;&gt;v9.0.76.2
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;修复了近期的模拟器版本，部分游戏会闪退的问题。&lt;/li&gt;
+&lt;li&gt;修复了《冒险岛：枫之传说》有概率卡死的问题。&lt;/li&gt;
+&lt;li&gt;修复了《色块大作战》角色显示成黑影的问题。&lt;/li&gt;
+&lt;li&gt;修复了部分情况下模拟器启动失败的问题。&lt;/li&gt;
+&lt;li&gt;修复了“滑动轨迹”按键滑动速度过慢的问题。&lt;/li&gt;
+&lt;li&gt;修复了安装APK时，安装包扫描时间过长的问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;v90750&#34;&gt;v9.0.75.0
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;小游戏专区上线，一键秒玩无需下载。&lt;/li&gt;
+&lt;li&gt;修复了浏览器无法下载QQ的问题。&lt;/li&gt;
+&lt;li&gt;修复了荣耀渠道闪退的问题。&lt;/li&gt;
+&lt;li&gt;优化了adb可能连接不上的问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;v90734&#34;&gt;v9.0.73.4
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;新增了“安全守护”功能，安装APK时自动识别风险应用，保护个人信息安全与模拟器系统稳定。&lt;/li&gt;
+&lt;li&gt;修复了APK安装失败时，错误原因描述不准确的问题。&lt;/li&gt;
+&lt;li&gt;修复了部分情况下，模拟器启动会卡30%的问题。&lt;/li&gt;
+&lt;li&gt;修复了部分游戏的iOS登录有概率失效的问题。&lt;/li&gt;
+&lt;li&gt;修复了一些bug，改进用户体验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;v90731&#34;&gt;v9.0.73.1
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;修复了部分情况下，模拟器启动会卡30%的问题。&lt;/li&gt;
+&lt;li&gt;进一步优化了部分游戏的iOS登录有概率失效的问题。&lt;/li&gt;
+&lt;li&gt;修复了一些bug，改进用户体验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;v90725&#34;&gt;v9.0.72.5
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;优化了App同步手机功能，支持把模拟器上的游戏和应用传到手机使用。&lt;/li&gt;
+&lt;li&gt;优化了模拟器扫码下载游戏的提示。&lt;/li&gt;
+&lt;li&gt;优化了安装APK时的性能占用。&lt;/li&gt;
+&lt;li&gt;修复了一些bug，改进用户体验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/79759a584695&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/79759a584695&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜狗输入法电脑版 v14.8.0.9884 精简纯净版</title>
+        <link>https://kooshare.github.io/post/sougoushurufa9884/</link>
+        <pubDate>Tue, 27 Aug 2024 17:34:29 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/sougoushurufa9884/</guid>
+        <description>&lt;p&gt;搜狗输入法，以前可以说是装机必备软件，其打字准、词库全、功能强大、使得输入更高效。只可惜，后期随着不断更新，该软件变得越来越臃肿，广告也越来越多。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;那么今天给大家分享一款去广告免升级精简版本。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/27/J6swcRHL574lKrt.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240827173459554&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;特点说明&#34;&gt;特点说明
+&lt;/h4&gt;&lt;p&gt;* 去广告，精简优化，免升级，有效阻止程序相关广告弹窗！
+* 纯净无广告，无多余干扰提示，默认无不必要联网程序驻留！
+* 默认阻止检测升级请求、下载释放广告程序收集相关信息推送广告行为
+* 可选：云计算候选、词库更新及账户配置同步、工具箱和扩展管理器组件
+* 删除：所有搜狗广告程序（广告获取模块、搜狐新闻弹窗、勋章推荐弹窗）
+* 删除：搜索提示, 网址直达, 修复器, 核心服务, 网络更新, 辅助工具, 崩溃反馈等文件
+* 删除：图片表情, 人工语音, 皮肤推荐, 皮肤盒子/flash皮肤等，可在工具箱安装扩展
+* 取消：搜索候选, 节日/皮肤推荐/flash皮肤模式, 词条/升级/新勋章/活跃天数等提示
+* 安装程序：支持Windows 10 Metro模式，32位和64位系统，支持检测可覆盖安装&lt;/p&gt;
+&lt;p&gt;注：如果不启用防火墙勾选组件：词库更新及账户同步程序安装，后续会有升级提示！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;# 如何启用语音输入和手写输入？&lt;/strong&gt;
+1、安装 -&amp;gt;选择要安装的组件-&amp;gt;勾选工具箱及扩展管理器组件
+2、在开始菜单-搜狗输入法-输入法扩展管理器，安装启用组件&lt;/p&gt;
+&lt;h4 id=&#34;新版特点&#34;&gt;新版特点
+&lt;/h4&gt;&lt;p&gt;修复部分已知问题&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;医生版，有很多医学类相关的词库&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c799962e20f9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c799962e20f9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows Manager v2.0.4 系统优化工具</title>
         <link>https://kooshare.github.io/post/manager204/</link>
         <pubDate>Sun, 25 Aug 2024 22:54:40 +0800</pubDate>
