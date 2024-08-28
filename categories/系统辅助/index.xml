@@ -7,7 +7,75 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 28 Aug 2024 21:33:46 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 07:05:04 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Dev-Sidecar v1.8.3 开发者边车辅助工具</title>
+        <link>https://kooshare.github.io/post/devsidecar/</link>
+        <pubDate>Thu, 29 Aug 2024 07:05:04 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/devsidecar/</guid>
+        <description>&lt;p&gt;开发者边车，命名取自service-mesh的service-sidecar，意为为开发者打辅助的边车工具
+通过本地代理的方式将https请求代理到一些国内的加速通道上&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/EO6hnyoWDuB1NXp.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/4030-1.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h2&gt;&lt;h3 id=&#34;1-dns优选解决国内dns污染问题&#34;&gt;1、 dns优选（解决国内dns污染问题）
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;根据网络状况智能解析最佳域名ip地址，获取最佳网络速度&lt;/li&gt;
+&lt;li&gt;不用科学上网也能解决一些网站和库无法访问或访问速度慢的问题&lt;/li&gt;
+&lt;li&gt;建议遇到打开比较慢的国外网站，可以优先尝试将该域名添加到dns设置中（注意：被GFW封杀的无效）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-请求拦截&#34;&gt;2、 请求拦截
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;拦截打不开的网站，代理到加速镜像站点上去。&lt;/li&gt;
+&lt;li&gt;可配置多个镜像站作为备份&lt;/li&gt;
+&lt;li&gt;具备测速机制，当访问失败或超时之后，自动切换到备用站点，使得目标服务高可用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-github加速&#34;&gt;3、 github加速
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;release、source、zip下载加速&lt;/li&gt;
+&lt;li&gt;clone 加速&lt;/li&gt;
+&lt;li&gt;头像加速&lt;/li&gt;
+&lt;li&gt;解决readme中图片引用无法加载的问题&lt;/li&gt;
+&lt;li&gt;gist.github.com 加速&lt;/li&gt;
+&lt;li&gt;解决git push 偶尔失败需要输入账号密码的问题（fatal: TaskCanceledException encountered / fatal: HttpRequestException encountered）&lt;/li&gt;
+&lt;li&gt;raw/blame加速&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-stack-overflow-加速&#34;&gt;4、 Stack Overflow 加速
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;将ajax.google.com代理到加速CDN上&lt;/li&gt;
+&lt;li&gt;recaptcha 图片验证码加速&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-npm加速&#34;&gt;5、 npm加速
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;支持开启npm代理&lt;/li&gt;
+&lt;li&gt;官方与淘宝npm registry一键切换,&lt;/li&gt;
+&lt;li&gt;某些npm install的时候，并且使用cnpm也无法安装时，可以尝试开启npm代理再试&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-增强功能&#34;&gt;6、 增强功能
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;众所周知的原因，不能说太多，默认关闭，感兴趣的可以私下交流&lt;/li&gt;
+&lt;li&gt;反正开了这个之后，上面那些dns优选什么的特性好像都不香了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;注意事项&#34;&gt;注意事项
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;请勿使用来源不明的服务地址，有隐私和账号泄露风险&lt;/li&gt;
+&lt;li&gt;本应用及服务端承诺不收集任何信息。介意者请使用安全模式。&lt;/li&gt;
+&lt;li&gt;建议自建服务端（增强功能页面右上角点击查看自建服务端方法）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e10804555419&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e10804555419&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows Icaros Shell Extensions 系统显示音视频缩略图_v3.3.2 绿色便携版</title>
         <link>https://kooshare.github.io/post/icarosshellextensions/</link>
         <pubDate>Wed, 28 Aug 2024 21:33:46 +0800</pubDate>
