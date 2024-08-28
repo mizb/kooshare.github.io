@@ -7,7 +7,278 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 28 Aug 2024 14:39:14 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 Aug 2024 16:03:09 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>x64dbg(反汇编逆向神器) 2024-08-27_01-49 中文绿色版</title>
+        <link>https://kooshare.github.io/post/x64dbg0827/</link>
+        <pubDate>Wed, 28 Aug 2024 16:03:09 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/x64dbg0827/</guid>
+        <description>&lt;p&gt;x64dbg中文版是一款x32/x64位调试器的程序调试工具,这款反汇编逆向神器支持中文和插件,支持类似C表达式解析器,DLL和EXE文件调试,IDA式的跳跃箭头与侧边栏,动态识别模块指令,反汇编CPU窗口,自动化可调试的脚本语言等诸多逆向分析功能.x64dbg调试器主要分为三部分载体:DBG是调试器的调试功能部分,它处理调试技术(使用的 TitanEngine),并为GUI提供数据.GUI是调试器的图形部分,它采用的Qt编程语言,提供用户交互界面.Bridge是DBG和GUI部分的通信库,它可以用在新建功能上工作,而无需更新汇编代码的其它部分.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/7vIcbaXO4UilYEq.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;x64dbg(反汇编逆向神器) 2024-06-03 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;支持多种CPU架构，包括x86，x64，ARM和ARM64。
+提供实时调试功能，包括断点设置、单步执行、查看寄存器和内存，以及修改数据。
+支持动态分析，可以查看和修改程序的内存和寄存器状态。
+支持多种格式的二进制文件，包括PE、ELF和Mach-O。
+提供强大的插件系统，允许用户添加自定义功能和扩展工具。
+支持调试符号和调试信息，可以帮助用户理解程序的结构和功能。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;开源免费：x64dbg是开源软件，可以免费使用和修改。
+跨平台：x64dbg可以在Windows平台上运行，并支持多个CPU架构。
+功能强大：x64dbg提供了丰富的调试功能和工具，方便用户对程序进行逆向工程和动态分析。
+用户友好：x64dbg具有直观的用户界面，易于上手和操作。
+不断更新：x64dbg团队会持续更新和改进软件，以提供更好的用户体验和功能。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;x64dbg(反汇编逆向神器) 2024-08-27_01-49 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e8174632aaf6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e8174632aaf6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HDCleaner(系统清理优化工具) v2.079 中文绿色版</title>
+        <link>https://kooshare.github.io/post/hdcleaner/</link>
+        <pubDate>Wed, 28 Aug 2024 15:17:05 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/hdcleaner/</guid>
+        <description>&lt;p&gt;HDCleaner 是一款功能强大的系统清理和优化工具，可以清理Windows系统中的无用文件、无效的快捷方式和临时文件，并修复和优化Windows注册表和系统设置。它还可以管理启动项和程序，帮助用户控制计算机的性能和速度。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/Wc9uzYUjeoHglEB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;HDCleaner(系统清理优化工具) v2.073 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;清理功能：可以清理系统中的临时文件、无效快捷方式、cookie、浏览记录、垃圾文件等，释放磁盘空间。&lt;/li&gt;
+&lt;li&gt;优化功能：可以修复Windows注册表，优化系统设置，提高计算机的性能和响应速度。&lt;/li&gt;
+&lt;li&gt;系统维护功能：可以管理计算机的启动项、服务、任务计划等，帮助优化系统。&lt;/li&gt;
+&lt;li&gt;隐私保护功能：可以清除浏览器的历史记录、下载记录、表单数据、缓存等，保护用户的隐私。&lt;/li&gt;
+&lt;li&gt;数据安全功能：可以安全地删除文件和文件夹，确保数据不会被恢复。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;界面简洁、易于使用，适合各种用户。&lt;/li&gt;
+&lt;li&gt;提供多种清理和优化选项，可根据需要进行选择。&lt;/li&gt;
+&lt;li&gt;可以对系统进行全面的扫描和检查，帮助找到并清理不必要的文件和设置。&lt;/li&gt;
+&lt;li&gt;支持多种语言，如英语、德语、法语、意大利语、西班牙语等。&lt;/li&gt;
+&lt;li&gt;可以便捷地备份和还原Windows注册表。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;HDCleaner(系统清理优化工具) v2.079 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/84522f58a4bd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/84522f58a4bd&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Cemu Wii U Emulator(Wii U 模拟器) v2.1 中文绿色版</title>
+        <link>https://kooshare.github.io/post/emulator/</link>
+        <pubDate>Wed, 28 Aug 2024 15:14:16 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/emulator/</guid>
+        <description>&lt;p&gt;Cemu Wii U Emulator是一款由Cemu团队开发的Wii U模拟器，它允许用户在Windows PC上模拟Wii U游戏机的游戏。Cemu Wii U Emulator支持多种游戏，并具有高度的兼容性和性能，可以提供与原始Wii U游戏机类似的游戏体验。Cemu不仅支持全高清游戏，而且还提供多种高级功能，例如图形修改和控制器映射等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/m6uQehBjA3WkJF4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Cemu Wii U Emulator(Wii U 模拟器) v2.1 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;Wii U游戏模拟：Cemu Wii U Emulator可以在PC上模拟Wii U游戏机上的游戏。&lt;/li&gt;
+&lt;li&gt;高兼容性：Cemu Wii U Emulator支持很多Wii U游戏，并且保持良好的兼容性。&lt;/li&gt;
+&lt;li&gt;全高清和高性能：Cemu Wii U Emulator支持全高清游戏，并具有高性能。&lt;/li&gt;
+&lt;li&gt;系统要求低：Cemu Wii U Emulator不需要过高的系统要求即可正常运行。&lt;/li&gt;
+&lt;li&gt;简单易用：Cemu Wii U Emulator界面简单易用，并提供了丰富的选项和设置。&lt;/li&gt;
+&lt;li&gt;多种高级功能：Cemu Wii U Emulator提供了多种高级功能，例如图形修改、控制器映射和调试等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;高度兼容性：Cemu Wii U Emulator支持很多Wii U游戏，并且可以支持新游戏的更新。&lt;/li&gt;
+&lt;li&gt;全高清游戏：Cemu Wii U Emulator支持全高清游戏，提供更好的游戏体验。&lt;/li&gt;
+&lt;li&gt;高性能：Cemu Wii U Emulator具有高性能，可以提供接近Wii U游戏机的游戏速度。&lt;/li&gt;
+&lt;li&gt;简单易用：Cemu Wii U Emulator界面简单易用，并提供了友好的选项和设置，方便用户进行优化和调整。&lt;/li&gt;
+&lt;li&gt;多种高级功能：Cemu Wii U Emulator提供了多种高级功能，例如图形修改、控制器映射和调试等，让用户可以更好的优化游戏体验。&lt;/li&gt;
+&lt;li&gt;自动更新：Cemu Wii U Emulator通过自动更新功能，可以保持软件版本更新，并提高游戏的兼容性和性能。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Cemu Wii U Emulator(Wii U 模拟器) v2.1 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7cbd491e448b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/7cbd491e448b&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Dr.Web CureIt!(检测清除恶意软件) v27.08.2024 中文绿色版</title>
+        <link>https://kooshare.github.io/post/cureit/</link>
+        <pubDate>Wed, 28 Aug 2024 15:11:35 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/cureit/</guid>
+        <description>&lt;p&gt;Dr.Web CureIt! 是一款免费的杀毒软件，用于检测和清除计算机中的恶意软件。它可以运行在 Windows 操作系统上，不需要进行安装，可以直接从可移动存储设备（如U盘）上运行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/sQGELAg9yJzrB7T.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Dr.Web CureIt!(检测清除恶意软件) v23.05.2024 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;恶意软件检测：Dr.Web CureIt! 可以扫描计算机上的文件和进程，找出其中的恶意软件，并将其进行隔离或清除。
+网页防护：软件可以实时监控用户的互联网浏览活动，阻止访问被鉴定为恶意的网站。
+邮件防护：Dr.Web CureIt! 可以保护用户的电子邮件客户端，检测和阻止恶意软件通过电子邮件传播。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;免费使用：Dr.Web CureIt! 是一款免费软件，无需支付费用即可享受杀毒功能。
+快速扫描：软件具有快速而高效的扫描引擎，可以快速检测和清除计算机中的恶意软件。
+不需要安装：Dr.Web CureIt! 是一款绿色软件，不需要进行安装，可以直接运行，不会对系统造成任何影响。
+实时保护：软件可以实时监控计算机的活动，防止恶意软件的入侵和传播。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Dr.Web CureIt!(检测清除恶意软件) v27.08.2024 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a2195a982161&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a2195a982161&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Device Info HW&#43;安卓版(查看手机硬件信息) v5.18.0 修改版</title>
+        <link>https://kooshare.github.io/post/deviceinfohw5180/</link>
+        <pubDate>Wed, 28 Aug 2024 15:09:05 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/deviceinfohw5180/</guid>
+        <description>&lt;p&gt;📱Device Info HW+是一款安卓设备信息查看工具，可以帮助用户查看手机或平板电脑的硬件和软件信息。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/HSR4dOrCALoZmu5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Device Info HW&amp;#43;安卓版(查看手机硬件信息) v5.17.0 修改版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;显示设备的基本信息，如型号、制造商、操作系统版本等。
+查看硬件信息，如处理器型号、内存大小、存储空间等。
+显示传感器信息，如加速度传感器、光感应器等。
+查看网络信息，如Wi-Fi连接状态、IP地址等。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;界面简洁直观，操作方便快捷。
+支持多种语言，满足全球用户的需求。
+提供详细的设备信息，帮助用户了解设备的性能和功能。
+兼容大多数安卓设备，适用于各种型号和品牌的手机和平板电脑。&lt;/p&gt;
+&lt;h5 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h5&gt;&lt;p&gt;by Balatan
+不需要root、Lucky Patcher或Google Play Modded；
+优化和快速对齐的图形和干净的资源，实现快速加载；
+调试代码已删除；
+删除相应java文件的默认.source标签名称；
+语言：全多国语言；
+CPU：通用架构；
+屏幕DPI：120dpi、160dpi、240dpi、320dpi、480dpi、640dpi；
+原始包裹签名已更改；&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Device Info HW+安卓版(查看手机硬件信息) v5.18.0 修改版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9317d66c9079&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9317d66c9079&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>NETGATE Spy Emergency(恶意软件清除工具) v27.0.0.1 多语便携版</title>
+        <link>https://kooshare.github.io/post/netgate/</link>
+        <pubDate>Wed, 28 Aug 2024 15:06:53 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/netgate/</guid>
+        <description>&lt;p&gt;NETGATE Spy Emergency 是一款专业的间谍软件清除工具，可以帮助用户有效地保护电脑免受恶意软件、间谍软件、广告软件和木马等威胁。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/GTNjA3V5XntcEUk.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;NETGATE Spy Emergency(恶意软件清除工具) v27.0.0.1 多语便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;实时保护：Spy Emergency 可以实时监控系统，及时发现和阻止恶意软件的入侵，保护您的电脑免受威胁。
+恶意软件清除：软件可以快速扫描系统，识别和清除各种间谍软件、广告软件、木马、蠕虫和其它恶意软件。
+广告拦截：Spy Emergency 可以帮助您拦截恼人的弹出广告、垃圾邮件和诱骗网站，保护您的隐私安全。
+网络防火墙：软件内置网络防火墙功能，可以监控和管理应用程序的网络访问权限，防止恶意软件通过网络传播。
+系统优化：软件还提供系统优化工具，可以清理系统垃圾文件、优化启动项、加速系统运行速度。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;界面简洁直观，操作简单易懂，适合普通用户和技术人员使用。
+更新频繁且及时，可以及时响应最新的恶意软件威胁，保护系统安全。
+提供多种扫描模式和定时扫描功能，可以根据需要定制扫描计划。
+支持多国语言，满足不同用户的需求。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;NETGATE Spy Emergency(恶意软件清除工具) v27.0.0.1 多语便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/92ee9e4c954d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/92ee9e4c954d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Q-Dir(免费的文件管理器) v11.75 中文绿色版</title>
+        <link>https://kooshare.github.io/post/qdir/</link>
+        <pubDate>Wed, 28 Aug 2024 14:52:22 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/qdir/</guid>
+        <description>&lt;p&gt;Q-Dir是一款免费的文件管理器，具有多窗口浏览、拖放功能、自定义布局等特点，可以快速方便地浏览和管理文件和文件夹。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/INVfadgFvPQwBK9.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Q-Dir(免费的文件管理器) v11.65 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;多窗口浏览：可以同时在一个界面中打开多个文件夹，方便对文件和文件夹进行管理。&lt;/li&gt;
+&lt;li&gt;拖放功能：支持拖放文件和文件夹，可以方便地进行复制、移动、删除等操作。&lt;/li&gt;
+&lt;li&gt;自定义布局：可以自定义窗口布局，包括窗口大小、位置、颜色等，让用户更加舒适地使用软件。&lt;/li&gt;
+&lt;li&gt;支持多种文件类型：支持浏览和管理多种文件类型，包括文本文件、图像文件、音频文件、视频文件等。&lt;/li&gt;
+&lt;li&gt;快速访问：支持快速访问常用文件和文件夹，可以将它们添加到收藏夹中，方便快速打开。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;免费：Q-Dir是一款完全免费的软件，用户无需支付任何费用即可使用全部功能。&lt;/li&gt;
+&lt;li&gt;轻巧：Q-Dir的安装包非常小，只有几百KB，安装后占用的系统资源也非常少，不会影响计算机的性能。&lt;/li&gt;
+&lt;li&gt;界面友好：Q-Dir的界面简洁、直观，易于操作，即使是初次使用的用户也可以轻松上手。&lt;/li&gt;
+&lt;li&gt;支持多语言：Q-Dir支持多种语言，包括英语、中文、德语、法语等，用户可以选择自己熟悉的语言来使用软件。&lt;/li&gt;
+&lt;li&gt;持续更新：Q-Dir的开发者会持续更新软件，修复bug、增加新功能，保证软件的稳定性和可靠性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Q-Dir(免费的文件管理器) v11.75 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2884b14c2aba&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2884b14c2aba&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>VeraCrypt(开源的磁盘加密软件) v1.26.14 中文绿色版</title>
         <link>https://kooshare.github.io/post/veracrypt/</link>
         <pubDate>Wed, 28 Aug 2024 14:39:14 +0800</pubDate>

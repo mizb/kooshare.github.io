@@ -7,7 +7,627 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 28 Aug 2024 14:47:40 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 Aug 2024 16:03:09 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>x64dbg(反汇编逆向神器) 2024-08-27_01-49 中文绿色版</title>
+        <link>https://kooshare.github.io/post/x64dbg0827/</link>
+        <pubDate>Wed, 28 Aug 2024 16:03:09 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/x64dbg0827/</guid>
+        <description>&lt;p&gt;x64dbg中文版是一款x32/x64位调试器的程序调试工具,这款反汇编逆向神器支持中文和插件,支持类似C表达式解析器,DLL和EXE文件调试,IDA式的跳跃箭头与侧边栏,动态识别模块指令,反汇编CPU窗口,自动化可调试的脚本语言等诸多逆向分析功能.x64dbg调试器主要分为三部分载体:DBG是调试器的调试功能部分,它处理调试技术(使用的 TitanEngine),并为GUI提供数据.GUI是调试器的图形部分,它采用的Qt编程语言,提供用户交互界面.Bridge是DBG和GUI部分的通信库,它可以用在新建功能上工作,而无需更新汇编代码的其它部分.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/7vIcbaXO4UilYEq.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;x64dbg(反汇编逆向神器) 2024-06-03 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;支持多种CPU架构，包括x86，x64，ARM和ARM64。
+提供实时调试功能，包括断点设置、单步执行、查看寄存器和内存，以及修改数据。
+支持动态分析，可以查看和修改程序的内存和寄存器状态。
+支持多种格式的二进制文件，包括PE、ELF和Mach-O。
+提供强大的插件系统，允许用户添加自定义功能和扩展工具。
+支持调试符号和调试信息，可以帮助用户理解程序的结构和功能。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;开源免费：x64dbg是开源软件，可以免费使用和修改。
+跨平台：x64dbg可以在Windows平台上运行，并支持多个CPU架构。
+功能强大：x64dbg提供了丰富的调试功能和工具，方便用户对程序进行逆向工程和动态分析。
+用户友好：x64dbg具有直观的用户界面，易于上手和操作。
+不断更新：x64dbg团队会持续更新和改进软件，以提供更好的用户体验和功能。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;x64dbg(反汇编逆向神器) 2024-08-27_01-49 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e8174632aaf6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e8174632aaf6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Adobe Acrobat Pro DC v2024.003.20054 便携版 32位 &amp; 64位</title>
+        <link>https://kooshare.github.io/post/acrobat20054/</link>
+        <pubDate>Wed, 28 Aug 2024 15:19:32 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/acrobat20054/</guid>
+        <description>&lt;p&gt;Acrobat DC 2024破解版PDF编辑软件Adobe Acrobat Pro DC 2024绿色便携版是Adobe公司继Acrobat XI之后推出的又一款全新PDF文件编辑转换软件.Acrobat Pro DC中文版配有直观触控式界面及强大的新功能,能将任何纸质文件转换为可编辑的文件,用于传输,签署和分享.新工具中心能更简单迅速的访问常使用的工具.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/YGT3XCLlDOdKyoI.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Adobe Acrobat Pro DC v2024.002.20736 便携版 32位 &amp; 64位&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;PDF编辑：Acrobat DC可以让用户直接编辑PDF文件中的文本、图像、图表等内容，并且支持添加注释、标记、修订等功能。&lt;/li&gt;
+&lt;li&gt;PDF转换：Acrobat DC可以将各种文件格式转换为PDF，并且可以方便地向其他格式（如Word、Excel、PowerPoint等）转换PDF文件。&lt;/li&gt;
+&lt;li&gt;PDF合并和分割：Acrobat DC可以方便地将多个PDF文件合并为一个文件，或将一个PDF文件分割成多个文件。&lt;/li&gt;
+&lt;li&gt;PDF安全：Acrobat DC可以加密PDF文件，保护PDF文档不被未经授权的人访问或复制。&lt;/li&gt;
+&lt;li&gt;PDF共享：Acrobat DC可以让用户方便地与他人共享PDF文件，并可以使用共享功能来协同工作和收集反馈。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;轻松编辑PDF文档：用户可以直接编辑PDF文件中的文本、图像、图表等内容。&lt;/li&gt;
+&lt;li&gt;丰富的注释和标记工具：Acrobat DC提供了各种不同类型的注释和标记工具，使得用户可以方便地对PDF文件进行标记和修订。&lt;/li&gt;
+&lt;li&gt;支持PDF文件转换：Acrobat DC可以支持将各种不同格式的文件转换为PDF，以及将PDF文件转换为其他格式（例如Word，Excel，PowerPoint等）。&lt;/li&gt;
+&lt;li&gt;PDF合并和分割：Acrobat DC可以让用户轻松将多个PDF文件合并为一个文件，或将一个PDF文件分割成多个文件。&lt;/li&gt;
+&lt;li&gt;支持PDF文件安全：Acrobat DC提供了各种加密和权限控制功能，使得用户可以保护PDF文件不被未经授权的人访问或复制。&lt;/li&gt;
+&lt;li&gt;PDF共享与协同工作：Acrobat DC可以让用户轻松地与他人共享PDF文件，并使用共享工具进行协同工作和收集反馈。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h5&gt;&lt;p&gt;acrobat破解版, Acrobat免激活中文绿色便携版
+- 无需登陆免激活，免安装，精简多国语言资源
+- 集成了简体中文语言的OCR语言包数据修复版
+- 删除了检查升级插件，没有检测更新提示弹窗
+- 删除右键菜单集成模块（绿色便携版不起作用）
+- 无Adobe公用库相关组件 (AAM/ACCC SP等)
+- 无Adob​​e创意云关联, Acrobat自动更新计划任务,Adob​​e正版服务(AGS)
+- 解除Win7,Win8.x,Win10早期版,Win Server 2008R2-2012R2运行限制&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Adobe Acrobat Pro DC v2024.003.20054 便携版 32位 &amp;amp; 64位&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/5ab9daeea228&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/5ab9daeea228&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HDCleaner(系统清理优化工具) v2.079 中文绿色版</title>
+        <link>https://kooshare.github.io/post/hdcleaner/</link>
+        <pubDate>Wed, 28 Aug 2024 15:17:05 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/hdcleaner/</guid>
+        <description>&lt;p&gt;HDCleaner 是一款功能强大的系统清理和优化工具，可以清理Windows系统中的无用文件、无效的快捷方式和临时文件，并修复和优化Windows注册表和系统设置。它还可以管理启动项和程序，帮助用户控制计算机的性能和速度。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/Wc9uzYUjeoHglEB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;HDCleaner(系统清理优化工具) v2.073 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;清理功能：可以清理系统中的临时文件、无效快捷方式、cookie、浏览记录、垃圾文件等，释放磁盘空间。&lt;/li&gt;
+&lt;li&gt;优化功能：可以修复Windows注册表，优化系统设置，提高计算机的性能和响应速度。&lt;/li&gt;
+&lt;li&gt;系统维护功能：可以管理计算机的启动项、服务、任务计划等，帮助优化系统。&lt;/li&gt;
+&lt;li&gt;隐私保护功能：可以清除浏览器的历史记录、下载记录、表单数据、缓存等，保护用户的隐私。&lt;/li&gt;
+&lt;li&gt;数据安全功能：可以安全地删除文件和文件夹，确保数据不会被恢复。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;界面简洁、易于使用，适合各种用户。&lt;/li&gt;
+&lt;li&gt;提供多种清理和优化选项，可根据需要进行选择。&lt;/li&gt;
+&lt;li&gt;可以对系统进行全面的扫描和检查，帮助找到并清理不必要的文件和设置。&lt;/li&gt;
+&lt;li&gt;支持多种语言，如英语、德语、法语、意大利语、西班牙语等。&lt;/li&gt;
+&lt;li&gt;可以便捷地备份和还原Windows注册表。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;HDCleaner(系统清理优化工具) v2.079 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/84522f58a4bd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/84522f58a4bd&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ZD Soft Screen Recorder(屏幕录制软件) v12.0.1 中文破解版</title>
+        <link>https://kooshare.github.io/post/zdsoft1201/</link>
+        <pubDate>Wed, 28 Aug 2024 15:15:46 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/zdsoft1201/</guid>
+        <description>&lt;p&gt;ZD Soft Screen Recorder是一款功能强大的屏幕录像软件，可以帮助用户轻松录制屏幕活动，并实时转换为高质量视频文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/GtVh7jfXIQsP5YZ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;ZD Soft Screen Recorder(屏幕录制软件) v12.0.1 中文破解版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;录制屏幕活动：支持录制全屏、指定区域、特定窗口等多种录制模式，满足用户不同的录制需求。
+实时转换：支持实时转换录制的视频文件，可以按照用户需求选择不同的视频格式和分辨率。
+音频录制：支持录制系统声音和麦克风声音，可以实现混音录制。
+开机自启动：支持设置软件开机自启动，方便用户随时录制屏幕活动。
+截图功能：支持截取屏幕图片，并可以添加文字、箭头等标注，方便用户进行分享和保存。
+视频编辑：支持对录制的视频文件进行简单编辑，如裁剪、合并、添加水印等操作。
+同步录制：支持同时录制多个屏幕，并可以自定义布局和显示效果。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;高清录制：支持录制高清视频，保证录制效果清晰细腻。
+轻量级：软件体积小巧，占用系统资源少，运行流畅。
+操作简单：软件界面简洁明了，操作流畅，适合各个用户群体使用。
+多功能性：支持多种录制模式和功能，满足用户多样化的录制需求。
+实时转换：支持实时转换录制的视频文件，方便用户快速分享和保存。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;ZD Soft Screen Recorder(屏幕录制软件) v12.0.1 中文破解版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2c7cfa783bfb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2c7cfa783bfb&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Cemu Wii U Emulator(Wii U 模拟器) v2.1 中文绿色版</title>
+        <link>https://kooshare.github.io/post/emulator/</link>
+        <pubDate>Wed, 28 Aug 2024 15:14:16 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/emulator/</guid>
+        <description>&lt;p&gt;Cemu Wii U Emulator是一款由Cemu团队开发的Wii U模拟器，它允许用户在Windows PC上模拟Wii U游戏机的游戏。Cemu Wii U Emulator支持多种游戏，并具有高度的兼容性和性能，可以提供与原始Wii U游戏机类似的游戏体验。Cemu不仅支持全高清游戏，而且还提供多种高级功能，例如图形修改和控制器映射等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/m6uQehBjA3WkJF4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Cemu Wii U Emulator(Wii U 模拟器) v2.1 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;Wii U游戏模拟：Cemu Wii U Emulator可以在PC上模拟Wii U游戏机上的游戏。&lt;/li&gt;
+&lt;li&gt;高兼容性：Cemu Wii U Emulator支持很多Wii U游戏，并且保持良好的兼容性。&lt;/li&gt;
+&lt;li&gt;全高清和高性能：Cemu Wii U Emulator支持全高清游戏，并具有高性能。&lt;/li&gt;
+&lt;li&gt;系统要求低：Cemu Wii U Emulator不需要过高的系统要求即可正常运行。&lt;/li&gt;
+&lt;li&gt;简单易用：Cemu Wii U Emulator界面简单易用，并提供了丰富的选项和设置。&lt;/li&gt;
+&lt;li&gt;多种高级功能：Cemu Wii U Emulator提供了多种高级功能，例如图形修改、控制器映射和调试等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;高度兼容性：Cemu Wii U Emulator支持很多Wii U游戏，并且可以支持新游戏的更新。&lt;/li&gt;
+&lt;li&gt;全高清游戏：Cemu Wii U Emulator支持全高清游戏，提供更好的游戏体验。&lt;/li&gt;
+&lt;li&gt;高性能：Cemu Wii U Emulator具有高性能，可以提供接近Wii U游戏机的游戏速度。&lt;/li&gt;
+&lt;li&gt;简单易用：Cemu Wii U Emulator界面简单易用，并提供了友好的选项和设置，方便用户进行优化和调整。&lt;/li&gt;
+&lt;li&gt;多种高级功能：Cemu Wii U Emulator提供了多种高级功能，例如图形修改、控制器映射和调试等，让用户可以更好的优化游戏体验。&lt;/li&gt;
+&lt;li&gt;自动更新：Cemu Wii U Emulator通过自动更新功能，可以保持软件版本更新，并提高游戏的兼容性和性能。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Cemu Wii U Emulator(Wii U 模拟器) v2.1 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7cbd491e448b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/7cbd491e448b&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Dr.Web CureIt!(检测清除恶意软件) v27.08.2024 中文绿色版</title>
+        <link>https://kooshare.github.io/post/cureit/</link>
+        <pubDate>Wed, 28 Aug 2024 15:11:35 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/cureit/</guid>
+        <description>&lt;p&gt;Dr.Web CureIt! 是一款免费的杀毒软件，用于检测和清除计算机中的恶意软件。它可以运行在 Windows 操作系统上，不需要进行安装，可以直接从可移动存储设备（如U盘）上运行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/sQGELAg9yJzrB7T.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Dr.Web CureIt!(检测清除恶意软件) v23.05.2024 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;恶意软件检测：Dr.Web CureIt! 可以扫描计算机上的文件和进程，找出其中的恶意软件，并将其进行隔离或清除。
+网页防护：软件可以实时监控用户的互联网浏览活动，阻止访问被鉴定为恶意的网站。
+邮件防护：Dr.Web CureIt! 可以保护用户的电子邮件客户端，检测和阻止恶意软件通过电子邮件传播。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;免费使用：Dr.Web CureIt! 是一款免费软件，无需支付费用即可享受杀毒功能。
+快速扫描：软件具有快速而高效的扫描引擎，可以快速检测和清除计算机中的恶意软件。
+不需要安装：Dr.Web CureIt! 是一款绿色软件，不需要进行安装，可以直接运行，不会对系统造成任何影响。
+实时保护：软件可以实时监控计算机的活动，防止恶意软件的入侵和传播。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Dr.Web CureIt!(检测清除恶意软件) v27.08.2024 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a2195a982161&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a2195a982161&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Device Info HW&#43;安卓版(查看手机硬件信息) v5.18.0 修改版</title>
+        <link>https://kooshare.github.io/post/deviceinfohw5180/</link>
+        <pubDate>Wed, 28 Aug 2024 15:09:05 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/deviceinfohw5180/</guid>
+        <description>&lt;p&gt;📱Device Info HW+是一款安卓设备信息查看工具，可以帮助用户查看手机或平板电脑的硬件和软件信息。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/HSR4dOrCALoZmu5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Device Info HW&amp;#43;安卓版(查看手机硬件信息) v5.17.0 修改版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;显示设备的基本信息，如型号、制造商、操作系统版本等。
+查看硬件信息，如处理器型号、内存大小、存储空间等。
+显示传感器信息，如加速度传感器、光感应器等。
+查看网络信息，如Wi-Fi连接状态、IP地址等。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;界面简洁直观，操作方便快捷。
+支持多种语言，满足全球用户的需求。
+提供详细的设备信息，帮助用户了解设备的性能和功能。
+兼容大多数安卓设备，适用于各种型号和品牌的手机和平板电脑。&lt;/p&gt;
+&lt;h5 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h5&gt;&lt;p&gt;by Balatan
+不需要root、Lucky Patcher或Google Play Modded；
+优化和快速对齐的图形和干净的资源，实现快速加载；
+调试代码已删除；
+删除相应java文件的默认.source标签名称；
+语言：全多国语言；
+CPU：通用架构；
+屏幕DPI：120dpi、160dpi、240dpi、320dpi、480dpi、640dpi；
+原始包裹签名已更改；&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Device Info HW+安卓版(查看手机硬件信息) v5.18.0 修改版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9317d66c9079&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9317d66c9079&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>NETGATE Spy Emergency(恶意软件清除工具) v27.0.0.1 多语便携版</title>
+        <link>https://kooshare.github.io/post/netgate/</link>
+        <pubDate>Wed, 28 Aug 2024 15:06:53 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/netgate/</guid>
+        <description>&lt;p&gt;NETGATE Spy Emergency 是一款专业的间谍软件清除工具，可以帮助用户有效地保护电脑免受恶意软件、间谍软件、广告软件和木马等威胁。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/GTNjA3V5XntcEUk.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;NETGATE Spy Emergency(恶意软件清除工具) v27.0.0.1 多语便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;实时保护：Spy Emergency 可以实时监控系统，及时发现和阻止恶意软件的入侵，保护您的电脑免受威胁。
+恶意软件清除：软件可以快速扫描系统，识别和清除各种间谍软件、广告软件、木马、蠕虫和其它恶意软件。
+广告拦截：Spy Emergency 可以帮助您拦截恼人的弹出广告、垃圾邮件和诱骗网站，保护您的隐私安全。
+网络防火墙：软件内置网络防火墙功能，可以监控和管理应用程序的网络访问权限，防止恶意软件通过网络传播。
+系统优化：软件还提供系统优化工具，可以清理系统垃圾文件、优化启动项、加速系统运行速度。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;界面简洁直观，操作简单易懂，适合普通用户和技术人员使用。
+更新频繁且及时，可以及时响应最新的恶意软件威胁，保护系统安全。
+提供多种扫描模式和定时扫描功能，可以根据需要定制扫描计划。
+支持多国语言，满足不同用户的需求。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;NETGATE Spy Emergency(恶意软件清除工具) v27.0.0.1 多语便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/92ee9e4c954d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/92ee9e4c954d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>腾讯QQ官方原版丨最新版下载丨版本号 9.7.23.29391</title>
+        <link>https://kooshare.github.io/post/qqguanfang/</link>
+        <pubDate>Wed, 28 Aug 2024 15:05:59 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/qqguanfang/</guid>
+        <description>&lt;p&gt;腾讯QQ是一款个人沟通工具，可以让用户通过腾讯QQ账号，实现在线聊天、组织会话、文件共享等功能，可以大大方便用户的沟通和协作。它可以让用户随时随地进行聊天、实时交流，是企业内部沟通、协作的理想工具。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/q6Uw8npXMfYyAQK.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;腾讯QQ官方原版丨最新版下载丨版本号 9.7.23.29345&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h5&gt;&lt;p&gt;• 实时交流：允许用户实时进行聊天，是企业内部沟通、协作的理想工具；
+• 账号登录：可以使用腾讯QQ账号登录，让用户可以方便地使用；
+• 文件共享：可以快速地共享文件，给用户带来更快捷的沟通体验；
+• 好友添加：可以添加好友，让用户可以快速扩大聊天群；
+• 离线消息：支持离线消息，让用户可以随时随地收发消息；
+• 群组管理：支持群组管理，可以有效管理和协调群组成员。&lt;/p&gt;
+&lt;h5 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h5&gt;&lt;p&gt;Windows版9.7.23
+优化：
+1、优化了公众号的查看体验；
+2、更新了QQ小黄脸表情“举牌牌”；
+3、新增仅群主/管理员可查看群成员信息；
+4、修复了一些已知bug。&lt;/p&gt;
+&lt;p&gt;官方网站：&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9pbS5xcS5jb20vcGNxcQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://im.qq.com/pcqq&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;腾讯QQ官方原版丨最新版下载丨版本号 9.7.23.29391
+官方下载：&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9kbGRpcjEucXEuY29tL3FxZmlsZS9xcS9QQ1FROS43LjIzL1FROS43LjIzLjI5MzkxLmV4ZQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://dldir1.qq.com/qqfile/qq/PCQQ9.7.23/QQ9.7.23.29391.exe&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>腾讯QQ2024 PC版 9.7.23.29391 去广告绿色精简版</title>
+        <link>https://kooshare.github.io/post/qq202429391/</link>
+        <pubDate>Wed, 28 Aug 2024 14:59:01 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/qq202429391/</guid>
+        <description>&lt;p&gt;腾讯QQ是一款流行的即时通讯软件，提供实时的文本聊天、语音聊天、视频聊天等功能，用户可以通过它与朋友、家人、同事等人进行交流沟通。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/Zr4Hd8qpy2U3cCD.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;腾讯QQ2024 PC版 9.7.23.29345 去广告绿色精简版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;- 发送和接收文字、语音、图片、视频等消息
+- 创建群聊并邀请好友加入
+- 发送文件
+- 在线游戏
+- 空间动态分享
+- 新闻阅读
+- 语音留言等。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;- 高效的通讯：QQ的消息发送速度非常快，可以实时看到对方的消息
+- 多种主题皮肤：QQ提供了许多个性化皮肤可以选择，可以使QQ界面看起来更加美观
+- 多平台支持：QQ在Windows、Mac、iOS、Android等多个平台均有应用，用户可以在不同设备上轻松使用QQ
+- 超大好友数量：在QQ上，用户可以有上万个好友，可以将QQ作为一个社交平台来使用
+- 安全性高：QQ使用了强大的加密技术确保用户的信息安全，另外也提供了防骚扰和防欺诈的机制来保护用户的利益。&lt;/p&gt;
+&lt;h5 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h5&gt;&lt;p&gt;QQPC版
+&lt;a class=&#34;link&#34; href=&#34;https://im.qq.com/pcqq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://im.qq.com/pcqq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2024.08.27
+QQ v9.7.23.29391 正式版&lt;/p&gt;
+&lt;p&gt;经典QQWindows版最近更新：
+- 新增QQ小程序桌面版的插件
+- 新增QQ小世界功能 (短视频导流入口)
+- 移除了QSLogic.dll(后台安全扫描模块)
+- 隐私保护，增加隐私保护指引服务协议&lt;/p&gt;
+&lt;h5 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h5&gt;&lt;p&gt;qq去广告版,QQ精简版下载,QQ精简优化版,QQ绿色精简版
+去广告，精简优化、消息防撤回、去各种限制、绿色纯净版
+01）去所有组件安全校验，无恶意软件损坏提示，禁止后台扫描硬盘
+├— BIN模块、插件组件、终端设备登陆、QS安全扫描、QP安全防护
+├— 无QQProtect(Q盾)安全防护驱动及组件脱离QQProtect组件依赖
+02）禁止插件目录生成空文件夹，插件实现按需加载, 可任意删除插件
+03）解除设置-文件管理-个人文件夹(消息记录等数据)保存位置的限制
+├— 保存位置可自定义保存到安装目录 (原版Win7以上系统该项灰色）
+04）解锁勋章墙加速（强制点亮QQ勋章墙图标，0.2活跃天自动加速）
+05）解除非VIP会员给对方发送在线文件单个文件大于4G大小的限制
+06）解除隐身或离线给对方发送窗口抖动过于频繁限制可无限制发送
+07）解除主面板宽高大小限制，调整面板宽度名称自缩放不显省略号
+08）禁止对方发送的消息防撤回（好友对方发的消息撤回后仍然可见）
+09）还原经典粘贴消息方式：即粘贴多条消息聊天记录[转发记录方式] 为 [经典文本方式]
+10）去主面板无用栏：QQ空间, 花样直播, 腾讯课堂，替换应用管理器查找按钮图标为灰色
+11）去主面板无用项：腾讯文档、QQ空间红点、个性装扮图标动画及红点、编辑个性签名
+12）去界面管理器：打卡,qq小世界,迷你腾讯网,大众点评,app应用中心,兴趣部落,我的购物
+13）去各种腾讯系产品推广：QQ浏览器、搜狗输入法、电脑管家的诱导安装弹窗推广提示
+14）去群公告广告、去群举报按钮、去传输文件侧边栏技巧提示及传视频QQ影音推荐推广
+15）去选项设置界面无用项：软件更新、安全推荐、订阅腾讯视频资讯, 每日精选商品资讯
+17）禁止后台下载：TencentVideo, MiniBrowser, UnKownFileOpen, QQcall**.exe等等
+18）禁止后台生成堆积上G大小的腾讯产品相关日志数据文件 %AppData%Logs
+19）禁止打开播放接收视频文件后在后台下载腾讯视频安装包文件 TencentVideo
+20）禁止点击网址链接和打开未知文件后台生成 UnKownFileOpen, QQcall**.exe
+21）禁止后台生成用户匿名信息统计数据和日志文件Bin*.db, beacon_report.log
+22）禁止后台生成电脑管家下载器相关数据QQDoctor, TSFSCAN, QMReport.dat
+23）移除聊天窗口鼠标指向网址的推广（QQ浏览器电脑管家推广）
+24）移除聊天窗口鼠标指向图片的提示（图片快捷功能悬浮提示条）
+25）移除聊天窗对话框烦人的弹窗及提示（消息漫游安全验证提示）
+26）移除选项-清理文件-清理完毕后的窗口推广（电脑管家推广）
+27）移除聊天窗口无用提示（已对你发送的消息进行了加密处理）
+28）移除主菜单无用项（升级、红点、TIM推送、新功能介绍Tip）
+29）删除了大量不必要的产品更迭历史遗留插件等相关组件
+30）删QQ秀插件、去聊天窗口QQ秀，禁止聊天窗自动变宽&lt;/p&gt;
+&lt;ol start=&#34;31&#34;&gt;
+&lt;li&gt;去界面管理器：QQ频道，并禁止启动自动下载安装组件&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;腾讯QQ2024 PC版 9.7.23.29391 去广告绿色精简版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/020f4d1d09db&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/020f4d1d09db&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>eDiary电子日记本(记录生活点滴) v4.3.2 中文绿色版</title>
+        <link>https://kooshare.github.io/post/ediary/</link>
+        <pubDate>Wed, 28 Aug 2024 14:57:29 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/ediary/</guid>
+        <description>&lt;p&gt;eDiary电子日记本是一款简单易用的电子日记软件，可以帮助用户记录生活中的点滴，保存珍贵的回忆和心情。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/z9oB1iT6kXdpWjv.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;eDiary电子日记本(记录生活点滴) v4.3 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;主要特色&#34;&gt;主要特色
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;简单易用：该软件操作简单，界面清晰易懂，即使是电脑小白也能轻松上手。&lt;/li&gt;
+&lt;li&gt;多样化功能：软件支持多种文本编辑和排版功能，支持插入图片，设置字体、颜色、日期等，满足用户对个性化日记的需求。&lt;/li&gt;
+&lt;li&gt;安全保密：该软件支持加密功能，用户可将重要日记加密保护，保障隐私安全。&lt;/li&gt;
+&lt;li&gt;多平台同步：用户可通过云同步功能将电子日记本同步到多个平台，如手机、平板及电脑，可随时查看，随时编辑，随时备份。&lt;/li&gt;
+&lt;li&gt;分享互动：用户可将日记分享到社交平台，与好友交流分享自己的心情和生活点滴，增强社交互动。&lt;/li&gt;
+&lt;li&gt;时间轴记录：软件提供了时间轴记录功能，可帮助用户将不同时间点的日记分门别类，便于查阅和整理。&lt;/li&gt;
+&lt;li&gt;备份和恢复：软件还提供了备份和恢复功能，用户可随时备份日记本，避免误删除或系统故障时数据丢失的问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h5&gt;&lt;p&gt;新版 (4.3.2) 有哪些改进？
+* 新增：新增了暗色外观 (Dark)，并增加了夜间模式相关设置。
+* 新增：新增了若干个模板宏 (天气、日记本名称、标签名等)。
+* 新增：改善编辑器字体下拉框的用户体验。
+* 新增：针对群晖 (Synology Drive) 双向同步会导致数据损坏的问题弹出提示。
+* 修正：修正了 WebDAV 同步的各种问题。
+* 修正：修正了阿里云盘报错 &amp;ldquo;由于权限问题操作被阻止&amp;rdquo; 的问题。
+* 修正：修正了编辑器插入横线后丢失行距等段落格式的问题。
+* 修正：修正了在电脑端将文字颜色设置为默认后在安卓端显示不见的问题。
+* 修正：修正了 &amp;ldquo;模板收藏后再取消收藏导致模板显示为空白&amp;rdquo; 的问题。
+* 修正：避免不同设备收藏同一模板并同步后产生名称重复的模板。
+* 修正：修正了 &amp;ldquo;在安卓平台下收藏模板后在PC平台下预览图显示为空白&amp;rdquo; 的问题。
+* 调整：AI 写作助手的单次请求文本长度从 1000 字增加到 5000 字。
+* 调整：正在同步时不允许删除标签，避免造成数据混乱。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;eDiary电子日记本(记录生活点滴) v4.3.2 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e9b7600421e8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e9b7600421e8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Shark007 Codecs(多媒体编解码器套件) v18.6.8 绿色版</title>
+        <link>https://kooshare.github.io/post/shark007/</link>
+        <pubDate>Wed, 28 Aug 2024 14:55:39 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/shark007/</guid>
+        <description>&lt;p&gt;Shark007 Codecs 是一个全面的多媒体编解码器套件，它为Windows用户提供了直接在Windows Media Player和其他媒体播放器中播放多媒体文件的能力。它包括了几乎所有常见的视频和音频格式的解码器和编码器，例如AVI、MKV、FLV、MP4、MP3、WAV等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/A6MkL9yzPTgnFvW.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Shark007 Codecs(多媒体编解码器套件) v18.4.6 绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;提供多种视频和音频格式的解码器和编码器；
+可以在Windows Media Player和其他媒体播放器中无缝播放各种多媒体文件；
+提供高质量的解码和编码算法，保证音视频的清晰度和流畅度；
+支持各种视频和音频设置，例如音量控制、视频调整、字幕显示等；
+支持皮肤和界面定制，让用户可以根据自己的喜好进行个性化设置；
+提供了一个简单的安装程序，使安装和配置过程变得简单和快速。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;免费使用：Shark007 Codecs 是一个免费的软件，用户可以在不花费任何费用的情况下获得并使用它；
+全面兼容：该软件支持几乎所有常见的视频和音频格式，包括高清视频和无损音频；
+稳定可靠：Shark007 Codecs 使用了高质量的解码和编码算法，确保音视频的稳定性和可靠性；
+简单易用：软件提供了一个简单直观的用户界面，使用户可以轻松地进行安装和配置；
+定制化配置：软件允许用户根据自己的需求进行各种音视频设置，以满足不同用户的需求。&lt;/p&gt;
+&lt;h5 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h5&gt;&lt;p&gt;notable updates (current):
+- update LAV filters 0.79.2.18
+- update MediaInfo DLL v24.6
+- update MPC-BE filters 1.7.3.24
+- update Icaros 3.3.3 beta 2&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Shark007 Codecs(多媒体编解码器套件) v18.6.8 绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/4daa1d722519&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/4daa1d722519&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>TeamViewer(远程控制软件) v15.57.3 官方绿色版</title>
+        <link>https://kooshare.github.io/post/teamviewer/</link>
+        <pubDate>Wed, 28 Aug 2024 14:53:38 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/teamviewer/</guid>
+        <description>&lt;p&gt;TeamViewer是一个功能强大的远程控制和桌面共享软件，它可以帮助用户通过互联网远程连接到其他计算机，从而实现远程支持、远程协作和远程管理等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/xGrbXBlS38DV2ON.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;TeamViewer(远程控制软件) v15.54.3 官方绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;远程控制：TeamViewer可以让您远程控制其他计算机，就像您正在本地使用它一样，使远程工作变得更加方便。&lt;/li&gt;
+&lt;li&gt;桌面共享：用户可以通过TeamViewer分享自己的桌面，让其他用户可以查看和操作自己的屏幕，从而实现远程协作。&lt;/li&gt;
+&lt;li&gt;文件共享：用户可以直接通过TeamViewer共享文件和文件夹，从而方便地进行文件传输和共享。&lt;/li&gt;
+&lt;li&gt;会议功能：TeamViewer支持会议功能，用户可以轻松地在远程会议上进行视频、音频和聊天通信。&lt;/li&gt;
+&lt;li&gt;安全性保障：TeamViewer采用了AES和RSA加密技术，确保远程连接和共享过程中数据的安全性。&lt;/li&gt;
+&lt;li&gt;多平台支持：TeamViewer支持多种操作系统平台，包括Windows、Mac、Linux、Android和iOS等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;界面简洁易用：TeamViewer提供了一个直观且易于使用的界面，使得用户可以很容易地进行远程连接和控制。&lt;/li&gt;
+&lt;li&gt;免费商业使用：TeamViewer具有商业使用的许可证，允许个人或商业用户免费使用，并且没有时间限制或功能限制。&lt;/li&gt;
+&lt;li&gt;快速可靠：TeamViewer可以在不同网络条件下进行快速和可靠的远程连接，确保了用户的远程协作体验。&lt;/li&gt;
+&lt;li&gt;多种语言支持：TeamViewer支持多种语言，包括中文、英文、法语、德语、意大利语、西班牙语等，在全球范围内都有广泛的用户群体。&lt;/li&gt;
+&lt;li&gt;多种连接方式：TeamViewer支持多种连接方式，包括直接IP地址连接、VPN连接、远程桌面连接等，满足不同用户的需求。&lt;/li&gt;
+&lt;li&gt;丰富的功能：除了远程控制、桌面共享、文件共享和会议功能，还支持远程打印、远程音频等高级功能，为用户提供全方位的远程连接支持。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;TeamViewer(远程控制软件) v15.57.3 官方绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/29b382934b36&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/29b382934b36&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Q-Dir(免费的文件管理器) v11.75 中文绿色版</title>
+        <link>https://kooshare.github.io/post/qdir/</link>
+        <pubDate>Wed, 28 Aug 2024 14:52:22 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/qdir/</guid>
+        <description>&lt;p&gt;Q-Dir是一款免费的文件管理器，具有多窗口浏览、拖放功能、自定义布局等特点，可以快速方便地浏览和管理文件和文件夹。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/INVfadgFvPQwBK9.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Q-Dir(免费的文件管理器) v11.65 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;多窗口浏览：可以同时在一个界面中打开多个文件夹，方便对文件和文件夹进行管理。&lt;/li&gt;
+&lt;li&gt;拖放功能：支持拖放文件和文件夹，可以方便地进行复制、移动、删除等操作。&lt;/li&gt;
+&lt;li&gt;自定义布局：可以自定义窗口布局，包括窗口大小、位置、颜色等，让用户更加舒适地使用软件。&lt;/li&gt;
+&lt;li&gt;支持多种文件类型：支持浏览和管理多种文件类型，包括文本文件、图像文件、音频文件、视频文件等。&lt;/li&gt;
+&lt;li&gt;快速访问：支持快速访问常用文件和文件夹，可以将它们添加到收藏夹中，方便快速打开。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;免费：Q-Dir是一款完全免费的软件，用户无需支付任何费用即可使用全部功能。&lt;/li&gt;
+&lt;li&gt;轻巧：Q-Dir的安装包非常小，只有几百KB，安装后占用的系统资源也非常少，不会影响计算机的性能。&lt;/li&gt;
+&lt;li&gt;界面友好：Q-Dir的界面简洁、直观，易于操作，即使是初次使用的用户也可以轻松上手。&lt;/li&gt;
+&lt;li&gt;支持多语言：Q-Dir支持多种语言，包括英语、中文、德语、法语等，用户可以选择自己熟悉的语言来使用软件。&lt;/li&gt;
+&lt;li&gt;持续更新：Q-Dir的开发者会持续更新软件，修复bug、增加新功能，保证软件的稳定性和可靠性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Q-Dir(免费的文件管理器) v11.75 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2884b14c2aba&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2884b14c2aba&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Wondershare Repairit(万兴视频修复软件) v6.0.0.40</title>
         <link>https://kooshare.github.io/post/wondersharerepairit/</link>
         <pubDate>Wed, 28 Aug 2024 14:47:40 +0800</pubDate>

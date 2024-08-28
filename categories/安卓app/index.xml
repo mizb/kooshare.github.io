@@ -7,7 +7,51 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 28 Aug 2024 13:49:51 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 Aug 2024 15:09:05 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Device Info HW&#43;安卓版(查看手机硬件信息) v5.18.0 修改版</title>
+        <link>https://kooshare.github.io/post/deviceinfohw5180/</link>
+        <pubDate>Wed, 28 Aug 2024 15:09:05 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/deviceinfohw5180/</guid>
+        <description>&lt;p&gt;📱Device Info HW+是一款安卓设备信息查看工具，可以帮助用户查看手机或平板电脑的硬件和软件信息。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/HSR4dOrCALoZmu5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Device Info HW&amp;#43;安卓版(查看手机硬件信息) v5.17.0 修改版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;显示设备的基本信息，如型号、制造商、操作系统版本等。
+查看硬件信息，如处理器型号、内存大小、存储空间等。
+显示传感器信息，如加速度传感器、光感应器等。
+查看网络信息，如Wi-Fi连接状态、IP地址等。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;界面简洁直观，操作方便快捷。
+支持多种语言，满足全球用户的需求。
+提供详细的设备信息，帮助用户了解设备的性能和功能。
+兼容大多数安卓设备，适用于各种型号和品牌的手机和平板电脑。&lt;/p&gt;
+&lt;h5 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h5&gt;&lt;p&gt;by Balatan
+不需要root、Lucky Patcher或Google Play Modded；
+优化和快速对齐的图形和干净的资源，实现快速加载；
+调试代码已删除；
+删除相应java文件的默认.source标签名称；
+语言：全多国语言；
+CPU：通用架构；
+屏幕DPI：120dpi、160dpi、240dpi、320dpi、480dpi、640dpi；
+原始包裹签名已更改；&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Device Info HW+安卓版(查看手机硬件信息) v5.18.0 修改版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9317d66c9079&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9317d66c9079&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>SD Maid SE安卓版(安卓系统清理器) v1.2.4-rc0 修改版</title>
         <link>https://kooshare.github.io/post/sdmaidse124/</link>
         <pubDate>Wed, 28 Aug 2024 13:49:51 +0800</pubDate>
