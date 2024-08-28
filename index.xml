@@ -7,7 +7,340 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 27 Aug 2024 22:02:39 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 Aug 2024 13:17:32 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>nova播放器(nova_video_player) v6.2.95 支持TV&#43;pad&#43;安卓 影视海报墙</title>
+        <link>https://kooshare.github.io/post/nova6295/</link>
+        <pubDate>Wed, 28 Aug 2024 13:17:32 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/nova6295/</guid>
+        <description>&lt;p&gt;NOVA（NOVA是opeN sOurce Video plAyer的缩写） 是一个专为平板、手机和安卓电视设计的开源视频播放器。
+软件是自适应设计，完美适配TV、手机和pad。软件已开源，免费使用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;支持从电脑、服务器(FTP、SFTP)、NAS(SMB、UPnP)上导入影片到播放器，并且自动匹配影视海报信息&lt;/strong&gt;，这也是它最大的特点，非常适合有nas的人使用。&lt;/p&gt;
+&lt;h3 id=&#34;手机端效果&#34;&gt;手机端效果：
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/URZyjVFDMzH1Cxg.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240828131840922&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;全功能播放器：&lt;/strong&gt;
+- 从您的电脑、服务器(FTP、SFTP)、NAS(SMB、UPnP)上播放视频
+- 从外置USB存储器上播放视频
+- 可以将来自全部媒体源的视频整合进一个单独的多媒体收藏库
+- 自动在线获取电影和连续剧的剧情说明以及海报和背景墙
+- 内置字幕下载功能&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最佳播放器：&lt;/strong&gt;
+- 硬件视频解码加速，适用于绝大部分设备和视频格式
+- 支持多音频流和多字幕
+- 支持的文件格式：MKV、MP4、AVI、WMV、FLV等
+- 支持的字幕文件格式：SRT、SUB、ASS、SMI等&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;适合电视的界面：&lt;/strong&gt;
+- 适合于安卓电视的专用用户界面
+- 在支持的硬件上实现AC3/DTS直通(HDMI或S/PDIF)：Nexus Player、NVidia SHIELD TV、 基于Rockchip和AmLogic的电视盒子
+- 支持适用于3D电视的左-右和上-下3D格式播放
+- 包含音频增强模式可增大音量
+- 包含夜晚模式可动态调整音量&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;自在浏览文件：&lt;/strong&gt;
+- 迅速访问最近加入和播放的视频
+- 按名称、分类、年份、片长或评分来浏览电影
+- 按季浏览电视剧
+- 支持文件夹浏览&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;还有还有：&lt;/strong&gt;
+- 在多个设备上恢复网络视频播放进度
+- 剧情说明和海报NFO元数据处理
+- 为您的网络内容设置定期重新扫描计划(仅限电视界面)
+- 隐私模式：临时禁用播放历史记录
+- 手动调整字幕同步
+- 手动调整音频/视频同步&lt;/p&gt;
+&lt;h3 id=&#34;v6284&#34;&gt;v6.2.84
+&lt;/h3&gt;&lt;p&gt;切换回以前的沙丁鱼安卓系统以修复webdav回归&lt;/p&gt;
+&lt;p&gt;固定字幕轨道不适用于下一集的狂欢模式播放模式&lt;/p&gt;
+&lt;p&gt;修复smbj重命名&lt;/p&gt;
+&lt;p&gt;修复有时选择随机字幕的问题&lt;/p&gt;
+&lt;p&gt;Bump commons net至3.11.1，jsch至0.2.18，sentry至7.10.0，sardin android至0.9&lt;/p&gt;
+&lt;h3 id=&#34;v6277&#34;&gt;v6.2.77
+&lt;/h3&gt;&lt;p&gt;关于最新重构的更多字幕修复
+稳定性增强
+重构字幕选择逻辑：如果存在外部srt并且没有找到匹配的语言，则选择它
+稳定性增强
+修复默认字幕选择逻辑
+一些稳定性增强&lt;/p&gt;
+&lt;h3 id=&#34;v6272&#34;&gt;v6.2.72
+&lt;/h3&gt;&lt;p&gt;使用jupnp 3.0.2，而不是执着于UPnP/！\请报告UPnP的任何问题
+许多字幕名称检测修复
+将预取/本地字幕作为文件而非http URI传递给外部视频播放器，以解决JustPlayer的编码问题
+Nova图标更新符合Google Play&lt;/p&gt;
+&lt;h3 id=&#34;v6270&#34;&gt;v6.2.70
+&lt;/h3&gt;&lt;p&gt;修复默认情况下隐藏字幕不起作用的回归
+修复潜艇未传递到外部视频播放器
+真的修复了海报没有在旧的Android版本上下载
+现在Android电视图标符合Google Play要求&lt;/p&gt;
+&lt;h3 id=&#34;v6267&#34;&gt;v6.2.67
+&lt;/h3&gt;&lt;p&gt;修复通知图标
+Android电视图标更新符合Google Play
+修复哨兵行为改变报告okhhtp3 50x错误消息&lt;/p&gt;
+&lt;h3 id=&#34;v6264&#34;&gt;v6.2.64
+&lt;/h3&gt;&lt;p&gt;添加Android 12匹配帧率功能支持刷新率选择（nova设置中的新模式）&lt;/p&gt;
+&lt;p&gt;返回EOL，因为jupnp还不稳定&lt;/p&gt;
+&lt;p&gt;字幕修复&lt;/p&gt;
+&lt;h3 id=&#34;v6247&#34;&gt;v6.2.47
+&lt;/h3&gt;&lt;p&gt;更干净的安卓电视年横幅
+更好地从文件名中检测外部字幕语言
+如果在播放过程中下载了字幕，则更新视频信息片段
+安卓电视上更快的字幕检查
+修复播放模式中的问题&lt;/p&gt;
+&lt;h3 id=&#34;v6243&#34;&gt;v6.2.43
+&lt;/h3&gt;&lt;p&gt;在播放器UI中正确处理手势导航屏幕布局
+更薄的播放器控制器音量/搜索条
+修复ftp由于时间依赖而无法工作的问题
+稳定性增强
+应用程序启动时更快的本地/USB存储扫描&lt;/p&gt;
+&lt;h3 id=&#34;v6240&#34;&gt;v6.2.40
+&lt;/h3&gt;&lt;p&gt;强制执行新的opensubtitles REST-API，配额将于1月强制执行
+当播放器屏幕处于锁定模式时禁用手势控制
+新新星图标
+2024安卓电视年度横幅
+尝试支持WebDAV 302重定向
+简历中不记得字幕音轨选择
+将boost更新至1.84.0，将libtorrent更新至2.9.0
+修复AV1解码回归
+稳定性增强&lt;/p&gt;
+&lt;h3 id=&#34;v6237&#34;&gt;v6.2.37
+&lt;/h3&gt;&lt;p&gt;添加手势控制
+提高新的 opensubtitles REST-API 下载器的稳健性
+现在支持以下手势：
+双击屏幕的左/右区域 +-10 秒向后/向前搜索
+在屏幕的左/右区域滚动以增加/减少亮度/音量
+屏幕左上方/右上方添加了两个 OSD 区域，用于显示快退/快进图标和音量/亮度级别。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装包选择：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;高性能设备选：arm64-v8a-API_21+
+一般设备或者低系统版本：armeabi-v7a-API_21
+不清楚怎么选，无脑用：universal-API_21+&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/750306872072&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/750306872072&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>我们的电视 TV v3.2.3/手机 v3.2.3</title>
+        <link>https://kooshare.github.io/post/womendedianshi323/</link>
+        <pubDate>Wed, 28 Aug 2024 13:15:04 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/womendedianshi323/</guid>
+        <description>&lt;p&gt;开源软件我的电视(my-tv)，因极其流畅的体验获得许多用户的喜欢。由于开源的原因，现在已经出现了各种基于其修改的衍生版本。&lt;/p&gt;
+&lt;p&gt;今天这款也是其中之一，不仅有电视版，还出了手机专用的版本。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/aCu5c3jIbiFDBfL.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;我们的电视 TV v3.2.3/手机 v3.2.3-第1张图片-&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/D6QOfAP4KWdLiue.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;我们的电视 TV v3.2.3/手机 v3.2.3-第2张图片-&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;手机版&#34;&gt;手机版
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/jasi9PDmgH1OrJC.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240828131554565&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;v323&#34;&gt;v3.2.3
+&lt;/h3&gt;&lt;p&gt;增加按频道设置音量的能力&lt;/p&gt;
+&lt;p&gt;清晰度按频道记忆
+修改默认清晰度为超清
+修正部分频道回看期间切换清晰度可能的卡死问题
+部分机型播放卡顿请使用3.1.1版本（该版本不带回看能力）&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/705594203b66&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/705594203b66&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AdGuard v4.6.81 广告拦截器_高级版</title>
+        <link>https://kooshare.github.io/post/adguard4681/</link>
+        <pubDate>Wed, 28 Aug 2024 13:11:48 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/adguard4681/</guid>
+        <description>&lt;p&gt;互联网是一个神奇的世界，充满无尽可能性，但同时，无处不在的广告、恶意软件及隐私窥探等威胁随之而至。这个问题，AdGuard 看见了，且决心解决。&lt;/p&gt;
+&lt;p&gt;AdGuard是一款非常实用的广告屏蔽工具，其甄别并屏蔽广告的强大能力已然成为业界公认的金标准。而在功能强大的同时，AdGuard又以简单易用的用户界面，让每一个用户都能不费吹灰之力扼制各类烦人的广告。更加轻松地浏览网页，无广告烦恼。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/aq2wAu5VEcDLrTY.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240828131300603&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点&#34;&gt;特点：
+&lt;/h3&gt;&lt;p&gt;Adguard [Nightly] [Premium] [Mod]&lt;/p&gt;
+&lt;p&gt;by Balatan
+adguard安卓版,adguard破解订阅版
+- 解锁永久订阅版，可以正常更新规则
+- 去除首次启动欢迎界面快速设置向导
+- 跳过发送改善体验以及隐私政策向导
+- 禁用或移除了不必要的权限、服务、接收器、提供器
+- 删除不必要资源文件、对齐优化、压缩打包减小体积&lt;/p&gt;
+&lt;p&gt;应用大小：31.8MB
+应用架构：arm64-v8a
+应用包名：com.adguard.android
+应用版本：4.6.81(10203879) Final
+编译日期：2024年08月21日，22:17:50&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/acf8e2490004&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/acf8e2490004&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>方格音乐 v1.6.3 纯净版 免费无损 颜值极高</title>
+        <link>https://kooshare.github.io/post/fanggeyinyue163/</link>
+        <pubDate>Wed, 28 Aug 2024 13:08:13 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/fanggeyinyue163/</guid>
+        <description>&lt;p&gt;现在大部分人肯定使用手机听歌比较多，但PC端的音乐软件还是有它的优势在那，PC端通常有更好的音频输出设备和音质，可以提供更优质的音乐体验。&lt;/p&gt;
+&lt;p&gt;最近发现一款非常优秀的PC音乐软件，真的太专业了，可以说是目前为止最好用的第三方音乐软件，颜值极高，拥有无损音质，很有大厂的那种专业风格——方格音乐&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/SNTZeogsp4jiEJq.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;方格音乐 v1.6.3 纯净版 免费无损 颜值极高-第1张图片-&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;大家先看看这颜值，这UI设计真的漂亮，开发者的审美还可以，而且有亮色和暗色两种模式。&lt;/p&gt;
+&lt;p&gt;软件目前为1.0版本，是原魔音作者开发的，可以说是前作的升级版，所以这次的1.0版本也极其成熟。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/x1oj7ZKusD6N3On.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;方格音乐 v1.6.3 纯净版 免费无损 颜值极高-第2张图片-&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;各种详细的歌曲信息增加了这款音乐软件的使用体验，比如歌手专栏、榜单都会有详细的介绍，点开周杰伦的专栏，就会有他的详细介绍，甚至最近开的演唱会唱了哪些歌都会有。&lt;/p&gt;
+&lt;h3 id=&#34;频谱功能&#34;&gt;频谱功能
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/PHOWfcds2T4ajxy.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;方格音乐 v1.6.3 纯净版 免费无损 颜值极高-第3张图片-&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;在歌曲播放的时候，除了歌词显示之外，还根据声调增加了一些律动感，让你在听歌时更有感觉。&lt;/p&gt;
+&lt;h3 id=&#34;支持无损下载&#34;&gt;支持无损下载
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/r61esSZJ94li8AQ.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;方格音乐 v1.6.3 纯净版 免费无损 颜值极高-第4张图片-&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;软件的音乐资源堪称一个丰富，几乎很多热门、经典、新歌都能搜索的到，而且都支持无损下载，下载速度超快。&lt;/p&gt;
+&lt;h3 id=&#34;同样也支持歌单导入&#34;&gt;同样也支持歌单导入
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/28/8RGedc61Mh9TkCE.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;方格音乐 v1.6.3 纯净版 免费无损 颜值极高-第5张图片-&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;这好像是目前很多第三方音乐软件越来越普及的一个功能了；如果在其他音乐软件收藏了很多歌曲，那么你可以通过歌单导入的方式一键迁移过来。&lt;/p&gt;
+&lt;p&gt;颜值高再加上免费无广的使用体验，我相信这款音乐软件大家一定会喜欢，因为真的很好用。&lt;/p&gt;
+&lt;p&gt;如果能再出个适配车机+电视端的版本就好。或者增加一些音效功能就更完美。&lt;/p&gt;
+&lt;h3 id=&#34;v161&#34;&gt;v1.6.1
+&lt;/h3&gt;&lt;p&gt;- 修复无法搜索显示空白的问题
+- 修复播放收藏歌单无法播放的问题
+- 修复乐库2无法播放提示获取失败问题
+- 修复当单曲循环的时歌词不能循环显示问题&lt;/p&gt;
+&lt;h3 id=&#34;v150&#34;&gt;v1.5.0
+&lt;/h3&gt;&lt;p&gt;- 新增 桌面歌词终于来啦
+- 新增 默认下载音质，不用每次弹窗
+- 新增 下载列表/本地列表可拖拽到其他程序
+- 优化 任务栏显示歌名
+- 优化 整体Ul调整
+- 优化 本地音乐可以循环搜索文件夹下所有音乐
+- 修复 首次启动缓慢的问题
+- 修复 播放一段时间后卡顿的问题
+- 修复 导入歌单后无法加载更多的问题
+- 修复 有些歌词无法滚动的问题
+- 修复 周杰伦无法播放的问题
+- 修复 歌词页不显示调整歌词时间按钮的问题
+- 修复 本地音乐加载过多卡顿假死的问题
+- - 修复 最小化到托盘无法再打开的问题&lt;/p&gt;
+&lt;h3 id=&#34;v120&#34;&gt;v1.2.0
+&lt;/h3&gt;&lt;p&gt;新增 全部歌手页
+新增 全部歌单分类页
+新增 歌手收藏
+新增 收藏歌单重命名
+新增 将音乐封面作为歌单封面
+新增 显示热门搜索词
+新增 搜索记录清空按钮
+新增 自定义本地音乐文件夹
+新增 本地音乐排序
+新增 本地音乐增加时间和大小
+新增 本地音乐可添加到我的歌单
+新增 窗口大小调整记忆存储
+新增 在线播放音质选择
+新增 开机启动
+新增 频谱样式更多选择
+新增 选择音频输出设备
+新增 下载写入音乐标签
+新增 方格音乐作为本地默认播放器
+新增 列表增加滚动条
+新增 播放页右上角增加关闭播放页按钮
+修复 单曲循环无效的问题
+修复 歌单存储后只有20首的问题
+优化 支持win7/win8系统
+优化 歌词每次偏移量调整为0.5s
+优化 歌词偏移量单独记忆存储
+优化 整体UI优化调整
+其他一些BUG修复&lt;/p&gt;
+&lt;h3 id=&#34;修改特点&#34;&gt;&lt;strong&gt;修改特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;by 423down
+- 去除广告弹窗（推广）
+- 去除首页顶部广告横幅（推广）
+- 去除更新提示弹窗，切断在线检测更新
+- 去除关于界面按钮：更新、反馈、公众号&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/eddd29039626&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/eddd29039626&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>网易有道词典 v10.1.1 免费的全能翻译软件，去广告解锁会员版</title>
         <link>https://kooshare.github.io/post/youdaocidian1011/</link>
         <pubDate>Tue, 27 Aug 2024 22:02:39 +0800</pubDate>
