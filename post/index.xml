@@ -7,7 +7,47 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 07:13:08 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 07:18:37 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>定时/热键自动化任务工具 | zTasker v1.97.1</title>
+        <link>https://kooshare.github.io/post/ztasker1971/</link>
+        <pubDate>Thu, 29 Aug 2024 07:18:37 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/ztasker1971/</guid>
+        <description>&lt;p&gt;官方网站：&lt;a class=&#34;link&#34; href=&#34;http://www.everauto.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www.everauto.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;zTasker是一个定时/热键自动化任务工具，可以采用定时或热键的方式执行多种自动化任务，支持50+种任务类型，20+种定时/条件执行方法，任务列表随意编辑、排列、移动、更改类型，支持任务执行日志，支持任务列表等数据的备份，支持任务日志，支持。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/d75lcBjLzTQmAM3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/8761-1.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;★一键式操作，省心省力
+★体积小，极速毫秒级启动，极速反应，强大功能
+★定时热键系统条件触发的自动任务
+★定时备份/同步，支持文件，文件夹，系统文件夹，注册表，
+★50+种任务类型，20+种定时/条件执行方法
+★任务列表随意编辑、排列、移动、更改类型，任务执行日志
+★可覆盖Win+F等windows自身的热键
+★快速提醒，定时关机等快捷任务，
+★执行功能提示，比如用热键调整音量时，会显示当前音量
+★支持数据备份
+★支持自动更新&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;V1.97.1 2024-8-26&lt;/p&gt;
+&lt;p&gt;修复1.97更新导致的进程监测计划失效问题
+其余更新内容详情请参见1.97&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://everauto.net:8080/up/zTasker_1.97.1_Setup.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;官网下载&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Kate v24.08.7806 | 免费的高级文本编辑器</title>
         <link>https://kooshare.github.io/post/kate7806/</link>
         <pubDate>Thu, 29 Aug 2024 07:13:08 +0800</pubDate>
