@@ -7,7 +7,45 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 07:18:37 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 07:37:06 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Flash反编译工具 JPEXS Flash Decompiler v21.0.4 中文版</title>
+        <link>https://kooshare.github.io/post/jpexs/</link>
+        <pubDate>Thu, 29 Aug 2024 07:37:06 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/jpexs/</guid>
+        <description>&lt;p&gt;对于 Flash 反编译工具，当然小编之前也给大家分享过 Flash Decompiler Trillix 5.3 汉化版，Flash Decompiler Trillix 5.3.1370 汉化版和国内比较火的闪客精灵相似。JPEXS Free Flash Decompiler 中文版是一款基于 Java 平台运行的免费 Flash 反编译工具。在使用 JPEXS Free Flash Decompiler 之前你需要确认你的系统中是否安装的有 Java，如果没有可以下载安装。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/mXHWt1Bof4TAJCa.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;导出脚本，图像，图形，动画，声音…
+SWF 为 FLA 转换
+显示 ActionScript 源代码。
+ActionScript 源实验直接编辑
+通过汇编源代码编辑
+支持 ActionScript1/2 和 AS3
+点击反编译源凸显 P 码相关的指令，反之亦然
+保存修改后的 ActionScript 到文件
+更换图片，编辑文本和字体
+显示 SWF 资源（图形，精灵，字体，按键…）
+（在非 Windows 平台）
+内置代理服务器而通过它来编辑 SWF 文件
+基于 Java 代码，支持多种平台
+多语言支持（见语言列表）
+可以反编译某些种类的混淆代码&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/dad00ef00ff2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/dad00ef00ff2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>定时/热键自动化任务工具 | zTasker v1.97.1</title>
         <link>https://kooshare.github.io/post/ztasker1971/</link>
         <pubDate>Thu, 29 Aug 2024 07:18:37 +0800</pubDate>

@@ -7,7 +7,38 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 07:27:22 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 07:42:17 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>TTime(翻译软件) v0.9.14 绿色版</title>
+        <link>https://kooshare.github.io/post/ttime0914/</link>
+        <pubDate>Thu, 29 Aug 2024 07:42:17 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/ttime0914/</guid>
+        <description>&lt;p&gt;TTime是一款翻译软件，主要功能为输入翻译、截图翻译、划词翻译&lt;/p&gt;
+&lt;p&gt;平时工作或学习中难免会有存在需要翻译的场景，但是又没有一款好用而又简单的翻译工具&lt;/p&gt;
+&lt;p&gt;为此TTime出现了，它可以帮助我们更好的提高工作和学习效率&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/E6hJHM8L3AeGwYz.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;h4 id=&#34;输入翻译-alt--q&#34;&gt;输入翻译 (Alt + Q)
+&lt;/h4&gt;&lt;p&gt;通过按下默认快捷键 Alt + Q 方式调出翻译窗口，可以自行输入翻译&lt;/p&gt;
+&lt;h4 id=&#34;截图翻译-alt--w&#34;&gt;截图翻译 (Alt + W)
+&lt;/h4&gt;&lt;p&gt;通过按下默认快捷键 Alt + W 方式调出截图，截图完毕后软件会自动对图片进行识别并翻译&lt;/p&gt;
+&lt;h4 id=&#34;划词翻译-alt--e&#34;&gt;划词翻译 (Alt + E)
+&lt;/h4&gt;&lt;p&gt;通过按下默认快捷键 Alt + E 方式会对光标已选中的文字进行识别翻译&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://vip.123pan.cn/1816453762/TTime/0.9.14/TTime-0.9.14-setup.exe?v=20240826&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;官网下载&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>像素画绘制工具 Pixelorama v1.0.2.0 中文免费版</title>
         <link>https://kooshare.github.io/post/pixelorama/</link>
         <pubDate>Thu, 29 Aug 2024 07:27:22 +0800</pubDate>

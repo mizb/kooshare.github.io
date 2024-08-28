@@ -7,7 +7,92 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 07:11:05 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 07:44:31 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>全网影视资源播放器ZY-Player v3.3.7 电脑版</title>
+        <link>https://kooshare.github.io/post/zyplayer337/</link>
+        <pubDate>Thu, 29 Aug 2024 07:44:31 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/zyplayer337/</guid>
+        <description>&lt;p&gt;ZYPlayer是一款基于electron开发的一款播放器，最大的特色就是爬取了好多个大资源网站，能一键搜索全网影视，并且没有广告播放相关网站的影视。软件颜值不错，并且资源丰富，最重要的是还开源，值得使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/8z3qYBCdD6MmtWh.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;ZY Player 资源播放器 – 跨平台视频资源播放器, 简洁免费无广告!&lt;/p&gt;
+&lt;p&gt;— 支持全平台：Windows, Mac, Linux
+— 支持IPTV频道, 提供卫视/卫视高清直播列表
+— 视频源支持自定义, 支持导入, 导出为M3U8
+— 支持海报模式和列表模式浏览资源
+— 倍速播放, 播放历史, 自动跳转历史进度
+— 收藏夹支持导入,导出, 支持同步追剧
+— 支持精简模式, 摸鱼划水
+— 一键搜索所有资源, 支持历史搜索记录
+— 导出资源下载链接
+— 支持第三方播放器播放
+— 显示豆瓣评分&lt;/p&gt;
+&lt;h3 id=&#34;接口分享&#34;&gt;接口分享
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://xiaoguozitv.cn/catys/zyplay.json&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://xiaoguozitv.cn/catys/zyplay.json&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/zy_yuan.json&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/zy_yuan.json&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://fastly.jsdelivr.net/gh/ls125781003/dmtg@main/zy_yuan.json&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://fastly.jsdelivr.net/gh/ls125781003/dmtg@main/zy_yuan.json&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/zy_yuan.json&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/zy_yuan.json&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://raw.fastgit.org/ls125781003/dmtg/main/zy_yuan.json&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://raw.fastgit.org/ls125781003/dmtg/main/zy_yuan.json&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://cdn.jsdelivr.net/gh/cuiocean/ZY-Player-Resources@main//Recommendations/Recommendations.json&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://cdn.jsdelivr.net/gh/cuiocean/ZY-Player-Resources@main//Recommendations/Recommendations.json&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://pan.shangui.cc/f/BDQ4Up/zyplayer_102.json&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.shangui.cc/f/BDQ4Up/zyplayer_102.json&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;源收集：https://github.com/Hiram-Wong/ZyPlayer/discussions/48&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f0df3290658a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f0df3290658a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>线谱打谱软件 MuseScore v4.4.0 中文多语免费版</title>
+        <link>https://kooshare.github.io/post/musescore/</link>
+        <pubDate>Thu, 29 Aug 2024 07:38:59 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/musescore/</guid>
+        <description>&lt;p&gt;简谱打谱软件 MuseScore 中文版是一款类似于 Finale、Sibelius 的五线谱打谱软件，它具有非常专业的打谱功能，可以跨平台运行，非常适合音乐创作者使用。MuseScore 简谱打谱软件是一套支持中文的免费作曲写乐谱工具。除了可在Windows、Linux、 MacOS 等作业系统来执行，还可以透过 MuseScore 的协助，让你谱出属于你的五线谱，更可以输出包含 PDF、PNG 及 MIDI 等多种档案格式，让你轻轻松松就可以制作与列印出漂亮美观的五线谱。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/GERPHYwS5poNT2s.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;MuseScore 支持绝大部分常见记谱法规定的符号，包括音符、休止符、歌词、和弦、连音线、装饰音符号、表情记号、各种谱号、全部的拍号、全部的调号、反复记号等等。具有制作大型乐队总谱的能力，常见的吉它谱、钢琴谱完全不在话下。&lt;/p&gt;
+&lt;p&gt;还有一点，如果需要与他人共享音乐，您可以导入和导出 MusicXML、标准 MIDI 文件以及 Band-in-a-Box 格式的文件。它也支持 LilyPond。完成创作后，您可以以 SVG、 PDF 或 PNG 格式打印活页乐谱。如果您需要和朋友分享，MuseScore 可以帮您制作外观更专业的活页乐谱。&lt;/p&gt;
+&lt;p&gt;由于简单易学、拥有学生们喜欢的功能，MuseScore 在教师中非常流行。对业余爱好者，它会使用黄色标记超出范围的音符；而对于专业音乐家，则将使用红色标记。它提供自动的音符头部定位、不限次数的时间和音阶改变、连音符编辑和无限的歌词。MuseScore 还具有混音器、段落抽取和装饰音等功能。&lt;/p&gt;
+&lt;p&gt;1.标题、歌词等等都可用中文
+2.不限行数的五线谱
+3.每行五线谱可用上四个声部
+4.可用滑鼠、键盘或MIDI键盘输入音符, 又容易又快
+5.包含有MIDI音序器(sequencer)以及软体的音乐合成器(software synthesiser)FluidSynth
+6.能转入及送出MusicXML和标准MIDI档案(SMF)&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e836428e8a3b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e836428e8a3b&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>看番工具 OneAnime v1.3.3 绿色版</title>
         <link>https://kooshare.github.io/post/oneanime133/</link>
         <pubDate>Thu, 29 Aug 2024 07:11:05 +0800</pubDate>
