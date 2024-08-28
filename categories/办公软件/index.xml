@@ -7,7 +7,52 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 07:13:08 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 07:27:22 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>像素画绘制工具 Pixelorama v1.0.2.0 中文免费版</title>
+        <link>https://kooshare.github.io/post/pixelorama/</link>
+        <pubDate>Thu, 29 Aug 2024 07:27:22 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/pixelorama/</guid>
+        <description>&lt;p&gt;Pixelorama 是免费和开源 2D sprite 编辑器，使用 Godot Engine GDScript 开发，非常适合像素艺术。Pixelorama 目前正在继续开发此软件，因此它缺少某些功能，可能存在一些错误并且需要更好的 UI。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/I1P2zrc4t3lxNaj.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;-在 6 种工具之间进行选择-铅笔，橡皮，填充桶，变亮/变暗，颜色选择器和矩形选择-并将它们分别映射到鼠标左键和右键。
+-你是动画师吗？然后您来对地方了！ Pixelorama 拥有适合自己的动画时间表和“洋葱皮”！
+-每个鼠标按钮的颜色，画笔大小和画笔类型不同。
+-自定义画笔！从文件加载画笔或使用选择工具在项目中选择它们，它们将存储在&lt;code&gt;.pxo&lt;/code&gt;文件中！
+-随机的自定义画笔！每次绘制时，期望看到不同的随机结果！
+-Pixelorama 具有多层系统！您可以添加，删除，上下移动，克隆和合并任意多个图层！您还可以重命名它们，并更改其不透明度！
+-导入图像并在 Pixelorama 中进行编辑。如果导入多个文件，它们将作为单独的动画帧添加。还支持导入 Spritesheets。
+-将您的精美艺术品导出为“ PNG”文件。也可以将项目导出为 Spritesheets。
+-以 Pixelorama 的自定义文件格式“ .pxo”保存并打开您的项目。
+-撤消/重做支持！
+-多个主题支持！从黑暗，灰色，戈多，金色和浅色中选择一个主题！
+-水平和垂直镜像图！
+-用于模式创建的平铺模式！
+-分屏模式可以两次欣赏您的杰作！还有一个迷你画布预览区，可以看到它三次！
+-通过按 Shift 键，为铅笔，橡皮和浅色/深色工具创建直线。如果还按Control键，则可以以15的步长限制角度。
+-为您的图像生成轮廓！
+-您可以使用鼠标滚轮进行放大和缩小，然后单击鼠标或按“ Space”键进行平移！
+– 键盘快捷键！我们非常确定这对于大多数人来说都是救命稻草。
+-统治者和向导！
+-创建一个具有您选择的尺寸的新画布。
+-缩放，裁剪，翻转，颜色反转和使图像去饱和！
+-支持英语，希腊语，德语，法语，波兰语，巴西葡萄牙语，俄语，简体中文，繁体中文和意大利语的本地化支持！&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/605646f806bc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/605646f806bc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Kate v24.08.7806 | 免费的高级文本编辑器</title>
         <link>https://kooshare.github.io/post/kate7806/</link>
         <pubDate>Thu, 29 Aug 2024 07:13:08 +0800</pubDate>

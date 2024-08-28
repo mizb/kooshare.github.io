@@ -7,7 +7,110 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 07:18:37 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 07:27:22 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>像素画绘制工具 Pixelorama v1.0.2.0 中文免费版</title>
+        <link>https://kooshare.github.io/post/pixelorama/</link>
+        <pubDate>Thu, 29 Aug 2024 07:27:22 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/pixelorama/</guid>
+        <description>&lt;p&gt;Pixelorama 是免费和开源 2D sprite 编辑器，使用 Godot Engine GDScript 开发，非常适合像素艺术。Pixelorama 目前正在继续开发此软件，因此它缺少某些功能，可能存在一些错误并且需要更好的 UI。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/I1P2zrc4t3lxNaj.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;-在 6 种工具之间进行选择-铅笔，橡皮，填充桶，变亮/变暗，颜色选择器和矩形选择-并将它们分别映射到鼠标左键和右键。
+-你是动画师吗？然后您来对地方了！ Pixelorama 拥有适合自己的动画时间表和“洋葱皮”！
+-每个鼠标按钮的颜色，画笔大小和画笔类型不同。
+-自定义画笔！从文件加载画笔或使用选择工具在项目中选择它们，它们将存储在&lt;code&gt;.pxo&lt;/code&gt;文件中！
+-随机的自定义画笔！每次绘制时，期望看到不同的随机结果！
+-Pixelorama 具有多层系统！您可以添加，删除，上下移动，克隆和合并任意多个图层！您还可以重命名它们，并更改其不透明度！
+-导入图像并在 Pixelorama 中进行编辑。如果导入多个文件，它们将作为单独的动画帧添加。还支持导入 Spritesheets。
+-将您的精美艺术品导出为“ PNG”文件。也可以将项目导出为 Spritesheets。
+-以 Pixelorama 的自定义文件格式“ .pxo”保存并打开您的项目。
+-撤消/重做支持！
+-多个主题支持！从黑暗，灰色，戈多，金色和浅色中选择一个主题！
+-水平和垂直镜像图！
+-用于模式创建的平铺模式！
+-分屏模式可以两次欣赏您的杰作！还有一个迷你画布预览区，可以看到它三次！
+-通过按 Shift 键，为铅笔，橡皮和浅色/深色工具创建直线。如果还按Control键，则可以以15的步长限制角度。
+-为您的图像生成轮廓！
+-您可以使用鼠标滚轮进行放大和缩小，然后单击鼠标或按“ Space”键进行平移！
+– 键盘快捷键！我们非常确定这对于大多数人来说都是救命稻草。
+-统治者和向导！
+-创建一个具有您选择的尺寸的新画布。
+-缩放，裁剪，翻转，颜色反转和使图像去饱和！
+-支持英语，希腊语，德语，法语，波兰语，巴西葡萄牙语，俄语，简体中文，繁体中文和意大利语的本地化支持！&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/605646f806bc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/605646f806bc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>开源免费Switch模拟器 Ryujinx v1.1.1380 中文免费版</title>
+        <link>https://kooshare.github.io/post/ryujinx/</link>
+        <pubDate>Thu, 29 Aug 2024 07:24:46 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/ryujinx/</guid>
+        <description>&lt;p&gt;Ryujinx 是一款免费、开源的 Nintendo Switch 模拟器，它可以在电脑上模拟 Nintendo Switch 游戏机的运行环境，让玩家们能够在 PC 上畅玩 Switch 游戏。Ryujinx 支持大部分 Nintendo Switch 游戏，包括 The Legend of Zelda: Breath of the Wild、Super Mario Odyssey 等知名游戏，而且还具有优秀的兼容性和稳定性。此外，Ryujinx 还支持多人在线游戏联机和语音聊天功能，让玩家们能够更好地享受游戏。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/mkDjgnvoW7Xr4GI.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;免费、开源：Ryujinx 是一款完全免费的 Nintendo Switch 模拟器，并且其源代码公开，用户可以自由地下载、使用、修改和分发。&lt;/li&gt;
+&lt;li&gt;高兼容性：支持大部分 Nintendo Switch 游戏，并且不断更新以提高兼容性。目前已经支持多达数百款游戏，包括众多知名作品。&lt;/li&gt;
+&lt;li&gt;高稳定性：设计精良，其核心模块采用 C# 编写，代码规范，易于维护。同时，其开发团队对性能和稳定性的要求高，每个版本都经过多轮测试才发布，以保证用户的使用体验。&lt;/li&gt;
+&lt;li&gt;多语言支持：Ryujinx 提供多种语言界面和字幕支持，包括中文、英文、日文等，方便不同地区和语言背景的用户使用。&lt;/li&gt;
+&lt;li&gt;GPU 加速：Ryujinx 利用 GPU 进行部分计算，从而提高模拟器的性能和效率。&lt;/li&gt;
+&lt;li&gt;多平台支持：支持多种操作系统，包括 Windows、macOS 和 Linux 等，且在每个系统上运行稳定，方便不同平台用户使用。&lt;/li&gt;
+&lt;li&gt;多人在线游戏联机：支持多人联机游戏，用户可以与好友或其他玩家进行游戏，享受更好的游戏体验。&lt;/li&gt;
+&lt;li&gt;语音聊天功能：内置语音聊天功能，用户可以方便地与好友或队友进行语音交流，提高游戏合作效率。&lt;/li&gt;
+&lt;li&gt;直播和录制：内置直播和录制功能，用户可以直接在模拟器内录制游戏画面或直播到自己的频道，分享游戏乐趣。&lt;/li&gt;
+&lt;li&gt;高度可定制：提供了丰富的设置选项和插件支持，用户可以根据自己的需要进行个性化设置，包括分辨率、帧率、控制器映射等。&lt;/li&gt;
+&lt;li&gt;快捷键设置：Ryujinx 支持自定义快捷键，用户可以为不同的操作设置快捷键，提高游戏操作效率。&lt;/li&gt;
+&lt;li&gt;支持 Joy-Con 模拟：支持 Joy-Con 手柄的模拟，用户可以使用 PC 上的控制器进行游戏，同时也支持手柄振动反馈。&lt;/li&gt;
+&lt;li&gt;多种输入方式：支持多种输入方式，包括键盘、鼠标、控制器等，满足不同用户的使用习惯。&lt;/li&gt;
+&lt;li&gt;实时保存和读取：支持实时保存和读取游戏进度，用户可以随时在游戏进行中进行保存，以免游戏数据丢失。&lt;/li&gt;
+&lt;li&gt;模拟器高级设置：Ryujinx 提供了一系列高级设置，包括线程数、CPU 占用率、GPU 硬件加速等，用户可以根据自己的需求进行优化和调整。&lt;/li&gt;
+&lt;li&gt;调试工具：Ryujinx 内置了一系列调试工具，包括内存查看、堆栈跟踪、CPU 指令监视等，方便用户进行模拟器调试和优化。&lt;/li&gt;
+&lt;li&gt;社区支持：Ryujinx 有一个强大的社区支持，用户可以在官方网站上获取帮助、提出问题并与其他用户交流和分享游戏心得。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ryujinx 的开发团队非常活跃，他们不断更新版本，加入新特性，修复各种 bug，提高模拟器的兼容性和性能。同时，Ryujinx 还提供了丰富的文档和教程，方便用户使用和调试。&lt;/p&gt;
+&lt;p&gt;值得一提的是，Ryujinx 采用了 GPU 加速技术，可以利用 GPU 进行部分计算，从而提升模拟器的性能和效率。此外，Ryujinx 还支持多种平台，包括 Windows、macOS 和 Linux 等，并提供多种语言支持，满足不同用户的需求。&lt;/p&gt;
+&lt;p&gt;总之，Ryujinx 是一款非常出色的 Nintendo Switch 模拟器，它为广大玩家提供了一个全新的游戏体验，让玩家们能够在 PC 上畅玩 Switch 游戏。&lt;/p&gt;
+&lt;h4 id=&#34;ryujinx-设置教程&#34;&gt;Ryujinx 设置教程
+&lt;/h4&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&amp;amp;-Configuration-Guide#initial-setup&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&amp;-Configuration-Guide#initial-setup&lt;/a&gt;—placement-of-prodkeys&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;111380---2024-08-27&#34;&gt;1.1.1380 - 2024-08-27
+&lt;/h3&gt;&lt;h4 id=&#34;fixed&#34;&gt;Fixed:
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Fix deadlock in background translation thread shutdown.
+&lt;ul&gt;
+&lt;li&gt;Fixes an issue where Ryujinx would sometimes freeze and stop responding when trying to stop the emulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/58b87ed6b340&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/58b87ed6b340&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>定时/热键自动化任务工具 | zTasker v1.97.1</title>
         <link>https://kooshare.github.io/post/ztasker1971/</link>
         <pubDate>Thu, 29 Aug 2024 07:18:37 +0800</pubDate>
