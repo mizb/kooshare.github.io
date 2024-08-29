@@ -7,7 +7,81 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 11:30:48 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 11:34:06 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PixPin v1.8.26.0 简单易用的截图和贴图工具</title>
+        <link>https://kooshare.github.io/post/pixpin1826/</link>
+        <pubDate>Thu, 29 Aug 2024 11:34:06 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/pixpin1826/</guid>
+        <description>&lt;p&gt;PixPin是一款简单易用的截图和贴图工具，它可以帮助用户快速捕捉屏幕上的任何内容，并进行编辑和分享。用户可以使用PixPin轻松地截取整个屏幕、窗口或自定义区域，并添加标注、箭头、文本和其他图形元素来突出重点或说明内容。此外，PixPin还提供了丰富的贴图功能，用户可以将截图直接粘贴到邮件、社交媒体或其他应用程序中，方便快捷地分享给他人。总的来说，PixPin是一款功能强大、操作简单的截图工具，适合个人用户和商务用户使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/1bKQRa2wGf4BHhr.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240829113434260&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特色&#34;&gt;&lt;strong&gt;软件特色&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;截图&lt;/p&gt;
+&lt;p&gt;自动识别窗口元素，可使用滚轮切换父/子元素&lt;/p&gt;
+&lt;p&gt;附带各种标注工具&lt;/p&gt;
+&lt;p&gt;贴图&lt;/p&gt;
+&lt;p&gt;把剪贴板的图片/文字贴到其他窗口最上层，方便参考查阅&lt;/p&gt;
+&lt;p&gt;自动识别图片上的文字，离线识别引擎，无数据上传&lt;/p&gt;
+&lt;p&gt;提供标注工具方便二次标注&lt;/p&gt;
+&lt;p&gt;截长图&lt;/p&gt;
+&lt;p&gt;智能图像识别算法自动捕捉滚动的图片&lt;/p&gt;
+&lt;p&gt;截动图&lt;/p&gt;
+&lt;p&gt;把操作过程保存为 Gif/Png/Webp 动图&lt;/p&gt;
+&lt;p&gt;提供标注过程，可以在录制过程中方便地标注&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;&lt;strong&gt;更新日志&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;v1.8.22.0&lt;/p&gt;
+&lt;p&gt;【功能】支持在贴图上粘贴或者拖动其他图片到贴图上替换贴图&lt;/p&gt;
+&lt;p&gt;【功能】托盘菜单-贴图：增加全部设置/取消缩略图，全部另存为，全部隐藏/显示，全部关闭，全部销毁&lt;/p&gt;
+&lt;p&gt;【设置】文本贴图内置快捷键 E：进入和退出文本复制模式，F：忽略和显示HTML文本格式&lt;/p&gt;
+&lt;p&gt;【设置】【贴图】【快速保存的图像类型】：当前图像、原图像&lt;/p&gt;
+&lt;p&gt;【设置】【贴图】【图像】默认透明图层处理方式：鼠标穿透、响应鼠标、棋盘格图像&lt;/p&gt;
+&lt;p&gt;【设置】截图-放大镜放大倍率&lt;/p&gt;
+&lt;p&gt;【设置】设置-贴图增加滚轮缩放和调节不透明度的步长&lt;/p&gt;
+&lt;p&gt;【设置】贴图-恢复贴图的顺序，可以设置为按关闭时间排序或按创建时间排序&lt;/p&gt;
+&lt;p&gt;【设置】贴图-文本贴图，设置默认为文本选择模式&lt;/p&gt;
+&lt;p&gt;【设置】标注-是否开启快速设置标注（矩形/马赛克/擦除标注在截图是按下鼠标右键可以快速设置为元素的范围）&lt;/p&gt;
+&lt;p&gt;【设置】贴图-平滑缩放&lt;/p&gt;
+&lt;p&gt;【设置】【贴图】可设置支持的贴图类型&lt;/p&gt;
+&lt;p&gt;【设置】贴图显示位置：截图位置，以鼠标为中心，主屏幕中心，鼠标所在屏幕中心&lt;/p&gt;
+&lt;p&gt;【设置】贴图-图像-检测文本的标点符号，转换为半角符号&lt;/p&gt;
+&lt;p&gt;【设置】增加贴图锁定时禁止接受拖拽的设置&lt;/p&gt;
+&lt;p&gt;【设置】贴图标题位置可设置为顶部中心或者底部中心&lt;/p&gt;
+&lt;p&gt;【设置】可设置贴图位置&lt;/p&gt;
+&lt;p&gt;v1.8.21.0&lt;/p&gt;
+&lt;p&gt;画笔标注的鼠标指针显示不正确&lt;/p&gt;
+&lt;p&gt;橡皮擦标注的鼠标指针无法调整&lt;/p&gt;
+&lt;p&gt;隐藏贴图后再次启动程序贴图没有隐藏&lt;/p&gt;
+&lt;p&gt;托盘菜单【调整贴图以确保显示】无效&lt;/p&gt;
+&lt;p&gt;贴图范围太大时可能会遮挡标注工具栏&lt;/p&gt;
+&lt;p&gt;在显示辅助线的情况下移动标注会有残影&lt;/p&gt;
+&lt;p&gt;在没有鼠标滚轮的情况下可以把鼠标移动至画笔按钮调整大小&lt;/p&gt;
+&lt;p&gt;v1.8.18.0&lt;/p&gt;
+&lt;p&gt;【修复】标注序号的时候双击复制会增加一个序号&lt;/p&gt;
+&lt;p&gt;【修复】某些情况下截图工具栏的位置不正确&lt;/p&gt;
+&lt;p&gt;【修复】【Mac】使用系统输入法时候文字候选框会被遮挡&lt;/p&gt;
+&lt;p&gt;【修复】【Mac】无法从屏幕顶部使用鼠标框选截图范围&lt;/p&gt;
+&lt;p&gt;【修复】【Mac】Mac下使用magic mouse时滚动过于灵敏&lt;/p&gt;
+&lt;p&gt;v1.8.17.0&lt;/p&gt;
+&lt;p&gt;【功能】增加贴图组功能&lt;/p&gt;
+&lt;p&gt;【修复】在多个不同缩放设置的屏幕下截图显示范围不正确&lt;/p&gt;
+&lt;p&gt;【修复】长截图和GIF截图的快捷键动作不生效&lt;/p&gt;
+&lt;p&gt;【修复】快捷键num * 会被识别为num 8&lt;/p&gt;
+&lt;p&gt;【修复】开启MyDockFinder后窗口范围识别不准确&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/aaa39bfa50fa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/aaa39bfa50fa&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>硬盘检测工具CrystalDiskInfo v9.4.2 绿色单文件版</title>
         <link>https://kooshare.github.io/post/crystaldiskinfo942/</link>
         <pubDate>Thu, 29 Aug 2024 11:30:48 +0800</pubDate>
