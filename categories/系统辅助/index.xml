@@ -7,8 +7,84 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 11:03:42 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Rumenggongjuxiang</title>
+        <lastBuildDate>Thu, 29 Aug 2024 11:30:48 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>硬盘检测工具CrystalDiskInfo v9.4.2 绿色单文件版</title>
+        <link>https://kooshare.github.io/post/crystaldiskinfo942/</link>
+        <pubDate>Thu, 29 Aug 2024 11:30:48 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/crystaldiskinfo942/</guid>
+        <description>&lt;p&gt;　硬盘检测工具CrystalDiskInfo绿色版是一款全能的磁盘检测跑分神器，硬盘里的数据至关重要，因此时常检查硬盘健康状况是有必要的。CrystalDiskInfo硬盘检测工具通过读取S.M.A.R.T了解硬盘健康状况。打开它，您就可以迅速读到本机硬盘的详细信息，包括接口、转速、温度、使用时间等。CrystalDiskInfo还会根据S.M.A.R.T的评分做出评估，当硬盘快要损坏时还会发出警报，支持简体中文。支持32位和64位操作系统。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/d7ijPUzsWnbw3I6.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;CrystalDiskInfo,硬盘坏道检测工具,CrystalDiskInfo绿色便携版,磁盘检测,磁盘修复,磁盘诊断,硬盘检测,硬盘诊断,固态硬盘检测,固态硬盘跑分,磁盘温度查看,硬盘温度查看,硬盘坏道修复工具,固态硬盘检测,如何检测硬盘,hd tune pro 硬盘检测工具,硬盘检测工具,硬盘修复工具&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1、它不但可以像同类软件那样显示硬盘信息，并且如果你一直运行它，你还可以看到这些信息的变化状况，这些资料将会用折线图显示出来。如果你想要查看这些 统计资料，那么打开“功能” — “图表”，就可以了，但前提是你要运行这个软件一段时间，或者直接开机启动。不然你就只能看见一条直线了。&lt;/p&gt;
+&lt;p&gt;2、它可以自动显示硬盘的健康状况。虽然很多软件可以显示硬盘信息，但是并不是每个人都可以看懂这些比较专业的术语的，所以这个软件会直接根据统计到的资 料给硬盘的情况进行打分。这样即使硬盘小白。也可以非常了解它的情况，比如笔者运行后它直接显示“警告”，但是我一点也不慌，因为我重要资料都备份了。&lt;/p&gt;
+&lt;p&gt;3、它拥有多国语言，并且免费。当然这其中也包含简体中文。&lt;/p&gt;
+&lt;h3 id=&#34;新版特性&#34;&gt;新版特性
+&lt;/h3&gt;&lt;p&gt;crystalmark.info/en/software/crystaldiskinfo/crystaldiskinfo-history&lt;/p&gt;
+&lt;p&gt;9.3.0 [2024/04/30]&lt;/p&gt;
+&lt;p&gt;添加了JMicron JMS586支持（Alpha）&lt;/p&gt;
+&lt;p&gt;改进的Silicon Motion SATA SSD支持&lt;/p&gt;
+&lt;p&gt;9.2.1[2023/11/21]&lt;/p&gt;
+&lt;p&gt;修复了错误&lt;/p&gt;
+&lt;p&gt;更新的语言文件&lt;/p&gt;
+&lt;p&gt;9.1.1【2023/07/12】&lt;/p&gt;
+&lt;p&gt;修复了错误&lt;/p&gt;
+&lt;p&gt;更新的语言文件（斯洛文尼亚语）&lt;/p&gt;
+&lt;p&gt;9.0.1【2023/05/31】&lt;/p&gt;
+&lt;p&gt;固定驱动器盘符排序模式&lt;/p&gt;
+&lt;p&gt;9.0.0【2023/05/31】&lt;/p&gt;
+&lt;p&gt;增加了对英特尔VROC的支持&lt;/p&gt;
+&lt;p&gt;增加了对JMicron USB RAID（JMB39x/JMS56x）的支持&lt;/p&gt;
+&lt;p&gt;为JMicron JMS583添加了锁定机制，以避免与其他系统信息工具（如SIV）发生冲突&lt;/p&gt;
+&lt;p&gt;增加了对Sandisk/WD CloudSpeed Gen.II SSD的支持&lt;/p&gt;
+&lt;p&gt;增加了16个驱动器支持&lt;/p&gt;
+&lt;p&gt;添加了驱动器盘符排序模式&lt;/p&gt;
+&lt;p&gt;改进的英特尔RST NVMe支持&lt;/p&gt;
+&lt;p&gt;改进的SATA SSD Hanye-Q55支持&lt;/p&gt;
+&lt;p&gt;固定Phison SATA SSD支持&lt;/p&gt;
+&lt;p&gt;更新的语言文件（所有语言）&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e81625fc648a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e81625fc648a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>360小工具独立版 全套39个工具</title>
+        <link>https://kooshare.github.io/post/xiaogongjuduliban/</link>
+        <pubDate>Thu, 29 Aug 2024 11:10:10 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/xiaogongjuduliban/</guid>
+        <description>&lt;p&gt;360安全卫士作为国内知名的安全软件，它不仅提供了基础的安全防护功能，还包含了许多功能强大且实用的小工具。&lt;/p&gt;
+&lt;p&gt;而在众多电脑用户的眼中，360安全卫士因其过度的推广和广告捆绑让不少用户避之不及，这也是形成其“流氓”形象的原因之一。&lt;/p&gt;
+&lt;p&gt;如果不想安装360，但又想用360里面的实用小工具，怎么办？分享迷给你带来了全套39款小工具的提取独立版——360小工具独立版&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/RGNQrL92EjKces5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240829111036397&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;这套功能全面、实用性强的小工具集合可以根据自己的需求选择使用，而不必安装并启动整个360安全卫士程序。不仅能够满足我们日常办公，上网娱乐时的各种需求，还能在关键时刻为我们解决各种棘手问题，推荐大家下载收藏。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/44c61bc45cd6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/44c61bc45cd6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>入梦工具箱(入梦硬件工具箱) v8.8 免费版</title>
         <link>https://kooshare.github.io/post/rumenggongjuxiang/</link>
         <pubDate>Thu, 29 Aug 2024 11:03:42 +0800</pubDate>
         

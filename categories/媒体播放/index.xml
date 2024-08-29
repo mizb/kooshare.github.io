@@ -7,7 +7,53 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 10:25:52 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 11:22:19 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>影音播放器PotPlayer v1.7.22317.0 去广告版</title>
+        <link>https://kooshare.github.io/post/potplayer22317/</link>
+        <pubDate>Thu, 29 Aug 2024 11:22:19 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/potplayer22317/</guid>
+        <description>&lt;p&gt;　影音播放器PotPlayer 绿色纯净版是一款免费热门影音播放器软件，PotPlayer播放器目前最新版更新至v1.7。影音爱好者们不妨更新吧！根据诸多粉丝从使用经验来看，不要管版本是public还是dev，用新版才是正确选择，既能及时解决bug，又能获取新功能！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/3hwBKymvM6GcgIs.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;PotPlayer汉化版 , PotPlayer汉化版免费版 , PotPlayer汉化版绿色版,Daum PotPlayer播放器，网络播放器，开源播放器，免费播放器，高清影音播放器，本地视频播放器，高清视频播放器，多媒体播放器，韩国播放器，电脑播放器，potplayer by kaokao&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;&lt;strong&gt;新版变化&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;videohelp.com/software/PotPlayer#changelog&lt;/p&gt;
+&lt;p&gt;[240828] 1.7.22317&lt;/p&gt;
+&lt;p&gt;+ 添加 WEBP 格式到图像截取&lt;/p&gt;
+&lt;p&gt;+ 添加在图像源滤镜中将延迟时间设置为秒或更短的功能&lt;/p&gt;
+&lt;p&gt;+ 添加系统启动时自动运行功能&lt;/p&gt;
+&lt;p&gt;- 修正快捷方式图标的大小设置无法反映的问题&lt;/p&gt;
+&lt;p&gt;- 修正在某些情况下过滤重复文件设置被重置的问题&lt;/p&gt;
+&lt;p&gt;- 修正使用某些编解码器播放时视频被识别为隔行扫描的问题&lt;/p&gt;
+&lt;p&gt;- 修正使用 libVPX 8/9 解码时出现错误的问题&lt;/p&gt;
+&lt;p&gt;- 修正播放 MP4 流时导航异常的问题&lt;/p&gt;
+&lt;p&gt;- 修正浏览某些 FLV 文件速度缓慢的问题&lt;/p&gt;
+&lt;p&gt;- 提高字幕输出速度&lt;/p&gt;
+&lt;p&gt;[240814] 1.7.22306.0&lt;/p&gt;
+&lt;p&gt;+将WEBP添加到视频捕获中&lt;/p&gt;
+&lt;p&gt;+添加了在图像源过滤器中将延迟时间设置为秒或更短的功能&lt;/p&gt;
+&lt;p&gt;+系统启动时添加了自动运行功能&lt;/p&gt;
+&lt;p&gt;-修复了快捷方式图标的大小设置未反映的问题。&lt;/p&gt;
+&lt;p&gt;-修复了在某些情况下重置“不添加重复文件”设置的问题。&lt;/p&gt;
+&lt;p&gt;-修复了使用特定编解码器播放时视频被识别为隔行扫描的问题。&lt;/p&gt;
+&lt;p&gt;-修复了使用libVPX 8/9解码时出现的错误问题&lt;/p&gt;
+&lt;p&gt;-修复了播放MP4流媒体时导航异常的问题。&lt;/p&gt;
+&lt;p&gt;-修复了浏览某些FLV文件速度慢的问题&lt;/p&gt;
+&lt;p&gt;-提高字幕显示速度&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2f5b49d1ab34&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2f5b49d1ab34&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>YesPlayMusic – 高颜值第三方网易云 v0.4.8 官方版</title>
         <link>https://kooshare.github.io/post/yesplaymusic/</link>
         <pubDate>Thu, 29 Aug 2024 10:25:52 +0800</pubDate>

@@ -7,7 +7,36 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 28 Aug 2024 19:50:56 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 11:07:47 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>LocalSend v1.15.4 开源文件传输工具 全平台覆盖 适配TV</title>
+        <link>https://kooshare.github.io/post/localsend154/</link>
+        <pubDate>Thu, 29 Aug 2024 11:07:47 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/localsend154/</guid>
+        <description>&lt;p&gt;很多人都会有跨平台传输文件的需求，以便地将手机中的照片、视频、安装包等分享给其他人或迁移到其他设备中；这类需求有很多种形式，比如手机传文件到电脑、手机传手机、电脑传手机、手机传电视……。这款软件是堪称“局域网最强传输”的神器，完美解决大家对于跨平台传输文件的各种需求；软件&lt;strong&gt;开源&lt;/strong&gt;，支持安卓、Windows、Mac、iOS、TV——LocalSend&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/OoIC4hit7nT62fA.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240829110837086&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件更新&#34;&gt;软件更新
+&lt;/h3&gt;&lt;p&gt;feat: 将网络扫描提取到单独的线程，扫描不再会导致 UI 延迟（@Tienisto）
+feat(windows): 使用更大的安装程序图标（@Tienisto）
+修复：接收文件时发生内存泄漏，正确接收超出可用 RAM 的文件（@Tienisto）
+修复（Android）：将文件保存在下载文件夹之外（@Tienisto）
+修复（windows）：通过自动启动时使用正确的便携式设置文件（@Tienisto）
+修复（windows）：使安装程序在 arm64 上运行（@Tienisto）&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/93c3a93d0c74&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/93c3a93d0c74&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>AnyDesk远程工具(远程桌面软件) v8.0.14.0 中文绿色版</title>
         <link>https://kooshare.github.io/post/anydesk140/</link>
         <pubDate>Wed, 28 Aug 2024 19:50:56 +0800</pubDate>
