@@ -7,7 +7,76 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 07:44:31 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 08:58:02 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>文本转语音软件 Balabolka v2.15.0.878 官方便携版</title>
+        <link>https://kooshare.github.io/post/balabolka878/</link>
+        <pubDate>Thu, 29 Aug 2024 08:58:02 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/balabolka878/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;Balabolka 是一个文本转语音（TTS）的程序。Balabolka可以使用计算机系统上安装的所有语音。屏幕上的文字可以被保存为一个WAV，MP3，OGG或者WMA文件。该软件可以读取剪贴板的内容，可以查看AZW，AZW3，CHM，DjVu，DOC，EPUB，FB2，LIT，MOBI，ODT，PDF，PRC，RTF和HTML文件中的文本，可自定义字体和背景颜色，控制从系统托盘阅读或者使用热键。 Balabolka使用微软的语音API（SAPI）的各种版本，它可以改变语音的参数，包括语度和语调。用户可以应用特殊的替代清单，以提高语音的清晰度质量。当你想改变的单词拼写时这个功能就非常有用。纠正发音规则使用VBScript的语法。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/NW49prPi8QeOt6y.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2024-08-25 v2.15.0.878
+[-] Fixed the using of the PAUSE tag.
+[-] Fixed pauses between sentences for Microsoft Azure.
+[*] Resources for Bulgarian and Uzbek languages were updated (thanks to Kostadin Kolev and Ulugbek Tolakov).&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0268706e0238&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0268706e0238&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Pineapple Pictures(菠萝看图)v0.8.1 绿色版</title>
+        <link>https://kooshare.github.io/post/pineapplepictures/</link>
+        <pubDate>Thu, 29 Aug 2024 08:51:14 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/pineapplepictures/</guid>
+        <description>&lt;p&gt;菠萝图片是一个轻量级的图像查看器，允许您查看JPEG, PNG, GIF, SVG, PSD, KRA, XCF, TGA, AVIF和一些其他常用的图像格式文件，快速和轻松，并提供一个停留在顶部的窗口设置，允许你钉住窗口，所以你可以使用它来钉在顶部的参考图像，然后你可以与其他软件工作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/er2dzjxwyP7N3Hb.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;快速搜索图片、视频、GIF和相册&lt;/p&gt;
+&lt;p&gt;使用图库对文件进行排序和查看&lt;/p&gt;
+&lt;p&gt;易于分享图片和视频到社交媒体、电子邮件或其他任何地方&lt;/p&gt;
+&lt;p&gt;显示照片和视频详细信息&lt;/p&gt;
+&lt;p&gt;重命名、删除、编辑、共享图片，视频和GIF&lt;/p&gt;
+&lt;p&gt;将任何图片设置为桌面壁纸&lt;/p&gt;
+&lt;p&gt;用手势轻松缩放照片、视频和GIF&lt;/p&gt;
+&lt;p&gt;图片幻灯片&lt;/p&gt;
+&lt;p&gt;暗色模式&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;0.8.0 - 0.8.1:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;New command line option to list all supported formats (for this feature, Windows is not supported for now)&lt;/li&gt;
+&lt;li&gt;Rework how the gallery loading logic works, now this application attempts to load all images that the format is known as supported.&lt;/li&gt;
+&lt;li&gt;CI build: Bump dependencies version.&lt;/li&gt;
+&lt;li&gt;Update translations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/92c89be5a092&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/92c89be5a092&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>全网影视资源播放器ZY-Player v3.3.7 电脑版</title>
         <link>https://kooshare.github.io/post/zyplayer337/</link>
         <pubDate>Thu, 29 Aug 2024 07:44:31 +0800</pubDate>

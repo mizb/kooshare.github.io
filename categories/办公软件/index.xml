@@ -7,7 +7,91 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 07:42:17 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 08:49:11 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>QOwnNotes(开源Markdown笔记本) v24.8.6 绿色版</title>
+        <link>https://kooshare.github.io/post/qownnotes/</link>
+        <pubDate>Thu, 29 Aug 2024 08:49:11 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/qownnotes/</guid>
+        <description>&lt;p&gt;QOwnNotes是开源的记事本，具有 Markdown支持 和针对GNU / Linux，Mac OS X和Windows的待办事项列表管理器，可与Nextcloud Notes 和ownCloud Notes一起使用。&lt;/p&gt;
+&lt;p&gt;您可以使用QOwnNotes写下您的想法，并 稍后在移动设备上进行编辑或搜索，例如使用 Android的Nextcloud Notes 或Nextcloud / ownCloud网络服务。&lt;/p&gt;
+&lt;p&gt;注释存储为纯文本标记文件，并 与Nextcloud / ownCloud的文件同步功能同步。当然，也可以使用其他软件，例如Syncthing或 Dropbox。&lt;/p&gt;
+&lt;p&gt;如果您喜欢在纯文本文件中访问便笺的概念，例如在Nextcloud / ownCloud notes应用程序中这样做，以获得最大的自由度， 那么QOwnNotes非常适合您。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/iDvm3TbMNEcwAka.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;可以使用多个便笺文件夹
+您可以使用现有的文本或Markdown文件，大多数情况下无需导入
+您可以从Nextcloud / ownCloud服务器还原旧版本的笔记（在服务器上安装QOwnNotesAPI）
+可以从您的Nextcloud / ownCloud服务器上还原已删除的笔记（在服务器上安装QOwnNotesAPI）
+还有一个当地的垃圾
+注释的子字符串搜索是可能的，并且搜索结果在注释中突出显示
+可以使用可自定义的键盘快捷方式来操作该应用程序
+观察注释文件的外部更改（重新加载注释或注释列表）
+对话框中显示当前便笺和外部更改的便笺之间的差异
+标记的降价突出显示和降价预览
+拼写检查支持
+标签支持编辑笔记
+脚本支持和在线脚本存储库 ，您可以在其中将脚本安装在应用程序中
+QOwnNotes Web Companion浏览器扩展程序 可从所选文本和其他功能添加注释
+访问Chrome网上应用店 页面以在Google Chrome上安装该应用
+访问Firefox加载项页面 页面以在Mozilla Firefox上安装应用程序
+注释从注释文本的第一行获取名称（就像在Nextcloud / ownCloud notes Web应用程序中一样），并且如果第一行更改，注释文本文件将自动重命名
+此功能也可以关闭，您可以使用任何喜欢的文件名
+管理您的Nextcloud / ownCloud待办事项列表（ownCloud任务或Tasks Plus / Calendar Plus）
+笔记的加密（内置AES-256，或者您可以使用自定义加密方法，例如 Keybase.io（encryption-keybase.qml）或 PGP（encryption-pgp.qml））
+暗模式主题支持
+所有面板都可以放置在您想要的任何地方，甚至可以浮动或堆叠（完全可停靠）
+工具栏是完全可定制的
+支持freedesktop主题图标，因此您可以将QOwnNotes与本机桌面图标以及您喜欢的深色桌面主题一起使用QOwnNotes支持Freedesktop图标主题
+支持分层注释标签和注释子文件夹
+支持在Nextcloud / ownCloud服务器上共享笔记
+可携式模式，可在USB随身碟上随身携带QOwnNotes
+Vim模式
+无干扰模式，全屏模式，打字机模式
+Evernote导入
+QOwnNotes支持60多种语言，例如英语，德语，法语，波兰语，中文，日语，俄语，葡萄牙语，匈牙利语，荷兰语和西班牙语&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;2486&#34;&gt;24.8.6
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Added a &lt;strong&gt;new editor color schema&lt;/strong&gt; &lt;em&gt;Everforest Hard Dark&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added a &lt;strong&gt;new editor color schema&lt;/strong&gt; &lt;em&gt;Everforest Hard Light&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added more Russian, Arabic, Korean translation (thank you, olesya_gerasimenko, noureddin, venusgirl)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There was a new release of the&lt;/p&gt;
+&lt;p&gt;QOwnNotes Web Companion browser extension&lt;/p&gt;
+&lt;p&gt;2024.8.0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bookmarks can now be edited in the bookmarks list
+&lt;ul&gt;
+&lt;li&gt;This feature needs QOwnNotes 24.8.5 or higher&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Update dependencies&lt;/li&gt;
+&lt;li&gt;Add more translations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/42f8683142e6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/42f8683142e6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>TTime(翻译软件) v0.9.14 绿色版</title>
         <link>https://kooshare.github.io/post/ttime0914/</link>
         <pubDate>Thu, 29 Aug 2024 07:42:17 +0800</pubDate>

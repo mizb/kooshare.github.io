@@ -7,7 +7,186 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 07:37:06 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 08:55:35 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>文件管理器 Multi Commander v14.2.0 Build 3026</title>
+        <link>https://kooshare.github.io/post/multicommander/</link>
+        <pubDate>Thu, 29 Aug 2024 08:55:35 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/multicommander/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;Multi Commander它是目前网络上最优秀的一款专为专业人士打造的文件管理器，而且完全免费。完胜windows自带的资源管理器，可实现多标签、多窗口管理功能，轻松实现电脑文件的分门别类管理。另外multi commander软件在下方还附带了常用的工具，包括刷新、查看、编辑、复制、移动、创建目录、删除除、隐藏文件夹、记事本等等。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/SoW4Y5CpmPdJbLB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1、集成多种常用功能的底部按钮面板。这个面板有四行按钮：
+第一行的功能包括了刷新、查看、编辑、拷贝、移动、删除等等，在这些功能按钮上还会直接显示快捷键。
+第二行上显示了电脑上所有的盘符，甚至连linux下的分区也能够识别，不过不能够访问。点击notepad按钮还能够快速打开记事本。
+第三行、能够隐藏某类文件，这样可以快速找到需要的。
+第四行集中的是快速选取按钮，能够一键全部选定、选择所有的mp3、图片等等。
+如果想要在新标签页中打开某个盘符。那么只需要在盘符按钮上按住鼠标右键不放，点击左键就可以了。
+2、快速过滤文件功能。在每个面板的右下角，会有一个输入框，默认显示的是“&lt;em&gt;.&lt;/em&gt;”，也就是全部文件，如果更改成“*.jpg”,那么面板中就隐藏掉除jpg的其他文件哦。
+3、标签页和双面板的双重管理方式，双面板虽然提高效率，不过占用空间较大。而Multi Commander则集合了这两者，肯定能够带来新的使用方法和更好的使用效果。
+4、每个面板都带有独立的目录树和向上按钮，这个在面板右上角能够找到。
+5、集成FTP功能、自带文本编辑器、还可以快速打开注册表编辑器。自带的文本编辑器支持多种文字编码，选中文本，然后点击view按钮就可以唤出编辑器，不过默认使用binary编码，不过使用这个的话文字肯定是乱码，所以你需要在view菜单中更改。
+6、支持各种压缩文件格式。包括zip、7-zip、rar、tar、gz、bz2、jar等。
+7、查看和修改文件夹权限。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v14.2 ( Build 3026 ) (26-Aug-2024)&lt;/p&gt;
+&lt;p&gt;UPDATE- Updated unrar code to 7.0.9
+FIXED - Getting folder size works for OneDrive folder again
+ADDED - Tab-area will now show a folder icon if tabs in tabarea is full, When clicking on icon a popup list is shown with all tabs
+ADDED - The dialog shown when closing lock tabs, now has a &amp;ldquo;Yes to all&amp;rdquo; option
+ADDED - MC.LoadTabs custom command now has a &amp;ldquo;DoNotAsk&amp;rdquo; option to suppress the dialog that is shown when tabs are locked
+FIXED - Focus rect in FolderTree almost not visibile in DarkMode
+ADDED - Now possible to change the auto error handing settings from the progress dialog
+ADDED - DataPreview templates now support to change the font.
+FIXED - DataPreview that show file content will now respect the font size specified in the template
+FIXED - DataPreview Panel how shown correct in none dark mode
+FIXED - 3 Stability issues&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ee13da23b3d1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ee13da23b3d1&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>开源防火墙 Fort Firewall v3.13.8 中文免费版</title>
+        <link>https://kooshare.github.io/post/firewall3138/</link>
+        <pubDate>Thu, 29 Aug 2024 08:53:15 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/firewall3138/</guid>
+        <description>&lt;p&gt;Fort Firewall 是一个开源简单的 Windows 防火墙应用程序。如今，我们中的许多人使用 Windows 防火墙或路由器的组合来管理我们的隐私和安全。 Fort Firewall 当前允许您对 Windows 防火墙进行一些更改。免费下载 Fort Firewall 独立 Windows 脱机安装程序。它是 Windows 的简单防火墙，具有许多丰富的功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/AHgNDi8rKsyBE36.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;这个应用程序能为我做什么？
+就其功能而言，您将获得完整的软件包。首先按网络地址过滤内容或对 PC 上的应用程序进行分组。限制某些应用程序的互联网访问和速度或使用。通过分析存储的流量统计数据，密切关注 PC 连接的演变。从显示带宽发展的图形显示中获得所需的帮助。如果再加上整个程序基于 WFP（也称为 Windows 过滤平台）这一事实，您会得出结论，该应用程序与 Windows 操作系统集成得非常好。&lt;/p&gt;
+&lt;p&gt;更高的安全性或只是更多的控制
+对于基本用户来说，最有趣的方面可能是它可以为您的 PC 提供的附加安全性。实际上，通过提供更多控制空间和更多选项来根据个人喜好定制互联网使用，您也许可以提高 PC 的安全性，但这取决于您自己。不过不要害怕，如果有某些例外情况，您可以简单地将它们添加到白名单中，从而不会过度保护您的机器。&lt;/p&gt;
+&lt;p&gt;Fort Firewall 是一个不一定会带来新东西的应用程序。相反，它采用了经典公式。尽管如此，它仍然可以更好地控制您的 PC 的互联网连接、某些应用程序使用您的带宽的方式，以及您的机器如何与互联网交互以完成各种任务。该应用程序的每个方面都旨在简化与 PC 防火墙安全系统交互的方式。&lt;/p&gt;
+&lt;h3 id=&#34;功能介绍&#34;&gt;功能介绍
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;按网络地址、应用程序组过滤&lt;/li&gt;
+&lt;li&gt;支持程序路径名中的通配符&lt;/li&gt;
+&lt;li&gt;应用程序组速度限制&lt;/li&gt;
+&lt;li&gt;存储流量统计&lt;/li&gt;
+&lt;li&gt;带宽的图形显示&lt;/li&gt;
+&lt;li&gt;拥有自己的内核驱动程序，基于 Windows 过滤平台 (WFP)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;v3138&#34;&gt;v3.13.8
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;UI: Options: Traffic Graph: Add &amp;ldquo;Units&amp;rdquo; option.&lt;/li&gt;
+&lt;li&gt;UI: Format traffic dates and bytes per locale.&lt;/li&gt;
+&lt;li&gt;UI: Options: Fix &amp;ldquo;Theme&amp;rdquo; selected value.&lt;/li&gt;
+&lt;li&gt;UI: About: Show last success check time.&lt;/li&gt;
+&lt;li&gt;Driver: fortbuf: Improve IRP cancelling.&lt;/li&gt;
+&lt;li&gt;Installer: Don&amp;rsquo;t re-create &amp;ldquo;README.portable&amp;rdquo; for Portable.&lt;/li&gt;
+&lt;li&gt;FortFirewall.exe.ini: Add &amp;ldquo;updateDir&amp;rdquo; option.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d1e9c68892df&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d1e9c68892df&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>高颜值文件管理器 One Commander v3.89.1 中文版</title>
+        <link>https://kooshare.github.io/post/onecommander/</link>
+        <pubDate>Thu, 29 Aug 2024 08:47:17 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/onecommander/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;One Commander 3&lt;/strong&gt; 是一款 Windows 下的文件管理器工具，支持多栏、多主题、多套图标、文件预览、色彩标签、彩色新旧文件识别等功能，高自定义，家庭用户可免费使用。在志愿者（如 @Krysl）的努力下，目前 One Commander 3 已内置简体中文。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/9hZFembaRuE5gck.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;强大的文件管理及ftp/sftp/webdav连接工具。&lt;/p&gt;
+&lt;p&gt;One Commande除了支持本地文件管理外，还支持：&lt;/p&gt;
+&lt;p&gt;FTP连接。&lt;/p&gt;
+&lt;p&gt;SFTP连接。&lt;/p&gt;
+&lt;p&gt;Amazon S3挂载。&lt;/p&gt;
+&lt;p&gt;WebDAV挂载。&lt;/p&gt;
+&lt;p&gt;Dropbox挂载。&lt;/p&gt;
+&lt;p&gt;Google Drive挂载。&lt;/p&gt;
+&lt;p&gt;OneDrive挂载。&lt;/p&gt;
+&lt;p&gt;OpenStack挂载。&lt;/p&gt;
+&lt;p&gt;Backblaze B2挂载。&lt;/p&gt;
+&lt;p&gt;Box cloud挂载。&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1、双窗口3视图和无限标签。&lt;/p&gt;
+&lt;p&gt;2、支持多项选择。&lt;/p&gt;
+&lt;p&gt;3、支持文件操作列队。&lt;/p&gt;
+&lt;p&gt;4、复制和移动期间允许重命名。&lt;/p&gt;
+&lt;p&gt;5、可设置自定义热键。&lt;/p&gt;
+&lt;p&gt;6、支持本地和网络磁盘。&lt;/p&gt;
+&lt;p&gt;7、支持自定义字体、颜色等。&lt;/p&gt;
+&lt;p&gt;8、支持 Spotlight 搜索。&lt;/p&gt;
+&lt;p&gt;9、可显示隐藏文件。&lt;/p&gt;
+&lt;p&gt;10、高级搜索支持正则表达式。&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2457d2715733&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2457d2715733&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>虚拟打包工具 Enigma Virtual Box 11.0 汉化去广告版</title>
+        <link>https://kooshare.github.io/post/enigma110/</link>
+        <pubDate>Thu, 29 Aug 2024 08:41:42 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/enigma110/</guid>
+        <description>&lt;p&gt;Enigma Virtual Box，单文件制作工具、软件虚拟化工具、虚拟文件打包工具。利用该工具可以将多个文件封装到应用程序主文件，程序和配套文件打包成一个可执行文件，配套文件也不会被释放至硬盘，从而制作成为单执行文件的绿色软件。它支持所有类型的文件格式，虚拟化后的程序不释放任何临时文件到硬盘，文件虚拟过程仅在内存运行。该软件的功能有独立的免费程序，同时支持X86和X64二进制文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/ZqwU6nFj5lh2bEG.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;- 该工具免费，可设置虚拟化进程或不释放临时文件到系统路径和其它硬盘
+- 支持32位和和64文件，打包后的单文件能在所有Windows 操作系统运行
+- 支持各种类型文件和文件夹进行虚拟打包、支持捆绑外部包、添加注册表
+- 支持保存或者打开项目、支持文件的压缩，从而大幅减少生成文件的体积&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;**v11.00.20240826 版本更新：**2024年8月26日
+– 添加了对打包字体文件的支持&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;汉化：by th_sjy
+* 简体中文汉化，去除主窗口中底部的广告条和链接
+* 删除了控制台程序和帮助文档文件，原生单执行文件
+Ps：脱壳技术原因，部分字符串脱壳后丢失故无法汉化&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/3d3c3db86afd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/3d3c3db86afd&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Flash反编译工具 JPEXS Flash Decompiler v21.0.4 中文版</title>
         <link>https://kooshare.github.io/post/jpexs/</link>
         <pubDate>Thu, 29 Aug 2024 07:37:06 +0800</pubDate>

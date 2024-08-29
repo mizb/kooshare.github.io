@@ -7,7 +7,421 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 07:48:32 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 09:00:09 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>USBOSV3.0</title>
+        <link>https://kooshare.github.io/post/usbosv3.0/</link>
+        <pubDate>Thu, 29 Aug 2024 09:00:09 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/usbosv3.0/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>文本转语音软件 Balabolka v2.15.0.878 官方便携版</title>
+        <link>https://kooshare.github.io/post/balabolka878/</link>
+        <pubDate>Thu, 29 Aug 2024 08:58:02 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/balabolka878/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;Balabolka 是一个文本转语音（TTS）的程序。Balabolka可以使用计算机系统上安装的所有语音。屏幕上的文字可以被保存为一个WAV，MP3，OGG或者WMA文件。该软件可以读取剪贴板的内容，可以查看AZW，AZW3，CHM，DjVu，DOC，EPUB，FB2，LIT，MOBI，ODT，PDF，PRC，RTF和HTML文件中的文本，可自定义字体和背景颜色，控制从系统托盘阅读或者使用热键。 Balabolka使用微软的语音API（SAPI）的各种版本，它可以改变语音的参数，包括语度和语调。用户可以应用特殊的替代清单，以提高语音的清晰度质量。当你想改变的单词拼写时这个功能就非常有用。纠正发音规则使用VBScript的语法。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/NW49prPi8QeOt6y.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2024-08-25 v2.15.0.878
+[-] Fixed the using of the PAUSE tag.
+[-] Fixed pauses between sentences for Microsoft Azure.
+[*] Resources for Bulgarian and Uzbek languages were updated (thanks to Kostadin Kolev and Ulugbek Tolakov).&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0268706e0238&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0268706e0238&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>文件管理器 Multi Commander v14.2.0 Build 3026</title>
+        <link>https://kooshare.github.io/post/multicommander/</link>
+        <pubDate>Thu, 29 Aug 2024 08:55:35 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/multicommander/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;Multi Commander它是目前网络上最优秀的一款专为专业人士打造的文件管理器，而且完全免费。完胜windows自带的资源管理器，可实现多标签、多窗口管理功能，轻松实现电脑文件的分门别类管理。另外multi commander软件在下方还附带了常用的工具，包括刷新、查看、编辑、复制、移动、创建目录、删除除、隐藏文件夹、记事本等等。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/SoW4Y5CpmPdJbLB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1、集成多种常用功能的底部按钮面板。这个面板有四行按钮：
+第一行的功能包括了刷新、查看、编辑、拷贝、移动、删除等等，在这些功能按钮上还会直接显示快捷键。
+第二行上显示了电脑上所有的盘符，甚至连linux下的分区也能够识别，不过不能够访问。点击notepad按钮还能够快速打开记事本。
+第三行、能够隐藏某类文件，这样可以快速找到需要的。
+第四行集中的是快速选取按钮，能够一键全部选定、选择所有的mp3、图片等等。
+如果想要在新标签页中打开某个盘符。那么只需要在盘符按钮上按住鼠标右键不放，点击左键就可以了。
+2、快速过滤文件功能。在每个面板的右下角，会有一个输入框，默认显示的是“&lt;em&gt;.&lt;/em&gt;”，也就是全部文件，如果更改成“*.jpg”,那么面板中就隐藏掉除jpg的其他文件哦。
+3、标签页和双面板的双重管理方式，双面板虽然提高效率，不过占用空间较大。而Multi Commander则集合了这两者，肯定能够带来新的使用方法和更好的使用效果。
+4、每个面板都带有独立的目录树和向上按钮，这个在面板右上角能够找到。
+5、集成FTP功能、自带文本编辑器、还可以快速打开注册表编辑器。自带的文本编辑器支持多种文字编码，选中文本，然后点击view按钮就可以唤出编辑器，不过默认使用binary编码，不过使用这个的话文字肯定是乱码，所以你需要在view菜单中更改。
+6、支持各种压缩文件格式。包括zip、7-zip、rar、tar、gz、bz2、jar等。
+7、查看和修改文件夹权限。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v14.2 ( Build 3026 ) (26-Aug-2024)&lt;/p&gt;
+&lt;p&gt;UPDATE- Updated unrar code to 7.0.9
+FIXED - Getting folder size works for OneDrive folder again
+ADDED - Tab-area will now show a folder icon if tabs in tabarea is full, When clicking on icon a popup list is shown with all tabs
+ADDED - The dialog shown when closing lock tabs, now has a &amp;ldquo;Yes to all&amp;rdquo; option
+ADDED - MC.LoadTabs custom command now has a &amp;ldquo;DoNotAsk&amp;rdquo; option to suppress the dialog that is shown when tabs are locked
+FIXED - Focus rect in FolderTree almost not visibile in DarkMode
+ADDED - Now possible to change the auto error handing settings from the progress dialog
+ADDED - DataPreview templates now support to change the font.
+FIXED - DataPreview that show file content will now respect the font size specified in the template
+FIXED - DataPreview Panel how shown correct in none dark mode
+FIXED - 3 Stability issues&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ee13da23b3d1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ee13da23b3d1&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>开源防火墙 Fort Firewall v3.13.8 中文免费版</title>
+        <link>https://kooshare.github.io/post/firewall3138/</link>
+        <pubDate>Thu, 29 Aug 2024 08:53:15 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/firewall3138/</guid>
+        <description>&lt;p&gt;Fort Firewall 是一个开源简单的 Windows 防火墙应用程序。如今，我们中的许多人使用 Windows 防火墙或路由器的组合来管理我们的隐私和安全。 Fort Firewall 当前允许您对 Windows 防火墙进行一些更改。免费下载 Fort Firewall 独立 Windows 脱机安装程序。它是 Windows 的简单防火墙，具有许多丰富的功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/AHgNDi8rKsyBE36.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;这个应用程序能为我做什么？
+就其功能而言，您将获得完整的软件包。首先按网络地址过滤内容或对 PC 上的应用程序进行分组。限制某些应用程序的互联网访问和速度或使用。通过分析存储的流量统计数据，密切关注 PC 连接的演变。从显示带宽发展的图形显示中获得所需的帮助。如果再加上整个程序基于 WFP（也称为 Windows 过滤平台）这一事实，您会得出结论，该应用程序与 Windows 操作系统集成得非常好。&lt;/p&gt;
+&lt;p&gt;更高的安全性或只是更多的控制
+对于基本用户来说，最有趣的方面可能是它可以为您的 PC 提供的附加安全性。实际上，通过提供更多控制空间和更多选项来根据个人喜好定制互联网使用，您也许可以提高 PC 的安全性，但这取决于您自己。不过不要害怕，如果有某些例外情况，您可以简单地将它们添加到白名单中，从而不会过度保护您的机器。&lt;/p&gt;
+&lt;p&gt;Fort Firewall 是一个不一定会带来新东西的应用程序。相反，它采用了经典公式。尽管如此，它仍然可以更好地控制您的 PC 的互联网连接、某些应用程序使用您的带宽的方式，以及您的机器如何与互联网交互以完成各种任务。该应用程序的每个方面都旨在简化与 PC 防火墙安全系统交互的方式。&lt;/p&gt;
+&lt;h3 id=&#34;功能介绍&#34;&gt;功能介绍
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;按网络地址、应用程序组过滤&lt;/li&gt;
+&lt;li&gt;支持程序路径名中的通配符&lt;/li&gt;
+&lt;li&gt;应用程序组速度限制&lt;/li&gt;
+&lt;li&gt;存储流量统计&lt;/li&gt;
+&lt;li&gt;带宽的图形显示&lt;/li&gt;
+&lt;li&gt;拥有自己的内核驱动程序，基于 Windows 过滤平台 (WFP)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;v3138&#34;&gt;v3.13.8
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;UI: Options: Traffic Graph: Add &amp;ldquo;Units&amp;rdquo; option.&lt;/li&gt;
+&lt;li&gt;UI: Format traffic dates and bytes per locale.&lt;/li&gt;
+&lt;li&gt;UI: Options: Fix &amp;ldquo;Theme&amp;rdquo; selected value.&lt;/li&gt;
+&lt;li&gt;UI: About: Show last success check time.&lt;/li&gt;
+&lt;li&gt;Driver: fortbuf: Improve IRP cancelling.&lt;/li&gt;
+&lt;li&gt;Installer: Don&amp;rsquo;t re-create &amp;ldquo;README.portable&amp;rdquo; for Portable.&lt;/li&gt;
+&lt;li&gt;FortFirewall.exe.ini: Add &amp;ldquo;updateDir&amp;rdquo; option.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d1e9c68892df&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d1e9c68892df&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Pineapple Pictures(菠萝看图)v0.8.1 绿色版</title>
+        <link>https://kooshare.github.io/post/pineapplepictures/</link>
+        <pubDate>Thu, 29 Aug 2024 08:51:14 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/pineapplepictures/</guid>
+        <description>&lt;p&gt;菠萝图片是一个轻量级的图像查看器，允许您查看JPEG, PNG, GIF, SVG, PSD, KRA, XCF, TGA, AVIF和一些其他常用的图像格式文件，快速和轻松，并提供一个停留在顶部的窗口设置，允许你钉住窗口，所以你可以使用它来钉在顶部的参考图像，然后你可以与其他软件工作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/er2dzjxwyP7N3Hb.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;快速搜索图片、视频、GIF和相册&lt;/p&gt;
+&lt;p&gt;使用图库对文件进行排序和查看&lt;/p&gt;
+&lt;p&gt;易于分享图片和视频到社交媒体、电子邮件或其他任何地方&lt;/p&gt;
+&lt;p&gt;显示照片和视频详细信息&lt;/p&gt;
+&lt;p&gt;重命名、删除、编辑、共享图片，视频和GIF&lt;/p&gt;
+&lt;p&gt;将任何图片设置为桌面壁纸&lt;/p&gt;
+&lt;p&gt;用手势轻松缩放照片、视频和GIF&lt;/p&gt;
+&lt;p&gt;图片幻灯片&lt;/p&gt;
+&lt;p&gt;暗色模式&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;0.8.0 - 0.8.1:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;New command line option to list all supported formats (for this feature, Windows is not supported for now)&lt;/li&gt;
+&lt;li&gt;Rework how the gallery loading logic works, now this application attempts to load all images that the format is known as supported.&lt;/li&gt;
+&lt;li&gt;CI build: Bump dependencies version.&lt;/li&gt;
+&lt;li&gt;Update translations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/92c89be5a092&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/92c89be5a092&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>QOwnNotes(开源Markdown笔记本) v24.8.6 绿色版</title>
+        <link>https://kooshare.github.io/post/qownnotes/</link>
+        <pubDate>Thu, 29 Aug 2024 08:49:11 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/qownnotes/</guid>
+        <description>&lt;p&gt;QOwnNotes是开源的记事本，具有 Markdown支持 和针对GNU / Linux，Mac OS X和Windows的待办事项列表管理器，可与Nextcloud Notes 和ownCloud Notes一起使用。&lt;/p&gt;
+&lt;p&gt;您可以使用QOwnNotes写下您的想法，并 稍后在移动设备上进行编辑或搜索，例如使用 Android的Nextcloud Notes 或Nextcloud / ownCloud网络服务。&lt;/p&gt;
+&lt;p&gt;注释存储为纯文本标记文件，并 与Nextcloud / ownCloud的文件同步功能同步。当然，也可以使用其他软件，例如Syncthing或 Dropbox。&lt;/p&gt;
+&lt;p&gt;如果您喜欢在纯文本文件中访问便笺的概念，例如在Nextcloud / ownCloud notes应用程序中这样做，以获得最大的自由度， 那么QOwnNotes非常适合您。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/iDvm3TbMNEcwAka.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;可以使用多个便笺文件夹
+您可以使用现有的文本或Markdown文件，大多数情况下无需导入
+您可以从Nextcloud / ownCloud服务器还原旧版本的笔记（在服务器上安装QOwnNotesAPI）
+可以从您的Nextcloud / ownCloud服务器上还原已删除的笔记（在服务器上安装QOwnNotesAPI）
+还有一个当地的垃圾
+注释的子字符串搜索是可能的，并且搜索结果在注释中突出显示
+可以使用可自定义的键盘快捷方式来操作该应用程序
+观察注释文件的外部更改（重新加载注释或注释列表）
+对话框中显示当前便笺和外部更改的便笺之间的差异
+标记的降价突出显示和降价预览
+拼写检查支持
+标签支持编辑笔记
+脚本支持和在线脚本存储库 ，您可以在其中将脚本安装在应用程序中
+QOwnNotes Web Companion浏览器扩展程序 可从所选文本和其他功能添加注释
+访问Chrome网上应用店 页面以在Google Chrome上安装该应用
+访问Firefox加载项页面 页面以在Mozilla Firefox上安装应用程序
+注释从注释文本的第一行获取名称（就像在Nextcloud / ownCloud notes Web应用程序中一样），并且如果第一行更改，注释文本文件将自动重命名
+此功能也可以关闭，您可以使用任何喜欢的文件名
+管理您的Nextcloud / ownCloud待办事项列表（ownCloud任务或Tasks Plus / Calendar Plus）
+笔记的加密（内置AES-256，或者您可以使用自定义加密方法，例如 Keybase.io（encryption-keybase.qml）或 PGP（encryption-pgp.qml））
+暗模式主题支持
+所有面板都可以放置在您想要的任何地方，甚至可以浮动或堆叠（完全可停靠）
+工具栏是完全可定制的
+支持freedesktop主题图标，因此您可以将QOwnNotes与本机桌面图标以及您喜欢的深色桌面主题一起使用QOwnNotes支持Freedesktop图标主题
+支持分层注释标签和注释子文件夹
+支持在Nextcloud / ownCloud服务器上共享笔记
+可携式模式，可在USB随身碟上随身携带QOwnNotes
+Vim模式
+无干扰模式，全屏模式，打字机模式
+Evernote导入
+QOwnNotes支持60多种语言，例如英语，德语，法语，波兰语，中文，日语，俄语，葡萄牙语，匈牙利语，荷兰语和西班牙语&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;2486&#34;&gt;24.8.6
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Added a &lt;strong&gt;new editor color schema&lt;/strong&gt; &lt;em&gt;Everforest Hard Dark&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added a &lt;strong&gt;new editor color schema&lt;/strong&gt; &lt;em&gt;Everforest Hard Light&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added more Russian, Arabic, Korean translation (thank you, olesya_gerasimenko, noureddin, venusgirl)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There was a new release of the&lt;/p&gt;
+&lt;p&gt;QOwnNotes Web Companion browser extension&lt;/p&gt;
+&lt;p&gt;2024.8.0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bookmarks can now be edited in the bookmarks list
+&lt;ul&gt;
+&lt;li&gt;This feature needs QOwnNotes 24.8.5 or higher&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Update dependencies&lt;/li&gt;
+&lt;li&gt;Add more translations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/42f8683142e6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/42f8683142e6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>高颜值文件管理器 One Commander v3.89.1 中文版</title>
+        <link>https://kooshare.github.io/post/onecommander/</link>
+        <pubDate>Thu, 29 Aug 2024 08:47:17 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/onecommander/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;One Commander 3&lt;/strong&gt; 是一款 Windows 下的文件管理器工具，支持多栏、多主题、多套图标、文件预览、色彩标签、彩色新旧文件识别等功能，高自定义，家庭用户可免费使用。在志愿者（如 @Krysl）的努力下，目前 One Commander 3 已内置简体中文。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/9hZFembaRuE5gck.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;强大的文件管理及ftp/sftp/webdav连接工具。&lt;/p&gt;
+&lt;p&gt;One Commande除了支持本地文件管理外，还支持：&lt;/p&gt;
+&lt;p&gt;FTP连接。&lt;/p&gt;
+&lt;p&gt;SFTP连接。&lt;/p&gt;
+&lt;p&gt;Amazon S3挂载。&lt;/p&gt;
+&lt;p&gt;WebDAV挂载。&lt;/p&gt;
+&lt;p&gt;Dropbox挂载。&lt;/p&gt;
+&lt;p&gt;Google Drive挂载。&lt;/p&gt;
+&lt;p&gt;OneDrive挂载。&lt;/p&gt;
+&lt;p&gt;OpenStack挂载。&lt;/p&gt;
+&lt;p&gt;Backblaze B2挂载。&lt;/p&gt;
+&lt;p&gt;Box cloud挂载。&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1、双窗口3视图和无限标签。&lt;/p&gt;
+&lt;p&gt;2、支持多项选择。&lt;/p&gt;
+&lt;p&gt;3、支持文件操作列队。&lt;/p&gt;
+&lt;p&gt;4、复制和移动期间允许重命名。&lt;/p&gt;
+&lt;p&gt;5、可设置自定义热键。&lt;/p&gt;
+&lt;p&gt;6、支持本地和网络磁盘。&lt;/p&gt;
+&lt;p&gt;7、支持自定义字体、颜色等。&lt;/p&gt;
+&lt;p&gt;8、支持 Spotlight 搜索。&lt;/p&gt;
+&lt;p&gt;9、可显示隐藏文件。&lt;/p&gt;
+&lt;p&gt;10、高级搜索支持正则表达式。&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2457d2715733&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2457d2715733&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>开源识屏搜索工具 eSearch v1.12.4 中文便携版</title>
+        <link>https://kooshare.github.io/post/esearch1124/</link>
+        <pubDate>Thu, 29 Aug 2024 08:44:00 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/esearch1124/</guid>
+        <description>&lt;p&gt;文本识别软件现在有点奇怪。虽然一些用户可能会看到他们的潜力，但他们的实用性充其量是值得怀疑的。更尖锐的是，这种解决方案在哪种情况下可行？这也与软件识别文本的效率有多高有关。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/ZgdNJ3qy81jeFR2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;截屏
+框选裁切
+框大小位置可调整(支持方向键或 WASD)
+取色器
+放大镜
+画笔（自由画笔）
+几何形状（边框填充支持调节）
+高级画板设置（使用 Fabric.js 的 api）
+图像滤镜（支持局部马赛克模糊和色彩调节）
+自定义框选松开后的操作
+快速截取全屏到剪贴板或自定义的目录
+截图历史记录
+保存（可选保存为 SVG 可编辑文件）
+其他应用打开
+复制到剪贴板
+钉在屏幕上
+滚轮缩放
+恢复默认大小位置
+透明度
+鼠标穿透
+二维码识别
+OCR 识别
+离线 OCR（基于 C++ 或 Python 实现，eSearch-OCR）
+自定义离线 OCR 模型和字典
+其他在线 OCR
+在线公式识别
+支持自己申请秘钥
+以图搜图
+托盘
+划词句来搜索
+识别展示
+自动搜索翻译
+搜索
+翻译
+自定义搜索翻译引擎
+软件自带浏览器打开
+跟随关闭、失焦关闭
+系统浏览器打开
+链接识别
+历史记录
+自动删除换行（用于自动排版）
+查找替换（支持正则匹配）
+其他编辑器编辑（支持自动重载）
+行号
+拼写检查&lt;/p&gt;
+&lt;p&gt;eSearch 是一个雄心勃勃的程序，但有时感觉效率很低。尽管如此，它还是值得关注的，因为潜力是存在的。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;主要 修复深色模式下工具栏颜色错误 #257
+主页面 搜索文字默认忽略大小写
+主页面 更新文字时退出搜索， 否则开启搜索时复用OCR窗口，会无法更新文字&lt;/p&gt;
+&lt;p&gt;与13版本不同，此版本是在1.12.3版本上进行的小更新，如果你不使用深色模式，或不怎么使用编辑器的搜索，可以不管这个版本&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c956235da5f6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c956235da5f6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>虚拟打包工具 Enigma Virtual Box 11.0 汉化去广告版</title>
+        <link>https://kooshare.github.io/post/enigma110/</link>
+        <pubDate>Thu, 29 Aug 2024 08:41:42 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/enigma110/</guid>
+        <description>&lt;p&gt;Enigma Virtual Box，单文件制作工具、软件虚拟化工具、虚拟文件打包工具。利用该工具可以将多个文件封装到应用程序主文件，程序和配套文件打包成一个可执行文件，配套文件也不会被释放至硬盘，从而制作成为单执行文件的绿色软件。它支持所有类型的文件格式，虚拟化后的程序不释放任何临时文件到硬盘，文件虚拟过程仅在内存运行。该软件的功能有独立的免费程序，同时支持X86和X64二进制文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/ZqwU6nFj5lh2bEG.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;- 该工具免费，可设置虚拟化进程或不释放临时文件到系统路径和其它硬盘
+- 支持32位和和64文件，打包后的单文件能在所有Windows 操作系统运行
+- 支持各种类型文件和文件夹进行虚拟打包、支持捆绑外部包、添加注册表
+- 支持保存或者打开项目、支持文件的压缩，从而大幅减少生成文件的体积&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;**v11.00.20240826 版本更新：**2024年8月26日
+– 添加了对打包字体文件的支持&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;汉化：by th_sjy
+* 简体中文汉化，去除主窗口中底部的广告条和链接
+* 删除了控制台程序和帮助文档文件，原生单执行文件
+Ps：脱壳技术原因，部分字符串脱壳后丢失故无法汉化&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/3d3c3db86afd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/3d3c3db86afd&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>YY语音(歪歪语音) v9.36.0.0 多开去广告绿色版</title>
         <link>https://kooshare.github.io/post/yyyuyin93600/</link>
         <pubDate>Thu, 29 Aug 2024 07:48:32 +0800</pubDate>
