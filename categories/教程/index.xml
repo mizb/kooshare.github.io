@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>教程 on KUL藏宝库</title>
-        <link>https://kooshare.github.io/categories/%E6%95%99%E7%A8%8B/</link>
+        <link>https://www.danlong360.com/categories/%E6%95%99%E7%A8%8B/</link>
         <description>Recent content in 教程 on KUL藏宝库</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 27 Aug 2024 18:31:01 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 27 Aug 2024 18:31:01 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Windows系统中为 git 命令设置代理</title>
-        <link>https://kooshare.github.io/post/gitproxy/</link>
+        <link>https://www.danlong360.com/post/gitproxy/</link>
         <pubDate>Tue, 27 Aug 2024 18:31:01 +0800</pubDate>
         
-        <guid>https://kooshare.github.io/post/gitproxy/</guid>
+        <guid>https://www.danlong360.com/post/gitproxy/</guid>
         <description>&lt;h2 id=&#34;1设置方式http和socks&#34;&gt;1.设置方式：&lt;code&gt;http&lt;/code&gt;和&lt;code&gt;socks&lt;/code&gt;
 &lt;/h2&gt;&lt;p&gt;v2rayN 默认监听 1080/1081 端口，如果修改过默认端口，那么请自行替换下列端口。其中&lt;strong&gt;1080为socks端口，1081为http端口&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;博主的v2rayN监听端口为：&lt;/p&gt;
@@ -72,10 +72,10 @@
         </item>
         <item>
         <title>Hugo部署到VPS服务器</title>
-        <link>https://kooshare.github.io/post/hugobushuvps/</link>
+        <link>https://www.danlong360.com/post/hugobushuvps/</link>
         <pubDate>Mon, 26 Aug 2024 16:47:12 +0800</pubDate>
         
-        <guid>https://kooshare.github.io/post/hugobushuvps/</guid>
+        <guid>https://www.danlong360.com/post/hugobushuvps/</guid>
         <description>&lt;h3 id=&#34;debian-安装-hugo&#34;&gt;Debian 安装 Hugo
 &lt;/h3&gt;&lt;p&gt;APT 安装的版本较老，所以去 &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Github&lt;/a&gt; 直接下载 .deb 包安装，要下载 extended 版本。&lt;/p&gt;
@@ -127,10 +127,10 @@
         </item>
         <item>
         <title>iphone苹果手机设置防骚扰,彻底解决广告骚扰电话</title>
-        <link>https://kooshare.github.io/post/pingguohoujifangsaorao/</link>
+        <link>https://www.danlong360.com/post/pingguohoujifangsaorao/</link>
         <pubDate>Fri, 23 Aug 2024 16:03:12 +0800</pubDate>
         
-        <guid>https://kooshare.github.io/post/pingguohoujifangsaorao/</guid>
+        <guid>https://www.danlong360.com/post/pingguohoujifangsaorao/</guid>
         <description>&lt;p&gt;iphone手机在防骚扰电话方面非常差,即使借助第三方的拦截APP软件,也是毫无作用,骚扰电话该怎么打还是怎么打.&lt;/p&gt;
 &lt;p&gt;为了防骚扰电话,只能另辟蹊径.iphone手机里面的专注模式可以有效的防骚扰电话,一起来看看如何操作.&lt;/p&gt;
 &lt;h2 id=&#34;设置教程&#34;&gt;设置教程
@@ -290,10 +290,10 @@
         </item>
         <item>
         <title>Hugo_stack修改“链接页面为三栏样式”</title>
-        <link>https://kooshare.github.io/post/sanlanlianjieyemian/</link>
+        <link>https://www.danlong360.com/post/sanlanlianjieyemian/</link>
         <pubDate>Thu, 22 Aug 2024 11:44:10 +0800</pubDate>
         
-        <guid>https://kooshare.github.io/post/sanlanlianjieyemian/</guid>
+        <guid>https://www.danlong360.com/post/sanlanlianjieyemian/</guid>
         <description>&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/22/FjezfulOIZ25EwY.png&#34;
 	
 	
@@ -367,10 +367,10 @@
         </item>
         <item>
         <title>Hugo_stack主题修改“归档页面为双栏显示”</title>
-        <link>https://kooshare.github.io/post/stackshuanglangxianshi/</link>
+        <link>https://www.danlong360.com/post/stackshuanglangxianshi/</link>
         <pubDate>Thu, 22 Aug 2024 11:42:39 +0800</pubDate>
         
-        <guid>https://kooshare.github.io/post/stackshuanglangxianshi/</guid>
+        <guid>https://www.danlong360.com/post/stackshuanglangxianshi/</guid>
         <description>&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/22/3scy2olbJREfF4N.png&#34;
 	
 	
@@ -443,10 +443,10 @@
         </item>
         <item>
         <title>Hugo页面底栏添加“网站运行时长”stack主题</title>
-        <link>https://kooshare.github.io/post/wangzhanyunxingshichang/</link>
+        <link>https://www.danlong360.com/post/wangzhanyunxingshichang/</link>
         <pubDate>Thu, 22 Aug 2024 11:19:23 +0800</pubDate>
         
-        <guid>https://kooshare.github.io/post/wangzhanyunxingshichang/</guid>
+        <guid>https://www.danlong360.com/post/wangzhanyunxingshichang/</guid>
         <description>&lt;p&gt;&lt;strong&gt;在layouts/partials/footer/custom.html里添加以下JS代码，其中s1是网站创建日期。代码参考自这里 ，加上了小时和分钟的计算。&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -549,10 +549,10 @@
         </item>
         <item>
         <title>Hugo 添加 Google Analytics</title>
-        <link>https://kooshare.github.io/post/hugogoogleanalytics/</link>
+        <link>https://www.danlong360.com/post/hugogoogleanalytics/</link>
         <pubDate>Thu, 22 Aug 2024 11:11:20 +0800</pubDate>
         
-        <guid>https://kooshare.github.io/post/hugogoogleanalytics/</guid>
+        <guid>https://www.danlong360.com/post/hugogoogleanalytics/</guid>
         <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;（2024.08.22）&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;修改 config.yaml 配置文件，在文件末尾添加以下代码&lt;/strong&gt;：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -596,10 +596,10 @@
         </item>
         <item>
         <title>CloudFlare 造成重定向的次数过多的问题</title>
-        <link>https://kooshare.github.io/post/chongdingxiangcishuguoduo/</link>
+        <link>https://www.danlong360.com/post/chongdingxiangcishuguoduo/</link>
         <pubDate>Wed, 14 Aug 2024 07:59:16 +0800</pubDate>
         
-        <guid>https://kooshare.github.io/post/chongdingxiangcishuguoduo/</guid>
+        <guid>https://www.danlong360.com/post/chongdingxiangcishuguoduo/</guid>
         <description>&lt;p&gt;&lt;img src=&#34;https://img-home.csdnimg.cn/images/20240711042549.png&#34;
 	
 	
@@ -650,10 +650,10 @@ Full (strict)：当我们的源网站支持 HTTP ，并且证书有效时 (未�
         </item>
         <item>
         <title>微信公众号自定义菜单栏添加历史消息方法</title>
-        <link>https://kooshare.github.io/post/mplishixiaoxi/</link>
+        <link>https://www.danlong360.com/post/mplishixiaoxi/</link>
         <pubDate>Tue, 13 Aug 2024 10:52:51 +0800</pubDate>
         
-        <guid>https://kooshare.github.io/post/mplishixiaoxi/</guid>
+        <guid>https://www.danlong360.com/post/mplishixiaoxi/</guid>
         <description>&lt;p&gt;1.在浏览器中打开自己公众号的一篇推送，&lt;code&gt;Ctrl+U&lt;/code&gt;查看网页源代码。
 2.&lt;code&gt;Ctrl+F&lt;/code&gt;搜索&lt;code&gt;var biz&lt;/code&gt;,复制对应的代码&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/13/3hmiufPacKSyGdX.png&#34;
