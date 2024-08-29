@@ -7,7 +7,62 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 10:34:52 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 11:03:42 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Rumenggongjuxiang</title>
+        <link>https://kooshare.github.io/post/rumenggongjuxiang/</link>
+        <pubDate>Thu, 29 Aug 2024 11:03:42 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/rumenggongjuxiang/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;入梦工具箱是一款多功能的工具箱软件，里面为用户们提供了大量便利的工具，例如CPU工具，显卡工具，内存功能，因此可以有效的帮助用户们去检测自己的电脑，查看自己的电脑配置如何，是否合格，亦或者有故障等。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/ngv8PpoaiVxCZQU.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/GSBliTt6rv9h4yC.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.软件只有200多KB,采用C#开发,占用极小,且页面简洁干净.
+2.较于图吧工具箱报毒的软件全部360杀毒删除,解决您的后顾之忧
+3.相较于图吧工具箱内,入梦工具箱可以自由拖动添加或者删除软件
+4.一键复制电脑配置到剪辑版
+5.软件单文件也可以直接使用,内部的软件路径可以拖动自定义
+6.需要一起开发软件的也可以联系作者,一起开发,软件无壳,直接反编译可得到源码&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;6.4&lt;/p&gt;
+&lt;p&gt;1.优化因为线程问题造成的CPU不显示型号
+2.优化配置过低造成的卡顿&lt;/p&gt;
+&lt;p&gt;6.3&lt;/p&gt;
+&lt;p&gt;1.修复因为删除工具包目录损坏的问题&lt;/p&gt;
+&lt;p&gt;6.2&lt;/p&gt;
+&lt;p&gt;1.修复部分电脑线程显示错误的问题&lt;/p&gt;
+&lt;p&gt;6.1&lt;/p&gt;
+&lt;p&gt;1.修复了硬件列表下标越界的问题&lt;/p&gt;
+&lt;p&gt;6.0&lt;/p&gt;
+&lt;p&gt;1.修复DPI显示错误,缩放了DPI的用户可以正常显示
+2.感谢@136082050的建议,单机按钮自动切换到相应的页面
+3.部分人反馈分辨率不对,其实是对的,加了一个原始分辨率方便大家对比&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/56a3d52a368d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/56a3d52a368d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>统一软件运行库（原游戏增强聚变引擎）v2024.8.22</title>
         <link>https://kooshare.github.io/post/tongyiruanjianyunxingku/</link>
         <pubDate>Thu, 29 Aug 2024 10:34:52 +0800</pubDate>
