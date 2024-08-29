@@ -8,12 +8,93 @@
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
         <lastBuildDate>Thu, 29 Aug 2024 10:34:52 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Tongyiruanjianyunxingku</title>
+        <title>统一软件运行库（原游戏增强聚变引擎）v2024.8.22</title>
         <link>https://kooshare.github.io/post/tongyiruanjianyunxingku/</link>
         <pubDate>Thu, 29 Aug 2024 10:34:52 +0800</pubDate>
         
         <guid>https://kooshare.github.io/post/tongyiruanjianyunxingku/</guid>
-        <description></description>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;统一游戏运行库（又名游戏增强聚变引擎）兼容Win7-Win11操作系统，旨在简化安装流程，降低安装门槛，帮助电脑小白完成新机配置。
+网上3DM运行库等全套运行库由于久久没有维护，部分组件不再适合当前使用环境，面对硬件换新潮，兼容软环境自然也要跟上！找准运行库安装自然是首要问题。
+包体继承了.NET 离线运行库合集的组件，在原有基础上添加其余PC必备运行库，多年的维护经验使得该系列运行库从安装和检测上趋于成熟。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/TXUvFHnQNoeCOYB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/9647-1.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/5DIqnKRXrki8NLy.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/9647-2.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;纯净绿色&lt;/strong&gt;：软件中的大多数组件经过精心处理。从官方发布的MSI安装包中提取所需内容，并结合一些高效、安全的第三方脚本进行定制和维护，确保整个过程无广告植入，保持了软件的纯净性并优化对系统资源的占用，让电脑运行轻盈流畅。
+&lt;strong&gt;广泛适配&lt;/strong&gt;：调研并精选了针对校园信息室和网吧运行库配置进行打包。这些运行库能很好地兼容从Win7到Win11的新老设备，剔除不常用或针对特定软件的冷门运行库，避免占用宝贵的硬盘空间，确保系统更加精简高效。
+&lt;strong&gt;轻巧便捷&lt;/strong&gt;：采用ISO镜像文件格式离线封装。大大简化了操作流程，同时ISO格式对于存储介质的要求较低，能轻松存放和传输，非常适合在不同设备间部署或帮助各位小白朋友们远程解决软件环境安装问题。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Microsoft XML Core Services 6.0（6.10.1129.0）&lt;/li&gt;
+&lt;li&gt;Microsoft Visual Basic 5.0 Runtime（5.2.82.44 ）&lt;/li&gt;
+&lt;li&gt;Microsoft Visual Basic 6.0 Runtime（98.46）&lt;/li&gt;
+&lt;li&gt;Microsoft Visual C++ 2002 Redistributables（7.0.9975.0）&lt;/li&gt;
+&lt;li&gt;Microsoft Visual C++ 2003 Redistributables（7.10.6119.0）&lt;/li&gt;
+&lt;li&gt;Microsoft Visual C++ 2005 Redistributables（8.0.50727.6229）&lt;/li&gt;
+&lt;li&gt;Microsoft Visual C++ 2008 Redistributables（9.0.30729.7523 ）&lt;/li&gt;
+&lt;li&gt;Microsoft Visual C++ 2010 Redistributables（10.0.40219.473）&lt;/li&gt;
+&lt;li&gt;Microsoft Visual C++ 2012 Redistributables （11.0.61135.400）&lt;/li&gt;
+&lt;li&gt;Microsoft Visual C++ 2013 Redistributables（12.0.40664.0）&lt;/li&gt;
+&lt;li&gt;Microsoft Visual C++ 2015-2022 Redistributables（14.40.33810.0）&lt;/li&gt;
+&lt;li&gt;Microsoft Visual Studio 2010 Tools for Office Runtime（10.0.60917.0）&lt;/li&gt;
+&lt;li&gt;Windows10 Universal C Runtime（KB3118401）&lt;/li&gt;
+&lt;li&gt;Microsoft Visual J# -SE Redistributables(2.0.50727.937)&lt;/li&gt;
+&lt;li&gt;Microsoft Visual F# 2.0 Redistributables(2.0.50727.42)&lt;/li&gt;
+&lt;li&gt;Microsoft.NET Framework 3.5 SP1（3.5.30729）&lt;/li&gt;
+&lt;li&gt;Microsoft.NET Framework 4.8（4.8.0.3761）&lt;/li&gt;
+&lt;li&gt;Microsoft.NET Core 3.1 Desktop Runtime（3.1.32.31915）&lt;/li&gt;
+&lt;li&gt;Microsoft.NET 6.0 Desktop Runtime（6.0.31.33717）&lt;/li&gt;
+&lt;li&gt;Microsoft.NET 8.0 Desktop Runtime（8.0.6.31915）&lt;/li&gt;
+&lt;li&gt;Microsoft XNA Framework 1.0 Refresh（1.1.10405.0）&lt;/li&gt;
+&lt;li&gt;Microsoft XNA Framework 2.0（2.0.11828.1）&lt;/li&gt;
+&lt;li&gt;Microsoft XNA Framework 3.0 (3.0.11010.0)&lt;/li&gt;
+&lt;li&gt;Microsoft XNA Framework 3.1 (3.1.10527.0)&lt;/li&gt;
+&lt;li&gt;Microsoft XNA Framework 4.0 Refresh（4.0.30901.0)&lt;/li&gt;
+&lt;li&gt;Microsoft Silverlight 5.1（5.1.50918.0）&lt;/li&gt;
+&lt;li&gt;JAVA 8 Environment （8.0.4110.9）&lt;/li&gt;
+&lt;li&gt;NVIDIA PhysX 系统软件包（9.23.1019）&lt;/li&gt;
+&lt;li&gt;NVIDIA PhysX 系统软件包 Legency（9.13.0604）&lt;/li&gt;
+&lt;li&gt;Open Al（2.1）&lt;/li&gt;
+&lt;li&gt;Rapture 3D 2.7.4 Game (2.7.3)&lt;/li&gt;
+&lt;li&gt;Adobe Flash 34 Active（34.0.0.317）&lt;/li&gt;
+&lt;li&gt;Adobe Flash 34 PPAPI（34.0.0.317）&lt;/li&gt;
+&lt;li&gt;Adobe Shockwave Player （12.3.5）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;更新日志（Version：1.2.0） 发布日期：2024.08.22
+1.组件更新
+.NET 6.0.33
+.NET 8.0.80
+Visual C++ 2022
+JAVA 8.0.4210.9
+移除Adobe Flash Player 二件套仅保留AX
+XNA Framework 压缩算法改良
+2.现在安装新版组件会自动卸载旧版
+3.综合错误修复
+4.安装文本 Installed 改为已安装
+5.更新周期推迟，稳定就好，没必要频繁更新&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/68bbbd61a4ae&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/68bbbd61a4ae&lt;/a&gt;&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>STranslate(翻译、OCR工具) v1.1.9.821 绿色版</title>
