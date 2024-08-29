@@ -7,7 +7,73 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 08:58:02 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 09:56:54 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MusicPlayer2 (开源本地播放器) v2.77.1</title>
+        <link>https://kooshare.github.io/post/musicplayer2/</link>
+        <pubDate>Thu, 29 Aug 2024 09:56:54 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/musicplayer2/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;MusicPlayer2是一款集音乐播放、歌词显示、格式转换等众多功能于一身的音频播放软件。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能。播放内核为BASS音频库(V2.4)。播放器支持几乎所有常见的音频格式。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/MSWKhXEdLRb8qo9.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/p9AMeuv3yFjY2GR.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;歌词显示&lt;/li&gt;
+&lt;li&gt;迷你模式&lt;/li&gt;
+&lt;li&gt;歌词卡拉OK样式显示&lt;/li&gt;
+&lt;li&gt;任务栏搜索框显示歌词&lt;/li&gt;
+&lt;li&gt;桌面歌词显示&lt;/li&gt;
+&lt;li&gt;歌词在线下载&lt;/li&gt;
+&lt;li&gt;歌词编辑&lt;/li&gt;
+&lt;li&gt;歌曲标签识别和编辑&lt;/li&gt;
+&lt;li&gt;频谱分析&lt;/li&gt;
+&lt;li&gt;专辑封面&lt;/li&gt;
+&lt;li&gt;自动匹配下载歌词和专辑封面&lt;/li&gt;
+&lt;li&gt;音效设置（均衡器和混响）&lt;/li&gt;
+&lt;li&gt;任务栏缩略图按钮&lt;/li&gt;
+&lt;li&gt;主题颜色&lt;/li&gt;
+&lt;li&gt;支持cue分轨&lt;/li&gt;
+&lt;li&gt;背景高斯模糊&lt;/li&gt;
+&lt;li&gt;格式转换&lt;/li&gt;
+&lt;li&gt;媒体库功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;2771&#34;&gt;2.77.1
+&lt;/h3&gt;&lt;p&gt;此次更新修正了2.77版本的若干问题，没有增加新的功能。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修正在右键菜单中“添加到播放列表”子菜单有时会异常禁用的问题。&lt;/li&gt;
+&lt;li&gt;修正点击“AB重复”按钮时的测试文本没有删除的问题。&lt;/li&gt;
+&lt;li&gt;修正“AB重复”按钮鼠标提示不正确的问题。&lt;/li&gt;
+&lt;li&gt;修正100%缩放比例下对话框中的控件在垂直方向太挤的问题。&lt;/li&gt;
+&lt;li&gt;修正从全屏模式进入迷你模式时歌词文本太大并且显示不全的问题。&lt;/li&gt;
+&lt;li&gt;修正aac文件在属性对话框中无法显示内嵌专辑封面的问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8980dc98ca4b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8980dc98ca4b&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>文本转语音软件 Balabolka v2.15.0.878 官方便携版</title>
         <link>https://kooshare.github.io/post/balabolka878/</link>
         <pubDate>Thu, 29 Aug 2024 08:58:02 +0800</pubDate>

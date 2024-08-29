@@ -7,7 +7,140 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 07:35:46 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 09:48:00 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>网页浏览器、极客浏览器 Vivaldi Browser v6.8.3381.57</title>
+        <link>https://kooshare.github.io/post/vivaldibrowser57/</link>
+        <pubDate>Thu, 29 Aug 2024 09:48:00 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/vivaldibrowser57/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;极客浏览器&lt;/strong&gt;，即 &lt;strong&gt;Vivaldi&lt;/strong&gt; 是一款由美国维瓦尔第软件科技公司采用谷歌 &lt;strong&gt;Chromium Blink&lt;/strong&gt; 开发者极速内核引擎精心设计与开发制作的已内置诸多原 &lt;strong&gt;Opera&lt;/strong&gt; 用户专属功能的网页浏览器，以为我们的朋友而打造为诉求，旨在为原先欧朋的忠实爱用者。集谷歌之心与欧朋之情于一体的完美交融，持续致力于简约且高效率的用户交互体验。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vivaldi&lt;/strong&gt; 延续了原欧朋时代网友热衷与便捷的实用功能，例如：高度可自定义界面、主题、笔记、标签管理、快捷命令、键盘操作、书签管理、鼠标手势等等。当然只有用户想不到的，没有它极客无法实现的，极客浏览器非凡网页冲浪体验践行者。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/9C4BltvgFp1UDuf.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;快速拨号 – 内置在每一个新标签中，让你得以快速访问你最爱的网站；&lt;/li&gt;
+&lt;li&gt;快速拨号文件夹 – 用文件夹来整理快速拨号以方便使用；&lt;/li&gt;
+&lt;li&gt;快捷命令 – 使用简单的文本命令掌控 Vivaldi 的一切；&lt;/li&gt;
+&lt;li&gt;快进 – 顺序跳转到一系列页面中的下一页，完美契合搜索页面；&lt;/li&gt;
+&lt;li&gt;快退 – 快速回到当前域名下你访问的第一个网页；&lt;/li&gt;
+&lt;li&gt;笔记 – 在浏览时记下笔记并将链接到特定网站；&lt;/li&gt;
+&lt;li&gt;Web 面板 – 你可以在网页面板里访问任何网页，适用于并行浏览或访问社交网站；&lt;/li&gt;
+&lt;li&gt;面板 – 快速访问书签、下载和笔记；&lt;/li&gt;
+&lt;li&gt;搜索框 – 使用多个预置的搜索引擎，或添加自定义搜索引擎；&lt;/li&gt;
+&lt;li&gt;自定义搜索引擎 – 你几乎可以将任何一种搜索框添加到 Vivaldi 中；&lt;/li&gt;
+&lt;li&gt;会话 – 保存打开的一组标签，并随时可以再次访问；&lt;/li&gt;
+&lt;li&gt;标签组 – 将一个标签拖动到另一个标签上即可保存为一个标签组；&lt;/li&gt;
+&lt;li&gt;可视化标签 – 扩宽标签栏以显示可视化预览；&lt;/li&gt;
+&lt;li&gt;垃圾箱 – 恢复已关闭的标签和弹出窗口；&lt;/li&gt;
+&lt;li&gt;标签循环 – 在已打开的标签之间迅速跳转；&lt;/li&gt;
+&lt;li&gt;标签组平铺 – 以并列或网格形式查看标签组中的标签；&lt;/li&gt;
+&lt;li&gt;书签栏 – 一个用来简化书签访问和管理的工具栏；&lt;/li&gt;
+&lt;li&gt;昵称 – 为书签添加昵称，以便从地址栏快速访问；&lt;/li&gt;
+&lt;li&gt;鼠标手势 – 通过鼠标滑行执行浏览器的每个关键操作；&lt;/li&gt;
+&lt;li&gt;键盘快捷键 – 使用键盘组合键来快速执行对应功能；&lt;/li&gt;
+&lt;li&gt;快速拨号背景 – 定制快速拨号的背景图；&lt;/li&gt;
+&lt;li&gt;网页缩放 – 放大或缩小网页内容；&lt;/li&gt;
+&lt;li&gt;用户界面缩放 – 调整 Vivaldi 用户界面元素的大小；&lt;/li&gt;
+&lt;li&gt;一键变色 – 一键改变 Vivaldi 的界面；&lt;/li&gt;
+&lt;li&gt;自适应界面配色 – Vivaldi 的界面会根据当前浏览的网页变换颜色；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;• [New][Themes] Theme sharing (VB-38363)
+• [New][Translate][Panel] Provide a new way to translate selections and arbitrary text (VB-80593)
+• [New][Address bar][Download] Offer additional way of showing downloads (VB-80226)
+• [New][Page Actions][Chain Commands][Keyboard][Gestures] Handle page actions as commands (VB-82950)
+• [New][Chain Commands] Add parameter to search with selection command: to specify search engine (VB-81860)
+• [New][Linux]Provide rpm packages for ARM and ARM64 (VB-84132)
+• [Address bar] Checking a URL with a search engine goes to URL instead of searching (VB-84115)
+• [Address bar] URL in address field not updated after opening a site from Bookmarks menu (VB-83568)
+• [Address bar] URLs with encoded characters are not properly encoded when copying the URL (VB-77574)
+• [Blocker][Keyboard] Tracker blocking badge is not keyboard accessible (VB-65331)
+• [Bookmarks] Duplicate text overlaid on javascript and mailto URLs (VB-81608)
+• [Capture] Button not translated (VB-84477)
+• [Capture] Dragging isn’t possible after screenshot (VB-84242)
+• [Capture] Missing UI for screenshot of area (VB-83510)
+• [Chromium] Upgraded to 96.0.4664.51
+• [Download] Doesn’t finish although it reach 100% (VB-83809)
+• [Download] Data blob download fails (VB-84157)
+• [Gestures][Keyboard] Translate Page Not Available as a Command (VB-82214)
+• [Gestures][Settings] Animation not displaying (VB-82288)
+• [Linux][Media] Update proprietary codecs to 98.0.4710.4—104707
+• [Locale] Swedish system long date format incorrect (VB-73701)
+• [Menus] Improve capability to recover from broken syntax in menu files (VB-84124)
+• [Menus][PWA][Speed Dials] Useless “Create shortcut…” context menu item (VB-83236)
+• [Panels] Can’t open “windows with N tabs” in window panel (VB-83590)
+• [Panels][Download] Missing information if disk is full (VB-77323)
+• [Panels][Download] Order of entries in download panel change on click after download finished (VB-69518)
+• [Panels][Tabs] Sort tabs by domain has stopped working (VB-84492)
+• [Performance] Enable backward/forward cache by default (VB-83644)
+• [Performance][Address bar] Improve performance by doing less re-rendering (VB-83559)
+• [Performance][Tabs] Fewer avoidable re-renders while dragging tabs (VB-83498)
+• [Periodic reload][Tabs] Only affects last selected tab in a group of tabs (VB-84439)
+• [Privacy] Add .gitignore file to profile folder; A warning should display if the profile might be in a Git repository (VB-84485)
+• [Quick Commands] Should take history state into account with autocomplete (VB-83489)
+• [Quick Commands] Tune history search (VB-82876)
+• [Reader Mode] Failing in some cases when it should not (VB-83689)
+• [Speed Dial] Cannot rename bookmark by clicking on the title; cut/copy/paste in the title field doesn’t work (VB-81991)
+• [Speed Dial] Opening a page from a folder, then going back does not return you to the folder (VB-84101)
+• [Speed Dial][Search] Ask users to consider using Startpage instead of Google (VB-73553)
+• [Sync] Can’t use $ in password (VB-83806)
+• [Tabs] Dragging should update less when animations are off (VB-83757)
+• [Tabs] Dragging tab selects another tab (VB-83758)
+• [Tabs] When tab bar is hidden, a new tab from a stack opens outside the stack (VB-79128)
+• [Tabs][Keyboard] F6 focus selection disappears on tab stacks (VB-83959)
+• [Tabs][Performance] Poor performance with many tabs (VB-84121)
+• [Translate] Better error handling to improve automatic detection (VB-84434)
+• [Translate] Error in console when loading XML file (VB-83681)
+• [Translate] Selection button and popup might end up below the page (VB-83429)
+• [Windows][Media] Sound occasionally fails: fixes some of these instances (VB-82763)&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/805da6605caa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/805da6605caa&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LibreWolf浏览器 v129.0.2-1</title>
+        <link>https://kooshare.github.io/post/librewolf/</link>
+        <pubDate>Thu, 29 Aug 2024 09:42:12 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/librewolf/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;LibreWolf 是 Firefox 的一个独立分支，其主要目标是隐私、安全和用户自由。&lt;/p&gt;
+&lt;p&gt;它旨在增强对跟踪和指纹识别技术的保护，同时还包括一些安全改进。这是通过面向隐私和安全的设置和补丁来实现的。LibreWolf 还旨在消除所有遥测、数据收集和烦恼，以及禁用 DRM 等反自由功能。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/mfXCMFYlxSdzpws.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://store-images.s-microsoft.com/image/apps.9517.14390997908833564.5d3b63fe-0161-49a3-9310-00ac06602fcd.1cc49153-6dc4-4bf0-9f99-ecb4baa43191&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;无遥测 - 没有实验、广告软件、烦恼或不必要的干扰。&lt;/p&gt;
+&lt;p&gt;隐私搜索 - 注重隐私的搜索提供商：DuckDuckGo、Searx、Qwant 等。&lt;/p&gt;
+&lt;p&gt;包含内容拦截器 - 为方便起见，已包含 uBlock Origin。&lt;/p&gt;
+&lt;p&gt;增强的隐私 - 经过强化，可在不牺牲可用性的情况下最大限度地提高隐私性。&lt;/p&gt;
+&lt;p&gt;快速更新 - LibreWolf 始终基于最新的 Firefox 稳定源代码构建，以获得最新的安全性和功能以及稳定性。&lt;/p&gt;
+&lt;p&gt;开源 - 每个人都可以参与 LibreWolf 的开发。加入我们的 GitLab、Matrix 和 Gitter。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ad286cef3ecf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ad286cef3ecf&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>全新AI浏览器 Opera One v112.0.5230.32 官方版</title>
         <link>https://kooshare.github.io/post/opera5230/</link>
         <pubDate>Thu, 29 Aug 2024 07:35:46 +0800</pubDate>

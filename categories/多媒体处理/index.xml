@@ -7,7 +7,50 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 08:44:00 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 09:50:58 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>开源录像工具 Simple Screen Recorder v1.3.1 中文免费版</title>
+        <link>https://kooshare.github.io/post/simplescreenrecorder/</link>
+        <pubDate>Thu, 29 Aug 2024 09:50:58 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/simplescreenrecorder/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;无论你是想保存你最喜欢的电影中的一个场景，录制一个迷人的视频游戏的游戏过程，还是为你的家人和朋友拍摄一个软件教程，都有很多程序可供选择。然而，对于那些认为 OBS 的复杂界面和 Bandicam 的价格标签令人生畏的人来说，Simple Screen Recorder 的简约布局和对多个输出文件的支持可能是快速捕捉视频和音频的最佳选择。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/LGcxSAK8vqdm5UT.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;极简的界面
+在布局方面，该应用程序拥有一个直接显示所有可用功能的窗口，让用户不必在多个子菜单中挖掘选项。对于那些喜欢制作教程的人来说，该程序允许同时录制系统声音和麦克风音频，使其成为配音的完美选择。&lt;/p&gt;
+&lt;p&gt;使用笔记本电脑设置的用户在录制视频游戏演练时可能希望使用外部麦克风，以获得更高的音频质量。因此，该应用程序包括一个选择正确输入设备的下拉列表，从而消除了通过 Windows 声音菜单设置默认录音设备的需要。&lt;/p&gt;
+&lt;p&gt;由于其便携性，该程序可以让用户立即开始录音，而不需要事先使用安装向导。然而，使该软件特别有趣的是它捕捉你的桌面的方式。&lt;/p&gt;
+&lt;p&gt;在编辑过程中很有用
+录音存储在应用程序主目录下的一个专用文件夹中，分为三个独立的文件：一个是用于配音的麦克风输入，一个是用于可能的游戏画面的系统声音录音，以及桌面本身的视频捕获。&lt;/p&gt;
+&lt;p&gt;这种分离对于那些想在他们选择的编辑套件中拥有三个不同的时间线的人来说是很有用的，使他们在调整每个声音输入的音量分层在视频记录方面有较大的自由度。此外，所有这些独立的文件都可以在应用程序本身中合并成 MKV 视频格式，供那些想避免使用单独的编辑程序的人使用。&lt;/p&gt;
+&lt;p&gt;在改进方面，该应用程序可以使用多显示器支持，以适应面向生产力的更复杂设置。此外，为了实现更高的自定义程度，也欢迎选择录音的保存目录的选项。&lt;/p&gt;
+&lt;p&gt;轻量级视频和音频记录器
+Windows 用户如果想要替代 OBS 的复杂性、Bandicam 的价格标签和 Xbox 游戏栏的资源消耗型录音功能，可以选择尝试 Simple Screen Recorder，这是一个轻量级的工具，它将视频、麦克风和系统音频输入分开，以便于编辑过程。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;131&#34;&gt;1.3.1
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Monitor selector combobox it&amp;rsquo;s keep disable if the capture all monitors it&amp;rsquo;s checked.&lt;/li&gt;
+&lt;li&gt;The audio synchronization was improved. Roughly 😀&lt;/li&gt;
+&lt;li&gt;ffmpeg and ReaLTaiizor were updated to the last version.&lt;/li&gt;
+&lt;li&gt;Minor changes in the ffmpeg argument were made.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/765bcf2b53d4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/765bcf2b53d4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>开源识屏搜索工具 eSearch v1.12.4 中文便携版</title>
         <link>https://kooshare.github.io/post/esearch1124/</link>
         <pubDate>Thu, 29 Aug 2024 08:44:00 +0800</pubDate>

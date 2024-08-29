@@ -7,7 +7,109 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 26 Aug 2024 00:55:33 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 09:00:09 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>USBOS V3.0 标准版/增强版(更新到2024.08.25)</title>
+        <link>https://kooshare.github.io/post/usbosv3.0/</link>
+        <pubDate>Thu, 29 Aug 2024 09:00:09 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/usbosv3.0/</guid>
+        <description>&lt;h3 id=&#34;增强版介绍&#34;&gt;增强版介绍
+&lt;/h3&gt;&lt;p&gt;ISO版与UD版合体，总体积1.62GB&amp;ndash;3.0GB（视是否拓展）！
+USBOS V3是计算机超级维护工具，此话怎讲？
+若仅从内存需求这方面来说：从只有96MB物理内存的工控机，到市场上你可以卖得到且能插上你的主板的任意GB数内存的IBM PC兼容计算机，均在以下2-6号WIN PE（RamOS）强力组合的支持之列！PE仍未覆盖到？那就只能用以下第1项：DOS了。此DOS不支持，你那还是可用的IBM PC兼容计算机否？！
+1、DOS
+2、Native Windows 2003 03PE
+3、Windows 2003 PE
+4、Windows 8.0 RTM 32位简体中文专业版PE
+5、Windows 8.1 With Updat3 64位简体中文企业版 RamOS（多能版）
+6、Windows 10 创意者更新版（1703）64位简体中文专业版 PE（网络版）
+【注：以下关于PE体积或外置程序的定量指标，会随着版本变化而有出入，仅供参考】
+第1项 含一些DOS IMG 镜像，源自无忧论坛，历经本人多次YY。总体积不到12MB。
+第2项与第3项，最初版本源自无忧论坛，历经本人无数次YY。仅含基本功能Windows 2003 PE，核心大约33MB，Native Windows 2003 03PE 在只有96MB物理内存64MB+32MB）的计算机上不需设置页面文件即可顺利完成DISKGENUS或傲梅分区助手的最基本功能（可完成格式分区等、但不能完成无损调整分区大小等高级功能），常规03PE在只有128MB物理内存时能启动到桌面，拥有256MB物理内存时可无需设置页面文件顺利脱盘挂载及运行全体外置。
+第4项：基于二O一二年十月二十六日发布的Windows 8 专业版自制而成，核心大约120MB，是带DISM，MSI、Bitlocker、常用VC运行库、网络支持的PE。支持IA32 UEFI及BIOS，内存在1GB以上的机器即可启动，也支持4GB以上内存。
+第5项：基于二O一四年十二月十六日发布的Windows 8.1 X64 With Updat 3 企业版自制而成，核心大约700MB。是带DISM，MSI、Bitlocker、MS拼音输入法，MS触屏键盘，常用VC运行库、打印、网络、声卡、显卡支持，提供各种格式高清音视频播放能力（已外置安装K-lite Mega codec）的U盘操作系统，支持AMD64 UEFI及BIOS，支持海量内存。自20170521版起，至少需要4GB内存方能启动，支持外置拓展Amd、Intel、Nvidia显卡驱动及HD Audio音频驱动。
+第6项：基于二O一七年三月发布的Windows 10 创意者更新专业版自制而成，核心大约200MB。是带DISM，MSI、Bitlocker、MS触屏键盘，常用VC运行库的维护用的PE，启动速度大大高于5，支持AMD64 UEFI及BIOS，内存在3GB以上的机器即可启动。&lt;/p&gt;
+&lt;h3 id=&#34;标准版介绍&#34;&gt;标准版介绍
+&lt;/h3&gt;&lt;p&gt;在增强版的USBOS的基础上简化而来：
+1、去X86 Win 8PE 网络组件。
+2、去X64 Win 8.1 多能版RAMOS。
+3、去MS Office 2007，Acronis True Image、Disk Director等软件（精简列表不一一罗列）。
+4、无论采用附带的安装程序、或量产、B+、U+、UDM等程序部署本产品到U盘、移动硬盘、存储卡等可移动设备，还是刻录为光盘，本标准版各PE均不保留可拔盘模式。也就是说当PE从可移动设备启动运行时，不允许从计算机移除存放PE外置程序的那个设备。
+5 用附带的安装程序安装此产品到本地硬盘使用时：
+(a) X86 Win 8 PE及X64 Win 10采用可脱盘模式运行（即在NT6类PE下不影响直接对本地硬盘重分区、格式化操作）；
+(b) Win 2003 PE由于采用了带盘运行方式，可能不能直接对外置程序的所在的那个本地硬盘进行重分区、格式化等操作。&lt;/p&gt;
+&lt;h3 id=&#34;usbos-v3特色&#34;&gt;USBOS V3特色
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;、 免进PE直接安装ISO格式的原版Win（2000、XP、2003、Vista、2008、7、2008R2、2012、8、8.1、2012R2、10、2016）；&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/snj2uHNLk5qZoAX.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/bCoPsp6MOx4zYhk.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;B&lt;/strong&gt;、 BIOS UEFI双持；
+&lt;strong&gt;C&lt;/strong&gt;、 64位UEFI与32位UEFI双持。
+很多人认为64位PE能运行32位应用程序，所以32位NT6类PE无需集成，弄进来也是徒占空间。丢出此观点的人，肯定是从未听说过32位Intel atom CPU，这类CPU是intel企图与众ARM CPU在平板领域拼杀的武器，被广泛（几乎是专门）用于X86 Win 8.0/8.1平板机，使用了此CPU的平板机通常不支持BIOS启动、必须以IA32 EFI启动。目前，支持IA32 EFI的，有且仅有X86 Win 8/8.1/10及其PE或RAMOS。
+此外在USBOS里的32位Win 8 PE，相对X64 Win 10来说，虽然存在某些驱动缺失（例如apple SSD等、这是厂商未推出32位Win驱动）的劣势、但是其启动速度快，并且它的兼容性比Win 2003 PE要好，所以可以作为BIOS启动维护计算机主流PE用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;D&lt;/strong&gt;、 比较完整的VC、VB运行库支持；
+&lt;strong&gt;E&lt;/strong&gt;、 非常简单方便DIY：无需对内核修改，就能扩充驱动程序与应用程序；
+&lt;strong&gt;F&lt;/strong&gt;、 NT6类PE均支持Bitlocker、触摸屏；
+&lt;strong&gt;G&lt;/strong&gt;、 极完整的磁盘控制器（SRS）支撑、包括三星、Intel的Nvme驱动、Apple SSD &amp;amp; HFS驱动等等。
+&lt;strong&gt;H&lt;/strong&gt;、原则上建议使用WinntSetup来安装原版各Windows，可不区分PE版本，不区分Windows版本无差别对待。
+鉴于某些人喜欢用Win的SETUP.EXE来安装，USBOS 3.0各PE下对原版WIN使用SETUP.EXE支持情况如下表：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/wDU6PHZ12uqdYav.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt;、USBOS V3.0 启动速度不会是No.1，但可以肯定的是：
+a、同体积的的同类产品，USBOS是其中功能最强的：
+①、硬件支持广泛：从最低64MB的老掉牙机型到第八代酷睿或AMD Zen架构主板主机、SurfaceBook、苹果 MAC、主流民用、工业服务器RAID、三星980/981 Pro 、Intel(R) SSD Pro 7600p/760p/E 6100p Series Nvme固态硬盘等新潮机型、新型硬件都予以支持。
+②、文件关联好，进入PE后，你会发现文件关联杠杠的、各式鼠标右键操作异常方便实用。
+③、即便本身已提供非常新颖、丰富、实用的外置程序了，还是提供非常丰富的DIY接口，这些接口涉及PE外观、驱动、应用程序各个方面。&lt;/p&gt;
+&lt;p&gt;b、而同功能的U启动产品，USBOS却是其中体积最小的：
+①、各PE尽最大可能共享外置程序。
+②、不对PE核心文件做野蛮精简，保持相对姣好的兼容性才是最重要的。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h4 id=&#34;增强版&#34;&gt;增强版
+&lt;/h4&gt;&lt;p&gt;【2024-8-25】
+A、驱动程序：
+64位10PE：
+Broadcom MEGASAS35 7.730.02.00、ItSas35 2.61.69.00、MPI3DRV 8.09.06.00；
+Microsemi Adaptec Smart x200 v1010.108.0.1015；
+RealTek PCIE网卡10.072.0522.2024、USB网卡10.61.20.0327、无线网卡6101.19.117.0；
+Intel Serial IO 30.100.2351.81、RST-VMD 20.1.0.1015.1 WHQL。&lt;/p&gt;
+&lt;h4 id=&#34;标准版&#34;&gt;标准版
+&lt;/h4&gt;&lt;p&gt;【2024-8-25】
+A、驱动程序：
+64位10PE：
+Broadcom MEGASAS35 7.730.02.00、ItSas35 2.61.69.00、MPI3DRV 8.09.06.00；
+Microchip smartpqi_x200_v1010.108.0.1015；
+Intel Serial IO 30.100.2351.81、RST-VMD 20.1.0.1015.1 WHQL。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2fa75eefb264&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2fa75eefb264&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>不忘初心 Windows10 LTSC2021 (19044.4780) x64 纯净 精简 可更新 (2024.08.16) 适合3-10代CPU</title>
         <link>https://kooshare.github.io/post/buwangchuxinltsc4780jingjiankegengxin/</link>
         <pubDate>Mon, 26 Aug 2024 00:55:33 +0800</pubDate>

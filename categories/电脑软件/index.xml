@@ -7,13 +7,557 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 09:00:09 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>USBOSV3.0</title>
-        <link>https://kooshare.github.io/post/usbosv3.0/</link>
-        <pubDate>Thu, 29 Aug 2024 09:00:09 +0800</pubDate>
+        <lastBuildDate>Thu, 29 Aug 2024 10:02:12 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Catsxp</title>
+        <link>https://kooshare.github.io/post/catsxp/</link>
+        <pubDate>Thu, 29 Aug 2024 10:02:12 +0800</pubDate>
         
-        <guid>https://kooshare.github.io/post/usbosv3.0/</guid>
+        <guid>https://kooshare.github.io/post/catsxp/</guid>
         <description></description>
+        </item>
+        <item>
+        <title>免费群组BitTorrent客户端 Tixati v3.29 中文版</title>
+        <link>https://kooshare.github.io/post/tixati/</link>
+        <pubDate>Thu, 29 Aug 2024 10:00:22 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/tixati/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;文件共享已成为互联网用户之间交换数据的常见方式之一。BitTorrent 协议，以其高效的分布式文件共享机制，成为全球数百万用户的选择。在这其中，Tixati 中文版作为一款卓越的 BitTorrent 客户端，凭借其出色的性能和用户友好的界面脱颖而出。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/RGzelSwkjFmIiNp.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/9535-1.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;界面友好&lt;/strong&gt;：Tixati 的用户界面设计简洁直观，即使对于BitTorrent新手也非常容易上手。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;透明度高&lt;/strong&gt;：用户可以清晰地看到 P2P 节点信息，包括下载进度、上传比例等，这对于监控下载活动至关重要。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;性能出色&lt;/strong&gt;：软件具备强大的带宽图表和节流能力，确保网络资源的合理分配。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;功能全面&lt;/strong&gt;：除了基本的下载功能外，Tixati 还支持选择性下载、优先级排序、DHT、PEX、Magnet URI 等功能。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;安全性&lt;/strong&gt;：MSE/PE 功能增强了软件的安全防护，保障用户的隐私和数据安全。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;完全免费&lt;/strong&gt;：Tixati 是一款完全免费的软件，无内置广告或付费墙。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;Tixati Portable 3.29
+Aug 23, 2024
+There have been many fixes and improvements:
+several new options in Settings &amp;gt; User Interface &amp;gt; Behavior &amp;gt; Scrolling Options
+optional scrollbar end buttons
+option for scrollbar trough-click to either page up/down or direct jump to position
+several preset scrollbar configurations available at bottom of Scrolling Options window
+added several new customizable colors for greater control over scrollbar appearance
+file layout validator now tolerates v1+2 hybrid torrents with multiple trailing unaligned zero-length files
+added workaround to deal with other client’s broken v1+2 hybrid torrents that use wrong v1 last-piece hash
+file name sanitizer now allows most file/folder names that begin with reserved characters
+RSS filter improved to better handle file names that separate words with periods instead of spaces
+added ctrl-ins / shift-ins as alias for ctrl-c / ctrl-v in all views
+re-wrote initial window placement, centering, and persistence routines for Windows builds
+in Windows builds, eliminated hover-detection SetCapture/ReleaseCapture calls
+minor compatibility workaround for Windows builds to work better with mouse gesture apps
+fixed rare crash in Linux build notebook/paned/frame controls during window close
+tray menu Show/Hide commands now work correctly on all secondary floating windows and views
+fixed window raise/activation order problems after tray double-click on Windows builds
+fixed problems with some secondary windows staying hidden after app password unlock
+chat window now scrolls to bottom after activity notification is clicked
+fixed problems with Linux tray balloon click notifications being passed to other app instances
+Browse button in private message window now works correctly
+Contact button in forum message window and browse window now makes contact temporary when unchecked
+added double-click debounce algorithm to all tree/list views to prevent unintentional duplicate actions
+rewrote background line-wrap updater for multiline rich text controls, fixed scroll jumping problems
+added Show/Hide options to popup menu that appears when right-clicking main window top buttons
+fixed backward direction when using ctrl-up/down to move selected items in Trackers tab
+fixed bytes complete / remaining inaccuracies in Peer properties window for torrents with padding files
+fixed problems with channels not DHT searching when Settings &amp;gt; Transfers &amp;gt; Peers &amp;gt; Protocols has v1 disabled
+fixed Linux build problems with trackpad high-precision scrolling in Wayland&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/1e1a7f677d34&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/1e1a7f677d34&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Abelssoft SSD Fresh(固态硬盘优化) 2024 v13.03 中文版</title>
+        <link>https://kooshare.github.io/post/abelssoft/</link>
+        <pubDate>Thu, 29 Aug 2024 09:58:46 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/abelssoft/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;Abelssoft SSD Fresh Plus最新版是一款专业强大的固态硬盘优化工具。Abelssoft SSD Fresh Plus官方版能够减少每个存储单位的访问次数，帮助用户延长固态硬盘的使用寿命。Abelssoft SSD Fresh Plus软件支持碎片整理、系统恢复、启动文件碎片整理等功能，用户可以轻松地对固态硬盘进行日常维护和清理。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/cIl3FmZJWaeXVRN.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;延长SSD驱动器的使用寿命&lt;/p&gt;
+&lt;p&gt;Abelssoft SSD Fresh Plus 2021官方支持查看驱动器信息&lt;/p&gt;
+&lt;p&gt;获取有关驱动器和制造商的信息。SSD Fresh显示适用于计算机中安装的硬盘驱动器的常规信息。例如，您可以查看存储容量和已占用的空间。&lt;/p&gt;
+&lt;p&gt;查看SMART数据&lt;/p&gt;
+&lt;p&gt;现代硬盘使用一种用于自我监视的系统，称为SMART(自我监视，分析和报告技术)系统。它会分析磁盘并在可能导致数据丢失之前指示缺陷。SSD Fresh会读取此信息并将其显示在窗口中。&lt;/p&gt;
+&lt;p&gt;禁用Windows碎片整理&lt;/p&gt;
+&lt;p&gt;由于SSD对所有存储单元的访问时间相同，因此无需统一存储它们。除此之外，碎片整理过程还会产生写入命中，从而缩短SSD的寿命。因此，强烈建议停用碎片整理过程。&lt;/p&gt;
+&lt;p&gt;禁用时间戳&lt;/p&gt;
+&lt;p&gt;Windows会存储每个文件访问的访问时间。这会产生不必要的写入命中，从而缩短SSD的寿命。强烈建议禁用此功能。&lt;/p&gt;
+&lt;p&gt;预取功能预取功能支持将常用应用程序预加载到RAM中。由于从SSD可以快速访问，因此此功能无用，可以禁用。&lt;/p&gt;
+&lt;p&gt;禁用启动文件的碎片整理&lt;/p&gt;
+&lt;p&gt;由于将文件存储在SSD中的方式，对启动文件进行碎片整理没有任何意义，应将其禁用，因为这会缩短SSD的寿命。&lt;/p&gt;
+&lt;p&gt;禁用Windows事件日志记录&lt;/p&gt;
+&lt;p&gt;Windows永久记录系统配置更改以及各种服务和程序的崩溃和其他事件。这会创建不必要的写访问，并缩短SSD的寿命。&lt;/p&gt;
+&lt;p&gt;存储短名称&lt;/p&gt;
+&lt;p&gt;为了与旧的16位DOS应用程序兼容，Windows会为文件夹和文件创建短名称，这会导致对SSD的其他写访问。当前的应用程序不需要这些名称，因此可以禁用它们。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;by 大眼仔&lt;/p&gt;
+&lt;p&gt;中文补丁&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/39256b1235d7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/39256b1235d7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MusicPlayer2 (开源本地播放器) v2.77.1</title>
+        <link>https://kooshare.github.io/post/musicplayer2/</link>
+        <pubDate>Thu, 29 Aug 2024 09:56:54 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/musicplayer2/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;MusicPlayer2是一款集音乐播放、歌词显示、格式转换等众多功能于一身的音频播放软件。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能。播放内核为BASS音频库(V2.4)。播放器支持几乎所有常见的音频格式。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/MSWKhXEdLRb8qo9.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/p9AMeuv3yFjY2GR.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;歌词显示&lt;/li&gt;
+&lt;li&gt;迷你模式&lt;/li&gt;
+&lt;li&gt;歌词卡拉OK样式显示&lt;/li&gt;
+&lt;li&gt;任务栏搜索框显示歌词&lt;/li&gt;
+&lt;li&gt;桌面歌词显示&lt;/li&gt;
+&lt;li&gt;歌词在线下载&lt;/li&gt;
+&lt;li&gt;歌词编辑&lt;/li&gt;
+&lt;li&gt;歌曲标签识别和编辑&lt;/li&gt;
+&lt;li&gt;频谱分析&lt;/li&gt;
+&lt;li&gt;专辑封面&lt;/li&gt;
+&lt;li&gt;自动匹配下载歌词和专辑封面&lt;/li&gt;
+&lt;li&gt;音效设置（均衡器和混响）&lt;/li&gt;
+&lt;li&gt;任务栏缩略图按钮&lt;/li&gt;
+&lt;li&gt;主题颜色&lt;/li&gt;
+&lt;li&gt;支持cue分轨&lt;/li&gt;
+&lt;li&gt;背景高斯模糊&lt;/li&gt;
+&lt;li&gt;格式转换&lt;/li&gt;
+&lt;li&gt;媒体库功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;2771&#34;&gt;2.77.1
+&lt;/h3&gt;&lt;p&gt;此次更新修正了2.77版本的若干问题，没有增加新的功能。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修正在右键菜单中“添加到播放列表”子菜单有时会异常禁用的问题。&lt;/li&gt;
+&lt;li&gt;修正点击“AB重复”按钮时的测试文本没有删除的问题。&lt;/li&gt;
+&lt;li&gt;修正“AB重复”按钮鼠标提示不正确的问题。&lt;/li&gt;
+&lt;li&gt;修正100%缩放比例下对话框中的控件在垂直方向太挤的问题。&lt;/li&gt;
+&lt;li&gt;修正从全屏模式进入迷你模式时歌词文本太大并且显示不全的问题。&lt;/li&gt;
+&lt;li&gt;修正aac文件在属性对话框中无法显示内嵌专辑封面的问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8980dc98ca4b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8980dc98ca4b&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>010 Editor v15.0 简体中文汉化破解绿色版</title>
+        <link>https://kooshare.github.io/post/editorv150/</link>
+        <pubDate>Thu, 29 Aug 2024 09:54:28 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/editorv150/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;010 Editor，功能强大的专业文本编辑器和十六进制编辑器，可以编辑任何文本文件，包括 Unicode 文件、批处理文件、C/C++、XML 等编程语言，而在编辑二进制文件中，010Editor有很大的优势。二进制文件是一种计算机可读，但人很难读懂的文件（二进制文件如在文本编辑器中打开将显示为乱码）。十六进制编辑器是一种程序，它允许您查看和编辑二进制文件的单个字节，以及包括 010 Editor 的高级十六进制编辑器还允许您编辑硬盘驱动器、软盘驱动器、内存密钥、闪存驱动器、CD-ROM、系统进程等中的字节等。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/iwNfPMtFIOqcDCv.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;* 查看并编辑在你硬盘驱动器上(文件大小无限制)的任何二进制文件和文本文件，包括 Unicode 文件、C/C++、XML、PHP，等。
+* 独特的二进制模板技术允许你了解任何二进制文件格式。
+* 查找并修复硬盘驱动器、软驱、内存密钥、闪存驱动器、CD-ROM、进程等的问题。
+* 用强大的工具包括查找、替换、在多文件中查找、在多文件中替换、二进制比较、校验和/散列算法、直方图等，来分析和编辑文本和二进制数据。
+* 强大的脚本引擎允许多任务的自动化（语言非常类似于 C）。
+* 轻松下载并安装其他使用 010 Editor 储存库共享的二进制模板和脚本。
+* 以不同的格式导入和导出二进制数据。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;发行说明sweetscape.com/010editor/release_notes.html
+更新记录sweetscape.com/010editor/latest_version.html&lt;/p&gt;
+&lt;p&gt;2022年10月 13.0.1 更新概述：
+- 修正了使用自定义检查器时，有时撤消不会正确更新文件修改状态。
+- 修正了查找栏中的选项按钮现在使用 Alt+N 作为快捷方式 (Alt+P 现在用于项目菜单)。
+- 修正了如果在 &amp;ldquo;工具&amp;gt;选项&amp;gt;打开文件&amp;rdquo; 下设置了某些选卡位置时，工作区可能会以错误的顺序加载文件选卡。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;汉化作者：王苏；汉化说明：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;对主程序和其他几个程序进行了最大程度的汉化。有几处汉化后会影响到程序功能，所以保留了原英文。&lt;/li&gt;
+&lt;li&gt;对上个版中的汉化错误，以及英文原版个别处不能调用帮助文件的错误进行了修订。&lt;/li&gt;
+&lt;li&gt;对帮助文件的更新部分，全部进行了补译和截图。&lt;/li&gt;
+&lt;li&gt;对 Qt 帮助文件查看器进行了全面汉化。&lt;/li&gt;
+&lt;li&gt;对软件的“教程”全部进行了汉化。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;- 这是解包的免安装，不便携，解压即可使用；&lt;/p&gt;
+&lt;p&gt;- 破解免激活，无需注册信息，禁止更新检查；&lt;/p&gt;
+&lt;p&gt;- 提供批处理「关联文件类型和添删右键菜单」&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/bd13388b85ad&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/bd13388b85ad&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>开源录像工具 Simple Screen Recorder v1.3.1 中文免费版</title>
+        <link>https://kooshare.github.io/post/simplescreenrecorder/</link>
+        <pubDate>Thu, 29 Aug 2024 09:50:58 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/simplescreenrecorder/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;无论你是想保存你最喜欢的电影中的一个场景，录制一个迷人的视频游戏的游戏过程，还是为你的家人和朋友拍摄一个软件教程，都有很多程序可供选择。然而，对于那些认为 OBS 的复杂界面和 Bandicam 的价格标签令人生畏的人来说，Simple Screen Recorder 的简约布局和对多个输出文件的支持可能是快速捕捉视频和音频的最佳选择。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/LGcxSAK8vqdm5UT.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;极简的界面
+在布局方面，该应用程序拥有一个直接显示所有可用功能的窗口，让用户不必在多个子菜单中挖掘选项。对于那些喜欢制作教程的人来说，该程序允许同时录制系统声音和麦克风音频，使其成为配音的完美选择。&lt;/p&gt;
+&lt;p&gt;使用笔记本电脑设置的用户在录制视频游戏演练时可能希望使用外部麦克风，以获得更高的音频质量。因此，该应用程序包括一个选择正确输入设备的下拉列表，从而消除了通过 Windows 声音菜单设置默认录音设备的需要。&lt;/p&gt;
+&lt;p&gt;由于其便携性，该程序可以让用户立即开始录音，而不需要事先使用安装向导。然而，使该软件特别有趣的是它捕捉你的桌面的方式。&lt;/p&gt;
+&lt;p&gt;在编辑过程中很有用
+录音存储在应用程序主目录下的一个专用文件夹中，分为三个独立的文件：一个是用于配音的麦克风输入，一个是用于可能的游戏画面的系统声音录音，以及桌面本身的视频捕获。&lt;/p&gt;
+&lt;p&gt;这种分离对于那些想在他们选择的编辑套件中拥有三个不同的时间线的人来说是很有用的，使他们在调整每个声音输入的音量分层在视频记录方面有较大的自由度。此外，所有这些独立的文件都可以在应用程序本身中合并成 MKV 视频格式，供那些想避免使用单独的编辑程序的人使用。&lt;/p&gt;
+&lt;p&gt;在改进方面，该应用程序可以使用多显示器支持，以适应面向生产力的更复杂设置。此外，为了实现更高的自定义程度，也欢迎选择录音的保存目录的选项。&lt;/p&gt;
+&lt;p&gt;轻量级视频和音频记录器
+Windows 用户如果想要替代 OBS 的复杂性、Bandicam 的价格标签和 Xbox 游戏栏的资源消耗型录音功能，可以选择尝试 Simple Screen Recorder，这是一个轻量级的工具，它将视频、麦克风和系统音频输入分开，以便于编辑过程。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;131&#34;&gt;1.3.1
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Monitor selector combobox it&amp;rsquo;s keep disable if the capture all monitors it&amp;rsquo;s checked.&lt;/li&gt;
+&lt;li&gt;The audio synchronization was improved. Roughly 😀&lt;/li&gt;
+&lt;li&gt;ffmpeg and ReaLTaiizor were updated to the last version.&lt;/li&gt;
+&lt;li&gt;Minor changes in the ffmpeg argument were made.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/765bcf2b53d4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/765bcf2b53d4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>网页浏览器、极客浏览器 Vivaldi Browser v6.8.3381.57</title>
+        <link>https://kooshare.github.io/post/vivaldibrowser57/</link>
+        <pubDate>Thu, 29 Aug 2024 09:48:00 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/vivaldibrowser57/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;极客浏览器&lt;/strong&gt;，即 &lt;strong&gt;Vivaldi&lt;/strong&gt; 是一款由美国维瓦尔第软件科技公司采用谷歌 &lt;strong&gt;Chromium Blink&lt;/strong&gt; 开发者极速内核引擎精心设计与开发制作的已内置诸多原 &lt;strong&gt;Opera&lt;/strong&gt; 用户专属功能的网页浏览器，以为我们的朋友而打造为诉求，旨在为原先欧朋的忠实爱用者。集谷歌之心与欧朋之情于一体的完美交融，持续致力于简约且高效率的用户交互体验。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vivaldi&lt;/strong&gt; 延续了原欧朋时代网友热衷与便捷的实用功能，例如：高度可自定义界面、主题、笔记、标签管理、快捷命令、键盘操作、书签管理、鼠标手势等等。当然只有用户想不到的，没有它极客无法实现的，极客浏览器非凡网页冲浪体验践行者。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/9C4BltvgFp1UDuf.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;快速拨号 – 内置在每一个新标签中，让你得以快速访问你最爱的网站；&lt;/li&gt;
+&lt;li&gt;快速拨号文件夹 – 用文件夹来整理快速拨号以方便使用；&lt;/li&gt;
+&lt;li&gt;快捷命令 – 使用简单的文本命令掌控 Vivaldi 的一切；&lt;/li&gt;
+&lt;li&gt;快进 – 顺序跳转到一系列页面中的下一页，完美契合搜索页面；&lt;/li&gt;
+&lt;li&gt;快退 – 快速回到当前域名下你访问的第一个网页；&lt;/li&gt;
+&lt;li&gt;笔记 – 在浏览时记下笔记并将链接到特定网站；&lt;/li&gt;
+&lt;li&gt;Web 面板 – 你可以在网页面板里访问任何网页，适用于并行浏览或访问社交网站；&lt;/li&gt;
+&lt;li&gt;面板 – 快速访问书签、下载和笔记；&lt;/li&gt;
+&lt;li&gt;搜索框 – 使用多个预置的搜索引擎，或添加自定义搜索引擎；&lt;/li&gt;
+&lt;li&gt;自定义搜索引擎 – 你几乎可以将任何一种搜索框添加到 Vivaldi 中；&lt;/li&gt;
+&lt;li&gt;会话 – 保存打开的一组标签，并随时可以再次访问；&lt;/li&gt;
+&lt;li&gt;标签组 – 将一个标签拖动到另一个标签上即可保存为一个标签组；&lt;/li&gt;
+&lt;li&gt;可视化标签 – 扩宽标签栏以显示可视化预览；&lt;/li&gt;
+&lt;li&gt;垃圾箱 – 恢复已关闭的标签和弹出窗口；&lt;/li&gt;
+&lt;li&gt;标签循环 – 在已打开的标签之间迅速跳转；&lt;/li&gt;
+&lt;li&gt;标签组平铺 – 以并列或网格形式查看标签组中的标签；&lt;/li&gt;
+&lt;li&gt;书签栏 – 一个用来简化书签访问和管理的工具栏；&lt;/li&gt;
+&lt;li&gt;昵称 – 为书签添加昵称，以便从地址栏快速访问；&lt;/li&gt;
+&lt;li&gt;鼠标手势 – 通过鼠标滑行执行浏览器的每个关键操作；&lt;/li&gt;
+&lt;li&gt;键盘快捷键 – 使用键盘组合键来快速执行对应功能；&lt;/li&gt;
+&lt;li&gt;快速拨号背景 – 定制快速拨号的背景图；&lt;/li&gt;
+&lt;li&gt;网页缩放 – 放大或缩小网页内容；&lt;/li&gt;
+&lt;li&gt;用户界面缩放 – 调整 Vivaldi 用户界面元素的大小；&lt;/li&gt;
+&lt;li&gt;一键变色 – 一键改变 Vivaldi 的界面；&lt;/li&gt;
+&lt;li&gt;自适应界面配色 – Vivaldi 的界面会根据当前浏览的网页变换颜色；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;• [New][Themes] Theme sharing (VB-38363)
+• [New][Translate][Panel] Provide a new way to translate selections and arbitrary text (VB-80593)
+• [New][Address bar][Download] Offer additional way of showing downloads (VB-80226)
+• [New][Page Actions][Chain Commands][Keyboard][Gestures] Handle page actions as commands (VB-82950)
+• [New][Chain Commands] Add parameter to search with selection command: to specify search engine (VB-81860)
+• [New][Linux]Provide rpm packages for ARM and ARM64 (VB-84132)
+• [Address bar] Checking a URL with a search engine goes to URL instead of searching (VB-84115)
+• [Address bar] URL in address field not updated after opening a site from Bookmarks menu (VB-83568)
+• [Address bar] URLs with encoded characters are not properly encoded when copying the URL (VB-77574)
+• [Blocker][Keyboard] Tracker blocking badge is not keyboard accessible (VB-65331)
+• [Bookmarks] Duplicate text overlaid on javascript and mailto URLs (VB-81608)
+• [Capture] Button not translated (VB-84477)
+• [Capture] Dragging isn’t possible after screenshot (VB-84242)
+• [Capture] Missing UI for screenshot of area (VB-83510)
+• [Chromium] Upgraded to 96.0.4664.51
+• [Download] Doesn’t finish although it reach 100% (VB-83809)
+• [Download] Data blob download fails (VB-84157)
+• [Gestures][Keyboard] Translate Page Not Available as a Command (VB-82214)
+• [Gestures][Settings] Animation not displaying (VB-82288)
+• [Linux][Media] Update proprietary codecs to 98.0.4710.4—104707
+• [Locale] Swedish system long date format incorrect (VB-73701)
+• [Menus] Improve capability to recover from broken syntax in menu files (VB-84124)
+• [Menus][PWA][Speed Dials] Useless “Create shortcut…” context menu item (VB-83236)
+• [Panels] Can’t open “windows with N tabs” in window panel (VB-83590)
+• [Panels][Download] Missing information if disk is full (VB-77323)
+• [Panels][Download] Order of entries in download panel change on click after download finished (VB-69518)
+• [Panels][Tabs] Sort tabs by domain has stopped working (VB-84492)
+• [Performance] Enable backward/forward cache by default (VB-83644)
+• [Performance][Address bar] Improve performance by doing less re-rendering (VB-83559)
+• [Performance][Tabs] Fewer avoidable re-renders while dragging tabs (VB-83498)
+• [Periodic reload][Tabs] Only affects last selected tab in a group of tabs (VB-84439)
+• [Privacy] Add .gitignore file to profile folder; A warning should display if the profile might be in a Git repository (VB-84485)
+• [Quick Commands] Should take history state into account with autocomplete (VB-83489)
+• [Quick Commands] Tune history search (VB-82876)
+• [Reader Mode] Failing in some cases when it should not (VB-83689)
+• [Speed Dial] Cannot rename bookmark by clicking on the title; cut/copy/paste in the title field doesn’t work (VB-81991)
+• [Speed Dial] Opening a page from a folder, then going back does not return you to the folder (VB-84101)
+• [Speed Dial][Search] Ask users to consider using Startpage instead of Google (VB-73553)
+• [Sync] Can’t use $ in password (VB-83806)
+• [Tabs] Dragging should update less when animations are off (VB-83757)
+• [Tabs] Dragging tab selects another tab (VB-83758)
+• [Tabs] When tab bar is hidden, a new tab from a stack opens outside the stack (VB-79128)
+• [Tabs][Keyboard] F6 focus selection disappears on tab stacks (VB-83959)
+• [Tabs][Performance] Poor performance with many tabs (VB-84121)
+• [Translate] Better error handling to improve automatic detection (VB-84434)
+• [Translate] Error in console when loading XML file (VB-83681)
+• [Translate] Selection button and popup might end up below the page (VB-83429)
+• [Windows][Media] Sound occasionally fails: fixes some of these instances (VB-82763)&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/805da6605caa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/805da6605caa&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>局域网共享文本文件工具 简传 v1.3.0 官方版</title>
+        <link>https://kooshare.github.io/post/jianchuan/</link>
+        <pubDate>Thu, 29 Aug 2024 09:45:28 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/jianchuan/</guid>
+        <description>&lt;p&gt;一款不需要在接收端安装就可在局域网环境内共享文本及文件的小软件，仅需一台主机电脑启动，需要获取共享的电脑或手机无需安装只需使用浏览器访问即可，欢迎体验
+支持windows、linux、mac，支持国产操作系统多平台&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/8TW4shGfN5vDAYu.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/9704-1.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;无需公网，仅需一端安装即可使用&lt;/li&gt;
+&lt;li&gt;浏览器访问，使用更便捷&lt;/li&gt;
+&lt;li&gt;支持一键复制共享地址、支持手机二维码扫描、支持拖拽文件上传、支持图片预览&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;1302024-08-18&#34;&gt;1.3.0（2024-08-18）
+&lt;/h3&gt;&lt;p&gt;1、增加暗黑模式可手动切换功能，打开时默认跟随系统
+2、增加赞助鸣谢名单&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/02eff757bd85&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/02eff757bd85&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LibreWolf浏览器 v129.0.2-1</title>
+        <link>https://kooshare.github.io/post/librewolf/</link>
+        <pubDate>Thu, 29 Aug 2024 09:42:12 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/librewolf/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;LibreWolf 是 Firefox 的一个独立分支，其主要目标是隐私、安全和用户自由。&lt;/p&gt;
+&lt;p&gt;它旨在增强对跟踪和指纹识别技术的保护，同时还包括一些安全改进。这是通过面向隐私和安全的设置和补丁来实现的。LibreWolf 还旨在消除所有遥测、数据收集和烦恼，以及禁用 DRM 等反自由功能。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/mfXCMFYlxSdzpws.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://store-images.s-microsoft.com/image/apps.9517.14390997908833564.5d3b63fe-0161-49a3-9310-00ac06602fcd.1cc49153-6dc4-4bf0-9f99-ecb4baa43191&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;无遥测 - 没有实验、广告软件、烦恼或不必要的干扰。&lt;/p&gt;
+&lt;p&gt;隐私搜索 - 注重隐私的搜索提供商：DuckDuckGo、Searx、Qwant 等。&lt;/p&gt;
+&lt;p&gt;包含内容拦截器 - 为方便起见，已包含 uBlock Origin。&lt;/p&gt;
+&lt;p&gt;增强的隐私 - 经过强化，可在不牺牲可用性的情况下最大限度地提高隐私性。&lt;/p&gt;
+&lt;p&gt;快速更新 - LibreWolf 始终基于最新的 Firefox 稳定源代码构建，以获得最新的安全性和功能以及稳定性。&lt;/p&gt;
+&lt;p&gt;开源 - 每个人都可以参与 LibreWolf 的开发。加入我们的 GitLab、Matrix 和 Gitter。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ad286cef3ecf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ad286cef3ecf&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>IT天空驱动工具 万能驱动 v8.1（24v4)</title>
+        <link>https://kooshare.github.io/post/wannengqudong24v4/</link>
+        <pubDate>Thu, 29 Aug 2024 09:21:59 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/wannengqudong24v4/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;概述：万能驱动（简称EasyDrv）是IT天空出品的一款智能识别电脑硬件并自动安装驱动的工具。它拥有简约友好的用户界面，使用起来十分方便。追求“万能”是一种态度，表达我们想要将产品做的尽善尽美的理念，也希望大家能和我们共同努力而使之不断完善，让大家切身感受到它在驱动安装方面的“无所不能”。&lt;/p&gt;
+&lt;p&gt;定位：驱动覆盖面广，智能精确识别硬件设备，是普通电脑用户离线安装电脑硬件驱动的好帮手，是装机人员、系统工程师、系统维护人员部署系统的最佳搭档。驱动一键到位，便捷装机首选。&lt;/p&gt;
+&lt;p&gt;硬件支持：搭载了IT天空开发团队精心整理制作的驱动包。这是到目前为止，我们针对当前主流硬件设备收集和整理得最为全面的驱动集合，支持市面上绝大多数主流硬件，兼容以往多数旧硬件。驱动包经过合理的整合与压缩工作，以尽可能小的体积支持尽可能多的硬件设备。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/8K7BrypokeAPw5X.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;d5d41a13e312a24bf5e07b747764ff3d.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;**驱动更新：**Windows 10/11 x64
+1、【显卡】更新 AMD Radeon R2/R3/R4/R6/R5/R7/R9/RX系列显卡驱动v24.5.1版
+2、【显卡】更新 Intel KBL/CFL/ICL/CML/GLK/JSL核显驱动v31.0.101.2128版
+3、【显卡】更新 Intel TGL/RKL/RPL/ADL/Arc系列显卡驱动v31.0.101.5534版
+4、【显卡】更新 NVIDIA GeForce600-GeForce4000系列桌面/移动显卡驱动v555.99-DCH版
+5、【声卡】更新 Intel SST智能音响技术驱动v10.29.00.10783版
+6、【网卡】更新 Intel英特尔 PRO100/1000系列网卡驱动v29.1.1版
+7、【网卡】更新 Realtek瑞昱RTL81xxx系列网卡驱动v10.071版
+8、【网卡】更新 Realtek瑞昱RTL8152 USB网卡驱动v10.61.20.0327版
+9、【无线网卡】更新 Intel Wireless 无线网卡驱动v23.60.0.10版
+10、【无线网卡】更新 Qualcomm WCN685x无线网卡驱动v1.0.0.1610版
+11、【无线网卡】更新 Qualcomm WCN7851无线网卡驱动V3.0.0.1225版
+12、【无线网卡】更新 Realtek瑞昱 8852AU USB无线网卡驱动v5001.19.113.0重制版
+13、【无线网卡】更新 Realtek瑞昱 8852CE Wireless无线网卡驱动v6001.16.156.201版
+14、【其他设备】更新 Alcor读卡器驱动v1.9.17.2325版
+15、【其他设备】更新 Intel 蓝牙芯片驱动v23.60.0.1版
+16、【其他设备】更新 O2Micro OZ777读卡器驱动v2.1.101.10700版
+17、【其他设备】更新 Qualcomm_WCN685X蓝牙芯片驱动v1.0.0.1609版
+18、【其他设备】更新 Qualcomm WCN7851蓝牙芯片驱动V3.0.0.1225版
+19、【其他设备】更新 Realtek 8851BU蓝牙芯片驱动v1.10.1061.3000版&lt;/p&gt;
+&lt;p&gt;**驱动更新：**Windows 10 x86
+1、【网卡】更新 Realtek瑞昱RTL8152 USB网卡驱动v10.61.20.0327版
+2、【网卡】更新 Realtek瑞昱RTL81xxx系列网卡驱动v10.071版
+3、【无线网卡】更新 Realtek瑞昱 8852AU USB无线网卡驱动v5001.19.113.0重制版
+4、【其他设备】更新 Realtek 8851BU蓝牙芯片驱动v1.10.1061.2000版&lt;/p&gt;
+&lt;p&gt;**程序更新：**v8.1.2408.10312 (Beta 3)
+01)【新增】/NoLog 参数，使用此参数运行则不生成日志（EDrvLog）；
+02)【更新】用户登录模块 v3，可在软件端直接完成登录、注册、找回密码、充值 VIP 等操作；
+03)【更新】软件安装包防篡改防护，自定义软件安装包被第三方篡改时将终止执行；
+04)【更新】软件证书到新版
+05)【修正】位于 64 位系统下运行 x86 主程序但又无法找到 x64 主程序时将报错并终止；
+06)【修正】软件自定义编辑器当发现软件安装包为当前用户自定义时，将自动装载；
+07)【修正】驱动包 config 文件可使用 # 或 ; 注释掉一行；
+08)【优化】UI 装载平顺性；
+09)【优化】UI 文本显示细节，并增加少量 Tip ；
+10)【其他】未列出的细节修正。&lt;/p&gt;
+&lt;h3 id=&#34;注意事项&#34;&gt;注意事项
+&lt;/h3&gt;&lt;p&gt;首先就是万能驱动7的推广，在softext文件夹下有1-3个(视版本而定)2345联盟的推广安装包，以及万能驱动主程序会修改你的主页为2345，不过这些推广在官方条件下完全可以去除。&lt;/p&gt;
+&lt;p&gt;首先说桌面条件下直接安装，softext文件夹不可以动，在下方软件推荐页面把推广软件去掉勾选即可，主页推广在右上角小三角处，一样取消勾选后，放心安装，不会有任何推广。&lt;/p&gt;
+&lt;p&gt;然后说PE条件下为目标系统注入，需要使用优启通3.3及以上的PE，此时softext文件夹内的几个安装包是可删的(但e7e文件不可删)，无论是否删除，只要是在优启通3.3及以上版本注入驱动，默认都不会安装推广软件和设置主页。&lt;/p&gt;
+&lt;p&gt;最后说封装环境，这时候需要ES4.5或者ES5版本，在部署中调用(专用接口/通用接口均可，也可以写批处理调用)这时候是不会有任何推广的(不过要考虑ES的推广主页和软件)，而且softext下的几个安装包一样可删(仍然需要保留e7e文件)。&lt;/p&gt;
+&lt;p&gt;所以，不要总说啥强制推广，流氓啦~本身是十分优秀的一款驱动软件。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e8bec986aecd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e8bec986aecd&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>IT天空封装工具 Easy Sysprep 5 Plus（Beta 11）</title>
+        <link>https://kooshare.github.io/post/easysysprep/</link>
+        <pubDate>Thu, 29 Aug 2024 09:18:31 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/easysysprep/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;概述：Easy Sysprep（简称ES）是IT天空出品的一款 Windows 操作系统封装部署辅助工具。它以微软系统准备工具 sysprep.exe 程序为核心，以微软官方文档为理论依据，结合广大系统工程师、系统维护人员、系统爱好者的实战经验，将系统封装部署的各步骤进行有机的整合。Easy Sysprep 有如其名，力求将复杂的 Windows 操作系统封装过程变得简单实用。&lt;/p&gt;
+&lt;p&gt;定位：Easy Sysprep 是装机人员、系统工程师、系统维护人员、电脑爱好者部署系统的最佳助理，与万能驱动助理结合成为整套的系统部署解决方案，将机械重复的系统安装流程化繁为简。ES很大程度上缩减了系统部署时间，加强了系统部署效率，节约了人力与时间成本。&lt;/p&gt;
+&lt;p&gt;硬件支持：IT天空经过多年在系统封装部署领域的积淀，长期广泛吸纳整合使用者意见，形成了一套独立自主的磁盘控制器驱动解决方案（详见SkyIAR），支持绝大多数主流PC的IDE、AHCI或RAID模式下的系统部署。在复杂的硬件环境中，让系统部署尽最大可能达到万能。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/4kMrCwdStcHT3Yp.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v5.6.2408.10313 (Beta 11)
+01)【新增】当系统盘被 Bitlocker 锁定时，提示问题并给出解决方案；
+02)【更新】软件证书；
+03)【修正】修正 x64 PE 下封装 x86 系统时导致系统部署不正常的 Bug；
+04)【修正】万能驱动8 搜索程序当没有搜索到可用驱动时，自动跳过；
+05)【修正】UI 细节。&lt;/p&gt;
+&lt;h3 id=&#34;提示&#34;&gt;提示
+&lt;/h3&gt;&lt;p&gt;（1）ES5第二阶段操作需要在PE下完成、
+（2）请下载后务必核实文件校验信息，如不正确，请勿使用，并请重新下载；
+（3）ES5属于系统封装部署辅助软件，必然涉及对系统敏感文件、服务等的修改，易被安全软件误报；
+（4）Windows 10 封装时建议关闭系统自带杀毒，否则可能会阻止ES5的正常进程；
+（5）强烈建议在阅读说明与教程后再行使用本软件。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9ea46d59ffa0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9ea46d59ffa0&lt;/a&gt;&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>文本转语音软件 Balabolka v2.15.0.878 官方便携版</title>

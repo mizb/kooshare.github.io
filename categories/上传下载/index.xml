@@ -7,7 +7,106 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 28 Aug 2024 22:14:04 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 10:00:22 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>免费群组BitTorrent客户端 Tixati v3.29 中文版</title>
+        <link>https://kooshare.github.io/post/tixati/</link>
+        <pubDate>Thu, 29 Aug 2024 10:00:22 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/tixati/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;文件共享已成为互联网用户之间交换数据的常见方式之一。BitTorrent 协议，以其高效的分布式文件共享机制，成为全球数百万用户的选择。在这其中，Tixati 中文版作为一款卓越的 BitTorrent 客户端，凭借其出色的性能和用户友好的界面脱颖而出。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/RGzelSwkjFmIiNp.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/9535-1.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;界面友好&lt;/strong&gt;：Tixati 的用户界面设计简洁直观，即使对于BitTorrent新手也非常容易上手。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;透明度高&lt;/strong&gt;：用户可以清晰地看到 P2P 节点信息，包括下载进度、上传比例等，这对于监控下载活动至关重要。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;性能出色&lt;/strong&gt;：软件具备强大的带宽图表和节流能力，确保网络资源的合理分配。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;功能全面&lt;/strong&gt;：除了基本的下载功能外，Tixati 还支持选择性下载、优先级排序、DHT、PEX、Magnet URI 等功能。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;安全性&lt;/strong&gt;：MSE/PE 功能增强了软件的安全防护，保障用户的隐私和数据安全。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;完全免费&lt;/strong&gt;：Tixati 是一款完全免费的软件，无内置广告或付费墙。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;Tixati Portable 3.29
+Aug 23, 2024
+There have been many fixes and improvements:
+several new options in Settings &amp;gt; User Interface &amp;gt; Behavior &amp;gt; Scrolling Options
+optional scrollbar end buttons
+option for scrollbar trough-click to either page up/down or direct jump to position
+several preset scrollbar configurations available at bottom of Scrolling Options window
+added several new customizable colors for greater control over scrollbar appearance
+file layout validator now tolerates v1+2 hybrid torrents with multiple trailing unaligned zero-length files
+added workaround to deal with other client’s broken v1+2 hybrid torrents that use wrong v1 last-piece hash
+file name sanitizer now allows most file/folder names that begin with reserved characters
+RSS filter improved to better handle file names that separate words with periods instead of spaces
+added ctrl-ins / shift-ins as alias for ctrl-c / ctrl-v in all views
+re-wrote initial window placement, centering, and persistence routines for Windows builds
+in Windows builds, eliminated hover-detection SetCapture/ReleaseCapture calls
+minor compatibility workaround for Windows builds to work better with mouse gesture apps
+fixed rare crash in Linux build notebook/paned/frame controls during window close
+tray menu Show/Hide commands now work correctly on all secondary floating windows and views
+fixed window raise/activation order problems after tray double-click on Windows builds
+fixed problems with some secondary windows staying hidden after app password unlock
+chat window now scrolls to bottom after activity notification is clicked
+fixed problems with Linux tray balloon click notifications being passed to other app instances
+Browse button in private message window now works correctly
+Contact button in forum message window and browse window now makes contact temporary when unchecked
+added double-click debounce algorithm to all tree/list views to prevent unintentional duplicate actions
+rewrote background line-wrap updater for multiline rich text controls, fixed scroll jumping problems
+added Show/Hide options to popup menu that appears when right-clicking main window top buttons
+fixed backward direction when using ctrl-up/down to move selected items in Trackers tab
+fixed bytes complete / remaining inaccuracies in Peer properties window for torrents with padding files
+fixed problems with channels not DHT searching when Settings &amp;gt; Transfers &amp;gt; Peers &amp;gt; Protocols has v1 disabled
+fixed Linux build problems with trackpad high-precision scrolling in Wayland&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/1e1a7f677d34&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/1e1a7f677d34&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>局域网共享文本文件工具 简传 v1.3.0 官方版</title>
+        <link>https://kooshare.github.io/post/jianchuan/</link>
+        <pubDate>Thu, 29 Aug 2024 09:45:28 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/jianchuan/</guid>
+        <description>&lt;p&gt;一款不需要在接收端安装就可在局域网环境内共享文本及文件的小软件，仅需一台主机电脑启动，需要获取共享的电脑或手机无需安装只需使用浏览器访问即可，欢迎体验
+支持windows、linux、mac，支持国产操作系统多平台&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/8TW4shGfN5vDAYu.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/9704-1.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;无需公网，仅需一端安装即可使用&lt;/li&gt;
+&lt;li&gt;浏览器访问，使用更便捷&lt;/li&gt;
+&lt;li&gt;支持一键复制共享地址、支持手机二维码扫描、支持拖拽文件上传、支持图片预览&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;1302024-08-18&#34;&gt;1.3.0（2024-08-18）
+&lt;/h3&gt;&lt;p&gt;1、增加暗黑模式可手动切换功能，打开时默认跟随系统
+2、增加赞助鸣谢名单&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/02eff757bd85&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/02eff757bd85&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>悟空下载 v1.1.9 超好用的磁力下载工具，免费无广告，解锁会员版</title>
         <link>https://kooshare.github.io/post/wukongxiazai119/</link>
         <pubDate>Wed, 28 Aug 2024 22:14:04 +0800</pubDate>
