@@ -7,7 +7,102 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 09:56:54 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 10:25:52 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>YesPlayMusic – 高颜值第三方网易云 v0.4.8 官方版</title>
+        <link>https://kooshare.github.io/post/yesplaymusic/</link>
+        <pubDate>Thu, 29 Aug 2024 10:25:52 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/yesplaymusic/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;YesPlayMusic是一款第三方的网易云PC播放器，颜值较高，能登录网易云的账号。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/9HcUYoyZNxBMLmQ.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;✅ 使用 Vue.js 全家桶开发
+? 网易云账号登录
+? MV 播放
+? 支持歌词显示
+?? 无任何社交功能
+?️ 海外用户可直接播放（需要登录网易云账号）
+? 支持 UnblockNeteaseMusic，自动使用 QQ/酷狗/酷我音源替换变灰歌曲链接 （网页版不支持）
+⏭️ 支持 MediaSession API，可以使用系统快捷键操作上一首下一首
+✔️ 每日自动签到（手机端和电脑端同时签到）
+? Light/Dark Mode 自动切换
+? 支持 Touch Bar
+?️ 支持 PWA，可在 Chrome/Edge 里点击地址栏右边的 ➕ 安装到电脑
+? 支持显示歌曲和专辑的 Explicit 标志&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;048-2&#34;&gt;0.4.8-2
+&lt;/h3&gt;&lt;p&gt;fix github action missing env&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/32cad1447f43&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/32cad1447f43&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>媒体播放器 The KMPlayer v2024.8.22.14</title>
+        <link>https://kooshare.github.io/post/kmplayer/</link>
+        <pubDate>Thu, 29 Aug 2024 10:24:59 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/kmplayer/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;KMPlayer 是一套将网路上所有能见得到的解码程式(codec)全部 收集于一身的影音播放软体；只要安装了它，你不用再另外安装 一大堆转码程式，就能够顺利观赏所有特殊格式的影片了。除此之外，KMPlayer 还能够播放dvd与vcd、汇入多种格式的外挂字幕 档、使用普及率最高的winamp音效外挂与支援超多种影片效果调整选项等，功能非常强大。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/maTD5kItLdbKpUe.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;KMP需要内置编解码器&lt;/strong&gt;
+*无需单独安装编解码器即可享受媒体播放。
+* KMP支持内置和第三方编解码器。
+* KMP的内置编解码器更快更可靠，因为它在内部处理。
+*当前的内置编解码器支持所有ffdshow编解码器以及ffdshow不支持的编解码器，如MPEG1,2。
+*具有音频编解码器（AC3，MPEG1,2，AAC，WMA 7,8等）。
+*通过内置语音编解码器选择Matrix / normalizer。
+*通过KMP的内置编解码器，您可以享受所有主要的媒体格式。
+* KMP还为不使用内置编解码器的用户提供第三方编解码器，也不像其他编解码器那样在计算机上安装编解码器。大多数公共编解码器包+播放器强制在您的计算机上安装编解码器，而KMP则不然。这意味着安装KMP根本不会影响您的计算机。&lt;/p&gt;
+&lt;p&gt;**更正损坏的文件
+*** AVI格式在尝试查看损坏的文件时最初存在问题。
+* KMP因此支持播放AVI文件的各种方法。首先，KMP使用’AVI Splitter’。可以通过以前版本的AVI Splitter查看轻微损坏的AVI文件。
+*如果仍然无法播放，KMP将使用’AVI Source Filter’进行播放。内置的“AVI源过滤器”通过跳过坏帧来分析AVI文件和播放。
+*如果仍然没有通过上述方法播放，它将利用RealMedia引擎播放损坏的AVI文件。&lt;/p&gt;
+&lt;p&gt;**各种文件格式支持和硬件支持
+*** KMP基于DirectShow，因此它几乎支持所有Windows Media格式。
+* KMP还通过KMP的基础技术支持Winamp，RealMedia，QuickTime，Flash（SWF）。
+*与全球所有媒体播放器相比，KMP支持大多数媒体格式。
+* KMP支持DirectShow的扩展WDM（电视/摄像机）和DVD。&lt;/p&gt;
+&lt;p&gt;**各种选项
+***支持各种比例（4：3, 16：9, 2.35：1, 1.85：1 等）
+*播放速度选项。
+*各种字幕选项。
+&lt;em&gt;标准视频设置：柔化/锐化/混合颜色/反向输入/反向&lt;/em&gt;高级视频设置：删除残像/去除3D噪声/消除阶段噪声/添加噪声/快进模式等
+*管理静态图像，视频捕获，过滤器等。
+*支持Flash格式（FLV，SWF）。
+*观看实时URL广播（VOD，MMS）。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;语言:&lt;/strong&gt;&lt;/em&gt; 25 种语言支持 (Albanian, Arabic, Belarusian, Bosanski, Brazilian, Chinese, Czech, Dutch, English, French, German, Hebrew, Hungarian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Thai, Turkish, Ukrainian, Vietnam)&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://dn.kmplayer.com/Dn/kmp32/2408/KMPlayer_4.2.3.16.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;官网下载(32位)&lt;/a&gt;    &lt;a class=&#34;link&#34; href=&#34;https://dn.kmplayer.com/Dn/kmp64x/KMP64_2024.8.22.14.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;官网下载(64位)&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>MusicPlayer2 (开源本地播放器) v2.77.1</title>
         <link>https://kooshare.github.io/post/musicplayer2/</link>
         <pubDate>Thu, 29 Aug 2024 09:56:54 +0800</pubDate>

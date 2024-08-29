@@ -7,13 +7,543 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 10:02:12 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Catsxp</title>
+        <lastBuildDate>Thu, 29 Aug 2024 10:34:52 +0800</lastBuildDate><atom:link href="https://kooshare.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Tongyiruanjianyunxingku</title>
+        <link>https://kooshare.github.io/post/tongyiruanjianyunxingku/</link>
+        <pubDate>Thu, 29 Aug 2024 10:34:52 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/tongyiruanjianyunxingku/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>STranslate(翻译、OCR工具) v1.1.9.821 绿色版</title>
+        <link>https://kooshare.github.io/post/stranslate/</link>
+        <pubDate>Thu, 29 Aug 2024 10:33:17 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/stranslate/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;STranslate 是一款为 Windows 用户设计的免费开源的翻译和 OCR(光学字符识别)工具。它提供了一种高效且直观的方式来翻译和识别屏幕上的文字。该软件以「即开即用、即用即走」为开发理念，主打快速、便捷的翻译体验。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/KjapoE6AF7zfywP.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/9085-1.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/CuLQtbewlmGfxTo.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/9085-2.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;快捷键操作：通过设定快捷键，用户可以快速呼出翻译界面或进行文字翻译。&lt;/p&gt;
+&lt;p&gt;划词翻译：选中文字后，使用快捷键即可直接翻译。&lt;/p&gt;
+&lt;p&gt;截图翻译：支持通过截图自动识别并翻译文本。&lt;/p&gt;
+&lt;p&gt;离线OCR功能：基于 PaddleOCR 技术，即使在无网络环境下也能进行文字识别。&lt;/p&gt;
+&lt;p&gt;实时划词翻译：在阅读时可实现即时翻译。&lt;/p&gt;
+&lt;p&gt;多种翻译源支持：Deepl(免费版本)、Google(免费版本)、OpenAI、Gemini、百度翻译、阿里翻译、腾讯翻译、小牛翻译、微软翻译、有道翻译、彩云小译、火山翻译、智谱AI&lt;/p&gt;
+&lt;p&gt;二维码识别：能够识别屏幕上的二维码。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;新增: 接入谷歌OCR接口&lt;/li&gt;
+&lt;li&gt;新增: 添加关于页面官网链接&lt;/li&gt;
+&lt;li&gt;新增: 主界面配置服务快捷入口&lt;/li&gt;
+&lt;li&gt;新增: LLM服务添加&lt;code&gt;Temperature&lt;/code&gt;配置项&lt;/li&gt;
+&lt;li&gt;新增: 添加单个服务执行翻译功能&lt;/li&gt;
+&lt;li&gt;新增: 添加软件热键查看功能&lt;/li&gt;
+&lt;li&gt;新增: 添加便携配置功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;根目录添加&lt;code&gt;portable_config&lt;/code&gt;目录即可开启并将只会从该目录读写配置
+影响文件: &lt;code&gt;stranslate.json&lt;/code&gt;(用户配置)、&lt;code&gt;stranslate.db&lt;/code&gt;(历史记录数据库)、&lt;code&gt;stardict.db&lt;/code&gt;(简明英汉词典数据库)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;优化: 优化翻译缓存结果为空后需要手动强制翻译的逻辑,极大提升使用体验&lt;/li&gt;
+&lt;li&gt;优化: 翻译出错后移除提示内容并直接进行翻译&lt;/li&gt;
+&lt;li&gt;优化: Gemini 服务添加安全设置配置为&lt;code&gt;BLOCK_NONE&lt;/code&gt;, 避免出现无法翻译问题&lt;/li&gt;
+&lt;li&gt;优化: 优化后台更新选中项目后列表不滚动的问题&lt;/li&gt;
+&lt;li&gt;优化: 截图翻译和静默OCR后手动释放内存&lt;/li&gt;
+&lt;li&gt;修复: 配置出错无法重新初始化开启问题&lt;/li&gt;
+&lt;li&gt;修复: 删除日志失败&lt;/li&gt;
+&lt;li&gt;修复: 输出界面手动点击翻译后仍获取缓存失败问题&lt;/li&gt;
+&lt;li&gt;修复: 模拟键盘输出空格为换行的问题&lt;/li&gt;
+&lt;li&gt;修复: 开启时隐藏主界面会显示在多任务中的问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8d592f00da7c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8d592f00da7c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费二进制新闻阅读器 SABnzbd v4.3.3 中文免费版</title>
+        <link>https://kooshare.github.io/post/sabnzbd/</link>
+        <pubDate>Thu, 29 Aug 2024 10:31:39 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/sabnzbd/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;尽管社交媒体平台在过去一年不断发展，但许多人仍然更喜欢 Usenet 等经典平台。 Usenet 的工作方式与 Facebook、Reddit 或 Twitter 类似，曾经是最受欢迎的平台之一，人们可以在其中加入各种主题的群组。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/InjkL6G9hvtoHES.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;它在任何地方运行
+SABnzbd 可在 Windows、macOS、Unix 和 NAS 设备上运行。 您可以从任何带有 Web 浏览器的设备（包括 iOS 和 Android 手机和平板电脑）访问和管理 SABnzbd。&lt;/p&gt;
+&lt;p&gt;小屏幕和大屏幕
+借助响应式 Glitter 界面，您可以从任何设备访问 SABnzbd 并管理您的下载：台式机、平板电脑或手机。 其他人已经制作了 Android/iOS (LunaSea)、Android (nzb360) 和 iOS (nzbUnity) 应用程序来管理 SABnzbd。&lt;/p&gt;
+&lt;p&gt;与其他工具集成
+Sonarr、SickChill、Radarr、Headphones、Lidarr 等应用程序可以与 SABnzbd 集成并自动化您的下载过程。
+SABnzbd 还可以读取和处理 RSS 提要、激活自定义脚本并通知您。&lt;/p&gt;
+&lt;p&gt;16 种语言
+SABnzbd 现在附带 16 个本地化版本：
+简体中文、英语、丹麦语、德语、西班牙语（castellano）、法语、荷兰语、挪威语、波兰语、葡萄牙语、巴西语、罗马语、芬兰语、瑞典语、русский язык、српски、עִבְרררי&lt;/p&gt;
+&lt;p&gt;允许您从各种 Usenet 服务中获取文件
+快速安装后，该工具会在您的默认浏览器中打开界面，您应该花时间配置服务器。幸运的是，该应用程序附带一个向导，可指导您完成整个过程。如果服务器根本没有启动，那么您应该检查推荐的端口是否正在被其他应用程序或服务使用。&lt;/p&gt;
+&lt;p&gt;一旦您通过配置，无论您是要上传还是下载内容，该应用程序都不会给您带来任何麻烦。添加 NZB 文件可以通过拖放文件来完成，而上传则需要附加文件。该工具允许您添加名称、密码、类别（您可以从“设置”中进一步自定义）、设置优先级、指定后期处理的类型，甚至添加脚本（如果您正在使用它们）。&lt;/p&gt;
+&lt;p&gt;对于喜欢 Usenet 的任何人来说，这是一个整体可靠的客户端
+该工具带来的优势是，一旦正确配置，大多数操作都可以自动化。即使您关闭浏览器，该应用程序也不会关闭，而是继续在后台运行，并且可以简化很多事情。&lt;/p&gt;
+&lt;p&gt;总而言之，SABnzbd 是一个专门的工具，它包含许多高级和基本功能，以满足任何需求和偏好。如果您的新闻提要依赖 Usenet，那么也许您可以考虑尝试使用该应用程序。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;release-notes---sabnzbd-433&#34;&gt;Release Notes - SABnzbd 4.3.3
+&lt;/h3&gt;&lt;p&gt;This is the third bug fix release of SABnzbd 4.3.0.&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/b618e72c195e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/b618e72c195e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Joplin (桌面云笔记软件) v3.0.15</title>
+        <link>https://kooshare.github.io/post/joplin/</link>
+        <pubDate>Thu, 29 Aug 2024 10:29:45 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/joplin/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;Joplin是一个免费的开源笔记和待办事项应用程序，它可以处理大量的笔记组织成笔记本。&lt;/p&gt;
+&lt;p&gt;这些注释是可搜索的，可以直接从应用程序或您自己的文本编辑器中复制、标记和修改，这些笔记是Markdown的格式。&lt;/p&gt;
+&lt;p&gt;通过.enex文件从Evernote导出的注释可以导入到Joplin中，包括格式化的内容(转换为Markdown)、资源(图像、附件等)和完整的元数据(地理位置、更新时间、创建时间等)。也可以导入普通标记文件。&lt;/p&gt;
+&lt;p&gt;notes可以与各种云服务同步，包括Nextcloud、Dropbox、OneDrive、WebDAV或文件系统(例如与网络目录)。当同步笔记、笔记本、标签和其他元数据时，它们被保存到纯文本文件中，可以方便地检查、备份和移动。&lt;/p&gt;
+&lt;p&gt;该应用程序适用于Windows、Linux、macOS、Android和iOS(终端应用程序也适用于FreeBSD)。火狐和Chrome浏览器还提供了一个网页裁剪器，可以从浏览器中保存网页和截图。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/5XOs73hmc6vqFKn.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;桌面、移动和终端应用程序。&lt;/p&gt;
+&lt;p&gt;Firefox和Chrome的Web裁剪器。&lt;/p&gt;
+&lt;p&gt;端到端加密(E2EE)&lt;/p&gt;
+&lt;p&gt;注意历史(修订)&lt;/p&gt;
+&lt;p&gt;同步各种服务，包括NextCloud, Dropbox, WebDAV和OneDrive。&lt;/p&gt;
+&lt;p&gt;导入Enex文件(Evernote导出格式)和Markdown文件。&lt;/p&gt;
+&lt;p&gt;导出JEX文件(Joplin导出格式)和原始文件。&lt;/p&gt;
+&lt;p&gt;支持笔记、待办事项、标签和笔记本。&lt;/p&gt;
+&lt;p&gt;转到任何功能。&lt;/p&gt;
+&lt;p&gt;根据多个标准对笔记进行排序——标题、更新时间等。&lt;/p&gt;
+&lt;p&gt;支持警报(通知)在移动和桌面应用程序。&lt;/p&gt;
+&lt;p&gt;首先离线，因此即使没有互联网连接，设备上的所有数据也总是可用的。&lt;/p&gt;
+&lt;p&gt;Markdown notes，在桌面和移动应用程序中使用图像和格式呈现。支持额外的功能，如数学符号和复选框。&lt;/p&gt;
+&lt;p&gt;文件附件支持-显示图像，并链接其他文件，可以在相关的应用程序中打开。&lt;/p&gt;
+&lt;p&gt;搜索功能。&lt;/p&gt;
+&lt;p&gt;地理定位的支持。&lt;/p&gt;
+&lt;p&gt;支持多种语言&lt;/p&gt;
+&lt;p&gt;外部编辑器支持-打开笔记在您最喜欢的外部编辑器与一个点击在Joplin。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;v3015&#34;&gt;v3.0.15
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Fixed: Improve the reliability of fetching resources&lt;/li&gt;
+&lt;li&gt;Security: Fix HTML parsing bug&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c23d852b4731&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c23d852b4731&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>思维管理工具 Revezone v1.0.0-alpha.18</title>
+        <link>https://kooshare.github.io/post/revezone/</link>
+        <pubDate>Thu, 29 Aug 2024 10:27:46 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/revezone/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/i2AYFjgXoGZ36C5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/9685-1.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/SVcvWyKxtBRYghr.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/9685-2.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/DzmyJYKGaPWQHZs.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/9685-3.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Excalidraw 白板: 基于 Excalidraw 的无限画布白板&lt;/li&gt;
+&lt;li&gt;Tldraw 白板：基于 Tldraw 的无限画布白板&lt;/li&gt;
+&lt;li&gt;笔记: 类 Notion 笔记&lt;/li&gt;
+&lt;li&gt;文件管理: 可拖拽目录树和标签页布局&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;v100-alpha18&#34;&gt;v1.0.0-alpha.18
+&lt;/h3&gt;&lt;p&gt;Update beta test notice&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/b631b21f650f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/b631b21f650f&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>YesPlayMusic – 高颜值第三方网易云 v0.4.8 官方版</title>
+        <link>https://kooshare.github.io/post/yesplaymusic/</link>
+        <pubDate>Thu, 29 Aug 2024 10:25:52 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/yesplaymusic/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;YesPlayMusic是一款第三方的网易云PC播放器，颜值较高，能登录网易云的账号。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/9HcUYoyZNxBMLmQ.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;✅ 使用 Vue.js 全家桶开发
+? 网易云账号登录
+? MV 播放
+? 支持歌词显示
+?? 无任何社交功能
+?️ 海外用户可直接播放（需要登录网易云账号）
+? 支持 UnblockNeteaseMusic，自动使用 QQ/酷狗/酷我音源替换变灰歌曲链接 （网页版不支持）
+⏭️ 支持 MediaSession API，可以使用系统快捷键操作上一首下一首
+✔️ 每日自动签到（手机端和电脑端同时签到）
+? Light/Dark Mode 自动切换
+? 支持 Touch Bar
+?️ 支持 PWA，可在 Chrome/Edge 里点击地址栏右边的 ➕ 安装到电脑
+? 支持显示歌曲和专辑的 Explicit 标志&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;048-2&#34;&gt;0.4.8-2
+&lt;/h3&gt;&lt;p&gt;fix github action missing env&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/32cad1447f43&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/32cad1447f43&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>媒体播放器 The KMPlayer v2024.8.22.14</title>
+        <link>https://kooshare.github.io/post/kmplayer/</link>
+        <pubDate>Thu, 29 Aug 2024 10:24:59 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/kmplayer/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;KMPlayer 是一套将网路上所有能见得到的解码程式(codec)全部 收集于一身的影音播放软体；只要安装了它，你不用再另外安装 一大堆转码程式，就能够顺利观赏所有特殊格式的影片了。除此之外，KMPlayer 还能够播放dvd与vcd、汇入多种格式的外挂字幕 档、使用普及率最高的winamp音效外挂与支援超多种影片效果调整选项等，功能非常强大。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/maTD5kItLdbKpUe.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;KMP需要内置编解码器&lt;/strong&gt;
+*无需单独安装编解码器即可享受媒体播放。
+* KMP支持内置和第三方编解码器。
+* KMP的内置编解码器更快更可靠，因为它在内部处理。
+*当前的内置编解码器支持所有ffdshow编解码器以及ffdshow不支持的编解码器，如MPEG1,2。
+*具有音频编解码器（AC3，MPEG1,2，AAC，WMA 7,8等）。
+*通过内置语音编解码器选择Matrix / normalizer。
+*通过KMP的内置编解码器，您可以享受所有主要的媒体格式。
+* KMP还为不使用内置编解码器的用户提供第三方编解码器，也不像其他编解码器那样在计算机上安装编解码器。大多数公共编解码器包+播放器强制在您的计算机上安装编解码器，而KMP则不然。这意味着安装KMP根本不会影响您的计算机。&lt;/p&gt;
+&lt;p&gt;**更正损坏的文件
+*** AVI格式在尝试查看损坏的文件时最初存在问题。
+* KMP因此支持播放AVI文件的各种方法。首先，KMP使用’AVI Splitter’。可以通过以前版本的AVI Splitter查看轻微损坏的AVI文件。
+*如果仍然无法播放，KMP将使用’AVI Source Filter’进行播放。内置的“AVI源过滤器”通过跳过坏帧来分析AVI文件和播放。
+*如果仍然没有通过上述方法播放，它将利用RealMedia引擎播放损坏的AVI文件。&lt;/p&gt;
+&lt;p&gt;**各种文件格式支持和硬件支持
+*** KMP基于DirectShow，因此它几乎支持所有Windows Media格式。
+* KMP还通过KMP的基础技术支持Winamp，RealMedia，QuickTime，Flash（SWF）。
+*与全球所有媒体播放器相比，KMP支持大多数媒体格式。
+* KMP支持DirectShow的扩展WDM（电视/摄像机）和DVD。&lt;/p&gt;
+&lt;p&gt;**各种选项
+***支持各种比例（4：3, 16：9, 2.35：1, 1.85：1 等）
+*播放速度选项。
+*各种字幕选项。
+&lt;em&gt;标准视频设置：柔化/锐化/混合颜色/反向输入/反向&lt;/em&gt;高级视频设置：删除残像/去除3D噪声/消除阶段噪声/添加噪声/快进模式等
+*管理静态图像，视频捕获，过滤器等。
+*支持Flash格式（FLV，SWF）。
+*观看实时URL广播（VOD，MMS）。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;语言:&lt;/strong&gt;&lt;/em&gt; 25 种语言支持 (Albanian, Arabic, Belarusian, Bosanski, Brazilian, Chinese, Czech, Dutch, English, French, German, Hebrew, Hungarian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Thai, Turkish, Ukrainian, Vietnam)&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://dn.kmplayer.com/Dn/kmp32/2408/KMPlayer_4.2.3.16.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;官网下载(32位)&lt;/a&gt;    &lt;a class=&#34;link&#34; href=&#34;https://dn.kmplayer.com/Dn/kmp64x/KMP64_2024.8.22.14.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;官网下载(64位)&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Server Box 服务器工具箱 v1.0.1070 绿色版</title>
+        <link>https://kooshare.github.io/post/serverbox/</link>
+        <pubDate>Thu, 29 Aug 2024 10:22:57 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/serverbox/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;Server Box 是一个使用 Flutter 开发的免费开源服务器管理软件，整个软件界面清新干净、占用内存也十分小，支持在线查看网络问题、进行SSH、Docker等管理，且整个操作过程十分简单，能够满足用户的各种需求。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/bw9AcN4J2sHrljn.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/9276-1.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1、支持主要的Linux发行版。&lt;/p&gt;
+&lt;p&gt;2、支持Ping。&lt;/p&gt;
+&lt;p&gt;3、支持SSH、SFTP、包（apt、yum等）管理、Docker 管理、Snippet。&lt;/p&gt;
+&lt;p&gt;4、支持Base64、URL编解码。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;v101070&#34;&gt;v1.0.1070
+&lt;/h3&gt;&lt;p&gt;fix: ssh tab focus mgmt by @lollipopkit in #525
+opt.: macos icon by @lollipopkit in #527
+feat: share server via qrcode by @lollipopkit in #530
+feat: systemd management by @lollipopkit in #532
+opt.: sftp home &amp;amp; back by @lollipopkit in #533
+opt.: hide logo if distribution == null by @lollipopkit in #536
+refactors by @lollipopkit in #539
+bug: privatekey update actually creates a new key by @lollipopkit in #541
+feat: custom net dev by @lollipopkit in #543
+feat: custom shell script install path by @lollipopkit in #545&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6ef1711e2289&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6ef1711e2289&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Calibre (阅读&amp;转换) v7.17.0 官方版</title>
+        <link>https://kooshare.github.io/post/calibre7170/</link>
+        <pubDate>Thu, 29 Aug 2024 10:19:09 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/calibre7170/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;Calibre是一款免费的电子书制作及阅读软件，Calibre中文版操作简单，没有太复杂的操作，只需要打开软件就可以使用。Calibre中文版功能强大，在帮助你阅读书籍的同时还可以进行编辑及格式转换，为用户带来高效便捷的使用体验。&lt;/p&gt;
+&lt;h1 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/o6axTRDXIZsHmwB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;Calibre中文版源代码开放，拥有跨平台的设计，可在Linux，OS X和Windows操作系统中运行。&lt;/p&gt;
+&lt;p&gt;Calibre中文版拥有完整的电子图书馆，包括图书馆管理，格式转换，新闻，材料转换为电子书。&lt;/p&gt;
+&lt;p&gt;电子书阅读器同步功能、整合进电子图书阅读器。&lt;/p&gt;
+&lt;p&gt;Calibre中文版优点是功能全，可定制化程度高，可以折腾。缺点是体积庞大、速度慢、BUG较多（不过修得很快）。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;release-717-23-aug-2024&#34;&gt;Release: 7.17 [23 Aug, 2024]
+&lt;/h3&gt;&lt;h3 id=&#34;new-features&#34;&gt;New features
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;E-book viewer: Support for jumping to and displaying paper edition page numbers&lt;/p&gt;
+&lt;p&gt;If an e-book contains embedded information about the pages from the paper edition of the book, the calibre E-book viewer can now jump to a page number via the Go to button in the viewer controls. You can also optionally have the current paper edition page number displayed in the header/footer by adding &amp;ldquo;Pages from paper edition&amp;rdquo; to either the header or footer in the viewer settings.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Edit book: When text is selected allow changing the indentation of all lines in the selection by pressing Tab to increase one level or Shift+Tab to decrease one level&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Allow a plugboard to change the series_index as well as the series name.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;News download: News recipes can now optionally use browser engines based on either Qt or Chromium network stacks instead of mechanize&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Email delivery: When sending emails to Kindles do not convert filenames to English letters as Amazon appears to have finally fixed their email servers to handle non-English filenames&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quickview: Add a tooltip displaying the full cell contents&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bug-fixes&#34;&gt;Bug fixes
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Update the version of the Qt toolkit bundled with calibre to the latest available, fixing some crashes on macOS related to accessibility tools&lt;/li&gt;
+&lt;li&gt;Conversion: Do not embed a second copy of a font when using the option to embed font family if the font is already embedded in the book&lt;/li&gt;
+&lt;li&gt;calibredb list: Fix a regression in the previous release that required setting &amp;ndash;template-header to empty to use the list command&lt;/li&gt;
+&lt;li&gt;Tolino driver: Fix books from the Tolino cloud not being listed&lt;/li&gt;
+&lt;li&gt;Windows: Book details panel: Fix selection not visible when using the system default theme&lt;/li&gt;
+&lt;li&gt;Hide the Virtual library tab bar in device view as it is non-functional&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;new-news-sources&#34;&gt;New news sources
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;GaGadget by bugmen00t&lt;/li&gt;
+&lt;li&gt;Süddeutsche Zeitung Magazin by unkn0wn&lt;/li&gt;
+&lt;li&gt;Science Journal by unkn0wn&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;improved-news-sources&#34;&gt;Improved news sources
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Jot Down&lt;/li&gt;
+&lt;li&gt;Various Russian and Ukranian news sources&lt;/li&gt;
+&lt;li&gt;Nautilus Magazine&lt;/li&gt;
+&lt;li&gt;Süddeutsche Zeitung&lt;/li&gt;
+&lt;li&gt;The India Forum&lt;/li&gt;
+&lt;li&gt;WSJ&lt;/li&gt;
+&lt;li&gt;National Geographic&lt;/li&gt;
+&lt;li&gt;Washington Post&lt;/li&gt;
+&lt;li&gt;Mediapart&lt;/li&gt;
+&lt;li&gt;Bloomberg&lt;/li&gt;
+&lt;li&gt;Nautilus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/bab73c483a0a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/bab73c483a0a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Supermium 浏览器 v124.0.6367.245 R2</title>
+        <link>https://kooshare.github.io/post/supermium/</link>
+        <pubDate>Thu, 29 Aug 2024 10:15:50 +0800</pubDate>
+        
+        <guid>https://kooshare.github.io/post/supermium/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;Supermium 是一款基于谷歌浏览器的修改版，最大的特点是能让你在 Windows xp 或者 Windows 7 体验最新 Chromium 内核。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/Jwjn9EPmZQg2UL1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/9053-1.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/PKJfFq3AIdsmcz2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;https://pic.puresys.net/puresys/9053-2.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;Some bug fixes have been applied:
+-(#761) Anti-aliasing of fonts now enabled by default, even when system font smoothing is disabled, due to poor visual appearance. To revert this change, use the flag &lt;code&gt;--disable-browser-font-smoothing-win&lt;/code&gt;.
+-(#722) Black backgrounds no longer appear behind UI elements when DWM is disabled or not available.
+-(#720) DirectWriteCore now bundled with Supermium, as well as Noto Color Emoji. Colour emojis and other modern DirectWrite features are now available on Windows XP/Vista/7/8.x, as well as remote fonts, printing, etc. &lt;strong&gt;VC++ 2015 runtime needed to use this version of DirectWrite, or else it will fall back to GDI or older DirectWrite&lt;/strong&gt;
+-(#779) UACH now defaults to Google Chrome. It is also possible to disable UACH outright using the flag &amp;ndash;remove-client-hints or associated feature as done in older Chromium versions.
+-(#733) Installer now places desktop shortcuts in proper locations. Browser is registered in HKCU on Windows 8 and above if installing for a single user. The changes have also reduced the number of AV detections for the 32 bit Supermium installer.
+-(#588) Flag &lt;code&gt;--force-generic-download-icons&lt;/code&gt; introduced to prevent creation of excess number of processes when viewing download history.&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/82e6ef33ad99&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/82e6ef33ad99&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>猫眼浏览器 (Catsxp) v4.8.3 官方版</title>
         <link>https://kooshare.github.io/post/catsxp/</link>
         <pubDate>Thu, 29 Aug 2024 10:02:12 +0800</pubDate>
         
         <guid>https://kooshare.github.io/post/catsxp/</guid>
-        <description></description>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;猫眼浏览器是一款基于chrome内核制作的增强版浏览器软件，软件内置了隐私保护和广告屏蔽功能，是一款非常干净的浏览器软件，使用软件能够有效的提升用户浏览网页的舒适度。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/lGBhAYsF785cErw.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/29/e714ctK2suJiCM5.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;安全极速&lt;/p&gt;
+&lt;p&gt;网页打开更迅速,网购秒杀无延时&lt;/p&gt;
+&lt;p&gt;隐私保护&lt;/p&gt;
+&lt;p&gt;内置增强的隐私保护设置让您远离被追踪和广告的烦恼&lt;/p&gt;
+&lt;p&gt;兼容vista&lt;/p&gt;
+&lt;p&gt;仅支持到m85&lt;/p&gt;
+&lt;p&gt;开源内核&lt;/p&gt;
+&lt;p&gt;基于最新的Chromium开源内核进行二次优化开发&lt;/p&gt;
+&lt;p&gt;自动更新&lt;/p&gt;
+&lt;p&gt;无须手动更新,自动同步到功能更强大更安全的最新稳定版&lt;/p&gt;
+&lt;p&gt;扩展插件&lt;/p&gt;
+&lt;p&gt;支持基于chrome开发的所有扩展插件&lt;/p&gt;
+&lt;p&gt;######### 更新日志&lt;/p&gt;
+&lt;p&gt;v4.8.3 [2024-08-23 08:36:52]&lt;/p&gt;
+&lt;p&gt;1.[*]内核升级:128.0.6613.85&lt;/p&gt;
+&lt;p&gt;2.[!]若干问题修正与细节优化&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/1840c5cc5cf3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/1840c5cc5cf3&lt;/a&gt;&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>免费群组BitTorrent客户端 Tixati v3.29 中文版</title>
