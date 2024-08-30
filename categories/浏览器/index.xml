@@ -7,7 +7,69 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 10:15:50 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 30 Aug 2024 09:05:04 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Via浏览器 v5.9.0 简洁轻快的浏览器，无广告、简约、强大，支持调用IDM</title>
+        <link>https://www.danlong360.com/post/via590/</link>
+        <pubDate>Fri, 30 Aug 2024 09:05:04 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/via590/</guid>
+        <description>&lt;p&gt;Via，简洁轻快浏览器。堪称最小巧最强安卓极简浏览器，纯净无广告、界面简约、功能强大、麻雀虽小，五脏俱全！该手机迷你浏览器采用的WebView内核，支持定制主题、广告拦截、扩展脚本、保护隐私等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/T3nRH8ZFuQNz2EO.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240830090544570&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;修改日志&#34;&gt;修改日志
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.yxzhi.com/tag/via%e6%b5%8f%e8%a7%88%e5%99%a8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Via浏览器&lt;/a&gt; – 简洁轻快浏览器 – 极客之选 – Google Play
+&lt;a class=&#34;link&#34; href=&#34;https://play.google.com/store/apps/details?id=mark.via.gp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://play.google.com/store/apps/details?id=mark.via.gp&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;– 非常小巧，仅几百KB，该有的功能都有
+– 隐私保护、隐私防追踪、自定义浏览器标识ua
+– 支持广告拦截、自定义广告标记（可添加拦截规则）
+– 支持沉浸式、支持定制主页风格、LOGO、搜索栏
+– 支持HTML5、插件管理、下载插件、下载链接解析
+– 书签可以登陆云同步，支持夜间模式，夜间模式、电脑模式、有图/无图模式
+– 支持翻译网页、离线网页、保存网页、查看网页源码、网页资源嗅探、网页内查找等
+– 支持自定义添加脚本（添加如：百度贴吧免登陆看更多回复、知乎免登陆看全文回答）&lt;/p&gt;
+&lt;h3 id=&#34;解除了对于主流视频网站的脚本嗅探功能的限制&#34;&gt;&lt;strong&gt;解除了对于主流视频网站的脚本，嗅探功能的限制&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;Via轻插件中心
+&lt;a class=&#34;link&#34; href=&#34;http://via-app.cn/#/tabBar/home&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://via-app.cn/#/tabBar/home&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;二维码扫描插件 v1.0 for Via浏览器
+&lt;a class=&#34;link&#34; href=&#34;https://myqqjd.lanzoui.com/icKOMqs1c8f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://myqqjd.lanzoui.com/icKOMqs1c8f&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WebKit浏览器第三方广告规则地址&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX&amp;#39;sAnnoyance，以及补充的一些规则 - HalfLife
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://halflife.coding.net/p/list/d/list/git/raw/master/ad.txt
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters - HalfLife
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://halflife.coding.net/p/list/d/list/git/raw/master/ad-edentw.txt
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CJX&amp;#39;s uBlock list
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://gcore.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-ublock.txt
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f3ce980ba826&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f3ce980ba826&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Supermium 浏览器 v124.0.6367.245 R2</title>
         <link>https://www.danlong360.com/post/supermium/</link>
         <pubDate>Thu, 29 Aug 2024 10:15:50 +0800</pubDate>
