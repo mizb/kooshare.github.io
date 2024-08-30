@@ -7,7 +7,272 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 30 Aug 2024 13:17:58 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 30 Aug 2024 15:12:35 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Android 消屏器_v1.0.0</title>
+        <link>https://www.danlong360.com/post/xiaopingqi/</link>
+        <pubDate>Fri, 30 Aug 2024 15:12:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/xiaopingqi/</guid>
+        <description>&lt;h3 id=&#34;软件介绍&#34;&gt;&lt;strong&gt;软件介绍&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;消屏器是一款简单实用的跳广告+消息防撤回工具，有两大类功能：一、消息通知管理根据自定义规则，可以实现消息防撤回，消息个性强提醒，消息免打扰，消息自动语音播报等功能；二：屏幕自动点击根据自定义规则、可以实现屏幕自动点击、自然也就可以实现和李跳跳、gkd这类App一样的效果，本质上都是一样的，基于无障碍服务+订阅法则。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;消息通知管理根据自定义规则，可以实现消息防撤回，消息个性强提醒，消息免打扰，消息自动语音播报等功能&lt;/li&gt;
+&lt;li&gt;屏幕自动点击根据自定义规则、可以实现屏幕自动点击&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;订阅规则接口&#34;&gt;&lt;strong&gt;订阅规则接口：&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://api.github.com/repos/xpq-yan/yuan/releases/latest&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://api.github.com/repos/xpq-yan/yuan/releases/latest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;&lt;strong&gt;软件截图&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;[&lt;img src=&#34;https://s2.loli.net/2024/08/30/aoVzCh31b8nSOZv.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Android 消屏器_v1.0.0&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/bb5c3e1291ca&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/bb5c3e1291ca&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows Text Grab OCR 文字识别_v4.5.1 绿色便携版</title>
+        <link>https://www.danlong360.com/post/grab/</link>
+        <pubDate>Fri, 30 Aug 2024 15:09:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/grab/</guid>
+        <description>&lt;h3 id=&#34;软件介绍&#34;&gt;&lt;strong&gt;软件介绍&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;Text Grab OCR 文字识别是一个基于Windows的光学字符识别(OCR)工具，旨在让用户能够简便快捷地从屏幕上捕获并复制任何可见的文本。该工具充分利用了Windows 10及更高版本的OCR技术，无需依赖云端服务，实现了本地处理图像以提取文字的功能。Text Grab的设计注重效率，提供了多种工作模式，包括全屏模式、抓取框模式等，来适应不同的文本提取需求。它通过最小化的UI设计和可选的后台进程支持，确保了快速启动和便捷操作。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;全屏模式：适用于快速选择屏幕区域并提取其中的文字，特别适合处理网页或文档中的文本&lt;/li&gt;
+&lt;li&gt;抓取框架模式：创建透明框以定位并捕获特定位置的文本，通过调整窗口大小和位置，提高 OCR 准确性&lt;/li&gt;
+&lt;li&gt;编辑文本窗口：类似记事本，可以无格式编辑、整理从屏幕抓取的大量文本，内置多种文本处理功能，如查找替换、转换大小写等&lt;/li&gt;
+&lt;li&gt;快速简单查找：用于存储和快速访问常用文本，比如 URL、邮件地址等，提升日常工作效率&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;使用方法&#34;&gt;&lt;strong&gt;使用方法&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;直接运行 Text-Grab.exe，左键拖动截图，完毕后，自动将识别内容复制到剪切板，随意打开一个记事本，按 鼠标中键 粘贴，由于软件为英文版，懂英文的可以自行设置其选项功能&lt;/li&gt;
+&lt;li&gt;直接运行 Text-Grab-OCR文字识别.exe，空格键开启截图 左键拖动截图，完毕后，自动将识别内容复制到剪切板并保存为OCR.txt， 或随意打开一个记事本，按 鼠标中键 粘贴&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;&lt;strong&gt;软件截图&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;[&lt;img src=&#34;https://s2.loli.net/2024/08/30/hFJXfvSVmrO4s2H.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Windows Text Grab OCR 文字识别_v4.5.1 绿色便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e323e9703f75&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e323e9703f75&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows BluffTitler Ultimate 3D文字制作_v16.6.0.6 中文版</title>
+        <link>https://www.danlong360.com/post/blufftitler/</link>
+        <pubDate>Fri, 30 Aug 2024 15:07:20 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/blufftitler/</guid>
+        <description>&lt;h3 id=&#34;软件介绍&#34;&gt;&lt;strong&gt;软件介绍&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;BluffTitler Ultimate是 Outerspace 公司旗下的一款3D立体文本演示动画设计制作工具，使用它无需昂贵的费用就能制作专业的三维动画。程序内置了大量的实例模版，不管新手或专业用户都能轻松设计制作。除了内置大量的模版，BluffTitler iTV还支持大量的特效，比如各种纹理效果、各种扭曲效果、各种跳动飞行效果等。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;丰富的特效和动画：内置了大量的特效和动画，包括粒子效果、镜头效果、纹理效果、闪光效果等&lt;/li&gt;
+&lt;li&gt;支持多种输出格式，包括视频、GIF动画、序列图像等&lt;/li&gt;
+&lt;li&gt;拥有丰富的模板库和素材库，可以直接使用现成的模板和素材，也可以根据需要自行创建和编辑&lt;/li&gt;
+&lt;li&gt;采用直观的用户界面设计，可以轻松地创建出各种华丽的三维标题、字幕、特效和动画&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;&lt;strong&gt;软件截图&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.fy6b.com/wp-content/uploads/2024/08/2024082907094086-1024x588.gif&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/FeisfJTBO4NMQvk.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Windows BluffTitler Ultimate 3D文字制作_v16.6.0.6 中文版&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f03880b5b3c4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f03880b5b3c4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows PIP 源切换工具</title>
+        <link>https://www.danlong360.com/post/windowspip/</link>
+        <pubDate>Fri, 30 Aug 2024 15:05:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/windowspip/</guid>
+        <description>&lt;h3 id=&#34;软件介绍&#34;&gt;&lt;strong&gt;软件介绍&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;作为 Python 开发者，经常需要安装各种第三方库。但是，有时候由于网络环境的问题，从官方 PyPI 源**安装包会非常缓慢。这时候，切换到国内的 PIP 源就可以大大提高安装速度。本工具使用了 Python 和 CustomTkinter 库开发，界面简洁美观，操作也非常方便。只需要点击界面上的按钮，就可以轻松切换到阿里云、豆瓣、清华大学等国内 PIP 源。无需记住各个源的 URL，也不需要手动修改配置文件，非常适合日常开发使用。如果你的网络环境不太理想时，不妨试试这个 PIP 源切换工具。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;工具方便用户快速切换 pip 的源，以解决由于网络问题导致的 pip 安装慢或安装失败的问题&lt;/li&gt;
+&lt;li&gt;能一键切换到官方源和其他能加速安装第三方库的源&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;&lt;strong&gt;软件截图&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.fy6b.com/wp-content/uploads/2024/08/2024082907213749.png&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/56wXaDUrSFf8PtI.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Windows PIP 源切换工具&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ac9d06950a41&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ac9d06950a41&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows 注册表定位器_v1.0 绿色版</title>
+        <link>https://www.danlong360.com/post/zhucebiaodingweiqi/</link>
+        <pubDate>Fri, 30 Aug 2024 15:03:36 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/zhucebiaodingweiqi/</guid>
+        <description>&lt;h3 id=&#34;软件介绍&#34;&gt;&lt;strong&gt;软件介绍&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;注册表定位器是一款便捷实用的注册表快速定位工具，此款软件可以帮助用户快速跳转到制定的注册表路径，告别用户一步一步手动打开注册表，用户在输入框输入注册表路径点击打开即可。在日常电脑使用中，注册表是操作系统的核心组成部分，存储着系统及应用程序的各种配置信息。由于注册表庞大且结构复杂，手动查找特定的键值往往费时费力。注册表定位器的出现，解决了这一问题，提高了系统维护和优化的效率。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;可以通过输入关键词或键值，让软件迅速在注册表中找到匹配的信息，大大节省了时间&lt;/li&gt;
+&lt;li&gt;能够深入注册表的各个分支，包括HKEY_LOCAL_MACHINE、HKEY_CURRENT_USER、HKEY_CLASSES_ROOT、HKEY_USERS和HKEY_CURRENT_CONFIG等，确保全面覆盖所有可能的搜索范围&lt;/li&gt;
+&lt;li&gt;在对注册表进行修改前，注册表定位器通常会提供备份功能，防止因误操作导致的系统问题&lt;/li&gt;
+&lt;li&gt;除了查找，注册表定位器还允许用户编辑、删除或创建新的注册表项，以适应个性化需求或修复系统问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;&lt;strong&gt;软件截图&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.fy6b.com/wp-content/uploads/2024/08/2024082907313757.png&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/SYO5tjsw3GouAgf.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Windows 注册表定位器_v1.0 绿色版&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/eb37cb533b93&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/eb37cb533b93&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Android EasyGBD 国标GB28181测试工具_v1.0.21</title>
+        <link>https://www.danlong360.com/post/easygbd/</link>
+        <pubDate>Fri, 30 Aug 2024 15:01:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/easygbd/</guid>
+        <description>&lt;h3 id=&#34;软件介绍&#34;&gt;&lt;strong&gt;软件介绍&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;EasyGBD 是TSINGSEE青犀开放平台开发的一套国标GB/T28181设备端功能组件，EasyGBD是GB/T28181 Device的简称，是国标GB28181协议的设备端，EasyGBD兼容国标GB28181-2011、GB28181-2016全部功能。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;能够模拟IPC、NVR等安防监控设备，以视频录像的数据模拟实时视频设备的效果&lt;/li&gt;
+&lt;li&gt;能够快速帮助各个想要具备国标GB28181向上级联能力的平台，快速实现国标GB28181的平台级联功能&lt;/li&gt;
+&lt;li&gt;不仅能搭配EasyGBS实现整个国标GB/T28181的全流程，也能无缝衔接各种国标平台&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;&lt;strong&gt;软件截图&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/vngSyOreo7BbCRZ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Android EasyGBD 国标GB28181测试工具_v1.0.21&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f8d40ae8d911&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f8d40ae8d911&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows PCI-Z 设备硬件检测_v1.0.45 绿色便携版</title>
+        <link>https://www.danlong360.com/post/windowspciz/</link>
+        <pubDate>Fri, 30 Aug 2024 14:59:22 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/windowspciz/</guid>
+        <description>&lt;h3 id=&#34;软件介绍&#34;&gt;&lt;strong&gt;软件介绍&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;PCI-Z是一个常用的PCI信息系统检测工具。PCI-Z中文版也可用于检测未知设备的信息，支持PCI-E，PCI-X等设备。PCI-Z是一款功能非常实用的的系统工具。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;能检测所有 PCI/PCI-X/PCI-E 卡，即使您的设备管理器无法识别它们&lt;/li&gt;
+&lt;li&gt;只需一个文件运行 – 100% 便携，PCI-Z中文版无需安装，无需网络连接(自动数据库更新除外)&lt;/li&gt;
+&lt;li&gt;可帮助您在 Windows 上查找未知的 PCI 设备的驱动程序&lt;/li&gt;
+&lt;li&gt;可报告设备驱动程序的问题&lt;/li&gt;
+&lt;li&gt;每日更新 PCI ID 数据库&lt;/li&gt;
+&lt;li&gt;体积小，内存占用小&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;&lt;strong&gt;软件截图&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/jCH1FVUNQwn45iX.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240830145944906&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/68e02e6930d5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/68e02e6930d5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows SSD-Z 固态硬盘检测_v1.0.45 绿色便携版</title>
+        <link>https://www.danlong360.com/post/windowsssdz/</link>
+        <pubDate>Fri, 30 Aug 2024 14:55:27 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/windowsssdz/</guid>
+        <description>&lt;h3 id=&#34;软件介绍&#34;&gt;&lt;strong&gt;软件介绍&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;SSD-Z是一款专业的SSD固态硬盘检测专用工具，SSD-Z与CPU-Z是同一企业手机软件，而且他们的页面设计也几乎是一致的，SSD-Z偏重于SSD的型号规格鉴别、主控芯片、显卡跑分、SMART检验，也适用HDD固态硬盘和其他硬盘信息的检验。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;对NAND处理芯片的控制板和处置技术性（已经知道设备）的详尽信息&lt;/li&gt;
+&lt;li&gt;确定TRIM开启了您的系统和固态盘&lt;/li&gt;
+&lt;li&gt;状态和设备的全部可以用特性的详细列表&lt;/li&gt;
+&lt;li&gt;全部系统分区的列表。包含掩藏，撤销投射和引导分区&lt;/li&gt;
+&lt;li&gt;标准IOPS，传输速率和随机存取時间（工作中已经在进行中）&lt;/li&gt;
+&lt;li&gt;查询初始设备鉴别数据字&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;&lt;strong&gt;软件截图&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/b3gXADSvCJsm5UF.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240830145649079&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/dd58b7b40edd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/dd58b7b40edd&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Process Lasso(进程优化工具) Pro v15.0.0.35 多语便携版</title>
         <link>https://www.danlong360.com/post/processlasso0035/</link>
         <pubDate>Fri, 30 Aug 2024 13:17:58 +0800</pubDate>
