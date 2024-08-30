@@ -7,7 +7,63 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 30 Aug 2024 15:09:21 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 30 Aug 2024 15:39:07 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>STranslate(翻译、OCR工具) v1.2.0.829 绿色版</title>
+        <link>https://www.danlong360.com/post/stranslate120829/</link>
+        <pubDate>Fri, 30 Aug 2024 15:39:07 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/stranslate120829/</guid>
+        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍
+&lt;/h3&gt;&lt;p&gt;STranslate 是一款为 Windows 用户设计的免费开源的翻译和 OCR(光学字符识别)工具。它提供了一种高效且直观的方式来翻译和识别屏幕上的文字。该软件以「即开即用、即用即走」为开发理念，主打快速、便捷的翻译体验。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/1sZ5WRBSGQHiVjb.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/HYbnqM35SvyNh1V.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;快捷键操作：通过设定快捷键，用户可以快速呼出翻译界面或进行文字翻译。&lt;/p&gt;
+&lt;p&gt;划词翻译：选中文字后，使用快捷键即可直接翻译。&lt;/p&gt;
+&lt;p&gt;截图翻译：支持通过截图自动识别并翻译文本。&lt;/p&gt;
+&lt;p&gt;离线OCR功能：基于 PaddleOCR 技术，即使在无网络环境下也能进行文字识别。&lt;/p&gt;
+&lt;p&gt;实时划词翻译：在阅读时可实现即时翻译。&lt;/p&gt;
+&lt;p&gt;多种翻译源支持：Deepl(免费版本)、Google(免费版本)、OpenAI、Gemini、百度翻译、阿里翻译、腾讯翻译、小牛翻译、微软翻译、有道翻译、彩云小译、火山翻译、智谱AI&lt;/p&gt;
+&lt;p&gt;二维码识别：能够识别屏幕上的二维码。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;新增: gpt4-o OCR&lt;/li&gt;
+&lt;li&gt;新增: 为Llm服务添加温度调节选项&lt;/li&gt;
+&lt;li&gt;新增: 全局字体大小可调整&lt;/li&gt;
+&lt;li&gt;新增: 添加Prompt导入导出功能&lt;/li&gt;
+&lt;li&gt;新增: Lingva TTS&lt;/li&gt;
+&lt;li&gt;优化: 主界面选择添加服务时自动翻译&lt;/li&gt;
+&lt;li&gt;优化: 使用JPEG编码器极大缩小图片base64字符串大小避免百度腾讯ocr出现图片过大的问题 #154&lt;/li&gt;
+&lt;li&gt;优化: 设置功能分类&lt;/li&gt;
+&lt;li&gt;优化: Prompt界面可使用Esc取消&lt;/li&gt;
+&lt;li&gt;优化: Llm服务语种转换使用完整语种名&lt;/li&gt;
+&lt;li&gt;优化: OCR拖拽图片、Prompt拖拽导入显示效果&lt;/li&gt;
+&lt;li&gt;优化: 主界面服务名、Prompt过长的显示效果&lt;/li&gt;
+&lt;li&gt;优化: 离线 TTS配置UI&lt;/li&gt;
+&lt;li&gt;优化: Azure TTS 声音从API导出，更加完整&lt;/li&gt;
+&lt;li&gt;修复: WebDav无法导出的问题，感谢 @JunoChina 提供测试结果&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/22f2d3b2c603&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/22f2d3b2c603&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows Text Grab OCR 文字识别_v4.5.1 绿色便携版</title>
         <link>https://www.danlong360.com/post/grab/</link>
         <pubDate>Fri, 30 Aug 2024 15:09:21 +0800</pubDate>
