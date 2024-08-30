@@ -7,7 +7,243 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 30 Aug 2024 12:06:34 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 30 Aug 2024 13:11:37 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Fort Firewall(Windows防火墙工具) v3.13.9</title>
+        <link>https://www.danlong360.com/post/firewall3139/</link>
+        <pubDate>Fri, 30 Aug 2024 13:11:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/firewall3139/</guid>
+        <description>&lt;p&gt;Fort Firewall 是一款高度评价的个人计算机安全防护工具，专为用户提供全面的网络安全解决方案。作为一款开源且免费的防火墙软件，它凭借其高效、轻量级及易于操作的特点，在众多同类产品中脱颖而出。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/Ijelo4zF3LypT7E.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Fort Firewall(Windows防火墙工具) v3.12.12&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;全面防护功能：Fort Firewall 采用多层次的安全防护策略，可以对网络请求、应用程序和文件进行全面的监控和保护，确保网络安全。&lt;/li&gt;
+&lt;li&gt;灵活的规则配置：用户可以根据需要自定义规则，对网络连接、应用程序、端口、IP 地址等进行灵活的配置，实现个性化的安全防护。&lt;/li&gt;
+&lt;li&gt;用户友好的界面：Fort Firewall 的界面简单直观，操作易于上手，用户可以轻松地进行规则配置和日志查看。&lt;/li&gt;
+&lt;li&gt;实时流量监控：软件支持实时监视网络数据包的流量，可以随时了解网络使用情况，并查找异常流量和攻击。&lt;/li&gt;
+&lt;li&gt;高效的性能：Fort Firewall 采用高效的内核算法，能够快速、准确地对网络流量进行处理，保证网络流畅和稳定。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;总之，Fort Firewall 是一款功能强大、易用性强的防火墙软件，可以有效保障网络安全和数据隐私。&lt;/p&gt;
+&lt;h5 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h5&gt;&lt;p&gt;UI: Portable: Fix service/driver handling on startup.
+UI: Tray/Options: Add &amp;ldquo;Block Traffic&amp;rdquo; menu.
+UI: AppInfoManager: Use &amp;ldquo;noCache&amp;rdquo; flag.
+UI: Tray: Update icons.&lt;/p&gt;
+&lt;h5 id=&#34;中文设置&#34;&gt;中文设置
+&lt;/h5&gt;&lt;p&gt;右下角托盘 – 右键 – Options – Global – Language – Chinese 保存。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Fort Firewall(Windows防火墙工具) v3.13.9&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/75234ad3cd15&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/75234ad3cd15&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Wireshark中文版(网络抓包工具) v4.4.0 多语便携版</title>
+        <link>https://www.danlong360.com/post/wireshark440/</link>
+        <pubDate>Fri, 30 Aug 2024 12:45:36 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/wireshark440/</guid>
+        <description>&lt;p&gt;Wireshark是一款强大的网络分析软件，可以帮助用户抓取、分析、解码网络上的数据包。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/2N1Yz3SE7KcHQTq.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Wireshark中文版(网络抓包工具) v4.4.0 多语便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h5&gt;&lt;p&gt;• 可视化功能：支持抓取、显示和分析网络上的数据包，并以图形化的方式显示出来；
+• 网络协议：支持多种常见的网络协议，可以分析IP、TPC、UDP、HTTP、FTP等等；
+• 解码功能：可以对网络上的数据包进行解码，以便更好地理解网络上发生的事情；
+• 数据报表：可以生成网络抓包的详细报表，以便进一步分析网络流量；
+• 滤波器功能：可以使用多种滤波器进行数据抓取，从而提高数据抓取的效率；
+• 用户友好：UI界面友好，操作简便，易于使用；
+• 兼容性：可以在Windows、Mac OS X和Linux等操作系统上运行。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Wireshark中文版(网络抓包工具) v4.4.0 多语便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e738f63d8bd8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e738f63d8bd8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Bulk Crap Uninstaller(批量程序卸载工具) v5.8.1 中文绿色版</title>
+        <link>https://www.danlong360.com/post/bulk/</link>
+        <pubDate>Fri, 30 Aug 2024 12:43:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/bulk/</guid>
+        <description>&lt;p&gt;Bulk Crap Uninstaller 是一款功能强大的卸载程序。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/P7wk4CbNclSv9MW.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Bulk Crap Uninstaller(批量程序卸载工具) v5.8 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;支持批量卸载程序：用户可以一次性选择多个需要卸载的程序，并同时进行卸载操作，节省时间和劳动力。
+显示详细信息：软件会显示每个程序的详细信息，包括安装日期、文件大小、卸载命令等，帮助用户更好地了解每个程序。
+列出系统隐藏程序：软件可以列出系统中隐藏的程序，帮助用户彻底清理系统中的所有文件和注册表项。
+支持程序评级：软件会为每个程序提供用户评级，帮助用户决定哪些程序应该卸载或保留。
+对比程序快照：软件可以提供程序安装前和安装后的系统快照，帮助用户找到程序安装后对系统所做的改变。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;完全免费：Bulk Crap Uninstaller 是一款完全免费的软件，没有任何功能限制和付费要求。
+界面简洁：软件界面简洁易用，用户可以快速找到需要的功能并操作。
+高效快速：软件可以快速扫描系统并列出所有安装的程序，帮助用户快速进行卸载操作。
+支持多种语言：软件支持多种语言界面，用户可以选择自己熟悉的语言进行操作。
+安全可靠：软件使用安全稳定，不会对系统造成任何损害。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Bulk Crap Uninstaller(批量程序卸载工具) v5.8.1 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/b3e7b55fdb65&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/b3e7b55fdb65&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>x64dbg(反汇编逆向神器) 2024-08-28_18-56 中文绿色版</title>
+        <link>https://www.danlong360.com/post/x64dbg0828/</link>
+        <pubDate>Fri, 30 Aug 2024 12:42:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/x64dbg0828/</guid>
+        <description>&lt;p&gt;x64dbg中文版是一款x32/x64位调试器的程序调试工具,这款反汇编逆向神器支持中文和插件,支持类似C表达式解析器,DLL和EXE文件调试,IDA式的跳跃箭头与侧边栏,动态识别模块指令,反汇编CPU窗口,自动化可调试的脚本语言等诸多逆向分析功能.x64dbg调试器主要分为三部分载体:DBG是调试器的调试功能部分,它处理调试技术(使用的 TitanEngine),并为GUI提供数据.GUI是调试器的图形部分,它采用的Qt编程语言,提供用户交互界面.Bridge是DBG和GUI部分的通信库,它可以用在新建功能上工作,而无需更新汇编代码的其它部分.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/b2V7lCOQB6H3uML.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;x64dbg(反汇编逆向神器) 2024-06-03 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;支持多种CPU架构，包括x86，x64，ARM和ARM64。
+提供实时调试功能，包括断点设置、单步执行、查看寄存器和内存，以及修改数据。
+支持动态分析，可以查看和修改程序的内存和寄存器状态。
+支持多种格式的二进制文件，包括PE、ELF和Mach-O。
+提供强大的插件系统，允许用户添加自定义功能和扩展工具。
+支持调试符号和调试信息，可以帮助用户理解程序的结构和功能。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;开源免费：x64dbg是开源软件，可以免费使用和修改。
+跨平台：x64dbg可以在Windows平台上运行，并支持多个CPU架构。
+功能强大：x64dbg提供了丰富的调试功能和工具，方便用户对程序进行逆向工程和动态分析。
+用户友好：x64dbg具有直观的用户界面，易于上手和操作。
+不断更新：x64dbg团队会持续更新和改进软件，以提供更好的用户体验和功能。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;x64dbg(反汇编逆向神器) 2024-08-28_18-56 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a43f4cc207a3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a43f4cc207a3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>StartAllBack(Win11开始菜单增强工具) v3.8.7.5148 Beta 破解版</title>
+        <link>https://www.danlong360.com/post/startallback5148/</link>
+        <pubDate>Fri, 30 Aug 2024 12:35:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/startallback5148/</guid>
+        <description>&lt;p&gt;StartAllBack中文版(StartIsBack++)是一款Win11开始菜单增强工具,可以为Windows11恢复经典样式的Windows7主题风格开始菜单和任务栏,功能包括了:自定义开始菜单样式和操作,个性化任务栏及资源管理器等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/ciRvyweGon1xTMp.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;StartAllBack(Win11开始菜单增强工具) v3.8.0.5101 Stable 破解版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h5&gt;&lt;p&gt;StartAllBack for Windows 11 - StartIsBack+ - MSFN
+&lt;a class=&#34;link&#34; href=&#34;https://msfn.org/board/topic/183013-startallback-for-windows-11/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://msfn.org/board/topic/183013-startallback-for-windows-11/&lt;/a&gt;
+StartIsBack for Windows 11
+&lt;a class=&#34;link&#34; href=&#34;https://www.startallback.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.startallback.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近更新：
+- 支持 Dev, Beta 最新预览版;全新经典资源管理器样式界面
+- 支持 Win11 22H2正式版 Windows 11 22H2 Build 22621
+- 资源管理器功能区, 命令栏, 其他元素现代化改造和重新设计&lt;/p&gt;
+&lt;h5 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h5&gt;&lt;p&gt;√ 破解免激活，无30天试用期，无哭脸表情水印!
+√ 全面更新中文语言翻译，简体中文字串优化对齐
+√ 剥离升级程序，无升级提示弹窗，去关于项检查更新
+√ 采用原版7zSFX自解压形式重新打包，支持静默安装
+静默安装参数：/ai /gm2
+无人值守安装示例：
+StartAllBack_Repack.exe /ai /gm2
+或右键解压后执行：
+StartAllBackCfg.exe /install /elevated /silent&lt;/p&gt;
+&lt;h5 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h5&gt;&lt;p&gt;StartAllBack 3.8.6.5143 22 August 2024 (stable)
+StartAllBack 3.8.6 (stable) all changes:
+Fixed snap groups thumbnail crash regression in 3.8.5 (pulled)&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;StartAllBack(Win11开始菜单增强工具) v3.8.7.5148 Beta 破解版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/990615439bd0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/990615439bd0&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HWiNFO(专业系统信息检测工具) v8.11.5526 中文绿色版</title>
+        <link>https://www.danlong360.com/post/hwinfo5526/</link>
+        <pubDate>Fri, 30 Aug 2024 12:32:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/hwinfo5526/</guid>
+        <description>&lt;p&gt;HWiNFO是一款功能强大、免费的硬件信息检测工具，它可以提供详细的系统和硬件信息，帮助用户更好地了解自己的电脑硬件配置。它支持Windows系统，包括Windows 10、Windows 8/8.1、Windows 7、Windows Vista和Windows XP。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/9Hmgdqho6VcbrIC.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;HWiNFO(专业系统信息检测工具) v8.03.5450 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;提供详细的硬件信息，包括CPU、主板、显卡、硬盘、内存、传感器等。&lt;/li&gt;
+&lt;li&gt;可以检测温度、电压、风扇转速等实时系统信息。&lt;/li&gt;
+&lt;li&gt;支持多种硬件监测方法，包括SMBus、ACPI、DMI等。&lt;/li&gt;
+&lt;li&gt;可以生成硬件报告，方便用户查看和分析。&lt;/li&gt;
+&lt;li&gt;支持自动更新硬件数据库，保证软件的兼容性和准确性。&lt;/li&gt;
+&lt;li&gt;支持多语言界面，包括中文、英文、日文等。&lt;/li&gt;
+&lt;li&gt;可以导出硬件信息到TXT、CSV、HTML等格式。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;界面简洁，使用方便。&lt;/li&gt;
+&lt;li&gt;软件体积小，下载安装方便。&lt;/li&gt;
+&lt;li&gt;支持多种硬件监测方法，数据准确性高。&lt;/li&gt;
+&lt;li&gt;可以生成详细的硬件报告，方便分析问题。&lt;/li&gt;
+&lt;li&gt;免费软件，无广告、无病毒、无后门。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;HWiNFO(专业系统信息检测工具) v8.11.5526 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/43bb4d13f27f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/43bb4d13f27f&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>DriverMax(驱动程序升级和备份工具) v16.16.0.13 便携版</title>
         <link>https://www.danlong360.com/post/drivermax/</link>
         <pubDate>Fri, 30 Aug 2024 12:06:34 +0800</pubDate>
