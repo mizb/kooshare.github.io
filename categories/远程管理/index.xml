@@ -7,7 +7,43 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 11:07:47 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 30 Aug 2024 10:55:32 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Remote Desktop Manager(远程桌面管理器) v2024.2.21</title>
+        <link>https://www.danlong360.com/post/remote/</link>
+        <pubDate>Fri, 30 Aug 2024 10:55:32 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/remote/</guid>
+        <description>&lt;p&gt;Remote Desktop Manager是一款功能强大的远程桌面管理软件，可以帮助管理员高效管理和连接多个远程桌面。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/jGMtASWJz4Ou9mr.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Remote Desktop Manager(远程桌面管理器) v2024.1.31&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;支持多种远程连接类型，包括RDP、VNC、SSH、Telnet等。
+可以集中管理所有远程连接，方便快捷地连接到远程桌面。
+支持自定义组合和筛选功能，帮助用户快速查找和连接远程桌面。
+可以保存和管理远程连接的凭据，保护用户登录信息的安全性。
+支持快速启动和断开连接，提高用户的操作效率。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;界面简洁直观，操作简单方便。
+支持多种远程连接类型，满足不同用户的需求。
+可以将远程连接按组织和项目进行分类管理，方便用户进行快速导航。
+支持导入和导出远程连接配置，方便用户在不同设备之间共享设置信息。
+支持多种插件和扩展功能，用户可以根据需要进行定制和扩展。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Remote Desktop Manager(远程桌面管理器) v2024.2.21&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9551c300d736&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9551c300d736&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>LocalSend v1.15.4 开源文件传输工具 全平台覆盖 适配TV</title>
         <link>https://www.danlong360.com/post/localsend154/</link>
         <pubDate>Thu, 29 Aug 2024 11:07:47 +0800</pubDate>
