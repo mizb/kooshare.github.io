@@ -7,7 +7,132 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 31 Aug 2024 11:13:08 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 31 Aug 2024 21:18:31 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PotPlayer v1.7.22318 去广告绿色版 / 美化增强版</title>
+        <link>https://www.danlong360.com/post/potplayer22318/</link>
+        <pubDate>Sat, 31 Aug 2024 21:18:31 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/potplayer22318/</guid>
+        <description>&lt;p&gt;PotPlayer 播放器是一款全能多媒体影音播放器，堪称Windows平台最强大的本地视频播放器。PotPlayer拥有强劲播放引擎加速，支持DXVA,CUDA,QuickSync,支持蓝光3D，其内置强大的编码器及滤镜/分离器，支持自定义添加解码器，PotPlayer播放器对字幕的支持非常优秀，能兼容特效字幕及在线搜索字幕实时翻译。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/sqdPvla1NFo6E3n.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240831211935566&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h2&gt;&lt;p&gt;PotPlayer Version History - VideoHelp
+&lt;a class=&#34;link&#34; href=&#34;https://www.videohelp.com/software/PotPlayer/version-history&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.videohelp.com/software/PotPlayer/version-history&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;从231220(1.7.22074)版本开始PotPlayer64.dll已被作者加壳防修改！&lt;/p&gt;
+&lt;p&gt;[240829] v240827(1.7.22318) 正式版
++ 添加 WEBP 格式到图像截取
++ 添加在图像源滤镜中将延迟时间设置为秒或更短的功能
++ 添加系统启动时自动运行功能
+- 修正快捷方式图标的大小设置无法反映的问题
+- 修正在某些情况下过滤重复文件设置被重置的问题
+- 修正使用某些编解码器播放时视频被识别为隔行扫描的问题
+- 修正使用 libVPX 8/9 解码时出现错误的问题
+- 修正播放 MP4 流时导航异常的问题
+- 修正浏览某些 FLV 文件速度缓慢的问题
+- 提高字幕输出速度&lt;/p&gt;
+&lt;h2 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h2&gt;&lt;p&gt;by zd423 去广告绿色版
+#去效验，去右下角空白广告弹窗！卸载可选备份设置
+#禁止后台联网请求：境外广告、发送日志、检查升级
+#集成额外的音频解码器及视频解码器组件：Open Codec for PotPlayer
+- DTS, MLP, TrueHD编码器Module\FFmpeg4\FFmpegMininum64.dll
+- S/W HEVC(H265)编码器PotPlayer\Module\FFmpeg4\FFmpeg64.dll
+- Intel H.264 MVC 3D编解码器库 PotPlayer\Module\libmfxsw(64).dll
+#预设配置：常规设置 + 默认启用自定义解码器H.265/HEVC及硬件加速
+- 滤镜—视频解码器—内置解码器/DXVA设置—&amp;gt;使用硬件加速 (DXVA)
+- 滤镜—视频解码器—内置解码器/DXVA设置—解码器—&amp;gt;H.265/HEVC
+#集成三款精选皮肤主题：简约暴风, ModernW10, Carefree (轻尘系列)
+#删除TV直播列表, 登陆程序,日志管理, 消息通知, 多语言等不必要的文件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;240112(1.7.22077)此版老外脱壳potplayer64.dll&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;===========================================&lt;/p&gt;
+&lt;p&gt;by mefcl 美化增强版
++ 破解程序验证
++ 去除联网[32位使用 HOSTS 屏蔽]
++ 修改打开菜单适应刘金皮肤
++ 增加的皮肤和关联图标
++ 增加独立的设置工具
+[根目录下 PotPlayer tools.exe]
++ 隐私模式，无痕播放
+[快捷方式在根目录下和开始菜单]
++ 语言文件精简
+[仅保留简体、繁体、英文、韩语]
++ 支持 HEVC 解码
++ 去除默认皮肤多于按钮
++ 支持杜比视界（新版已原生支持）
++ 文件格式关联增强&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.7.22262.0 版为最后未加壳正式版&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;# 设置优化：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;+ 窗口居中
++ 窗口大小改为自定义大小
++ 自定义窗口宽741
++ 自定义窗口高371
++ 开启记忆播放位置
++ 缩放窗口时保持视频比例
++ 最小化时暂停媒体播放
++ 双击鼠标左键：全屏|默认尺寸
++ 关闭自动更新
++ 鼠标在进度条上时显示时间
++ 播放视频时在最前端
++ 不显示播放列表图标
++ 过滤重复
++ 在屏幕中央调整尺寸
++ 使用滚轮处理超长菜单
++ 取消DTS.AC3仅用48000
++ 单个进程即选即播
++ 播放结束后关闭媒体
++ 关闭时还原默认尺寸
++ 取消“在进度条上显示书签/章节标记
++ 截图文件名以播放时间命名
++ 截图同时截取字幕(如果有)
++ 启动时默认不显示播放列表和浏览器&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;# 美化资源目前包括：&lt;/strong&gt;
+- 微标：https://cdn-us.imgs.moe/2024/06/10/logo_IZ5EHhwGQL.png
+- 皮肤：https://cdn-us.imgs.moe/2024/06/10/skins_aWYFbXCaW2.png
+- 关联图标：https://cdn-us.imgs.moe/2024/06/10/icons_8Og7usODrG.png&lt;/p&gt;
+&lt;h2 id=&#34;应用下载&#34;&gt;应用下载
+&lt;/h2&gt;&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;以下GlobalPotplayer官方所有链接(访问需要梯子)
+官方主页: &lt;a class=&#34;link&#34; href=&#34;https://tv.kakao.com/guide/potplayer&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://tv.kakao.com/guide/potplayer&lt;/a&gt;
+历史版本: &lt;a class=&#34;link&#34; href=&#34;http://cafe.daum.net/pot-tool/BHPW&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://cafe.daum.net/pot-tool/BHPW&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;PotPlayer Dev 测试版 (Beta测试版开发者调试版)
+64位: &lt;a class=&#34;link&#34; href=&#34;http://t1.daumcdn.net/potplayer/beta/PotPlayerSetup64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://t1.daumcdn.net/potplayer/beta/PotPlayerSetup64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;PotPlayer 240827 (1.7.22318) Multilingual Stable 官方正式版（2024/08/29)
+64位: &lt;a class=&#34;link&#34; href=&#34;http://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;额外的视频解码器组件 OpenCodec (S/W HEVC(H.265) / Intel H.264 MVC Encoder)
+230327(1.7.21892)开始OpenCodecSetup新链接下载子目录由FFmpeg4改为FFmpeg61
+64位: &lt;a class=&#34;link&#34; href=&#34;https://t1.daumcdn.net/potplayer/PotPlayer/Codec/v3/OpenCodecSetup64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://t1.daumcdn.net/potplayer/PotPlayer/Codec/v3/OpenCodecSetup64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;额外的音频解码器组件 FFmpegMinium (DTS, MLP, TrueHD)
+64位: &lt;a class=&#34;link&#34; href=&#34;https://t1.daumcdn.net/potplayer/PotPlayer/Codec/v3/FFmpegMininum64.dll&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://t1.daumcdn.net/potplayer/PotPlayer/Codec/v3/FFmpegMininum64.dll&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;PotPlayer 240827(1.7.22318) x64 Stable 去广告绿色版 / 美化增强版
+PotPlayer 191121(1.7.21204) x32 Dev 32位最终版去广告绿色版
+PotPlayer 1.7.19955 / v1.6.63891 x32/x64 怀旧版无广告绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/011afb58edda&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/011afb58edda&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>foobar2000 v2.1.5 / 2.2 Preview 2024-08-31 英文版</title>
         <link>https://www.danlong360.com/post/foobar2000v215/</link>
         <pubDate>Sat, 31 Aug 2024 11:13:08 +0800</pubDate>

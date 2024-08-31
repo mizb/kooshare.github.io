@@ -7,7 +7,146 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 31 Aug 2024 11:21:07 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 31 Aug 2024 21:21:53 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>StartAllBack v3.8.7.5148 开始菜单工具</title>
+        <link>https://www.danlong360.com/post/startallback51488/</link>
+        <pubDate>Sat, 31 Aug 2024 21:21:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/startallback51488/</guid>
+        <description>&lt;p&gt;StartAllBack (StartIsBack++) 是一款Win11开始菜单增强工具。在任务栏上为Windows 11恢复经典样式的Windows 7主题风格开始菜单，主要功能包括：恢复和改进开始菜单样式、个性化任务栏、资源管理器等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/KjDzVlBJ5PX37yZ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240831212232400&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h2&gt;&lt;p&gt;StartAllBack for Windows 11 - StartIsBack+ - MSFN
+&lt;a class=&#34;link&#34; href=&#34;https://msfn.org/board/topic/183013-startallback-for-windows-11/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://msfn.org/board/topic/183013-startallback-for-windows-11/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;StartIsBack for Windows 11
+&lt;a class=&#34;link&#34; href=&#34;https://www.startallback.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.startallback.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近更新：
+- 支持 Dev, Beta 最新预览版；全新经典资源管理器样式界面
+- 支持 Win11 23H2正式版 Windows 11 23H2 Build 22631
+- 资源管理器功能区, 命令栏, 其他元素现代化改造和重新设计&lt;/p&gt;
+&lt;h2 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h2&gt;&lt;p&gt;- 授权免激活，无30天试用期，无哭脸表情水印！
+- 全面更新中文语言翻译，简体中文字串优化对齐
+- 剥离升级程序，无升级提示弹窗, 去关于项检查更新
+- 采用原版7zSFX自解压形式重新打包，支持静默安装&lt;/p&gt;
+&lt;h2 id=&#34;安装参数&#34;&gt;安装参数
+&lt;/h2&gt;&lt;p&gt;静默安装参数：/ai /gm2
+无人值守安装示例：
+StartAllBack_Repack.exe /ai /gm2
+或右键解压后执行：
+StartAllBackCfg.exe /install /elevated /silent&lt;/p&gt;
+&lt;h2 id=&#34;应用下载&#34;&gt;应用下载
+&lt;/h2&gt;&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;StartAllBack 3.8.7.5148 Multilingual Fixed (2024/08/29)
+&lt;a class=&#34;link&#34; href=&#34;https://startisback.com/StartAllBack_setup.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://startisback.com/StartAllBack_setup.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;StartAllBack 3.8.6.5143 Multilingual Stable (2024/08/23)
+&lt;a class=&#34;link&#34; href=&#34;https://startisback.sfo3.cdn.digitaloceanspaces.com/StartAllBack_3.8.6_setup.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://startisback.sfo3.cdn.digitaloceanspaces.com/StartAllBack_3.8.6_setup.exe&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;StartAllBack v3.8.7.5148 中文免激活直装版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/377266ad8177&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/377266ad8177&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜狗五笔输入法 PC端 v5.5.0.2585 精简优化版</title>
+        <link>https://www.danlong360.com/post/sougouwubi2585/</link>
+        <pubDate>Sat, 31 Aug 2024 21:14:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/sougouwubi2585/</guid>
+        <description>&lt;p&gt;搜狗五笔输入法是一款Windows平台下的汉字五笔输入法软件。具有免费、无广告、兼容性好等优点；搜狗五笔输入法支持：五笔拼音混合输入、词库同步，兼容搜狗拼音的细胞词库和皮肤，适合五笔用户使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/fLt8qNUCk1gl5bG.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240831211701781&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h2&gt;&lt;p&gt;升级日志 - 搜狗五笔输入法
+&lt;a class=&#34;link&#34; href=&#34;https://wubi.sogou.com/log.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://wubi.sogou.com/log.php&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h2&gt;&lt;p&gt;by chishingchan
+1、精细分类条目，自选安装；
+2、含一次安装永久使用脚本；
+3、默认安装“腩肉版”；
+4、添加上下文快捷菜单。&lt;/p&gt;
+&lt;p&gt;======================================================&lt;/p&gt;
+&lt;p&gt;by 星空不寂寞
+1、移除升级与广告文件；
+2、支持32\64位 Windows系统；
+3、默认设置为纯五笔拼音混合、坚排版、启用联想词、四码提示、不升级；
+4、优化安装后不必重启系统。修复一个64位系统卸载后图标没能清除的问题。
+5、反编禁止右下角弹窗(恢复搜狗五笔输入法工具）、解决官方原版切换输入法卡顿的BUG&lt;/p&gt;
+&lt;p&gt;2023.04.22：修复在某个64位软件下输入法不置顶的BUG问题（已知软件360X浏览器）&lt;/p&gt;
+&lt;h2 id=&#34;应用下载&#34;&gt;应用下载
+&lt;/h2&gt;&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;搜狗五笔输入法 v5.5.0.2585 官方最新版 (2024/08/13)
+&lt;a class=&#34;link&#34; href=&#34;https://wubi.sogou.com/?r=pinyin&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://wubi.sogou.com/?r=pinyin&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;搜狗五笔输入法 v5.5.0.2585 去广告精简优化版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/5e40479edd11&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/5e40479edd11&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>UltraSearch(文件搜索神器) Pro v4.4.1.1015 中文绿色版</title>
+        <link>https://www.danlong360.com/post/ultrasearch/</link>
+        <pubDate>Sat, 31 Aug 2024 21:02:17 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/ultrasearch/</guid>
+        <description>&lt;p&gt;UltraSearch一款超快的文件搜索软件，数秒就可以在硬盘中帮您搜索出文件，比系统自带的快N倍。UltraSearch并不是通过建立索引或后台处理，它是通过查看NTFS分区的主文件表（MFT）来快速找到文件。类似的快速搜索工具还有Everything，UltraSearch搜索文件比较精确但是不支持HTTP/FTP服务器，而Everything就支持HTTP、ETP/FTP服务器，推荐两款都配合用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/GFuWh7vKEQAyqDw.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;UltraSearch(文件搜索神器) Pro v4.2.0.925 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;快速搜索：UltraSearch利用索引技术，能够快速地在计算机上搜索文件和文件夹。
+实时搜索：无需等待索引更新，UltraSearch能够实时显示计算机中新增的文件。
+高效性能：UltraSearch具有高效的搜索速度和良好的性能，能够在几秒钟内搜索到特定文件。
+自定义搜索范围：用户可以自定义搜索范围，并且可以搜索选定的驱动器或文件夹。
+预览文件内容：UltraSearch还支持预览文件内容，用户可以在搜索结果中直接查看文件的内容。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;界面简洁：UltraSearch拥有简洁直观的用户界面，操作简单方便。
+快速搜索：UltraSearch采用高效的搜索算法，能够快速准确地搜索到所需的文件。
+实时更新：UltraSearch能够实时更新文件索引，确保搜索结果的及时性。
+支持多种文件类型：UltraSearch支持搜索各种类型的文件，包括文档、图片、视频、音频等。
+轻量级：UltraSearch是一个轻量级的软件，占用系统资源少，运行稳定。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;UltraSearch(文件搜索神器) Pro v4.4.1.1015 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/da33f62cca76&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/da33f62cca76&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Privacy Eraser(隐私保护软件) Free v6.11.0.5019 中文绿色版</title>
         <link>https://www.danlong360.com/post/privacy5019/</link>
         <pubDate>Sat, 31 Aug 2024 11:21:07 +0800</pubDate>

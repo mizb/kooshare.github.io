@@ -7,7 +7,399 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 31 Aug 2024 16:19:52 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 31 Aug 2024 21:21:53 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>StartAllBack v3.8.7.5148 开始菜单工具</title>
+        <link>https://www.danlong360.com/post/startallback51488/</link>
+        <pubDate>Sat, 31 Aug 2024 21:21:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/startallback51488/</guid>
+        <description>&lt;p&gt;StartAllBack (StartIsBack++) 是一款Win11开始菜单增强工具。在任务栏上为Windows 11恢复经典样式的Windows 7主题风格开始菜单，主要功能包括：恢复和改进开始菜单样式、个性化任务栏、资源管理器等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/KjDzVlBJ5PX37yZ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240831212232400&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h2&gt;&lt;p&gt;StartAllBack for Windows 11 - StartIsBack+ - MSFN
+&lt;a class=&#34;link&#34; href=&#34;https://msfn.org/board/topic/183013-startallback-for-windows-11/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://msfn.org/board/topic/183013-startallback-for-windows-11/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;StartIsBack for Windows 11
+&lt;a class=&#34;link&#34; href=&#34;https://www.startallback.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.startallback.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近更新：
+- 支持 Dev, Beta 最新预览版；全新经典资源管理器样式界面
+- 支持 Win11 23H2正式版 Windows 11 23H2 Build 22631
+- 资源管理器功能区, 命令栏, 其他元素现代化改造和重新设计&lt;/p&gt;
+&lt;h2 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h2&gt;&lt;p&gt;- 授权免激活，无30天试用期，无哭脸表情水印！
+- 全面更新中文语言翻译，简体中文字串优化对齐
+- 剥离升级程序，无升级提示弹窗, 去关于项检查更新
+- 采用原版7zSFX自解压形式重新打包，支持静默安装&lt;/p&gt;
+&lt;h2 id=&#34;安装参数&#34;&gt;安装参数
+&lt;/h2&gt;&lt;p&gt;静默安装参数：/ai /gm2
+无人值守安装示例：
+StartAllBack_Repack.exe /ai /gm2
+或右键解压后执行：
+StartAllBackCfg.exe /install /elevated /silent&lt;/p&gt;
+&lt;h2 id=&#34;应用下载&#34;&gt;应用下载
+&lt;/h2&gt;&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;StartAllBack 3.8.7.5148 Multilingual Fixed (2024/08/29)
+&lt;a class=&#34;link&#34; href=&#34;https://startisback.com/StartAllBack_setup.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://startisback.com/StartAllBack_setup.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;StartAllBack 3.8.6.5143 Multilingual Stable (2024/08/23)
+&lt;a class=&#34;link&#34; href=&#34;https://startisback.sfo3.cdn.digitaloceanspaces.com/StartAllBack_3.8.6_setup.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://startisback.sfo3.cdn.digitaloceanspaces.com/StartAllBack_3.8.6_setup.exe&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;StartAllBack v3.8.7.5148 中文免激活直装版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/377266ad8177&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/377266ad8177&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PotPlayer v1.7.22318 去广告绿色版 / 美化增强版</title>
+        <link>https://www.danlong360.com/post/potplayer22318/</link>
+        <pubDate>Sat, 31 Aug 2024 21:18:31 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/potplayer22318/</guid>
+        <description>&lt;p&gt;PotPlayer 播放器是一款全能多媒体影音播放器，堪称Windows平台最强大的本地视频播放器。PotPlayer拥有强劲播放引擎加速，支持DXVA,CUDA,QuickSync,支持蓝光3D，其内置强大的编码器及滤镜/分离器，支持自定义添加解码器，PotPlayer播放器对字幕的支持非常优秀，能兼容特效字幕及在线搜索字幕实时翻译。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/sqdPvla1NFo6E3n.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240831211935566&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h2&gt;&lt;p&gt;PotPlayer Version History - VideoHelp
+&lt;a class=&#34;link&#34; href=&#34;https://www.videohelp.com/software/PotPlayer/version-history&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.videohelp.com/software/PotPlayer/version-history&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;从231220(1.7.22074)版本开始PotPlayer64.dll已被作者加壳防修改！&lt;/p&gt;
+&lt;p&gt;[240829] v240827(1.7.22318) 正式版
++ 添加 WEBP 格式到图像截取
++ 添加在图像源滤镜中将延迟时间设置为秒或更短的功能
++ 添加系统启动时自动运行功能
+- 修正快捷方式图标的大小设置无法反映的问题
+- 修正在某些情况下过滤重复文件设置被重置的问题
+- 修正使用某些编解码器播放时视频被识别为隔行扫描的问题
+- 修正使用 libVPX 8/9 解码时出现错误的问题
+- 修正播放 MP4 流时导航异常的问题
+- 修正浏览某些 FLV 文件速度缓慢的问题
+- 提高字幕输出速度&lt;/p&gt;
+&lt;h2 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h2&gt;&lt;p&gt;by zd423 去广告绿色版
+#去效验，去右下角空白广告弹窗！卸载可选备份设置
+#禁止后台联网请求：境外广告、发送日志、检查升级
+#集成额外的音频解码器及视频解码器组件：Open Codec for PotPlayer
+- DTS, MLP, TrueHD编码器Module\FFmpeg4\FFmpegMininum64.dll
+- S/W HEVC(H265)编码器PotPlayer\Module\FFmpeg4\FFmpeg64.dll
+- Intel H.264 MVC 3D编解码器库 PotPlayer\Module\libmfxsw(64).dll
+#预设配置：常规设置 + 默认启用自定义解码器H.265/HEVC及硬件加速
+- 滤镜—视频解码器—内置解码器/DXVA设置—&amp;gt;使用硬件加速 (DXVA)
+- 滤镜—视频解码器—内置解码器/DXVA设置—解码器—&amp;gt;H.265/HEVC
+#集成三款精选皮肤主题：简约暴风, ModernW10, Carefree (轻尘系列)
+#删除TV直播列表, 登陆程序,日志管理, 消息通知, 多语言等不必要的文件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;240112(1.7.22077)此版老外脱壳potplayer64.dll&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;===========================================&lt;/p&gt;
+&lt;p&gt;by mefcl 美化增强版
++ 破解程序验证
++ 去除联网[32位使用 HOSTS 屏蔽]
++ 修改打开菜单适应刘金皮肤
++ 增加的皮肤和关联图标
++ 增加独立的设置工具
+[根目录下 PotPlayer tools.exe]
++ 隐私模式，无痕播放
+[快捷方式在根目录下和开始菜单]
++ 语言文件精简
+[仅保留简体、繁体、英文、韩语]
++ 支持 HEVC 解码
++ 去除默认皮肤多于按钮
++ 支持杜比视界（新版已原生支持）
++ 文件格式关联增强&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.7.22262.0 版为最后未加壳正式版&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;# 设置优化：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;+ 窗口居中
++ 窗口大小改为自定义大小
++ 自定义窗口宽741
++ 自定义窗口高371
++ 开启记忆播放位置
++ 缩放窗口时保持视频比例
++ 最小化时暂停媒体播放
++ 双击鼠标左键：全屏|默认尺寸
++ 关闭自动更新
++ 鼠标在进度条上时显示时间
++ 播放视频时在最前端
++ 不显示播放列表图标
++ 过滤重复
++ 在屏幕中央调整尺寸
++ 使用滚轮处理超长菜单
++ 取消DTS.AC3仅用48000
++ 单个进程即选即播
++ 播放结束后关闭媒体
++ 关闭时还原默认尺寸
++ 取消“在进度条上显示书签/章节标记
++ 截图文件名以播放时间命名
++ 截图同时截取字幕(如果有)
++ 启动时默认不显示播放列表和浏览器&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;# 美化资源目前包括：&lt;/strong&gt;
+- 微标：https://cdn-us.imgs.moe/2024/06/10/logo_IZ5EHhwGQL.png
+- 皮肤：https://cdn-us.imgs.moe/2024/06/10/skins_aWYFbXCaW2.png
+- 关联图标：https://cdn-us.imgs.moe/2024/06/10/icons_8Og7usODrG.png&lt;/p&gt;
+&lt;h2 id=&#34;应用下载&#34;&gt;应用下载
+&lt;/h2&gt;&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;以下GlobalPotplayer官方所有链接(访问需要梯子)
+官方主页: &lt;a class=&#34;link&#34; href=&#34;https://tv.kakao.com/guide/potplayer&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://tv.kakao.com/guide/potplayer&lt;/a&gt;
+历史版本: &lt;a class=&#34;link&#34; href=&#34;http://cafe.daum.net/pot-tool/BHPW&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://cafe.daum.net/pot-tool/BHPW&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;PotPlayer Dev 测试版 (Beta测试版开发者调试版)
+64位: &lt;a class=&#34;link&#34; href=&#34;http://t1.daumcdn.net/potplayer/beta/PotPlayerSetup64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://t1.daumcdn.net/potplayer/beta/PotPlayerSetup64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;PotPlayer 240827 (1.7.22318) Multilingual Stable 官方正式版（2024/08/29)
+64位: &lt;a class=&#34;link&#34; href=&#34;http://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;额外的视频解码器组件 OpenCodec (S/W HEVC(H.265) / Intel H.264 MVC Encoder)
+230327(1.7.21892)开始OpenCodecSetup新链接下载子目录由FFmpeg4改为FFmpeg61
+64位: &lt;a class=&#34;link&#34; href=&#34;https://t1.daumcdn.net/potplayer/PotPlayer/Codec/v3/OpenCodecSetup64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://t1.daumcdn.net/potplayer/PotPlayer/Codec/v3/OpenCodecSetup64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;额外的音频解码器组件 FFmpegMinium (DTS, MLP, TrueHD)
+64位: &lt;a class=&#34;link&#34; href=&#34;https://t1.daumcdn.net/potplayer/PotPlayer/Codec/v3/FFmpegMininum64.dll&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://t1.daumcdn.net/potplayer/PotPlayer/Codec/v3/FFmpegMininum64.dll&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;PotPlayer 240827(1.7.22318) x64 Stable 去广告绿色版 / 美化增强版
+PotPlayer 191121(1.7.21204) x32 Dev 32位最终版去广告绿色版
+PotPlayer 1.7.19955 / v1.6.63891 x32/x64 怀旧版无广告绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/011afb58edda&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/011afb58edda&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜狗五笔输入法 PC端 v5.5.0.2585 精简优化版</title>
+        <link>https://www.danlong360.com/post/sougouwubi2585/</link>
+        <pubDate>Sat, 31 Aug 2024 21:14:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/sougouwubi2585/</guid>
+        <description>&lt;p&gt;搜狗五笔输入法是一款Windows平台下的汉字五笔输入法软件。具有免费、无广告、兼容性好等优点；搜狗五笔输入法支持：五笔拼音混合输入、词库同步，兼容搜狗拼音的细胞词库和皮肤，适合五笔用户使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/fLt8qNUCk1gl5bG.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240831211701781&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h2&gt;&lt;p&gt;升级日志 - 搜狗五笔输入法
+&lt;a class=&#34;link&#34; href=&#34;https://wubi.sogou.com/log.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://wubi.sogou.com/log.php&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h2&gt;&lt;p&gt;by chishingchan
+1、精细分类条目，自选安装；
+2、含一次安装永久使用脚本；
+3、默认安装“腩肉版”；
+4、添加上下文快捷菜单。&lt;/p&gt;
+&lt;p&gt;======================================================&lt;/p&gt;
+&lt;p&gt;by 星空不寂寞
+1、移除升级与广告文件；
+2、支持32\64位 Windows系统；
+3、默认设置为纯五笔拼音混合、坚排版、启用联想词、四码提示、不升级；
+4、优化安装后不必重启系统。修复一个64位系统卸载后图标没能清除的问题。
+5、反编禁止右下角弹窗(恢复搜狗五笔输入法工具）、解决官方原版切换输入法卡顿的BUG&lt;/p&gt;
+&lt;p&gt;2023.04.22：修复在某个64位软件下输入法不置顶的BUG问题（已知软件360X浏览器）&lt;/p&gt;
+&lt;h2 id=&#34;应用下载&#34;&gt;应用下载
+&lt;/h2&gt;&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;搜狗五笔输入法 v5.5.0.2585 官方最新版 (2024/08/13)
+&lt;a class=&#34;link&#34; href=&#34;https://wubi.sogou.com/?r=pinyin&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://wubi.sogou.com/?r=pinyin&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;搜狗五笔输入法 v5.5.0.2585 去广告精简优化版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/5e40479edd11&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/5e40479edd11&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>轻闪PDF(傲软PDF编辑软件) v2.14.12.7 中文破解版</title>
+        <link>https://www.danlong360.com/post/qingshanpdf214127/</link>
+        <pubDate>Sat, 31 Aug 2024 21:04:03 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/qingshanpdf214127/</guid>
+        <description>&lt;p&gt;轻闪PDF是一款功能强大的PDF浏览和编辑工具，用户可以使用它来打开、浏览和编辑PDF文档。不仅如此，它还提供了一系列的注释和批注工具，让用户可以方便地在PDF文档中添加批注、划线和高亮等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/qloCuBLO3QibV4w.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;轻闪PDF(傲软PDF编辑软件) v2.14.6.1 中文破解版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;PDF浏览：用户可以使用轻闪PDF打开和浏览PDF文档，支持多种视图模式，如单页模式、连续页面模式和书籍模式等。
+PDF编辑：用户可以在轻闪PDF中编辑PDF文档，包括添加、删除、合并、拆分和重新排列页面等。
+注释和批注：轻闪PDF提供了丰富的注释和批注工具，用户可以在PDF文档中添加文本注释、标记、划线、高亮和橡皮擦等。
+导出和分享：用户可以将编辑后的PDF文档导出为其他格式，如Word、Excel和图片等，还可以通过邮件或社交媒体分享PDF文档。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;界面简洁友好：轻闪PDF的界面设计简洁明了，用户可以轻松找到所需的功能和工具。
+快速加载和处理PDF文档：轻闪PDF采用了先进的技术，能够快速加载和处理大型的PDF文档，提供流畅的阅读和编辑体验。
+安全可靠：轻闪PDF保护用户的文档安全，支持密码保护和权限设置，防止未经授权的访问和编辑。
+多平台支持：轻闪PDF可在Windows、Mac、iOS和Android等多种操作系统上运行，用户可以在不同设备上随时随地使用。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;轻闪PDF(傲软PDF编辑软件) v2.14.12.7 中文破解版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d757adc730d3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d757adc730d3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>UltraSearch(文件搜索神器) Pro v4.4.1.1015 中文绿色版</title>
+        <link>https://www.danlong360.com/post/ultrasearch/</link>
+        <pubDate>Sat, 31 Aug 2024 21:02:17 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/ultrasearch/</guid>
+        <description>&lt;p&gt;UltraSearch一款超快的文件搜索软件，数秒就可以在硬盘中帮您搜索出文件，比系统自带的快N倍。UltraSearch并不是通过建立索引或后台处理，它是通过查看NTFS分区的主文件表（MFT）来快速找到文件。类似的快速搜索工具还有Everything，UltraSearch搜索文件比较精确但是不支持HTTP/FTP服务器，而Everything就支持HTTP、ETP/FTP服务器，推荐两款都配合用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/GFuWh7vKEQAyqDw.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;UltraSearch(文件搜索神器) Pro v4.2.0.925 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;快速搜索：UltraSearch利用索引技术，能够快速地在计算机上搜索文件和文件夹。
+实时搜索：无需等待索引更新，UltraSearch能够实时显示计算机中新增的文件。
+高效性能：UltraSearch具有高效的搜索速度和良好的性能，能够在几秒钟内搜索到特定文件。
+自定义搜索范围：用户可以自定义搜索范围，并且可以搜索选定的驱动器或文件夹。
+预览文件内容：UltraSearch还支持预览文件内容，用户可以在搜索结果中直接查看文件的内容。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;界面简洁：UltraSearch拥有简洁直观的用户界面，操作简单方便。
+快速搜索：UltraSearch采用高效的搜索算法，能够快速准确地搜索到所需的文件。
+实时更新：UltraSearch能够实时更新文件索引，确保搜索结果的及时性。
+支持多种文件类型：UltraSearch支持搜索各种类型的文件，包括文档、图片、视频、音频等。
+轻量级：UltraSearch是一个轻量级的软件，占用系统资源少，运行稳定。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;UltraSearch(文件搜索神器) Pro v4.4.1.1015 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/da33f62cca76&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/da33f62cca76&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Umi-OCR文字识别工具(离线OCR软件) v2.1.4 中文绿色版</title>
+        <link>https://www.danlong360.com/post/umiocr/</link>
+        <pubDate>Sat, 31 Aug 2024 21:00:57 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/umiocr/</guid>
+        <description>&lt;p&gt;Umi-OCR是一款免费，开源，可批量的离线OCR软件，适用于 Windows10,11 平台。可以批量识别普通图片并识别文字内容导出，以及还有支持忽略指定区域的特殊功能，例如可以屏蔽掉视频右上角水印和游戏的 UI 内容。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/BEIKQOsFcG7nefb.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Umi-OCR文字识别工具(离线OCR软件) v2.1.4 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;免费：本项目所有代码开源，完全免费。
+方便：解压即用，离线运行，无需网络。
+批量：可批量导入处理图片，结果保存到本地 txt / md / jsonl 多种格式文件。也可以即时截屏识别。
+高效：采用 PaddleOCR-json C++ 识别引擎。只要电脑性能足够，通常比在线OCR服务更快。
+精准：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对手写、方向不正、杂乱背景等情景也有不错的识别率。可设置忽略区域排除水印、设置文块后处理合并排版段落，得到规整的文本。&lt;/p&gt;
+&lt;h5 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h5&gt;&lt;p&gt;v2.1.4 主要更新：
+修复：引擎原始输出项的&amp;quot;text&amp;quot;为空时，导致文本分析越界的错误。 (#625)
+新增UI语言：葡萄牙语 Português 。译者：@杨鹏
+PaddleOCR 插件相关：
+修复：布尔类型选项不生效的问题。
+修复： 繁体中文 配置文件错误的问题。
+优化：调整默认线程/内存限制，默认内存占用不超过系统总内存的一半。
+优化：调整识别语言库结构，精简不必要的文件。
+Linux 版本相关：
+优化：glibc 依赖降级至 2.31 ，兼容 Debian-11 等发行版。
+修复：Docker 部署 在部分旧系统中报错 &amp;lsquo;code&amp;rsquo;: 803 的问题。(#621)&lt;/p&gt;
+&lt;h5 id=&#34;下载说明&#34;&gt;下载说明
+&lt;/h5&gt;&lt;p&gt;以下的不同版本，仅OCR引擎插件不同，其它功能完全一致。均支持 win7 x64 及以上的系统。
+附带 简中/繁中/英/日/韩/俄 多国语言识别库。
+Paddle 引擎插件版
+（性能好，速度快，占用率高，适合高配机器）
+Rapid 引擎插件版
+（速度稍慢，内存占用低，兼容好，适合低配机器）&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Umi-OCR文字识别工具(离线OCR软件) v2.1.4 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7b498829f580&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/7b498829f580&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>维克日记(支持Markdown语法输入) v0.5.2 中文绿色版</title>
+        <link>https://www.danlong360.com/post/weikerij052/</link>
+        <pubDate>Sat, 31 Aug 2024 20:57:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/weikerij052/</guid>
+        <description>&lt;p&gt;维克日记是一款设计优雅、开箱即用的日记软件，支持Markdown语法输入和实时预览。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/BuiemCNItPHTnj6.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;维克日记(支持Markdown语法输入) v0.4.0 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;一目了然的用户界面，简单免配置、开箱即用
+支持Markdown语法输入，内容原地实时预览
+日记支持表格可视化编辑、本地图片插入/粘贴
+支持输入密码登录，日记隐私内容更有保障
+支持按目录批量操作日记（如：删除等）
+数据纯本地保存，无惧云端第三方安全风险
+支持Windows、Mac、Linux多个系统平台&lt;/p&gt;
+&lt;h5 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h5&gt;&lt;p&gt;v0.5.2
+新增功能
+新增演示模式功能，支持全屏演示文档
+新增应用主题皮肤，自带4款高颜值皮肤
+问题修复
+解决修改存储文件路径提示失败的问题
+解决文档放大时底部可能出现空白的问题
+解决部分文档主题代码块按钮遮挡的问题
+解决日记文档打印时文件名称不正确问题
+改进优化
+调整存储模式，默认不启用数据存储加密
+优化数据加载逻辑，提升日记内容加载速度&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;维克日记(支持Markdown语法输入) v0.5.2 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ea8f80cd1d03&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ea8f80cd1d03&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Privacy Eraser(隐私保护软件) Free v6.11.0.5019 中文绿色版</title>
         <link>https://www.danlong360.com/post/privacy5019/</link>
         <pubDate>Sat, 31 Aug 2024 11:21:07 +0800</pubDate>
