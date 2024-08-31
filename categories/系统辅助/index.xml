@@ -7,7 +7,41 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 31 Aug 2024 10:22:56 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 31 Aug 2024 11:11:38 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Folder2List(文件列表生成工具) v3.28.5 便携版</title>
+        <link>https://www.danlong360.com/post/folder2list/</link>
+        <pubDate>Sat, 31 Aug 2024 11:11:38 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/folder2list/</guid>
+        <description>&lt;p&gt;Folder2List是一款简单易用的软件，它可以将指定文件夹中的文件和文件夹列表导出为一个文本文档或CSV文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/MTuIxA1evbSFmr3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Folder2List(文件列表生成工具) v3.28.5 便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;导出文件列表：选择指定文件夹后，软件将列出文件夹中的所有文件和文件夹，并按照指定的排序方式排序。
+文件过滤功能：用户可以选择只导出指定类型的文件，如只导出图片文件或文档文件。
+导出为不同格式：可以导出为文本文档或CSV文件，方便用户在其他程序中使用或编辑导出的文件列表。
+自定义导出格式：用户可以选择要导出的列和列的顺序，以及分隔符等导出格式的设置。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;简单易用：软件具有简洁的用户界面和直观的操作流程，即使对于没有使用过类似软件的用户也能轻松上手。
+快速导出：软件使用高效的算法和多线程处理，可以快速地将文件列表导出，节省用户的时间。
+文件选项：软件允许用户选择导出文件的详细信息，如文件大小、创建日期、修改日期等，以提供更全面的文件列表。
+跨平台：该软件可以在Windows、Mac和Linux操作系统上运行，适用于不同的用户需求和操作系统偏好。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;Folder2List(文件列表生成工具) v3.28.5 便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f68104042efc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f68104042efc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>CrystalDiskInfo(硬盘监控工具) v9.4.3 中文绿色版</title>
         <link>https://www.danlong360.com/post/crystaldiskinfo943/</link>
         <pubDate>Sat, 31 Aug 2024 10:22:56 +0800</pubDate>
