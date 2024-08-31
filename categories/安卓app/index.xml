@@ -7,7 +7,185 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 31 Aug 2024 22:23:55 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 31 Aug 2024 22:33:27 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Peak智客 Pro v4.27.4 for Android 解锁专业版</title>
+        <link>https://www.danlong360.com/post/peak/</link>
+        <pubDate>Sat, 31 Aug 2024 22:33:27 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/peak/</guid>
+        <description>&lt;p&gt;Peak智客 Pro 是一款围绕您设计的有趣，免费的大脑训练应用。它利用脑力游戏和谜题来提高您的记忆力、语言和逻辑思维，以使您的思维保持活跃。&lt;/p&gt;
+&lt;p&gt;Peak智客 Pro 与来自剑桥和纽约大学等顶尖大学的学者合作开发的大脑游戏由神经科学家开发。Peak与神经科学，认知科学和教育领域的专家合作设计，使大脑训练既有趣又有益。Peak的科学顾问委员会包括剑桥大学临床神经心理学教授Barbara Sahakian FMedSci DSc教授。Peak是终极的大脑训练体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/IMPRYZzTVvpe6Ul.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240831223358772&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;每天仅需10分钟即可完成大脑训练。而且，成人每天进行45场大脑游戏，每天进行新的大脑训练锻炼，总是有一个有趣的挑战在等着您。&lt;/p&gt;
+&lt;h3 id=&#34;精彩功能&#34;&gt;精彩功能：
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;免费的脑力游戏，挑战您的记忆力，注意力，数学，解决问题的能力，心理敏捷性，语言，协调能力，创造力和情绪控制能力。&lt;/li&gt;
+&lt;li&gt;了解您的大脑擅长的类别，并通过比较您的大脑图和大脑游戏表现来与朋友竞争。&lt;/li&gt;
+&lt;li&gt;教练，您的大脑的私人教练，可以帮助您跟踪进度并改善自己。&lt;/li&gt;
+&lt;li&gt;认知脑训练，其中包括来自纽约大学和其他大学的专家研究人员的游戏。&lt;/li&gt;
+&lt;li&gt;离线工作，无论您身在何处，都可以享受Peak大脑游戏。&lt;/li&gt;
+&lt;li&gt;提供超过45种脑力游戏，并定期进行更新，使您不断面临挑战。&lt;/li&gt;
+&lt;li&gt;使用Peak Pro获得个性化的大脑训练锻炼和深入的见解。&lt;/li&gt;
+&lt;li&gt;可以访问Peak Advanced Training模块：用于训练特定技能的强化程序，包括由剑桥大学精神病学系的Barbara Sahakian教授和Tom Piercy共同创建的新的Wizard记忆游戏。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;关于版本&#34;&gt;关于版本：
+&lt;/h3&gt;&lt;p&gt;感谢国外XDA大神的修改和分享；&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;专业订阅 / 付费功能已解锁；&lt;/li&gt;
+&lt;li&gt;禁用 / 删除不需要的权限+接收者+提供程序+服务；&lt;/li&gt;
+&lt;li&gt;优化和压缩对齐的图形以及清理的资源，以实现快速加载；&lt;/li&gt;
+&lt;li&gt;广告权限 / 服务 / 提供者已从 Android.manifest 中删除；&lt;/li&gt;
+&lt;li&gt;广告链接已删除，并且调用的方法无效；&lt;/li&gt;
+&lt;li&gt;Google Play 商店安装软件包检查已禁用；&lt;/li&gt;
+&lt;li&gt;调试代码已删除；&lt;/li&gt;
+&lt;li&gt;删除相应的 java 文件的默认 .source 标签名称；&lt;/li&gt;
+&lt;li&gt;Analytics（分析）/ Crashlytics / Firebase 已停用；&lt;/li&gt;
+&lt;li&gt;捆绑了 SDK 的 Facebook 广告已完全删除；&lt;/li&gt;
+&lt;li&gt;没有有效的跟踪器或广告；&lt;/li&gt;
+&lt;li&gt;AOSP 兼容模式；&lt;/li&gt;
+&lt;li&gt;语言：完全多国语言；&lt;/li&gt;
+&lt;li&gt;CPU 架构：armeabi-v7a，arm64-v8a，x86，x86_64；&lt;/li&gt;
+&lt;li&gt;屏幕 DPI：120dpi，160dpi，240dpi，320dpi，480dpi，640dpi；&lt;/li&gt;
+&lt;li&gt;原始包装签名已更改。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1sMx3G-0ErFQsMo7f9zQnsA?pwd=jyia&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1sMx3G-0ErFQsMo7f9zQnsA?pwd=jyia&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>脉冲音乐播放器高级版「Pulsar&#43;」 v1.12.9 for Android 直装付费修改版 </title>
+        <link>https://www.danlong360.com/post/pulsar/</link>
+        <pubDate>Sat, 31 Aug 2024 22:31:50 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/pulsar/</guid>
+        <description>&lt;p&gt;脉冲音乐播放器高级版「Pulsar Music Player Pro 」是安卓系统上最优秀的音乐播放器之一。它是一款不含广告的本地音乐播放器。它的用户界面设计完全遵循 Google Material Design 设计规范。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/ONpSfrlViCyY6IZ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240831223213849&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;脉冲音乐播放器高级版「Pulsar Music Player Pro 」是安卓系统上的一站式播放器，拥有数百万的用户。支持常见的音乐格式，包含：MP3、AAC、FLAC、OGG、WAV……等。如果您在脉冲音乐播放器中没有发现您的音乐，请点击标题栏中的“重新扫描媒体库”菜单项，重新扫描您的设备上的媒体文件。&lt;/p&gt;
+&lt;p&gt;脉冲音乐播放器高级版「Pulsar Music Player Pro 」和 Omnia 音乐播放器是出自同一开发者的姊妹应用。&lt;/p&gt;
+&lt;h3 id=&#34;精彩功能&#34;&gt;精彩功能：
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;遵循 Google Material Design 的用户界面和动画设计&lt;/li&gt;
+&lt;li&gt;通过专辑，艺术家，文件夹和流派等分类管理和播放音乐&lt;/li&gt;
+&lt;li&gt;自动下载和显示专辑封面和艺术家图片&lt;/li&gt;
+&lt;li&gt;智能播放列表，包含最多播放，最近播放，最近添加等&lt;/li&gt;
+&lt;li&gt;快速搜索专辑，艺术家和歌曲&lt;/li&gt;
+&lt;li&gt;支持无缝播放&lt;/li&gt;
+&lt;li&gt;音乐标签编辑器&lt;/li&gt;
+&lt;li&gt;支持歌词显示&lt;/li&gt;
+&lt;li&gt;支持音乐视觉特效显示&lt;/li&gt;
+&lt;li&gt;丰富多彩的主题设置&lt;/li&gt;
+&lt;li&gt;支持主题定制&lt;/li&gt;
+&lt;li&gt;5段式均衡器设置&lt;/li&gt;
+&lt;li&gt;重低音和混响设置&lt;/li&gt;
+&lt;li&gt;支持Chromecast&lt;/li&gt;
+&lt;li&gt;支持Android Auto&lt;/li&gt;
+&lt;li&gt;支持左右声道均衡&lt;/li&gt;
+&lt;li&gt;支持Last.fm Scrobbling&lt;/li&gt;
+&lt;li&gt;定时关机和更多功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新内容如下&#34;&gt;更新内容如下：
+&lt;/h3&gt;&lt;p&gt;支持Android 13上的主题应用图标。
+修复Android 13上的艺术品错误。&lt;/p&gt;
+&lt;h3 id=&#34;关于版本&#34;&gt;关于版本：
+&lt;/h3&gt;&lt;p&gt;感谢国外XDA的修改和分享，特点如下：&lt;/p&gt;
+&lt;p&gt;不需要 root 或 Lucky Patcher 或 Google Play Moded；
+禁用 / 删除不需要的权限+接收器+提供商+服务；
+优化和压缩对齐的图形和清理的资源，实现快速加载；
+从 Android.manifest 中删除广告权限 / 服务 / 提供商；
+广告链接被删除，调用方法无效；
+广告版面可见性已禁用；
+Google Play Store 安装包检查已禁用；
+调试代码已删除；
+AOSP 兼容模式；
+删除相应 java 文件的 default.source 标签名称；
+Analytics / Crashlytics / Firebase 已禁用；
+Facebook 广告捆绑 SDK 完全删除；
+没有活动的跟踪器或广告；
+语言：完全多语言；
+CPU 架构：通用；
+屏幕 DPI：160dpi、240dpi、320dpi、480dpi、640dpi；
+原始包裹签名已更改；
+运行系统要求：Android 4.1+&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/25c35783c3c8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/25c35783c3c8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Sleep Cycle Premium v4.24.27 for Android 解锁高级版 &#43; Wear OS 系统版 </title>
+        <link>https://www.danlong360.com/post/sleepcycle/</link>
+        <pubDate>Sat, 31 Aug 2024 22:30:12 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/sleepcycle/</guid>
+        <description>&lt;p&gt;Sleep Cycle Premium 「睡眠周期」是一个智能闹钟和睡眠监测分析应用，可以分析您的睡眠并唤醒您，让您在轻度睡眠阶段以接近自然醒的方式被唤醒，尽情享受休息和放松。&lt;/p&gt;
+&lt;p&gt;Sleep Cycle Premium 「睡眠周期」使用手机中极为灵敏的加速度计来监视您在睡眠过程中的运动。然后，“睡眠周期”会找到在设置的闹钟时间结束的30分钟内唤醒您的最佳时间。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/4YikTzyJOW8vSMF.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240831223042304&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Sleep Cycle Premium 「睡眠周期」是使用成熟的睡眠科学和多年的研究开发而成的。因为睡眠时您会经历不同的阶段，从深度睡眠到轻度睡眠。闹钟响起时所处的阶段对于唤醒时的疲劳程度至关重要。由于您在不同阶段在床上的移动方式不同，因此“睡眠周期”可以使用手机中的加速度计来监视您的运动并确定您处于哪个睡眠阶段。当您处于最轻的睡眠阶段时，“睡眠周期”将唤醒您。&lt;/p&gt;
+&lt;h3 id=&#34;精彩功能&#34;&gt;精彩功能：
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;轻松起床！睡眠周期分析您的睡眠并在最轻的睡眠阶段唤醒您。&lt;/li&gt;
+&lt;li&gt;详细的睡眠统计数据和每晚的睡眠图。&lt;/li&gt;
+&lt;li&gt;15种精心挑选的高质量报警音。&lt;/li&gt;
+&lt;li&gt;使用自己的音乐作为唤醒声音&lt;/li&gt;
+&lt;li&gt;轻轻摇动或轻拍手机以暂停。&lt;/li&gt;
+&lt;li&gt;可自定义的唤醒窗口。从即时（常规闹钟）到90分钟。&lt;/li&gt;
+&lt;li&gt;后台模式-设置警报并退出睡眠周期-睡眠分析将在后台继续&lt;/li&gt;
+&lt;li&gt;睡眠笔记-了解诸如喝咖啡，吃得过多或压力大的一天等事件如何影响您的睡眠质量&lt;/li&gt;
+&lt;li&gt;长期图表-跟踪一段时间内的睡眠质量，查看您一周中哪几天的睡眠质量最好，还有更多。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新内容如下&#34;&gt;更新内容如下：
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;错误修复和改进。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;关于版本&#34;&gt;关于版本：
+&lt;/h3&gt;&lt;p&gt;感谢国外XDA大神的修改和分享；&lt;/p&gt;
+&lt;p&gt;高级 / 付费功能已解锁；
+禁用 / 删除不需要的权限 + 接收者 + 提供者 + 服务；
+优化和 zipaligned 图形和清理资源以实现快速加载；
+从 Android.manifest 中删除了广告权限 / 服务 / 提供商；
+Google Play 商店安装包检查已禁用；
+删除了调试代码；
+删除对应 java 文件的默认 .source 标签名称；
+分析 / Crashlytics / Firebase 已禁用；
+语言：全多语言；
+CPU 架构：armeabi-v7a、arm64-v8a、x86、x86_64；
+屏幕 DPI：120dpi、160dpi、240dpi、320dpi、480dpi、640dpi；
+原包签名更改；
+运行系统要求：Android 6.0+&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;&lt;strong&gt;下载地址&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7e7ab554dd2c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/7e7ab554dd2c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>μTorrent Pro v8.2.14 for Android 直装付费专业版 「&#43;汉化版」</title>
         <link>https://www.danlong360.com/post/%CE%BCtorrent8214/</link>
         <pubDate>Sat, 31 Aug 2024 22:23:55 +0800</pubDate>
