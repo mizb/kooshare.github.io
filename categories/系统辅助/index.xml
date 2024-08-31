@@ -7,7 +7,81 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 31 Aug 2024 08:29:27 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 31 Aug 2024 10:22:56 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>CrystalDiskInfo(硬盘监控工具) v9.4.3 中文绿色版</title>
+        <link>https://www.danlong360.com/post/crystaldiskinfo943/</link>
+        <pubDate>Sat, 31 Aug 2024 10:22:56 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/crystaldiskinfo943/</guid>
+        <description>&lt;p&gt;CrystalDiskInfo 是一款免费的硬盘监控工具，可用于监测和显示硬盘驱动器的健康状况和性能指标。它提供了关于硬盘温度、健康状态、可用空间、传输速度等信息，帮助用户及时了解硬盘的运行情况，并采取相应措施保护数据安全。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/gbLmurkTZvCVhz8.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;CrystalDiskInfo(硬盘监控工具) v9.3.0 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;1.显示硬盘的基本信息，包括型号、容量、固件版本等。
+2.监测硬盘的温度，并提供警报功能。
+3.显示硬盘的健康状态，通过S.M.A.R.T技术检测硬盘的运行状况。
+4.提供传输速率的监测和显示。
+5.支持固态硬盘（SSD）和机械硬盘（HDD）。
+6.提供邮件通知功能，当硬盘出现问题时可及时通知用户。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;1.简单易用：CrystalDiskInfo 提供直观的界面和简单的操作，用户可以轻松了解硬盘的运行情况。
+2.兼容性强：支持Windows操作系统，并且能够与大多数硬盘驱动器兼容。
+3.实时监测：可以实时监测硬盘的温度、健康状态和传输速率，及时发现问题并采取措施。
+4.免费开源：CrystalDiskInfo 是一款开源软件，用户可以免费使用，并且没有广告和插件。
+5.多语言支持：支持多种语言，方便用户选择适合自己的语言进行使用。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;CrystalDiskInfo(硬盘监控工具) v9.4.3 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/cecee16713d0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/cecee16713d0&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>x64dbg(反汇编逆向神器) 2024-08-30_23-04 中文绿色版</title>
+        <link>https://www.danlong360.com/post/x64dbg0830/</link>
+        <pubDate>Sat, 31 Aug 2024 10:20:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/x64dbg0830/</guid>
+        <description>&lt;p&gt;x64dbg中文版是一款x32/x64位调试器的程序调试工具,这款反汇编逆向神器支持中文和插件,支持类似C表达式解析器,DLL和EXE文件调试,IDA式的跳跃箭头与侧边栏,动态识别模块指令,反汇编CPU窗口,自动化可调试的脚本语言等诸多逆向分析功能.x64dbg调试器主要分为三部分载体:DBG是调试器的调试功能部分,它处理调试技术(使用的 TitanEngine),并为GUI提供数据.GUI是调试器的图形部分,它采用的Qt编程语言,提供用户交互界面.Bridge是DBG和GUI部分的通信库,它可以用在新建功能上工作,而无需更新汇编代码的其它部分.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/Efbzlx8O3musayJ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;x64dbg(反汇编逆向神器) 2024-06-03 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;支持多种CPU架构，包括x86，x64，ARM和ARM64。
+提供实时调试功能，包括断点设置、单步执行、查看寄存器和内存，以及修改数据。
+支持动态分析，可以查看和修改程序的内存和寄存器状态。
+支持多种格式的二进制文件，包括PE、ELF和Mach-O。
+提供强大的插件系统，允许用户添加自定义功能和扩展工具。
+支持调试符号和调试信息，可以帮助用户理解程序的结构和功能。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;开源免费：x64dbg是开源软件，可以免费使用和修改。
+跨平台：x64dbg可以在Windows平台上运行，并支持多个CPU架构。
+功能强大：x64dbg提供了丰富的调试功能和工具，方便用户对程序进行逆向工程和动态分析。
+用户友好：x64dbg具有直观的用户界面，易于上手和操作。
+不断更新：x64dbg团队会持续更新和改进软件，以提供更好的用户体验和功能。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;x64dbg(反汇编逆向神器) 2024-08-30_23-04 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/b1f955d4d0aa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/b1f955d4d0aa&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows Virtual Gamepad Beta 虚拟游戏手柄</title>
         <link>https://www.danlong360.com/post/gamepad/</link>
         <pubDate>Sat, 31 Aug 2024 08:29:27 +0800</pubDate>
