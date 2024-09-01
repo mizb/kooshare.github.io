@@ -7,7 +7,44 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 31 Aug 2024 21:18:31 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 01 Sep 2024 18:55:28 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MPV-EASY Player(多媒体播放器) v0.38.0.3 中文绿色版</title>
+        <link>https://www.danlong360.com/post/mpv-easy/</link>
+        <pubDate>Sun, 01 Sep 2024 18:55:28 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/mpv-easy/</guid>
+        <description>&lt;p&gt;MPV-EASY Player是一款开源的跨平台多媒体播放器。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/01/YXVMzERSW1voHw4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;MPV-EASY Player(多媒体播放器) v0.38.0.3 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;支持多种视频、音频文件格式：MPV-EASY Player 可以播放几乎所有流行的多媒体文件格式，包括AVI、MP4、MKV、MPEG、FLV等。&lt;/li&gt;
+&lt;li&gt;快速轻便： MPV-EASY Player 采用了MPV作为内核播放器，对于PC配置一般的用户来说，无需安装繁重的解码器即可流畅播放高清视频文件。&lt;/li&gt;
+&lt;li&gt;支持字幕：可以识别并自动加入视频中的字幕文件或手动添加字幕文件。&lt;/li&gt;
+&lt;li&gt;多种调整选项：利用 MPV（MPlayer的衍生版本）强大的图像和音频处理功能，可以通过自定义调整视频的饱和度、对比度、亮度等属性。&lt;/li&gt;
+&lt;li&gt;多种播放模式：支持常规播放、循环播放、随机播放等模式，同时还有实时快捷键操作，使用起来非常灵活方便。&lt;/li&gt;
+&lt;li&gt;跨平台支持：MPV-EASY Player可以在Windows、Linux和macOS等多个平台上运行，完全免费，无广告，无插件，非常值得尝试。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h5&gt;&lt;p&gt;修复了单实例模式下，首次运行时由于执行了没有必要的cmd命令，导致有些杀毒软件每次都检测cmd命令的执行，使得每次启动速度变慢的问题。
+改进了代码，避免有一段很长的代码被重复执行2次的问题，从而减少启动时间。
+修改了rjno1.conf中和osd背景样式有关的设置，从而解决在最新版mpv中osd背景消失的问题。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;MPV-EASY Player(多媒体播放器) v0.38.0.3 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/283901a4568f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/283901a4568f&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>PotPlayer v1.7.22318 去广告绿色版 / 美化增强版</title>
         <link>https://www.danlong360.com/post/potplayer22318/</link>
         <pubDate>Sat, 31 Aug 2024 21:18:31 +0800</pubDate>
