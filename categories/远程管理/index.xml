@@ -7,7 +7,50 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 31 Aug 2024 08:20:33 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 01 Sep 2024 09:45:31 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Syncthing(文件同步工具) v1.27.10 官方版</title>
+        <link>https://www.danlong360.com/post/syncthing12710/</link>
+        <pubDate>Sun, 01 Sep 2024 09:45:31 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/syncthing12710/</guid>
+        <description>&lt;p&gt;Syncthing 是一个免费开源的工具，它能在你的各个网络计算机间同步文件 / 文件夹。它的同步数据是从一个系统中直接传输到另一个系统的，所有的信息通讯都使用 TLS 进行加密，没有任何文件或文件夹会被存储在第三方系统中，安全且私密。此外，用户有权决定这些数据该存于何处，是否要分享到第三方等等。&lt;/p&gt;
+&lt;p&gt;Syncthing 有一个强大的响应式的网页管理界面 (WebGUI，下同)，它能够帮助用户简便地添加、删除和管理那些通过网络进行同步的文件夹。通过使用 Syncthing，你可以在多个系统上一次同步多个文件夹。在安装和使用上，Syncthing 是一个可移植的、简单而强大的工具。即然文件或文件夹是从一部计算机中直接传输到另一计算机中的，那么你就无需考虑向云服务供应商支付金钱来获取额外的云空间。你所需要的仅仅是非常稳定的 LAN/WAN 连接以及在你的系统中有足够的硬盘空间。&lt;/p&gt;
+&lt;p&gt;它支持所有的现代操作系统，包括 GNU/Linux、Window、Mac OS X, 当然还有 Android。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/01/MsclKBayk5bv9r6.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240901094637297&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h2&gt;&lt;p&gt;防止数据丢失&lt;/p&gt;
+&lt;p&gt;保护用户数据至关重要。我们采取一切合理的预防措施，以避免损坏用户的文件。&lt;/p&gt;
+&lt;p&gt;防范攻击者&lt;/p&gt;
+&lt;p&gt;同样，保护用户数据至关重要。不管我们的其他目标是什么，我们都绝不能让用户的数据容易受到未授权方的窃听或修改。&lt;/p&gt;
+&lt;p&gt;易于使用&lt;/p&gt;
+&lt;p&gt;同步应该平易近人，易于理解且具有包容性。&lt;/p&gt;
+&lt;p&gt;自动&lt;/p&gt;
+&lt;p&gt;仅在绝对必要时才需要用户交互。&lt;/p&gt;
+&lt;p&gt;普遍可用&lt;/p&gt;
+&lt;p&gt;同步应该在每台普通计算机上运行。我们谨记，最新技术并非总是可用于任何给定的个人。&lt;/p&gt;
+&lt;p&gt;对于个人&lt;/p&gt;
+&lt;p&gt;同步主要是为了使单个用户具有安全，可靠和易于使用的文件同步能力。&lt;/p&gt;
+&lt;p&gt;其他一切&lt;/p&gt;
+&lt;p&gt;我们关心的很多事情都没有列入清单。只要不与上述目标冲突，就可以优化这些值。&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h2&gt;&lt;p&gt;Bug修复：&lt;/p&gt;
+&lt;p&gt;#9455：lib/api 测试不可靠，在 Fedora Linux 上失败率约为 50％
+#9499：fakeFS 中的数据竞争（测试）&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/4948f97822a0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/4948f97822a0&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Electerm(跨平台SSH桌面终端) v1.39.119 中文绿色版</title>
         <link>https://www.danlong360.com/post/electerm119/</link>
         <pubDate>Sat, 31 Aug 2024 08:20:33 +0800</pubDate>
