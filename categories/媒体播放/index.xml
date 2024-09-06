@@ -7,7 +7,157 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 03 Sep 2024 10:05:44 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 06 Sep 2024 09:17:39 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PotPlayer 240827(1.7.22319) Stable 去广告增强绿色版</title>
+        <link>https://www.danlong360.com/post/potplayer22319/</link>
+        <pubDate>Fri, 06 Sep 2024 09:17:39 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/potplayer22319/</guid>
+        <description>&lt;p&gt;Daum PotPlayer播放器是一款全能多媒体影音播放器,堪称Windows平台最强大的本地视频播放器.PotPlayer最新版拥有强劲播放引擎加速,支持DXVA,CUDA,QuickSync,多媒体播放器支持蓝光3D,其内置强大的编码器及滤镜/分离器,支持自定义添加解码器,对字幕的支持非常优秀,能兼容特效字幕及在线搜索字幕实时翻译.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/06/LROoskf4nw1M9TQ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;PotPlayer 240510(1.7.22227) 去广告绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;PotPlayer Version History - VideoHelp
+&lt;a class=&#34;link&#34; href=&#34;https://www.videohelp.com/software/PotPlayer/version-history&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.videohelp.com/software/PotPlayer/version-history&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;231220(1.7.22074)版本之后PotPlayer64.dll已被作者加壳防修改！&lt;/p&gt;
+&lt;p&gt;[240904] v240827(1.7.22319) 正式版
++ 添加 WEBP 格式到图像截取
++ 添加在图像源滤镜中将延迟时间设置为秒或更短的功能
++ 添加系统启动时自动运行功能
+- 修正快捷方式图标的大小设置无法反映的问题
+- 修正在某些情况下过滤重复文件设置被重置的问题
+- 修正使用某些编解码器播放时视频被识别为隔行扫描的问题
+- 修正使用 libVPX 8/9 解码时出现错误的问题
+- 修正播放 MP4 流时导航异常的问题
+- 修正浏览某些 FLV 文件速度缓慢的问题
+- 提高字幕输出速度&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;pot播放器,potplayer绿色精简版,potplayer绿色便携版
+1、去效验，去右下角空白广告弹窗！卸载可选备份设置
+2、禁止后台联网请求：境外广告、发送日志、检查升级
+3、集成额外的音频解码器及视频解码器组件：Open Codec for PotPlayer
+├—DTS, MLP, TrueHD编码器ModuleFFmpeg4FFmpegMininum64.dll
+├—S/W HEVC(H265)编码器PotPlayerModuleFFmpeg4FFmpeg64.dll
+├—Intel H.264 MVC 3D编解码器库 PotPlayerModulelibmfxsw(64).dll
+4、预设配置：常规设置 + 默认启用自定义解码器H.265/HEVC及硬件加速
+├—滤镜—视频解码器—内置解码器/DXVA设置—&amp;gt;使用硬件加速 (DXVA)
+├—滤镜—视频解码器—内置解码器/DXVA设置—解码器—&amp;gt;H.265/HEVC
+5、集成三款精选皮肤主题：简约暴风, ModernW10, Carefree (轻尘系列)
+6、删除TV直播列表, 登陆程序,日志管理, 消息通知, 多语言等不必要的文件&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;高速盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62706040-ccd521?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62706040-ccd521?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;百度盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1gPuKFnLD69GdDix6SWnECQ?pwd=hdw4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1gPuKFnLD69GdDix6SWnECQ?pwd=hdw4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;123盘 : &lt;a class=&#34;link&#34; href=&#34;https://www.123pan.com/s/PbbTjv-5xt4H&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.123pan.com/s/PbbTjv-5xt4H&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>弹弹play(本地视频&#43;弹幕播放器) v15.9.0 绿色版</title>
+        <link>https://www.danlong360.com/post/dandanplay/</link>
+        <pubDate>Fri, 06 Sep 2024 09:08:16 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/dandanplay/</guid>
+        <description>&lt;p&gt;一款全功能的“本地视频+弹幕”播放器，可以用它来播放本地硬盘中的视频文件，并可实时加载，观看网络上的弹幕，和大家一同交流看法与观点。软件支持播放绝大部分视频及音频格式内置搜索、加载网络弹幕功能。是将视频与弹幕相结合的影音播放工具，可以支持分析你的视频文件，将它与网络上的弹幕进行匹配，不管你看的是渣360p，还是高清1080p，它都能够帮你找到同一份弹幕，和所有观看此动画的朋友进行交流。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/06/l3aUt9NT5mAf1wn.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;弹弹play(本地视频&amp;#43;弹幕播放器) v15.5.0 绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1、支持的视频格式多，本地视频不用担心被删减和遮挡画面内容。
+2、视频智能识别，只要视频的内容相同，看到的就是同一份弹幕。
+3、能加载其他站点的弹幕。
+4、播放历史与更新提醒可以同步，并且与手机互通。
+5、支持视频插帧，可一键开启 Anime4K，实时提升低分辨率视频的清晰度。
+6、可以当作媒体库使用。
+7、支持高速下载种子等文件。
+8、提供远程访问功能，本地视频不必传来传去。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;媒体库新增连接到远程电脑上的弹弹play（PC版）功能，支持浏览文件、播放视频并自动匹配弹幕库、加载远程电脑上的外挂字幕文件
+番剧详情页“元数据”区域改为表格形式展示
+媒体库网页版优化：
+- 图片将按需加载（需要显示时才加载）
+- 优化番剧列表在手机上的展示样式
+「弹幕外挂」支持CapsLock全局热键显示/关闭弹幕层
+改进媒体库刷新文件的相关算法
+优化了选择弹幕库窗口的手动搜索框，支持自动填入当前番剧名称
+爱奇艺插件支持搜索
+修复了爱奇艺插件无法解析的问题
+修复了一个下载状态改变时可能会导致程序崩溃的问题
+修复了媒体库初始化时有可能出错的问题
+修复了下载器任务列表、媒体库文件列表中，多选状态错误的问题&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;高速盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62706031-ebf1c7?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62706031-ebf1c7?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;百度盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1cleAdgyk0Yxz-NN7R7CFMg?pwd=9b23&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1cleAdgyk0Yxz-NN7R7CFMg?pwd=9b23&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;123盘 : &lt;a class=&#34;link&#34; href=&#34;https://www.123pan.com/s/PbbTjv-ixt4H&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.123pan.com/s/PbbTjv-ixt4H&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>foobox(基于foobar2000的CUI界面配置) v7.33 重制版</title>
+        <link>https://www.danlong360.com/post/foobox733/</link>
+        <pubDate>Fri, 06 Sep 2024 08:49:11 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/foobox733/</guid>
+        <description>&lt;p&gt;foobox 是一个 foobar2000 默认用户界面 (DUI) 的皮肤配置，基于 jsplitter (Spider Monkey Panel 版) 组件，符合主流软件的审美，扩展功能丰富并保持软件的流畅运行.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/06/iDpM6jxGU8mTEPN.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240906085028029&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;制作和使用&#34;&gt;制作和使用
+&lt;/h3&gt;&lt;p&gt;foobox 中文版适用于 foobar2000 汉化版 by Asion ，使用以下第三方组件:
+ttsping 的歌词组件 ESLyric;
+基于 Spider Monkey Panel 的 JSplitter;
+foo_enhanced_spectrum_analyzer.&lt;/p&gt;
+&lt;p&gt;并修改使用以下优秀的代码部件:
+播放列表管理器，播放列表，封面浏览原作者 br3tt，汉化 always_beta;
+封面面板原作者 Jensen;
+搜索框原作者 Asion;
+简介面板作者 Wil-B;
+网络电台列表维护 范明明;&lt;/p&gt;
+&lt;p&gt;到最新 Releases (发行版) 页面下载安装包，从 7.24 起，安装包不再集成 foobar2000 汉化版，仅包含 foobox 主题及所需组件，绿色安装，自由便捷。
+从 7.26版开始增加 foobox 6 重制版，foobox 7 专注 64 位版，foobox 6 重制版为 32 位版，其实是在 foobox 7 的基础上添加 UI Hacks 并整合了两个版本的特点，适合喜欢隐藏菜单栏状态栏 UI 的朋友。
+额外的视频面板可选安装，它基于 foo-youtube 和 foo_input_ffmpeg 组件。
+完成后可以在 “主菜单&amp;ndash;视图&amp;ndash;布局&amp;ndash;快速设置”里切换各种 foobox 布局组合。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;修正播放列表管理器添加网络电台列表菜单有可能读取不到配置列表的问题。
+网络电台列表已经整合成一个预置列表 (不能在配置里删除)，foobox 配置里的额外电台列表地址已不再需要，请自行清空 (自己添加的除外)。
+修正一些已知 bug, 代码优化。
+所需组件升级。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;高速盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62705854-29d473?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62705854-29d473?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;百度盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1Z3kfu1_4lt2aqFPwuSnaMg?pwd=89a5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1Z3kfu1_4lt2aqFPwuSnaMg?pwd=89a5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;123盘 : &lt;a class=&#34;link&#34; href=&#34;https://www.123pan.com/s/PbbTjv-bxt4H&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.123pan.com/s/PbbTjv-bxt4H&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>TapinRadio(网络收音机软件) v2.15.98.2 多语便携版</title>
         <link>https://www.danlong360.com/post/tapinradio982/</link>
         <pubDate>Tue, 03 Sep 2024 10:05:44 +0800</pubDate>
