@@ -7,7 +7,39 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 06 Sep 2024 14:27:54 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 07 Sep 2024 09:52:04 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MusicFree v0.4.0 / v0.0.5 免费音乐播放器</title>
+        <link>https://www.danlong360.com/post/musicfree040/</link>
+        <pubDate>Sat, 07 Sep 2024 09:52:04 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/musicfree040/</guid>
+        <description>&lt;p&gt;MusicFree 是一款开源插件化、定制化、无广告的免费音乐播放器。支持Windows、MacOS、Linux和Android设备。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/07/vJ1Sq9PNliyhTWj.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240907095258822&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;应用特色&#34;&gt;应用特色
+&lt;/h3&gt;&lt;p&gt;插件化：本软件仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件。这也就意味着，只要可以在互联网上搜索到的音源，只要有对应的插件，你都可以使用本软件进行搜索、播放等功能。关于插件的详细说明请看插件一节。&lt;/p&gt;
+&lt;p&gt;插件支持的功能：搜索（音乐、专辑、作者）、播放、查看专辑、查看作者详细信息、导入单曲、导入歌单、获取歌词等。&lt;/p&gt;
+&lt;p&gt;定制化、无广告：本软件提供了浅色、深色模式；支持自定义背景；本软件基于 GPL 协议开源，一个 star 做交易 将会保持免费。&lt;/p&gt;
+&lt;p&gt;隐私：所有的数据都存储在本地，本软件不会收集你的任何个人信息。&lt;/p&gt;
+&lt;p&gt;歌词关联：你可以把两首歌的歌词关联起来，比如将歌曲 A 的歌词关联到歌曲 B，关联后 A、B 两首歌都将显示歌曲 B 的歌词。你也可以关联多首歌的歌词，如 A-&amp;gt;B-&amp;gt;C，这样 A、B、C 三首歌都将显示 C 的歌词。&lt;/p&gt;
+&lt;h3 id=&#34;安装提示&#34;&gt;安装提示
+&lt;/h3&gt;&lt;p&gt;“arm64-v8a”  : 第8代64位ARM处理器；与现代设备兼容并提供最佳性能
+“armeabi-v7a”: 第7代及以上的 32位ARM 处理器；与几乎所有设备兼容并且使用更少的内存
+“x86”和“x86_64”构建与模拟器和 Intel 兼容平板电脑兼容&lt;/p&gt;
+&lt;h3 id=&#34;应用下载&#34;&gt;应用下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/1f30e64dbbb7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/1f30e64dbbb7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>PDFelement Pro v11.0.7.3119 专业PDF软件</title>
         <link>https://www.danlong360.com/post/pdfelementzhuanyeban3319/</link>
         <pubDate>Fri, 06 Sep 2024 14:27:54 +0800</pubDate>

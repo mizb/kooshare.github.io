@@ -7,7 +7,112 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 06 Sep 2024 10:35:35 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 07 Sep 2024 09:54:18 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>NP管理器 v3.1.10 安卓逆向工具 官方版</title>
+        <link>https://www.danlong360.com/post/np3110/</link>
+        <pubDate>Sat, 07 Sep 2024 09:54:18 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/np3110/</guid>
+        <description>&lt;p&gt;NP管理器是一款安卓文件管理器和APK逆向修改工具。提供Apk反编译等安卓逆向功能，例如：Jar,Dex,Apk混淆及字符串加密、Dex,Jar,Smali互相转换、去VPN代理检查、去签名效验等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/07/2nN1TzJFor6ECuX.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240907095448237&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h3&gt;&lt;p&gt;主要包括对Apk、Dex、Jar、Smali、Pdf、视频和音频文件的功能。
+- Dex、Jar、Smali文件的相互转换；
+- Apk、Dex、Jar混淆和字符串加密；
+- Dex文件合并、分割；Res资源混淆(支持自定义字典)；
+- Apk签名、共存、去弹窗、去签名校验、去VPN/代理检测；
+- PDF合并、加密、分割、提取、解除加密、去限制、删分页；
+- 视频转码、剪切、提取音频/视频流、自定义音频/视频操作；
+- Apk加固判断，Dex编辑(批量删除类)；文件夹转码GBK&amp;lt;–&amp;gt;UTF-8；
+- 高兼容性字符串加密(Apk、dex)； Smali文件转Java；So文件查看字符常量；
+- 工具箱(常见字符串转换，如base64、des、md5、16进制、Unicode、去空白等)；
+- 一键添加Xposed检测，一键添加弹窗、对话框；
+- axml反编译/回编译、arsc文件查看字符常量；
+- 一键LOG注入，一键去除所有弹窗(Toast)；
+- 一键注入字符串解密LOG，Dex文件换包名；
+- 一键添加禁止截屏，一键添加Apk崩溃日志记录；
+- XML文本代码格式化；TXT文本文件对比；
+- 支持Smali、Java、AXML等编辑器内语法高亮；
+- Dex编辑Plus(支持搜索、编辑Smali和查看字符常量)；
+- 多种Apk字符串加密方案(推荐控制流混淆中的字符串加密)；
+- Apk超级混淆3.0–高效率直接对dex混淆，支持混淆四大组件，支持多dex；
+- Apk功能–DEX混淆对抗；Dex文件对比、Dex批量修复、Dex文件查看字符常量；
+- 一键提取Dex混淆字典，加密Dex中的资源ID；Apk对齐优化；超强版去除签名校验；
+- assets和res资源加密保护；class文件和jar包反编译；Dex功能-属性查看；Smali语法查询；
+- 控制流混淆 5.0-高效率全量加密字符串，方法隐藏，加密资源id，指令替换，dex优化等；&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/baa028d2d579&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/baa028d2d579&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MusicFree v0.4.0 / v0.0.5 免费音乐播放器</title>
+        <link>https://www.danlong360.com/post/musicfree040/</link>
+        <pubDate>Sat, 07 Sep 2024 09:52:04 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/musicfree040/</guid>
+        <description>&lt;p&gt;MusicFree 是一款开源插件化、定制化、无广告的免费音乐播放器。支持Windows、MacOS、Linux和Android设备。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/07/vJ1Sq9PNliyhTWj.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240907095258822&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;应用特色&#34;&gt;应用特色
+&lt;/h3&gt;&lt;p&gt;插件化：本软件仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件。这也就意味着，只要可以在互联网上搜索到的音源，只要有对应的插件，你都可以使用本软件进行搜索、播放等功能。关于插件的详细说明请看插件一节。&lt;/p&gt;
+&lt;p&gt;插件支持的功能：搜索（音乐、专辑、作者）、播放、查看专辑、查看作者详细信息、导入单曲、导入歌单、获取歌词等。&lt;/p&gt;
+&lt;p&gt;定制化、无广告：本软件提供了浅色、深色模式；支持自定义背景；本软件基于 GPL 协议开源，一个 star 做交易 将会保持免费。&lt;/p&gt;
+&lt;p&gt;隐私：所有的数据都存储在本地，本软件不会收集你的任何个人信息。&lt;/p&gt;
+&lt;p&gt;歌词关联：你可以把两首歌的歌词关联起来，比如将歌曲 A 的歌词关联到歌曲 B，关联后 A、B 两首歌都将显示歌曲 B 的歌词。你也可以关联多首歌的歌词，如 A-&amp;gt;B-&amp;gt;C，这样 A、B、C 三首歌都将显示 C 的歌词。&lt;/p&gt;
+&lt;h3 id=&#34;安装提示&#34;&gt;安装提示
+&lt;/h3&gt;&lt;p&gt;“arm64-v8a”  : 第8代64位ARM处理器；与现代设备兼容并提供最佳性能
+“armeabi-v7a”: 第7代及以上的 32位ARM 处理器；与几乎所有设备兼容并且使用更少的内存
+“x86”和“x86_64”构建与模拟器和 Intel 兼容平板电脑兼容&lt;/p&gt;
+&lt;h3 id=&#34;应用下载&#34;&gt;应用下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/1f30e64dbbb7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/1f30e64dbbb7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>南果视频 v2.1.1 安卓追剧软件</title>
+        <link>https://www.danlong360.com/post/nanguoshipin/</link>
+        <pubDate>Sat, 07 Sep 2024 09:49:27 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/nanguoshipin/</guid>
+        <description>&lt;p&gt;南果视频是一款安卓超清4K影视播放软件。支持电影、电视剧、动漫、综艺等视频在线播放，还有精选蓝光4K电影，支持多线路播放，提供高质量的追剧体验！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/07/QWUVEotPH3s6Bv5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240907095016455&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h2&gt;&lt;p&gt;by liu
+- 去除广告
+- 精简布局&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;夸克网盘 &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/eecfba4d9931&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/eecfba4d9931&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>AdGuard广告拦截器APP v4.7.32 Nightly / v4.6.81 Final</title>
         <link>https://www.danlong360.com/post/adguard4732/</link>
         <pubDate>Fri, 06 Sep 2024 10:35:35 +0800</pubDate>
