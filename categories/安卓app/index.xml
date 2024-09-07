@@ -7,7 +7,341 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 08 Sep 2024 00:52:25 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 08 Sep 2024 01:14:05 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>我们的电视 TV v3.2.6/手机 v3.2.6</title>
+        <link>https://www.danlong360.com/post/womendedianshi326/</link>
+        <pubDate>Sun, 08 Sep 2024 01:14:05 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/womendedianshi326/</guid>
+        <description>&lt;p&gt;开源软件我的电视(my-tv)，因极其流畅的体验获得许多用户的喜欢。由于开源的原因，现在已经出现了各种基于其修改的衍生版本。&lt;/p&gt;
+&lt;p&gt;今天这款也是其中之一，不仅有电视版，还出了手机专用的版本。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/ahKxky631JOmfIj.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240908011445648&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;v3.2.6
+修正声音问题
+修正潜在问题&lt;/p&gt;
+&lt;p&gt;电视版部分机型卡顿请使用3.1.1版本&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO6CU1_8L7_dPqe34YxAMuFuA1?pwd=64p4#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO6CU1_8L7_dPqe34YxAMuFuA1?pwd=64p4#&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>我的电视 v1.4.4/测试版v2.2.1 更好用的版本</title>
+        <link>https://www.danlong360.com/post/wodedianshi221/</link>
+        <pubDate>Sun, 08 Sep 2024 01:11:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/wodedianshi221/</guid>
+        <description>&lt;p&gt;我的电视又一版本，个人觉得UI布局更加合理且美观，而且安装包更小巧，只有3M多，换台依旧快速&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/FAWbBD6KSr1Vxu2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240908011226084&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;测试版2.2.1
+修复
+尝试修复播放器会黑屏只有声音&lt;/p&gt;
+&lt;p&gt;修复设置本地直播源时未申请文件权限&lt;/p&gt;
+&lt;p&gt;v1.4.4
+修复
+修复设置网页无法打开&lt;/p&gt;
+&lt;p&gt;v2.1.2测试版不会覆盖1.4.3
+手机、触摸屏用户请关闭焦点优化（更多设置-界面-焦点优化），关闭后可解决触摸设备在部分场景下闪退
+新增
+支持回放&lt;/p&gt;
+&lt;p&gt;新增播放控制（长按方向键下）&lt;/p&gt;
+&lt;p&gt;新增常驻底部节目进度&lt;/p&gt;
+&lt;p&gt;优化
+修复混合模式频道未对应正确&lt;/p&gt;
+&lt;p&gt;优化自定义直播源推送&lt;/p&gt;
+&lt;p&gt;优化焦点&lt;/p&gt;
+&lt;p&gt;修复
+修复部分场景下闪退&lt;/p&gt;
+&lt;p&gt;破坏
+本地直播源将无法正常使用，请删除后重新添加&lt;/p&gt;
+&lt;p&gt;v1.4.3
+新增
+新增超时换源、断线重连&lt;/p&gt;
+&lt;p&gt;支持rtsp&lt;/p&gt;
+&lt;p&gt;新增全局画面比例&lt;/p&gt;
+&lt;p&gt;优化
+默认禁用画中画&lt;/p&gt;
+&lt;p&gt;修复
+尝试修复手机端设置界面直接退出应用&lt;/p&gt;
+&lt;p&gt;v1.4.2
+新增
+新增自定义播放器UA&lt;/p&gt;
+&lt;p&gt;新增后台时画中画&lt;/p&gt;
+&lt;p&gt;优化
+优化节目单、收藏显示逻辑&lt;/p&gt;
+&lt;p&gt;优化经典选台界面UI&lt;/p&gt;
+&lt;p&gt;优化设置界面&lt;/p&gt;
+&lt;p&gt;优化tvbox直播源解析&lt;/p&gt;
+&lt;p&gt;经典选台界面支持多天节目单&lt;/p&gt;
+&lt;p&gt;优化toast样式&lt;/p&gt;
+&lt;p&gt;修复
+修复手机端无法点击更新按钮&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO6CTVNDQUrezP75Vc3bKUqsA1?pwd=q7hr#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO6CTVNDQUrezP75Vc3bKUqsA1?pwd=q7hr#&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>bilimiao v2.3.9 第三方哔哩哔哩</title>
+        <link>https://www.danlong360.com/post/bilimiao239/</link>
+        <pubDate>Sun, 08 Sep 2024 01:09:23 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/bilimiao239/</guid>
+        <description>&lt;p&gt;经常折腾软件应用的人就会知道，很多第三方开发的APP比原版要好用，因为往往开发这些第三方版本的都是其原版深度用户，知道痛点在哪里，比如减少广告；那么今天的对象依旧是大家熟悉的B站。&lt;/p&gt;
+&lt;p&gt;这款第三方B站应用，分享迷觉得应该是目前最强的版本，以往给大家分享的如bbll、bilibilitv等只是简单将B站视频移植到大屏观看，而这款实现的功能要强很多。&lt;/p&gt;
+&lt;p&gt;如时间线、无广告、支持下载等等，最好用的第三方版本——bilimiao&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/176RPt5OnEGDXjB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240908010951832&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;v2.3.9
+更新时间：2024-09-01 18:27:38&lt;/p&gt;
+&lt;p&gt;1、新增 视频详情页支持控制跳转合集详情及播放列表
+2、新增 播放器小电视loading
+3、新增 播放列表支持拖拽移动、移除功能
+4、修改 compose页面导航动画
+5、修改 首页及搜索页面tab栏居中显示
+6、修复 崩溃BUG
+v2.3.8.3
+更新时间：2024-07-28 20:47:46&lt;/p&gt;
+&lt;p&gt;1、新增 APP设置页面退出登录按钮
+2、修复 时光机分区视频列表经常报错问题
+3、修复 关闭后台播放时APP切换回来弹幕停止问题
+4、修复 打开UP主详情页时弹出“网络错误”问题
+v2.3.8.2
+更新时间：2024-07-08 21:29:59&lt;/p&gt;
+&lt;p&gt;1、修复 compose页面下拉刷新闪退问题
+2、修复 视频播放时无法切换分P
+3、修复 我的追番列表为空闪退问题
+v2.3.8.1
+更新时间：2024-07-07 01:28:53&lt;/p&gt;
+&lt;p&gt;1、修复 番剧详情页及其它页面闪退问题
+2、修复 后台播放设置项目开关无效问题
+&amp;mdash;&amp;ndash;2.3.8版本更新内容&amp;mdash;&amp;ndash;
+1、新增 全新的设置页面
+2、新增 全新我的追番页面
+3、新增 APP程序崩溃日志显示
+4、新增 播放列表支持中途添加视频
+5、新增 视频详情页上次播放显示
+6、修复 部分闪退BUG，使APP更加稳定
+注意：由于重构了设置模块，此版本会清除旧版本的设置内容(不包括屏蔽设置及区域代理设置)，请更新后重新设置
+v2.3.7
+更新时间：2024-06-09 00:44:13&lt;/p&gt;
+&lt;p&gt;1、增加 全新的收藏页面
+2、增加 播放歌词页面(2894638479提供)
+3、增加 播放列表支持收藏夹(2894638479提供)
+4、优化 竖屏小屏播放滚动折叠逻辑(2894638479提供)
+长风破浪会有时，直挂云帆济沧海。
+v2.3.6.2
+更新时间：2024-05-01 20:15:18&lt;/p&gt;
+&lt;p&gt;1、修复 部分关键字(如考研)搜索视频时出现异常&lt;/p&gt;
+&lt;p&gt;v2.3.6
+更新时间：2024-04-29 22:43:30&lt;/p&gt;
+&lt;p&gt;1、增加 我的关注分组及搜索
+2、增加 播放焦点占用设置
+3、调整 首页操作菜单栏按钮
+4、修复 搜索内容不完整问题
+5、修复 通知栏播放控制的各种问题
+6、修复 返回按钮长按功能
+7、修复 播放器长按倍数播放时进度乱跳及小窗和分屏细节调整(2894638479提供)
+祝五一劳动节快乐，ᓚᘏᗢ
+v2.3.5
+更新时间：2024-04-04 15:00:00&lt;/p&gt;
+&lt;p&gt;1、增加 播放列表功能
+2、增加 视频详情页合集显示
+3、增加 应用内字体缩放设置
+4、增加 实验性功能，分屏显示(&lt;a class=&#34;link&#34; href=&#34;https://github.com/2894638479&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;2894638479&lt;/a&gt;提供)
+5、增加 小屏状态长按弹幕发送按钮切换弹幕显示状态(&lt;a class=&#34;link&#34; href=&#34;https://github.com/2894638479&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;2894638479&lt;/a&gt;提供)
+6、调整 侧滑页面最大宽度400dp
+7、调整 侧滑页面支持全局侧边滑出
+8、修复 评论详情只加载2页(&lt;a class=&#34;link&#34; href=&#34;https://github.com/2894638479&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;2894638479&lt;/a&gt;提供)
+9、修复 视频合集分页加载
+10、修复 标签屏蔽部分bug(&lt;a class=&#34;link&#34; href=&#34;https://github.com/Itsusinn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Itsusinn&lt;/a&gt;提供)
+11、完善 无障碍标签描述
+12、完善 内置浏览器部分功能
+13、完善 横屏播放窗口拖拽调整大小等功能(&lt;a class=&#34;link&#34; href=&#34;https://github.com/2894638479&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;2894638479&lt;/a&gt;提供)
+14、完善 消息页面评论详情跳转
+v2.3.4
+1、修复 网页登录功能
+2、增加 扫码功能（适用于电脑端与手机端扫码接力播放，目前还不支持扫码登录）
+3、改善 横屏状态（平板）的播放体验(2894638479提供)
+4、增加 小屏播放器窗口比例均自动与视频内容适应(2894638479提供)
+5、增加 横屏状态（平板）小窗播放支持挂起到右侧边缘(2894638479提供)
+6、增加 小屏播放器窗口比例均自动与视频内容适应(2894638479提供)
+7、增加 竖屏状态（手机）小窗播放高度过高时，支持跟随滚动收缩高度
+8、修复 番剧搜索(2894638479提供)
+9、增加 拔下耳机自动暂停播放(2894638479提供)
+10、增加 屏蔽设置支持标签屏蔽(Itsusinn提供)
+11、增加 支持打开详情页自动打开播放器，需在设置手动打开
+12、修复 部分合集详情显示不相符列表
+13、修复 上个版本记忆播放失效问题
+14、增加 全屏播放时打开弹幕设置自动定位到全屏弹幕设置
+稳定版本，推荐更新(๑•̀ㅂ•́)و✧
+v2.3.3
+最新版本：2.3.3
+更新时间：2024-02-09 03:31:08
+1、增加消息页面
+2、投稿页面增加视频合集
+3、播放器支持设置画面比例
+4、侧拉界面增加播放状态显示
+5、调整应用工具栏背景风格
+6、调整播放器手势调整进度偏移度
+7、修改屏蔽设置页面，同时首页推荐和热门支持屏蔽设置
+8、评论列表增加UP主标识显示
+9、内置弹幕字体，修复设备弹幕字体不一致问题
+10、升级compose版本至1.5，优化compose页面性能&lt;/p&gt;
+&lt;p&gt;v2.3.1
+更新时间：2024-01-01 00:00:00
+1、增加简单的稍后再看功能，后续再调整优化
+2、增加收藏夹内视频搜索功能
+3、调整搜索页面打开方式
+4、修复番剧下载，页面改成由底部弹出
+5、修复dpi修改后，横竖屏切换后字体变小问题
+6、修复播放器竖屏小窗播放时，底部内容被遮挡
+7、修复视频简介文字及评论文字链接和ID高亮错位问题
+8、优化横屏时应用内小窗播放拖动操作
+2024，新年快乐(●&amp;rsquo;◡&amp;rsquo;●)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8fcd4c175565&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8fcd4c175565&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>我的電視·〇(my-tv-0) v1.3.7.12 超流畅电视直播播放器</title>
+        <link>https://www.danlong360.com/post/mytv3712/</link>
+        <pubDate>Sun, 08 Sep 2024 01:06:10 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/mytv3712/</guid>
+        <description>&lt;p&gt;很多人非常喜欢我的电视(my-tv)这款直播软件，他确实是目前免费直播里面体验相当不错的一款，极为流畅。&lt;/p&gt;
+&lt;p&gt;那么最近该作者又开发了另外一款不同UI风格的直播，可自定义，自带的源和我的电视(my-tv)一样&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/OdawSCLIecEvfx8.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240908010642237&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;h3 id=&#34;v13712&#34;&gt;v1.3.7.12
+&lt;/h3&gt;&lt;p&gt;修復txt分組錯誤問題&lt;/p&gt;
+&lt;h3 id=&#34;v1375&#34;&gt;v1.3.7.5
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;時間顯示秒&lt;/li&gt;
+&lt;li&gt;支持三位頻道號&lt;/li&gt;
+&lt;li&gt;解决開機白屏问题&lt;/li&gt;
+&lt;li&gt;恢復默認後自動播放默認頻道&lt;/li&gt;
+&lt;li&gt;修復頻道記憶失敗的問題&lt;/li&gt;
+&lt;li&gt;修復菜單部分情況下無法選擇的問題&lt;/li&gt;
+&lt;li&gt;可設置EPG地址&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;v13511&#34;&gt;v1.3.5.11
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;可配置緊湊的菜單&lt;/li&gt;
+&lt;li&gt;其他一些細節優化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;v134&#34;&gt;v1.3.4
+&lt;/h3&gt;&lt;p&gt;一些樣式優化&lt;/p&gt;
+&lt;h3 id=&#34;v132&#34;&gt;v1.3.2
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;固定遠程配置端口為34567&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;優化配置樣式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可配置是否顯示全部頻道&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;同頻道多視頻地址合併&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;更新了默認的視頻源，已安裝過的用戶需要在配置裡恢復默認&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“收藏模式”下，上下按鍵頻道只會在收藏列表裡進行切換&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;v128&#34;&gt;v1.2.8
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;修復部分視頻源無法播放的問題&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修復一些閃退問題&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;簡單支持EPG&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;類別樣式優化&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;v126&#34;&gt;v1.2.6
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;解決切換頻道時黑屏問題&lt;/li&gt;
+&lt;li&gt;解決部分配置地址請求失敗的問題&lt;/li&gt;
+&lt;li&gt;支持配置代理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;v121&#34;&gt;v1.2.1
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;修复部分设备网络地址获取错误的问题&lt;/li&gt;
+&lt;li&gt;恢复默认的时候会清除收藏&lt;/li&gt;
+&lt;li&gt;修复一些崩溃问题&lt;/li&gt;
+&lt;li&gt;手机支持收藏功能&lt;/li&gt;
+&lt;li&gt;修复样式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;v118&#34;&gt;v1.1.8
+&lt;/h3&gt;&lt;p&gt;频道列表优化&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO6CSLcF3w6nlrI1XErMXsHjA1?pwd=c8v2#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO6CSLcF3w6nlrI1XErMXsHjA1?pwd=c8v2#&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Destiny v1.5.5 抖音增强模块</title>
         <link>https://www.danlong360.com/post/destiny155/</link>
         <pubDate>Sun, 08 Sep 2024 00:52:25 +0800</pubDate>
