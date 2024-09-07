@@ -7,7 +7,361 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 07 Sep 2024 21:59:37 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 08 Sep 2024 00:52:25 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Destiny v1.5.5 抖音增强模块</title>
+        <link>https://www.danlong360.com/post/destiny155/</link>
+        <pubDate>Sun, 08 Sep 2024 00:52:25 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/destiny155/</guid>
+        <description>&lt;p&gt;抖音助手(Destiny)抖音去广告增强模块是一款抖音短视频去广告及去视频水印的Xposed插件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/pQJ2lhNP7w1ZcXH.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240908005307078&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;模块特色&#34;&gt;模块特色
+&lt;/h3&gt;&lt;p&gt;抖音助手(Destiny)功能说明:
+功能：防烧屏, 全屏模式, 自动播放, 禁止点赞, 全屏显文案, 视频过滤, 自定义顶栏标签等;
+使用：长按上半屏幕，即可触发进入模块设置界面，可以自定义设置屏幕上下触发操作;&lt;/p&gt;
+&lt;p&gt;● 无水印下载功能 (视频下载,音频下载, 文案复制)
+● 视频工具 (单独查询视频作品发布人的地理位置)
+● 常用功能 (自动连播, 防烧屏, 隐藏状态栏, 禁用双击点赞, 返回刷新)
+● 全屏功能 (全屏模式, 全屏显示文案, 显示侧栏, 暂停时不显示控件)
+● 其它功能 (全局沉浸, 评论区暗色模式, 使用长评论, 两侧快进)
+● 视频过滤（去除其它, 去除直播, 去除图集, 去除购物, 去除游戏）
+● 自定义功能 (长按自定义设置支持传感器控制, 定时退出设置)&lt;/p&gt;
+&lt;h3 id=&#34;安装提示&#34;&gt;安装提示
+&lt;/h3&gt;&lt;p&gt;- 抖音必须先给予 &amp;ldquo;文件和媒体&amp;rdquo; 权限，用于储存模块配置文件
+- 首次启动抖音APP可能会出现连续报错，关闭抖音重启即可！&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;百度网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1jlDPbxL7rOECrJALYE7CMg?pwd=jmmm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1jlDPbxL7rOECrJALYE7CMg?pwd=jmmm&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>抖音 v24.4.0 内置Destiny增强版</title>
+        <link>https://www.danlong360.com/post/douyin2440/</link>
+        <pubDate>Sun, 08 Sep 2024 00:50:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/douyin2440/</guid>
+        <description>&lt;p&gt;抖音是一款由字节跳孵化的全球最受欢迎的短视频社交平台。抖音助手(Destiny)抖音去广告增强模块是一款抖音短视频去广告及去视频水印的Xposed插件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/CIDuW8MZBoiqjgt.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240908005117696&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;安装提示&#34;&gt;安装提示
+&lt;/h3&gt;&lt;p&gt;使用：长按上半屏幕，即可触发进入模块设置界面，可以自定义设置屏幕上下触发操作；&lt;/p&gt;
+&lt;p&gt;- 抖音必须先给予 &amp;ldquo;文件和媒体&amp;rdquo; 权限，用于储存模块配置文；
+- 首次启动抖音APP可能会出现连续报错，关闭抖音重启即可！&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;百度网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1Wm_nJpzLmV4lBd_XKAdl7Q?pwd=n7k7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1Wm_nJpzLmV4lBd_XKAdl7Q?pwd=n7k7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>抖音 v24.1.0 内置LanFeng增强版</title>
+        <link>https://www.danlong360.com/post/douyin2410/</link>
+        <pubDate>Sun, 08 Sep 2024 00:40:10 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/douyin2410/</guid>
+        <description>&lt;p&gt;抖音是一款由字节跳孵化的全球最受欢迎的短视频社交平台。抖音助手(LanFeng)抖音去广告增强模块是一款抖音短视频去广告及去视频水印的Xposed插件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/zKSuVndTbZMlWrs.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240908004031894&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;安装提示&#34;&gt;安装提示
+&lt;/h3&gt;&lt;p&gt;长按屏幕上面三分之一触发菜单&lt;/p&gt;
+&lt;p&gt;- 抖音必须先给予 &amp;ldquo;文件和媒体&amp;rdquo; 权限，用于储存模块配置文件
+- 首次启动抖音APP可能会出现连续报错，关闭抖音重启即可！&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;百度网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1r0o1papRlXW0UllIlSBo7A?pwd=iktw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1r0o1papRlXW0UllIlSBo7A?pwd=iktw&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VodkaMod(抖音&#43;) v2.5 抖音增强模块</title>
+        <link>https://www.danlong360.com/post/douyin25/</link>
+        <pubDate>Sun, 08 Sep 2024 00:37:54 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/douyin25/</guid>
+        <description>&lt;p&gt;抖音助手(VodkaMod)抖音去广告增强模块是一款抖音短视频去广告及去视频水印的Xposed插件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/ownQZvOxBrNXKJ5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240908003824011&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;模块特色&#34;&gt;模块特色
+&lt;/h3&gt;&lt;p&gt;抖音助手(VodkaMod) 功能说明：
+去广告、全屏模式、自动播放、禁止点赞、全屏显文案、视频过滤、自定义顶栏标签等;&lt;/p&gt;
+&lt;p&gt;触发方式：
+长按右侧评论[图标] 即可触发模块设置菜单，自定义设置长按屏幕上下部分触发;&lt;/p&gt;
+&lt;p&gt;【主菜单】
+[自动播放]：自动播放下一个视频，建议配合[跳过直播]使用。
+[禁用双击点赞]：双击视频不点赞，防止误赞，别让爱给的太多~
+[状态栏沉浸]：状态栏和抖音底部透明化，变成视频背景，但视频会被放大。
+[状态栏隐藏]：直接去状态栏，不显示文字和图标（部分手机请手动打开:系统设置-显示-全屏应用程序-(抖音)显示相机图案）
+[去广告]：去除各种小广告，视频广告等等。
+[进度条倍速]：长按视频底部进度条位置实现倍速
+[左右侧倍速]：长按屏幕两边可以实现倍速看视频
+[全屏化播放] ：已改请使用【界面透明度】全局设置 为：0
+[纯视频全屏]： 已改请使用【界面透明度】作品描述 为：0-100
+[性能模式]：
+打开后，在抖音设置菜单会出现[极速性能模式]，可在这里启用或关闭。
+注: 部分手机无法生效(如三星)！同时，小部分手机开启后，会出现闪退。&lt;/p&gt;
+&lt;p&gt;【无水印下载】【下载音乐】【复制文案】
+下载高清无水印视频，图片，音乐；复制文案。
+文件储存路径 /storage/emulated/0/DCIM/TiktokMod/&lt;/p&gt;
+&lt;p&gt;【界面透明度】
+替代全屏模式，控制方式更高级，自定义界面所有控件透明度。全屏模式直接全局设置0即可！
+PS：高级版，可设置为 -1，相当于移除了控件，不是透明度！&lt;/p&gt;
+&lt;p&gt;【自定义顶部标签】
+自定义顶栏标签。如，顶部只显示:[关注]-[推荐]。只选[推荐]，那么顶栏tab消失，干净简洁。&lt;/p&gt;
+&lt;p&gt;【视频过滤】
+可以屏蔽不想看的视频，还短视频一个朗朗乾坤。不想刷到[直播]也这里选择。
+比如过滤：图集、购物、朋友回关、商家推送…… 逐步开放，PS：捐助版全部开放使用！&lt;/p&gt;
+&lt;p&gt;【屏幕自定义操作】
+长按操作，选择屏幕上下部分触发功能，比如分别让屏幕1/2上面长按触发评论，下面部分长按触发官方原来的快捷操作栏。
+双击操作，也可以同样设置。目前可选择[打开抖音+菜单]、[打开评论区]、[原版快捷栏]、[取消点赞]、[历史记录]&lt;/p&gt;
+&lt;h3 id=&#34;安装提示&#34;&gt;安装提示
+&lt;/h3&gt;&lt;p&gt;长按【评论】按钮，调出抖音助手设置界面&lt;/p&gt;
+&lt;p&gt;- 关于评论区暗色，需要配合抖音“经典”背景颜色使用，会自动适应颜色；
+- 无水印下载必须开启存储权限，模块自身并没有判断这个权限， 若不给存储权限下载则闪退。
+- 个别机型模块开启后功能失效，建议卸载后重装抖音，或者删除抖音数据目录下的tiktokHelper.txt。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;百度网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1FTSY6kanhPn7NPQR37XMjQ?pwd=r66u&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1FTSY6kanhPn7NPQR37XMjQ?pwd=r66u&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>抖音 v23.9.0-内置VodkaMod增强版</title>
+        <link>https://www.danlong360.com/post/douyin2390/</link>
+        <pubDate>Sun, 08 Sep 2024 00:35:54 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/douyin2390/</guid>
+        <description>&lt;p&gt;抖音是一款由字节跳孵化的全球最受欢迎的短视频社交平台。抖音助手(VodkaMod)抖音去广告增强模块是一款抖音短视频去广告及去视频水印的Xposed插件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/E7QOKHa6fGSRwDp.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240908003632896&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;安装提示&#34;&gt;安装提示
+&lt;/h3&gt;&lt;p&gt;# 长按【评论】按钮，调出抖音助手设置界面&lt;/p&gt;
+&lt;p&gt;- 关于评论区暗色，需要配合抖音“经典”背景颜色使用，会自动适应颜色；
+- 无水印下载必须开启存储权限，模块自身并没有判断这个权限， 若不给存储权限下载则闪退。
+- 个别机型模块开启后功能失效，建议卸载后重装抖音，或者删除抖音数据目录下的tiktokHelper.txt。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;百度网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1-aZNCoedukGOIJxGKUyhow?pwd=mt6w&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1-aZNCoedukGOIJxGKUyhow?pwd=mt6w&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>美剧侠 v2.2.4.0 去广告版</title>
+        <link>https://www.danlong360.com/post/meijuxia2240/</link>
+        <pubDate>Sun, 08 Sep 2024 00:33:34 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/meijuxia2240/</guid>
+        <description>&lt;p&gt;美剧侠是一款安卓免费美剧类影视播放软件。美剧侠提供全网美剧影视资源，主打美剧免费在线观看，热门美剧第一时间更新，独家高清线路和高清蓝光画质，中英双语字幕，喜欢美剧的朋友快来下载试试吧！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/kwQ89Jav6yYbHPl.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240908003357714&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;by zhou45(周先生)
+- 无需分享推广，免费观看所有影视
+- 去开屏广告，禁启动下载推广软件&lt;/p&gt;
+&lt;h3 id=&#34;注意弹窗&#34;&gt;注意弹窗
+&lt;/h3&gt;&lt;p&gt;此软件为第三方人员修改，弹窗加XX群提示与本站无关
+请大家不要轻信，弹窗直接点击 “不再提示”关闭即可&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;百度网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1TZ6QrkV97N15qpzjsH-g6Q?pwd=2j94&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1TZ6QrkV97N15qpzjsH-g6Q?pwd=2j94&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小熊录屏 v2.4.6.8 去广告解锁VIP版</title>
+        <link>https://www.danlong360.com/post/xiaoxiongluping2468/</link>
+        <pubDate>Sun, 08 Sep 2024 00:31:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/xiaoxiongluping2468/</guid>
+        <description>&lt;p&gt;小熊录屏（原安卓录屏大师）是一款安卓高清视频录制的录屏应用，能帮助用户录制流畅清晰的手机屏幕视频。 小熊录屏功能丰富，无需Root 即可使用，可以帮助用户录制游戏过程、视频通话、直播节目以及其它各类视频。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/gcWoM9vb4aBs5zr.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240908003200000&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;★ 屏幕录制 ★
+小熊录屏提供以下免费功能：
+多种视频分辨率、码率和帧率供选择，可录制高清视频
+可启用前置摄像头
+可录制外部声音
+可通过悬浮窗或通知栏控制录制，录制中可隐藏悬浮窗
+可显示录制过程中的点击操作
+可将视频保存至SD卡
+视频编辑功能：支持视频剪切与拼接、添加音乐&lt;/p&gt;
+&lt;p&gt;★ 截屏与图片编辑 ★
+轻点截屏键，即可轻松截取屏幕图片，单手即可操作，快速又简单！你还可以分享你的截图，或使用应用内提供的图片编辑工具对图片进行拼接、模糊、裁切等操作。&lt;/p&gt;
+&lt;p&gt;★ 查看并分享视频 ★
+将视频分享到朋友圈或视频网站，让更多朋友看到你录制的视频！&lt;/p&gt;
+&lt;p&gt;★ RTMP直播 ★
+支持RTMP推流直播，可以将你的屏幕直播到各大直播平台！
+支持直播分辨率设置，支持高清直播
+可开启前置摄像头
+支持画笔功能，可在屏幕上绘制&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v2.4.6.2
+1、产品内细节优化
+v2.4.6
+优化应用内使用体验。
+v2.4.4
+新增视频去水印功能，快来体验吧～&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;by 黑鹰(Black Hawk)
+- 解锁会员高级功能，无需登录
+- 去更新提示，可兼容华为设备&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;百度网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1ZXC1aRaKP9K8E9mJGZufeQ?pwd=b5tm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1ZXC1aRaKP9K8E9mJGZufeQ?pwd=b5tm&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>哔哩哔哩 v6.40.0 真我定制无广告版</title>
+        <link>https://www.danlong360.com/post/bilibili640/</link>
+        <pubDate>Sun, 08 Sep 2024 00:29:31 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/bilibili640/</guid>
+        <description>&lt;p&gt;哔哩哔哩真我Realme GT Neo定制版是一款纯净无广告的哔哩哔哩APP。哔哩哔哩真我定制版：体积小，无广告，无升级，深度修改后，可搜索番剧，无需大会员免费看4K/1080P画质，兼容Android12以上版本。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/ng2NhEdS1bUc9FL.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240908003001176&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;二改：by wushidi
+- 解除版权限制，可以搜索番剧
+- 可以查看拉黑了你的人的空间
+- 设置界面布局优化、优化存储重定向
+- 添加回了Tab（首页tab，底栏：首页，动态，我的）
+- 点亮本地大会员，可免费切换4K超清/1080P的60帧画质
+- 移除直播间特效下载、移除首页竖屏视频（by v_dream）&lt;/p&gt;
+&lt;p&gt;2022.06.25
+- 更好的修复无法搜索番剧（感谢 v_dream）
+- 现在可以正常搜索番剧且首页无竖屏视频推送&lt;/p&gt;
+&lt;p&gt;2022.06.20
+- 优化直播间布局
+- 点亮本地大会员图标&lt;/p&gt;
+&lt;p&gt;- 底包修改：by youthkinga，特别鸣谢：Dio
+- 初始版本：Realme GT Neo 定制版 v6.40.0
+- 初始版特点：64位，体积小，基本无广告，无升级提示
+- 支持安卓10以上版本（@targetsdk31，原包最低就安卓10不是我改的）
+- 不支持修改解码模式（阿B砍的太干净了）&lt;/p&gt;
+&lt;p&gt;# 修改内容：
+- 深度去广告纯净版，去各种广告、无升级，可以养老
+- 布局精简（移除首页tab，底栏：首页，动态，我的）
+- 移除大量云控内容、存储重定向、移除无用权限
+- 移除三连提示，青少年弹窗等；移除 tbs下载
+- 修改启动页跟随系统深色（只是启动页）
+- 移除无用资源，以减小存储空间占用
+- 其他各种细节优化修改&lt;/p&gt;
+&lt;p&gt;# 关于此版是否支持哔哩漫游插件？
+- 不支持漫游的顶栏和底栏布局精简，其他功能正常&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;百度网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1JTFetc1nXn0SLedHkVmlPQ?pwd=8qrw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1JTFetc1nXn0SLedHkVmlPQ?pwd=8qrw&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>百度地图 v19.4.0(1310) Google Play谷歌版</title>
+        <link>https://www.danlong360.com/post/baiduditu1940/</link>
+        <pubDate>Sun, 08 Sep 2024 00:25:23 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/baiduditu1940/</guid>
+        <description>&lt;p&gt;百度地图是新一代人工智能地图，是为用户提供智能路线规划及导航、地点查询、智能旅游等出行相关服务的平台，支持全局语音操控，AR实景导航等全新交互模式。百度地图国际化地图已覆盖全球200多个国家及地区。致力于为用户提供更准确、更丰富、更易用的出行服务。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/nROHztMA8jCU6uy.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240908002645434&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;【智能语音】
+-语音技术行业领先，可实现全端唤醒，全局操控
+-喊“小度小度”，轻松查路线、搜地点、问天气，沿途搜等&lt;/p&gt;
+&lt;p&gt;【智能规划】
+-提供包含打车、驾车、公交、步行、骑行、火车、飞机等出行方式的智能规划方案
+-全国范围内，提供多种交通方式组合的智能出行方案
+-提供未来7天，任意时刻出行路线规划，方便提前查看
+-时间优先，躲避拥堵，少收费，不走高速等多种路线偏好任你选择&lt;/p&gt;
+&lt;p&gt;【智能导航】
+-路况秒级更新，实时推荐更优路线，智能躲避拥堵
+-智能定位，GPS信号弱也能持续导航
+-公交导航到站提醒，实时公交覆盖多城&lt;/p&gt;
+&lt;p&gt;【智能推荐】
+-根据个人出行时间、方式等偏好，个性化推荐优质方案
+-发现周边，一键发现身边吃喝玩乐好去处
+-智能旅游，游玩路线推荐、AI导游跟随讲解、AR导览实景带路，让你玩转景区&lt;/p&gt;
+&lt;h2 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h2&gt;&lt;p&gt;百度地图谷歌版特点：
+- 谷歌版提供64位版，启动无广告！
+- 首页无悬浮广告（拉新抢红包活动）
+- 首页右侧便捷工具按钮：无打车、无消息
+- 个人中心无：活动专区、地图动态、小程序等小卡片
+- 隐私条款严，无强制升级弹窗，关于界面无检查更新&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/15b1865aef46&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/15b1865aef46&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;百度网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1v6hkrV-9EuembBNPSYaJ6A?pwd=jxg8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1v6hkrV-9EuembBNPSYaJ6A?pwd=jxg8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>365Scores安卓版(查看体育赛事比分) v13.6.6 修改版</title>
         <link>https://www.danlong360.com/post/365scores/</link>
         <pubDate>Sat, 07 Sep 2024 21:59:37 +0800</pubDate>
