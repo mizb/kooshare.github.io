@@ -10400,8 +10400,8 @@ SHA256: 3F97EE7501D681926E509037572F9E49BE62C6D47EF3402539A41E0D3A0C3CA6&lt;/p&g
 MD5: 2D6924AC0FF5D2D49DE02DAEF71C77B4
 SHA256: AA8732BF3962B6894E76F48163454F134A83C7BE71647E5BAD6464F76D131092&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2c599f745d6b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://pan.quark.cn/s/2c599f745d6b&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d1c703193bdb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d1c703193bdb&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -10507,57 +10507,6 @@ V4更新：
 </description>
         </item>
         <item>
-        <title>Windows 11 22H2 Build 22621.2506 RTM ISO镜像</title>
-        <link>https://www.danlong360.com/post/rtm22621/</link>
-        <pubDate>Tue, 13 Aug 2024 00:36:36 +0800</pubDate>
-        
-        <guid>https://www.danlong360.com/post/rtm22621/</guid>
-        <description>&lt;p&gt;微软Win11系统下载,微软Win11 22H2正式版,微软Win11 Build 22621正式版,微软Windows 11 22H2正式版,Windows 11 22H2官方正式版首个初始版的微软原版ISO镜像于2022年9月推出,系统版本为22H2,OS内部版本为22621,软件超小杯提供的Win11系统为微软官方原版集成累积更新的完整版ISO镜像.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.rjcxb.com/img/cover/windows/274/01.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Windows 11 22H2 Build RTM&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;UUP dump（第三方查询下载页面）
-&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly91dXBkdW1wLm5ldC8/bGFuZz16aC1jbg==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://uupdump.net/?lang=zh-cn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Windows 11 – 版本信息 | Microsoft Docs
-&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vemgtY24vd2luZG93cy9yZWxlYXNlLWhlYWx0aC93aW5kb3dzMTEtcmVsZWFzZS1pbmZvcm1hdGlvbg==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://docs.microsoft.com/zh-cn/windows/release-health/windows11-release-information&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;2023年10月26号累积更新发布 Windows 11 Version 22H2 with Update [22621.2506]&lt;/p&gt;
-&lt;p&gt;10月累积更新正式版 (KB5031455) Windows 11 22H2 (OS build 22621.2506) Update
-&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vemgtY24vaGVscC81MDMxNDU1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://support.microsoft.com/zh-cn/help/5031455&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;[Windows 11 NI-22H2]22621.2506 原版集成映像 23年10月第2次更新 – ananhaid&lt;/p&gt;
-&lt;p&gt;● 13合1：直接选取所需版本即可安装，也支持安装之后使用其他密钥转换版本，包含版本为：
-﹂家庭版、专业版、企业版、教育版、专业工作站版、专业教育版、家庭单语言版、家庭中文版
-﹂企业版多会话、IoT 企业版、SE版、专业单语言版、专业中文版（总共13个版本映像生成ISO）&lt;/p&gt;
-&lt;p&gt;– 这里发布的是官方MSVS渠道版前面8个版+转换后的5个版，总共13个集成发布
-– 没有添加任何三方数据，母盘选用的NI-22H2（22621.525）官方ISO镜像制作
-– 使用工具只有DISM，没有删减任何内容，完全原版。系统镜像ESD格式生成ISO&lt;/p&gt;
-&lt;p&gt;● 集成功能和更新补丁：&lt;/p&gt;
-&lt;p&gt;集成功能：
-.net framework 3.5、.net framework 4.8.1&lt;/p&gt;
-&lt;p&gt;集成补丁：
-KB5031455（23年10月累积更新 22621.2506）（10月27日）
-KB5031817（23年10月 .net 累积更新）（10月27日）&lt;/p&gt;
-&lt;p&gt;原版 ISO 内置的密钥无改动，有数字权利的安装之后记得改成公共密钥（\sources\product.ini）
-关于品牌机，为了跳过读取板载随机附送操作系统版本从而没有版本选择，已在 sources 目录内添加 ei.cfg 文件，比如机器默认为家庭中文版，全新安装会时会有选择版本菜单。如有其他需求请网络搜索。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Windows 11 22H2 原版集成2023年10月份累积更新完整ISO镜像13合1 – Ananhaid (2023/10/27)
-::Windows 11 version 22H2(OS build 22621.2506) x64 AIO 13in1 Oct 2023 zh-CN – Ananhaid&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6c05702c0a8b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://pan.quark.cn/s/6c05702c0a8b&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Windows11 Win11 22H2 22621.2215 小修深度精简版</title>
         <link>https://www.danlong360.com/post/xiaoxiushendu22621/</link>
         <pubDate>Tue, 13 Aug 2024 00:34:01 +0800</pubDate>
@@ -10597,8 +10546,8 @@ MD5: 4086149317A6458A0F90B397701AAF9B
 SHA1: 12A5031BB823312021622BBC1399C04B134BB08A
 CRC32: 907A6CE8&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/290c3091bb38&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://pan.quark.cn/s/290c3091bb38&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/da7e5788c4c1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/da7e5788c4c1&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -10640,8 +10589,8 @@ MD5: 3ADA5528EEA2B73EDB38987C2174923E
 SHA1: 183CC40754F28060C3F552024A86D3BD34F3DD2F
 CRC32: 7332AB4A&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a7f417207ed6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://pan.quark.cn/s/a7f417207ed6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8c050f9a9b94&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8c050f9a9b94&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -10747,8 +10696,8 @@ MD5: C320F684BCCC23E95C547D59A9BA9DCD
 SHA1: 7BFB7A6CD4F2BB3AE36306B6431269DDC141F66C
 CRC32: 1E2ED945&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/3a3e7ce144a4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://pan.quark.cn/s/3a3e7ce144a4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/746ced06cdee&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/746ced06cdee&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         
