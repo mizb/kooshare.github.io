@@ -7,7 +7,161 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 09 Sep 2024 11:27:29 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 09 Sep 2024 13:03:32 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Vivaldi浏览器(Chromium内核浏览器) v6.9.3447.41 多语便携版</title>
+        <link>https://www.danlong360.com/post/vivaldi344741/</link>
+        <pubDate>Mon, 09 Sep 2024 13:03:32 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/vivaldi344741/</guid>
+        <description>&lt;p&gt;Vivaldi浏览器是由Opera的联合创始人、前CEO Jon von Tetzchner于2015年1月27日发布的一款浏览器。它基于Chromium内核，拥有许多独特的功能和特点。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/09/8ZRz4iTrIWmf6H9.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Vivaldi浏览器(Chromium内核浏览器) v6.7.3329.35 多语便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;个性化的笔记功能：Vivaldi允许用户在浏览网页时做笔记，并且可以直接将笔记与特定的网页或标签关联起来。这对于需要在学习或工作中记录信息的人来说非常有用。
+带有迷你屏幕截图的书签：Vivaldi的书签功能不仅限于保存网页链接，还允许用户添加屏幕截图，从而更直观地管理和识别书签。
+快速拨号功能：Vivaldi支持通过多个组群和文件夹选项来快速拨号，用户可以根据自己的需求将常用的网站分组并快速访问。
+标签页多选和页面平铺功能：Vivaldi的标签页支持多选操作，用户可以通过按住Ctrl键并使用鼠标点选需要选择的标签来进行批量操作。此外，Vivaldi还支持页面平铺功能，可以将所选的标签页进行多种平铺操作，方便用户同时查看多个页面。
+左侧工具栏的标签管理功能：Vivaldi在左侧工具栏中提供了标签管理功能，用户可以在这里查看已打开以及已关闭的标签列表，方便管理和找回之前浏览过的页面。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;操作界面简洁明晰：Vivaldi的操作界面非常简洁，由标签栏、地址栏、搜索栏、内容显示区域与下边信息工具区域、左侧工具栏构成整体界面。这种设计使得用户可以快速上手并高效地使用浏览器。
+支持换肤和黑暗模式：Vivaldi支持换肤功能，用户可以根据自己的喜好选择不同的主题皮肤。同时，Vivaldi还支持系统的黑暗模式，可以在夜间或低光环境下减少屏幕对眼睛的刺激。
+多语言支持：Vivaldi中文版支持多种语言，方便不同语言的用户使用。
+高度可定制性：除了上述功能外，Vivaldi还提供了许多其他可定制的选项，如设置标签栏位置、调整界面布局等，使得用户可以根据自己的使用习惯进行个性化设置。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;不在注册表中留下任何条目。
+通过Loader (X-Vivaldi) 启动浏览器&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62757877-0f631c?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62757877-0f631c?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/847f2435c7eb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/847f2435c7eb&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>foobox(基于foobar2000的CUI界面配置) v7.33.2 重制版</title>
+        <link>https://www.danlong360.com/post/foobox7332/</link>
+        <pubDate>Mon, 09 Sep 2024 12:54:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/foobox7332/</guid>
+        <description>&lt;p&gt;foobox 是一个 foobar2000 默认用户界面 (DUI) 的皮肤配置，基于 jsplitter (Spider Monkey Panel 版) 组件，符合主流软件的审美，扩展功能丰富并保持软件的流畅运行.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.gndown.com/wp-content/uploads/2024/05/36b6659d99d6bc4.png?x48431&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;foobox(基于foobar2000的CUI界面配置) v7.27&amp;#43;v6.27 重制版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;制作和使用&#34;&gt;制作和使用
+&lt;/h3&gt;&lt;p&gt;foobox 中文版适用于 &lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/339.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;foobar2000 汉化版 by Asion&lt;/a&gt; ，使用以下第三方组件:
+ttsping 的歌词组件 ESLyric;
+基于 Spider Monkey Panel 的 JSplitter;
+foo_enhanced_spectrum_analyzer.&lt;/p&gt;
+&lt;p&gt;并修改使用以下优秀的代码部件:
+播放列表管理器，播放列表，封面浏览原作者 br3tt，汉化 always_beta;
+封面面板原作者 Jensen;
+搜索框原作者 Asion;
+简介面板作者 Wil-B;
+网络电台列表维护 范明明;&lt;/p&gt;
+&lt;p&gt;到最新 Releases (发行版) 页面下载安装包，从 7.24 起，安装包不再集成 foobar2000 汉化版，仅包含 foobox 主题及所需组件，绿色安装，自由便捷。
+从 7.26版开始增加 foobox 6 重制版，foobox 7 专注 64 位版，foobox 6 重制版为 32 位版，其实是在 foobox 7 的基础上添加 UI Hacks 并整合了两个版本的特点，适合喜欢隐藏菜单栏状态栏 UI 的朋友。
+额外的视频面板可选安装，它基于 foo-youtube 和 foo_input_ffmpeg 组件。
+完成后可以在 “主菜单&amp;ndash;视图&amp;ndash;布局&amp;ndash;快速设置”里切换各种 foobox 布局组合。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;[2024-9-09] Build 2: ESLyric 回滚到 0.5.4.1028
+修正播放列表管理器添加网络电台列表菜单有可能读取不到配置列表的问题。
+网络电台列表已经整合成一个预置列表 (不能在配置里删除)，foobox 配置里的额外电台列表地址已不再需要，请自行清空 (自己添加的除外)。
+修正一些已知 bug, 代码优化。
+所需组件升级。
+需要视频面板功能的，请下载独立的 foobox-video 组件安装程序。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62757862-0c5a2f?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62757862-0c5a2f?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8fa5bf128626&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8fa5bf128626&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Foobar2000(高品质音频播放器)汉化增强版 v2.1.5 By Asion(09.08)</title>
+        <link>https://www.danlong360.com/post/foobar2000hanhua/</link>
+        <pubDate>Mon, 09 Sep 2024 12:51:56 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/foobar2000hanhua/</guid>
+        <description>&lt;p&gt;Foobar2000中文版是一款全球知名的专业高品质音频播放器的本地音乐播放器.Foobar2000音乐播放器占用内存低,内置强大的音频解码器完美支持音频播放增益,提供强大扩展插件以及优秀的音效输出支持.Foobar2000汉化版出自@Asion汉化之手,无损音乐爱好者不妨更新,顶级好音质就用Foobar2000音频播放器.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/09/mgrDXVvLuasbWAd.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Foobar2000(高品质音频播放器)汉化增强版 v2.1.5 By Asion&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;foobar2000: Change Log
+&lt;a class=&#34;link&#34; href=&#34;https://www.foobar2000.org/changelog&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.foobar2000.org/changelog&lt;/a&gt;
+v1.6版本主要更新：
+- 默认采用新的WASAPI输出方式、支持WebP封面
+- 转换器和文件操作支持Unicode编码文件名字符替换
+- 需要Windows 7 或更高版，不再支持Windows XP
+- 删除了DirectSound输出方式(由WASAPI代替)&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;foobar2000 是一个 Windows 平台下的高级音频播放器.包含
+完全支持 unicode 及支持播放增益的高级标签功能. 特色具有：
+* 支持的音频格式: MP3, MP4, AAC, CD Audio, WMA, Vorbis,
+FLAC, WavPack, WAV, AIFF, Musepack, Speex, AU, SND, 通
+过第三方插件将支持更多的格式.
+* 完全支持 Unicode、轻松定制用户界面布局
+* 高级标签功能、可自定义快捷键、支持播放增益
+* 可使用转换器组件对所有支持的格式转换编码格式
+* 开放的组件体系结构允许第三方开发者来扩展播放器的功能
+* 汉化版加入以下插件(以下插件均为最新版，均为可选安装)
+└—解码器包含：APE、DTS、TTA、TAK、SACD、DVD-Audio
+└—ESLyric歌词, ASIO输出, WASAPI输出, DSD转换器, 播放统计信息
+ESLyric使用方法：
+打开配置快捷键Ctrl+P，转至工具 -&amp;gt; ESLyric
+点击搜索标签页，在歌词来源处点击更新即可。
+ESLyric现在支持 LRC、TXT、酷狗的KRC。目前添加的歌词源搜索接口：
+QQ音乐, 网易云音乐, 酷狗音乐, 虾米音乐, 百度音乐,千千静听, 天天动听&lt;/p&gt;
+&lt;h3 id=&#34;版本说明&#34;&gt;版本说明
+&lt;/h3&gt;&lt;p&gt;汉化版加入了以下插件：
+SACD 解码器
+DVD-Audio 解码器
+ESLyric(歌词)
+播放统计信息
+ASIO 输出
+ASIO+DSD 输出组件
+WASAPI 输出【仅x86】
+DSD 转换器
+DSD 处理器&lt;/p&gt;
+&lt;h3 id=&#34;特别说明&#34;&gt;特别说明
+&lt;/h3&gt;&lt;p&gt;注意：下载不要修改安装程序的名称，否则无法打开安装哦
+安装界面勾选：绿色安装、使用独立配置文件，就是绿色版
+系统要求
+1.6.x -&amp;gt; Windows 7 或更高版
+1.5.x -&amp;gt; Windows XP 或更高版
+不要修改安装程序的名称。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62757859-2561c3?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62757859-2561c3?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/fed5c10eaace&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/fed5c10eaace&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows/Office激活工具合集 v2.4.1.4 中文绿色版</title>
         <link>https://www.danlong360.com/post/jihuogongjuheji/</link>
         <pubDate>Mon, 09 Sep 2024 11:27:29 +0800</pubDate>
