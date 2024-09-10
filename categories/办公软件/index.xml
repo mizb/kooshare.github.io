@@ -7,7 +7,50 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 11 Sep 2024 01:07:06 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Sep 2024 01:33:35 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>pdfFactory Pro v9.04.0 / FinePrint v12.04.0 PDF虚拟打印程序</title>
+        <link>https://www.danlong360.com/post/pdffactory1204/</link>
+        <pubDate>Wed, 11 Sep 2024 01:33:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/pdffactory1204/</guid>
+        <description>&lt;p&gt;pdfFactory 是一款PDF文档虚拟打印机。无须Acrobat即可创建Adobe PDF文件，创建PDF文件的方法比其他方法更方便高效；支持将多个文档整合到一个PDF文件、增加字体和便签、PDF加密、去水印、压缩优化。&lt;/p&gt;
+&lt;p&gt;FinePrint 是一款Windows虚拟打印机驱动程序。控制和增强打印输出节省墨水、纸张和时间；支持整合打印、双面打印、多页打印、装订线、支持PDF水印、表单和信笺，通过FinePrint节省纸张和墨水，节省打印时间。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/11/gCrmjy5GEchiTYb.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240911013418690&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;pdfFactory 产品提供了比其他程序更简单、更有效率和更少的花费的创建 PDF 文件的解决方案。pdfFactory 标准版本用来创建 pdf 文件，专业版用于需要安全的PDF(法律文档、公司信息等)和其他高级功能的用户。&lt;/p&gt;
+&lt;p&gt;• 创建 PDF 和打印到纸上： 仅 pdfFactory 允许不用打印两次而打印到纸上和 PDF 文件中。打印不需要 Acrobat。
+• 多个文档整合到一个 PDF 文件中：通过创建一个包含多个内容的单独的 PDF 文件，增加了交换的方便。这个功能是自动的。
+• 预览： 允许快速、精确地预览 PDF，包括 400% 缩放，不需要先保存文件也不需要用 Acrobat 打开。
+• 预览：允许改变加密，内嵌字体，链接处理和书签而无需重新打印原始文档。
+• 内嵌字体：确保文档中使用的原始字体能被正确显示，即使接受者的计算机中没有安装相应的字体。
+• 页面插入和删除：允许在 PDF 文件创建前删除不必要的部分。这对于从一个长的报告、E-mail 和 web 页创建 PDF 文件有用。
+• 通过 E-mail 发送：把 PDF 文件使用默认的 E-mail 客户端发送 。
+• 自动保存：自动保存 pdfFactory 打印过的完整内容，所以你可以重新得到以前打印完成得 PDF 文件。
+• 动态 URL 链接：自定义类型、下划线和颜色的链接，单击你的鼠标来打开网页和 Email 地址。
+• 简单的服务器部署：在服务器上做为共享打印机安装，请查看我们的 服务器版本。
+• 书签和目录表: 自动或手动创建书签来在复杂文档中管理和导航。页码，页眉，页脚和水印: 可根据需• 要增加文档的页码，页眉页脚及水印。
+• 创建PDF信笺: 专业版中您可以把您的文档保存成信笺，进而应用到不同文档中。
+• 整合的任务标签: 显示所有任务并允许你重新排列它们。
+• 自定义驱动: 把你的配置保存为多个打印机驱动，所以你对指定任务能快速选择它们。
+• 设置初始 Acrobat 显示属性: 例如缩放比例、层和标签配置。&lt;/p&gt;
+&lt;h3 id=&#34;安装提示&#34;&gt;安装提示
+&lt;/h3&gt;&lt;p&gt;官方程序静默安装参数：Setup.exe /install /quiet
+跳过条款协议语言选择：Setup.exe /quiet=1 /quiet=8&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9938a0dfb838&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9938a0dfb838&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Navicat Premium(数据库管理工具) v17.1.2 中文破解版</title>
         <link>https://www.danlong360.com/post/navicatpojie1712/</link>
         <pubDate>Wed, 11 Sep 2024 01:07:06 +0800</pubDate>
