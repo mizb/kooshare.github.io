@@ -7,7 +7,158 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 10 Sep 2024 14:02:57 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 10 Sep 2024 15:15:54 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Glarysoft Malware Hunter(恶意软件猎人) v1.189.0.816 多语便携版</title>
+        <link>https://www.danlong360.com/post/glarysoftmalware816/</link>
+        <pubDate>Tue, 10 Sep 2024 15:15:54 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/glarysoftmalware816/</guid>
+        <description>&lt;p&gt;Glarysoft Malware Hunter 是一款专业的安全工具，旨在帮助用户检测和删除各种恶意软件和间谍软件。它可以扫描和删除计算机上的病毒、木马、广告软件和其他安全威胁。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/10/gB9sAEzKPicMWrX.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Glarysoft Malware Hunter(恶意软件猎人) v1.186.0.808 多语便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;病毒扫描：Malware Hunter可以快速而全面地扫描计算机，以查找潜在的恶意软件和病毒。
+实时保护：软件提供实时保护功能，可以阻止恶意软件的入侵和安装。
+USB驱动器保护：Malware Hunter可以扫描和保护连接到计算机的USB驱动器，以防止病毒通过USB传播。
+安全浏览器：该软件具有一个安全浏览器，可以保护您的在线隐私和阻止恶意网站。
+文件清理：Malware Hunter可以扫描并清理计算机上的垃圾文件和临时文件，以释放磁盘空间和提高系统性能。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：Malware Hunter拥有用户友好的界面，并且操作简单，即使没有专业知识的用户也能够轻松使用。
+快速扫描：软件可以快速扫描计算机，以便用户可以在最短的时间内获得完整的系统安全状态报告。
+云安全技术：Malware Hunter使用云端安全技术，可以及时获取最新的恶意软件和病毒数据库，提供更有效的保护。
+多重扫描引擎：软件采用多重扫描引擎，可以提高病毒检测率，并减少误报。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62770471-a0be6f?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62770471-a0be6f?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ac9d253f0801&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ac9d253f0801&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>eSearch(完全开源的识屏搜索工具) v13.1.2 中文绿色版</title>
+        <link>https://www.danlong360.com/post/esearch1312/</link>
+        <pubDate>Tue, 10 Sep 2024 14:58:16 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/esearch1312/</guid>
+        <description>&lt;p&gt;eSearch是一款基于Java开发的全文检索引擎。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/10/OYiln1ogV7AEeZs.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;eSearch(完全开源的识屏搜索工具) v1.12.0 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持中文分词：使用开源的中文分词库，支持中文分词，提高搜索的准确性。&lt;/li&gt;
+&lt;li&gt;支持多种数据源：支持从数据库、文件、网络等多种数据源中进行检索。&lt;/li&gt;
+&lt;li&gt;支持多种检索方式：支持全文检索、字段检索、模糊检索等多种检索方式，满足不同的检索需求。&lt;/li&gt;
+&lt;li&gt;支持高亮显示：支持在搜索结果中高亮显示匹配的关键字，方便用户快速定位。&lt;/li&gt;
+&lt;li&gt;支持自定义排序：支持根据不同的排序方式进行搜索结果的排序，提高搜索的效率。&lt;/li&gt;
+&lt;li&gt;支持数据更新：支持实时更新索引，保证搜索结果的及时性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;开源免费：eSearch是一款开源免费的软件，用户可以自由使用、修改和分发。&lt;/li&gt;
+&lt;li&gt;高性能：eSearch采用倒排索引的方式进行检索，具有快速高效的检索能力。&lt;/li&gt;
+&lt;li&gt;可扩展性：eSearch支持插件式开发，用户可以根据自己的需求进行扩展和定制。&lt;/li&gt;
+&lt;li&gt;易于使用：eSearch提供了简单易用的API，用户可以轻松地集成到自己的应用中。&lt;/li&gt;
+&lt;li&gt;可靠性高：eSearch采用了多种技术手段保证数据的安全性和可靠性，如多副本备份、故障转移等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;主要 修复深色模式下工具栏颜色错误 #257
+主页面 搜索文字默认忽略大小写
+主页面 更新文字时退出搜索， 否则开启搜索时复用OCR窗口，会无法更新文字
+与13版本不同，此版本是在1.12.3版本上进行的小更新，如果你不使用深色模式，或不怎么使用编辑器的搜索，可以不管这个版本&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62770426-803f86?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62770426-803f86?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2c39b6af2e3e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2c39b6af2e3e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Glarysoft File Recovery(文件恢复软件) v1.27.0.28 多语便携版</title>
+        <link>https://www.danlong360.com/post/glarysoftfile/</link>
+        <pubDate>Tue, 10 Sep 2024 14:42:12 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/glarysoftfile/</guid>
+        <description>&lt;p&gt;Glarysoft File Recovery是一款免费的文件恢复软件，可以帮助用户轻松恢复误删除的文件或丢失的文件。它支持恢复各种类型的文件，如照片、视频、文档、音乐等，可以从硬盘、U盘、SD卡等设备中进行恢复。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/10/ZREm8JPeVYagHBi.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Glarysoft File Recovery(文件恢复软件) v1.25.0.25 多语便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持多种文件类型的恢复，包括照片、视频、音乐、文档等。
+支持从硬盘、U盘、SD卡等设备中恢复文件。
+支持快速扫描和深度扫描两种恢复模式。
+支持预览已删除文件，可以选择性恢复需要的文件。
+提供用户友好的界面，操作简单方便。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;免费使用：Glarysoft File Recovery是免费软件，用户可以免费使用其所有功能。
+高效快速：软件提供快速扫描和深度扫描两种恢复模式，可以根据实际情况选择合适的模式进行恢复。
+支持多种设备：软件支持从硬盘、U盘、SD卡等设备中进行文件恢复，覆盖面广。
+预览功能：软件可以预览已删除的文件，可以选择性恢复需要的文件，避免恢复不必要的文件。
+界面友好：软件提供用户友好的界面，操作简单方便，不需要专业技能也可以轻松使用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62770342-d02ce7?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62770342-d02ce7?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c72182f654fe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c72182f654fe&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Glarysoft Registry Repair(注册表修复) v6.0.1.10 多语便携版</title>
+        <link>https://www.danlong360.com/post/glarysoftregistry/</link>
+        <pubDate>Tue, 10 Sep 2024 14:39:19 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/glarysoftregistry/</guid>
+        <description>&lt;p&gt;Glarysoft Registry Repair 是一款专业的Windows注册表修复工具。它能够帮助用户扫描和修复计算机注册表中的错误和无效项，以提高系统性能和稳定性。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/10/v1tcdSaEsPHCVL8.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Glarysoft Registry Repair(注册表修复) v6.0.1.10 多语便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;扫描注册表错误：软件能够全面地扫描计算机注册表中的错误、无效项和损坏的项目。
+修复注册表问题：通过修复错误和无效项，软件可以改善系统的性能和稳定性。
+创建注册表备份：在进行修复操作之前，软件会自动为计算机创建一个注册表备份，以防止出现意外情况。
+自动修复选项：软件提供了自动修复选项，用户可以设置计划任务，并在计划任务之间自动扫描和修复注册表问题。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：软件提供直观的用户界面，使用户能够方便地进行注册表扫描和修复操作，非常适合电脑新手使用。
+安全可靠：软件能够识别和修复注册表中的错误，并确保修复的过程安全可靠，不会对系统造成任何损害。
+快速高效：软件能够快速扫描计算机注册表并修复错误，使系统更加稳定和高效。
+备份和恢复：软件提供注册表备份和恢复功能，使用户能够在修复之后轻松还原注册表。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62770333-7a3e63?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62770333-7a3e63?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8d4469ca4e9a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8d4469ca4e9a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>NewFileTime(修改文件时间戳神器) v7.31 中文绿色版</title>
         <link>https://www.danlong360.com/post/newfiletime731/</link>
         <pubDate>Tue, 10 Sep 2024 14:02:57 +0800</pubDate>
