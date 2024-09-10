@@ -7,7 +7,143 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 10 Sep 2024 16:08:16 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Sep 2024 01:13:03 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>AdobeGenP(Adobe全家桶系列激活工具) v3.4.0 / 3.4.14.1 绿色版</title>
+        <link>https://www.danlong360.com/post/adobegenp340/</link>
+        <pubDate>Wed, 11 Sep 2024 01:13:03 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/adobegenp340/</guid>
+        <description>&lt;p&gt;AdobeGenP是Adobe公司的产品激活工具，用于激活Adobe公司旗下的各种产品，如Photoshop、Illustrator、Premiere Pro等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/11/xvjUrcX7FTG6fCJ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;AdobeGenP(Adobe全家桶系列激活工具) v3.4.13 B4 / 3.3.3 绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;激活Adobe产品：AdobeGenP可以帮助用户激活Adobe公司的各种产品，解锁产品的完整功能。
+无需付费：使用AdobeGenP可以免费激活Adobe产品，省去了购买正版产品的费用。
+自动更新：AdobeGenP具有自动更新功能，可以及时更新以支持新版本的Adobe产品。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：AdobeGenP的界面友好，操作简单，无需专业知识即可完成激活过程。
+多产品支持：AdobeGenP可以激活Adobe公司的多个产品，使用者可以根据自己的需求选择激活的产品。
+高效稳定：AdobeGenP激活成功率高，而且激活后的Adobe产品也能够正常运行，稳定性较好。&lt;/p&gt;
+&lt;h3 id=&#34;更改日志&#34;&gt;更改日志
+&lt;/h3&gt;&lt;p&gt;GenP 3.3.10 CGP Community Edition
+- 此版本是针对 3.3.7 版本的错误修复
+- 改进了弹出窗口代码，以防止应用程序在特定情况下挂起。
+- 改进了保存配置代码以防止完全删除默认主机&lt;/p&gt;
+&lt;p&gt;GenP 3.4.14.1
+修复了 Windows 安装已损坏的用户无法使用 RunAsTI/NSudo 的问题。
+GenP现在会在启动时询问您是否要作为受信任的安装程序运行。
+如果您看到 GenP 在启动时崩溃或鼠标光标无休止旋转，
+请在任务管理器中关闭 GenP 后在此弹出窗口中按“否”。
+增加了对 Audition (Beta) 的支持。
+（PS：以前版本的 GenP 损坏了 Audition Beta 的文件，
+请重新安装后再尝试修补。）
+增加了对 Character Animator（测试版）的支持。
+将 NSudo 和 config.ini 文件打包到可执行文件本身中，
+因此，GenP 现在是一个单独的可执行文件
+（无需提取文件即可运行，但我们仍然建议您提取它）
+修复了人们的主机文件有时会被覆盖的问题。
+增加了对 Creative Cloud x86 安装的支持，因此您无需手动选择路径
+删除了对 Cinema 4D 的支持，因为与 After Effects 捆绑的版本不再受支持
+提高了扫描速度。
+针对配置不当
+或环境变量损坏的系统改进了 PowerShell 代码。
+修复奇怪的 C:\Windows\System32\config\systemprofile 错误
+（修补 CC 时找不到 CC 文件）。
+修复了 ARM 检测代码中的拼写错误（语法错误）。
+常规稳定性/代码修复。&lt;/p&gt;
+&lt;h3 id=&#34;使用方法&#34;&gt;使用方法
+&lt;/h3&gt;&lt;p&gt;简单用法就是：先点search按钮，等会有结果了，再点patch就好了。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62775853-ef38b2?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62775853-ef38b2?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/58fda5984435&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/58fda5984435&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Navicat Premium(数据库管理工具) v17.1.2 中文破解版</title>
+        <link>https://www.danlong360.com/post/navicatpojie1712/</link>
+        <pubDate>Wed, 11 Sep 2024 01:07:06 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/navicatpojie1712/</guid>
+        <description>&lt;p&gt;Navicat Premium 是一款多功能的数据库管理工具，可以连接并管理主流的数据库系统，如MySQL、PostgreSQL、Oracle、SQL Server等。它提供了丰富的功能和强大的工具，可以帮助用户轻松地管理数据库，进行数据导入导出、查询、备份和恢复等操作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/11/BkXCG75evjmgDVS.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Navicat Premium(数据库管理工具) v17.0.4 中文破解版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;数据库连接：支持连接多种数据库系统，方便用户统一管理不同类型的数据库。
+数据编辑：提供直观的图形化界面，方便用户进行数据的编辑和管理。
+数据同步：支持数据同步功能，可以方便地将数据同步到不同的数据库系统中。
+数据备份和恢复：提供强大的备份和恢复功能，保障数据的安全性。
+数据导入导出：支持多种数据格式的导入导出，方便用户进行数据的迁移和分享。
+SQL查询：提供强大的SQL查询功能，支持多种SQL语句，方便用户进行数据查询和分析。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;多数据库支持：支持连接多种数据库系统，方便用户管理不同类型的数据库。
+强大的工具集：提供了丰富的工具和功能，可以满足用户对数据库管理的各种需求。
+图形化界面：提供直观的图形化界面，方便用户进行操作，降低学习成本。
+数据安全性：提供强大的备份和恢复功能，保障数据的安全性，避免数据丢失。
+灵活性：支持多种数据格式的导入导出，可以满足用户对数据迁移和分享的需求。
+高性能：支持快速的数据查询和操作，提升用户的工作效率。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62775835-66f6ea?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62775835-66f6ea?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/fa7ca7dddf68&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/fa7ca7dddf68&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Navicat Premium Lite(数据库管理工具) v17.1.2 中文免费版</title>
+        <link>https://www.danlong360.com/post/navicatpremium1712/</link>
+        <pubDate>Wed, 11 Sep 2024 01:04:06 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/navicatpremium1712/</guid>
+        <description>&lt;p&gt;Navicat Premium Lite 是一款数据库管理工具，带有数据处理、数据可视化、数据分析等功能。软件支持多种常见数据库，包括MySQL、MariaDB、SQLite、SQL Server、Oracle等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.gndown.com/wp-content/uploads/2024/07/48e2da30cd916b1.png?x48431&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Navicat Premium Lite(数据库管理工具) v17.0.11 中文免费版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;数据库连接管理：可以轻松管理多个数据库连接，支持SSH隧道连接。
+SQL编辑器：具有语法高亮、代码自动补全、SQL格式化等功能，可帮助用户快速编写SQL语句。
+数据导入导出：支持各种数据格式的导入导出，如CSV、Excel等。
+数据同步：可以对比两个数据库的结构和数据，进行数据同步操作。
+数据备份及恢复：可以快速备份数据库，并支持定时备份功能，方便数据库恢复操作。
+数据库设计：支持数据库表、视图、触发器等对象的设计和管理。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁：Navicat Premium Lite拥有直观简洁的界面，容易上手。
+多数据库支持：支持多种常见数据库，方便用户统一管理多个数据库。
+多语言支持：软件支持多种语言，满足不同地区用户的需求。
+自动化任务：支持定时备份、数据同步等自动化任务，减轻用户的工作压力。
+数据安全保障：软件提供数据加密、访问控制等功能，保障数据的安全性。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62775820-6a5824?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62775820-6a5824?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8083004a175f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8083004a175f&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>IObit Smart Defrag(磁盘碎片整理) Pro v10.1.0.419 多语便携版</title>
         <link>https://www.danlong360.com/post/iobit419/</link>
         <pubDate>Tue, 10 Sep 2024 16:08:16 +0800</pubDate>
