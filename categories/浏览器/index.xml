@@ -7,7 +7,54 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 10 Sep 2024 13:32:17 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Sep 2024 10:37:23 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Pale Moon(定制优化火狐浏览器) v33.3.1 中文绿色版</title>
+        <link>https://www.danlong360.com/post/palemoon/</link>
+        <pubDate>Wed, 11 Sep 2024 10:37:23 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/palemoon/</guid>
+        <description>&lt;p&gt;Pale Moon是一款定制的、速度优化的火狐浏览器。该项目使用贡献的开放源代码创建了一个基于Firefox浏览器的全功能、速度优化的浏览器。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/11/dQw3M18W5egiIsT.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Pale Moon(定制优化火狐浏览器) v33.1.1 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;为现代处理器高度优化
+100% Firefox来源:和经过多年开发的浏览器一样安全。
+支持Firefox扩展、主题和角色
+能够使用这个迁移工具使用现有的Firefox配置文件、书签和设置
+由于禁用了冗余和可选代码，因此使用的内存略少
+显著提高了页面绘制和脚本处理的速度
+支持HTML5和WebGL (v4)
+稳定性:体验更少的浏览器崩溃。
+支持SVG和Canvas，以及包括WOFF在内的可下载字体
+支持OOPP(进程外插件执行)&lt;/p&gt;
+&lt;p&gt;在Pale Moon浏览器中，用户会发现稍微保守一点的用户界面变化。它虽然非常接近Firefox，但(现在比以前更明显了)是一个不同的产品。然而，这些布局上的差异并不会阻止任何人按照他们想要的方式配置他们的浏览器界面。如果他们愿意，还可以包括Mozilla Firefox的默认布局。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Pale Moon(定制优化火狐浏览器) v33.3.1 中文绿色版
+&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9ybS1ldS5wYWxlbW9vbi5vcmcvcmVsZWFzZS9wYWxlbW9vbi0zMy4zLjEud2luMzIuaW5zdGFsbGVyLmV4ZQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rm-eu.palemoon.org/release/palemoon-33.3.1.win32.installer.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9ybS1ldS5wYWxlbW9vbi5vcmcvcmVsZWFzZS9wYWxlbW9vbi0zMy4zLjEud2luNjQuaW5zdGFsbGVyLmV4ZQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rm-eu.palemoon.org/release/palemoon-33.3.1.win64.installer.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9ybS1ldS5wYWxlbW9vbi5vcmcvcmVsZWFzZS9QYWxlbW9vbi1Qb3J0YWJsZS0zMy4zLjEud2luMzIuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rm-eu.palemoon.org/release/Palemoon-Portable-33.3.1.win32.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9ybS1ldS5wYWxlbW9vbi5vcmcvcmVsZWFzZS9QYWxlbW9vbi1Qb3J0YWJsZS0zMy4zLjEud2luNjQuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rm-eu.palemoon.org/release/Palemoon-Portable-33.3.1.win64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;官方下载（简体中文语言包 + 切换语言工具）
+&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9hZGRvbnMucGFsZW1vb24ub3JnL2FkZG9uL3BtLWxhbmdwYWNrLXpoLWNuLw==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://addons.palemoon.org/addon/pm-langpack-zh-cn/&lt;/a&gt;（简体中文语言包）
+&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9hZGRvbnMucGFsZW1vb24ub3JnL2FkZG9uL2xvY2FsZS1zd2l0Y2hlci8=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://addons.palemoon.org/addon/locale-switcher/&lt;/a&gt;（切换语言工具）&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>傲游浏览器 v7.2.2.4000 / v7.2.2.4400 Beta 官方绿色版</title>
         <link>https://www.danlong360.com/post/aoyouliulanqi4400/</link>
         <pubDate>Tue, 10 Sep 2024 13:32:17 +0800</pubDate>

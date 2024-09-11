@@ -7,7 +7,116 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 11 Sep 2024 10:19:22 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Sep 2024 10:33:24 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>x64dbg(反汇编逆向神器) 2024-09-10_15-35 中文绿色版</title>
+        <link>https://www.danlong360.com/post/x64dbg0910/</link>
+        <pubDate>Wed, 11 Sep 2024 10:33:24 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/x64dbg0910/</guid>
+        <description>&lt;p&gt;x64dbg中文版是一款x32/x64位调试器的程序调试工具,这款反汇编逆向神器支持中文和插件,支持类似C表达式解析器,DLL和EXE文件调试,IDA式的跳跃箭头与侧边栏,动态识别模块指令,反汇编CPU窗口,自动化可调试的脚本语言等诸多逆向分析功能.x64dbg调试器主要分为三部分载体:DBG是调试器的调试功能部分,它处理调试技术(使用的 TitanEngine),并为GUI提供数据.GUI是调试器的图形部分,它采用的Qt编程语言,提供用户交互界面.Bridge是DBG和GUI部分的通信库,它可以用在新建功能上工作,而无需更新汇编代码的其它部分.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/11/XDsolFCGBAdwZcb.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;x64dbg(反汇编逆向神器) 2024-06-03 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持多种CPU架构，包括x86，x64，ARM和ARM64。
+提供实时调试功能，包括断点设置、单步执行、查看寄存器和内存，以及修改数据。
+支持动态分析，可以查看和修改程序的内存和寄存器状态。
+支持多种格式的二进制文件，包括PE、ELF和Mach-O。
+提供强大的插件系统，允许用户添加自定义功能和扩展工具。
+支持调试符号和调试信息，可以帮助用户理解程序的结构和功能。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;开源免费：x64dbg是开源软件，可以免费使用和修改。
+跨平台：x64dbg可以在Windows平台上运行，并支持多个CPU架构。
+功能强大：x64dbg提供了丰富的调试功能和工具，方便用户对程序进行逆向工程和动态分析。
+用户友好：x64dbg具有直观的用户界面，易于上手和操作。
+不断更新：x64dbg团队会持续更新和改进软件，以提供更好的用户体验和功能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62776660-e73376?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62776660-e73376?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/977043858656&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/977043858656&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>EF Commander(强大文件管理器) v24.09 中文绿色版</title>
+        <link>https://www.danlong360.com/post/efcommander/</link>
+        <pubDate>Wed, 11 Sep 2024 10:28:48 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/efcommander/</guid>
+        <description>&lt;p&gt;EF Commander是一款功能强大的文件管理器。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/11/EZksoUI1JFmLGqX.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;EF Commander(强大文件管理器) v24.06 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;文件浏览：使用标签页浏览文件和文件夹，支持文件预览和缩略图显示。&lt;/li&gt;
+&lt;li&gt;文件搜索：可以按文件名、文件类型、修改日期等条件进行文件搜索，支持通配符和正则表达式。&lt;/li&gt;
+&lt;li&gt;批量重命名：可以对多个文件进行快速批量重命名操作，支持添加前缀、后缀、替换字符等功能。&lt;/li&gt;
+&lt;li&gt;文件压缩和解压缩：支持常见的压缩格式，如ZIP、RAR、7Z等，可以快速创建、提取、分割和合并压缩文件。&lt;/li&gt;
+&lt;li&gt;多标签页浏览：可以同时打开多个标签页，方便在不同文件夹之间切换和浏览。&lt;/li&gt;
+&lt;li&gt;文件比较：可以比较两个文件的差异，支持逐行比较和合并差异。&lt;/li&gt;
+&lt;li&gt;文件加密：可以对文件进行加密，保护文件安全性。&lt;/li&gt;
+&lt;li&gt;文件传输：可以快速将文件从电脑传输到手机或其他设备。&lt;/li&gt;
+&lt;li&gt;文件打包和解包：可以将文件打包成单个文件，方便传输和备份。&lt;/li&gt;
+&lt;li&gt;文件管理器扩展：可以安装和使用第三方文件管理器扩展，扩展功能和操作方式。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;EF Commander是一款功能强大、界面简洁、易于使用的文件管理器，适用于Windows和macOS系统。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62776651-16dacf?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62776651-16dacf?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/421777376590&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/421777376590&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ExplorerPatcher(恢复Win11高效设置) v22621.3880.66.5</title>
+        <link>https://www.danlong360.com/post/explorerpatcher/</link>
+        <pubDate>Wed, 11 Sep 2024 10:25:34 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/explorerpatcher/</guid>
+        <description>&lt;p&gt;ExplorerPatcher 是一个开源小软件，旨在为 Windows 11 恢复高效的工作环境，被网友称为 Windows 11 救星，如果你不喜欢 Windows 11 的某些改变，可以用用试试。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/11/eAkfOc6tNMGYF79.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;ExplorerPatcher(恢复Win11高效设置) v22621.3880.66.4&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h3&gt;&lt;p&gt;自由切换 Win10 和 Win11 任务栏，支持设置标签合并、功能显示等。
+恢复 Win10 右键菜单和文件管理器命令栏。
+切换开始菜单版本、禁用推荐、自动打开所有应用页面。
+自定义应用切换器，可选 Win11、Win10、Win NT 等风格。
+以及更多自定义设置。&lt;/p&gt;
+&lt;h3 id=&#34;安装说明&#34;&gt;安装说明
+&lt;/h3&gt;&lt;p&gt;1、下载安装后包
+2、运行安装包，允许管理员权限，自动开始安装。（暂时退出文件管理器、桌面，请等待 1~2 分钟）
+3、安装完成后，迎接你的将是熟悉的 Win10 任务栏。右键任务栏打开“属性”就是本软件的设置界面，可自行配置。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62776645-8c0275?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62776645-8c0275?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8145b3e5e95a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8145b3e5e95a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>UpdatePack7R2(WIN7更新补丁包) 24.09.10</title>
         <link>https://www.danlong360.com/post/updatepack7r2240910/</link>
         <pubDate>Wed, 11 Sep 2024 10:19:22 +0800</pubDate>

@@ -7,7 +7,53 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 11 Sep 2024 09:56:26 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Sep 2024 10:31:08 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>WinSCP(SSH图形化SFTP客户端) v6.3.5 中文绿色版</title>
+        <link>https://www.danlong360.com/post/winscp635/</link>
+        <pubDate>Wed, 11 Sep 2024 10:31:08 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/winscp635/</guid>
+        <description>&lt;p&gt;WinSCP是一款免费开源的SFTP、SCP、FTP和WebDAV客户端，可用于在Windows操作系统上安全地传输文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/11/54R17M9DAkJiQxo.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;WinSCP(SSH图形化SFTP客户端) v6.3.4 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;详细介绍&#34;&gt;详细介绍
+&lt;/h5&gt;&lt;p&gt;WinSCP是一款跨平台的文件传输工具，支持Windows和Linux操作系统。它使用SSH（安全外壳协议）和SCP（安全复制协议）协议进行数据传输，保证了数据传输的安全性和可靠性。WinSCP还支持SFTP协议和FTP协议，可与远程服务器进行快速和安全的文件传输。&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持SFTP、SCP、FTP和WebDAV协议。&lt;/li&gt;
+&lt;li&gt;支持多种语言，如英语、中国简体中文、繁体中文、法语、德语、意大利语、日语、韩语、荷兰语、波兰语、葡萄牙语、俄语、西班牙语等。&lt;/li&gt;
+&lt;li&gt;支持远程编辑和同步功能。&lt;/li&gt;
+&lt;li&gt;支持批量文件传输和多线程传输。&lt;/li&gt;
+&lt;li&gt;支持多种文件管理功能，如新建、重命名、删除、复制、剪切、粘贴、移动等。&lt;/li&gt;
+&lt;li&gt;支持快速连接和断开连接。&lt;/li&gt;
+&lt;li&gt;支持命令行和脚本操作。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;免费开源：WinSCP是完全免费的，并且是开源软件。&lt;/li&gt;
+&lt;li&gt;安全性：WinSCP使用SSH和SCP协议进行数据传输，保证了数据传输的安全性和可靠性。&lt;/li&gt;
+&lt;li&gt;易于使用：WinSCP具有简单的用户界面，易于使用，即使是初学者也可以轻松上手。&lt;/li&gt;
+&lt;li&gt;多种语言支持：WinSCP支持多种语言，可满足不同地区和国家用户的需求。&lt;/li&gt;
+&lt;li&gt;多种文件管理功能：WinSCP具有多种文件管理功能，可以满足用户对文件的各种操作需求。&lt;/li&gt;
+&lt;li&gt;快速连接和断开连接：WinSCP具有快速连接和断开连接的功能，可以节省用户的时间和劳动力。&lt;/li&gt;
+&lt;li&gt;支持命令行和脚本操作：WinSCP支持命令行和脚本操作，可以方便地进行自动化操作。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62776654-5c515b?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62776654-5c515b?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/94fac48c3b8f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/94fac48c3b8f&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>KeepStreams(下载在线视频的软件) v1.2.3.5 多语便携版</title>
         <link>https://www.danlong360.com/post/keepstreams1235/</link>
         <pubDate>Wed, 11 Sep 2024 09:56:26 +0800</pubDate>
