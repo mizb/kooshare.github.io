@@ -7,7 +7,29 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 11 Sep 2024 10:53:47 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Sep 2024 22:50:26 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Android MixFile(文件传输工具) v1.1.1.3</title>
+        <link>https://www.danlong360.com/post/mixfile/</link>
+        <pubDate>Wed, 11 Sep 2024 22:50:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/mixfile/</guid>
+        <description>&lt;p&gt;MixFile 是一款可以上传文件并分享的安卓APP。文件自带加密，无需登录注册，上传下载不限速，最大支持400G单个文件。加密时会自动生成随机密钥进行加密，上传完成后，密钥文件地址文件大小等信息会附加在分享码中。加密的视频支持在线播放。将分享码发送给他人即可实现分享文件。只要不泄漏分享码，就连服务器都不知道您上传的文件内容。局域网内只要一台设备安装了此软件，其他设备均可通过网页端，上传/下载/播放加密文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/11/sYkSvKwTyC3NIbO.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240911225059734&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/aae88c7af4d2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/aae88c7af4d2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>YT Downloader(下载YouTube视频工具) v9.10.15 便携版</title>
         <link>https://www.danlong360.com/post/ytdownloader015/</link>
         <pubDate>Wed, 11 Sep 2024 10:53:47 +0800</pubDate>

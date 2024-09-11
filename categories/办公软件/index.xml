@@ -7,7 +7,77 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 11 Sep 2024 20:55:02 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Sep 2024 22:35:58 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>LESLIE Note v5.33 绿色便携版</title>
+        <link>https://www.danlong360.com/post/leslie/</link>
+        <pubDate>Wed, 11 Sep 2024 22:35:58 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/leslie/</guid>
+        <description>&lt;p&gt;LESLIE Note是由个人开发的一款本地笔记软件，外观借鉴了OneNote软件，软件是一款纯本地的笔记软件，界面做的还不错，内容完全本地，原生便携，是一款轻量的免费绿色软件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/11/geGH9ayZoIlb1LP.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240911223657386&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1，笔记簿&lt;/strong&gt;
+——1.1，LN的基本存储单位是“笔记簿”，“笔记”存放于“笔记簿”中。
+——1.2，LN支持添加任意多个“笔记簿”。
+——1.3，“笔记簿”内支持添加任意多篇“笔记”。
+——1.4，“笔记”支持添加“附件”。
+&lt;strong&gt;2，附件&lt;/strong&gt;
+——2.1，数量不限。
+——2.2，格式不限。
+——2.3，自动加密。
+&lt;strong&gt;3，加密&lt;/strong&gt;
+——3.1，“笔记簿”自动加密，无法从外部获取笔记内容。
+——3.2，“笔记”支持设置密码，即“加密笔记”，查看/修改/导出等操作时需要输入正确的密码后才可操作。
+——3.3，“附件”自动加密。
+——说明1，加密是根据用户设置的“笔记簿”密码来生成加密的，所以每个人、每个“笔记簿”的加密都不一样。
+——说明2，LN不会保存“笔记簿”密码、“加密笔记”密码等密码。LN只保存了一个将密码MD5加密后的字符串，用于校验输入的密码是否正确。（MD5是不可逆的，即：无法通过MD5加密后的字符串反计算出原密码。）
+&lt;strong&gt;4，历史版本&lt;/strong&gt;
+——4.1，每次保存自动生成历史版本副本。
+——4.2，支持无限次历史版本。
+&lt;strong&gt;5，无限层级树状分类&lt;/strong&gt;
+&lt;strong&gt;6，回收站&lt;/strong&gt;
+&lt;strong&gt;7，批量导出&lt;/strong&gt;
+导出内容：
+——7.1，笔记本身，笔记格式：.txt/.rtf/其它（由“编辑器”决定）。
+——7.2，附件。
+——7.3，附属信息：类别、级别、标签、摘要等。
+&lt;strong&gt;8，批量导入&lt;/strong&gt;
+导入方式：
+——8.1，导入由LN导出的笔记。在导入时除笔记和附件外，会自动为添加上附属信息（类别、级别、标签、摘要等）。
+——8.2，导入本地.txt/.rtf文件。支持自动添加附件：只需要将附件件放入到同目录下与.txt/.rtf同名的文件夹内即可。
+——8.3，导入其它格式笔记。此操作需要“编辑器”本身支持。
+&lt;strong&gt;9，备份&lt;/strong&gt;
+——9.1，一键备份当前“笔记簿”。
+——9.2，一键备份所有“笔记簿”。
+——说明：备份时自动打包为.zip压缩包，打包时支持打包为加密压缩包。
+&lt;strong&gt;10，编辑器&lt;/strong&gt;
+——支持“编辑器”插件，除了自带的纯文本编辑器、富文本编辑器外，可以自行添加多种编辑器，以实现更加专业细致的功能。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;1，增加：《LN Mobile》（LESLIE NOTE 移动版）同步支持。
+2，增加：“自动更新摘要”【综合设置[通用]】设置项。
+3，增加：左下信息框增加当前笔记簿占用体积信息。
+4，优化：插件编辑器管理工具，简化操作界面。&lt;/p&gt;
+&lt;h3 id=&#34;相关说明&#34;&gt;相关说明
+&lt;/h3&gt;&lt;p&gt;1，本程序是绿色版，使用时请直接运行‘LESLIE NOTE.exe’即可。也可以创建快捷方式到桌面。
+2，环境需求：
+2.1，.Net Framework 4.5或以上版本。
+2.2，VC++ 2010 运行库或以上版本。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;使用文档：&lt;code&gt;http://www.lesliexin.com/pc/lnhelp.html&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/785b6d1e451c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/785b6d1e451c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>AnyTXT Searcher(文档内容搜索工具) v1.3.1515</title>
         <link>https://www.danlong360.com/post/anytxt/</link>
         <pubDate>Wed, 11 Sep 2024 20:55:02 +0800</pubDate>

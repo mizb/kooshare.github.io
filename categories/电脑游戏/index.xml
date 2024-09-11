@@ -7,7 +7,38 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 06 Sep 2024 10:20:48 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Sep 2024 22:43:51 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Vita3K(PSV模拟器) v0.2.0.3644 绿色版</title>
+        <link>https://www.danlong360.com/post/vita3k/</link>
+        <pubDate>Wed, 11 Sep 2024 22:43:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/vita3k/</guid>
+        <description>&lt;p&gt;Vita3K 是一款专为 Windows、Linux 和 MacOS 平台设计的 PSV 掌机游戏模拟器。它利用先进的模拟技术，能够在 PC 上完美运行各种 PSV 掌机游戏，让玩家无需购买真实的 PSV 设备，即可享受到丰富的游戏资源。同时，Vita3K 凭借其高效稳定的性能，为玩家带来了更广泛的游戏选择和更便捷的游戏体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/11/TOczPdpGArUmKyB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240911224433182&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;OpenGL 和 Vulkan 支持
+Vita3K 支持 OpenGL 和 Vulkan 图形 API。 OpenGL 是一种广泛使用的图形 API，可提供跨多种平台的兼容性。 另一方面，Vulkan 是一种较新的图形 API，可提供比 OpenGL 更好的性能和效率。 Vita3K 对 OpenGL 和 Vulkan 的支持确保用户可以选择最适合自己需求的图形 API。&lt;/p&gt;
+&lt;p&gt;GPU 和 CPU 仿真
+Vita3K 模拟 PS Vita 的 GPU 和 CPU，允许用户在计算机上玩 PS Vita 游戏。 该模拟器采用先进技术精确模拟PS Vita的硬件，确保游戏流畅准确地运行。&lt;/p&gt;
+&lt;p&gt;AVX 支持
+Vita3K 支持高级矢量扩展 (AVX)，这是一组旨在提高 CPU 密集型应用程序性能的指令。 AVX 支持确保 Vita3K 可以充分利用现代 CPU，为用户提供最佳性能。&lt;/p&gt;
+&lt;p&gt;高级配置选项
+Vita3K 提供了一系列高级配置选项，允许用户根据自己的喜好定制模拟器。 用户可以配置从图形设置到输入映射的所有内容，确保他们可以完全控制自己的游戏体验。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/fadf4062cc86&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/fadf4062cc86&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>PPSSPP for Windows(PSP模拟器) v1.17.1-1022 中文绿色版</title>
         <link>https://www.danlong360.com/post/ppsspp/</link>
         <pubDate>Fri, 06 Sep 2024 10:20:48 +0800</pubDate>
