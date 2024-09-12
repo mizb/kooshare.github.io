@@ -7,7 +7,95 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 11 Sep 2024 02:15:32 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 12 Sep 2024 22:01:59 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows11rtm4169</title>
+        <link>https://www.danlong360.com/post/windows11rtm4169/</link>
+        <pubDate>Thu, 12 Sep 2024 22:01:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/windows11rtm4169/</guid>
+        <description>&lt;p&gt;微软Win11系统下载,微软Win11 23H2正式版,微软Win11 Build 22631正式版,微软Windows 11 23H2正式版,Windows 11 23H2官方正式版首个初始版的微软原版ISO镜像于2023年10月推出,系统版本为23H2,OS内部版本为22631,GnDown站点此页提供的Win11系统为微软官方原版集成累积更新的完整版ISO镜像.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/12/F654ndW1YXRAzlO.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Windows 11 23H2 Build 22631.4169 RTM&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Windows 11 - 版本信息 | Microsoft Docs
+&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vemgtY24vd2luZG93cy9yZWxlYXNlLWhlYWx0aC93aW5kb3dzMTEtcmVsZWFzZS1pbmZvcm1hdGlvbg==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.microsoft.com/zh-cn/windows/release-health/windows11-release-information&lt;/a&gt;
+2024年9月10号累积更新发布 Windows 11 Version 23H2 with Update [22631.4169]
+9月累积更新正式版(KB5043076) Windows 11 23H2 (OS build 22631.4169) Update
+&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vemgtY24vaGVscC81MDQzMDc2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/zh-cn/help/5043076&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;[Windows 11 NI-23H2]22631.4169 原版集成映像 2024年9月第1次更新 by ananhaid
+● 13合1：直接选取所需版本即可安装，也支持安装之后使用其他密钥转换版本，包含版本为：
+﹂家庭版、专业版、企业版、教育版、专业工作站版、专业教育版、家庭单语言版、家庭中文版
+﹂企业版多会话、IoT 企业版、SE版、专业单语言版、专业中文版（总共13个版本映像生成ISO）
+- 这里发布的是官方MSVS渠道版前面8个版+转换后的5个版，总共13个集成发布
+- 没有添加任何三方数据，母盘选用的NI-23H2 (22631.2428) 官方ISO镜像制作
+- 使用工具只有DISM，没有删减任何内容，完全原版。系统镜像ESD格式生成ISO&lt;/p&gt;
+&lt;p&gt;● 集成功能：
+.net framework 3.5&lt;/p&gt;
+&lt;p&gt;● 集成补丁：
+KB5027397（23H2 启用包）（10月27日）
+KB5043076（24年9月累积更新 22631.4169）（9月11日）
+KB5042099（24年8月 .net 累积更新）（8月14日）&lt;/p&gt;
+&lt;p&gt;原版 ISO 内置的密钥无改动，有数字权利的安装之后记得改成公共密钥（sourcesproduct.ini）
+关于品牌机，为了跳过读取板载随机附送操作系统版本从而没有版本选择，已在 sources 目录内添加 ei.cfg 文件，比如机器默认为家庭中文版，全新安装会时会有选择版本菜单。如有其他需求请网络搜索。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1JjSPUm0eHykijXKagyT2AQ?pwd=ffpc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1JjSPUm0eHykijXKagyT2AQ?pwd=ffpc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows 10 LTSC 2021 Build 19044.4894</title>
+        <link>https://www.danlong360.com/post/10ltsc4894/</link>
+        <pubDate>Thu, 12 Sep 2024 21:59:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/10ltsc4894/</guid>
+        <description>&lt;p&gt;微软Win10LTSC2021最新版,微软Win10 LTSC 21H2下载,Windows 10 LTSC 21H2系统Win10 Build 19044累积更新.Windows 10企业版LTSC版堪称官方Win10精简版,相对普通企业版,不会获得新增功能仅提供安全更新,可以控制升级.GnDown站点此页提供的Win10系统为微软官方原版集成累积更新的完整版ISO镜像.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/12/UozltEnTMWZNx8b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Windows 10 LTSC 2021 Build 19044.4894&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Windows 10 - 版本信息 | Microsoft Docs
+&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vemgtY24vd2luZG93cy9yZWxlYXNlLWhlYWx0aC9yZWxlYXNlLWluZm9ybWF0aW9u&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.microsoft.com/zh-cn/windows/release-health/release-information&lt;/a&gt;
+2024年9月累积更新(KB5043064) Windows 10 version 21H2(OS build 19044.4895) Update
+&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vemgtY24vaGVscC81MDQxNTgy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/zh-cn/help/5041582&lt;/a&gt;
+Win10企业版2021长期服务版（Windows 10 Enterprise LTSC 21H2），提供长期支持至2031年
+它相当于就是官方Win10精简版，稳定流畅，对电脑硬件配置要求较低，可以用数字权利永久激活。
+LTSC版本无应用商店、无微软小娜，无OneDriver、Windows更新提供高级设置可选安装更新方式。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;[Windows 10 LTSC 2021 &amp;amp; 其它]19044.4894原版集成镜像24年9月第1次更新 - ananhaid
+没有添加任何第三方数据，母版选用官方初始版和补丁，使用工具只有DISM，完整功能原版！
+- 集成功能：
+.net framework 3.5（netfx3）、.net framework 4.8.1
+LTSC 2021 集成库文件（微软修复映像错误之前会一直提供）：
+1、集成官方 VP9VideoExtensions 库文件，修复设置-&amp;gt;应用-&amp;gt;视频播放中的预览错误。
+- 集成补丁：
+KB5043064（24年9月累积更新 19044.4894）（9月11日）
+KB5042097（24年8月 .net 累积更新）（8月14日）&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1-QCxZDVLQzcNUYJjjTeT1g?pwd=xn2f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1-QCxZDVLQzcNUYJjjTeT1g?pwd=xn2f&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>不忘初心 Windows11 23H2 (22631.4112) x64 精简 游戏版 无更新 推荐适用于 游戏、直播、办公</title>
         <link>https://www.danlong360.com/post/buwangchuxinyouxi4112/</link>
         <pubDate>Wed, 11 Sep 2024 02:15:32 +0800</pubDate>
