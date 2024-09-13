@@ -7,7 +7,34 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 13 Sep 2024 16:15:49 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 13 Sep 2024 22:18:50 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Apk.1安装器 v1.7.0 安卓应用安装工具</title>
+        <link>https://www.danlong360.com/post/apk1anzhuangqi/</link>
+        <pubDate>Fri, 13 Sep 2024 22:18:50 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/apk1anzhuangqi/</guid>
+        <description>&lt;p&gt;由于在QQ和微信中发送apk文件时，文件名会被腾讯添加后缀.1，此App可以省去重命名步骤，直接安装apk。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/13/pcsT2AJXutdiCD9.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240913221958000&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;使用步骤&#34;&gt;使用步骤
+&lt;/h3&gt;&lt;p&gt;获取安装权限（不需要读取存储权限）
+在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62810956-5e3e13?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62810956-5e3e13?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/bbb49e639e43&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/bbb49e639e43&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>AdGuard广告拦截器APP v4.7.37 Nightly / 4.6.88 Final</title>
         <link>https://www.danlong360.com/post/adguard4737/</link>
         <pubDate>Fri, 13 Sep 2024 16:15:49 +0800</pubDate>
