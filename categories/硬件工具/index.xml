@@ -7,7 +7,35 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 13 Sep 2024 08:23:29 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 13 Sep 2024 10:21:56 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>OCCT电脑硬件测试(烤鸡测试软件) v13.1.7.99 便携版</title>
+        <link>https://www.danlong360.com/post/occt131799/</link>
+        <pubDate>Fri, 13 Sep 2024 10:21:56 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/occt131799/</guid>
+        <description>&lt;p&gt;OCCT中文版(OverClock Checking Tool)是一款电脑稳定性及基准测试软件(烤鸡软件)的硬件测试软件.电源测试软件功能包括:硬件基准测试,温度监控,GPU测试,CPU频率测试,CPU性能测试,CPU显存测试,电源电压功耗测试.OCCT最新版具备类似Furmark超强压榨GPU的能力,支持生成结果图表,生成CSV数据文件及外部监控程序数据导入.它可以使CPU,显卡,电源等满负荷运行,同时监测电源各电压输出的波动,并以曲线图的方式输出电压波动图表,以便于诊断并图表查看计算机在高负载下的反应,可以判断被电源检测工具的大概品质.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/13/S3aDMwg6yNi2Ltd.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;OCCT电脑硬件测试(烤鸡测试软件) v13.1.4.99 便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;OCBASE/OCCT Changelog
+&lt;a class=&#34;link&#34; href=&#34;https://www.ocbase.com/#_changelog&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ocbase.com/#_changelog&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62803768-4c1765?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62803768-4c1765?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/428db01970c6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/428db01970c6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Display Driver Uninstaller(驱动卸载工具) v18.0.8.1 中文绿色版</title>
         <link>https://www.danlong360.com/post/driveruninstaller81/</link>
         <pubDate>Fri, 13 Sep 2024 08:23:29 +0800</pubDate>
