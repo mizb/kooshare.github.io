@@ -7,7 +7,140 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 12 Sep 2024 22:01:59 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 13 Sep 2024 22:38:17 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows 11 23H2 (22631.4169) 13in1镜像 (2024年09月) – ananhaid</title>
+        <link>https://www.danlong360.com/post/win114169131/</link>
+        <pubDate>Fri, 13 Sep 2024 22:38:17 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/win114169131/</guid>
+        <description>&lt;p&gt;此页提供的Win11系统为微软官方原版集成累积更新的完整版ISO镜像。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/13/9JO7LUSMZGiWDHl.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240913223909950&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;系统介绍&#34;&gt;系统介绍
+&lt;/h3&gt;&lt;p&gt;[Windows 11 NI-23H2]22631.4169 原版集成映像 2024年9月第1次更新 - ananhaid&lt;/p&gt;
+&lt;p&gt;● 13合1：直接选取所需版本即可安装，也支持安装之后使用其他密钥转换版本，包含版本为：
+- 家庭版、专业版、企业版、教育版、专业工作站版、专业教育版、家庭单语言版、家庭中文版
+- 企业版多会话、IoT 企业版、SE版、专业单语言版、专业中文版（总共13个版本映像生成ISO）&lt;/p&gt;
+&lt;p&gt;- 这里发布的是官方MSVS渠道版前面8个版+转换后的5个版，总共13个集成发布
+- 没有添加任何三方数据，母盘选用的NI-23H2 (22631.2428) 官方ISO镜像制作
+- 使用工具只有DISM，没有删减任何内容，完全原版。系统镜像ESD格式生成ISO&lt;/p&gt;
+&lt;p&gt;● 集成功能：
+.Net Framework 3.5&lt;/p&gt;
+&lt;p&gt;● 集成补丁：
+KB5027397（23H2 启用包）（10月27日）
+KB5043076（24年9月累积更新 22631.4169）（9月11日）
+KB5042099（24年8月 .net 累积更新）（8月14日）&lt;/p&gt;
+&lt;p&gt;原版 ISO 内置的密钥无改动，有数字权利的安装之后记得改成公共密钥（\sources\product.ini）
+关于品牌机，为了跳过读取板载随机附送操作系统版本从而没有版本选择，已在 sources 目录内添加 ei.cfg 文件，比如机器默认为家庭中文版，全新安装会时会有选择版本菜单。如有其他需求请网络搜索。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1QstZmMjNmCni12KwEKTpig?pwd=w21q&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1QstZmMjNmCni12KwEKTpig?pwd=w21q&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小修 Windows 11 Pro (22000.3197) 轻度精简 传统IE 二合一 (2024.09.11)</title>
+        <link>https://www.danlong360.com/post/xiaoxiuqingdujingjian0911/</link>
+        <pubDate>Fri, 13 Sep 2024 22:35:02 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/xiaoxiuqingdujingjian0911/</guid>
+        <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2024-09-11 更新版本号 22000.3197 优化了处理器及游戏模式时的调动，更新运行库 2024.08&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;因原镜像EDGE浏览器不是最新版本，运行后会自动更新导致臃肿，所以喜欢的用户建议手动安装&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/13/qL9OhgVG1HiseK6.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240913223608273&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;系统特点&#34;&gt;系统特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;纯净、无广告、流畅、右键设置、响应速度、适合办公娱乐/集成微软常用运行库合集、DX&lt;/li&gt;
+&lt;li&gt;关闭windows更新不包括驱动 更新不包括恶意软件删除工具&lt;/li&gt;
+&lt;li&gt;集成.NET Framework 3.5(仅限Windows转换程序)旧版制作&lt;/li&gt;
+&lt;li&gt;集成更新后运行清理 (仅限Windows转换程序) 后期封装制作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;主要保留&#34;&gt;主要保留
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;• User 版本 / [自建账户]&lt;/strong&gt;
+共享、计算器、打印、空间音效、WMP、截图、Net3.5 – 4.8、光学、搜索、剪贴板、IIS
+IE、ODBC、简体输入法、蓝牙、wifi、bitlocker、远程桌面、触摸、指纹、虚拟平台、平板
+User安装完毕 C盘占用5G左右 首次进入桌面进程优化控制在55左右浮动&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;• Admin 版本 / [快速安装]&lt;/strong&gt;
+相比User&lt;del&gt;一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/del&gt;&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名称: H:\Windows 11 Pro 22000.3197 2in1 IE 小修.esd
+文件大小: 1669368086 字节
+修改时间: 2024 年 9 月 11 日, 13:35:39
+MD5: 8C5C0384D0240BAD011F8DC1D6431FB9
+SHA1: 4CE03F4472FB94DFD81C5FA5EEBE83D2C4E70D7E
+CRC32: 42F89EA7&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1LbzeGqMUbXV2_tiTkyANMQ?pwd=27fc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1LbzeGqMUbXV2_tiTkyANMQ?pwd=27fc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小修 Windows 11 Pro (22000.3197) 深度精简 极限版 二合一 (2024.09.11)</title>
+        <link>https://www.danlong360.com/post/xiaoxiuwin11shendujingjian3197/</link>
+        <pubDate>Fri, 13 Sep 2024 22:31:25 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/xiaoxiuwin11shendujingjian3197/</guid>
+        <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2024-09-11 更新至补丁 22000.3197 优化了处理器的调动，禁用了字体驱动的更新&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;深度精简版 相比轻度精简版 少了 winsxs、地图、IIS、Hyper-V 、window 启用功能组件
+22000 的 win11 对老 CPU 比较友好 响应快。缺点是任务栏不能合并 推荐下载“startallback”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/13/DcFV3NBzblxyHW1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240913223325635&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;系统特点&#34;&gt;系统特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;纯净、无广告、流畅、右键设置、响应速度、适合办公娱乐/集成微软常用运行库合集、DX&lt;/li&gt;
+&lt;li&gt;关闭windows更新不包括驱动 更新不包括恶意软件删除工具&lt;/li&gt;
+&lt;li&gt;集成.NET Framework 3.5(仅限Windows转换程序)旧版制作&lt;/li&gt;
+&lt;li&gt;集成更新后运行清理 (仅限Windows转换程序) 后期封装制作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;主要保留&#34;&gt;主要保留
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;• User 版本 / [自建账户]&lt;/strong&gt;
+共享、计算器、打印、空间音效、WMP、截图、Net3.5 – 4.8、光学、搜索、剪贴板
+IE、ODBC、简体输入法、蓝牙、wifi、bitlocker、远程桌面、Mstsc、触摸、指纹、平板
+User安装完毕 C盘占用5G左右 首次进入桌面进程优化控制在55左右浮动&lt;/p&gt;
+&lt;p&gt;**• Admin 版本 / [快速安装]&lt;/p&gt;
+&lt;p&gt;相比User&lt;del&gt;一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/del&gt;&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名称: H:\Windows 11 Pro 22000.3197 2in1 深度精简版 小修.esd
+文件大小: 1571737956 字节
+修改时间: 2024 年 9 月 11 日, 14:46:41
+MD5: 705407047A181A8BC3D247B6F3FBD90B
+SHA1: 5C817FD3DE1B91938D4A05124BB6B616C1DFC51C
+CRC32: AF21ABB4&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/14gVAnFOyIGqpWP9IgOCAFA?pwd=cdp9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/14gVAnFOyIGqpWP9IgOCAFA?pwd=cdp9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows 11 23H2 Build 22631.4169 RTM</title>
         <link>https://www.danlong360.com/post/windows11rtm4169/</link>
         <pubDate>Thu, 12 Sep 2024 22:01:59 +0800</pubDate>
