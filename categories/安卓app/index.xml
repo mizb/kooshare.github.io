@@ -7,7 +7,287 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 14 Sep 2024 14:07:49 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 15 Sep 2024 06:12:27 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>TikTok(抖音海外版) v36.4.4 去广告解锁限制版</title>
+        <link>https://www.danlong360.com/post/tiktok3644/</link>
+        <pubDate>Sun, 15 Sep 2024 06:12:27 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/tiktok3644/</guid>
+        <description>&lt;p&gt;TikTok (抖音海外版) 是抖音专门打造的国际版短视频软件，在TikTok中你可以看到来自世界各地美女帅哥的短视频，了解当地的风土人情，足不出户便可感受异国的风景秀丽。其次，TikTok海外版支持多国语言设置，不论你是英国、美国、还是中国，都有相应的语言支持，可让你轻松使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/15/98wofCNzaDplvHU.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240915061312808&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h3&gt;&lt;p&gt;by Dmitry Nechiporenko，rezvorck
+- 去所有广告、去保存视频水印、解除国家/地区限制，无视区域封锁
+- 提供额外插件可设置全球国家区域,设置视频保存位置,等自定义设置
+- 解除视频下载限制，可存储任何视频无视权限；解除合拍/拼接限制
+- 给视频添加播放进度条显示；为下载视频文件的名称添加了作者标签
+- 修改GIF和视频默认保存位置重定向为Movies/TikTok目录文件夹存储；
+- 支持手机号码登陆；修正谷歌授权、Facebook授权、VK授权；移除了调试信息；
+- 禁用不必要活动控件、禁用所有类型分析、禁用统计分析、对齐优化、极限压缩
+- 启用观看历史、优化电池消耗、禁用自动启动，隐藏的根权限，删除许多其他限制
+- 强制启用高画质视频、强制启用高品质音频、强制启用超清分辨率、并启用抗锯齿&lt;/p&gt;
+&lt;p&gt;备注：TikTok插件(TikTokPlugin)可以自定义设置，用于配合此修改版选择全球区域！&lt;/p&gt;
+&lt;p&gt;by DEXUNPACKER
+– 去所有广告、去保存视频水印
+– 内置自定义全球区域功能向导
+– 可以自定义视频下载保存位置
+– 解除国家/地区限制，无视封锁
+– 解除所有下载限制，可以保存任何视频
+– 重定向视频保存文件夹为TikTok/video
+– 添加了播放进度条，支持手机号码登陆&lt;/p&gt;
+&lt;h3 id=&#34;安装说明&#34;&gt;安装说明
+&lt;/h3&gt;&lt;p&gt;1.如何切换简体中文界面？
+Profile (我的)-右上角”三”（设置）-App Language (应用语言)-中文（简体）-Done（完成）&lt;/p&gt;
+&lt;p&gt;2.如何自定义全球区域？自定义视频下载路径及自定义设置？
+安装修改版和TikTok插件, 插件选择地区并从插件打开tiktok&lt;/p&gt;
+&lt;p&gt;3.碰到无法登陆，获取验证码提示使用太频繁该怎么解决？
+安装 Adguard，打开设置-&amp;gt;DNS过滤-DNS请求拦截-关闭
+清除应用数据或更换梯子节点，或者使用用户名和密码登录&lt;/p&gt;
+&lt;p&gt;4.亲测国内无需拔卡，可用谷歌邮箱或国内手机号注册登陆使用！&lt;/p&gt;
+&lt;p&gt;# 说明：由于TikTok服务器在境外，所以需自备木弟子。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO6maRej05uQbPxS7fpOdgFCA1?pwd=3prs#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO6maRej05uQbPxS7fpOdgFCA1?pwd=3prs#&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>逗音小能手 v2.1.0 抖音助手模块</title>
+        <link>https://www.danlong360.com/post/douyinxiaonengshou/</link>
+        <pubDate>Sun, 15 Sep 2024 06:09:19 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/douyinxiaonengshou/</guid>
+        <description>&lt;p&gt;逗音小能手抖音增强模块是一款抖音短视频去广告及去视频水印的Xposed插件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/15/es6RnptSuUE83c4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240915061010155&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;模块特色&#34;&gt;模块特色
+&lt;/h3&gt;&lt;p&gt;逗音小能手功能说明:
+功能：防烧屏, 全屏模式, 自动播放, 禁止点赞, 全屏显文案, 视频过滤, 自定义顶栏标签等;&lt;/p&gt;
+&lt;p&gt;&amp;lt;复制链接&amp;gt; 短按：复制视频或者图片链接; 长按：复制文案;
+&amp;lt;视频下载&amp;gt; 下载当前无水印视频或者图片;
+&amp;lt;音频下载&amp;gt; 下载当前播放视频的音频;&lt;/p&gt;
+&lt;p&gt;&amp;lt;UI设置&amp;gt;
+&amp;ndash;底部选项卡隐藏设置
+&amp;mdash;-移除-朋友
+&amp;mdash;-移除-商城
+&amp;mdash;-移除-发布
+&amp;mdash;-移除-消息
+&amp;mdash;-移除-我
+&amp;ndash;状态栏透明
+&amp;ndash;状态栏隐藏
+&amp;ndash;底部选项卡透明
+&amp;ndash;主页顶栏透明化
+&amp;ndash;主页右栏按钮透明化
+&amp;ndash;主页底栏文案透明化
+&amp;ndash;评论区色调跟随主题&lt;/p&gt;
+&lt;p&gt;&amp;lt;其他设置&amp;gt;
+&amp;ndash;主页标签隐藏设置
+&amp;mdash;-移除-购物
+&amp;mdash;-移除-关注
+&amp;mdash;-移除-探索
+&amp;mdash;-移除-同城
+&amp;mdash;-移除-直播
+&amp;mdash;-移除-更多
+&amp;mdash;-移除-学习
+&amp;mdash;-移除-附近
+&amp;mdash;-移除-长视频
+&amp;ndash;主页视频流过滤
+&amp;mdash;-屏蔽-广告
+&amp;mdash;-屏蔽-图文视频
+&amp;mdash;-屏蔽-各种推荐卡片
+&amp;mdash;-屏蔽-直播
+&amp;ndash;提示框屏蔽
+&amp;mdash;-青少年模式提示框
+&amp;mdash;-新版本提示框
+&amp;mdash;-访问通信录提示框
+&amp;mdash;-朋友推荐提示框
+&amp;ndash;主页点击刷新添加提示
+&amp;ndash;视频双击打开评论
+&amp;ndash;设置下载保存路径
+&amp;mdash;-视频保存路径
+&amp;mdash;-图片保存路径
+&amp;mdash;-音频保存路径
+&amp;mdash;-表情保存路径&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2023.11.19 v2.0.7
+&amp;ndash;修复视频图片下载不准确问题
+&amp;ndash;提示框屏蔽可以自定义配置
+&amp;ndash;更新评论区图片下载按钮
+&amp;ndash;更新主业右侧按钮的隐藏配置&lt;/p&gt;
+&lt;p&gt;2023.10.27 v2.0.6
+&amp;ndash;新增收藏搜索表情包下载(长按表情)
+&amp;ndash;新增主页右侧按钮隐藏
+&amp;ndash;新增自带图文视频下载器去水印
+&amp;ndash;添加复制功能选项&lt;/p&gt;
+&lt;p&gt;2023.10.20 v2.0.5
+- 新增支持抖音极速版
+- 新增一些弹框的屏蔽&lt;/p&gt;
+&lt;p&gt;2023.10.13 v2.0.4
+- 优化新版本适配
+- 修复主页顶栏透明度设置
+- 增加一些提示框的屏蔽&lt;/p&gt;
+&lt;p&gt;2023.10.11 v2.0.3
+- 修复新版本适配
+- 恢复自动播放按钮&lt;/p&gt;
+&lt;p&gt;2023.08.31 v2.0.2
+&amp;ndash;底部选项卡自定义隐藏；
+&amp;ndash;去除自动播放相关配置；
+&amp;ndash;添加一些标签的屏蔽；&lt;/p&gt;
+&lt;h3 id=&#34;使用教程&#34;&gt;&lt;strong&gt;使用教程&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;1、首次或者更新版本后会弹出适配提示框，待适配完成重启生效；
+2、视频播放界面, 点击分享按钮弹出功能菜单；
+3、理论上可以自动适配24以上的所有版本;&lt;/p&gt;
+&lt;p&gt;# 如果安装集成模块的最新抖音版本覆盖升级闪退, 请先清理数据。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62929117-171e4e?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62929117-171e4e?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/22f8e6d30521&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/22f8e6d30521&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Freedom&#43; v1.3.6 抖音增强模块</title>
+        <link>https://www.danlong360.com/post/freedom136/</link>
+        <pubDate>Sun, 15 Sep 2024 06:06:36 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/freedom136/</guid>
+        <description>&lt;p&gt;Freedom+ 抖音增强模块是一款抖音短视频去广告及去视频水印的Xposed插件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/15/6hMkCNXcfsm5Tjx.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240915060726158&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;模块特色&#34;&gt;模块特色
+&lt;/h3&gt;&lt;p&gt;Freedom+功能说明:
+- 视频无水印下载
+- 评论区视频/图片保存
+- 表情包保存
+- 首页控件半透明防烧屏
+- 首页清爽模式隐藏大部分控件
+- 顶部Tab栏自定义隐藏
+- 禁用双击点赞
+- 双击打开评论区
+- 全屏沉浸式播放
+- 移除底部加号按钮
+- 视频过滤(直播、广告、长视频、文案关键字等)&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v1.3.6
+- 修复评论区图片保存失效
+- 修复清爽模式失效&lt;/p&gt;
+&lt;h3 id=&#34;安装提示&#34;&gt;安装提示
+&lt;/h3&gt;&lt;p&gt;1.理论上支持：23.5.0 ~ 至今
+2.使用此插件需要抖音存储权限读取插件配置。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62929114-e37b33?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62929114-e37b33?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7842ad1ca69b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/7842ad1ca69b&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>QAuxiliary v1.5.3 Xposed模块(支持QQ和Tim扩展模块)</title>
+        <link>https://www.danlong360.com/post/qauxiliary/</link>
+        <pubDate>Sun, 15 Sep 2024 06:03:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/qauxiliary/</guid>
+        <description>&lt;p&gt;QAuxiliary 是一个基于 QNotified 的开源 Xposed 模块，可以实现 QQ 和 Tim 的扩展辅助软件。QAuxiliary在 QQ 或者 TIM 设置中点击 QAuxiliary 即可进入设置页面；操作简单，而且代码完全开源，安全有保障，喜欢的朋友可以下载体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/15/5SrENRFu2UMGpJz.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240915060419662&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v1.5.3
+更新日志
+线上问题修复 用户体验优化&lt;/p&gt;
+&lt;p&gt;新增功能
+禁用特定消息触发的交互式弹窗
+移除收藏预览限制
+TIM回复消息菜单
+查找共同群
+屏蔽悬浮广告(测试版)&lt;/p&gt;
+&lt;p&gt;修复部分功能
+侧滑栏精简
+聊天文件分享其他应用
+显示具体消息数量
+编辑重发文本消息
+隐藏底栏
+移除TIM群聊“修改/设置消息设置”提示
+去除转发9名联系人限制
+聊天自动接收原图
+复制Markdown消息
+屏蔽群昵称图标
+强制平板模式
+移除侧滑栏左上角打卡
+拦截点击机器人消息按钮直接发送&lt;/p&gt;
+&lt;h3 id=&#34;安装提示&#34;&gt;安装提示
+&lt;/h3&gt;&lt;p&gt;arm64：使用此 ABI 包的 QAuxiliary 适用于 arm64-v8a 的 QQ 。
+arm32：使用此 ABI 包的 QAuxiliary 适用于 armeabi-v7a 的 QQ / TIM 。
+armAll：使用此 ABI 包的 QAuxiliary 适用于 armeabi-v7a 的 QQ / TIM 和 arm64-v8a 的 QQ 。
+universal：使用此 ABI 包的 QAuxiliary 支持所有架构的 QQ / TIM 。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62929108-e40b0f?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62929108-e40b0f?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/08216f858c3e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/08216f858c3e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>布蕾4K v3.0.1 安卓追剧软件</title>
+        <link>https://www.danlong360.com/post/bulei301/</link>
+        <pubDate>Sun, 15 Sep 2024 06:00:49 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/bulei301/</guid>
+        <description>&lt;p&gt;布蕾4K是一款安卓免费4K追剧软件。汇聚各大主流影视平台影视资源，热门综艺、电视电影、美剧韩剧、卡通动漫实时自动更新，统统免费观看；此外布蕾影城还提供评论弹幕、下载投屏等特色功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/15/hJotaITvrMlRXbs.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240915060135391&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;by zhou45&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;去除签名效验&lt;/li&gt;
+&lt;li&gt;去首页公告和联盟广告&lt;/li&gt;
+&lt;li&gt;去播放和下载观看广告&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO6mYsOSbQ3fi__q9e_T4n7PA1?pwd=7t98#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO6mYsOSbQ3fi__q9e_T4n7PA1?pwd=7t98#&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Xodo PDF Reader &amp; Editor Pro「Xodo PDF 阅读器和编辑器」v9.4.2 for Android 解锁专业版</title>
         <link>https://www.danlong360.com/post/xodo942/</link>
         <pubDate>Sat, 14 Sep 2024 14:07:49 +0800</pubDate>
