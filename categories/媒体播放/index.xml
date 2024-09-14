@@ -7,7 +7,48 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 13 Sep 2024 21:14:52 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 14 Sep 2024 10:35:36 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>弹弹play(本地视频&#43;弹幕播放器) v15.9.2 绿色版</title>
+        <link>https://www.danlong360.com/post/dandanplay1592/</link>
+        <pubDate>Sat, 14 Sep 2024 10:35:36 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/dandanplay1592/</guid>
+        <description>&lt;p&gt;一款全功能的“本地视频+弹幕”播放器，可以用它来播放本地硬盘中的视频文件，并可实时加载，观看网络上的弹幕，和大家一同交流看法与观点。软件支持播放绝大部分视频及音频格式内置搜索、加载网络弹幕功能。是将视频与弹幕相结合的影音播放工具，可以支持分析你的视频文件，将它与网络上的弹幕进行匹配，不管你看的是渣360p，还是高清1080p，它都能够帮你找到同一份弹幕，和所有观看此动画的朋友进行交流。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/14/lOmsBeC4UdvF51a.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;弹弹play(本地视频&amp;#43;弹幕播放器) v15.5.0 绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1、支持的视频格式多，本地视频不用担心被删减和遮挡画面内容。
+2、视频智能识别，只要视频的内容相同，看到的就是同一份弹幕。
+3、能加载其他站点的弹幕。
+4、播放历史与更新提醒可以同步，并且与手机互通。
+5、支持视频插帧，可一键开启 Anime4K，实时提升低分辨率视频的清晰度。
+6、可以当作媒体库使用。
+7、支持高速下载种子等文件。
+8、提供远程访问功能，本地视频不必传来传去。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;Windows版 v15.9.2
+下载器模块启动时将预热与DHT网络的连接（而不是等到启动首个任务才开始）
+新增通过DHT网络将磁力链解析为种子文件
+“自动下载”页预览结果时会显示此资源是否已经在下载列表中
+修复了批量下载时速度可能降低至0的问题
+修复了串流播放时，可能会残留连接未断开的问题
+修复了串流播放时，长时间暂停后可能无法继续播放的问题&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62868169-d5ea47?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62868169-d5ea47?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/98a97b484125&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/98a97b484125&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>LeafView(轻量级图片查看器) v3.2.2 中文绿色版</title>
         <link>https://www.danlong360.com/post/leafview322/</link>
         <pubDate>Fri, 13 Sep 2024 21:14:52 +0800</pubDate>
