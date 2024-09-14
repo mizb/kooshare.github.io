@@ -7,7 +7,56 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 14 Sep 2024 08:41:55 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 14 Sep 2024 13:27:38 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>小修 Windows 11 24H2 Pro (26100.1742) 轻度精简 二合一 (2024.09.12)</title>
+        <link>https://www.danlong360.com/post/xiaoxiuwin111742/</link>
+        <pubDate>Sat, 14 Sep 2024 13:27:38 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/xiaoxiuwin111742/</guid>
+        <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2024-09-12 更新至补丁 26100.1742
+调回默认平衡模式 (避免部分 CPU 系列不降频)，处理性能优化调整。
+在设置中禁用了疑问解答，检查更新。恢复了高级启动选项&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/14/jghX823wVZLpWz9.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240914132900118&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;新版 Win11 精简难度增大了。修系统的精简初衷就是把 99%用户用不到的文件都精简，做到容量小，功能多的轻快系统。
+所以对 Windows 26100 反复精简了 2 个通宵。若遇到问题还请网友们包容吐槽。在此感谢广大网友们的喜爱及反馈！
+优化有改进，虚拟内存设置了进行了改变。以免玩虚幻 4 引擎的游戏遇到报错 out of video…等情况(列如热门的黑悟空)
+目前 24H2 Win11 网上邻居发现 BUG 存在不能自动发现共享名称的情况 需手动输入“\用户名称”进行访问。
+默认启用 GameXX 性能电源模式，适合任务多开、玩游戏的用户。打印机共享已优化 可默认添加
+需要 webview2 runtime 语言包的 可点击任务栏的 outlook 会自动安装。用不到的 可&lt;/p&gt;
+&lt;p&gt;轻度精简版 在对比其它深度版上保留了虚拟机平台、iis、相机、支持了 window 启用功能&lt;/p&gt;
+&lt;h3 id=&#34;系统特点&#34;&gt;系统特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;纯净、无广告、流畅、右键设置、响应速度、适合办公娱乐/集成微软常用运行库合集、DX&lt;/li&gt;
+&lt;li&gt;关闭windows更新不包括驱动 更新不包括恶意软件删除工具&lt;/li&gt;
+&lt;li&gt;集成.NET Framework 3.5(仅限Windows转换程序)旧版制作&lt;/li&gt;
+&lt;li&gt;集成更新后运行清理 (仅限Windows转换程序) 后期封装制作&lt;/li&gt;
+&lt;li&gt;桌面集成了便捷小工具 可还原经典资源管理器，新旧版右键界面等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名称: H:\Windows 11 Pro 26100 1742 2in1 小修.esd
+文件大小: 1726537946 字节
+修改时间: 2024 年 9 月 12 日, 14:15:14
+MD5: FCB85607BA45E116C170B984F80514D8
+SHA1: 62C0BE48265C61FF55529BD7203CB7B04FCDE529
+CRC32: 5605BF52&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1htCxrOTGAyyCXgR7p-3ofQ?pwd=3mqn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1htCxrOTGAyyCXgR7p-3ofQ?pwd=3mqn&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>xb21cn Win11 v24H2 Build 26120.1742.1 精简版</title>
         <link>https://www.danlong360.com/post/xb21cnwin111742/</link>
         <pubDate>Sat, 14 Sep 2024 08:41:55 +0800</pubDate>
