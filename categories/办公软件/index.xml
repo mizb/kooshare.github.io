@@ -7,7 +7,84 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 15 Sep 2024 11:36:56 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 15 Sep 2024 14:32:56 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub Desktop 3.4.5 中文汉化版</title>
+        <link>https://www.danlong360.com/post/githubdesktop345/</link>
+        <pubDate>Sun, 15 Sep 2024 14:32:56 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/githubdesktop345/</guid>
+        <description>&lt;p&gt;GitHub Desktop 是一款官方推出的 Git 图形用户界面 (GUI) 客户端，旨在为开发者提供一个简单直观的方式来管理和操作 Git 仓库。它帮助开发人员更轻松地在本地与 GitHub 仓库进行交互，无需命令行操作，适用于初学者和高级用户。GitHub Desktop 提供简洁的界面，使得分支管理、提交变更和查看代码差异等任务更加直观，帮助开发团队更高效地协作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/15/mDhw482OlLIAnUv.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240915143324979&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;图形化操作 Git 仓库
+&lt;ul&gt;
+&lt;li&gt;通过图形界面执行 Git 操作，如提交、推送、拉取、克隆等，无需命令行。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;分支管理
+&lt;ul&gt;
+&lt;li&gt;支持快速创建、切换和合并分支，帮助开发者更高效地进行分支开发和版本控制。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;查看更改和冲突
+&lt;ul&gt;
+&lt;li&gt;轻松查看文件的变更内容，直观展示代码差异和解决合并冲突。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;GitHub 集成
+&lt;ul&gt;
+&lt;li&gt;完美集成 GitHub，支持一键克隆和提交到 GitHub 仓库，管理 Pull Requests 及 Issue。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;拖放操作
+&lt;ul&gt;
+&lt;li&gt;通过简单的拖放操作将文件添加到仓库，无需复杂的 Git 命令。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;提交历史查看
+&lt;ul&gt;
+&lt;li&gt;可视化提交历史，方便跟踪项目进度及回溯修改。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;代码审查支持
+&lt;ul&gt;
+&lt;li&gt;集成代码审查工具，帮助团队成员协作审查和优化代码。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;跨平台支持
+&lt;ul&gt;
+&lt;li&gt;GitHub Desktop 适用于 Windows 和 macOS，满足多平台开发者的需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;自动同步
+&lt;ul&gt;
+&lt;li&gt;支持自动同步功能，确保本地仓库与远程仓库之间的更改保持一致。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;贡献者统计
+&lt;ul&gt;
+&lt;li&gt;查看项目中的贡献者统计，了解团队成员的贡献情况和工作进展。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62932474-495f8c?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62932474-495f8c?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/067184e43ac6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/067184e43ac6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>QOwnNotes(跨平台笔记应用程序) v24.9.6 中文绿色版</title>
         <link>https://www.danlong360.com/post/qownnotes2496/</link>
         <pubDate>Sun, 15 Sep 2024 11:36:56 +0800</pubDate>
