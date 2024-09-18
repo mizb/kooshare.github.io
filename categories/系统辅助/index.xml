@@ -7,7 +7,97 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 18 Sep 2024 16:59:32 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 18 Sep 2024 20:54:02 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>搜狗拼音输入法PC版 v14.8.0.9884v3 绿色精简版</title>
+        <link>https://www.danlong360.com/post/sougoupinyinshurufa9884/</link>
+        <pubDate>Wed, 18 Sep 2024 20:54:02 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/sougoupinyinshurufa9884/</guid>
+        <description>&lt;p&gt;搜狗输入法电脑版是装机必备软件,其打字准,词库全,功能强大,使得输入更高效.搜狗拼音输入法最新版,AI打字准确高效.搜狗输入法去广告绿色精简版,移除广告程序精简优化后的用着还不错,至少比官方版用着安心些.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/18/9I1bDYpj65uJ7q8.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;搜狗输入法官方原版丨最新版下载丨版本号 14.5.0.9485&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;升级日志 - 搜狗输入法
+&lt;a class=&#34;link&#34; href=&#34;https://pinyin.sogou.com/changelog.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pinyin.sogou.com/changelog.php&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;By: BEIKING
+– 试图打造不联网的搜狗拼音输入法精简版；
+– 修改 SogouPY.ime 和 SogouPY64.ime 去损坏弹窗；
+– 用 0 填充 SGTool.exe 中的 sogou.com 试图阻止联网；
+– 精简 Resource.dll 资源库文件
+– 皮肤和词库放入压缩包内对应文件夹也能自动安装；
+– 细胞词库正常，你下载的 scel 先放到 Scd 文件夹会自动导入；
+– 默认将属性设置、输入法管理器和符号大全快捷方式创建到根目录；
+(需通过快捷方式，才能打开“属性设置”、“输入法管理器”、“符号大全”等窗口)
+√ 免安装批处理精简绿化，仅保留核心功能！
+√ 替换默认皮肤为：简约五彩键盘；
+(修改默认皮肤：_Green\SogouPY\env.ini，ActiveSkinName=简约五彩键盘)
+√ 去联网、去弹窗、去调用，精简了所有的额外功能组件；
+√ 不支持：云计算候选、账户登陆、词库同步，已全部阉割；
+√ 支持安装皮肤和词库、保留符号大全、提供各类本地词库；
+静默安装版安装路径：C:\Program Files\搜狗拼音&lt;/p&gt;
+&lt;p&gt;2024.09.18
+跟进 BEIKING 去广告版 14.8.0.9884 (14.8a) v3
+1）更新版本：v14.8a(9884) v3
+7z版增加支持GB18030-2022全量汉字输入，保留云计算候选入口。
+（若需要云计算候选，请从官方版本拷贝 SogouCloud.exe 到版本号文件夹，绿化后，再通过“属性设置”工具打开云计算候选）
+exe版继续保持精简够用，不增加支持GB18030-2022全量汉字输入，但保留云计算候选入口。&lt;/p&gt;
+&lt;h3 id=&#34;版本区别&#34;&gt;版本区别
+&lt;/h3&gt;&lt;p&gt;① exe单文件，没带词库文件，双击选择路径安装 (自动安装参数: -ai)，输入法配置保存在系统默认路径，在开始菜单创建快捷方式，SGTool.exe 允许常驻进程，响应快捷键可通过 Ctrl+Shift+Z 调出符号大全；
+② 7z 压缩包，带词库文件，需解压通过脚本安装，输入法配置保存在当前文件夹，在当前文件夹创建快捷方式，SGTool.exe 不允许常驻进程，不响应快捷键；&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/b6b9ee07cc89&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/b6b9ee07cc89&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Q-Dir(免费的文件管理器) v11.79 中文绿色版</title>
+        <link>https://www.danlong360.com/post/qdir1179/</link>
+        <pubDate>Wed, 18 Sep 2024 20:50:50 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/qdir1179/</guid>
+        <description>&lt;p&gt;Q-Dir是一款免费的文件管理器，具有多窗口浏览、拖放功能、自定义布局等特点，可以快速方便地浏览和管理文件和文件夹。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/18/MSodwl8VmUrbghq.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Q-Dir(免费的文件管理器) v11.65 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;多窗口浏览：可以同时在一个界面中打开多个文件夹，方便对文件和文件夹进行管理。&lt;/li&gt;
+&lt;li&gt;拖放功能：支持拖放文件和文件夹，可以方便地进行复制、移动、删除等操作。&lt;/li&gt;
+&lt;li&gt;自定义布局：可以自定义窗口布局，包括窗口大小、位置、颜色等，让用户更加舒适地使用软件。&lt;/li&gt;
+&lt;li&gt;支持多种文件类型：支持浏览和管理多种文件类型，包括文本文件、图像文件、音频文件、视频文件等。&lt;/li&gt;
+&lt;li&gt;快速访问：支持快速访问常用文件和文件夹，可以将它们添加到收藏夹中，方便快速打开。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;免费：Q-Dir是一款完全免费的软件，用户无需支付任何费用即可使用全部功能。&lt;/li&gt;
+&lt;li&gt;轻巧：Q-Dir的安装包非常小，只有几百KB，安装后占用的系统资源也非常少，不会影响计算机的性能。&lt;/li&gt;
+&lt;li&gt;界面友好：Q-Dir的界面简洁、直观，易于操作，即使是初次使用的用户也可以轻松上手。&lt;/li&gt;
+&lt;li&gt;支持多语言：Q-Dir支持多种语言，包括英语、中文、德语、法语等，用户可以选择自己熟悉的语言来使用软件。&lt;/li&gt;
+&lt;li&gt;持续更新：Q-Dir的开发者会持续更新软件，修复bug、增加新功能，保证软件的稳定性和可靠性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d8f9a682ab3e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d8f9a682ab3e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>滴哦小精灵(一键式的效率倍增器) v1.4.0</title>
         <link>https://www.danlong360.com/post/diexiaojingling140/</link>
         <pubDate>Wed, 18 Sep 2024 16:59:32 +0800</pubDate>
