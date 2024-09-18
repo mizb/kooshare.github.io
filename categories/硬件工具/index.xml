@@ -7,7 +7,90 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 18 Sep 2024 13:55:54 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 18 Sep 2024 17:53:38 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>图吧工具箱(图拉丁吧硬件检测工具箱) v2024.09 中文绿色版</title>
+        <link>https://www.danlong360.com/post/tubagongjuxiang202409/</link>
+        <pubDate>Wed, 18 Sep 2024 17:53:38 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/tubagongjuxiang202409/</guid>
+        <description>&lt;p&gt;图吧工具箱(全名图拉丁吧硬件检测工具箱)是个免费开源绿色纯净的硬件检测工具合集,专为图钉及所有DIY爱好者制作,包含常用硬件测试和检测工具,月工JS必备.图拉丁工具箱硬件检测工具,免费无限制功能全免费.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/18/pIUfyEsMSL69hiP.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;图吧工具箱(图拉丁吧硬件检测工具箱) v2024.06 绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;图吧工具箱2024.09更新内容如下：
+CPUZ、HWINFO、DDU、GPUZ更新到最新版本。
+新增支持白嫖5天会员的斧牛加速器。
+&amp;hellip;..&lt;/p&gt;
+&lt;h3 id=&#34;常见问题&#34;&gt;常见问题
+&lt;/h3&gt;&lt;p&gt;1.使用浏览器或群文件都下载失败？
+工具箱安装包内包含Windows系统激活工具，会被大部分杀毒软件尤其是Windows10自带的Windows defender当成病毒处理，因此在开启这部分杀毒软件的情况下可能出现无法正常下载、下载失败或无法完成下载的现象， 点此了解详情 。
+解决方法：建议下载之前暂时关闭杀毒软件，下载、安装完成之后再重新打开杀毒软件。&lt;/p&gt;
+&lt;p&gt;2.提示打开数据库失败、皮肤文件丢失且无法打开工具？
+出现这种问题的原因多是使用绿色版时未解压导致，也可能是由于工具箱权限不足导致。
+解决方法：将绿色版压缩包内所有文件解压后，以管理员身份运行工具箱即可正常使用。&lt;/p&gt;
+&lt;p&gt;3.有些工具打不开？
+多为缺少工具所需运行库导致，也有可能是工具版本与系统位宽不匹配导致。
+解决方法：建议下载并安装运行库合集、.net运行库后再尝试打开。此外32位系统应选择32位工具即可正常打开。&lt;/p&gt;
+&lt;p&gt;4.硬件检测不准确或存在争议？
+工具箱收集的硬件信息均来自SMBios、WMI、CPUID，数据仅供参考，并不保证一定准确，请以实物为准。
+解决方法：建议使用工具箱内更专业的工具检测硬件信息。&lt;/p&gt;
+&lt;p&gt;5.为什么有的工具是英文版？
+汉化版无法保证安全性，作者在收集、打包工具时会优先打包官方版 原版或未经修改的版本，这些工具官方可能并没有提供中文，因此工具箱内有一部分工具是英文版。
+解决方法：提升自己的英语水平、或者通过百度、搜狗、404等搜索引擎搜索使用教程。&lt;/p&gt;
+&lt;p&gt;6.安装版安装失败？
+工具箱所谓的安装版与绿色版的区别仅为解压方式不同，安装包会自动解压，绿色版需要手动解压，除此之外没有任何区别。
+解决方法：可以使用绿色版或使用7zip打开工具箱安装包并手动解压。&lt;/p&gt;
+&lt;p&gt;7.无法卸载、找不到卸载程序？
+工具箱安装版安装时仅进行了解压操作，并未对系统、注册表之类做任何修改，所以无需卸载，直接删除即可。
+解决方法：无需卸载，直接删除。或在图吧工具箱的目录下有所谓的卸载程序(自动删除工具)。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c7df682b901e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c7df682b901e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Hard Disk Sentinel(固态硬盘监控) v6.20.3 中文绿色版</title>
+        <link>https://www.danlong360.com/post/harddisksentinel6203/</link>
+        <pubDate>Wed, 18 Sep 2024 17:43:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/harddisksentinel6203/</guid>
+        <description>&lt;p&gt;Hard Disk Sentinel 是一款用于监控硬盘和SSD的软件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/18/OGE1A3pCibKduko.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Hard Disk Sentinel(固态硬盘监控) v6.20.3 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;硬盘监控：能够实时监测硬盘的状态和健康状况，包括温度、S.M.A.R.T.（自动诊断技术报告）、传输速度和错误率等。
+预警和警报功能：当硬盘出现故障或健康状况不佳时，会发出警报并发送电子邮件或短信通知用户。
+数据恢复：软件可以检测并修复硬盘上的坏道，并帮助用户找回无法访问的数据。
+性能测试：软件提供了硬盘和SSD的性能测试功能，可以评估其读写速度和响应时间等指标。
+硬盘管理：用户可以对硬盘进行分区、格式化和优化等操作，从而提高硬盘的性能和稳定性。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;完整的硬盘监测：软件提供了全面的硬盘监测功能，能够检测硬盘的各种参数并提供详细的报告和警告。
+多种报警方式：用户可以选择通过警报窗口、声音警报、电子邮件或短信等方式接收关于硬盘状态的警报信息。
+实时监控：软件能够实时监控硬盘的状态变化，并根据设定的条件触发相应的警报。
+用户友好的界面：软件界面简洁直观，用户可以轻松浏览和理解硬盘的状态和运行情况。
+兼容性强：软件支持各种硬盘和SSD类型，包括SATA、IDE、SCSI、USB等接口。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d6faa17ce69c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d6faa17ce69c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>HWiNFO(专业系统信息诊断工具) v8.11.5545 多语便携版</title>
         <link>https://www.danlong360.com/post/hwinfo5545/</link>
         <pubDate>Wed, 18 Sep 2024 13:55:54 +0800</pubDate>
