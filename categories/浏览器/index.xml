@@ -7,7 +7,68 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 18 Sep 2024 13:48:19 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 18 Sep 2024 15:05:56 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>火狐浏览器(Firefox)tete009 Firefox 130.0.1 private build</title>
+        <link>https://www.danlong360.com/post/firefox13001/</link>
+        <pubDate>Wed, 18 Sep 2024 15:05:56 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/firefox13001/</guid>
+        <description>&lt;p&gt;tete009 Firefox最新版火狐浏览器知名第三方编译版,火狐浏览器tete009编译版,其优化设计和兼容性非常优秀.它的便携化制作方式完美,加载大容量网页速度特别快,尤其是加载图片速度快,兼容性启动速度非常不错.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/18/TeqjZh1DbvBm4KU.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;火狐浏览器(Firefox)tete009 Firefox 126.0.1 x64 SSE3 private build&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;-tete009-firefox-特点介绍&#34;&gt;● tete009 Firefox 特点介绍
+&lt;/h3&gt;&lt;p&gt;tete009 Mozilla Firefox - Tete&amp;rsquo;s Atelier
+&lt;a class=&#34;link&#34; href=&#34;http://www1.plala.or.jp/tete009/en-US/software.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www1.plala.or.jp/tete009/en-US/software.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;tete009 Firefox 编译版的启动和加载图片时间是所有火狐浏览器版本里最快的!tete009的版本改进了Firefox内存占用，根据不同的CPU指令集重写了tmemutil.dll，即内存管理的dll文件，使效率大为提高;改善了浏览器的渲染过程，使渲染效率更高;此外Module Binder能缩短Firefox的启动时间。根据不同的CPU指令集制作不同的版本，使Mozilla Firefox能够根据不同的平台而优化，这也是众多第三方编译版共同的特征。&lt;/p&gt;
+&lt;h3 id=&#34;-tete009-firefox版本切换简体中文方法&#34;&gt;● tete009 Firefox版本切换简体中文方法
+&lt;/h3&gt;&lt;p&gt;设置(Settings)-&amp;gt;常规(General)-&amp;gt;language(语言)
+English(US)-&amp;gt;下拉-&amp;gt;Search for more languages (搜索更多语言)
+Select a language to add-&amp;gt;下拉-&amp;gt;简体中文-&amp;gt;Add-&amp;gt;添加完-OK&lt;/p&gt;
+&lt;h3 id=&#34;-tete009-firefox版本如何启用便携模式&#34;&gt;● tete009 Firefox版本如何启用便携模式?
+&lt;/h3&gt;&lt;p&gt;在根目录新建文件 tmemutil.ini，启用以下内容即可完成便携模式
+%AppData%LocalMozillaFirefoxProfiles可以保存到跟根目录
+Portable = 1，如果为0则禁用便携模式
+[General]
+Portable = 1
+PortableDataPath = D:FirefoxProfiles
+● 如何更新tete009 Firefox版本 (作者方法)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打开tete009 Firefox旧版的所在位置，根据需要备份以下文件和文件夹&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;├—PortableDataPath 指定的文件夹(如果启用了便携模式)
+├—searchplugins folder (搜索插件目录)
+├—plugins folder (插件目录)
+├—tmemutil.ini (如果已存在)&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;删除tete009 Firefox旧版本&lt;/li&gt;
+&lt;li&gt;解压tete009 Firefox最新版&lt;/li&gt;
+&lt;li&gt;将备份文件复制到新版目录&lt;/li&gt;
+&lt;li&gt;如有必要重新安装语言包&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;x64 SSE3
+Firefox 130.0.1 [2024091313 en-US win32 tete009 x64 sse3 cspgo] (67.6MB)
+MD5: 0076805498ae05752434948074aacb86
+SHA1: 4d49e51d0764c5f2a07ea953d8b180e0acf6ec79
+SHA256: be7e0f068d9f3c3b60475485c7782fd6a0901b3ff71ae41291fbfac1c02cc204&lt;/p&gt;
+&lt;p&gt;Language packs:
+&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9yZWxlYXNlcy5tb3ppbGxhLm9yZy9wdWIvbW96aWxsYS5vcmcvZmlyZWZveC9yZWxlYXNlcy8xMzAuMC4xL3dpbjY0L3hwaS8=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://releases.mozilla.org/pub/mozilla.org/firefox/releases/130.0.1/win64/xpi/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2f1a64cc0b2a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2f1a64cc0b2a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>谷歌浏览器Google Chrome v129.0.6668.59 官方正式版</title>
         <link>https://www.danlong360.com/post/chromzhengshi666859/</link>
         <pubDate>Wed, 18 Sep 2024 13:48:19 +0800</pubDate>
