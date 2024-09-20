@@ -7,7 +7,227 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 20 Sep 2024 16:02:02 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Sep 2024 19:41:42 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>TikTok国际版抖音 36.5.4 修改版</title>
+        <link>https://www.danlong360.com/post/tiktok3654/</link>
+        <pubDate>Fri, 20 Sep 2024 19:41:42 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/tiktok3654/</guid>
+        <description>&lt;p&gt;📱TikTok 是一个充满创意和活力的短视频平台，其功能强大、内容丰富，结合了娱乐、社交、创作和营销等多样化元素，受到了全球各地用户的喜爱。无论是个人展示才华、追求娱乐，还是品牌寻求宣传，都是一个不容错过的平台。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/20/vZu8SEakJPgqRx3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240920194228241&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;功能摘要&#34;&gt;功能摘要
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;短视频创作&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;用户可以录制15秒到3分钟的短视频，并通过强大的编辑工具添加音乐、滤镜、特效、贴纸和文字动画等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;智能推荐算法&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;TikTok 使用先进的智能推荐系统，根据用户的观看历史、互动行为（如点赞、评论、分享）来定制个性化视频推荐，确保用户看到的内容始终是自己感兴趣的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;多样化的音乐库&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;TikTok 拥有庞大的音乐库，用户可以为视频选择背景音乐、音效和流行歌曲，使视频更有表现力和吸引力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;互动功能&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;用户可以对喜欢的视频点赞、评论、分享以及与其他创作者进行视频双重曝光和对口型挑战等互动。&lt;/li&gt;
+&lt;li&gt;参与流行的标签挑战和话题活动，与全球用户互动。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;直播&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;提供实时直播功能，用户可以进行直播，与观看者互动并接受虚拟礼物。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AR效果和滤镜&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;应用内置了许多有趣的AR效果和滤镜，进一步增强视频的创意和趣味性。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;- We&amp;rsquo;ve made it even easier to shoot videos!
+- Meet the new app icon!
+- Added and fixed nearby tab&lt;/p&gt;
+&lt;h3 id=&#34;修改说明&#34;&gt;修改说明
+&lt;/h3&gt;&lt;p&gt;by tigr1234566、Dmitry Nechiporenko&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;移除了所有广告
+将视频和GIF的无水印下载位置改为Movies/TikTok文件夹，而不是DCIM/Camera，图片的下载位置改为Pictures/TikTok
+移除了所有下载限制，可以下载任何视频
+移除了许多其他限制
+禁用了不必要的活动
+移除了对合拍(Duet)和拼接(Stitch)的限制
+现在任何视频都可以自由快退
+优化了电池消耗
+移除了地区限制
+修复了Google授权问题
+修复了Facebook授权问题
+修复了Twitter授权问题
+启用了直播的高质量音频
+启用了直播的高质量视频
+启用了高清视频上传按钮
+禁用了InAppBillingService
+禁用了所有类型的分析工具
+禁用了强制登录
+下载文件名中增加了作者标签
+为Android 13+添加了应用图标支持
+为所有视频添加了播放速度选择按钮
+将好友标签页改回为发现标签页
+禁用了数据收集并发送到TikTok服务器
+在FYP页面添加了自动滚动按钮
+添加了部分黑暗模式选项，可以在使用特定ROM（如MIUI/HyperOS）时启用
+绕过了直播作者禁止录屏的限制（以前录屏时会显示黑屏）
+绕过了直播60秒预览限制（观看直播时，TikTok只给你60秒预览时间，之后直播仅对订阅者开放）
+添加了“清晰显示”和“播放速度”按钮状态的记忆功能。现在，浏览视频时，这些按钮的设置会被保留，开启“清晰显示”功能会应用到所有视频，播放速度设置不会被重置
+启用了在“清晰显示”开启时录屏的功能，这在以前是不可用的
+禁用了录屏时的通知&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;插件功能说明&#34;&gt;插件功能说明
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;自定义区域匹配：提供基于用户选择的区域匹配帖子选项，以增强相关性。&lt;/li&gt;
+&lt;li&gt;隐藏广告：允许用户隐藏在信息流、关注标签、用户个人资料和发现板块中的广告。&lt;/li&gt;
+&lt;li&gt;视频循环播放：使用户能够禁用平台内播放视频时的循环行为。&lt;/li&gt;
+&lt;li&gt;隐藏直播：提供选项将直播从信息流中隐藏，适合不愿意观看直播的用户。&lt;/li&gt;
+&lt;li&gt;隐藏帖子字幕：允许用户选择是否在应用中看到帖子字幕。&lt;/li&gt;
+&lt;li&gt;隐藏长帖子：根据用户自定义的长度偏好，提供隐藏较长帖子的功能。&lt;/li&gt;
+&lt;li&gt;自定义下载目录：允许用户选择下载内容的特定目录。&lt;/li&gt;
+&lt;li&gt;去除水印：提供从视频、图片和 GIF 中去除水印的选项。&lt;/li&gt;
+&lt;li&gt;隐私绕过：允许用户绕过合拍(Duet)和拼接(Stitch)功能的隐私设置。&lt;/li&gt;
+&lt;li&gt;主题和强调色自定义：提供主题切换选项和强调颜色选择，以个性化体验。&lt;/li&gt;
+&lt;li&gt;Monet 主题支持：添加对适配 Material You 设计的支持。&lt;/li&gt;
+&lt;li&gt;静音视频：提供下载无声视频并以特定格式保存的选项。&lt;/li&gt;
+&lt;li&gt;字体样式自定义：提供更改应用内字体样式的选择。&lt;/li&gt;
+&lt;li&gt;设置管理：包含重置、备份或恢复插件设置的功能，方便用户使用。&lt;/li&gt;
+&lt;li&gt;语言选择：允许用户选择插件界面的首选语言。&lt;/li&gt;
+&lt;li&gt;在 TikTok 中打开链接：直接在 TikTok 应用内打开浏览器链接，实现无缝导航。&lt;/li&gt;
+&lt;li&gt;紧急登录：在关键情况下提供紧急登录功能。&lt;/li&gt;
+&lt;li&gt;TikTok 网页版：在插件功能中整合或支持 TikTok 的网页版。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO7EFd_sgkSgcsNeTuPx2PUHA1?pwd=wn36#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO7EFd_sgkSgcsNeTuPx2PUHA1?pwd=wn36#&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>NP管理器APP(安卓APK逆向修改工具) v3.1.11</title>
+        <link>https://www.danlong360.com/post/npguanliqi3111/</link>
+        <pubDate>Fri, 20 Sep 2024 19:39:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/npguanliqi3111/</guid>
+        <description>&lt;p&gt;📱NP管理器APP是一款功能丰富且高效的手机文件管理工具，旨在为广大用户提供一个无拘无束、没有任何使用限制的手机文件操作体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/20/kvfgM25OVTdxDci.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;NP管理器APP(安卓APK逆向修改工具) v3.1.11&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;强大的文件管理功能：NP管理器支持多种文件操作，如复制、移动、删除等，帮助用户高效地管理和组织文件。
+APK文件管理与编辑：用户可以轻松地对APK文件进行编辑，包括查看签名信息、反编译等，这对于需要进行系统文件修改的用户来说非常实用。
+多媒体文件管理：除了常规的文件操作，NP管理器还支持对视频和音频文件进行剪切、提取等操作，功能足够全面。
+文件搜索与定位：具备强大的文件搜索功能，能快速找到目标文件，节省用户的时间和精力。
+加密与解密功能：对于特定的文件，如PDF文件，用户可以通过NP管理器进行加密或解密操作，确保文件的安全性。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面友好与操作简便：NP管理器的界面设计直观且易于使用，用户无需花费过多时间学习即可快速上手。
+免费使用：NP管理器的所有主要功能都是完全免费的，用户无需支付任何费用即可享受其带来的便利。
+高度兼容性：NP管理器具有广泛的兼容性，可以满足不同手机用户对文件管理的需求。
+持续更新与优化：软件会保持持续更新，不断引入更多新颖实用的功能，以优化用户的使用体验。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;2024年9月 v3.1.11
+2024.04.23 v3.1.6
+新增支持绑定QQ登录;
+Apk签名新增支持根据包名锁定当前签名文件;
+重写Dex和Arsc编辑的树控件，高性能展示和操作大量节点
+优化编辑Smali时文本编辑器选择文字状态下跳转和翻译按钮的显
+优化Dex和Arsc编辑的搜索展示和定位，修复多处搜索bug;
+文本编辑器&amp;ndash;新增Dart、GLSL、HLSL语法高亮
+Dex编辑的批量操作新增导出功能;
+新增ARSC对比功能，优化Dex对比功能;
+测试签校强度&amp;ndash;新增支持配置axml可调试选项，填写
+android:sharedUserld 增加格式校验:
+Dex、Arsc、文本编辑界面支持在菜单选项里直接打开工具箱功能
+文件列表在多选状态下长按类选按钮，可以选摇按文件类型、按文
+件日期、按文件大小三种方式类选;
+优化Smali导航，提高显示速度、转IR和查看流程图速度:
+Apk伪加密&amp;ndash;支持可选是否伪加密AndroidManifest.xml;
+Dex2C、Apk-VM和Dex字符串解密等增加类选择预览按钮
+升级App的targetSdkVersion到30
+修复Dex2C类选择不能保护初始化方法的问题
+修复一个文本编辑器指定编码异常
+修复大量UI和交互错误。收起&lt;/p&gt;
+&lt;p&gt;应用大小：37.7MB
+应用版本：3.1.11(20240916)
+应用包名：player.normal.np
+应用架构：arm64-v8a,armeabi-v7a&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/38a6574966d3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/38a6574966d3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Lucky Patcher(幸运破解器APP) v11.5.0 Build 1910</title>
+        <link>https://www.danlong360.com/post/luckypatcher1150/</link>
+        <pubDate>Fri, 20 Sep 2024 19:37:40 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/luckypatcher1150/</guid>
+        <description>&lt;p&gt;📱Lucky Patcher 是来自大神ChelpuS的作品（即钛备份和SPB的Mod作者），Lucky Patcher更像是做的一款合集或者通用破解，所以各位遇到应用没办法用时，可以尝试用这款 App 试试，不过不保证一定会PJ，所以叫做“幸运破解器”。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/20/fZeF7R5od3BDucW.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Lucky Patcher(幸运破解器APP) v11.0.0 Build 1860&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;注意：幸运破解器需要ROOT权限和BusyBox支持！&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;– 支持自定义破解、移除Google授权验证、移除亚马逊应用商店授权验证、移除Google广告、手动破解四种破解方式
+– 移除Google授权验证支持自动模式、反向自动模式、极限自动模式、手动模式和选择破解方式
+– 可选择的破解方式：授权验证程序切换修复、缓存授权修复、响应代码验证修复、响应代码替换
+– 手动破解时可以将破解对象保存为自定义破解
+– 支持选择以标签或包名来给修改版APK文件命名
+– 支持开机自动破解
+– 支持更改应用程序调用的权限和活动
+– 支持修复虚拟机缓存（详见软件“帮助”中的说明）
+– 支持显示系统应用程序
+– 点击列表中的应用程序查看应用程序相关信息
+– 创建PJ后的修改版APK并生成到/sdcard/LuckyPatcher/Modified/
+– 安装SuperSU，解决ROOT权限受损问题
+– 安装/更新BusyBox
+– 启动时自动检查并清除/data/app/中的无用ODEX
+– 支持自动更新幸运破解器
+– 支持更换幸运破解器界面的方向（横屏/竖屏）
+– 支持筛选应用程序列表：按授权验证、Google广告、自定义PJ、虚拟机缓存修复、未发现PJ&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;11.5.0
+~ Fixed bug for resign with origianl signature;
+~ Updated translations.&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/82d01ce02f6a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/82d01ce02f6a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>TapScanner Premium v3.0.37 for Android 解锁专业版 「&#43;汉化版」</title>
         <link>https://www.danlong360.com/post/tapscanner/</link>
         <pubDate>Fri, 20 Sep 2024 16:02:02 +0800</pubDate>
