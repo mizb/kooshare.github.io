@@ -7,7 +7,154 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 20 Sep 2024 15:01:31 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Sep 2024 15:33:38 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>万年历TV v2.8.1343 电视日历</title>
+        <link>https://www.danlong360.com/post/tvwannianli/</link>
+        <pubDate>Fri, 20 Sep 2024 15:33:38 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/tvwannianli/</guid>
+        <description>&lt;p&gt;这是一个将公历、农历、干支历相互对应，编排在一起的电视端工具APP，方便用户查询指定日期的星期、农历、生肖、天干地支、节假日、二十四节气等信息，并计划日常活动。&lt;/p&gt;
+&lt;p&gt;非常简单的日历工具，除了日历相关功能，还可以查看节假日，以及还有健康小提示。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/20/kfAQiW5mHY9zVqs.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;万年历TV v2.8.1343 电视日历-第1张图片-分享迷&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/55095d947220&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/55095d947220&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小白一键清理 v1.2.0 电视清理软件</title>
+        <link>https://www.danlong360.com/post/xiaobaiyijianqingli/</link>
+        <pubDate>Fri, 20 Sep 2024 15:32:19 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/xiaobaiyijianqingli/</guid>
+        <description>&lt;p&gt;电视端的一些实用小工具还是非常能提升智能电视的使用体验的，比如清理软件。今天这个软件其实就是小白文件管理app里面集成的清理功能，这个算是独立版本。可以智能监测出除系统中的软件缓存以及不需要的垃圾文件，只需要点击“一键清理”，就能删除它们。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/20/eNoyYRI2Z85vDtx.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240920153241182&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;使用很简单，两步就搞定：启动软件，软件一键清理。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/55095d947220&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/55095d947220&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Salt Player(椒盐音乐) v10.5.0.2 音乐播放器</title>
+        <link>https://www.danlong360.com/post/saltplayer10502/</link>
+        <pubDate>Fri, 20 Sep 2024 15:29:34 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/saltplayer10502/</guid>
+        <description>&lt;p&gt;论本地音乐APP，分享迷觉得，今天这款绝对是当之无愧的最强之一。&lt;/p&gt;
+&lt;p&gt;在酷安拥有167万下载量的最强音乐播放器，&lt;strong&gt;不仅支持手机+车机，支持鸿蒙系统&lt;/strong&gt;，而且无需付费就能开启Pro版——椒盐音乐&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/20/734oqmuKPEcaWzt.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240920153008879&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h4 id=&#34;10502-release-2024091902&#34;&gt;10.5.0.2-release-2024091902
+&lt;/h4&gt;&lt;p&gt;修复一些小问题&lt;/p&gt;
+&lt;h4 id=&#34;1050-beta06-2024090101&#34;&gt;10.5.0-beta06-2024090101
+&lt;/h4&gt;&lt;p&gt;*公开测试版本，对比 10.5.0-beta04
+更新到最新 Salt UI 优化一些样式
+提升歌词时间戳解析的兼容性
+优化封面大图查看界面添加了关闭按钮等
+修复使用 CR 作为歌词换行的问题
+修复查看封面大图偶现的崩溃问题
+修复特殊情况下全屏对话框展开时位置错误的问题
+修复其他一些小问题
+更新语言翻译&lt;/p&gt;
+&lt;h4 id=&#34;1050-beta04-2024082301&#34;&gt;10.5.0-beta04-2024082301
+&lt;/h4&gt;&lt;p&gt;*公开测试版本，对比 10.5.0-beta02
+新增专辑视觉设计界面（查看歌曲专辑的封面/封底/艺术家图片）
+优化播放界面性能
+优化主界面列表滚动性能
+更新部分翻译文本
+修复一些崩溃问题
+修复在华为 Mate 30 Pro 上可能存在的获取状态栏高度崩溃问题
+修复在小米 Hyper OS 上调整小窗大小界面抽搐的问题
+修复在小米 Hyper OS 上可能获取状态栏高度过大的问题
+修复歌词界面设置 PRO 图标颜色错误的问题
+其他一些小优化&lt;/p&gt;
+&lt;h4 id=&#34;1050-beta02-2024081301&#34;&gt;10.5.0-beta02-2024081301
+&lt;/h4&gt;&lt;p&gt;*公开测试版本，对比 10.5.0-beta01
+添加对小米 Mix Flip 外屏的适配
+更新 Salt UI 2.0.6
+无障碍缩放调整为 0.5 ~ 2.0 倍
+优化日期文本秒数显示
+优化部分界面组件样式、主题色适配，完成旧版 Salt UI 的清理工作
+优化对部分特殊艺术家名称的适配
+优化无障碍界面
+修复修改播放队列歌曲数据后重启播放队列丢失的问题
+修复一些崩溃问题&lt;/p&gt;
+&lt;h4 id=&#34;1050-beta01-2024080601&#34;&gt;10.5.0-beta01-2024080601
+&lt;/h4&gt;&lt;p&gt;*公开测试版本，对比 10.4.4
+PRO 价格 CNY 18
+新增播放队列移除项目动画
+优化重写了播放队列底层
+优化文件夹界面加载速度提升稳定性
+优化对文件权限的访问性
+优化一些界面小细节
+优化显式指定可调节的应用大小
+优化重启软件随机播放队列不自动刷新
+优化专辑内容界面背景图圆角问题（目前在小米小窗上存在兼容性问题）
+修复重新在扫描音乐界面完整扫描歌曲自定义排序被重置的问题
+修复主页歌曲快速滚动延迟显示的问题
+修复释放播放器可能三星设备上崩溃的问题
+修复自定义歌曲排序第一项拖动会快速滚动的问题
+修复自定义歌曲排序向上拖动超过顶部会被打断的问题
+修复歌单界面非自定义歌曲排序模式下长按无法换出歌曲对话框的问题
+修复多次点开 DLNA 对话框设备项目会异常增加的问题
+修复自定义排序第一个项目拖动会抽搐一下的问题
+修复搜索框背景色未应用动态颜色主题的问题
+*为了清理老旧的代码，10.5.0-alpha02 开始将不支持直接从椒盐音乐 V7 迁移，会丢失歌单数据。若在使用椒盐音乐 V7 版本需要升级到 Salt Player 10.5.0-alpha02 及后续版本需要现升级到 V8 - Salt Player 10.5.0-alpha01 之间版本
+其他一些改进&lt;/p&gt;
+&lt;h4 id=&#34;1043-release-2024072401&#34;&gt;10.4.3-release-2024072401
+&lt;/h4&gt;&lt;p&gt;更新解码器 Monkey&amp;rsquo;s Audio SDK（APE） 10.74
+更新解码器 libOpus 1.4
+优化 Google Play 渠道激活和 Pro 界面
+修复在 Android 8.1 上的崩溃问题
+修复设置界面 Google Play 渠道图标颜色问题&lt;/p&gt;
+&lt;h4 id=&#34;1042-release-2024072001&#34;&gt;10.4.2-release-2024072001
+&lt;/h4&gt;&lt;p&gt;软件更新界面添加“去酷安下载”选项
+移除不必要的媒体控制权限
+优化标题、艺术家和专辑艺术家格式化适配
+修复允许解析歌词空行的问题
+修复意外的多时间戳最后匹配的问题
+修复在 Android 8.0 及以下系统崩溃的问题&lt;/p&gt;
+&lt;h4 id=&#34;1041-release-2024071703&#34;&gt;10.4.1-release-2024071703
+&lt;/h4&gt;&lt;p&gt;逻辑变更：
+*允许不规则封面功能将默认开启
+*开关允许不规则封面会立刻变化无需切歌
+*打开圆形播放界面不会影响允许不规则封面开关状态
+修复在一些低 Android 版本设备界面恢复后播放界面专辑封面丢失的问题
+更新语言翻译&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/855fceb120cc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/855fceb120cc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>AdGuard广告拦截器APP v4.7.44 Nightly / 4.6.88 Final</title>
         <link>https://www.danlong360.com/post/adguard4744/</link>
         <pubDate>Fri, 20 Sep 2024 15:01:31 +0800</pubDate>

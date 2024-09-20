@@ -7,7 +7,96 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 20 Sep 2024 15:14:34 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Sep 2024 15:24:42 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>雷电模拟器9.0 v9.0.77.4 去广告纯净版</title>
+        <link>https://www.danlong360.com/post/leidianmoniqi774/</link>
+        <pubDate>Fri, 20 Sep 2024 15:24:42 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/leidianmoniqi774/</guid>
+        <description>&lt;p&gt;雷电模拟器9是基于安卓9内核开发的全新版本模拟器，具备强大的游戏兼容性和系统兼容性，能够稳定运行市面上万款热门手游，带你感受更快的速度、更完美的操控体验！且全面升级了Android 9 作业系统，将32位和64位元框架合并，有着比以往更快的启动速度，更低的电脑资源占用。&lt;/p&gt;
+&lt;p&gt;支持OpenGL3.1模式3D渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/20/YNC6RJpfK4Sqru1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240920152518181&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;@423down&lt;/p&gt;
+&lt;p&gt;1.去启动界面广告、去任务栏右下角通知区域游戏弹窗
+2.去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为）
+3.去桌面底部广告（桌面主屏幕内下方5个内置游戏推广应用）
+4.拒绝后台广告数据下载请求 %AppData%\Leidian9\Cache
+5.拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为
+6.免安装净化处理，删除资讯广告程序、上传组件、错误报告文件
+7.禁止点击主界面顶部的远程控制(无界趣连)按钮下载软件安装包
+8.删除系统镜像内置短信app，提供面具(Magisk)及LSPosed框架&lt;/p&gt;
+&lt;p&gt;**
+**&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;● 如何启用ROOT权限？&lt;/strong&gt;
+界面-设置-其它-root权限-启用即可&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;● 如何只更新去广告后的系统镜像呢？&lt;/strong&gt;
+只需下载去广告版提取镜像文件替换到以下位置
+├—LDPlayer9\system.vmdk, vms\system.vmdk&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;● 雷电模拟器9.0、雷电模拟器4.0 和 3.x 有什么区别？&lt;/strong&gt;
+# 主要指的安卓系统镜像Android版本不同(system.vmdk)：
+﹂9.0：Android 9-x86_64 (64位版，64位指的安卓系统版本)
+﹂4.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64位版)
+﹂3.x：Android 5.1.2-x86
+# 所有版本都兼容ARM库，可共存使用支持各版无限多开运行&lt;/p&gt;
+&lt;h4 id=&#34;v90770&#34;&gt;v9.0.77.0
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;优化了《明日方舟》“划火柴”的按键操作。&lt;/li&gt;
+&lt;li&gt;修复了《我的世界》无法进入游戏的问题。&lt;/li&gt;
+&lt;li&gt;修复了一些bug，改进用户体验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;v90762&#34;&gt;v9.0.76.2
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;修复了近期的模拟器版本，部分游戏会闪退的问题。&lt;/li&gt;
+&lt;li&gt;修复了《冒险岛：枫之传说》有概率卡死的问题。&lt;/li&gt;
+&lt;li&gt;修复了《色块大作战》角色显示成黑影的问题。&lt;/li&gt;
+&lt;li&gt;修复了部分情况下模拟器启动失败的问题。&lt;/li&gt;
+&lt;li&gt;修复了“滑动轨迹”按键滑动速度过慢的问题。&lt;/li&gt;
+&lt;li&gt;修复了安装APK时，安装包扫描时间过长的问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;v90750&#34;&gt;v9.0.75.0
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;小游戏专区上线，一键秒玩无需下载。&lt;/li&gt;
+&lt;li&gt;修复了浏览器无法下载QQ的问题。&lt;/li&gt;
+&lt;li&gt;修复了荣耀渠道闪退的问题。&lt;/li&gt;
+&lt;li&gt;优化了adb可能连接不上的问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;v90734&#34;&gt;v9.0.73.4
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;新增了“安全守护”功能，安装APK时自动识别风险应用，保护个人信息安全与模拟器系统稳定。&lt;/li&gt;
+&lt;li&gt;修复了APK安装失败时，错误原因描述不准确的问题。&lt;/li&gt;
+&lt;li&gt;修复了部分情况下，模拟器启动会卡30%的问题。&lt;/li&gt;
+&lt;li&gt;修复了部分游戏的iOS登录有概率失效的问题。&lt;/li&gt;
+&lt;li&gt;修复了一些bug，改进用户体验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;v90731&#34;&gt;v9.0.73.1
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;修复了部分情况下，模拟器启动会卡30%的问题。&lt;/li&gt;
+&lt;li&gt;进一步优化了部分游戏的iOS登录有概率失效的问题。&lt;/li&gt;
+&lt;li&gt;修复了一些bug，改进用户体验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;v90725&#34;&gt;v9.0.72.5
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;优化了App同步手机功能，支持把模拟器上的游戏和应用传到手机使用。&lt;/li&gt;
+&lt;li&gt;优化了模拟器扫码下载游戏的提示。&lt;/li&gt;
+&lt;li&gt;优化了安装APK时的性能占用。&lt;/li&gt;
+&lt;li&gt;修复了一些bug，改进用户体验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8d84ef7474d2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8d84ef7474d2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Autodesk Revit(BIM三维建模软件) v2024.3 中文破解版</title>
         <link>https://www.danlong360.com/post/autodeskrevit20243/</link>
         <pubDate>Fri, 20 Sep 2024 15:14:34 +0800</pubDate>
