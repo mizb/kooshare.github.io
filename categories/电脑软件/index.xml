@@ -7,7 +7,236 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 21 Sep 2024 16:27:40 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 21 Sep 2024 16:53:32 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>RustDesk(跨平台远程桌面软件) v1.3.1 中文绿色版</title>
+        <link>https://www.danlong360.com/post/rustdesk/</link>
+        <pubDate>Sat, 21 Sep 2024 16:53:32 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/rustdesk/</guid>
+        <description>&lt;p&gt;RustDesk 是一款跨平台远程桌面控制软件。它支持 Windows、macOS 和 Linux 平台，并提供了方便易用的用户界面，用户可以远程连接到目标计算机，进行远程控制，文件传输等操作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/21/imhAoJgTS1PZaj3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;RustDesk(跨平台远程桌面软件) v1.2.6 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1.远程控制：用户可以在本地电脑上远程控制连接到的远程电脑。
+2.文件传输：用户可以将本地文件传输到远程计算机，或者将远程计算机上的文件传输到本地电脑。
+3.多人协作：多个用户可以连接到同一台远程计算机进行协作，可以同时进行操作。
+4.屏幕录制：用户可以录制远程计算机的屏幕操作并保存为视频。
+5.剪贴板共享：用户可以在远程计算机和本地计算机之间复制和粘贴文本、图片等内容。
+6.安全可靠：使用加密技术保证连接过程中的数据传输安全可靠。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.跨平台：RustDesk 支持 Windows、macOS 和 Linux 平台，用户可以在不同的操作系统上使用相同的界面和功能。
+2.易用性：RustDesk 的用户界面简单易用，用户无需专业知识就可以使用。
+3.高性能：RustDesk 使用 Rust 编程语言开发，具有高效、可靠和快速执行的特点。
+4.免费：RustDesk 是免费软件，用户无需支付任何费用即可使用全部功能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/28a92049fd1c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/28a92049fd1c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Gopeed(功能强大的下载器) v1.6.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/gopeed160/</link>
+        <pubDate>Sat, 21 Sep 2024 16:51:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/gopeed160/</guid>
+        <description>&lt;p&gt;Gopeed(全称 Go Speed)是一个 Go + Flutter 开发的下载器，界面简洁美观，功能强大，支持（HTTP、BitTorrent、Magnet）协议，支持全平台。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/21/vrMl8D67BR1b2ZT.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Gopeed(功能强大的下载器) v1.5.8 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h3&gt;&lt;p&gt;HTTP+HTTPS 多协程下载
+Torrent 种子下载
+Magnet 协议下载
+Seed, DHT, PEX, uTP, Webtorrent, Upnp
+国际化
+暗黑主题&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;新特性
+feat: 支持通过过滤器批量操作任务 @monkeyWie (#753)
+feat: 支持下载目录白名单配置 @monkeyWie (#752)
+feat: 避免使用过期的主题色 @AmanRajSinghMourya (#746)
+Bug修复
+fix: 获取做种状态闪退问题 @monkeyWie (#737)
+fix: 扩展引擎中 DotAll 标识符在捕获组中不生效的问题 @monkeyWie (#750)&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a3457c3dc19d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a3457c3dc19d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>12306Bypass分流抢票 v1.16.33 中文绿色版</title>
+        <link>https://www.danlong360.com/post/12306bypass11633/</link>
+        <pubDate>Sat, 21 Sep 2024 16:49:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/12306bypass11633/</guid>
+        <description>&lt;p&gt;12306Bypass是一款用于分流抢票的软件，它可以帮助用户绕过12306网站的限制，提高抢票成功率。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/21/FBMSDnxQHdVfev6.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;12306Bypass分流抢票 v1.16.27 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;分流抢票：12306Bypass可以将用户的抢票请求分流到多个IP地址上，从而提高抢票成功率。
+自动抢票：该软件可以自动帮助用户抢票，减少用户的操作步骤。
+流量加速：通过合理分流抢票请求，12306Bypass可以实现抢票流量的加速，从而进一步提高抢票成功率。
+数据统计：该软件可以记录用户抢票的历史记录，包括成功率、抢票时长等信息，帮助用户分析抢票情况。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：12306Bypass具有简单直观的用户界面，用户只需要按照指引进行设置即可使用该软件。
+高效稳定：该软件采用高效的分流抢票算法，可以提高抢票成功率，并且具备较强的抗压能力，保证软件的稳定性。
+安全可靠：12306Bypass通过技术手段绕过12306网站的限制，但不会危害用户的个人信息和12306网站的正常运行。
+实时更新：由于12306网站的限制可能会不断变化，12306Bypass会及时进行软件更新，以适应最新的抢票环境。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;1.16.33
+1、增加多任务一键更改任务是否要候补功能
+2、修改多任务抢增开的时间默认为全局控制
+3、修正多任务单独候补可能反复候补的问题
+4、修正设置改签时提示车站设置错误的问题
+5、修正部分用户遇到支付后页面卡住的问题&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e927b3e3a9d7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e927b3e3a9d7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>SSD Fresh Plus(固态硬盘优化工具) v14.0.56618 多语便携版</title>
+        <link>https://www.danlong360.com/post/ssdfreshplus56618/</link>
+        <pubDate>Sat, 21 Sep 2024 16:47:38 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/ssdfreshplus56618/</guid>
+        <description>&lt;p&gt;Abelssoft SSD Fresh 是一款专为固态硬盘定制的优化工具软件。它可以帮助用户优化固态硬盘的性能、稳定性和寿命，并提供一系列与固态硬盘有关的功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/21/eFm8VC6BHxMAEsN.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;SSD Fresh Plus(固态硬盘优化工具) v13.03.56155 多语便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;增强固态硬盘的性能：通过禁用Windows系统中无关紧要的服务和进程，优化磁盘访问速度和响应速度。
+防止无效写入操作：禁用Windows系统中的相关写入操作，减少对固态硬盘的写入次数，延长固态硬盘的寿命。
+优化固态硬盘的设置：对固态硬盘进行更精细的设置，包括磁盘缓存、写入缓冲、TRIM功能等。
+提供实时监控：软件可以监控固态硬盘的状态和健康状况，提供详细的固态硬盘信息。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：Abelssoft SSD Fresh 提供直观的用户界面，用户可以轻松地进行固态硬盘优化和设置。
+定制化设置：软件允许用户根据自己的需求进行设置，包括启用和禁用不同的优化功能。
+专为固态硬盘设计：Abelssoft SSD Fresh 专门针对固态硬盘进行优化，不会对传统机械硬盘产生负面影响。
+安全可靠：软件提供的设置和优化操作都是经过测试和验证的，不会对固态硬盘造成损害。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c0dcd024c7dc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c0dcd024c7dc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>GitHub Desktop(GitHub桌面版) v3.4.5.0 汉化绿色版</title>
+        <link>https://www.danlong360.com/post/githubdesktoplvseban450/</link>
+        <pubDate>Sat, 21 Sep 2024 16:43:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/githubdesktoplvseban450/</guid>
+        <description>&lt;p&gt;GitHub Desktop是一个用于与GitHub.com和GitHub Enterprise进行交互的桌面应用程序，它提供了更简单和更直观的方式来处理Git和GitHub工作流程。该应用程序易于学习，且支持Windows和MacOS平台。它通过可视化仓库，可以更加方便地管理代码库的版本控制和更改历史记录；还能够轻松地将本地更改提交到GitHub.com或GitHub Enterprise，或者将GitHub上的代码更新到本地代码库。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/21/lUPfaXr1DwzInHo.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GitHub Desktop(GitHub桌面版) v3.4.1.0 汉化绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;GitHub Desktop提供了一系列的功能，包括与GitHub.com或GitHub Enterprise的轻松集成、响应式的仓库浏览体验、便捷的代码管理、分支管理、拉取请求、合并冲突解决，以及可视化的提交历史记录等功能。此外，它还支持GitHub上的Contributions和Issues追踪功能，能够帮助用户更方便地互动和参与开源项目。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;开源免费：GitHub Desktop是一款开源软件，可免费下载和使用。&lt;/li&gt;
+&lt;li&gt;可视化操作：GitHub Desktop提供可视化的操作界面和仓库表示，可以更容易地管理、查看和比较代码。&lt;/li&gt;
+&lt;li&gt;工作流集成：能够与GitHub.com或GitHub Enterprise集成，实现更高效的代码管理和协作。&lt;/li&gt;
+&lt;li&gt;跨平台：支持Windows和MacOS两大主流操作系统，且保持平台一致性。&lt;/li&gt;
+&lt;li&gt;社区支持：借助GitHub平台的社区力量和开源项目生态系统，GitHub Desktop的功能和性能时刻得到持续改进和优化。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;github电脑版,github desktop客户端,GitHub Desktop中文汉化版
+- 格式化JS混淆代码 (main.js,renderer.js) 汉化了%98的功能和界面
+﹂全部简体中文：包括登陆欢迎界面、软件主界面、各项菜单及提示
+- 移除检测升级执行代码段，去关于界面的检测升级按钮及错误提示
+- 删除检测升级程序及115MB的无用NUPKG包，免安装解压即可用&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a733f2940333&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a733f2940333&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Adobe Animate 2024(AN2024最新版) v24.0.5 破解版</title>
+        <link>https://www.danlong360.com/post/adobeanimate2405/</link>
+        <pubDate>Sat, 21 Sep 2024 16:40:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/adobeanimate2405/</guid>
+        <description>&lt;p&gt;Adobe Animate 2024破解版(AN2024最新版)是一款Flash和2D动画软件动画交互设计的绘图软件.Adobe Animate 2024中文破解版加入HTML5创作工具,为网页开发者提供适应最新网页的图片,动画,音视频等素材文件支持.Animate中文版支持HTML5Canvas,WebGL,并且能通过可扩展架构支持SVG在内任何动画格式.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/21/nxaFAH8ZNX1lSP3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Adobe Animate 2024(AN2024最新版) v24.0.4 破解版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Adobe Animate 2024正式版2024年09月版(24.0.5) 新增功能摘要
+&lt;a class=&#34;link&#34; href=&#34;https://helpx.adobe.com/cn/animate/using/whats-new.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://helpx.adobe.com/cn/animate/using/whats-new.html&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;by m0nkrus
+- 该程序集是基于独立的 Adob​​e 安装程序版本 6.3.0.207 创建的，该版本不向公众提供。
+- 必须由原始安装程序安装的 Adob​​e Desktop Common 模块已从安装程序中删除，但所需的最低限度除外。
+- 原始安装程序需要安装的 Adob​​e Creative Cloud 模块已从安装程序中完全删除。
+- 安装程序提供安装路径和程序界面语言的选择，以及安装完成后立即启动程序的能力。
+- 在选择已安装程序的界面语言的菜单中，支持十二种其他语言的错误指示已得到纠正。
+- 解锁了在 Windows 10 较低版本上安装程序的能力。
+- 将主 Adob​​e Animate 模块更新至版本 24.0.5.40。
+- 将 Adob​​e Animate HLAN 帮助程序更新至版本 24.0.5.19。
+- 将 Adob​​e Camera Raw 插件更新至版本 16.5.1.51。
+- 将 Creative Cloud Content Manager (CCX Process) 帮助程序模块更新至版本 5.7.1.6。
+- 添加了 Creative Cloud Libraries Synchronizer (CC Library) 辅助模块版本 4.6.4.2。
+- 禁用间谍模块日志传输应用程序和 CRLog 传输应用程序。
+- 该程序已被处理。授权后，您可以使用图书馆和其他在线服务。&lt;/p&gt;
+&lt;h3 id=&#34;系统要求&#34;&gt;系统要求
+&lt;/h3&gt;&lt;p&gt;AN2022特别版的要求：Windows 10 所有版及更高版64位
+AN2022安装程序要求：Windows 10 20H2 或更高版64位
+AN2021/AN2020安装程序要求：Windows 10 v1809 或更高版64位
+AN2019/AN2018最低运行要求：Windows 7 x64, Windows 10 x64&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编辑原因：09.21 更新 Adobe Animate 2024 v24.0.5 m0nkrus 破解版&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1tnm4i4Iu9qDCmrRImqu9xw?pwd=uf2v&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1tnm4i4Iu9qDCmrRImqu9xw?pwd=uf2v&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Adobe Substance 3D Painter(简称Pt破解版) v10.1.0 破解版</title>
         <link>https://www.danlong360.com/post/adobesubstance3dpainter/</link>
         <pubDate>Sat, 21 Sep 2024 16:27:40 +0800</pubDate>
