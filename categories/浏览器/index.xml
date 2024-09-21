@@ -7,7 +7,81 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 21 Sep 2024 11:01:18 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 21 Sep 2024 23:45:23 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Brave 1.70.117 便携版 - Brave浏览器</title>
+        <link>https://www.danlong360.com/post/brave170117/</link>
+        <pubDate>Sat, 21 Sep 2024 23:45:23 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/brave170117/</guid>
+        <description>&lt;p&gt;Brave 是一款基于 Chromium 开源项目的网络浏览器，专注于提供更快速、更安全、更私密的浏览体验。它内置了广告和跟踪器拦截功能，采用了基于区块链的广告和奖励系统，同时默认启用 HTTPS 连接，加强了用户与网站之间的安全通信。浏览器跨平台支持，可在多种操作系统和设备上使用，为用户提供一致的浏览体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/21/jfNwa1usotXKPM4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240921234606352&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;内置广告拦截：
+&lt;ul&gt;
+&lt;li&gt;自动屏蔽网页上的广告，加快网页加载速度，减少数据消耗。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;追踪器屏蔽：
+&lt;ul&gt;
+&lt;li&gt;阻止各类网站追踪器，保护用户隐私，避免在线行为被跟踪。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;加密货币奖励：
+&lt;ul&gt;
+&lt;li&gt;通过观看用户选择的广告，赚取 BAT 加密货币，激励用户参与网络广告生态系统。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;HTTPS 强制加密：
+&lt;ul&gt;
+&lt;li&gt;自动升级连接为 HTTPS，确保所有浏览行为都是加密和安全的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;浏览器同步：
+&lt;ul&gt;
+&lt;li&gt;支持在多设备之间同步书签、历史记录和设置，保证跨平台使用体验一致。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;隐私保护模式：
+&lt;ul&gt;
+&lt;li&gt;提供无痕模式和 Tor 集成，进一步增强匿名性和隐私保护。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;高速浏览体验：
+&lt;ul&gt;
+&lt;li&gt;由于内置广告和追踪器屏蔽，网页加载速度显著提升，提供流畅的浏览体验。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;个性化配置：
+&lt;ul&gt;
+&lt;li&gt;允许用户自定义浏览器外观、功能扩展和快捷键设置，满足个性化需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;跨平台支持：
+&lt;ul&gt;
+&lt;li&gt;可在 Windows、macOS、Linux、Android 和 iOS 平台上使用，保证用户体验一致。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开放源代码&lt;/strong&gt;：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;基于开源代码，社区驱动开发，保证透明度和安全性。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/97376fd17664&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/97376fd17664&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>LibreWolf(Firefox浏览器修改版) v130.0.1-1 官方便携版</title>
         <link>https://www.danlong360.com/post/librewolf130011/</link>
         <pubDate>Sat, 21 Sep 2024 11:01:18 +0800</pubDate>
