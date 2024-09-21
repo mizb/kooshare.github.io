@@ -7,7 +7,198 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 21 Sep 2024 16:49:53 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 21 Sep 2024 23:33:24 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>游戏常用运行库合集 Game Runtime Libraries Package v4.0.24.0920</title>
+        <link>https://www.danlong360.com/post/youxichangyongyunxingkuheji/</link>
+        <pubDate>Sat, 21 Sep 2024 23:33:24 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/youxichangyongyunxingkuheji/</guid>
+        <description>&lt;p&gt;游戏常用运行库 合集 整合了许多游戏会用到的运行库，支持 Windows XP – Windows 11 系统，并且支持自动检测系统勾选推荐的运行库，方便快捷。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/21/OTgo1DVN8XQ92UF.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;游戏常用运行库合集 v1.0.24.0426&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;本版特点&#34;&gt;本版特点
+&lt;/h3&gt;&lt;p&gt;By：mefcl
+整合常见最新游戏所需运行库
+根据系统自动勾选推荐的版本
+纯净安装包无病毒和弹窗行为
+支持静默安装，静默参数：/S
+致谢：
+David R. Stein、Dreamcast、NanLon、rizalmart、断剑留痕、云水扶摇&lt;/p&gt;
+&lt;h3 id=&#34;包含组件&#34;&gt;包含组件
+&lt;/h3&gt;&lt;p&gt;Microsoft Visual C++ 2002-2003 Runtime x86
+Microsoft Visual C++ 2005 Redist x86 x64
+Microsoft Visual C++ 2008 Redist x86 x64
+Microsoft Visual C++ 2010 Redist x86 x64
+Microsoft Visual C++ 2012 Redist x86 x64
+Microsoft Visual C++ 2013 Redist x86 x64
+Microsoft Visual C++ 2015-2022 Redist x86 x64
+Microsoft .NET Framework 1.0
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 3.5（含2.0、3.0） x86 x64
+Microsoft .NET Framework 4.0 x86 x64
+Microsoft .NET Framework 4.8 x86 x64
+Microsoft .NET Framework 6.0 x86 x64
+Microsoft .NET Framework 7.0 x86 x64
+Microsoft .NET Framework 8.0 x86 x64
+Microsoft XNA Framework 1.0 x86 x64
+Microsoft XNA Framework 2.0 x86 x64
+Microsoft XNA Framework 3.0 x86 x64
+Microsoft XNA Framework 3.1 x86 x64
+Microsoft XNA Framework 4.0 x86 x64
+Microsoft Visual F# Runtime
+Microsoft Visual J# Redistributable Package
+Microsoft AppLocale
+Microsoft XML Core Services 4.0
+Microsoft XML Core Services 6.0
+Microsoft Silverlight 5.0
+Microsoft Games for Windows Marketplace
+Microsoft Games for Windows – LIVE Redistributable
+Microsoft Visual Basic/C++ Runtime
+Microsoft Visual Basic 6.0 Runtime Plus
+– Visual Basic runtime files (v1.0 至 v6.0)
+– Visual Basic Extensions (VBX)
+– ActiveX Controls
+– Dynamic Data Exchange (DDE)
+– Open Link Embedding (OLE)
+– OLE Automation
+– Data Access Objects (DAO)
+– Remote Data Objects (RDO)
+– Distributive Component Object Model (DCOM)
+– Microsoft Data Access Components (MDAC)
+– Microsoft Jet (from 1.x 至 3.x)
+– Windows Script Host (WSH)
+– Windows Management Instrumentation (WMI)
+– DirectX Components for Visual Basic
+– WinG
+– Crystal Report runtime files
+– Third-party ActiveX Controls 和 libraries
+– Microsoft XML Services
+– NTVDM 和 DirectPlay（通过 Windows 功能，仅适用于 Windows 8 或更高版本）
+Microsoft Visual Studio 2010 Tools for Office Runtime
+DirectX 9.0c 9.0、10、11
+NVIDIA PhysX System Software
+Open Audio Library (OpenAL) 2.1
+Rapture3D 2.7.4
+SlimDX Runtime .NET 2.0
+SlimDX Runtime .NET 4.0
+Rockstar Games Social Club 1.1
+Unity Web Player 5.3
+VulkanRT 1.3
+UE4 Prerequisites 1.0 x64&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2024.09.20
+安装脚本优化
+新增 Microsoft Games for Windows Marketplace 3.5.50.0
+新增 Microsoft Games for Windows – LIVE Redistributable 3.5.88.0″
+新增 SlimDX Runtime .NET 2.0 2.0.13.43
+新增 SlimDX Runtime .NET 4.0 2.0.13.43
+新增 Rockstar Games Social Club 1.1.5.6
+新增 Unity Web Player 5.3.8.0
+新增 VulkanRT 1.3.290.0
+新增 UE4 Prerequisites 1.0.14.0 x64（没有找到 x86，有的朋友欢迎分享）
+如您有更新或者更好的版本欢迎分享，有些文件实在太难找到了。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/5ace9d2ef974&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/5ace9d2ef974&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜狗拼音输入法PC版 v14.9.0.9952 绿色精简版</title>
+        <link>https://www.danlong360.com/post/sougoupinyinshurufa9952/</link>
+        <pubDate>Sat, 21 Sep 2024 23:30:20 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/sougoupinyinshurufa9952/</guid>
+        <description>&lt;p&gt;搜狗输入法电脑版是装机必备软件,其打字准,词库全,功能强大,使得输入更高效.搜狗拼音输入法最新版,AI打字准确高效.搜狗输入法去广告绿色精简版,移除广告程序精简优化后的用着还不错,至少比官方版用着安心些.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/21/p2keJxlgh9XDCj8.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;搜狗输入法官方原版丨最新版下载丨版本号 14.5.0.9485&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;升级日志 - 搜狗输入法
+&lt;a class=&#34;link&#34; href=&#34;https://pinyin.sogou.com/changelog.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pinyin.sogou.com/changelog.php&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h2&gt;&lt;p&gt;By: BEIKING
+– 试图打造不联网的搜狗拼音输入法精简版；
+– 修改 SogouPY.ime 和 SogouPY64.ime 去损坏弹窗；
+– 用 0 填充 SGTool.exe 中的 sogou.com 试图阻止联网；
+– 精简 Resource.dll 资源库文件
+– 皮肤和词库放入压缩包内对应文件夹也能自动安装；
+– 细胞词库正常，你下载的 scel 先放到 Scd 文件夹会自动导入；
+– 默认将属性设置、输入法管理器和符号大全快捷方式创建到根目录；
+(需通过快捷方式，才能打开“属性设置”、“输入法管理器”、“符号大全”等窗口)
+√ 免安装批处理精简绿化，仅保留核心功能！
+√ 替换默认皮肤为：简约五彩键盘；
+(修改默认皮肤：_Green\SogouPY\env.ini，ActiveSkinName=简约五彩键盘)
+√ 去联网、去弹窗、去调用，精简了所有的额外功能组件；
+√ 不支持：云计算候选、账户登陆、词库同步，已全部阉割；
+√ 支持安装皮肤和词库、保留符号大全、提供各类本地词库；
+静默安装版安装路径：C:\Program Files\搜狗拼音&lt;/p&gt;
+&lt;p&gt;2024.09.21
+跟进 BEIKING 去广告版 14.9.0.9952 (14.9a)
+1）更新版本：v14.9a(9952)
+2）提供用户登录，词库同步恢复包。建议卸载后，再恢复文件（避免文件在运行无法替换），最后执行绿化。&lt;/p&gt;
+&lt;h3 id=&#34;版本区别&#34;&gt;版本区别
+&lt;/h3&gt;&lt;p&gt;① exe单文件，没带词库文件，双击选择路径安装 (自动安装参数: -ai)，输入法配置保存在系统默认路径，在开始菜单创建快捷方式，SGTool.exe 允许常驻进程，响应快捷键可通过 Ctrl+Shift+Z 调出符号大全；
+② 7z 压缩包，带词库文件，需解压通过脚本安装，输入法配置保存在当前文件夹，在当前文件夹创建快捷方式，SGTool.exe 不允许常驻进程，不响应快捷键；&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/af724f94390d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/af724f94390d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>FastGestures(鼠标/触控板/屏手势) v2.2.19 中文绿色版</title>
+        <link>https://www.danlong360.com/post/fastgestures2219/</link>
+        <pubDate>Sat, 21 Sep 2024 23:27:03 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/fastgestures2219/</guid>
+        <description>&lt;p&gt;FastGestures是一款轻量级的Windows软件，可以帮助用户更快速、方便地进行各种操作。它使用手势识别技术，让用户通过简单的手势即可触发各种功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/21/sWZHOdkbzJRe8FM.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;FastGestures(鼠标/触控板/屏手势) v2.2.12 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;快速操作：FastGestures可以通过手势识别快速触发各种功能，例如打开应用程序、切换窗口、调整音量等。
+自定义手势：用户可以自定义手势，为每个手势关联一个特定的功能。这样，用户可以根据自己的需求和习惯来设置手势，并更轻松地完成各种操作。
+多种手势模式：FastGestures提供多种手势模式，包括手指滑动、手掌平移、手势组合等。用户可以根据不同的操作场景选择适合自己的手势模式。
+可视化设置：FastGestures提供一个可视化的设置界面，用户可以直观地设置手势和关联的功能，并即时预览效果。
+兼容性强：FastGestures与大部分Windows应用程序兼容，并且支持多种常见的手势操作，包括上下滑动、左右滑动、画圈等。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;轻量级：FastGestures具有小巧、占用资源少的特点，不会占用过多的系统资源，对计算机性能影响较小。
+易于使用：FastGestures提供直观的设置界面和简单易懂的操作方式，使用户可以快速上手，并轻松完成各种操作。
+功能丰富：FastGestures支持多种手势和功能设置，可以满足不同用户的需求。用户可以根据自己的喜好和工作习惯来自定义手势和设置功能。
+提高效率：通过使用手势操作，用户可以更快速地完成各种操作，提高工作和学习效率。
+灵活性高：FastGestures提供多种手势模式和设置选项，用户可以根据自己的需求灵活地调整手势和功能的设置。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2.2.19
+修复
+修复登陆状态保持相关问题&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d8ced6ce8089&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d8ced6ce8089&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>12306Bypass分流抢票 v1.16.33 中文绿色版</title>
         <link>https://www.danlong360.com/post/12306bypass11633/</link>
         <pubDate>Sat, 21 Sep 2024 16:49:53 +0800</pubDate>
