@@ -7,7 +7,88 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 22 Sep 2024 13:10:53 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 22 Sep 2024 13:14:26 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Bulk Rename Utility 4.0 (Beta) 便携版</title>
+        <link>https://www.danlong360.com/post/bulkrenameutility/</link>
+        <pubDate>Sun, 22 Sep 2024 13:14:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/bulkrenameutility/</guid>
+        <description>&lt;p&gt;Bulk Rename Utility 是一款功能强大的文件批量重命名工具，适用于 Windows 系统。它允许用户通过多种方式对大量文件和文件夹进行快速、灵活的重命名操作。该软件提供了直观的用户界面，能够轻松地根据文件属性、时间戳、数字序列、文本替换等条件对文件名进行修改，是处理大量文件时的高效解决方案。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/22/YAMCVg61iLrovO9.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240922131452707&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;批量重命名：
+&lt;ul&gt;
+&lt;li&gt;允许同时对数百甚至数千个文件进行批量重命名，显著提高工作效率。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;支持多种重命名规则：
+&lt;ul&gt;
+&lt;li&gt;提供丰富的重命名选项，如文本替换、添加前缀或后缀、删除字符、改变大小写等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;文件属性修改：
+&lt;ul&gt;
+&lt;li&gt;可以基于文件的创建时间、修改时间或访问时间来重命名文件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;文件编号：
+&lt;ul&gt;
+&lt;li&gt;支持为文件添加连续的数字序列，以便轻松管理大批量文件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;支持文件夹和子文件夹：
+&lt;ul&gt;
+&lt;li&gt;不仅可以重命名单个文件，还可以处理文件夹及其子文件夹中的文件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;预览功能：
+&lt;ul&gt;
+&lt;li&gt;在执行重命名之前，可以预览更改的结果，确保准确无误。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;支持正则表达式：
+&lt;ul&gt;
+&lt;li&gt;通过使用正则表达式，可以实现更复杂的重命名需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;EXIF 元数据支持：
+&lt;ul&gt;
+&lt;li&gt;对照片文件可以根据其 EXIF 信息（如拍摄日期）进行重命名。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;命令行支持：
+&lt;ul&gt;
+&lt;li&gt;通过命令行进行操作，适合有自动化需求的用户。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;轻量且免费：
+&lt;ul&gt;
+&lt;li&gt;软件占用资源少，使用免费，适合个人及商业用途。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;模组信息&#34;&gt;模组信息
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;by Zero&lt;/li&gt;
+&lt;li&gt;中文汉化（大眼仔）；&lt;/li&gt;
+&lt;li&gt;默认解压运行即便携版，集成右键菜单;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6232f27a94c1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6232f27a94c1&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>InternetTest(开源免费网络测试工具) Pro v8.6.1.2409</title>
         <link>https://www.danlong360.com/post/internettest8612409/</link>
         <pubDate>Sun, 22 Sep 2024 13:10:53 +0800</pubDate>
