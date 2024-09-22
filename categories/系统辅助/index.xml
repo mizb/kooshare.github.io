@@ -7,7 +7,55 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 22 Sep 2024 13:14:26 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 22 Sep 2024 17:21:48 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>HashCalculator(哈希值批量计算器) v5.27.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/hashcalculator/</link>
+        <pubDate>Sun, 22 Sep 2024 17:21:48 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/hashcalculator/</guid>
+        <description>&lt;p&gt;本软件主要是为了批量计算、批量校验文件的哈希值而设计，减少批量计算、校验、统计的麻烦。用来计算单个文件的哈希值也很方便。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/22/z7CQ1xqwVEketim.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;HashCalculator(哈希值批量计算器) v5.24.0 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;功能特点&#34;&gt;功能特点
+&lt;/h3&gt;&lt;p&gt;支持的哈希算法有：SHA1、SHA224、SHA256、SHA384、SHA512、SHA3 系列、MD5、Blake2b 系列、Blake2s 系列、Blake3 系列、Whirlpool。
+计算所得哈希值的输出方式可选择 Base64 或十六进制大/小写。
+支持导出计算结果到文件。
+支持同时运行多个计算文件哈希值的任务 (1 ~ 8 个)。
+每个计算任务可以同时计算一个文件的多个算法的哈希值。
+支持直接拖拽文件/文件夹到主界面表格中计算文件哈希值。
+支持在计算过程中暂停、继续、取消所有正在进行的任务或单个正在进行的任务。
+支持将 HashCalculator 的快捷菜单集成到系统右键菜单，可以在设置面板中打开或关闭。快捷菜单有：计算所选对象的哈希值、执行指定的哈希算法、作为哈希校验依据打开。(校验依据：内容包含哈希值和文件名的文本文件)
+支持把计算所得的结果导出为文本文件，可选 .txt 扩展名或 .hcb 扩展名，其中 .hcb 扩展名的文件支持直接双击自动打开 HashCalculator 进行校验(在设置中打开了文件关联后)。
+其他未列出的功能…&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v5.27.0
+在【常规设置选项】页增加【通过命令行、系统右键菜单、关联的文件启动计算前先将表格现有的内容清空】并实现其功能
+删除主窗口顶部的【关于】按钮，原【关于】窗口的内容移到【设置】窗口的【关于软件】页
+在【界面设置】页增加单独控制主窗口各个工具按钮是否显示的设置项
+增加两个校验依据解析方案（通用五）和（通用六）
+想要看到新增的解析方案，需要重置解析方案。如果有自定义的解析方案，请先把它们复制到其他位置保存，重置方案后再重新添加，否则自定义方案将丢失！
+当无法从校验依据文件获知算法类型时，将默认依据的算法与启动校验时用户指定的算法相同
+当“校验依据文件内记录的哈希值长度”与“启动校验时指定的算法的结果应有的长度”不匹配时，或者启动校验时未指定算法，则行为仍然与旧版相同
+修复不清空表格的情况下选择校验依据手动进行校验时，如果校验依据内是文件相对路径而不是文件名，会导致校验结果是“无关联”的问题
+修复当使用命令行参数启动 HashCalculator 时，如果传入的哈希算法参数是算法别名，HashCalculator 不能识别别名的问题
+为【配置文件保存位置】增加【公用用户目录】和【程序数据目录】选项
+计算文件哈希值时暂停的时长不再计入“计算耗时”中
+【完整路径】列、【操作目标】列、【任务耗时】列改为可点击表头排序
+新增设置项【所有计算任务完成后清除所有行的被选中状态】并实现功能&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/53ca93a7145e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/53ca93a7145e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Bulk Rename Utility 4.0 (Beta) 便携版</title>
         <link>https://www.danlong360.com/post/bulkrenameutility/</link>
         <pubDate>Sun, 22 Sep 2024 13:14:26 +0800</pubDate>
