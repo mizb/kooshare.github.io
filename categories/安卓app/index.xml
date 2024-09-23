@@ -7,7 +7,69 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 23 Sep 2024 11:03:25 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 23 Sep 2024 13:08:04 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>知乎 v10.23.1，知乎增强版集成知了插件版</title>
+        <link>https://www.danlong360.com/post/zhihuv10231/</link>
+        <pubDate>Mon, 23 Sep 2024 13:08:04 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/zhihuv10231/</guid>
+        <description>&lt;p&gt;知乎APP是中文互联网高质量的问答社区和创作者聚集的原创内容平台安卓客户端，知乎安卓版提供国内渠道版和谷歌商店版，所有版本都非常臃肿广告营销满屏飞，知了Xposed模块是目前有效的知乎去广告方法。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/23/giODJt8XhAdEKe2.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;知了2024.04.06&lt;/p&gt;
+&lt;p&gt;- 新增：隐藏发现按钮&lt;/p&gt;
+&lt;p&gt;- 新增：禁止进入全屏模式&lt;/p&gt;
+&lt;p&gt;- 修复：某些渠道包启动报错&lt;/p&gt;
+&lt;p&gt;- 修复：左右划设置显示异常&lt;/p&gt;
+&lt;p&gt;- 修复：重启知乎后无法进入知了设置页面&lt;/p&gt;
+&lt;h3 id=&#34;版本特点&#34;&gt;版本特点
+&lt;/h3&gt;&lt;p&gt;【知乎内置知了版】&lt;/p&gt;
+&lt;p&gt;- 内置知了模块，自定义去广告，不需要 Root 就能安装&lt;/p&gt;
+&lt;p&gt;- 官方原版，LSPatch凯入方式内置了 知了 2024.04.06&lt;/p&gt;
+&lt;p&gt;【知了功能】&lt;/p&gt;
+&lt;p&gt;- 去启动页广告、去信息流广告、去评论广告、去分享广告、去回答列表广告、去回答底部广告&lt;/p&gt;
+&lt;p&gt;- 隐藏卡片按钮：隐藏会员卡片、隐藏会员按钮、隐藏视频按钮、隐藏热点通知、精简文章页面&lt;/p&gt;
+&lt;p&gt;- 去信息流会员推荐、去回答圈子、去商品推荐、移除直播按钮、过滤掉视频、自定义过滤&lt;/p&gt;
+&lt;p&gt;- 状态栏沉浸、禁止切换色彩模式、自定义起始页面、直接打开外部链接、解锁第三方登录&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/acd5a68924cd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/acd5a68924cd&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>快乐下载 v1.28 高级版，一款超强力多功能解析下载工具箱</title>
+        <link>https://www.danlong360.com/post/kuailexiazaiv128/</link>
+        <pubDate>Mon, 23 Sep 2024 13:06:25 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/kuailexiazaiv128/</guid>
+        <description>&lt;p&gt;一款超强力下载软件，内带56种下载协议，不限制下载速度，支持磁力、直链、无损音乐等常用下载，支持视频号、抖音、快手、皮皮虾、B站等短视频去水印下载，界面简洁干净，复制链接即可下载。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/23/PxoXT13Bke6yV9Y.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持下载磁力、短视频、视频号、无损音乐、视频处理等强大功能，非常的好用。并且视频号无视wx版本，可以直接链接下载保存视频。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/fb7d1980b75a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/fb7d1980b75a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>PDFelement 万兴PDF v4.8.20 手机高级版</title>
         <link>https://www.danlong360.com/post/pdfelement4820/</link>
         <pubDate>Mon, 23 Sep 2024 11:03:25 +0800</pubDate>
