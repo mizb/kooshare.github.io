@@ -7,7 +7,127 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 22 Sep 2024 17:30:56 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 23 Sep 2024 10:57:57 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PC QQ v9.7.23.29392 去广告绿色版</title>
+        <link>https://www.danlong360.com/post/pcqqv972329392/</link>
+        <pubDate>Mon, 23 Sep 2024 10:57:57 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/pcqqv972329392/</guid>
+        <description>&lt;p&gt;QQ软件发展历程20周年了，腾讯QQPC版去广告精简版及系列修改补丁，这里长期连续更新八年之久，去广告推广，去各种干扰提示及无用功能，消息防撤回，勋章加速，无QQ安全防护，无多余按钮、选项、菜单等，纯净清爽，老牌良心口碑作品，深受部分用户喜爱，长期更新提供去效验、本地VIP会员等系列补丁。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/23/fN9E8hbyDwO3Jo1.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;by zdBryan&lt;/p&gt;
+&lt;p&gt;01、去所有组件安全校验，无恶意软件损坏提示，杜绝后台扫描上报&lt;/p&gt;
+&lt;p&gt;├— BIN模块、插件组件、终端设备登陆、QS安全扫描、QP安全防护&lt;/p&gt;
+&lt;p&gt;├— 无QQProtect(Q盾)安全防护驱动及组件脱离QQProtect组件依赖&lt;/p&gt;
+&lt;p&gt;02、禁止插件目录生成空文件夹，插件实现按需加载, 可任意删除插件&lt;/p&gt;
+&lt;p&gt;03、解除设置-文件管理-个人文件夹(消息记录等数据)保存位置的限制&lt;/p&gt;
+&lt;p&gt;├— 保存位置可自定义保存到安装目录 (原版Win7以上系统该项灰色）&lt;/p&gt;
+&lt;p&gt;04、解锁勋章墙加速（强制点亮QQ勋章墙图标，0.2活跃天自动加速）&lt;/p&gt;
+&lt;p&gt;05、解除非VIP会员给对方发送在线文件单个文件大于4G大小的限制&lt;/p&gt;
+&lt;p&gt;06、解除隐身或离线给对方发送窗口抖动过于频繁限制可无限制发送&lt;/p&gt;
+&lt;p&gt;07、解除主面板宽高大小限制，调整面板宽度名称自缩放不显省略号&lt;/p&gt;
+&lt;p&gt;08、禁止对方发送的消息防撤回（好友对方发的消息撤回后仍然可见）&lt;/p&gt;
+&lt;p&gt;09、去主面板无用栏：QQ空间, 花样直播, 腾讯课堂，改应用管理器和查找按钮图标为灰色&lt;/p&gt;
+&lt;p&gt;10、去主面板无用项：腾讯文档、QQ空间红点、个性装扮图标动画及红点、编辑个性签名&lt;/p&gt;
+&lt;p&gt;12、去界面管理器无用项：腾讯网迷你版、大众点评、App应用中心、兴趣部落、我的购物&lt;/p&gt;
+&lt;p&gt;13、去各种引流产品弹窗：QQ浏览器、搜狗输入法、电脑管家的诱导安装弹窗及推广提示&lt;/p&gt;
+&lt;p&gt;14、禁止后台下载：TencentVideo, MiniBrowser, UnKownFileOpen, QQcall**.exe等等&lt;/p&gt;
+&lt;p&gt;15、去群公告广告、去群举报按钮、去传输文件侧边栏技巧提示及传视频QQ影音推荐推广&lt;/p&gt;
+&lt;p&gt;17、去选项设置界面无用项：软件更新、安全推荐、订阅腾讯视频资讯, 每日精选商品资讯&lt;/p&gt;
+&lt;p&gt;18、禁止后台生成堆积上GB大小的腾讯产品日志文件 %AppData%\Logs&lt;/p&gt;
+&lt;p&gt;19、禁止播放接受的视频文件在后台下载腾讯视频安装包 TencentVideo&lt;/p&gt;
+&lt;p&gt;20、禁止点击链接和未知文件后台生成 UnKownFileOpen, QQcall**.exe&lt;/p&gt;
+&lt;p&gt;21、禁止生成上报本地用户安全匿名数据和日志Bin*.db, beacon_report.log&lt;/p&gt;
+&lt;p&gt;22、禁止后台生成电脑管家下载器数据 QQDoctor TSFSCAN QMReport.dat&lt;/p&gt;
+&lt;p&gt;23、去除聊天界面鼠标悬停在链接的推广（QQ浏览器电脑管家推广）&lt;/p&gt;
+&lt;p&gt;24、去除聊天界面鼠标悬停在图片的无用提示（图片功能悬浮提示）&lt;/p&gt;
+&lt;p&gt;25、去除聊天窗对话框烦人的弹窗及浮动提示（消息漫游安全验证）&lt;/p&gt;
+&lt;p&gt;26、去除清理文件结果界面推广（安装电脑管家，全面清理垃圾）&lt;/p&gt;
+&lt;p&gt;27、去除聊天界面无用提示（已对你发送的消息进行了加密处理）&lt;/p&gt;
+&lt;p&gt;28、去除主菜单无用项（升级、红点、TIM推送、新功能介绍Tip）&lt;/p&gt;
+&lt;p&gt;29、删除了大量不必要的产品更迭遗留插件及组件文件&lt;/p&gt;
+&lt;p&gt;30）删QQ秀插件、去聊天窗口QQ秀，禁止聊天窗自动变宽&lt;/p&gt;
+&lt;ol start=&#34;31&#34;&gt;
+&lt;li&gt;去界面管理器：QQ频道，并禁止启动自动下载安装组件&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;常规运行=安装版（含开始菜单快捷方式和程序卸载项的快捷方式）&lt;/p&gt;
+&lt;p&gt;右键解压=绿色版（本身不支持便携化的软件需手动运行绿化处理）&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/1ad802fdc7dc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/1ad802fdc7dc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>TIM v3.5.0.22143 绿色精简版</title>
+        <link>https://www.danlong360.com/post/timv35022143/</link>
+        <pubDate>Mon, 23 Sep 2024 10:56:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/timv35022143/</guid>
+        <description>&lt;p&gt;TIM，QQ办公简洁版，是一款专注于团队办公协作的跨平台沟通工具。登录后，你的QQ好友都在，提供云文件、在线文档、邮件、日程、收藏等好用的办公功能，界面简洁清晰，QQ好友和消息无缝同步。&lt;/p&gt;
+&lt;p&gt;TIM是由腾讯公司于2016年11月发布的多平台客户端应用。TIM是轻聊的QQ，更方便办公。TIM用在QQ轻聊版的基础上加入了协同办公服务的支持，而且可使用QQ号登录，好友、消息完全同步，支持多人在线编辑Word、Excel文档等，更加适合办公用户使用&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/23/BYbTvCyg9a2Lstf.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;沟通：支持手机、电脑多平台，多端消息漫游同步。&lt;/p&gt;
+&lt;p&gt;联系人：QQ登录后，联系人全同步，还可以将部分不常用联系人隐藏。&lt;/p&gt;
+&lt;p&gt;在线文档：可以多人在线编辑Word文档和Excel表格。&lt;/p&gt;
+&lt;p&gt;日程：创建日程，安排事务，还能做会议邀请。&lt;/p&gt;
+&lt;p&gt;邮件：收发邮件无压力，还可以收非QQ邮箱的邮件。&lt;/p&gt;
+&lt;p&gt;文件传输：使用QQ底层技术，传文件，快！&lt;/p&gt;
+&lt;p&gt;电话会议：异地沟通？用TIM打个电话吧。&lt;/p&gt;
+&lt;p&gt;收藏：有用的文字、图片和链接等都能收藏进来。&lt;/p&gt;
+&lt;h3 id=&#34;更新说明&#34;&gt;更新说明
+&lt;/h3&gt;&lt;p&gt;增强系统稳定性，提升聊天时的使用体验。&lt;/p&gt;
+&lt;h3 id=&#34;修改说明&#34;&gt;修改说明
+&lt;/h3&gt;&lt;p&gt;@423down&lt;/p&gt;
+&lt;p&gt;去所有安全校验，去恶意软件损坏提示，禁止后台扫描个人信息上报；
+﹂BIN模块、插件组件、终端设备登陆、QS安全扫描、QP安全防护等；
+﹂无QQProtect安全防护驱动及组件，剥离QQProtect 程序进程依赖；
+禁止插件目录Plugin 生成空文件夹，插件按需加载，可自由删除插件；
+解除设置系统限制：文件管理-&amp;gt;选择个人文件夹（保存消息记录数据位置）
+﹂可随意勾选保存位置保存到安装目录下 (原版在Win7以上系统该项为灰色）
+发送文件大小无限制：解除非VIP会员发送在线文件单个文件大于4G的限制；
+消息防撤回：禁止对方撤回发送的消息，对方发的消息撤回后你这依然可见；
+离隐无限抖：解除隐身或离线状态窗口发送抖动过于频繁限制，可无限发送；
+去每次打开聊天窗口烦人的“消息漫游安全验证”弹窗及去相关蓝浮条提示；
+去设置无用项：软件更新，安全推荐；去菜单无用项：软件升级；
+去设置界面里-&amp;gt;文件管理-&amp;gt;清理文件窗口内的腾讯电脑管家提示；
+去minibrowser_shell.dll模块依赖，可正常打开所有链接及文档；
+禁止后台下载生成 TencentUnKownFileOpen；
+禁止BIN目录及后台下载生成QQCallxxx.exe程序；
+禁止后台生成Logs文件夹及臃肿的**.tlg日志文件；
+禁止偶尔退出TIM后弹出下载手机版TIM安装弹窗；
+去聊天窗口网址链接提示框中的QQ浏览器推广；
+去聊天窗口侧边栏传送文件下方广告及帮助提示；
+去聊天窗口侧边栏传送视频的QQ影音推荐提示；
+集成本地影音播放组件，删除大量的无用文件；&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;- 优化性能和体验问题，给你更好的使用体验。&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8be66de79c8a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8be66de79c8a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>YY语音(歪歪语音) v9.37.0.0 多开去广告绿色版</title>
         <link>https://www.danlong360.com/post/yyyuyin93700/</link>
         <pubDate>Sun, 22 Sep 2024 17:30:56 +0800</pubDate>
