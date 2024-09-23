@@ -7,7 +7,79 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 23 Sep 2024 10:36:48 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 23 Sep 2024 19:21:19 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>HDCleaner(系统清理优化工具) v2.081 中文绿色版</title>
+        <link>https://www.danlong360.com/post/hdcleaner2081/</link>
+        <pubDate>Mon, 23 Sep 2024 19:21:19 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/hdcleaner2081/</guid>
+        <description>&lt;p&gt;HDCleaner 是一款功能强大的系统清理和优化工具，可以清理Windows系统中的无用文件、无效的快捷方式和临时文件，并修复和优化Windows注册表和系统设置。它还可以管理启动项和程序，帮助用户控制计算机的性能和速度。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/23/TzyOLeG3qXgsM8S.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;HDCleaner(系统清理优化工具) v2.073 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;清理功能：可以清理系统中的临时文件、无效快捷方式、cookie、浏览记录、垃圾文件等，释放磁盘空间。&lt;/li&gt;
+&lt;li&gt;优化功能：可以修复Windows注册表，优化系统设置，提高计算机的性能和响应速度。&lt;/li&gt;
+&lt;li&gt;系统维护功能：可以管理计算机的启动项、服务、任务计划等，帮助优化系统。&lt;/li&gt;
+&lt;li&gt;隐私保护功能：可以清除浏览器的历史记录、下载记录、表单数据、缓存等，保护用户的隐私。&lt;/li&gt;
+&lt;li&gt;数据安全功能：可以安全地删除文件和文件夹，确保数据不会被恢复。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简洁、易于使用，适合各种用户。&lt;/li&gt;
+&lt;li&gt;提供多种清理和优化选项，可根据需要进行选择。&lt;/li&gt;
+&lt;li&gt;可以对系统进行全面的扫描和检查，帮助找到并清理不必要的文件和设置。&lt;/li&gt;
+&lt;li&gt;支持多种语言，如英语、德语、法语、意大利语、西班牙语等。&lt;/li&gt;
+&lt;li&gt;可以便捷地备份和还原Windows注册表。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/5eb54b6c21ec&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/5eb54b6c21ec&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Tabby(Windows终端模拟器) v1.0.214 中文绿色版</title>
+        <link>https://www.danlong360.com/post/tabby214/</link>
+        <pubDate>Mon, 23 Sep 2024 19:15:07 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/tabby214/</guid>
+        <description>&lt;p&gt;Tabby是一款免费开源的Windows终端模拟器，旨在为开发人员提供更强大、更可扩展的终端体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/23/nRMuDZ3crVmLqEF.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Tabby(Windows终端模拟器) v1.0.208 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;- 多个选项卡式终端管理器，可在同一窗口中管理多个终端，方便快捷。
+- 支持SSH、Telnet和本地Shell，可连接本地和远程服务器、自定义终端等。
+- 自定义快捷键、颜色、字体等终端属性，以满足不同开发需求。
+- 内置多种主题（黑夜、白日、渐变），可根据不同的环境切换不同的主题，提高开发效率。
+- 可导出/导入配置、扩展插件、自动化脚本等功能，可提高开发效率。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;- 免费开源，又好用又实用。
+- 能够提供比Windows自带终端更好的显示效果和界面风格。
+- 多机种支持，可支持连接Windows、Linux、macOS等不同系统的服务器。
+- 支持扩展插件，可根据不同开发需求进行自定义扩展。
+- 集成快速启动菜单，可简化命令打开过程，提高效率。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/bd9f4f851757&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/bd9f4f851757&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>CHK Hash Tool 5.30 绿色版  哈希值校验工具</title>
         <link>https://www.danlong360.com/post/chkhashtool530/</link>
         <pubDate>Mon, 23 Sep 2024 10:36:48 +0800</pubDate>
