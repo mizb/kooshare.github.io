@@ -7,7 +7,72 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 24 Sep 2024 09:42:26 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 24 Sep 2024 14:08:01 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>X浏览器谷歌版 v4.8.2.883 for Google Play</title>
+        <link>https://www.danlong360.com/post/xliulanqi883/</link>
+        <pubDate>Tue, 24 Sep 2024 14:08:01 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/xliulanqi883/</guid>
+        <description>&lt;p&gt;X浏览器，最初提供免费梯子的安卓浏览器，由于内置的广告过滤功能过于强大，曾经发生优酷起诉的事件。功能包括：浏览器扩展、JS脚本、资源嗅探、操控手势、即时翻译、广告拦截、安全隐私、远程调试等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/24/Nfi5yJU8bnBGDW4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240924140849491&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;&lt;strong&gt;新版变化&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;X浏览器 XBrowser - Super fast and Powerful - Google Play
+&lt;a class=&#34;link&#34; href=&#34;https://play.google.com/store/apps/details?id=com.xbrowser.play&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://play.google.com/store/apps/details?id=com.xbrowser.play&lt;/a&gt;
+2024.08.27 v4.8.1 875 正式版
+- 升级至Android API LEVEL 35 提升安全级别
+- 视频全屏支持双击&amp;quot;暂停/播放&amp;quot;手势
+- 油猴脚本显示最后更新时间
+- 全屏模式呼出工具栏支持浮动按钮和下拉手势两种方式。 (浏览器设置》外观/定制)
+- 优化自动填充，修复某些情况下填写字段错误的问题
+- 移除了搜狗内置搜索链接（如需要，请自行重新添加自定义)
+- 文件导入拦截规则，规则名称使用原文件的名称
+- 修复默认浏览器UA存在的不兼容的问题
+- 修复了油猴脚本引擎的一些兼容性问题
+- 修复某些情况下下载无法获取正确文件名的问题。
+- 修复从文件导入拦截规则，需要重现启动浏览器才能生效的问题
+- 修复某些情况下无法同步用户名密码问题
+- 修复某些情况下桌面模式无法生效的问题。
+- 修复某些情况下图片下载失败的问题
+- 修复某些情况下在超级缓存模式下载失败的问题。
+- 修复禁用通知权限后，不断提示&amp;quot;request permit failed&amp;quot;的问题。
+- 修复网页无法启动抖音app的问题&lt;/p&gt;
+&lt;p&gt;适用移动设备广告规则订阅地址分享&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;My AdFilters
+&lt;a class=&#34;link&#34; href=&#34;http://halflife.coding.net/p/list/d/list/git/raw/master/ad.txt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://halflife.coding.net/p/list/d/list/git/raw/master/ad.txt&lt;/a&gt;
+Some rule（admin)
+&lt;a class=&#34;link&#34; href=&#34;http://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/rules-admin.txt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/rules-admin.txt&lt;/a&gt;
+adgk手机去广告
+&lt;a class=&#34;link&#34; href=&#34;http://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt&lt;/a&gt;
+去网页app打开
+&lt;a class=&#34;link&#34; href=&#34;http://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/not-app.txt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://hacamer.coding.net/p/adgurd/d/adrules/git/raw/master/not-app.txt&lt;/a&gt;
+AdGuard DNS filyer
+&lt;a class=&#34;link&#34; href=&#34;http://hacamer.coding.net/p/lite/d/AdBlock-Rules-Mirror/git/raw/master/AdGuard-Simplified-Domain-Names-Filter.txt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://hacamer.coding.net/p/lite/d/AdBlock-Rules-Mirror/git/raw/master/AdGuard-Simplified-Domain-Names-Filter.txt&lt;/a&gt;
+anti-AD for AdGuard
+&lt;a class=&#34;link&#34; href=&#34;http://hacamer.coding.net/p/lite/d/anti-AD/git/raw/master/anti-ad-adguard.txt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://hacamer.coding.net/p/lite/d/anti-AD/git/raw/master/anti-ad-adguard.txt&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f4ccf5af1538&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f4ccf5af1538&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>傲游浏览器(双核引擎网页浏览器) v7.2.2.4800 官方绿色版</title>
         <link>https://www.danlong360.com/post/aoyouliulanqi4800/</link>
         <pubDate>Tue, 24 Sep 2024 09:42:26 +0800</pubDate>

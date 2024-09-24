@@ -7,7 +7,42 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 13 Aug 2024 00:41:43 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/win-pe/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 24 Sep 2024 13:46:48 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/win-pe/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>EasyU(优启通) v3.7.2024.0918 VIP版</title>
+        <link>https://www.danlong360.com/post/easyu0918/</link>
+        <pubDate>Tue, 24 Sep 2024 13:46:48 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/easyu0918/</guid>
+        <description>&lt;p&gt;优启通是IT天空出品的一款U盘启动制作工具，提供的PE系统方便好用，是唯一一个官方纯净并且还维护的系统。软件不仅附带Win10 PE,还附带Win2003 PE系统，兼容性高。&lt;/p&gt;
+&lt;p&gt;优启通（EasyU，简称EU）是IT天空精心打造的一款系统预安装环境（PE），它具有简约、易操作等特点，使用起来十分人性化。以U盘作为使用载体，空间更为充分，携带更为方便。同时整合各种装机必备工具，并结合IT天空数款自研软件，有效提高系统安装效率。新优启通将为大家带来全新的用户体验！&lt;/p&gt;
+&lt;p&gt;定位：优启通定位于一线装机技术员、系统工程师和系统维护人员，在广泛兼容、稳定耐用、快速启动、体积小巧等多方面找到一位最为合适的平衡点。优启通的打造过程结合了大量一线工作者的经验与需求，并经过了严格的测试，尽一切可能贴近使用者的实际需求，倾力将优启通打造为一线装机工程师们的利刃。&lt;/p&gt;
+&lt;p&gt;硬件支持：采用经过优化的U盘三分区方案，同时支持BIOS（Legacy）与UEFI两种启动模式。结合IT天空PE方面一贯的“双PE分治”理念，两个PE分别接管不同的硬件范围，可在支持主流硬件的基础上，同时兼容以往多数旧硬件。U盘PE所在分区于系统下自动隐藏，PE区与数据区分别独立，便于使用者对数据的各项操作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/24/B3L8sdEMquNkDhU.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;EasyU(优启通) v3.7.2024.0918 VIP版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;调整 - 文件夹结构调整
+更新 - EDSR v4 万能驱动搜索程序
+更新 - EasyImageX2 2.24.823.1725&lt;/p&gt;
+&lt;h3 id=&#34;版本区别&#34;&gt;版本区别
+&lt;/h3&gt;&lt;p&gt;特别提醒，此版本重要更新：
+（1）原 DLC 直接融合至优启通文件夹，不再需要手动合并 DLC；
+（2）新 DLC 目前仅包含备用 PE：03PE+7PE，如需要再将其复制到优启通的 PE 文件夹，再制作即可；
+（3）PE 默认组合变更为 10PE x86 + 10PE x64 + 11PE x64；。
+全面适配万能驱动 8&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/81d7dbd4c257&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/81d7dbd4c257&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>优启通VIP版 3.7.2024.0720 (启动盘制作) 绿色版</title>
         <link>https://www.danlong360.com/post/youqitong/</link>
         <pubDate>Tue, 13 Aug 2024 00:41:43 +0800</pubDate>

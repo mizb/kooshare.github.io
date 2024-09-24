@@ -7,7 +7,77 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 24 Sep 2024 12:50:25 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 24 Sep 2024 14:18:26 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>v2rayN v6.60 绿色版(网络代理工具)</title>
+        <link>https://www.danlong360.com/post/v2rayn660/</link>
+        <pubDate>Tue, 24 Sep 2024 14:18:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/v2rayn660/</guid>
+        <description>&lt;p&gt;v2rayN是一款基于V2Ray核心的图形化界面客户端，用于科学上网和网络代理。V2Ray是一个开源的网络代理工具，可以帮助用户绕过网络封锁，实现安全、稳定的网络连接。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/24/dXFyU5pS8mkZzK3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240924141853350&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;&lt;strong&gt;新版变化&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/2dust/v2rayN/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/2dust/v2rayN/releases&lt;/a&gt;
+支持多种协议：v2rayN支持多种协议，包括VMess、Shadowsocks、Socks等。用户可以根据自己的需求选择合适的协议进行连接。
+图形化界面：v2rayN提供了直观、易用的图形化界面，用户可以通过简单的操作完成配置和连接。它还提供了实时的连接状态和流量统计，方便用户监控网络连接情况。
+自动代理：v2rayN支持自动代理功能，可以根据用户设置的规则自动选择代理服务器。用户可以根据需要设置代理规则，实现智能代理和分流。
+多平台支持：v2rayN不仅支持Windows系统，还支持macOS和Linux系统。用户可以在不同的操作系统上使用相同的界面和功能。
+高度定制化：v2rayN提供了丰富的配置选项，用户可以根据自己的需求进行高度定制。用户可以设置代理服务器、端口、加密方式等参数，以满足特定的网络需求。
+2024-09-23
+备份和还原，支持WebDAV
+改进字体显示 #5713
+移除部分无维护&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO7Xfulr_UC1JTbSY1HffOcPA1?pwd=qict#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO7Xfulr_UC1JTbSY1HffOcPA1?pwd=qict#&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Lockpass(密码管理器) v0.0.8</title>
+        <link>https://www.danlong360.com/post/lockpass/</link>
+        <pubDate>Tue, 24 Sep 2024 13:35:02 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/lockpass/</guid>
+        <description>&lt;p&gt;Lockpass 是一款密码管理工具，是作者参考1password做的，目前功能尚不完善，作者会在使用过程中不断优化。软件采用双密码机制，主密码和25字符的key(软件生成）组合成超强密码。软件有随机密码生成工具。保险库功能可以将不同的密码信息分类保存，支持切换不同的账号。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/24/eoWji7N2qDHJ64O.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240924134310970&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;双密码机制: 主密码和25字符的key(软件生成）组合成超强密码1.AES数据加密: 本地存储的敏感信息通过aes-256-cbc进行加密存储&lt;/p&gt;
+&lt;p&gt;多种密码信息支持: 登陆信息、银行卡信息、笔记信息的保存&lt;/p&gt;
+&lt;p&gt;保险库功能: 将不同的密码信息分类保存&lt;/p&gt;
+&lt;p&gt;多账号功能: 软件可以切换不同的账号（这样你可以将你父母的你自己密码信息隔离保存，因为不同账号主密码可以不同）&lt;/p&gt;
+&lt;p&gt;随机密码生成工具: 再也不用担心密码不够安全，不符合网站的需求。工具帮你随机按需生成密码&lt;/p&gt;
+&lt;p&gt;键盘自动输入: 通过快捷键呼出密码快捷搜索窗口，选中后，自动输入账号密码&lt;/p&gt;
+&lt;p&gt;多语言支持: 支持中文和英文的快速切换&lt;/p&gt;
+&lt;p&gt;本地备份文件的导出和导入: 可以将个人信息保存成zip文件，同时也可以导入此备份信息。&lt;/p&gt;
+&lt;p&gt;云盘备份和恢复: 可以将软件数据保存到云盘，或者从云盘上恢复相应的备份。（目前只支持阿里云盘）&lt;/p&gt;
+&lt;p&gt;csv导入和导出: 可以导入chrome或者edge浏览器导出的csv密码文件到软件中，也可以导出软件的密码信息成csv&lt;/p&gt;
+&lt;p&gt;修改主密码: 可以方便的修改主密码（注意备份）&lt;/p&gt;
+&lt;p&gt;程序自动更新: 支持从github上更新最新版本1.开机自启动&lt;/p&gt;
+&lt;p&gt;系统锁定，软件也锁定&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6d81655a55f4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6d81655a55f4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>搜狗拼音输入法PC版 v14.9.0.9952 绿色精简版(09.23)</title>
         <link>https://www.danlong360.com/post/sougoupinyinshurufa0923/</link>
         <pubDate>Tue, 24 Sep 2024 12:50:25 +0800</pubDate>
