@@ -7,7 +7,48 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 25 Sep 2024 00:15:42 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 25 Sep 2024 11:29:11 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>我们的电视 TV v3.2.8 重构版</title>
+        <link>https://www.danlong360.com/post/womendedianshitvv328/</link>
+        <pubDate>Wed, 25 Sep 2024 11:29:11 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/womendedianshitvv328/</guid>
+        <description>&lt;p&gt;开源软件我的电视(my-tv)，因极其流畅的体验获得许多用户的喜欢。由于开源的原因，现在已经出现了各种基于其修改的衍生版本。&lt;/p&gt;
+&lt;p&gt;今天这款也是其中之一，不仅有电视版，还出了手机专用的版本。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/25/qT1xpECwXbynhZU.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;我们的电视 TV v3.2.8 重构版-第2张图片-分享迷&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;手机端&#34;&gt;手机端
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/25/JvnszKCkP7dt9Ug.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240925113005135&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;v328&#34;&gt;v3.2.8
+&lt;/h3&gt;&lt;p&gt;UI重构版本，调整设置入口，频道分类逻辑改为过滤器，增加分辨率和频道名展示
+增加公告
+增加自动下载更新
+完善援助逻辑。&lt;/p&gt;
+&lt;p&gt;手机版不再维护。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO7bE8BnVr2nd5oUzCi6ZA5uA1?pwd=4fhg#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO7bE8BnVr2nd5oUzCi6ZA5uA1?pwd=4fhg#&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>电视直播软件合集,已测试</title>
         <link>https://www.danlong360.com/post/dszbhj/</link>
         <pubDate>Wed, 25 Sep 2024 00:15:42 +0800</pubDate>

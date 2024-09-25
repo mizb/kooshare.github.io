@@ -7,7 +7,91 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 24 Aug 2024 10:02:17 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%87%E4%BB%BD%E8%BF%98%E5%8E%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 25 Sep 2024 11:25:37 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%87%E4%BB%BD%E8%BF%98%E5%8E%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hasleo Backup Suite 4.9.3 便携版 - 数据备份</title>
+        <link>https://www.danlong360.com/post/hasleo493/</link>
+        <pubDate>Wed, 25 Sep 2024 11:25:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/hasleo493/</guid>
+        <description>&lt;p&gt;Hasleo Backup Suite 是一款全面的数据备份和恢复解决方案，旨在帮助用户保护他们的重要数据和系统。该软件提供多种备份模式，包括系统备份、磁盘备份和文件备份，确保数据在遭遇硬件故障、病毒攻击或其他灾难性事件时能够轻松恢复。此外，它还支持差异备份和增量备份，优化备份速度并节省存储空间。Hasleo Backup Suite 易于使用，是家庭用户和企业用户理想的数据保护工具。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/25/jolCDEYNwJAFRc3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240925112613146&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;系统备份和恢复：
+&lt;ul&gt;
+&lt;li&gt;轻松备份和恢复整个操作系统，确保在系统崩溃时可以迅速恢复。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;磁盘和分区备份：
+&lt;ul&gt;
+&lt;li&gt;支持对整个硬盘或指定分区进行备份，保护所有存储的数据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;文件和文件夹备份：
+&lt;ul&gt;
+&lt;li&gt;允许用户选择特定的文件或文件夹进行备份，确保重要数据得到保护。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;差异备份和增量备份：
+&lt;ul&gt;
+&lt;li&gt;提供差异备份和增量备份模式，有效减少备份时间和存储需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;定时备份：
+&lt;ul&gt;
+&lt;li&gt;支持定时备份功能，用户可以设置自动备份任务，定期保护数据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;快速恢复：
+&lt;ul&gt;
+&lt;li&gt;具备高效的数据恢复功能，允许用户从备份中快速恢复丢失的数据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;磁盘克隆：
+&lt;ul&gt;
+&lt;li&gt;支持磁盘克隆功能，用户可以将整个磁盘复制到另一块磁盘，方便硬件升级。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;灵活的备份管理：
+&lt;ul&gt;
+&lt;li&gt;提供备份任务管理工具，方便用户查看、编辑和删除备份任务。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;压缩与加密：
+&lt;ul&gt;
+&lt;li&gt;支持备份数据的压缩和加密，节省存储空间并提高数据安全性。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;多种存储选项：
+&lt;ul&gt;
+&lt;li&gt;备份数据可以保存到本地硬盘、外部存储设备或网络驱动器，提供多种存储选择。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;by Zero&lt;/li&gt;
+&lt;li&gt;默认解压运行即便携版；&lt;/li&gt;
+&lt;li&gt;注册表无残留信息；&lt;/li&gt;
+&lt;li&gt;自动卸载系统服务；&lt;/li&gt;
+&lt;li&gt;支持多语言设置；&lt;/li&gt;
+&lt;li&gt;恢复初始设置，删除 \Data 目录即可。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/4ba42c3753e5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/4ba42c3753e5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>闪电藤 2.3.1 (局域网传输) PC&#43;安卓&#43;MAC</title>
         <link>https://www.danlong360.com/post/shandianteng231/</link>
         <pubDate>Sat, 24 Aug 2024 10:02:17 +0800</pubDate>
