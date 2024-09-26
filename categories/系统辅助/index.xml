@@ -7,7 +7,175 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 26 Sep 2024 14:47:08 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 26 Sep 2024 20:51:21 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>eDiary电子日记本(记录生活点滴) v4.3.3 中文绿色版</title>
+        <link>https://www.danlong360.com/post/ediary433/</link>
+        <pubDate>Thu, 26 Sep 2024 20:51:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/ediary433/</guid>
+        <description>&lt;p&gt;eDiary电子日记本是一款简单易用的电子日记软件，可以帮助用户记录生活中的点滴，保存珍贵的回忆和心情。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/UCiYlcExqeHGRuO.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240926205159444&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;主要特色&#34;&gt;主要特色
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;简单易用：该软件操作简单，界面清晰易懂，即使是电脑小白也能轻松上手。&lt;/li&gt;
+&lt;li&gt;多样化功能：软件支持多种文本编辑和排版功能，支持插入图片，设置字体、颜色、日期等，满足用户对个性化日记的需求。&lt;/li&gt;
+&lt;li&gt;安全保密：该软件支持加密功能，用户可将重要日记加密保护，保障隐私安全。&lt;/li&gt;
+&lt;li&gt;多平台同步：用户可通过云同步功能将电子日记本同步到多个平台，如手机、平板及电脑，可随时查看，随时编辑，随时备份。&lt;/li&gt;
+&lt;li&gt;分享互动：用户可将日记分享到社交平台，与好友交流分享自己的心情和生活点滴，增强社交互动。&lt;/li&gt;
+&lt;li&gt;时间轴记录：软件提供了时间轴记录功能，可帮助用户将不同时间点的日记分门别类，便于查阅和整理。&lt;/li&gt;
+&lt;li&gt;备份和恢复：软件还提供了备份和恢复功能，用户可随时备份日记本，避免误删除或系统故障时数据丢失的问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;新版 (4.3.3) 有哪些改进？
+* 新增：新增了数学表达式计算功能（类似 FlashPad）。
+* 新增：支持用户定制左侧导航栏（功能入口：导航栏右键菜单）。
+* 新增：左侧导航栏支持文字标签显示。
+* 新增：新增了菜单“视图 -&amp;gt; 外观”，便于快速切换外观。
+* 新增：新增了快速切换夜间模式的入口（菜单：视图 -&amp;gt; 外观。快捷键 F10）。
+* 新增：支持在文章中插入附件链接。
+* 新增：支持以相对路径方式插入文件和目录链接。
+* 新增：设置窗口中新增了 WebDAV 连通性测试按钮。
+* 新增：记住颜色对话框中的自定义颜色。
+* 新增：模板管理器和纸纹管理器中增加了设置默认模板和纸纹的功能。
+* 修正：修正了切换显示器时滚动条消失的问题。
+* 修正：修正了切换显示器时某些界面按钮位置异常的问题。
+* 修正：修正了编辑图片后没有保持原有显示缩放比例的问题。
+* 优化：夜间模式下，蓝色字体（比如超链接）以黄色显示。
+* 优化：优化了节点图标的样式。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c8ae9c3f75df&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c8ae9c3f75df&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>eSearch(完全开源的识屏搜索工具) v13.1.6 中文绿色版</title>
+        <link>https://www.danlong360.com/post/esearch1316/</link>
+        <pubDate>Thu, 26 Sep 2024 20:41:52 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/esearch1316/</guid>
+        <description>&lt;p&gt;eSearch是一款基于Java开发的全文检索引擎。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/81uRCIedytO7DJV.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;eSearch(完全开源的识屏搜索工具) v1.12.0 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持中文分词：使用开源的中文分词库，支持中文分词，提高搜索的准确性。&lt;/li&gt;
+&lt;li&gt;支持多种数据源：支持从数据库、文件、网络等多种数据源中进行检索。&lt;/li&gt;
+&lt;li&gt;支持多种检索方式：支持全文检索、字段检索、模糊检索等多种检索方式，满足不同的检索需求。&lt;/li&gt;
+&lt;li&gt;支持高亮显示：支持在搜索结果中高亮显示匹配的关键字，方便用户快速定位。&lt;/li&gt;
+&lt;li&gt;支持自定义排序：支持根据不同的排序方式进行搜索结果的排序，提高搜索的效率。&lt;/li&gt;
+&lt;li&gt;支持数据更新：支持实时更新索引，保证搜索结果的及时性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;开源免费：eSearch是一款开源免费的软件，用户可以自由使用、修改和分发。&lt;/li&gt;
+&lt;li&gt;高性能：eSearch采用倒排索引的方式进行检索，具有快速高效的检索能力。&lt;/li&gt;
+&lt;li&gt;可扩展性：eSearch支持插件式开发，用户可以根据自己的需求进行扩展和定制。&lt;/li&gt;
+&lt;li&gt;易于使用：eSearch提供了简单易用的API，用户可以轻松地集成到自己的应用中。&lt;/li&gt;
+&lt;li&gt;可靠性高：eSearch采用了多种技术手段保证数据的安全性和可靠性，如多副本备份、故障转移等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;继续尝试修复 #277 截屏库下载不正确问题&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0d2f2fa7fba9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0d2f2fa7fba9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Tabby(Windows终端模拟器) v1.0.215 中文绿色版</title>
+        <link>https://www.danlong360.com/post/tabby215/</link>
+        <pubDate>Thu, 26 Sep 2024 20:38:58 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/tabby215/</guid>
+        <description>&lt;p&gt;Tabby是一款免费开源的Windows终端模拟器，旨在为开发人员提供更强大、更可扩展的终端体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/fdlxVj9HrnXzmp7.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Tabby(Windows终端模拟器) v1.0.208 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;- 多个选项卡式终端管理器，可在同一窗口中管理多个终端，方便快捷。
+- 支持SSH、Telnet和本地Shell，可连接本地和远程服务器、自定义终端等。
+- 自定义快捷键、颜色、字体等终端属性，以满足不同开发需求。
+- 内置多种主题（黑夜、白日、渐变），可根据不同的环境切换不同的主题，提高开发效率。
+- 可导出/导入配置、扩展插件、自动化脚本等功能，可提高开发效率。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;- 免费开源，又好用又实用。
+- 能够提供比Windows自带终端更好的显示效果和界面风格。
+- 多机种支持，可支持连接Windows、Linux、macOS等不同系统的服务器。
+- 支持扩展插件，可根据不同开发需求进行自定义扩展。
+- 集成快速启动菜单，可简化命令打开过程，提高效率。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/14df7e344f1c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/14df7e344f1c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Wise Care 365(系统优化工具) Pro v7.0.6.688 多语便携版</title>
+        <link>https://www.danlong360.com/post/wisecare365688/</link>
+        <pubDate>Thu, 26 Sep 2024 20:36:49 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/wisecare365688/</guid>
+        <description>&lt;p&gt;Wise Care 365中文版是一款电脑系统垃圾清理软件的系统优化工具.WiseCare365最新版系统垃圾清理优化工具功能包括:电脑体检,系统清理,系统优化,隐私保护,系统监视;启动项管理,注册表清理,右键菜单管理,系统瘦身,隐私清理,可选内存整理,文件粉碎,密码生成器,硬盘擦除,计划任务关机,磁盘碎片整理等功能.WiseCare365永久激活版这款系统优化神器的系统清理功能,可以体验全世界最快的扫描速度,轻松加速当前计算机系统.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/k2jrdCRKAV5vqYb.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Wise Care 365(系统优化工具) Pro v6.7.3.648 多语便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;WiseCleaner Release Logs
+&lt;a class=&#34;link&#34; href=&#34;http://wisecleaner.com/blog_sort_8.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://wisecleaner.com/blog_sort_8.html&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;系统清理：扫描和清理计算机上的无用文件，如临时文件、垃圾文件、缓存等，以释放磁盘空间并提升系统性能。
+注册表清理：检测和清理无效的注册表项，修复注册表错误，以提高系统稳定性和性能。
+系统优化：优化计算机启动和关闭速度，优化系统设置以提升整体性能。
+隐私保护：清除浏览器历史记录、跟踪文件和隐私信息，以保护用户的个人隐私不被他人获取。
+硬件监控：实时监控计算机的硬件状况，如温度、电压和风扇速度等，以防止硬件故障。
+文件恢复：恢复被删除或丢失的文件，以防止重要数据的丢失。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;wisecare365破解版,wise care 365 pro永久激活版
+- 反汇编处理，解锁永久激活版，7z自解压绿色单文件
+- 禁止后续强制升级提示弹窗，杜绝后台下载升级文件
+- 禁止自动创建开机启动项、任务计划，删除相关选项
+- 去右侧无用区域：用户名，系统保护、拉高右侧功能区高度
+- 去右侧需要在线下载安装的工具，改为读取软件各功能展示
+- 去主界面顶部无用按钮：消息、反馈，LOGO，去底部分享到连接
+- 去选项设置界面无用项：开机启动、订阅消息、创建便携版、语言
+- 去无用菜单项：帮助、官方主页、官方论坛、联系我们、检查升级
+- 删开机助手、升级程序、资讯订阅、头像、多语言等没啥用的文件&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/22f6d75611bb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/22f6d75611bb&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Twinkle Tray 多屏亮度调节工具 v1.16.0 官方中文版</title>
         <link>https://www.danlong360.com/post/twinkle/</link>
         <pubDate>Thu, 26 Sep 2024 14:47:08 +0800</pubDate>
