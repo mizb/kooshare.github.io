@@ -7,7 +7,554 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 26 Sep 2024 20:45:46 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 26 Sep 2024 21:41:52 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>TVbox_q215613905_ 20240925_0957俊仓优化版(附最新接口地址) 电视直播&#43;点播</title>
+        <link>https://www.danlong360.com/post/tvboxq215613905/</link>
+        <pubDate>Thu, 26 Sep 2024 21:41:52 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/tvboxq215613905/</guid>
+        <description>&lt;p&gt;猫影视开发者宣布停用后，它的开源版TVBox，根据官方代码仓生成的安卓应用。移植了猫影视V6的内核，可以无缝对接电视直播、影视剧点播站源规则，就是说原来的接口可以直接用。本地功能，这个版本也具备了，只需要开启存储权限，在配置地址栏输入本地规则地址即可。&lt;/p&gt;
+&lt;p&gt;安卓TV第一追剧神器，TVBox必然是当之无愧，它是猫影视作者另起炉灶全新开源的TV播放器，在功能上继承了原猫影视，并增强了播放体验，同时兼容性更好，由于自由度高，用户可自定义资源，它的可玩性极强，因此备受推崇。&lt;/p&gt;
+&lt;p&gt;开源，免费，自行配置接口，直播、点播两用，安卓设备。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/r7Xih9PcZEvsG1z.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;2022-06-29_213059.jpg&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/W85euAhC1H3pnPD.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;2022-06-29_213320.jpg&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;配置说明&#34;&gt;配置说明
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;配置网络接口&#34;&gt;配置网络接口
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/dXg4tiTvzhDx8OM.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;tvbox-tutorial.gif&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;导入本地接口&#34;&gt;导入本地接口
+&lt;/h4&gt;&lt;p&gt;提前设置本地存储权限，并将文件放到目录下，比如JK目录。&lt;/p&gt;
+&lt;p&gt;输入地址：&lt;code&gt;clan://localhost/JK/js.json&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/XTQEIFz1fU8JG7x.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;tvbox-local-1.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/KSsfQINnalOCWvm.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;tvbox-local-edit.gif&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;补充提交
+修正
+代码回退
+update quickjs.&lt;/p&gt;
+&lt;h4 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h4&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO7iaKk8QK6sT7_g6qm3yJ6fA1?pwd=q5kd#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO7iaKk8QK6sT7_g6qm3yJ6fA1?pwd=q5kd#&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>[野火直播，v5.8.5X，高颜值，超流畅的电视直播应用</title>
+        <link>https://www.danlong360.com/post/yehuozhibo585/</link>
+        <pubDate>Thu, 26 Sep 2024 21:34:00 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/yehuozhibo585/</guid>
+        <description>&lt;p&gt;野火直播（原水星直播)，电视TV和安卓设备可用，播放流畅，绝对纯净，有着丰富的直播频道和影视资源。内置了丰富的频道，包括央视、卫视、港澳台、亚洲、影视，播放流畅，满足您的观影需求！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/P4W3aF176Qq5prH.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;野火直播3.5.3-野火直播TV电视盒子最新版v5.2.5-火火资源网&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO7iYrfE9lzjn3eisybzlQXZA1?pwd=828z#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO7iYrfE9lzjn3eisybzlQXZA1?pwd=828z#&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>NOVA Video Player v6.3.2: 超屌的开源安卓播放器，支持本地、局域网、NAS、网盘播放视频</title>
+        <link>https://www.danlong360.com/post/nova632/</link>
+        <pubDate>Thu, 26 Sep 2024 21:31:15 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/nova632/</guid>
+        <description>&lt;p&gt;一款开源的安卓视频播放器，功能强大。&lt;/p&gt;
+&lt;p&gt;支持 Android 手机、平板、电视。&lt;/p&gt;
+&lt;p&gt;支持从本地、局域网、NAS、网盘上播放视频，拥有海报背景墙和刮削功能，内置字幕下载&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/X1V3UtTy8GzeEHZ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;2023-10-08_222323.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h3 id=&#34;v632&#34;&gt;v6.3.2
+&lt;/h3&gt;&lt;p&gt;升级到ffmpeg 7.0.2
+在nova中为具有受限语言支持的设备添加区域设置
+目标SDK 34符合Google API规则
+修复了网络快捷方式主机检查以接受TLD大于6个字符的FQDN的问题&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8a11d6067ad2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8a11d6067ad2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Avast Mobile Security v24.19.0 专业版</title>
+        <link>https://www.danlong360.com/post/avastmobilesecurity2419/</link>
+        <pubDate>Thu, 26 Sep 2024 21:28:58 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/avastmobilesecurity2419/</guid>
+        <description>&lt;p&gt;Avast 手机安全软件 2021「Avast Mobile Security」能在间谍软件或受广告软件感染的应用程序下载到您的设备上时发出警报，从而保护您的隐私。确保您的设备免受来自电子邮件和受感染网站的网络钓鱼攻击。打开 V*N，保持在线浏览的私密性和安全性，并在出国旅行时访问您喜爱的付费流媒体服务。当您的密码被黑客泄露时发出警报。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/CRVPhO9HWKaqD34.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;防病毒引擎
+防盗
+黑客检测
+照片库
+文件扫描程序
+隐私权限
+内存优化
+垃圾清理器
+Web 防护
+Wi-Fi 安全
+应用洞察
+病毒清理器
+Wi-Fi 速度测试&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c8698415ad93&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c8698415ad93&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Fast Charging Pro 快充 v5.30.79 专业版</title>
+        <link>https://www.danlong360.com/post/charging/</link>
+        <pubDate>Thu, 26 Sep 2024 21:27:16 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/charging/</guid>
+        <description>&lt;p&gt;Fast Charging Pro「快充」Fast Charger Pro 是一款在你的手机设备充电时实时监测并降低功耗加速充电的应用&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/BOo4aKlCcdVbx3L.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h3&gt;&lt;p&gt;手机的充电时通过以下方式自动优化：&lt;/p&gt;
+&lt;p&gt;降低屏幕亮度降低功耗以节省电池电量。&lt;/p&gt;
+&lt;p&gt;通知用户在短时间内处理异常耗电增加。&lt;/p&gt;
+&lt;p&gt;优化WiFi GPS蓝牙等系统设置，减少手机消耗。&lt;/p&gt;
+&lt;p&gt;实时监测手机温度，提醒用户拔掉充电器，防止过热&lt;/p&gt;
+&lt;p&gt;准确预测剩余充电时间并重置充满电。&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c18336dd154a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c18336dd154a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Duolingo 多邻国 v6.0.3 高级版</title>
+        <link>https://www.danlong360.com/post/duolingo603/</link>
+        <pubDate>Thu, 26 Sep 2024 21:25:50 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/duolingo603/</guid>
+        <description>&lt;p&gt;多邻国Duolingo是一款零基础轻松学习多国语言的软件，每天只需几分钟,人人都可免费使用多邻国的网站和移动应用学习超过 30 种的外语。小口小口啃外语,科学又有趣。实用日常英语对话，多邻国手把手从基础教起，让你轻松开口说地道英语。针对已有基础之用户，通过多邻国跳级测试后，也能自动匹配相应程度课程进行学习。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/OoDVZTFQmJIp62H.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本说明&#34;&gt;&lt;strong&gt;版本说明&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;01.解锁高级/付费功能。&lt;/p&gt;
+&lt;p&gt;02.语言课程解锁。&lt;/p&gt;
+&lt;p&gt;03.开始课程已解锁。&lt;/p&gt;
+&lt;p&gt;04.特别优惠功能已解锁。&lt;/p&gt;
+&lt;p&gt;05.Power-Ups 功能已解锁。&lt;/p&gt;
+&lt;p&gt;06.服装功能已解锁。&lt;/p&gt;
+&lt;p&gt;07.奖励功能已解锁。&lt;/p&gt;
+&lt;p&gt;08.可离线自动下载。&lt;/p&gt;
+&lt;p&gt;09.禁用/删除不需要的权限 + 接收者 + 提供者 + 服务。&lt;/p&gt;
+&lt;p&gt;10.优化和 zipaligned 图形和清理资源以实现快速加载。&lt;/p&gt;
+&lt;p&gt;11.从 Android.manifest 中删除了广告权限/服务/提供商。&lt;/p&gt;
+&lt;p&gt;12.删除了广告链接并取消了调用方法。&lt;/p&gt;
+&lt;p&gt;13.广告布局可见性已禁用。&lt;/p&gt;
+&lt;p&gt;14.Google Play 商店安装包检查已禁用。&lt;/p&gt;
+&lt;p&gt;15.删除调试代码。&lt;/p&gt;
+&lt;p&gt;16.去掉对应java文件默认的.source标签名。&lt;/p&gt;
+&lt;p&gt;17.分析/Crashlytics/Firebase 禁用。&lt;/p&gt;
+&lt;p&gt;18.Facebook 广告捆绑 SDK 完全移除。&lt;/p&gt;
+&lt;p&gt;19.没有活动的跟踪器或广告。&lt;/p&gt;
+&lt;p&gt;20.语言：完整的多国语言。&lt;/p&gt;
+&lt;p&gt;21.CPU：armeabi-v7a、arm64-v8a、x86、x86_64。&lt;/p&gt;
+&lt;p&gt;22.屏幕DPI：120dpi、160dpi、240dpi、320dpi、480dpi、640dpi。&lt;/p&gt;
+&lt;p&gt;23.原始包签名已更改。&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f1f0426389d6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f1f0426389d6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>万能格式转换器 v1.2.1 专业版</title>
+        <link>https://www.danlong360.com/post/wannenggeshizhuanhuanqi/</link>
+        <pubDate>Thu, 26 Sep 2024 21:24:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/wannenggeshizhuanhuanqi/</guid>
+        <description>&lt;p&gt;万能格式转换器 是一个一键操作的格式转换工具，可以轻松实现多种视频格式、音频格式、文档格式、图片格式转换。同时支持日常生活中的各种文件转换，比如视频转换音频、视频压缩、视频音频提取、图片转pdf、视频md5转码等。&lt;/p&gt;
+&lt;h3 id=&#34;软件截图&#34;&gt;软件截图
+&lt;/h3&gt;&lt;h3 id=&#34;imghttpss2lolinet20240926nupoi4ghogsat9kwebphttpswwwsypainetwp-contentuploads20240920240926152615727283webp&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.sypai.net/wp-content/uploads/2024/09/20240926152615727283.webp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/NupoI4GhOgsaT9k.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/a&gt;
+&lt;/h3&gt;&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;音频格式转换：一键导入音频进行转换，支持转换为mp3,m4a,aac,flac,wma等格式。&lt;/p&gt;
+&lt;p&gt;视频格式转换：全能的视频格式转换器，导入想要转换格式的视频，一键立即转换，支持多种输出格式，包括但不限于mp4, mkv,avi,wmv,flv,ts,mov,m4v,mpg,mpeg,asf,vob,rm,amv,gif，同时也支持视频md5转码、调整视频分辨率、帧率、码率等。&lt;/p&gt;
+&lt;p&gt;图片格式转换：一键转换图片格式，支持输出格式jpeg、png、webp等。&lt;/p&gt;
+&lt;p&gt;文件格式转换：支持pdf转word、pdf转ecel、pdf转ppt、pdf转图片、word转pdf、excel转pdf、ppt转pdf、图片转pdf。&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/adb2def978e1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/adb2def978e1&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Busuu 博树 v31.32.2 语言学习，让语言学习变得更有趣，解锁高级版</title>
+        <link>https://www.danlong360.com/post/busuu31322/</link>
+        <pubDate>Thu, 26 Sep 2024 21:17:49 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/busuu31322/</guid>
+        <description>&lt;p&gt;不要单纯地学习语言，要爱上语言！说到让语言学习变得更有趣、更简单，任何工具都比不上 busuu 博树学语言。在纽约城市大学开展的调查研究表明，使用 Busuu 学习仅 22.5 小时，效果便相当于在大学学习语言一个学期…现在，您随时随地可以借助耗时短、难度低的练习题学习 11 种语言，这些练习题可以帮助您从掌握基础词组快速实现能讲一口流利外语的梦想。学习全互动式课程，专为您的学习目标进行定制。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/MsbzZnWU85ofyxE.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;1.词汇练习、语法课程、发音对话练习以及与互动练习，轻松学习语言基础。&lt;/p&gt;
+&lt;p&gt;2.学习最重要的 150 个主题和 3000 个词汇。&lt;/p&gt;
+&lt;p&gt;3.有趣生动的知识点测验。&lt;/p&gt;
+&lt;p&gt;4.让外国真人小伙伴帮您修改写作打分数。&lt;/p&gt;
+&lt;p&gt;5.设定并实现你的个人学习目标。&lt;/p&gt;
+&lt;p&gt;6.个性化设置，符合您的学习风格，确保尽量使您以最快的时间达到精通。&lt;/p&gt;
+&lt;p&gt;7.下载课程，随时随地离线学习。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;01.解锁高级/付费功能；&lt;/p&gt;
+&lt;p&gt;02.禁用/删除不需要的权限 + 接收者 + 提供者 + 服务；&lt;/p&gt;
+&lt;p&gt;03.优化和 zipaligned 图形和清理资源以实现快速加载；&lt;/p&gt;
+&lt;p&gt;04.从 Android.manifest 中删除了广告权限/服务/提供商；&lt;/p&gt;
+&lt;p&gt;05.删除了广告链接并取消了调用方法；&lt;/p&gt;
+&lt;p&gt;06.广告布局可见性已禁用；&lt;/p&gt;
+&lt;p&gt;07.Google Play 商店安装包检查已禁用；&lt;/p&gt;
+&lt;p&gt;08.删除调试代码；&lt;/p&gt;
+&lt;p&gt;09.去掉对应java文件默认的.source标签名；&lt;/p&gt;
+&lt;p&gt;10.分析/Crashlytics/Firebase 禁用；&lt;/p&gt;
+&lt;p&gt;11.语言：完整的多国语言；&lt;/p&gt;
+&lt;p&gt;12.CPU：通用架构；&lt;/p&gt;
+&lt;p&gt;13.屏幕DPI：120dpi、160dpi、240dpi、320dpi、480dpi、640dpi；&lt;/p&gt;
+&lt;p&gt;14.原始包签名已更改&lt;/p&gt;
+&lt;p&gt;15.运行系统要求：Android 5.0+&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/83de0327a5e0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/83de0327a5e0&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ES文件管理器 v4.4.2.14 手机文件管理工具，解锁会员高级版</title>
+        <link>https://www.danlong360.com/post/eswenjianguanliqi/</link>
+        <pubDate>Thu, 26 Sep 2024 21:10:17 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/eswenjianguanliqi/</guid>
+        <description>&lt;p&gt;ES文件浏览器（ES File Explorer File Manager）号称安卓第一文件管理器，全球下载次数超过3亿次。它是功能强大本地和网络文件管理器，想更方便的管理你的手机、平板、电脑和网盘？点击就能播放音乐，点击就能播放视频、查看图片、阅读文档、安装应用、查看压缩、进行搜索、还有海量网盘空间存放数据。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/XAr8aNlGBoLt5Ym.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;1、优化Android14 data目录授权失败问题；&lt;/p&gt;
+&lt;p&gt;2、优化某些情况下，移动文件导致原始文件误删的问题；&lt;/p&gt;
+&lt;p&gt;3、其他已知问题优化；&lt;/p&gt;
+&lt;p&gt;最近更新：&lt;/p&gt;
+&lt;p&gt;- 适配安卓13&lt;/p&gt;
+&lt;p&gt;1.Android/data Android/obb目录在安卓11、12上授权后常规的文件操作，包括：授权流程、文件列表正常显示、隐藏文件的显示、复制、粘贴、删除、重命名、解压、压缩、分享。&lt;/p&gt;
+&lt;p&gt;2.Android/data Android/obb目录下文件正常打开，包括：文本查看、文本编辑、图片查看、视频查看、pdf等不支持app查看文件的第三方应用打开。&lt;/p&gt;
+&lt;p&gt;3.分析模块的所有文件和重复文件。&lt;/p&gt;
+&lt;p&gt;注意事项：&lt;/p&gt;
+&lt;p&gt;1.在Android/data Android/obb目录中，旧版本不支持视频编辑、分析-应用相关文件夹功能，v4.2.8.6也未支持。&lt;/p&gt;
+&lt;p&gt;2.分析模块的除所有文件、重复文件外的功能暂不支持。&lt;/p&gt;
+&lt;h3 id=&#34;版本特点&#34;&gt;版本特点
+&lt;/h3&gt;&lt;p&gt;by Balatan, derrin&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;解锁永久VIP会员，无广告，免登陆，全部会员特权可用：&lt;/li&gt;
+&lt;li&gt;﹂无广告（启动广告、首页活动横幅、锁屏体验、赞助横幅）&lt;/li&gt;
+&lt;li&gt;﹂主题皮肤、首页侧边栏管理、高级文本编辑、隐藏系统文件；&lt;/li&gt;
+&lt;li&gt;﹂查看.nomedia、视频剪切、视频拼接、视频转GIF等等功能；&lt;/li&gt;
+&lt;li&gt;禁用且删除了不必要的权限、服务、接收器、提供器&lt;/li&gt;
+&lt;li&gt;清除不必要应用资源文件、压缩对齐优化、加载快些&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e8c3b0247f7a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e8c3b0247f7a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>打驴动漫 v1.0.3.7 国外动漫、国产动漫，番剧，全站免费播放，去广告纯净版</title>
+        <link>https://www.danlong360.com/post/dalvdongman/</link>
+        <pubDate>Thu, 26 Sep 2024 21:08:45 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/dalvdongman/</guid>
+        <description>&lt;p&gt;打驴动漫，是二次元爱好者专属的温馨小站，本APP提供无修樱花动漫新番且拥有最新最全的日本动漫，国产动漫，最新番剧，全站免费播放，完美支持电脑手机端观看，欢迎各位动漫爱好者前来观看&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/s1eWbR83KaytiN5.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;去广告纯净版&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8e9d6bebddf3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8e9d6bebddf3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>InShot Pro 视频编辑器 v2.074.1465 解锁专业版</title>
+        <link>https://www.danlong360.com/post/inshot1465/</link>
+        <pubDate>Thu, 26 Sep 2024 21:06:56 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/inshot1465/</guid>
+        <description>&lt;p&gt;最佳免费高清视频编辑和视频制作App，用它给视频添加音乐，特效，模糊背景和套框，操作简单，功能强大！&lt;/p&gt;
+&lt;p&gt;InShot - Google Play推荐&lt;/p&gt;
+&lt;p&gt;最佳视频制作神器，高清视频编辑器！用它轻松创作视频，也可以编辑制作朋友圈，快手，抖音，Youtube，Instagram影片。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/ypFd2quavo8XgHl.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;视频剪接 &amp;amp; 视频剪切 &amp;amp; 视频拆分&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;剪辑和剪切视频到任意长度。&lt;/li&gt;
+&lt;li&gt;将视频拆分为两部分或多个部分。&lt;/li&gt;
+&lt;li&gt;支持导出高清视频。简单易用的免费视频编辑器。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;视频合并&#34;&gt;视频合并
+&lt;/h4&gt;&lt;p&gt;1.将多个视频片段剪接合并为一个视频。免费又专业的视频制作神器，一个这用于YouTube，Instagram，IGTV，Facebook，Messenger，Twitter，抖音等的专业视频制作软体。&lt;/p&gt;
+&lt;p&gt;2.剪辑，剪切，拆分，组合和压缩影片的同时不会降低视频清晰度。&lt;/p&gt;
+&lt;h4 id=&#34;视频比例--视频背景&#34;&gt;视频比例 &amp;amp; 视频背景
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;支持任何宽高比的视频，包括Instagram，IGTV，YouTube，Facebook，Twitter，抖音等的比例。&lt;/li&gt;
+&lt;li&gt;方形视频、影片套框，免费的竖屏视频编辑app。&lt;/li&gt;
+&lt;li&gt;添加不同的边框，彩色背景和模糊背景。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;视频滤镜--视频特效&#34;&gt;视频滤镜 &amp;amp; 视频特效
+&lt;/h4&gt;&lt;p&gt;1.添加电影风格的视频滤镜和Glitch等特效。&lt;/p&gt;
+&lt;p&gt;2.调节视频的亮度，对比度，饱和度等。自定义视频滤镜和特效。&lt;/p&gt;
+&lt;h4 id=&#34;添加音乐&#34;&gt;添加音乐
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;添加InShot精选免费音乐，Vlog音乐或使用您自己的音乐。&lt;/li&gt;
+&lt;li&gt;调整音乐音量，设置音乐淡入/淡出效果。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;视频速度调节&#34;&gt;视频速度调节
+&lt;/h4&gt;&lt;p&gt;1.配合滤镜及特效调节视频速度。 快/慢动作视频制作器和免费视频修剪软体。&lt;/p&gt;
+&lt;p&gt;2.以有趣的方式加快您的视频速度。&lt;/p&gt;
+&lt;p&gt;3.为视频的特殊时刻设置慢动作。&lt;/p&gt;
+&lt;h4 id=&#34;视频剪裁&#34;&gt;视频剪裁
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;将视频裁剪为您想要的任何比例。 这用于Instagram，IGTV，YouTube，Facebook，Twitter，抖音等的强大竖屏视频製作器。&lt;/li&gt;
+&lt;li&gt;裁剪水印或任何不需要部分。&lt;/li&gt;
+&lt;li&gt;放大/缩小影片。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;文本和表情符&#34;&gt;文本和表情符
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;为影片添加文本，多种字体自由选择。&lt;/li&gt;
+&lt;li&gt;添加潮流动态贴纸和表情，每周持续更新贴纸库。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;视频旋转和视频翻转&#34;&gt;视频旋转和视频翻转
+&lt;/h4&gt;&lt;p&gt;1.90度旋转视频。&lt;/p&gt;
+&lt;p&gt;2.上下、左右翻转视频。&lt;/p&gt;
+&lt;p&gt;3.轻松转换视频为MP4格式。 免费的视频转换器和视频修剪App。&lt;/p&gt;
+&lt;p&gt;4.製作幻灯片和更多视频编辑功能，敬请期待。&lt;/p&gt;
+&lt;h4 id=&#34;一键分享&#34;&gt;一键分享
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;自定义导出分辨率，高清视频编辑器（1080P或4K）。 压缩视频的同时不损坏质量。&lt;/li&gt;
+&lt;li&gt;分享到YouTube，Instagram，IGTV，Facebook（脸书），Messenger，Twitter，wechat（微信），朋友圈，抖音等社交应用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;图片拼贴和照片编辑器&#34;&gt;图片拼贴和照片编辑器
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;多种时尚的布局。&lt;/li&gt;
+&lt;li&gt;独特的滤镜和彩色背景，模糊背景。&lt;/li&gt;
+&lt;li&gt;支持多种比率。可爱的框架。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;InShot是一个功能强大的视频制作和视频编辑App，间单易用。 InShot可以轻松将长视频剪切，修剪和拆分为小视频。 模糊工具还可以帮助您设置视频和照片为模糊背景。 使用InShot，您可以轻松地在视频中添加音乐，文本和贴纸。 快/慢动作功能也非常有趣。 最重要的是，InShot是一款免费的高清视频编辑器，可帮助您毫不降低画质的导出视频。 同时，您只需点击一下即可将您的视频分享到Instagram，IGTV，Facebook，YouTube，Twitter和Messenger。 您还可以编辑抖音短视频的创意视频。&lt;/p&gt;
+&lt;h3 id=&#34;修改说明&#34;&gt;修改说明
+&lt;/h3&gt;&lt;p&gt;修改高级版&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;1.解锁专业版，去除了所有的广告。&lt;/p&gt;
+&lt;p&gt;2.独立的Android程序包。&lt;/p&gt;
+&lt;p&gt;3.删除了Google Analytics（分析）。&lt;/p&gt;
+&lt;p&gt;4.删除了Firebase Analytics。&lt;/p&gt;
+&lt;p&gt;5.删除了Crashlytics / Fabric。&lt;/p&gt;
+&lt;p&gt;6.删除了记录器/报告器，崩溃处理程序。&lt;/p&gt;
+&lt;p&gt;7.重新打包了Android应用包（Split APKs Packer v4.9.2）：•DPI：hdpi，ldpi，mdpi，xhdpi，xxhdpi，xxxhdpi
+CPU：arm64_v8a，armeabi_v7a。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/1dcbb89f5e5a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/1dcbb89f5e5a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>B612 咔叽相机 v13.3.22，功能强大的拍照神器，解锁会员订阅版</title>
+        <link>https://www.danlong360.com/post/kajixiangji13322/</link>
+        <pubDate>Thu, 26 Sep 2024 21:04:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/kajixiangji13322/</guid>
+        <description>&lt;p&gt;B612咔叽相机是一款功能非常强大的拍照神器，结合了b612的滤镜和snow的滤镜，相当于一个拍照软件有两款美颜自拍功力，让你拍的更美，滤镜选择更多，让你变得更美更自信！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/Rl3AnizNCKhEbwL.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;修改日志&#34;&gt;修改日志
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://app.mi.com/details?id=com.campmobile.snowcamera&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://app.mi.com/details?id=com.campmobile.snowcamera&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;by 黑鹰(lxapk), 耗子(Null)&lt;/p&gt;
+&lt;p&gt;– 解锁VIP订阅会员（无需登陆）&lt;/p&gt;
+&lt;p&gt;– 去启动广告、去更新的纯净版&lt;/p&gt;
+&lt;p&gt;– 兼容华为设备 (耗子)&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2ead9844d7ac&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2ead9844d7ac&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>微博 v14.9.3 内置微博猪手2.3.2-302模块，去广告、去推荐、去各种提示</title>
+        <link>https://www.danlong360.com/post/weibov1493/</link>
+        <pubDate>Thu, 26 Sep 2024 21:03:28 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/weibov1493/</guid>
+        <description>&lt;p&gt;微博内置猪手模块直装版是一款内置了咸猪手模块的微博客户端，拥有一些自定义功能，包括有去广告、去推荐、去各种提示等等，需要你自己自定义设置，功能强大，使用简单，是利用了Xposed模块内置进来的助手，直接安装就可以使用，免root，直装即可，欢迎下载。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/YVbArifIn2UJcFW.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1、此版本是直装版，需要卸载原版的微博APP，直接安装的客户端自带咸猪手模块&lt;/p&gt;
+&lt;p&gt;2、微博猪手模块最新版是一款微博去广告和功能强化软件，支持11.11.0及以上版本，具体支持版本请激活后在：微博设置-微博猪手-模块-查看支持版本&lt;/p&gt;
+&lt;p&gt;3、微博猪手模块最新版是一款安卓微博猪手模块最新插件，让你一键去除微博广告，增强手机功能，支持root和非root机型，支持安卓7以下设备、安卓8以上设备&lt;/p&gt;
+&lt;p&gt;4、首推这个工具，在微博官方客户端的基础上，通过该插件来实现屏蔽广告等功能&lt;/p&gt;
+&lt;h3 id=&#34;模块功能&#34;&gt;模块功能
+&lt;/h3&gt;&lt;p&gt;1、去除开屏广告&lt;/p&gt;
+&lt;p&gt;2、去除信息流广告／推荐&lt;/p&gt;
+&lt;p&gt;3、去除关注页直播用户&lt;/p&gt;
+&lt;p&gt;4、去除超话广告／推荐&lt;/p&gt;
+&lt;p&gt;5、去除关注列表的推荐&lt;/p&gt;
+&lt;p&gt;6、去除全屏流视频广告&lt;/p&gt;
+&lt;p&gt;7、去除头部视频广告&lt;/p&gt;
+&lt;p&gt;8、发现页管理&lt;/p&gt;
+&lt;p&gt;9、发现页Tab管理&lt;/p&gt;
+&lt;p&gt;10、根据类别移除热搜&lt;/p&gt;
+&lt;p&gt;11、搜索结果管理&lt;/p&gt;
+&lt;p&gt;12、我的页面管理&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/92673a3d8fb1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/92673a3d8fb1&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>文件管理器&#43;APP(手机文件管理工具) v3.5.0 修改版</title>
         <link>https://www.danlong360.com/post/wenjianguanliqi350/</link>
         <pubDate>Thu, 26 Sep 2024 20:45:46 +0800</pubDate>

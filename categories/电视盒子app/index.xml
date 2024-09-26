@@ -7,7 +7,109 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 25 Sep 2024 11:29:11 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 26 Sep 2024 21:41:52 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>TVbox_q215613905_ 20240925_0957俊仓优化版(附最新接口地址) 电视直播&#43;点播</title>
+        <link>https://www.danlong360.com/post/tvboxq215613905/</link>
+        <pubDate>Thu, 26 Sep 2024 21:41:52 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/tvboxq215613905/</guid>
+        <description>&lt;p&gt;猫影视开发者宣布停用后，它的开源版TVBox，根据官方代码仓生成的安卓应用。移植了猫影视V6的内核，可以无缝对接电视直播、影视剧点播站源规则，就是说原来的接口可以直接用。本地功能，这个版本也具备了，只需要开启存储权限，在配置地址栏输入本地规则地址即可。&lt;/p&gt;
+&lt;p&gt;安卓TV第一追剧神器，TVBox必然是当之无愧，它是猫影视作者另起炉灶全新开源的TV播放器，在功能上继承了原猫影视，并增强了播放体验，同时兼容性更好，由于自由度高，用户可自定义资源，它的可玩性极强，因此备受推崇。&lt;/p&gt;
+&lt;p&gt;开源，免费，自行配置接口，直播、点播两用，安卓设备。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/r7Xih9PcZEvsG1z.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;2022-06-29_213059.jpg&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/W85euAhC1H3pnPD.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;2022-06-29_213320.jpg&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;配置说明&#34;&gt;配置说明
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;配置网络接口&#34;&gt;配置网络接口
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/dXg4tiTvzhDx8OM.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;tvbox-tutorial.gif&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;导入本地接口&#34;&gt;导入本地接口
+&lt;/h4&gt;&lt;p&gt;提前设置本地存储权限，并将文件放到目录下，比如JK目录。&lt;/p&gt;
+&lt;p&gt;输入地址：&lt;code&gt;clan://localhost/JK/js.json&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/XTQEIFz1fU8JG7x.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;tvbox-local-1.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/KSsfQINnalOCWvm.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;tvbox-local-edit.gif&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;补充提交
+修正
+代码回退
+update quickjs.&lt;/p&gt;
+&lt;h4 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h4&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO7iaKk8QK6sT7_g6qm3yJ6fA1?pwd=q5kd#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO7iaKk8QK6sT7_g6qm3yJ6fA1?pwd=q5kd#&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>[野火直播，v5.8.5X，高颜值，超流畅的电视直播应用</title>
+        <link>https://www.danlong360.com/post/yehuozhibo585/</link>
+        <pubDate>Thu, 26 Sep 2024 21:34:00 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/yehuozhibo585/</guid>
+        <description>&lt;p&gt;野火直播（原水星直播)，电视TV和安卓设备可用，播放流畅，绝对纯净，有着丰富的直播频道和影视资源。内置了丰富的频道，包括央视、卫视、港澳台、亚洲、影视，播放流畅，满足您的观影需求！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/P4W3aF176Qq5prH.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;野火直播3.5.3-野火直播TV电视盒子最新版v5.2.5-火火资源网&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO7iYrfE9lzjn3eisybzlQXZA1?pwd=828z#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO7iYrfE9lzjn3eisybzlQXZA1?pwd=828z#&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>我们的电视 TV v3.2.8 重构版</title>
         <link>https://www.danlong360.com/post/womendedianshitvv328/</link>
         <pubDate>Wed, 25 Sep 2024 11:29:11 +0800</pubDate>
