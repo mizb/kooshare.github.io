@@ -7,7 +7,49 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 19 Sep 2024 23:15:37 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-10/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 26 Sep 2024 11:51:37 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-10/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows 10 LTSC 2021 Build 19044.4957</title>
+        <link>https://www.danlong360.com/post/windows10ltsc2021build19044.4957/</link>
+        <pubDate>Thu, 26 Sep 2024 11:51:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/windows10ltsc2021build19044.4957/</guid>
+        <description>&lt;p&gt;微软Win10LTSC2021最新版,微软Win10 LTSC 21H2下载,Windows 10 LTSC 21H2系统Win10 Build 19044累积更新.Windows 10企业版LTSC版堪称官方Win10精简版,相对普通企业版,不会获得新增功能仅提供安全更新,可以控制升级.GnDown站点此页提供的Win10系统为微软官方原版集成累积更新的完整版ISO镜像.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/VpTaFIh1jf23iQB.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Windows 10 LTSC 2021 Build 19044.4894&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Windows 10 - 版本信息 | Microsoft Docs
+&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vemgtY24vd2luZG93cy9yZWxlYXNlLWhlYWx0aC9yZWxlYXNlLWluZm9ybWF0aW9u&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.microsoft.com/zh-cn/windows/release-health/release-information&lt;/a&gt;
+2024年9月累积更新(KB5043131) Windows 10 version 21H2(OS build 19044.4957) Update
+&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vemgtY24vaGVscC81MDQzMTMx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/zh-cn/help/5043131&lt;/a&gt;
+Win10企业版2021长期服务版（Windows 10 Enterprise LTSC 21H2），提供长期支持至2031年
+它相当于就是官方Win10精简版，稳定流畅，对电脑硬件配置要求较低，可以用数字权利永久激活。
+LTSC版本无应用商店、无微软小娜，无OneDriver、Windows更新提供高级设置可选安装更新方式。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;[Windows 10 LTSC 2021 &amp;amp; 其它]19044.4957原版集成镜像24年9月第2次更新 - ananhaid
+没有添加任何第三方数据，母版选用官方初始版和补丁，使用工具只有DISM，完整功能原版！
+- 集成功能：
+.net framework 3.5（netfx3）、.net framework 4.8.1
+LTSC 2021 集成库文件（微软修复映像错误之前会一直提供）：
+1、集成官方 VP9VideoExtensions 库文件，修复设置-&amp;gt;应用-&amp;gt;视频播放中的预览错误。
+- 集成补丁：
+KB5043131（24年9月累积更新 19044.4957）（9月25日）
+KB5042097（24年8月 .net 累积更新）（8月14日）&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1QmMCOAvdl7wv8FKQ4PCCTQ?pwd=u9b8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1QmMCOAvdl7wv8FKQ4PCCTQ?pwd=u9b8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows 10 22H2官方正式版2024年09月版(微软原版ISO镜像)</title>
         <link>https://www.danlong360.com/post/windows1022h209/</link>
         <pubDate>Thu, 19 Sep 2024 23:15:37 +0800</pubDate>
