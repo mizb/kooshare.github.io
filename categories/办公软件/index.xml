@@ -7,7 +7,122 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 26 Sep 2024 20:47:12 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Sep 2024 10:53:17 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>QOwnNotes(跨平台笔记应用程序) v24.9.7 中文绿色版</title>
+        <link>https://www.danlong360.com/post/qownnotes2497/</link>
+        <pubDate>Fri, 27 Sep 2024 10:53:17 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/qownnotes2497/</guid>
+        <description>&lt;p&gt;QOwnNotes是一款功能强大的跨平台笔记应用程序，可以帮助用户轻松管理笔记、任务和清单。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/27/i9o2vcneK5GU4Mb.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;QOwnNotes(跨平台笔记应用程序) v24.5.1 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.支持多种编辑器：支持Markdown、Html、和其它多种文本编辑器；
+2.易于搜索：可设置快捷键进行搜索，支持正则表达式搜索；
+3.多个账户：可以管理多个账户，并可以自定义设置；
+4.可定义笔记标签：可以使用标签来组织笔记，方便查找；
+5.全文搜索：支持全文搜索，可以在整个笔记库中搜索文本；
+6.数据同步：可以通过多种方式进行数据同步，包括Dropbox、Nextcloud等；
+7.导出功能：可以通过PDF、HTML等格式导出笔记。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;24.9.7
+Reading from settings will now be cached in memory to possible speed up the application,
+hopefully not causing any regressions (for #3027)
+The QOwnNotes API &lt;a class=&#34;link&#34; href=&#34;https://api.qownnotes.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://api.qownnotes.org&lt;/a&gt; got migrated to PHP 8.2,
+Symfony 6.4 and API Platform 3.3 for more speed and to be more future-proof
+(for #11)
+The QOwnNotesAPI Nextcloud app was enabled and tested app for Nextcloud 30
+(for #49)
+There were troubles with the version API that didn&amp;rsquo;t always happen when trying to access the versions of a file:
+Call to a member function getOwner() on null in file &amp;lsquo;/var/www/html/lib/private/Files/Filesystem.php&amp;rsquo; line 728
+It&amp;rsquo;s unclear why this happens, but it seems to be a problem with the Nextcloud server and not the app&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2dec6aa66e24&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2dec6aa66e24&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>RSS Guard(跨平台RSS阅读器) v4.7.4 中文绿色版</title>
+        <link>https://www.danlong360.com/post/rssguard/</link>
+        <pubDate>Fri, 27 Sep 2024 10:51:31 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/rssguard/</guid>
+        <description>&lt;p&gt;RSS Guard 是一款开源的跨平台 RSS 阅读器和聚合器软件。它可以让用户订阅和阅读来自不同网站的内容，将这些内容统一显示在一个界面上。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/27/pXki7ZVcu6HMYxw.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;RSS Guard(跨平台RSS阅读器) v4.7.1 中文绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;多账号管理：RSS Guard 允许用户通过一个界面管理多个 RSS 订阅账号，无需切换不同的应用程序。
+分类和标签：用户可以将订阅的内容根据自己的需求进行分类和标记，便于查找和整理。
+全文搜索：软件内置了全文搜索功能，可以快速找到关键词或短语在订阅的内容中的匹配结果。
+增量更新：RSS Guard 使用增量更新技术，只下载和更新已更改和新增的内容，提高了更新效率。
+通知和提醒：软件可以通过弹出通知或声音提醒用户有新内容可供阅读。
+支持代理服务器：RSS Guard 支持使用代理服务器来访问被封锁或限制的网站内容。
+读取离线内容：用户可以将订阅的内容保存在本地，并在没有网络连接时进行阅读。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;开源自由：RSS Guard 是开源软件，用户可以自由使用、复制、分发和修改其源代码。
+跨平台：支持多个操作系统，用户可以在不同的设备上使用 RSS Guard。
+多语言支持：软件提供多国语言界面，满足不同国家和地区用户的需求。
+高度可定制化：用户可以根据自己的喜好和需求对界面和功能进行个性化定制。
+快速高效：使用 C++ 开发，具有较快的加载速度和低资源占用。
+强大的扩展性：用户可以通过插件来扩展软件的功能，增加新的特性和服务。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/fe360b7e5d90&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/fe360b7e5d90&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ViewCompanion Premium(文件浏览转换工具) v15.50.0.1031 便携版</title>
+        <link>https://www.danlong360.com/post/viewcompanion/</link>
+        <pubDate>Fri, 27 Sep 2024 10:49:31 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/viewcompanion/</guid>
+        <description>&lt;p&gt;ViewCompanion是一款功能强大的文件浏览器和转换工具。它可以查看和打印多种文件格式，并提供丰富的编辑和转换选项。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/27/E2H5rMiJcA3NRxB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;ViewCompanion Premium(文件浏览转换工具) v15.30.0.1023 便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文件浏览：可以浏览计算机上的文件夹和文件，支持多种文件格式包括PDF、DXF、DWG、PLT等。
+打印和批量打印：可以打印当前选择的文件或整个文件夹中的文件，也可以进行批量打印，同时支持自定义打印设置。
+编辑文件：可以对文件进行注释、标记、裁剪、旋转等操作，还可以添加水印和图像。
+文件转换：支持将文件转换为其他文件格式，比如将DXF文件转换为PDF文件，或将PDF文件转换为DXF文件。
+图像浏览和编辑：可以查看和编辑图像文件，支持缩放、裁剪、旋转、调整亮度和对比度等操作。
+3D视图：可以以3D视图的方式查看和编辑CAD文件，支持平移、旋转、缩放和选择对象等操作。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;多格式支持：可以处理多种文件格式，包括PDF、DXF、DWG、PLT、TIFF、JPEG、PNG等。
+批量处理：可以同时处理多个文件，比如批量打印、批量转换文件格式等。
+用户友好界面：界面简洁直观，易于使用，即使对于没有使用过类似软件的用户也很容易上手。
+高级编辑功能：提供丰富的编辑选项，可以对文件进行注释、标记、裁剪、旋转等操作，满足用户对文件的各种需求。
+高质量输出：可以输出高质量的打印文件或转换文件，保证文件的清晰度和准确度。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/373bbec9dfd2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/373bbec9dfd2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>友情强档(管理维护人际关系) v18.10.0.5810 中文破解版</title>
         <link>https://www.danlong360.com/post/youqingqiangdang5810/</link>
         <pubDate>Thu, 26 Sep 2024 20:47:12 +0800</pubDate>
