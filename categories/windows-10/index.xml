@@ -7,7 +7,582 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 26 Sep 2024 20:35:07 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-10/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Sep 2024 22:25:43 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-10/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>不忘初心 Windows10 22H2 (19045.4957) x64 纯净 精简 无更新 (2024.09.25)</title>
+        <link>https://www.danlong360.com/post/buwangchuxinchunjingban4957/</link>
+        <pubDate>Fri, 27 Sep 2024 22:25:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/buwangchuxinchunjingban4957/</guid>
+        <description>&lt;p&gt;注意此版不能更新补丁，此版保留Hyper和linux，集成RST-VMD驱动，比可以更新的补丁的版本体积要小很多，虽小但无过渡精简优化，该有的功能还会有，精简方法基本上还是原来配方，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/27/hT52VAZGHocYCw1.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;不忘初心 Windows10 22H2 (19045.4957) x64 纯净 精简 无更新 (2024.09.25)&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;2024.9.25更新记录&lt;/strong&gt;
+#修复 WIN+V 剪贴板 点击不粘贴的问题。
+#更新安装包 MicrosoftEdgeX64_129.0.2792.52.msi&lt;/p&gt;
+&lt;p&gt;#KB5043313（19045.4957）微软官方更新如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[开始菜单] *新增功能！*&lt;/strong&gt; 此更新会将个人资料图片移动到不同的位置。 菜单上的左窗格还有一个新的背景色。 此颜色更改使窗格上的项更加醒目。 此更改可能并非对所有用户都可用，因为它将逐步推出。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[IE 模式]&lt;/strong&gt; 使用 IE 模式时，Microsoft Edge 有时会停止响应。&lt;a class=&#34;link&#34; href=&#34;https://microsoft.visualstudio.com/DefaultCollection/OS/_workitems/edit/52454676&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt; &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[媒体播放]&lt;/strong&gt; 使用某些环绕声技术时，某些媒体的播放可能会停止。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Microsoft Entra单一登录 (SSO) ]&lt;/strong&gt; SSO 请注意， (DMA) 的《欧洲数字市场法案》要求提示过于频繁。 使用证书进行身份验证时会发生这种情况。 若要了解详细信息，请参阅 即将对 Windows 单一登录进行的更改。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[国家/地区和操作员设置资产]&lt;/strong&gt; 此更新使某些移动运营商的 COSA 配置文件处于最新状态。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[文件资源管理器和任务栏]&lt;/strong&gt; 当你使用文件资源管理器和任务栏等应用时，Windows Server 会停止响应。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Windows 更新选择加入通知]&lt;/strong&gt; 登录时，它们现在会显示。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[目录枚举]&lt;/strong&gt; 如果目录具有具有较长目标名称的符号链接，则此操作可能会失败。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Microsoft Defender for Endpoint]&lt;/strong&gt; 打开 Defender for Endpoint 时，工作文件夹文件无法同步。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;系统特色&#34;&gt;系统特色
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;此版不能正常更新补丁。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;纯净 无任何第三方软件。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;追求稳定、没有过度优化，可以正常办公。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;总共优化150多项系统内容，系统流畅更胜一筹。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;优化后台进程首次开机大约50个进程左右；&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;禁用后台40多项系统不常用服务&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;需要用到指纹的，请用自建账户，Admin不支持;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;#提升自建账户权限，自建账户将拥有和 &amp;ldquo;Administrator&amp;quot;管理员账号一样的权限（首次安装后需重启）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;任务栏时间显示秒数&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;避免以后升级到更高版本的系统，所有网络已经设置为按流量计费，检查更新后 下载补丁需经过你同意，但不影响系统给设备打驱动功能;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;防止自动更新补丁，设置Windows Update暂停更新到2099年5月28日。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供“禁止系统自动安装驱动.reg” ,不需要系统自动打驱动的 请安装系统后 立即导入即可;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;优化共享打印服务，避免局域网共享打印错误。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;系统恢复界面添加高级启动选项&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用Compact OS释放空间，C盘占用空间可减少2G左右&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;电源模式新增 卓越模式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;高级电源设置USB选择性暂停 已禁用 避免有些USB设备断电&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;禁用休眠文件，可减少C盘体积，如需开启 请使用管理员运行CMD命令：powercfg /hibernate on&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;默认关闭7G预留空间;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;恢复要 “使用此计算机必须输入用户密码”的勾选框，原版给隐藏了;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IE主页默认设置为百度，原版是先打开微软再跳转百度;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;由于集成了补丁，DISM++ 不可以正常清理被取代的SXS组件;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供Windows Store商店安装包，可以随意安装卸载;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供Microsoft.Windows.Photos照片安装包，可以随意安装卸载;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供Microsoft.Microsoft.WindowsCamera照片安装包，可以随意安装卸载;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供Microsoft.XboxApp_XboxGamingOverlay_XBOX安装包.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供Microsoft Edge程序安装包;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供 OneDrive程序安装包;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供 WUB_1.7彻底关闭系统更新工具&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;提供 “关闭任务栏资讯和兴趣.cmd”&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;提供 “关闭任务栏安全中心图标.cmd”&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供 OneDrive程序安装包;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供 WUB_1.7彻底关闭系统更新工具&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;右键添加 在此处打开命令行&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;右键添加 用记事本打开;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;右键添加 管理员取得所有权&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;右键添加 复制文件路径;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;右键添加 复制文件夹路径;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如需删除右键 管理员取得所有权 、复制文件路径 文件夹路径 请用CMD 运行以下命令即可删除：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rem 以下是删除管理员取得所有权
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\*\shell\runas&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\*\shell\runas\command&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\exefile\shell\runas2&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rem 以下是删除复制文件路径 文件夹路径
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\*\shell\copypath&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\Directory\shell\copypath\command&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如需删除右键 在此处打开命令行 请用CMD 运行以下命令即可删除：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\Directory\Background\shell\OpenCMDHere&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如需删除右键 &amp;ldquo;用记事本打开&amp;quot;请用CMD 运行以下命令即可删除：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shell\notepad&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shell\notepad\command&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;系统集成&#34;&gt;系统集成
+&lt;/h3&gt;&lt;p&gt;1、Microsoft .NET Framework 3.5&lt;/p&gt;
+&lt;h3 id=&#34;保留列表&#34;&gt;保留列表
+&lt;/h3&gt;&lt;p&gt;保留组件：打印、蓝牙、指纹、人脸、共享、微软账户、搜索、计算器、屏幕投影、平板模式、BitLocker、远程桌面、IIS 、NFS 、IE浏览器、画图、截图、防火墙、WMP、旧版组件 、hyper、Linux、Telnet 、UWF&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名称：【不忘初心】Windows10_22H2_19045.4957_X64_无更新纯净精简版(2024.9.25).iso
+文件大小：2389278720 字节
+MD5 ：8F8076A73D442AA599A0B0EBD66CB4B5
+SHA1 ：312E2A594D68A3F48D8967D146941B11A976DC96
+CRC32 ：357D6FFD&lt;/p&gt;
+&lt;p&gt;文件名称: 【不忘初心英文版】Windows10_22H2_(19045.3803)_X64_en-US_No_Updates_Lite_Version(2023.12.29).iso
+文件大小: 1.87 GB (2,011,627,520 字节)
+修改时间: 2023年12月30日，01:13:00
+MD5: 15307D9E04AF20558E6ED14BDCB98C99
+SHA256: 12ACDEC6828E252F2B5C66C54C8784C88B56821CD103959EDC3E8D5BB9AB8560&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ca0c21a86d3f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ca0c21a86d3f&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1uM0ovRdsw9puEjkdHXwH2A?pwd=srq5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1uM0ovRdsw9puEjkdHXwH2A?pwd=srq5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>不忘初心 Windows10 22H2 (19045.4957) x64 精简 美化版 太阳谷 无更新 (2024.09.25)</title>
+        <link>https://www.danlong360.com/post/buwangchuxinwin10jingjianmeihuaban/</link>
+        <pubDate>Fri, 27 Sep 2024 22:20:58 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/buwangchuxinwin10jingjianmeihuaban/</guid>
+        <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，爱之所及，心之所至，此版本替换了太阳谷图标，集成了任务栏透明工具、独家4K高清壁纸，增加右键一些功能，以及离线集成了运行库，有2个版本集成了HarmonyOS 字体，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/27/PbUzt71Yps8BRr2.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;不忘初心 Windows10 22H2 (19045.4957) x64 精简 美化版 太阳谷 无更新 (2024.09.25)&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;美化版特色&#34;&gt;美化版特色
+&lt;/h3&gt;&lt;p&gt;离线更换太阳谷图标图标焕然一新，感受一下新图标带来的视觉感。
+离线更换系统自带的字体，更换为鸿蒙HarmonyOS 字体（可选），注意：鸿蒙HarmonyOS 字体适合1080P以上的电脑分辨率，低分辨率的电脑显示可能会不清晰。
+不一样的系统不一样的壁纸，集成4K桌面壁纸，以及4张锁屏壁纸，壁纸是初心从某图片网站购买，40多一张，光壁纸总价值200多刀，且用且珍惜！
+桌面壁纸源文件在：C:\Windows\Web\4K\Wallpaper\Windows
+锁屏壁纸源文件在：C:\Windows\Web\Screen
+集成TranslucentTB非常好用的win10任务栏透明工具。轻量级(使用几MB的RAM,几乎没有CPU),可以根据自己的喜好来自定义设置任务栏的透明度，支持在不同的效果之间进行切换，你会发现自己的桌面任务栏很美观。
+TranslucentTB安装路径在：C:\ProgramData\TranslucentTB
+集成字体 雅痞-简体、腾祥爱情体简体、方正少儿_GBK、方正粗圆_GBK、造字工房朗倩常规体、鸿蒙HarmonyOS等6款字体，文章最后有字体预览图。
+集成右键在此处打开命令行，更加方便使用CMD命令。
+集成右键 用记事本打开文件，方便查看一些文件。
+集成右键 快捷设置 包含 注册表 组策略 计算器 桌面图标 控制面板 系统服务 重启桌面 系统版本。
+启用新的文件夹图标预览
+集成微软常用运行库
+安装EDGE浏览器后 任务栏会出现 兴趣和资讯 运行&lt;/p&gt;
+&lt;h3 id=&#34;系统特色&#34;&gt;系统特色
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;此版不能正常更新补丁。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;纯净 无任何第三方软件。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;追求稳定、没有过度优化，可以正常办公。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;总共优化150多项系统内容，系统流畅更胜一筹。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;优化后台进程首次开机大约50个进程左右；&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;需要用到指纹的，请用自建账户，Admin不支持;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;避免以后升级到更高版本的系统，所有网络已经设置为按流量计费，检查更新后 下载补丁需经过你同意，但不影响系统给设备打驱动功能;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;防止自动更新补丁，设置Windows Update暂停更新到2099年5月28日。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;禁用后台40多项系统不常用服务&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;任务栏时间显示秒数&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;集成RST-VMD驱动，防止部分机型蓝屏。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供“禁止系统自动安装驱动.reg” ,不需要系统自动打驱动的 请安装系统后 立即导入即可;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;优化共享打印服务，避免局域网共享打印错误。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;系统恢复界面添加高级启动选项&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用Compact OS释放空间，C盘占用空间可减少2G左右&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;电源模式新增 卓越、高性能、节能3种模式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;高级电源设置USB选择性暂停 已禁用 避免有些USB设备断电&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;禁用休眠文件，可减少C盘体积，如需开启 请使用管理员运行CMD命令：powercfg /hibernate on&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;默认关闭7G预留空间;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;恢复要 “使用此计算机必须输入用户密码”的勾选框，原版给隐藏了;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IE主页默认设置为百度，原版是先打开微软再跳转百度;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供Windows Store商店安装包，可以随意安装卸载;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供Microsoft.Windows.Photos照片安装包，可以随意安装卸载;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供Microsoft.Microsoft.WindowsCamera照片安装包，可以随意安装卸载;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供Microsoft.XboxApp_XboxGamingOverlay_XBOX安装包.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供Microsoft Edge程序安装包;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供 OneDrive程序安装包;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供 WUB_1.7彻底关闭系统更新工具&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;提供 “关闭任务栏资讯和兴趣.cmd”&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;提供 “关闭任务栏安全中心图标.cmd”&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供 OneDrive程序安装包;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;右键添加 在此处打开命令行&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;右键添加 用记事本打开&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;右键添加 管理员取得所有权&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;右键添加 复制文件路径;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;右键添加 复制文件夹路径;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如需删除右键 管理员取得所有权 、复制文件路径 文件夹路径 请用CMD 运行以下命令即可删除：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rem 以下是删除管理员取得所有权
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\*\shell\runas&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\*\shell\runas\command&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\exefile\shell\runas2&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rem 以下是删除复制文件路径 文件夹路径
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\*\shell\copypath&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\Directory\shell\copypath\command&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如需取消右键 在此处打开命令行 请用CMD 运行以下命令即可删除：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\Directory\Background\shell\OpenCMDHere&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如需删除右键 &amp;ldquo;用记事本打开&amp;quot;请用CMD 运行以下命令即可删除：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shell\notepad&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shell\notepad\command&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如需删除右键 &amp;ldquo;快捷设置&amp;rdquo; 请用CMD 运行以下命令即可删除：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_LOCAL_MACHINE\SOFTWARE\Classes\DesktopBackground\Shell\App_KUAIJIE&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;系统集成&#34;&gt;系统集成
+&lt;/h3&gt;&lt;p&gt;1、Microsoft .NET Framework 3.5&lt;/p&gt;
+&lt;h3 id=&#34;保留列表&#34;&gt;保留列表
+&lt;/h3&gt;&lt;p&gt;保留组件：打印、蓝牙、人脸、指纹、共享、微软账户、搜索、计算器、屏幕投影、平板模式、BitLocker、远程桌面、IIS 、NFS 、IE浏览器、画图、截图、防火墙、WMP、旧版组件 、hyper、Linux、Telnet&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;&lt;strong&gt;文件信息&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;文件名称：【不忘初心美化版】Windows10_22H2_19045.4957_X64_无更新精简版(2024.9.25).iso
+文件大小：2562195456 字节
+MD5 ：DEEFABC4BA875B2ABC774FE69C3AFF09
+SHA1 ：EE23C16712905AA22AA73EEAACB4D36B781363C4
+CRC32 ：33564016&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/49191c54fb48&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/49191c54fb48&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1P9u6L-wvV4zgANB9aKCqvA?pwd=2n84&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1P9u6L-wvV4zgANB9aKCqvA?pwd=2n84&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小修 Windows 10 Pro 22H2 (19045.4957) 深度精简 二合一 (2024.09.27)</title>
+        <link>https://www.danlong360.com/post/xiaoxiuwin10shendujingjian4957/</link>
+        <pubDate>Fri, 27 Sep 2024 22:18:42 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/xiaoxiuwin10shendujingjian4957/</guid>
+        <description>&lt;p&gt;温馨提示: 测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
+&lt;p&gt;2024-09-27 更新至补丁 19045.4957 优化了核心,同步策略&lt;/p&gt;
+&lt;p&gt;申明：版本每次更新 修系统并不是只迭代更新，会把一些累计的优化调整加入 不会一一全部例举。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/27/k4rSBiVDgE7Hyxe.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;小修 Windows 10 Pro 22H2 (19045.4957) 深度精简 二合一 (2024.09.27)&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本特点&#34;&gt;版本特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;纯净、无广告、流畅、右键设置、响应速度、适合办公娱乐/集成微软常用运行库合集、DX&lt;/li&gt;
+&lt;li&gt;关闭windows更新不包括驱动 更新不包括恶意软件删除工具&lt;/li&gt;
+&lt;li&gt;集成.NET Framework 3.5(仅限Windows转换程序)旧版制作&lt;/li&gt;
+&lt;li&gt;集成更新后运行清理 (仅限Windows转换程序) 后期封装制作&lt;/li&gt;
+&lt;li&gt;此版本为WIN10的深度精简，不支持window功能关闭开启。&lt;/li&gt;
+&lt;li&gt;保留了打印，笔记本指纹等功能，若使用hyper-v、平板推荐轻度精简windows版本&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;主要保留&#34;&gt;主要保留
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;• User版本 4.59G / [自建账户]&lt;/strong&gt;
+共享、计算器、打印、空间音效、看图、WMP、截图、Net3.5 – 4.8、光学、搜索、指纹、剪贴板、Heic
+IE、ODBC、简体输入法、蓝牙、wifi、xbox驱动、、防火墙、画图、Mstsc、注册表、语音识别、VP9、远程桌面
+User安装完毕 C盘占用4.0G左右 首次进入桌面进程优化控制在45左右浮动&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;• Admin版本 4.59G / [快速安装]&lt;/strong&gt;
+相比User&lt;del&gt;一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/del&gt;&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名称: H:\Windows 10 Pro 19045.4957 2in1 深度精简版 小修.esd
+文件大小: 1416541022 字节
+修改时间: 2024 年 9 月 27 日, 15:13:02
+MD5: 94BDF28D153CB008E543F459E67B3EE7
+SHA1: 62514564D3782833C384019480E3529EC323017F
+CRC32: 26A1F2E7&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1FoQu-s06FpdjTaoieSud7A?pwd=jbkm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1FoQu-s06FpdjTaoieSud7A?pwd=jbkm&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小修 Windows 10 Pro 22H2 (19045.4957) 轻度精简 二合一 (2024.09.27)</title>
+        <link>https://www.danlong360.com/post/xiaoxiuwin10qingdujingjian4957/</link>
+        <pubDate>Fri, 27 Sep 2024 22:16:34 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/xiaoxiuwin10qingdujingjian4957/</guid>
+        <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
+&lt;p&gt;2024-09-27 更新至补丁 19045.4957 打开了应用默认通知。修复了已知问题&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/27/5bvJQeFSf4YAPsh.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;小修 Windows 10 Pro 22H2 (19045.4957) 轻度精简 二合一 (2024.09.27)&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本特点&#34;&gt;版本特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;纯净、无广告、流畅、右键设置、响应速度、适合办公娱乐/集成微软常用运行库合集、DX&lt;/li&gt;
+&lt;li&gt;关闭windows更新不包括驱动 更新不包括恶意软件删除工具&lt;/li&gt;
+&lt;li&gt;集成.NET Framework 3.5(仅限Windows转换程序)旧版制作&lt;/li&gt;
+&lt;li&gt;集成更新后运行清理 (仅限Windows转换程序) 后期封装制作&lt;/li&gt;
+&lt;li&gt;使用微软商店记得打开服务 window up 默认关闭 [此版本不支持更新]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;主要保留&#34;&gt;主要保留
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;• U版本 5.10G / [自建账户]&lt;/strong&gt;
+共享、计算器、打印、空间音效、看图、WMP、截图、Net3.5 – 4.8、光学、IIS、搜索、指纹、剪贴板
+ODBC、简体输入法、蓝牙、wifi、xbox驱动、bitlocker、防火墙、画图、Mstsc、触摸、人脸、平板、IE
+User安装完毕 C盘占用4.5G左右 首次进入桌面进程优化控制在45左右浮动&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;• A版本 5.10G / [快速安装]&lt;/strong&gt;
+相比User&lt;del&gt;一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/del&gt;&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名称: H:\Windows 10 Pro 19045.4957 2in1 小修.esd
+文件大小: 1634420784 字节
+修改时间: 2024 年 9 月 27 日, 14:56:52
+MD5: 41EBFF8D796C806E2CAE454E8F113FE5
+SHA1: 0096AD34E64F71634ED8215AF98348DC293303C9
+CRC32: 1E33E661&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1FoQu-s06FpdjTaoieSud7A?pwd=jbkm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1FoQu-s06FpdjTaoieSud7A?pwd=jbkm&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小修 Windows 10 LTSC_2021 (19044.4957) 极限精简 四合一 (2024.09.27)</title>
+        <link>https://www.danlong360.com/post/xiaoxiuwin10jixianjingjian4957/</link>
+        <pubDate>Fri, 27 Sep 2024 22:13:25 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/xiaoxiuwin10jixianjingjian4957/</guid>
+        <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
+&lt;p&gt;2024-09-26 更新至补丁 19044.4957 修复了保存文件时不自动填充文件名、部分机子识别不到 GameXX 电源模式等问题&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/27/RcxOujf5QKCvzo8.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;小修 Windows 10 LTSC_2021 (19044.4957) 极限精简 四合一 (2024.09.27)&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本特点&#34;&gt;版本特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;纯净、无广告、流畅、右键设置、响应速度、适合办公娱乐/集成微软常用运行库合集、DX&lt;/li&gt;
+&lt;li&gt;关闭windows更新不包括驱动 更新不包括恶意软件删除工具&lt;/li&gt;
+&lt;li&gt;集成.NET Framework 3.5(仅限Windows转换程序)旧版制作&lt;/li&gt;
+&lt;li&gt;集成更新后运行清理 (仅限Windows转换程序) 后期封装制作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;主要保留&#34;&gt;主要保留
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;• User版本 4.79G 自建账户&lt;/strong&gt;
+共享、计算器、打印、空间音效、看图、WMP、截图、旧版组件、Net3.5 – 4.8、光学、搜索、指纹、面容、远程桌面、IE、ODBC、简体输入法、蓝牙、wifi、xbox驱动、bitlocker、防火墙、画图、Mstsc、平板、Linux子系统、语音识别、VP9
+User安装完毕 C盘占用4G左右 首次进入桌面进程优化控制在50左右浮动&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;• Admin版本 4.79G 快速安装&lt;/strong&gt;
+相比&lt;del&gt;User一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;• PC版本 4.53G A是快速管理员账户 U需要手动创建用户名 (台式机专用)&lt;/strong&gt;
+PC版删除了面容以及平板触屏，推荐台式机安装&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名称: H:\Windows 10 LTSC 2021 19044.4957 4in1 小修.esd
+文件大小: 1561460148 字节
+修改时间: 2024 年 9 月 27 日, 14:33:56
+MD5: 6D32FE637F51090544F5F272D9EB361E
+SHA1: 08A02131E714F7AB83E1CFC9E7113FFF6F90BD4A
+CRC32: EF55BA8B&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1jEVnXdoxX8VqjJFa12JkUw?pwd=gv3r&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1jEVnXdoxX8VqjJFa12JkUw?pwd=gv3r&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows 10 22H2 Build 19045.4957 RTM</title>
         <link>https://www.danlong360.com/post/windows1022h2build19045.4957rtm/</link>
         <pubDate>Thu, 26 Sep 2024 20:35:07 +0800</pubDate>
