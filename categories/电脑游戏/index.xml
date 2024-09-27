@@ -7,7 +7,61 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 26 Sep 2024 15:34:35 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Sep 2024 17:09:17 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Ryujinx v1.1.1400 中文多语免费版 开源免费 Switch 模拟器</title>
+        <link>https://www.danlong360.com/post/ryujinx1400/</link>
+        <pubDate>Fri, 27 Sep 2024 17:09:17 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/ryujinx1400/</guid>
+        <description>&lt;p&gt;Ryujinx 是一款免费、开源的 Nintendo Switch 模拟器，它可以在电脑上模拟 Nintendo Switch 游戏机的运行环境，让玩家们能够在 PC 上畅玩 Switch 游戏。&lt;/p&gt;
+&lt;p&gt;Ryujinx 支持大部分 Nintendo Switch 游戏，包括 The Legend of Zelda: Breath of the Wild、Super Mario Odyssey 等知名游戏，而且还具有优秀的兼容性和稳定性。此外，Ryujinx 还支持多人在线游戏联机和语音聊天功能，让玩家们能够更好地享受游戏。&lt;/p&gt;
+&lt;p&gt;Ryujinx 的开发团队非常活跃，他们不断更新版本，加入新特性，修复各种 bug，提高模拟器的兼容性和性能。同时，Ryujinx 还提供了丰富的文档和教程，方便用户使用和调试。&lt;/p&gt;
+&lt;p&gt;值得一提的是，Ryujinx 采用了 GPU 加速技术，可以利用 GPU 进行部分计算，从而提升模拟器的性能和效率。此外，Ryujinx 还支持多种平台，包括 Windows、macOS 和 Linux 等，并提供多种语言支持，满足不同用户的需求。&lt;/p&gt;
+&lt;p&gt;总之，Ryujinx 是一款非常出色的 Nintendo Switch 模拟器，它为广大玩家提供了一个全新的游戏体验，让玩家们能够在 PC 上畅玩 Switch 游戏。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/27/SXHAnlYuMCE7GpR.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;免费、开源：Ryujinx 是一款完全免费的 Nintendo Switch 模拟器，并且其源代码公开，用户可以自由地下载、使用、修改和分发。&lt;/li&gt;
+&lt;li&gt;高兼容性：支持大部分 Nintendo Switch 游戏，并且不断更新以提高兼容性。目前已经支持多达数百款游戏，包括众多知名作品。&lt;/li&gt;
+&lt;li&gt;高稳定性：设计精良，其核心模块采用 C# 编写，代码规范，易于维护。同时，其开发团队对性能和稳定性的要求高，每个版本都经过多轮测试才发布，以保证用户的使用体验。&lt;/li&gt;
+&lt;li&gt;多语言支持：Ryujinx 提供多种语言界面和字幕支持，包括中文、英文、日文等，方便不同地区和语言背景的用户使用。&lt;/li&gt;
+&lt;li&gt;GPU 加速：Ryujinx 利用 GPU 进行部分计算，从而提高模拟器的性能和效率。&lt;/li&gt;
+&lt;li&gt;多平台支持：支持多种操作系统，包括 Windows、macOS 和 Linux 等，且在每个系统上运行稳定，方便不同平台用户使用。&lt;/li&gt;
+&lt;li&gt;多人在线游戏联机：支持多人联机游戏，用户可以与好友或其他玩家进行游戏，享受更好的游戏体验。&lt;/li&gt;
+&lt;li&gt;语音聊天功能：内置语音聊天功能，用户可以方便地与好友或队友进行语音交流，提高游戏合作效率。&lt;/li&gt;
+&lt;li&gt;直播和录制：内置直播和录制功能，用户可以直接在模拟器内录制游戏画面或直播到自己的频道，分享游戏乐趣。&lt;/li&gt;
+&lt;li&gt;高度可定制：提供了丰富的设置选项和插件支持，用户可以根据自己的需要进行个性化设置，包括分辨率、帧率、控制器映射等。&lt;/li&gt;
+&lt;li&gt;快捷键设置：Ryujinx 支持自定义快捷键，用户可以为不同的操作设置快捷键，提高游戏操作效率。&lt;/li&gt;
+&lt;li&gt;支持 Joy-Con 模拟：支持 Joy-Con 手柄的模拟，用户可以使用 PC 上的控制器进行游戏，同时也支持手柄振动反馈。&lt;/li&gt;
+&lt;li&gt;多种输入方式：支持多种输入方式，包括键盘、鼠标、控制器等，满足不同用户的使用习惯。&lt;/li&gt;
+&lt;li&gt;实时保存和读取：支持实时保存和读取游戏进度，用户可以随时在游戏进行中进行保存，以免游戏数据丢失。&lt;/li&gt;
+&lt;li&gt;模拟器高级设置：Ryujinx 提供了一系列高级设置，包括线程数、CPU 占用率、GPU 硬件加速等，用户可以根据自己的需求进行优化和调整。&lt;/li&gt;
+&lt;li&gt;调试工具：Ryujinx 内置了一系列调试工具，包括内存查看、堆栈跟踪、CPU 指令监视等，方便用户进行模拟器调试和优化。&lt;/li&gt;
+&lt;li&gt;社区支持：Ryujinx 有一个强大的社区支持，用户可以在官方网站上获取帮助、提出问题并与其他用户交流和分享游戏心得。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ryujinx-设置教程&#34;&gt;Ryujinx 设置教程
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&amp;amp;-Configuration-Guide#initial-setup&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&amp;-Configuration-Guide#initial-setup&lt;/a&gt;—placement-of-prodkeys&lt;/p&gt;
+&lt;p&gt;注意：不要将 Ryujinx 解压到中文目录，建议在分区的根目录，如 D 盘。&lt;/p&gt;
+&lt;h3 id=&#34;ryujinx-中文设置&#34;&gt;Ryujinx 中文设置
+&lt;/h3&gt;&lt;p&gt;Options – Select Language – 简体中文&lt;/p&gt;
+&lt;h3 id=&#34;ryujinx-许可证&#34;&gt;Ryujinx 许可证
+&lt;/h3&gt;&lt;p&gt;MIT 许可证&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d0b378b79dd5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d0b378b79dd5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>《战锤40K：行商浪人》v1.2.1.7 中文版</title>
         <link>https://www.danlong360.com/post/zhanchui40khangshanglangren1217/</link>
         <pubDate>Thu, 26 Sep 2024 15:34:35 +0800</pubDate>
