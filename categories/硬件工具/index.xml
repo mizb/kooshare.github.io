@@ -7,7 +7,75 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 28 Sep 2024 11:05:04 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 28 Sep 2024 23:49:55 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>万能驱动VIP版(万能驱动8 EasyDrv) v24v5</title>
+        <link>https://www.danlong360.com/post/wannengqudong24v5/</link>
+        <pubDate>Sat, 28 Sep 2024 23:49:55 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/wannengqudong24v5/</guid>
+        <description>&lt;p&gt;万能驱动7自2017年发布至今已6年有余，今天将画上最终版的句号，继任者万能驱动8已蓄势待发（VIP抢先体验）。相较万能驱动7，万能驱动8使用了全新的设计理念，硬件检索、驱动安装等方面皆有新技术加持，驱动库、软件库可全面自定义。沉浸技术十余载，只为与诸君分享更加完善的驱动安装体验，感谢大家的支持与厚爱！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/28/am5oDFcNejqdRrx.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240928235014819&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;[VIP] 万能驱动 8 (24v4) EDrv8详细版本号：8.1.2408.10312 (2024/08/26)
+万能驱动8全新UI设计使交互更直观，进一步优化了硬件识别和驱动检索能力，
+提高了驱动搭配的自由度，新增驱动包自定义功能，令操作变得更加得心应手。&lt;/p&gt;
+&lt;p&gt;# 更新日志 - 驱动
+万能驱动 v8.1 （64位 Win10专版） 2024-05【Windows 10/11 x64】
+1、【显卡】更新 AMD Radeon R2/R3/R4/R6/R5/R7/R9/RX系列显卡驱动v24.3.1版
+2、【显卡】更新 Intel TGL/RKL/RPL/ADL/Arc系列显卡驱动v31.0.101.5382版
+3、【显卡】更新 NVIDIA GeForce600-GeForce4000系列桌面/移动显卡驱动v552.12-DCH版
+4、【网卡】新增 Motorcomm YT6801网卡驱动v1.0.1.37版
+5、【无线网卡】更新 Intel Wireless 无线网卡驱动v23.40.0.4版
+6、【无线网卡】更新 Realtek瑞昱 8852AU USB无线网卡驱动v5001.19.105.1版
+7、【无线网卡】更新 Realtek瑞昱 8851BE Wireless无线网卡驱动v6101.19.117.0版
+8、【无线网卡】更新 Realtek瑞昱 8852AE Wireless无线网卡驱动v6001.10.356.0版
+9、【无线网卡】更新 Realtek瑞昱 8852BE Wireless无线网卡驱动V6001.15.150.100版
+10、【无线网卡】更新 Realtek瑞昱 8852CE Wireless无线网卡驱动v6001.16.154.0版
+11、【芯片组】更新 Intel DTT芯片组驱动v9.0.11405.42569版
+12、【芯片组】更新 Intel IPF芯片组驱动v1.0.11405.42038版
+13、【芯片组】更新 Intel LMS芯片组驱动v2316.5.1.10版
+14、【芯片组】更新 Intel MEI芯片组驱动v2406.5.5.0版
+15、【芯片组】更新 Intel Serial-IO Driver v30.100.2351.81版
+16、【芯片组】更新 Intel Software Guard Extensions驱动v2.22.100.2版
+17、【磁盘驱动器】更新 Intel英特尔RST VMD Controller驱动v20.0.0.1038版
+18、【其他设备】更新 Intel 蓝牙芯片驱动v23.40.0.2版
+19、【其他设备】更新 Realtek 0139读卡器驱动v10.0.22631.31285版
+20、【其他设备】更新 Realtek 5227读卡器驱动v10.0.22631.21370版
+21、【其他设备】更新 Realtek 8852C蓝牙芯片驱动v1.10.1066.3000版&lt;/p&gt;
+&lt;p&gt;万能驱动 v8.1 （32位 Win10专版） 2024-05【Windows 10/11 x86】
+1、【无线网卡】更新 Realtek瑞昱 8852AU USB无线网卡驱动v5001.19.105.1版
+2、【其他设备】更新 Realtek 0139读卡器驱动v10.0.22631.31285版
+3、【其他设备】更新 Realtek 5227读卡器驱动v10.0.22631.21370版&lt;/p&gt;
+&lt;h3 id=&#34;关于广告&#34;&gt;关于广告
+&lt;/h3&gt;&lt;p&gt;首先就是万能驱动7的推广，在softext文件夹下有1-3个(视版本而定)2345联盟的推广安装包，以及万能驱动主程序会修改你的主页为2345，不过这些推广在官方条件下完全可以去除。
+首先说桌面条件下直接安装，softext文件夹不可以动，在下方软件推荐页面把推广软件去掉勾选即可，主页推广在右上角小三角处，一样取消勾选后，放心安装，不会有任何推广。
+然后说PE条件下为目标系统注入，需要使用优启通3.3及以上的PE，此时softext文件夹内的几个安装包是可删的(但e7e文件不可删)，无论是否删除，只要是在优启通3.3及以上版本注入驱动，默认都不会安装推广软件和设置主页。
+最后说封装环境，这时候需要ES4.5或者ES5版本，在部署中调用(专用接口/通用接口均可，也可以写批处理调用)这时候是不会有任何推广的(不过要考虑ES的推广主页和软件)，而且softext下的几个安装包一样可删(仍然需要保留e7e文件)。&lt;/p&gt;
+&lt;h3 id=&#34;运行参数&#34;&gt;运行参数
+&lt;/h3&gt;&lt;p&gt;（1）/r 或 /reboot
+自动重启（部署中无效）
+（2）/u 或 /unzip
+只解压不安装（PE下无效）
+（3）/c 或 /clean
+安装后删除已解压驱动
+（4）/a 或 /auto
+自动执行（兼容fa/forceAuto旧参数），部署中无需设置此参数亦自动
+可以组合使用，例如安装完成后自动删除已解压的驱动再重启，/a /c /r&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9d9dd6a12066&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9d9dd6a12066&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>FanControl(电脑风扇转速控制软件) v205 绿色版</title>
         <link>https://www.danlong360.com/post/fancontrol205/</link>
         <pubDate>Sat, 28 Sep 2024 11:05:04 +0800</pubDate>

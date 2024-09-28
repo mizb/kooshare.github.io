@@ -7,7 +7,173 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 28 Sep 2024 11:20:19 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 28 Sep 2024 23:53:42 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>游戏常用运行库合集 Game Runtime Libraries Package v4.0.24.0928</title>
+        <link>https://www.danlong360.com/post/youxichangyongyunxingkuheji0928/</link>
+        <pubDate>Sat, 28 Sep 2024 23:53:42 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/youxichangyongyunxingkuheji0928/</guid>
+        <description>&lt;p&gt;游戏常用运行库 合集 整合了许多游戏会用到的运行库，支持 Windows XP – Windows 11 系统，并且支持自动检测系统勾选推荐的运行库，方便快捷。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/28/8dMqW6mJzbwZINc.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240928235403491&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;本版特点&#34;&gt;本版特点
+&lt;/h3&gt;&lt;p&gt;By：mefcl
+整合常见最新游戏所需运行库
+根据系统自动勾选推荐的版本
+纯净安装包无病毒和弹窗行为
+支持静默安装，静默参数：/S
+致谢：
+David R. Stein、Dreamcast、NanLon、rizalmart、断剑留痕、云水扶摇&lt;/p&gt;
+&lt;h3 id=&#34;包含组件&#34;&gt;包含组件
+&lt;/h3&gt;&lt;p&gt;Microsoft Visual C++ 2002-2003 Runtime x86
+Microsoft Visual C++ 2005 Redist x86 x64
+Microsoft Visual C++ 2008 Redist x86 x64
+Microsoft Visual C++ 2010 Redist x86 x64
+Microsoft Visual C++ 2012 Redist x86 x64
+Microsoft Visual C++ 2013 Redist x86 x64
+Microsoft Visual C++ 2015-2022 Redist x86 x64
+Microsoft .NET Framework 1.0
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 3.5（含2.0、3.0） x86 x64
+Microsoft .NET Framework 4.0 x86 x64
+Microsoft .NET Framework 4.8 x86 x64
+Microsoft .NET Framework 6.0 x86 x64
+Microsoft .NET Framework 7.0 x86 x64
+Microsoft .NET Framework 8.0 x86 x64
+Microsoft XNA Framework 1.0 x86 x64
+Microsoft XNA Framework 2.0 x86 x64
+Microsoft XNA Framework 3.0 x86 x64
+Microsoft XNA Framework 3.1 x86 x64
+Microsoft XNA Framework 4.0 x86 x64
+Microsoft Visual F# Runtime
+Microsoft Visual J# Redistributable Package
+Microsoft AppLocale
+Microsoft XML Core Services 4.0
+Microsoft XML Core Services 6.0
+Microsoft Silverlight 5.0
+Microsoft Games for Windows Marketplace
+Microsoft Games for Windows – LIVE Redistributable
+Microsoft Visual Basic/C++ Runtime
+Microsoft Visual Basic 6.0 Runtime Plus
+– Visual Basic runtime files (v1.0 至 v6.0)
+– Visual Basic Extensions (VBX)
+– ActiveX Controls
+– Dynamic Data Exchange (DDE)
+– Open Link Embedding (OLE)
+– OLE Automation
+– Data Access Objects (DAO)
+– Remote Data Objects (RDO)
+– Distributive Component Object Model (DCOM)
+– Microsoft Data Access Components (MDAC)
+– Microsoft Jet (from 1.x 至 3.x)
+– Windows Script Host (WSH)
+– Windows Management Instrumentation (WMI)
+– DirectX Components for Visual Basic
+– WinG
+– Crystal Report runtime files
+– Third-party ActiveX Controls 和 libraries
+– Microsoft XML Services
+– NTVDM 和 DirectPlay（通过 Windows 功能，仅适用于 Windows 8 或更高版本）
+Microsoft Visual Studio 2010 Tools for Office Runtime
+DirectX 9.0c 9.0、10、11
+NVIDIA PhysX System Software
+Open Audio Library (OpenAL) 2.1
+Rapture3D 2.7.4
+SlimDX Runtime .NET 2.0
+SlimDX Runtime .NET 4.0
+Rockstar Games Social Club 1.1
+Unity Web Player 5.3
+VulkanRT 1.3
+UE4 Prerequisites 1.0 x64&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2024.09.28
+去除安装包欢迎页富文本框，避免系统部署时运行失败问题。
+同时上传了一个未压缩版本，安装时速度可能会有提升。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/5de836da06ea&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/5de836da06ea&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ExamDiff(文件和文件夹比较工具) Pro v15.0.1.13 便携版</title>
+        <link>https://www.danlong360.com/post/examdiff13/</link>
+        <pubDate>Sat, 28 Sep 2024 23:47:29 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/examdiff13/</guid>
+        <description>&lt;p&gt;ExamDiff是一款强大的文件和文件夹比较工具。它可以帮助用户快速而准确地找到两个文件或文件夹之间的差异，以便进行修复或更新。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/28/HEKxPlQwzGYMRei.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240928234750760&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文件比较：用户可以比较两个文件中的内容，并快速找出不同之处。
+文件夹比较：用户可以比较两个文件夹中的文件，并查找出不同之处。
+代码比较：支持比较代码文件，方便开发人员查看代码变更之处。
+结果显示：以直观的方式展示文件或文件夹之间的差异。
+快速比较：快速准确比较大型文件和文件夹。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;直观简单：界面简洁直观，操作简单易上手。
+快速准确：可以快速准确地比较文件或文件夹，节省用户时间。
+多种比较模式：支持不同的比较模式，满足用户不同的比较需求。
+方便实用：功能实用，适合各种用户使用。
+自定义设置：用户可以根据自己的需求进行设置。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/e0b2948326b9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/e0b2948326b9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>TweakNow WinSecret Plus!(系统优化软件) v5.7.0 便携版</title>
+        <link>https://www.danlong360.com/post/tweaknow570/</link>
+        <pubDate>Sat, 28 Sep 2024 23:42:12 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/tweaknow570/</guid>
+        <description>&lt;p&gt;TweakNow WinSecret Plus是一款功能强大的系统优化软件，它提供了许多实用的工具和功能，可以帮助用户优化Windows操作系统的性能和设置。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/28/y3GYX8h4dWVDiBx.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240928234340977&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;注册表清理：该软件可以扫描和清理Windows注册表中无效的、过时的和无用的条目，以提高系统的响应速度和稳定性。&lt;/li&gt;
+&lt;li&gt;磁盘清理：它可以帮助用户清理系统磁盘上的临时文件、缓存文件、垃圾文件等，释放磁盘空间并提升系统性能。&lt;/li&gt;
+&lt;li&gt;系统优化：软件提供了一些系统优化工具，如启动管理器、服务管理器和任务管理器，可以帮助用户优化系统启动速度、管理运行的服务和进程，提升系统性能。&lt;/li&gt;
+&lt;li&gt;隐私保护：它可以帮助用户保护个人隐私，清理浏览器的历史记录、临时文件、Cookie等，防止个人信息被泄露。&lt;/li&gt;
+&lt;li&gt;窗口定制：软件提供了一些界面定制工具，用户可以自定义Windows界面的外观和行为，如调整平滑滚动、窗口动画等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;简单易用：软件界面友好，操作简单，即使是没有技术背景的用户也能轻松使用。&lt;/li&gt;
+&lt;li&gt;多功能：软件提供了多种系统优化和调整工具，满足用户对系统性能和设置的各种需求。&lt;/li&gt;
+&lt;li&gt;安全可靠：软件操作不会对系统造成损坏或错误，而且会备份修改前的设置，以便在需要时还原。&lt;/li&gt;
+&lt;li&gt;兼容性强：软件适用于各个版本的Windows操作系统，包括Windows 10、Windows 8/8.1、Windows 7等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2fbebf85b260&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2fbebf85b260&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Q-Dir(免费的文件管理器) v11.82 中文绿色版</title>
         <link>https://www.danlong360.com/post/qdir1182/</link>
         <pubDate>Sat, 28 Sep 2024 11:20:19 +0800</pubDate>
