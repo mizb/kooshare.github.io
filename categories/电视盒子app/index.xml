@@ -7,7 +7,121 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 26 Sep 2024 21:41:52 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 28 Sep 2024 11:39:47 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>我的电视-安卓(mytv-android)最新版：v2.2.3 使用Android原生开发的电视直播软件，电视版&#43;手机版</title>
+        <link>https://www.danlong360.com/post/wodedianshi223/</link>
+        <pubDate>Sat, 28 Sep 2024 11:39:47 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/wodedianshi223/</guid>
+        <description>&lt;h3 id=&#34;一什么是我的电视-安卓mytv-android&#34;&gt;一、什么是我的电视-安卓(mytv-android)
+&lt;/h3&gt;&lt;p&gt;“mytv-android”是一个使用Android原生开发的电视直播软件，主要功能包括频道切换、频道选择、自定义直播源和节目单、多直播源和多线路支持、频道收藏等。&lt;/p&gt;
+&lt;p&gt;用户可以通过遥控器或触摸屏进行操作，并支持自定义设置和多种格式的直播源和节目单。该项目旨在解决低端设备上播放4K视频卡顿的问题，仅支持Android 5及以上版本，且需要支持IPV6的网络环境。&lt;/p&gt;
+&lt;h3 id=&#34;二我的电视-安卓mytv-android主要功能&#34;&gt;二、我的电视-安卓(mytv-android)主要功能
+&lt;/h3&gt;&lt;h4 id=&#34;操作方式&#34;&gt;操作方式
+&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;遥控器操作方式与主流电视直播软件类似；&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;频道切换：使用上下方向键，或者数字键切换频道；屏幕上下滑动；&lt;/li&gt;
+&lt;li&gt;频道选择：OK键；单击屏幕；&lt;/li&gt;
+&lt;li&gt;设置页面：按下菜单、帮助键，长按OK键；双击、长按屏幕；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;触摸键位对应&#34;&gt;触摸键位对应
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;方向键：屏幕上下左右滑动&lt;/li&gt;
+&lt;li&gt;OK键：点击屏幕&lt;/li&gt;
+&lt;li&gt;长按OK键：长按屏幕&lt;/li&gt;
+&lt;li&gt;菜单、帮助键：双击屏幕&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;自定义设置&#34;&gt;自定义设置
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;访问以下网址：&lt;code&gt;http://&amp;lt;设备IP&amp;gt;:10481&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;打开应用设置界面，移到最后一项&lt;/li&gt;
+&lt;li&gt;支持自定义直播源、自定义节目单、缓存时间等等&lt;/li&gt;
+&lt;li&gt;须知：网页中引用了&lt;code&gt;jsdelivr&lt;/code&gt;的cdn，请确保能够正常访问&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;自定义直播源&#34;&gt;自定义直播源
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;设置入口：自定义设置网址&lt;/li&gt;
+&lt;li&gt;格式支持：m3u格式、tvbox格式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;多直播源&#34;&gt;多直播源
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;设置入口：打开应用设置界面，选中&lt;code&gt;自定义直播源&lt;/code&gt;项，点击后将弹出历史直播源列表&lt;/li&gt;
+&lt;li&gt;历史直播源列表：短按可切换当前直播源（需重启），长按将清除历史记录；该功能类似于&lt;code&gt;多仓&lt;/code&gt;，主要用于简化直播源切换流程&lt;/li&gt;
+&lt;li&gt;须知：
+&lt;ol&gt;
+&lt;li&gt;当直播源数据获取成功时，会将该直播源保存到历史直播源列表中&lt;/li&gt;
+&lt;li&gt;当直播源数据获取失败时，会将该直播源移出历史直播源列表&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;多线路&#34;&gt;多线路
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;功能描述：同一频道拥有多个播放地址，相关标识位于频道名称后面&lt;/li&gt;
+&lt;li&gt;切换线路：左右方向键；屏幕左右滑动&lt;/li&gt;
+&lt;li&gt;自动切换：当当前线路播放失败后，将自动播放下一个线路，直至最后&lt;/li&gt;
+&lt;li&gt;须知：
+&lt;ol&gt;
+&lt;li&gt;当某一线路播放成功后，会将该线路的&lt;code&gt;域名&lt;/code&gt;保存到&lt;code&gt;可播放域名列表&lt;/code&gt;中&lt;/li&gt;
+&lt;li&gt;当某一线路播放失败后，会将该线路的&lt;code&gt;域名&lt;/code&gt;移出&lt;code&gt;可播放域名列表&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;当播放某一频道时，将优先选择匹配&lt;code&gt;可播放域名列表&lt;/code&gt;的线路&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;自定义节目单&#34;&gt;自定义节目单
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;设置入口：自定义设置网址&lt;/li&gt;
+&lt;li&gt;格式支持：.xml、.xml.gz格式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;多节目单&#34;&gt;多节目单
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;设置入口：打开应用设置界面，选中&lt;code&gt;自定义节目单&lt;/code&gt;项，点击后将弹出历史节目单列表&lt;/li&gt;
+&lt;li&gt;具体功能请参照&lt;code&gt;多直播源&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;当天节目单&#34;&gt;当天节目单
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;功能入口：打开应用选台界面，选中某一频道，按下菜单、帮助键、双击屏幕，将打开当天节目单&lt;/li&gt;
+&lt;li&gt;须知：由于该应用不支持回放功能，所以更早的节目单没必要展示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;频道收藏&#34;&gt;频道收藏
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;功能入口：打开应用选台界面，选中某一频道，长按OK键、长按屏幕，将收藏/取消收藏该频道&lt;/li&gt;
+&lt;li&gt;切换显示收藏列表：首先移动到频道列表顶部，然后再次按下方向键上，将切换显示收藏列表；手机长按频道信息切换&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;三我的电视-安卓mytv-android预览&#34;&gt;三、我的电视-安卓(mytv-android)预览
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/28/ATZFKgBNIQmVrOi.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;我的电视-安卓(mytv-android)界面预览&#34;
+	
+	
+&gt;我的电视-安卓(mytv-android)界面预览&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/28/JQFKPLNdyoeOtCj.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;我的电视-安卓(mytv-android)节目频道&#34;
+	
+	
+&gt;我的电视-安卓(mytv-android)节目频道&lt;/p&gt;
+&lt;h3 id=&#34;四我的电视-安卓mytv-android节目频道更新&#34;&gt;四、我的电视-安卓(mytv-android)节目频道更新
+&lt;/h3&gt;&lt;p&gt;测试版2.2.3&lt;/p&gt;
+&lt;h4 id=&#34;修复&#34;&gt;修复
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;优化触摸设备点击&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO7qiE67ueox1x4K6lvS9UnhA1?pwd=8j8a#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO7qiE67ueox1x4K6lvS9UnhA1?pwd=8j8a#&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>TVbox_q215613905_ 20240925_0957俊仓优化版(附最新接口地址) 电视直播&#43;点播</title>
         <link>https://www.danlong360.com/post/tvboxq215613905/</link>
         <pubDate>Thu, 26 Sep 2024 21:41:52 +0800</pubDate>
