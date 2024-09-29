@@ -7,7 +7,40 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 27 Sep 2024 17:13:09 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 29 Sep 2024 22:51:14 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>BitTorrent(BT下载客户端) Pro v7.11.0.47143 多语便携版</title>
+        <link>https://www.danlong360.com/post/7709/</link>
+        <pubDate>Sun, 29 Sep 2024 22:51:14 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/7709/</guid>
+        <description>&lt;p&gt;BitTorrent是一种基于P2P（点对点）传输协议的文件共享方式，它允许用户在互联网上快速下载大文件。用户可以通过BitTorrent客户端软件搜索和下载其他用户共享的文件，同时也可以共享自己的文件给其他用户下载。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/29/Ql1vqjcpwkKdYsM.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240929225133245&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;快速下载：BitTorrent能够同时从多个源下载文件，提高了下载速度。
+分享文件：用户可以在软件中分享自己的文件，为其他用户提供下载。
+控制下载：用户可以控制下载和上传速度，以及选择性下载文件中的特定部分。
+支持种子文件：用户可以使用种子文件来下载特定的文件或文件夹。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高效率：通过P2P技术，可以更快地下载文件。
+可靠性：由于文件分布在多个源上，如果某一个源中断，仍然可以从其他源继续下载。
+开放性：BitTorrent是一个开放的协议，任何人都可以使用和开发相关的软件。
+多平台支持：BitTorrent客户端软件支持多种操作系统，如Windows、MacOS、Linux等。
+轻量级：BitTorrent客户端软件通常体积较小，占用系统资源少，适合在不同设备上使用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/344e84f3c144&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/344e84f3c144&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>AB Download Manager 下载管理器 v1.1.0</title>
         <link>https://www.danlong360.com/post/abdownload/</link>
         <pubDate>Fri, 27 Sep 2024 17:13:09 +0800</pubDate>

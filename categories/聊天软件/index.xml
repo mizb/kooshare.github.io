@@ -7,7 +7,40 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 27 Sep 2024 10:47:32 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 29 Sep 2024 22:25:56 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PC版微信/QQ/TIM防撤回补丁 v1.9 中文绿色版</title>
+        <link>https://www.danlong360.com/post/7225/</link>
+        <pubDate>Sun, 29 Sep 2024 22:25:56 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/7225/</guid>
+        <description>&lt;p&gt;RevokeMsgPatcher是一款针对微信的小工具，主要用于阻止被撤回的消息在聊天窗口中消失，让用户能够阅读并查看被撤回的消息内容。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/29/4lXULaOSIAwEn3y.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240929222613765&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;阻止微信撤回消息：当有好友或群组成员撤回消息时，该工具会拦截并阻止撤回操作，使撤回的消息仍然显示在聊天窗口中。
+查看被撤回消息：用户可以通过该工具查看被撤回的消息内容，这对于有些重要信息或聊天记录很有帮助。
+轻松操作：工具直观简单，用户可以轻松安装和使用，无需进行复杂的设置。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;兼容性强：该工具适用于Windows、MacOS和Linux操作系统，几乎可以在所有主流设备上运行。
+高效稳定：工具采用高效的拦截技术，确保被撤回的消息能够准确地显示在聊天窗口中。
+更新及时：开发者会不断更新该工具，以适应微信的最新版本和功能，保证用户能够持续使用。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;这次更新主要是新增了一个 LiteLoaderQQNT 的安装器，适配了相关更新，支持 QQNT 9.9.15.28060 及以上版本
+并且添加了一个能够更新 LiteLoaderQQNT 本体和插件的功能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6f57ef8de06d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6f57ef8de06d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Skype(网络通信工具) v8.129.0.201 多语便携版</title>
         <link>https://www.danlong360.com/post/skype8129/</link>
         <pubDate>Fri, 27 Sep 2024 10:47:32 +0800</pubDate>

@@ -7,7 +7,509 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 28 Sep 2024 23:53:42 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 29 Sep 2024 22:53:01 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>StartAllBack(Win11开始菜单增强工具) v3.8.10.5173 Stable 破解版</title>
+        <link>https://www.danlong360.com/post/6213/</link>
+        <pubDate>Sun, 29 Sep 2024 22:53:01 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6213/</guid>
+        <description>&lt;p&gt;StartAllBack中文版(StartIsBack++)是一款Win11开始菜单增强工具,可以为Windows11恢复经典样式的Windows7主题风格开始菜单和任务栏,功能包括了:自定义开始菜单样式和操作,个性化任务栏及资源管理器等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/29/eJ36bRWv4HyT7z2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240929225318261&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;StartAllBack for Windows 11 - StartIsBack+ - MSFN
+&lt;a class=&#34;link&#34; href=&#34;https://msfn.org/board/topic/183013-startallback-for-windows-11/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://msfn.org/board/topic/183013-startallback-for-windows-11/&lt;/a&gt;
+StartIsBack for Windows 11
+&lt;a class=&#34;link&#34; href=&#34;https://www.startallback.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.startallback.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近更新：
+- 支持 Dev, Beta 最新预览版;全新经典资源管理器样式界面
+- 支持 Win11 22H2正式版 Windows 11 22H2 Build 22621
+- 资源管理器功能区, 命令栏, 其他元素现代化改造和重新设计&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;√ 破解免激活，无30天试用期，无哭脸表情水印!
+√ 全面更新中文语言翻译，简体中文字串优化对齐
+√ 剥离升级程序，无升级提示弹窗，去关于项检查更新
+√ 采用原版7zSFX自解压形式重新打包，支持静默安装
+静默安装参数：/ai /gm2
+无人值守安装示例：
+StartAllBack_Repack.exe /ai /gm2
+或右键解压后执行：
+StartAllBackCfg.exe /install /elevated /silent&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;StartAllBack 3.8.10.5173 (stable) all changes:
+Option to totally disable task grouping (a la XP)
+Decoupled widgets position from task centering setting (use system centering setting to control widgets)
+Swapped clock time/date on one line
+Removed Win10 input layout switcher as it makes hotkey unreliable
+Fixed new tab instead of help icon/text in Control Panel process
+Fixed WMP thumbnail
+Fixed segments on secondary taskbars not working in some configurations
+Fixed segments drawing tear/blinking
+Fixed acrylic menu in Macrium viBoot&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ec7fd142e92c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ec7fd142e92c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Vit Registry Fix(注册表修复优化工具) v14.9.4 便携版</title>
+        <link>https://www.danlong360.com/post/2783/</link>
+        <pubDate>Sun, 29 Sep 2024 22:46:54 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/2783/</guid>
+        <description>&lt;p&gt;Vit Registry Fix是一款注册表修复和优化工具，它可以扫描、修复和清理Windows注册表中的无效、损坏、过时和冗余项，从而提供更稳定和高效的计算机性能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/29/eWtGuFrYhlgiB1E.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240929224712049&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;注册表扫描：可以快速扫描整个Windows注册表，并显示出无效和损坏的注册表项。
+注册表修复：可以修复被扫描出的无效和损坏的注册表项，恢复注册表的完整性。
+注册表备份和恢复：可以创建注册表备份，并在需要时恢复到先前的状态。
+注册表清理：可以清理注册表中的过时和冗余项，提高系统性能。
+注册表优化：可以优化注册表结构，加快系统启动和运行速度。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简洁直观的界面：Vit Registry Fix的界面简单易用，即使没有计算机经验的用户也可以轻松操作。
+安全可靠：软件提供了注册表备份功能，确保在操作过程中不会丢失重要的注册表数据。
+高效快速：软件采用先进的扫描和修复算法，能够快速准确地修复注册表问题，提升计算机性能。
+兼容性强：软件兼容所有版本的Windows操作系统，包括Windows 10。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/68857dfd47d4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/68857dfd47d4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Stellarium(虚拟天文馆应用程序) v24.3 多语便携版</title>
+        <link>https://www.danlong360.com/post/1265/</link>
+        <pubDate>Sun, 29 Sep 2024 22:37:03 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/1265/</guid>
+        <description>&lt;p&gt;Stellarium 是一款免费的天文学软件，可用于模拟整个天空在不同时间和位置的各种天体运动，以及提供详细的星图和天体信息。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/29/ZGyCBhmP5DTbVRE.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240929223726605&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;3D 显示：提供逼真的 3D 显示效果，包括全景、弧形和折线视图。&lt;/li&gt;
+&lt;li&gt;星图显示：提供详细的星图和天体信息，包括恒星、星团、星系、行星等多种天体。&lt;/li&gt;
+&lt;li&gt;天体运动：模拟各种天体的运动轨迹和运动速度，并提供多种观测位置和时间选项。&lt;/li&gt;
+&lt;li&gt;遥控望远镜：支持多种望远镜设备和遥控，方便用户观测和跟踪天体。&lt;/li&gt;
+&lt;li&gt;天文活动：提供各种天文活动和天象预报，例如日食、月食、降星雨等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;跨平台支持：支持 Windows、Mac OS、Linux 等多个操作系统平台，用户可以在不同的平台上安装和使用 Stellarium。&lt;/li&gt;
+&lt;li&gt;免费开源：Stellarium 是一款完全免费的开源软件，用户可以自由下载、使用和修改该软件。&lt;/li&gt;
+&lt;li&gt;易于使用：提供简单易用的用户界面和操作方式，即使是初学者也可以轻松掌握该软件的使用方法。&lt;/li&gt;
+&lt;li&gt;星图美观：美丽的星图和逼真的星空效果，让用户感受到浩瀚宇宙的壮观。&lt;/li&gt;
+&lt;li&gt;天象预报：提供详细的天象预报和天文活动信息，使用户不会错过任何重要的天文事件。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;总之，Stellarium 是一款功能强大、易于使用、美观大方的天文学软件，可以帮助用户掌握天体运动和天象预报等重要知识，同时还提供多种观测和遥控选项，方便用户观测和跟踪天体。加上跨平台和免费开源等多种特点，Stellarium 成为了广大天文学爱好者的必备工具之一。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/49662f8830ac&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/49662f8830ac&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>XYplorer(多标签文件管理器) v26.40.0300 多语便携版</title>
+        <link>https://www.danlong360.com/post/651/</link>
+        <pubDate>Sun, 29 Sep 2024 22:33:54 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/651/</guid>
+        <description>&lt;p&gt;XYplorer中文版是一款多标签文件管理器及增强资源管理器的工具,XYplorer文件管理器支持多标签页栏,管理文件时跟使用Chrome之类浏览器一样,从浏览方便性,和切换滑顺程度,要比Windows系统自带的Explorer资源管理器便捷得多.可以大部分程度上替代系统自带的文件管理器.同时,有浏览器快捷键和鼠标快捷.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/29/m4fzlxWLDTPUevk.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240929223412966&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;双窗口浏览：支持双窗口浏览，可以同时浏览两个文件夹，方便文件的复制、移动和比较。
+高级搜索：支持高级搜索功能，可以根据文件名、大小、日期、属性等多种条件进行搜索。
+标签和书签：支持标签和书签功能，可以方便地管理和访问常用文件和文件夹。
+自定义命令：支持自定义命令功能，可以自定义快捷键和命令，方便快速访问常用功能。
+文件预览：支持文件预览功能，可以在文件管理器中直接预览图片、音频、视频等文件。
+批量重命名：支持批量重命名功能，可以根据规则批量重命名文件和文件夹。
+文件比较：支持文件比较功能，可以比较两个文件或文件夹的差异。
+自动化操作：支持自动化操作功能，可以通过脚本实现自动化操作。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;XYplorer - What’s New
+&lt;a class=&#34;link&#34; href=&#34;https://www.xyplorer.com/whatsnew.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.xyplorer.com/whatsnew.php&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c4f3a518f7d2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c4f3a518f7d2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小鹤音形-小鹤双拼输入法 v10.10 最新版</title>
+        <link>https://www.danlong360.com/post/4605/</link>
+        <pubDate>Sun, 29 Sep 2024 22:30:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4605/</guid>
+        <description>&lt;p&gt;小鹤音形是一款基于小鹤双拼输入法理论的输入法软件，为用户提供了一种更高效准确的中文输入方式。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/29/Hha76EkyidcKlN5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240929223124560&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持小鹤双拼、小鹤音形双拼、小鹤笔画、小鹤音形笔画等输入法模式；&lt;/li&gt;
+&lt;li&gt;可以自定义词库，方便用户对自己常用的词语进行添加；&lt;/li&gt;
+&lt;li&gt;支持使用拼音加机械码的方式快速添加生僻字；&lt;/li&gt;
+&lt;li&gt;提供了集成的词典和成语库，方便用户查找生词和成语；&lt;/li&gt;
+&lt;li&gt;支持繁体字的输入与转换，方便用户输入和查看繁体字；&lt;/li&gt;
+&lt;li&gt;支持通过快捷键进行输入法的切换和切换输入法模式；&lt;/li&gt;
+&lt;li&gt;提供了多种输入法皮肤选择和自定义皮肤功能，用户可以按照自己的喜好来选择适合自己的皮肤；&lt;/li&gt;
+&lt;li&gt;提供了更多的设置选项，可以让用户根据自己的习惯来配置输入法功能。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;综合来看，小鹤音形是一款功能强大、操作简单、易于使用的输入法软件，可以大提高用户的输入效率和输入准确性。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2023-10-28 1.6.8
+1.展翅主题主键盘数字移到键盘下方
+2.emoji表情编码加入万能键查询&lt;/p&gt;
+&lt;p&gt;软件部分：202310271449
+调整候选Y轴位置不跟随第一个键的高度&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/161b10996be6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/161b10996be6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小狼毫输入法(中州韵输入法引擎) v0.16.2</title>
+        <link>https://www.danlong360.com/post/8452/</link>
+        <pubDate>Sun, 29 Sep 2024 22:29:47 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8452/</guid>
+        <description>&lt;p&gt;小狼毫是一款自由、开放源代码的中文输入法，其最大的特点是优秀的多音字和笔画输入识别能力。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/29/CT84ecnFxHgzmoW.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240929223005700&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持全拼、双拼、五笔等多种输入法；&lt;/li&gt;
+&lt;li&gt;支持模糊音、多音字、繁简体转换等输入；&lt;/li&gt;
+&lt;li&gt;支持自定义词库、快捷键等功能；&lt;/li&gt;
+&lt;li&gt;支持多语言输入；&lt;/li&gt;
+&lt;li&gt;支持云输入（需要联网）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;小巧轻便，占用资源少；&lt;/li&gt;
+&lt;li&gt;界面简洁，易于操作；&lt;/li&gt;
+&lt;li&gt;词库丰富，支持常用词汇；&lt;/li&gt;
+&lt;li&gt;词语智能匹配，输入效率高；&lt;/li&gt;
+&lt;li&gt;支持多语言输入，满足不同需求；&lt;/li&gt;
+&lt;li&gt;开源自由，可自由定制、修改。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新内容&#34;&gt;更新内容
+&lt;/h3&gt;&lt;p&gt;0.16.2 (2024-09-28)
+主要更新
+新特性：支持自動檢查更新使用測試通道，使用WeaselSetup.exe參數可修改，/testing使用測試通道，/release使用發佈版本，默認後者；
+新特性：WeaselSetup.exe參數設置界面語言，设置后覆盖区域设置的自动检测。/lt設置爲繁體中文界面，/ls 設置爲簡體中文界面，/le設置爲英文界面
+新特性：WeaselSetup.exe參數設置是否使用自動檢查更新，/du禁用自動檢查更新，/eu使用自動檢查更新
+新特性：安裝器彈窗提示設置是否自動檢查升級
+新特性：開關IME消息響應狀態可配置，WeaselSetup.exe參數/toggleime設置關閉鍵盤（原版本狀態），/toggleascii切換ascii_mode,安裝默認後者 #1364
+新特性：支持xmake 2.9.4以上版本構建，使用xbuild.bat開展，相關參數基本同build.bat, 使用xbuild.bat commands可生成compile_commands.json便於lsp使用，xbuild.bat clean可清空xmake構建 #1360
+新特性：支持Caps_Lock 按鍵binding（如選重）,需将key_binder置于ascii_composer之前
+使能TSF dll中的WER
+nightly 構建後自動更新rime/home頁面更新測試通道appcast
+升級lint檢查使用的llvm最低版本至18.1.6, 更新ci脚本检查更新llvm
+Bug 修復
+修復安裝器在系統未滿足要求時未中斷的問題
+修復重新安裝時舊的安於路徑未保持的問題
+修復界面語言根據區域格式未正確設置的問題
+修復IPC通信時因新舊版本變更引起的異常崩潰的問題
+修正代碼編碼格式
+修復清空舊log文件
+修復控制面板卸載界面中的圖標顯示問題
+修復style/hover_type爲&amp;quot;semi_hilite&amp;quot;在首候選時的顯示異常問題
+修復新版librime產物未能直接替換使用問題
+禁用IPC通信的異步機制，修復一些因異步機制引發的應用異常
+修復構建腳本不能重生成正確的版本信息問題
+修復一些vs工程配置設置，處理一些deprecated API警告&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/50d3361f8b7d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/50d3361f8b7d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜狗拼音输入法PC版 v14.9.0.9952v2 绿色精简版</title>
+        <link>https://www.danlong360.com/post/8770/</link>
+        <pubDate>Sun, 29 Sep 2024 22:28:36 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8770/</guid>
+        <description>&lt;p&gt;搜狗输入法电脑版是装机必备软件,其打字准,词库全,功能强大,使得输入更高效.搜狗拼音输入法最新版,AI打字准确高效.搜狗输入法去广告绿色精简版,移除广告程序精简优化后的用着还不错,至少比官方版用着安心些.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/29/9vUx2Omwzgu18FK.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240929222855889&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;升级日志 - 搜狗输入法
+&lt;a class=&#34;link&#34; href=&#34;https://pinyin.sogou.com/changelog.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pinyin.sogou.com/changelog.php&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;By: BEIKING
+– 试图打造不联网的搜狗拼音输入法精简版；
+– 修改 SogouPY.ime 和 SogouPY64.ime 去损坏弹窗；
+– 用 0 填充 SGTool.exe 中的 sogou.com 试图阻止联网；
+– 精简 Resource.dll 资源库文件
+– 皮肤和词库放入压缩包内对应文件夹也能自动安装；
+– 细胞词库正常，你下载的 scel 先放到 Scd 文件夹会自动导入；
+– 默认将属性设置、输入法管理器和符号大全快捷方式创建到根目录；
+(需通过快捷方式，才能打开“属性设置”、“输入法管理器”、“符号大全”等窗口)
+√ 免安装批处理精简绿化，仅保留核心功能！
+√ 替换默认皮肤为：简约五彩键盘；
+(修改默认皮肤：_Green\SogouPY\env.ini，ActiveSkinName=简约五彩键盘)
+√ 去联网、去弹窗、去调用，精简了所有的额外功能组件；
+√ 不支持：云计算候选、账户登陆、词库同步，已全部阉割；
+√ 支持安装皮肤和词库、保留符号大全、提供各类本地词库；
+静默安装版安装路径：C:\Program Files\搜狗拼音&lt;/p&gt;
+&lt;p&gt;2024.09.28
+跟进 BEIKING 去广告版 14.9.0.9952 (14.9a) v2
+1）更新版本：v14.9a(9952) v2
+修复之前版本在 %ProgramFiles% 目录，无法打开“更多设置”工具。
+2）提供外置包，可自由选择恢复：账户登录、词库同步、截图工具、语音输入、跨屏输入、手写输入、图片表情&lt;/p&gt;
+&lt;h3 id=&#34;版本区别&#34;&gt;版本区别
+&lt;/h3&gt;&lt;p&gt;① exe单文件，没带词库文件，双击选择路径安装 (自动安装参数: -ai)，输入法配置保存在系统默认路径，在开始菜单创建快捷方式，SGTool.exe 允许常驻进程，响应快捷键可通过 Ctrl+Shift+Z 调出符号大全；
+② 7z 压缩包，带词库文件，需解压通过脚本安装，输入法配置保存在当前文件夹，在当前文件夹创建快捷方式，SGTool.exe 不允许常驻进程，不响应快捷键；&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2ae592d50ad0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2ae592d50ad0&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜狗五笔输入法PC版 v15.5.0.2585 绿色精简 &amp; 完全版</title>
+        <link>https://www.danlong360.com/post/9377/</link>
+        <pubDate>Sun, 29 Sep 2024 22:27:13 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/9377/</guid>
+        <description>&lt;p&gt;搜狗五笔输入法官网下载,搜狗五笔输入法具有免费、无广告、兼容性好等优点,支持86版、98版、新世纪版五笔方案;搜狗五笔输入法支持五笔拼音混合输入、词库同步,兼容搜狗拼音的细胞词库和皮肤,适合五笔用户使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/29/nKsxGF4VSZ2jeEo.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240929222730722&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持五笔输入法的基本输入原理，用户可以根据五笔编码来输入中文字符。
+支持更多的繁体字和缩短词，提升用户的输入效率。
+支持个性化设置，用户可以根据自己的习惯和需求进行调整。
+支持词库管理功能，用户可以自定义词库和词组，提升输入准确性。
+支持皮肤更换功能，用户可以根据自己的喜好更改输入法的外观样式。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：搜狗五笔输入法界面简洁清晰，操作方便，用户可以快速上手。
+输入准确：搜狗五笔输入法提供了丰富的词库和缩短词支持，用户输入准确率高。
+快速输入：搜狗五笔输入法支持五笔编码，用户可以快速输入中文字符，提高输入速度。
+个性化设置：搜狗五笔输入法支持个性化设置，用户可以根据自己的需求进行调整，提升使用体验。
+多功能性：搜狗五笔输入法除了基本的输入功能外，还支持词库管理和皮肤更换等功能，提供更多选择和便利性。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;这次更新主要是新增了一个 LiteLoaderQQNT 的安装器，适配了相关更新，支持 QQNT 9.9.15.28060 及以上版本
+并且添加了一个能够更新 LiteLoaderQQNT 本体和插件的功能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2ae592d50ad0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2ae592d50ad0&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Biniware Run(应用快速启动工具) v7.0.3.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/4249/</link>
+        <pubDate>Sun, 29 Sep 2024 22:14:19 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4249/</guid>
+        <description>&lt;p&gt;Biniware Run 是一款免费的快速启动程序，它可以帮助您快速启动您的常用应用程序、文件、文件夹和网站&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/29/Xrgi9AUvELbQFKJ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240929221441132&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1.快速启动：Biniware Run 可以帮助您快速启动您的常用应用程序、文件、文件夹和网站。
+2.多种启动方式：Biniware Run 支持多种启动方式，包括快捷键、鼠标手势、系统托盘图标等。
+3.可自定义：Biniware Run 可以根据您的需要进行自定义设置，包括自定义快捷键、自定义启动菜单等。
+4.支持插件：Biniware Run 支持插件，您可以通过安装插件来扩展其功能。
+5.界面美观：Biniware Run 的界面简洁美观，易于使用。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.免费：Biniware Run 是一款完全免费的软件。
+2.轻量级：Biniware Run 是一款轻量级的软件，它不会占用太多的系统资源。
+3.易于使用：Biniware Run 的操作简单易懂，即使是初学者也能够轻松使用。
+4.支持多语言：Biniware Run 支持多种语言，包括英语、法语、德语、西班牙语、意大利语、葡萄牙语、俄语等。
+5.安全可靠：Biniware Run 是一款安全可靠的软件，它不会包含任何恶意代码或广告。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6c04ef3dee01&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6c04ef3dee01&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AOMEI Partition Assistant(磁盘分区助手) v10.5.0 多语便携版</title>
+        <link>https://www.danlong360.com/post/7949/</link>
+        <pubDate>Sun, 29 Sep 2024 22:12:39 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/7949/</guid>
+        <description>&lt;p&gt;AOMEI Partition Assistant是一款易用、安全、稳定的磁盘管理软件，可以帮助用户管理磁盘分区、磁盘空间更方便、安全，以解决硬盘空间不足的问题。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/29/HtczhGVbypTEYMw.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240929221257741&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;分区管理：支持创建、删除、缩减、扩展、格式化等分区操作，可以有效解决磁盘空间不足的问题&lt;/li&gt;
+&lt;li&gt;转换磁盘类型：支持在MBR和GPT之间转换，可以帮助用户更换新硬盘&lt;/li&gt;
+&lt;li&gt;内存条分区：支持从内存条分区磁盘，提高硬盘的传输速度&lt;/li&gt;
+&lt;li&gt;拷贝磁盘：可以快速拷贝整个磁盘，或将一个磁盘拷贝至另一个磁盘&lt;/li&gt;
+&lt;li&gt;支持多类型硬盘：使用此软件可以支持IDE、SATA、SCSI、USB硬盘等多种硬盘类型&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;1.解锁便携式运行，集成注册码，禁止联网验证和检查升级
+2.禁止WinPE系统环境下每次启动强制刷新桌面分辨率行为
+3.转换繁体中文为简体中文，参照官方中文语言更新补充完整汉化
+4.单文件精简版保留功能：磁盘测速、磁盘整理、Win11检查工具
+5.单文件PE版集成运行库类文件，智能判断系统环境是否为WinPE
+﹂如果非WinPE系统，32位精简版直接启动主程序，64位PE版则给出提示
+├—这样的判断逻辑启动方式，可以解决PE版的启动器破坏系统运行库问题
+﹂如果是WinPE系统，32位精简版和64位PE版，则通过PE版内启动器启动
+├—启动器会自动释放运行库依赖文件到PE系统，避免在某些PE上无法启动
+PAssist_Tech_CN_Full.7z（适用32位/64位物理系统）
+PAssist_Tech_CN_Lite.exe（适用32位/64位物理系统+32位WinPE)
+PAssist_Tech_CN_64PE.exe（分区助手PE64位版仅适用64位WinPE)&lt;/p&gt;
+&lt;p&gt;注意！！！
+便携式版本引导加载程序路径（PartAssistTechPortable.exe）不应包含空格，
+不超过102个字符。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f27276bbf715&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f27276bbf715&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Glarysoft Malware Hunter(恶意软件猎人) v1.190.0.818 多语便携版</title>
+        <link>https://www.danlong360.com/post/3448/</link>
+        <pubDate>Sun, 29 Sep 2024 22:10:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/3448/</guid>
+        <description>&lt;p&gt;Glarysoft Malware Hunter 是一款专业的安全工具，旨在帮助用户检测和删除各种恶意软件和间谍软件。它可以扫描和删除计算机上的病毒、木马、广告软件和其他安全威胁。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/29/av2HIEAKmnBjYWr.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240929221100271&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;病毒扫描：Malware Hunter可以快速而全面地扫描计算机，以查找潜在的恶意软件和病毒。
+实时保护：软件提供实时保护功能，可以阻止恶意软件的入侵和安装。
+USB驱动器保护：Malware Hunter可以扫描和保护连接到计算机的USB驱动器，以防止病毒通过USB传播。
+安全浏览器：该软件具有一个安全浏览器，可以保护您的在线隐私和阻止恶意网站。
+文件清理：Malware Hunter可以扫描并清理计算机上的垃圾文件和临时文件，以释放磁盘空间和提高系统性能。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：Malware Hunter拥有用户友好的界面，并且操作简单，即使没有专业知识的用户也能够轻松使用。
+快速扫描：软件可以快速扫描计算机，以便用户可以在最短的时间内获得完整的系统安全状态报告。
+云安全技术：Malware Hunter使用云端安全技术，可以及时获取最新的恶意软件和病毒数据库，提供更有效的保护。
+多重扫描引擎：软件采用多重扫描引擎，可以提高病毒检测率，并减少误报。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f6cf47ad11f5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f6cf47ad11f5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Glary Utilities(系统优化工具) Pro v6.16.0.20 多语便携版</title>
+        <link>https://www.danlong360.com/post/8299/</link>
+        <pubDate>Sun, 29 Sep 2024 22:08:54 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8299/</guid>
+        <description>&lt;p&gt;Glary Utilities是一款功能强大的系统优化工具软件，旨在帮助用户清理计算机垃圾文件、修复系统错误、优化系统性能等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/29/luyetNUf1InoSkJ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240929220912657&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;清理和修复：可以清理系统垃圾文件、无效注册表项、无效快捷方式等，修复系统错误和蓝屏问题。
+优化和加速：提供一键优化功能，可优化系统启动速度、内存管理、CPU性能等。
+隐私和安全：可以删除浏览器历史记录、隐私文件、保密文件等，保护用户的隐私安全。
+文件和磁盘管理：提供查找和删除重复文件的功能，可管理磁盘空间和文件系统。
+系统工具：提供系统备份和还原、文件恢复、软件卸载等实用工具。
+扩展工具：支持扩展工具的安装，如文件解压缩、驱动管理等。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：用户界面直观友好，操作简单快捷。
+多功能：提供了多种系统优化和修复功能，满足用户不同需求。
+高效快速：通过一键优化和批量处理等功能，提供快速高效的系统优化体验。
+安全可靠：对用户隐私和系统安全有一定的保护机制。
+全面兼容：支持所有Windows操作系统，并适用于32位和64位系统。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/017c013bbeb3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/017c013bbeb3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>游戏常用运行库合集 Game Runtime Libraries Package v4.0.24.0928</title>
         <link>https://www.danlong360.com/post/youxichangyongyunxingkuheji0928/</link>
         <pubDate>Sat, 28 Sep 2024 23:53:42 +0800</pubDate>
