@@ -7,7 +7,36 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 29 Sep 2024 22:06:34 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 30 Sep 2024 23:06:39 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>微软Edge配置百科 v2.1.129.0.2792.52 中文绿色版</title>
+        <link>https://www.danlong360.com/post/5351/</link>
+        <pubDate>Mon, 30 Sep 2024 23:06:39 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/5351/</guid>
+        <description>&lt;p&gt;微软的Edge 浏览器功能越来越多，但用不上的烦人功能也越来越多，比如侧边栏还有右上角那个必应按扭等等，这款工具几乎涵盖了最新版Edge所有可配置的项，设置频率较高的放在快捷菜单里直接用了，省得找来找去，看了下一些高级设置项大多需要有经验者才能设置，而且用的频率也不高限于时间暂时没做上去了（可以看到），另外加了个重启功能，方便设置完后重启生效。
+最新发布的v1.9 新版已支持 124.0.2478.51 版Edge的新增配置，对整体性能作了更多优化。支持配置导入导出和初始化操作，导出的配置既可以作为备份使用，也可以作为配置模板进行跨计算机批量应用，加入的新建初始化功能可以让你在配置不当的时候恢复出厂设置，现在你可以多次尝试各种配置，发现不满意就初始化从头再来吧。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/30/uIQJqLnVCTSWAsx.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240930230658697&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;EdgeTools 2.1
+1、支持 129.0.2792.52 版Edge的新增配置。
+2、优化更新检测功能（感谢时刻网提供服务器资助），第一时间下载官方新版。
+3、部分性能的优化。
+4、更多的常用快捷设置项欢迎大家踊跃推荐，将根据推荐情况在下个版本添加！！&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6671082bd548&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6671082bd548&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>傲游浏览器(双核引擎网页浏览器) v7.2.2.5000 官方绿色版</title>
         <link>https://www.danlong360.com/post/2831/</link>
         <pubDate>Sun, 29 Sep 2024 22:06:34 +0800</pubDate>

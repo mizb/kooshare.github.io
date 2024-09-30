@@ -7,7 +7,115 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 27 Sep 2024 17:17:16 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 30 Sep 2024 23:42:49 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MPV-EASY Player(多媒体播放器) v0.39.0.1 中文绿色版</title>
+        <link>https://www.danlong360.com/post/1735/</link>
+        <pubDate>Mon, 30 Sep 2024 23:42:49 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/1735/</guid>
+        <description>&lt;p&gt;MPV-EASY Player是一款开源的跨平台多媒体播放器。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/30/2ciKVLpeOS5zItq.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240930234309163&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种视频、音频文件格式：MPV-EASY Player 可以播放几乎所有流行的多媒体文件格式，包括AVI、MP4、MKV、MPEG、FLV等。&lt;/li&gt;
+&lt;li&gt;快速轻便： MPV-EASY Player 采用了MPV作为内核播放器，对于PC配置一般的用户来说，无需安装繁重的解码器即可流畅播放高清视频文件。&lt;/li&gt;
+&lt;li&gt;支持字幕：可以识别并自动加入视频中的字幕文件或手动添加字幕文件。&lt;/li&gt;
+&lt;li&gt;多种调整选项：利用 MPV（MPlayer的衍生版本）强大的图像和音频处理功能，可以通过自定义调整视频的饱和度、对比度、亮度等属性。&lt;/li&gt;
+&lt;li&gt;多种播放模式：支持常规播放、循环播放、随机播放等模式，同时还有实时快捷键操作，使用起来非常灵活方便。&lt;/li&gt;
+&lt;li&gt;跨平台支持：MPV-EASY Player可以在Windows、Linux和macOS等多个平台上运行，完全免费，无广告，无插件，非常值得尝试。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;修复了单实例模式下，首次运行时由于执行了没有必要的cmd命令，导致有些杀毒软件每次都检测cmd命令的执行，使得每次启动速度变慢的问题。
+改进了代码，避免有一段很长的代码被重复执行2次的问题，从而减少启动时间。
+修改了rjno1.conf中和osd背景样式有关的设置，从而解决在最新版mpv中osd背景消失的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/2570bc67924d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/2570bc67924d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>JRiver Media Center(媒体管理软件) v33.0.27 多语便携版</title>
+        <link>https://www.danlong360.com/post/9071/</link>
+        <pubDate>Mon, 30 Sep 2024 23:35:33 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/9071/</guid>
+        <description>&lt;p&gt;JRiver Media Center是一款全能的多媒体播放器，可以播放音乐、视频、图片、电视等多种媒体文件。同时它还具备完善的管理和组织功能，能够帮助用户将多种类型的媒体文件整合到一个软件中进行统一管理。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/30/F2v6utsyQHWfpgG.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240930233551517&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1.多媒体播放：JRiver Media Center支持播放多种格式的音乐、视频和图片，可以在一个窗口内同时播放多个文件。
+2.媒体管理：JRiver Media Center有强大的文档管理功能，可以通过扫描硬盘上的媒体文件来自动识别每个文档的类型以及一些相关的演员名字、音乐专辑信息等。
+3.高质量音视频输出：JRiver Media Center支持输出高质量的音频和视频，可以让你的音乐和电影享受更好的体验。
+4.多种实用插件：JRiver Media Center支持数百种实用的插件，例如可以允许你在多个房间内随时切换音频、视频和图像源，允许你用手机对你的音乐和电影进行远程控制等。
+5.自定义皮肤：JRiver Media Center允许用户使用自定义或者第三方皮肤来美化软件界面，提高个性化体验。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.全能多媒体播放器：JRiver Media Center支持播放多种格式的音乐、视频和图片，支持绝大多数媒体文件扩展名。
+2.便捷灵活的媒体管理：能够有效地管理和维护用户的多种媒体文件，并且可以快速查找目录。
+3.高质量输出：软件支持输出高质量的音频和视频，比如DVD、Blu-Ray、HDMI和网络连接等的输出。
+4.多平台支持：JRiver Media Center支持多平台的音视频播放，不管你是在Windows、Mac OS X、Linux或者Android上使用，他都有版本支持。
+5.多功能接口：JRiver Media Center可以通过外部接口与其他设备进行通讯，例如通过DLNA和UPnP来与其他设备共享媒体内容。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/3f9c3a7c5bb2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/3f9c3a7c5bb2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Zoom Player MAX(媒体播放器) v19.5.2.1952 多语便携版</title>
+        <link>https://www.danlong360.com/post/9065/</link>
+        <pubDate>Mon, 30 Sep 2024 23:18:29 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/9065/</guid>
+        <description>&lt;p&gt;Zoom Player MAX 是一款功能强大的多媒体播放器，它由 inmatrix 公司开发，主要针对 Windows 平台。这款播放器的特点在于其高度的灵活性和可定制性，以及对多种媒体格式的支持。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/30/tX3Lly8prDnZYIW.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240930231849997&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高度可定制：用户可以根据自己的需求自定义界面布局、快捷键、颜色主题等。
+多格式支持：支持播放几乎所有流行的音频和视频格式，包括DVD、Blu-ray、FLV、AVI、MP3、MP4等。
+强大的播放控制：支持全屏、窗口、跨屏播放，提供丰富的缓冲区设置和快进、快退等控制选项。
+高质量音频和视频：通过使用专业的音频和视频解码器，提供出色的画质和声音效果。
+多音轨和字幕支持：支持播放带有多个音轨和字幕的视频文件，并可以自定义音轨和字幕的样式和位置。
+多媒体库管理：支持创建和管理个人多媒体库，方便快速查找和播放文件。
+媒体转码和播放列表：支持将媒体文件转换为其他格式，并可以创建和管理播放列表。
+网络流媒体：支持播放来自网络的音频和视频流。&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;高清视频播放：支持高清视频播放，包括1080p和4K分辨率。
+DTS和Dolby解码支持：提供DTS和Dolby解码支持，使用户可以享受沉浸式的音频体验。
+蓝光光盘播放：支持播放蓝光光盘，包括菜单导航和特殊功能，如章节跳转和字幕选择。
+多屏幕播放：支持在多个屏幕上同时播放不同的视频文件，并可以独立控制每个屏幕的播放模式和设置。
+音频增强器：提供各种音频增强选项，如均衡器、音效增强和环绕声效果。
+视频截图和屏幕录制：可以截取视频画面并保存为图片，也可以录制屏幕上的视频内容。
+脚本和插件支持：支持使用自定义脚本和插件扩展软件功能，例如自动下载字幕和自定义播放器皮肤。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6044531d5c14&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6044531d5c14&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>oneAnime 看番工具 v1.3.5 绿色版</title>
         <link>https://www.danlong360.com/post/oneanime135/</link>
         <pubDate>Fri, 27 Sep 2024 17:17:16 +0800</pubDate>
