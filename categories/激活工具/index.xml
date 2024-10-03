@@ -7,7 +7,134 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 30 Sep 2024 23:08:08 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 03 Oct 2024 21:52:37 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>KMS_VL_ALL_AIO中文版(KMS激活工具) v53 汉化绿色版</title>
+        <link>https://www.danlong360.com/post/4691/</link>
+        <pubDate>Thu, 03 Oct 2024 21:52:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4691/</guid>
+        <description>&lt;p&gt;KMS_VL_ALL_AIO中文版(kms激活工具)是一个开源的全能批处理激活脚本,支持所有Windows,Office产品激活.激活方式包括:KMS模式KMS38激活至2038年,在线KMS激活180天,激活不覆盖产品的永久激活,支持自动续期激活,Office零售版转换批量版,Office C2R的许可自动转换等,AIO是传统版的升级版,绿色便携不报毒.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/03/Q3vKWMulC1OobDw.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241003215257435&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;KMS_VL_ALL_AIO项目地址：
+&lt;a class=&#34;link&#34; href=&#34;https://forums.mydigitallife.net/posts/838808/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://forums.mydigitallife.net/posts/838808/&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/abbodi1406/KMS_VL_ALL_AIO&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/abbodi1406/KMS_VL_ALL_AIO&lt;/a&gt;
+支持的产品：
+﹂Windows 7、Windows 8 / 8.1、Windows 10 / Windows 11
+﹂Windows 8 / Windows 10 / 11 企业G版(支持ARM64架构版)
+﹂Windows Server 2008 R2 / 2012 R2 / 2016 / 2019 / 2021 / 2022
+﹂Microsoft Office 2010 / 2013 / 2016 / 2019 / 2021 零售版或批量版
+不支持的产品：
+﹂Microsoft Office UWP (Windows 10/11应用程序)
+﹂Office 2010/2013 零售版、Office 2010 C2R 零售版
+不支持KMS激活的以下Windows版本：Windows 评估版
+﹂Windows 7(Starter, HomeBasic, HomePremium, Ultimate)
+﹂Windows 10(IoTEnterprise, IoTEnterpriseS, ProfessionalSingleLanguage…)
+﹂Windows Server 2016-2022(Server Foundation, Storage Server, Home Server)
+2023.09.08 ＃KMS_VL_ALL V50
+- 修复了Office 2016 C2R 零售版的转换逻辑
+以前第一次运行检测到Office 2019许可证/位置即使成功也会提示转换失败错误
+- 添加了支持激活Windows 10 IoT Enterprise LTSC 2021（LCU 19044.2788）
+- 更新 CleanOffice.ps1
+-Acrivate.cmd：改进网络共享路径检测（仅对手动激活模式有效）&lt;/p&gt;
+&lt;h3 id=&#34;运行命令&#34;&gt;运行命令
+&lt;/h3&gt;&lt;p&gt;/s 静默运行
+/a 自动续期
+/m 手动模式
+/d 调试模式
+/o 激活Office
+/w 激活Windows
+/e pseudo.kms.server 指定KMS服务器
+/r 卸载移除所有KMS激活方式及续期计划
+/c 关闭Office C2R-R2V零售版转换批量版
+/x 默认不跳过Windows 10/11 KMS38激活
+• 无人值守静默运行命令示例：
+KMS_VL_ALL_AIO.cmd /s /w /x(激活系统)&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f9cf81a8023d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f9cf81a8023d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>KMS Server Service(激活Windows和Office) v2.1.2 绿色版</title>
+        <link>https://www.danlong360.com/post/6120/</link>
+        <pubDate>Thu, 03 Oct 2024 21:19:15 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6120/</guid>
+        <description>&lt;p&gt;KMS Server Service是一款用于激活Windows操作系统和Office办公软件的工具，它基于Key Management Service（KMS）技术，可以帮助用户轻松激活他们的软件产品。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/03/ztnIJxrZX3aHKgP.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241003211936519&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持Windows操作系统和Office办公软件的激活。
+提供简单易用的界面，让用户可以轻松完成激活操作。
+可以帮助用户解决激活过程中遇到的各种问题。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;稳定可靠：KMS Server Service基于KMS技术，可以稳定可靠地激活用户的软件产品。
+免费使用：用户可以免费使用KMS Server Service来激活他们的软件产品，无需额外支付费用。
+简便操作：软件提供简单易用的界面，让用户可以轻松完成激活操作，无需复杂的设置步骤。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d4d482971925&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d4d482971925&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>DragonKMS(原MicroKMS) v24.10.01 中文绿色版</title>
+        <link>https://www.danlong360.com/post/9479/</link>
+        <pubDate>Thu, 03 Oct 2024 20:52:20 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/9479/</guid>
+        <description>&lt;p&gt;DragonKMS 是一款方便易用的 Windows 激活工具，它可以快速激活您的 Windows 系统，同时也可以激活 Microsoft Office 等软件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/03/tKV9l75QMNWTuiS.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241003205238031&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持 Windows 10 / 8.1 / 8 / 7 / Vista / Server 2008 / Server 2012 等系统的激活；&lt;/li&gt;
+&lt;li&gt;支持 Office 2019 / 2016 / 2013 / 2010 的激活；&lt;/li&gt;
+&lt;li&gt;支持 KMS 和 MAK 两种激活方式；&lt;/li&gt;
+&lt;li&gt;自动激活，无需手动操作；&lt;/li&gt;
+&lt;li&gt;支持多国语言版本。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简洁，操作简单，易于使用；&lt;/li&gt;
+&lt;li&gt;激活成功率高，稳定可靠；&lt;/li&gt;
+&lt;li&gt;支持离线激活，无需联网；&lt;/li&gt;
+&lt;li&gt;支持永久激活，无需重复操作；&lt;/li&gt;
+&lt;li&gt;支持在线更新激活文件，保证激活状态可靠。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/38f59db4e356&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/38f59db4e356&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>KMS Server Service(激活Windows和Office) v2.1.1 绿色版</title>
         <link>https://www.danlong360.com/post/7700/</link>
         <pubDate>Mon, 30 Sep 2024 23:08:08 +0800</pubDate>
