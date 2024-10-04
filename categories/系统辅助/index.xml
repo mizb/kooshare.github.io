@@ -7,7 +7,386 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 03 Oct 2024 22:28:29 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 04 Oct 2024 22:42:06 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>小狼毫输入法(中州韵输入法引擎) v0.16.3</title>
+        <link>https://www.danlong360.com/post/195/</link>
+        <pubDate>Fri, 04 Oct 2024 22:42:06 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/195/</guid>
+        <description>&lt;p&gt;小狼毫是一款自由、开放源代码的中文输入法，其最大的特点是优秀的多音字和笔画输入识别能力。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/04/O8ckTKNpnWYFVUC.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241004224233242&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持全拼、双拼、五笔等多种输入法；&lt;/li&gt;
+&lt;li&gt;支持模糊音、多音字、繁简体转换等输入；&lt;/li&gt;
+&lt;li&gt;支持自定义词库、快捷键等功能；&lt;/li&gt;
+&lt;li&gt;支持多语言输入；&lt;/li&gt;
+&lt;li&gt;支持云输入（需要联网）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;小巧轻便，占用资源少；&lt;/li&gt;
+&lt;li&gt;界面简洁，易于操作；&lt;/li&gt;
+&lt;li&gt;词库丰富，支持常用词汇；&lt;/li&gt;
+&lt;li&gt;词语智能匹配，输入效率高；&lt;/li&gt;
+&lt;li&gt;支持多语言输入，满足不同需求；&lt;/li&gt;
+&lt;li&gt;开源自由，可自由定制、修改。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新内容&#34;&gt;更新内容
+&lt;/h3&gt;&lt;p&gt;0.16.2 (2024-09-28)
+主要更新
+新特性：支持自動檢查更新使用測試通道，使用WeaselSetup.exe參數可修改，/testing使用測試通道，/release使用發佈版本，默認後者；
+新特性：WeaselSetup.exe參數設置界面語言，设置后覆盖区域设置的自动检测。/lt設置爲繁體中文界面，/ls 設置爲簡體中文界面，/le設置爲英文界面
+新特性：WeaselSetup.exe參數設置是否使用自動檢查更新，/du禁用自動檢查更新，/eu使用自動檢查更新
+新特性：安裝器彈窗提示設置是否自動檢查升級
+新特性：開關IME消息響應狀態可配置，WeaselSetup.exe參數/toggleime設置關閉鍵盤（原版本狀態），/toggleascii切換ascii_mode,安裝默認後者 #1364
+新特性：支持xmake 2.9.4以上版本構建，使用xbuild.bat開展，相關參數基本同build.bat, 使用xbuild.bat commands可生成compile_commands.json便於lsp使用，xbuild.bat clean可清空xmake構建 #1360
+新特性：支持Caps_Lock 按鍵binding（如選重）,需将key_binder置于ascii_composer之前
+使能TSF dll中的WER
+nightly 構建後自動更新rime/home頁面更新測試通道appcast
+升級lint檢查使用的llvm最低版本至18.1.6, 更新ci脚本检查更新llvm
+Bug 修復
+修復安裝器在系統未滿足要求時未中斷的問題
+修復重新安裝時舊的安於路徑未保持的問題
+修復界面語言根據區域格式未正確設置的問題
+修復IPC通信時因新舊版本變更引起的異常崩潰的問題
+修正代碼編碼格式
+修復清空舊log文件
+修復控制面板卸載界面中的圖標顯示問題
+修復style/hover_type爲&amp;quot;semi_hilite&amp;quot;在首候選時的顯示異常問題
+修復新版librime產物未能直接替換使用問題
+禁用IPC通信的異步機制，修復一些因異步機制引發的應用異常
+修復構建腳本不能重生成正確的版本信息問題
+修復一些vs工程配置設置，處理一些deprecated API警告&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/539d9b247baa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/539d9b247baa&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows11轻松设置(Win11一键优化) v1.10 中文绿色版</title>
+        <link>https://www.danlong360.com/post/635/</link>
+        <pubDate>Fri, 04 Oct 2024 22:38:40 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/635/</guid>
+        <description>&lt;p&gt;Windows11轻松设置软件是一款专门为Windows 11系统设计的工具软件，具有多种特色功能和亮点。通过界面简洁、个性化定制、一键优化等功能，可以帮助用户更加便捷地进行系统设置和管理。同时，该软件的多种主题、系统优化、智能提示等特点也受到用户的欢迎。总之，Windows 11 轻松设置软件是一款非常实用的工具软件，可以提高用户的工作效率和使用体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/04/qQkHRyxwZr9POKp.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241004223901394&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;一键禁用/恢复
+WD状态实时监测显示
+系统信息
+提供基本的软硬件信息。
+其他设置
+目前对文件资源管理器/任务栏可设置。
+快速打开常用系统功能。
+清除系统图标缓存。&lt;/p&gt;
+&lt;h3 id=&#34;高级设置&#34;&gt;高级设置
+&lt;/h3&gt;&lt;p&gt;Meltdown与Spectre保护开关。
+内存完整开关。
+WDAC开关（智能应用程序控制）。
+基于虚拟化的安全。
+开关BBR2。
+开关DEP。
+开关UAC。&lt;/p&gt;
+&lt;h3 id=&#34;特别说明&#34;&gt;特别说明
+&lt;/h3&gt;&lt;p&gt;软件各设置都基于您有一定的Windows11系统基础认识，某些设置会降低系统安全性，请自行承担风险。比如禁用WD后建议自行安装其他杀毒软件。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;V1.10 Beta
+（2024年10月3日）：
+1、修复了当常用软件存在版本号不规则时出错的问题。&lt;/p&gt;
+&lt;p&gt;注意：
+近期有用户反馈禁用WD后系统运行缓慢，请检查自己电脑上是否安装有360安全卫士、杀毒之类的东西，请将它们卸载！&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0fdb4375be99&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0fdb4375be99&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>GIMP(免费开源跨平台的图像编辑器) v2.10.38.1</title>
+        <link>https://www.danlong360.com/post/273/</link>
+        <pubDate>Fri, 04 Oct 2024 22:28:38 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/273/</guid>
+        <description>&lt;p&gt;GIMP是一款跨平台的图像处理软件，支持Windows、macOS和Linux操作系统。GIMP的功能很强大，支持多种图像格式，如JPEG、PNG、GIF、TIFF等。它可以用于照片修复、图像合成、图像编辑、图像转换等多种用途。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/04/u6WspAFRykiBCUm.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241004222859109&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;图像编辑：可以对图像进行剪裁、缩放、旋转、调整亮度、对比度、饱和度等。&lt;/li&gt;
+&lt;li&gt;图像合成：可以将多个图像合成为一个图像，支持多层合成。&lt;/li&gt;
+&lt;li&gt;色彩管理：可以对图像的色彩进行管理，包括色彩模式、色彩曲线、色彩平衡等。&lt;/li&gt;
+&lt;li&gt;图像滤镜：GIMP有很多内置的图像滤镜，比如模糊、锐化、浮雕、柔化等。&lt;/li&gt;
+&lt;li&gt;批处理：可以对多张图片进行批量处理，比如调整尺寸、改变格式等。&lt;/li&gt;
+&lt;li&gt;插件支持：GIMP支持插件，可以通过插件扩展GIMP的功能。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;免费开源：GIMP是一款免费开源的软件，用户可以自由使用、修改和分发软件。&lt;/li&gt;
+&lt;li&gt;跨平台：GIMP支持多种操作系统，可以在Windows、macOS和Linux上运行。&lt;/li&gt;
+&lt;li&gt;多种文件格式支持：GIMP支持多种图像格式，包括JPEG、PNG、GIF、TIFF等。&lt;/li&gt;
+&lt;li&gt;多层支持：GIMP支持多层合成，可以对每个图层进行独立的编辑和处理。&lt;/li&gt;
+&lt;li&gt;插件支持：GIMP支持插件，可以通过插件扩展GIMP的功能。&lt;/li&gt;
+&lt;li&gt;自由度高：GIMP注重自由和开放的理念，用户可以自由修改和定制软件。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/419ade6c2352&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/419ade6c2352&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>WinCatalog(文件索引工具) v2024.8.1.1002 多语便携版</title>
+        <link>https://www.danlong360.com/post/159/</link>
+        <pubDate>Fri, 04 Oct 2024 22:20:03 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/159/</guid>
+        <description>&lt;p&gt;WinCatalog是一款用于管理和索引电脑中文件和文件夹的软件。它可以将所有文件和文件夹信息存储在一个目录数据库中，使用户能够快速定位和访问他们需要的文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/04/9inEboC1WymVaYD.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241004222022609&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文件索引：将电脑中的所有文件和文件夹信息索引存储到一个目录数据库中。
+快速搜索：可以通过文件名、文件夹路径、文件大小、修改日期等关键词进行快速搜索，以便用户找到需要的文件。
+文件夹管理：可以浏览电脑上的文件夹结构，查看文件夹中的文件和子文件夹。
+自动索引：可以设置定期自动索引电脑中的文件和文件夹，保持数据库信息的最新状态。
+文件预览：可以在软件中预览一些常见文件格式，如文本文档、图像、音频和视频文件。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;快速和高效：通过索引技术，可以在大量文件中快速搜索并找到需要的文件。
+用户友好界面：软件界面简洁直观，易于使用和导航。
+多种搜索选项：支持多种搜索选项和过滤条件，可以根据自己的需求进行搜索。
+多种预览模式：可以以缩略图、列表或详细信息的形式查看文件和文件夹。
+多种导出选项：可以将文件和文件夹信息导出为Excel、HTML、CSV等格式，方便用户进行备份和共享。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/265ba9e230de&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/265ba9e230de&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VueScan(扫描仪增强软件) Pro v9.8.37 多语便携版</title>
+        <link>https://www.danlong360.com/post/690/</link>
+        <pubDate>Fri, 04 Oct 2024 22:18:39 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/690/</guid>
+        <description>&lt;p&gt;VueScan是一款功能强大的扫描仪软件，可用于扫描、拍摄和打印高质量的图片和文档。它支持大量的扫描仪品牌和型号，包括HP、Canon、Epson、Nikon、Brother等，而且可以在Windows、Mac OS X和Linux等各种操作系统上运行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/04/cdfoXF7ENDVbjlp.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241004221859883&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种扫描仪型号，包括扫描仪、相机和文件夹。&lt;/li&gt;
+&lt;li&gt;支持多种文件格式，包括JPEG、TIFF、PDF和RAW格式。&lt;/li&gt;
+&lt;li&gt;可以进行自动校正、色彩校正和曝光校正等操作，以获得最佳的扫描效果。&lt;/li&gt;
+&lt;li&gt;支持扫描多页文档并将其保存为单个PDF文件。&lt;/li&gt;
+&lt;li&gt;可以进行扫描预览、裁剪和旋转等常见操作。&lt;/li&gt;
+&lt;li&gt;支持OCR（光学字符识别）功能，可以将扫描的文本转换为可编辑的文本格式。&lt;/li&gt;
+&lt;li&gt;可以进行高级图像处理，包括去除噪点、调整色彩和对比度等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简单直观，易于操作。&lt;/li&gt;
+&lt;li&gt;支持多种语言，包括英语、法语、德语、意大利语、西班牙语等。&lt;/li&gt;
+&lt;li&gt;更新频繁，可以及时支持最新的扫描仪型号和操作系统。&lt;/li&gt;
+&lt;li&gt;支持扫描多种类型的文档，包括照片、书籍、报纸和信件等。&lt;/li&gt;
+&lt;li&gt;可以进行批量扫描和批量处理，提高工作效率。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;总之，VueScan是一款功能强大、易于使用的扫描仪软件，适用于个人和企业用户。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;vuescan pro中文破解版,vuescan pro免激活绿色便携版
+- 免激活，破解注册，去更新提示，32位和64位自动识别&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0856efc3a14e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0856efc3a14e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>StartAllBack(Win11开始菜单增强工具) v3.8.10.5176 Beta 破解版</title>
+        <link>https://www.danlong360.com/post/8/</link>
+        <pubDate>Fri, 04 Oct 2024 22:07:55 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8/</guid>
+        <description>&lt;p&gt;StartAllBack中文版(StartIsBack++)是一款Win11开始菜单增强工具,可以为Windows11恢复经典样式的Windows7主题风格开始菜单和任务栏,功能包括了:自定义开始菜单样式和操作,个性化任务栏及资源管理器等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/04/yU5CG3mXReBWEVv.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241004220815550&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;StartAllBack for Windows 11 - StartIsBack+ - MSFN
+&lt;a class=&#34;link&#34; href=&#34;https://msfn.org/board/topic/183013-startallback-for-windows-11/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://msfn.org/board/topic/183013-startallback-for-windows-11/&lt;/a&gt;
+StartIsBack for Windows 11
+&lt;a class=&#34;link&#34; href=&#34;https://www.startallback.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.startallback.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近更新：
+- 支持 Dev, Beta 最新预览版;全新经典资源管理器样式界面
+- 支持 Win11 22H2正式版 Windows 11 22H2 Build 22621
+- 资源管理器功能区, 命令栏, 其他元素现代化改造和重新设计&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;√ 破解免激活，无30天试用期，无哭脸表情水印!
+√ 全面更新中文语言翻译，简体中文字串优化对齐
+√ 剥离升级程序，无升级提示弹窗，去关于项检查更新
+√ 采用原版7zSFX自解压形式重新打包，支持静默安装
+静默安装参数：/ai /gm2
+无人值守安装示例：
+StartAllBack_Repack.exe /ai /gm2
+或右键解压后执行：
+StartAllBackCfg.exe /install /elevated /silent&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;StartAllBack 3.8.10.5173 (stable) all changes:
+Option to totally disable task grouping (a la XP)
+Decoupled widgets position from task centering setting (use system centering setting to control widgets)
+Swapped clock time/date on one line
+Removed Win10 input layout switcher as it makes hotkey unreliable
+Fixed new tab instead of help icon/text in Control Panel process
+Fixed WMP thumbnail
+Fixed segments on secondary taskbars not working in some configurations
+Fixed segments drawing tear/blinking
+Fixed acrylic menu in Macrium viBoot&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c8df847a1f8c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c8df847a1f8c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>批量二维码生成器(支持动态背景二维码) v3.0.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/677/</link>
+        <pubDate>Fri, 04 Oct 2024 22:05:16 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/677/</guid>
+        <description>&lt;p&gt;吾爱大佬 jumpbull 编写，可以离线批量生成二维码图片和条形码，支持动态背景二维码。用Python编写，因引用了三种二维码的模块，又采用了压缩存储功能，运行前会进行解压导致启动时间增加。任何信息均可生成二维码，不仅限于链接，比如谜底的答案。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/04/zMKEIvVphd4YnST.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241004220537102&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;可离线快速批量生成二维码、条形码
+提供多种条形码、二维码格式，以适应不同场合
+数据信息可从文本文件读取，按行方式批量生成二维码、条形码
+数据信息还支持从Excel 中读取，分普通和高级两种模式，高级模式适用于多参数的数据信息
+支持标准、中心图标、静太背景二维码和动态背景二维码，还有10种常见的条形码和 DataMatrix 二维码
+可生成 Excel 的日志文件，即二维码报表，可选自动嵌入生成的二维码图（支持动图）
+提供二维码命名规则，可以为自定义表达式、与数据一致，甚至可以从 Excel 中调取数据命名
+可预选多张图片并按不同模式进行选择生成二维码，即可一次性生成不同背景/中心图标的二维码图&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;V3.0.0
+代码全部重写，界面也发生重大变化，功能、布局更加合理，新增加了二维码识别功能
+修正了原版本诸多 BUG 和不合理之处，也增加了不少功能。在界面中都会有命令工具提示，各界面中还加入了帮助信息，相信大家能很快上手。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c895fefa274e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c895fefa274e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>文件名管理工具 v2.0.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/721/</link>
+        <pubDate>Fri, 04 Oct 2024 22:03:54 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/721/</guid>
+        <description>&lt;p&gt;吾爱大佬 jumpbull 编写。名为文件名管理工具而非更名工具，与传统的更名软件有很大区别，同时也有着大部分的更名功能，甚至还提供更多特色的更名方式，可从部分文档中提取数据更名，支持文件名备份及恢复，即使文件已更名后仍根据文件的MD5码精准定位。
+与传统的更名软件有很大区别，同时也有着大部分的更名功能，甚至还提供更多特色的更名方式，可从部分文档中提取数据更名，支持文件名备份及恢复，即使文件已更名后仍根据文件的MD5码精准定位。
+软件同时提供一些特色功能：把文件名插入到文本文件中、根据文件名写入音乐ID3信息，整理下载的视频资源、音乐分类整理等。
+软件提供齐全的更名方式，可应对各种场景的应用，功能分类明确。提供推进更名模式，即可用各种功能进行多次组合后再更名。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/04/mRgUdteBpG4ZTEH.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241004220415597&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;可以从常用的文档中提取数据进行更名，支持的文档有 Word、Excel、文本文件、网页等。
+针对 Word 还能分析标题是否换行，Excel 能标题检索等。
+更名工具常见的功能基本都有，分类明确，所有设置均有提示信息，上手非常容易。
+所有的设定基本都有记忆功能，部分设定还有历史记录供选择，懒人指数高。
+每次更名前均可先预览效果，满意后再进行更名操作。
+设有推进更名模式，即将多种更名方式进行组合使用，一直推进预览到满意后再更名。
+提供更名撤消功能，已更名的文件也可恢复，支持多次撤消，还提供更名记录，可恢复早期的更名操作。
+可以备份文件名，若文件名可能发现变化前备份，事后可直接恢复，根据文件的MD5码、大小、创建时间来定位，精准度较高。
+可批量将文件名插入到文本文件中，还提供简单的文本处理方法，可批量合并文本文件。
+可根据文件提取音乐信息写入ID3，也可批量写入相同的ID3信息，可写入连接的音轨号信息。
+提供视频资源整理工具，方便管理下载的电影连续剧，删除无用文件，规范文件名。
+提供音乐资源分类整理工具，可以将音乐按歌手、专辑、流派等进行分类存放。&lt;/p&gt;
+&lt;h3 id=&#34;功能分类&#34;&gt;功能分类
+&lt;/h3&gt;&lt;p&gt;大家咋一看，会觉得很复杂，好象无从下手，但因个人习惯、工作要求、软件需要等原因，对文件名会有不同的要求，为了满足多种需求，功能较全的更名软件都会有许多设置，这也是没办法的事，但只要把各种功能进行明确地分类，大家只要按需要使用一小部件功能就行了，不需要全部研究透。这个软件更名的分类我归纳如下：
+1、文档：专门针对 word 、excel、文本文件、网页 类文件进行读取内容更名
+2、音乐：专门针对音乐格式文件，主要是提取其 ID3 信息更名
+3、压缩包：针对 ZIP、RAR、Z7 等压缩文件更名，会读取其包含的文件、目录名进行更名
+4、目录：专针对目录的更名，会根据其中的文件名来更名&lt;/p&gt;
+&lt;p&gt;以上4种方式为根据自身情况来更名的，没有什么规律、格式要求，后面的更名方式会有一定的规律、格式要求&lt;/p&gt;
+&lt;p&gt;5、插入：指在原名的基础上增加固定或有规律的文本来更名，较常用的是增加文件名前缀、后缀或者是序号
+6、删除：指在原名的基础上删除固定文本，或按一定规律删除符合要求的文本，常用的是删除固定长度序号、或文件前后缀
+7、替换：替换是比较灵活的更名方式，配合正则可完成很多需求，比如清除广告、删除不固定长度序号，或将关键字替换等
+8、组替换：是替换的升级功能，可以由多次替换来完成更名，比如要在一批文件进行多种文本替换，定义好组后可一次进行更名（当然也可以用多次替换来实现）
+9、转换：是根据原文件名中的内容进行转换，常用的是繁简体、大小写的转换，软件还提供了很转换方式（多总比少好）
+10、格式：根据定义的格式进行更名，其中可以自动读取文件的属性加到名字中，常用的有添加序号（与插入有共同点，但更加灵活）、将原名分段后重组、加入文件尺寸、类型等信息
+11、扩展名：专针对扩展名的修改，不常用，但偶尔也会有需求&lt;/p&gt;
+&lt;p&gt;大家要更名前，先确定属于哪一类，这样用起来就不会觉得复杂了，很多设置在用时就知道要怎么设置了（你的需求越多，设置就会越多，需求不多的一般用默认的就行了）。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;V2.0.0
+不少网友说软件功能太复杂，上手难。V2 版本将一些不常用的功能隐藏，需要用时再展开，保证了界面的简洁、易用。对于已上手的用户，想恢复原来的全功能界面，可以到软件设置切换界面模式。
+对于“插入”、“删除”、“扩展名”这类存在多种操作方式的，也改用了切换面板的方式，保证界面上只显示相关的选项（在文件、图片整理等工具窗口也做了同样的调整），界面有了较大的改善。
+文件、图片、音乐 整理工具中，添加了复制的功能，可实现不改变原资源的情况下实现复制+整理的双重功能。
+修正了原音乐整理工具中，原不能整理除艺术家外的其他方式的功能。
+修改多处不合理设定&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0dc64a227627&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0dc64a227627&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>StartAllBack(Win11开始菜单增强工具) v3.8.10.5175 Beta 破解版</title>
         <link>https://www.danlong360.com/post/5552/</link>
         <pubDate>Thu, 03 Oct 2024 22:28:29 +0800</pubDate>
