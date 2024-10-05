@@ -7,7 +7,107 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 05 Oct 2024 11:42:00 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 05 Oct 2024 23:15:02 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Bilidown(B站视频下载工具) v1.2.1.1005 中文绿色版</title>
+        <link>https://www.danlong360.com/post/427/</link>
+        <pubDate>Sat, 05 Oct 2024 23:15:02 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/427/</guid>
+        <description>&lt;p&gt;一款简洁好用的B站视频下载工具。支持由UP主上传的单集，多集以及相关封面，弹幕，字幕，音乐，刮削等等。支持任意粒度批量组合，登录后最高支持到1080P,大会员可获取所有画质及音质。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/05/vIXlbKtEwzGeCYg.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241005231521097&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h1 id=&#34;详细使用文档地址httpszhouqlvipbilibilidocbilidown-windows-dynamic-folderhtml&#34;&gt;日期变量支持更细的日期粒度（年、月、日）。
+动态文件夹增加变量%upnn-uid%和%uid-upnn%。
+修复了一些已知问题。
+详细使用文档地址：https://zhouql.vip/bilibili/doc/bilidown-windows-dynamic-folder.html
+&lt;/h1&gt;&lt;h1 id=&#34;2024-10-03-0005-补丁优化图标显示效果抗锯齿处理&#34;&gt;2024-10-03 00:05 补丁：优化图标显示效果（抗锯齿处理）。
+&lt;/h1&gt;&lt;p&gt;2024-10-05 22:00 补丁：移除节假日动画效果。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9df4bb8d8e22&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9df4bb8d8e22&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>qBittorrent(免费开源BitTorrent客户端) v5.0.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/373/</link>
+        <pubDate>Sat, 05 Oct 2024 23:12:25 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/373/</guid>
+        <description>&lt;p&gt;qBittorrent是一个免费的开源BitTorrent客户端，可用于下载和分享文件。它是许多用户首选的BitTorrent客户端之一，因为它功能强大且易于使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/05/jdIymf5LcwkvViM.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241005231245161&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;同时下载多个文件：qBittorrent支持同时下载多个文件，用户可以方便地管理和跟踪他们的下载任务。
+定时下载：用户可以设置下载任务在特定时间开始或停止，方便控制下载行为。
+RSS订阅：qBittorrent支持RSS订阅，用户可以订阅自己喜欢的网站或资源，并自动下载更新。
+IP过滤器：用户可以设置IP过滤器来屏蔽特定IP地址或IP范围，提高下载速度和安全性。
+加密传输：qBittorrent支持加密传输，保护用户下载数据的隐私和安全性。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;轻量级：qBittorrent是一个轻量级的BitTorrent客户端，占用系统资源少，运行稳定。
+广泛支持：qBittorrent支持Windows、Mac OS和Linux等操作系统，用户可以轻松在不同平台上使用。
+社区支持：qBittorrent拥有庞大的用户群体和活跃的社区，用户可以获得及时的帮助和支持。
+开源免费：qBittorrent是一个开源免费软件，用户可以自由地下载、使用和修改，没有任何收费。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c82c98ed9b3c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c82c98ed9b3c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Ant Download Manager(ADM下载器) v2.14.1 多语便携版</title>
+        <link>https://www.danlong360.com/post/932/</link>
+        <pubDate>Sat, 05 Oct 2024 22:58:28 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/932/</guid>
+        <description>&lt;p&gt;Ant Download Manager（简称ADM）是一款功能强大的下载管理软件。它提供了高速稳定的下载功能，并且支持多线程下载、批量下载、断点续传等特点。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/05/BQZIyK4gaEtT8Uz.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241005225847602&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;多线程下载：ADM能够同时使用多个线程进行下载，提高下载速度并节省时间。&lt;/li&gt;
+&lt;li&gt;支持多种下载协议：ADM支持HTTP、HTTPS、FTP等多种下载协议，能够下载各种类型的文件。&lt;/li&gt;
+&lt;li&gt;批量下载：ADM支持批量下载功能，可以一次性下载多个文件或整个文件夹，方便快捷。&lt;/li&gt;
+&lt;li&gt;断点续传：ADM能够在下载过程中随时暂停，并能够在下次继续下载时恢复到暂停的位置，避免重新下载已经下载过的部分。&lt;/li&gt;
+&lt;li&gt;视频下载：ADM内置了视频下载功能，能够从视频网站上下载视频文件，支持大多数主流视频网站。&lt;/li&gt;
+&lt;li&gt;内置浏览器：ADM内置了浏览器，方便用户查找和下载文件，无需切换到其他浏览器。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;用户界面友好：ADM的界面简洁明了，易于操作，即使对于新手用户也很容易上手。&lt;/li&gt;
+&lt;li&gt;高速下载：ADM通过多线程下载和优化算法，能够实现更快的下载速度，提高工作效率。&lt;/li&gt;
+&lt;li&gt;随时暂停和恢复下载：ADM能够随时暂停和恢复下载过程，方便用户根据需要管理下载任务。&lt;/li&gt;
+&lt;li&gt;自动提取文件链接：ADM能够自动提取下载链接，并将其添加到下载队列中，减少手动操作的繁琐性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c267e40454bb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c267e40454bb&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Any Video Downloader(视频下载工具) Pro v9.0.9 便携版</title>
         <link>https://www.danlong360.com/post/463/</link>
         <pubDate>Sat, 05 Oct 2024 11:42:00 +0800</pubDate>
