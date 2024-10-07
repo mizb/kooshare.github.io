@@ -7,7 +7,86 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 07 Oct 2024 13:38:48 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 07 Oct 2024 22:48:17 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Tampermonkey v5.3.0 油猴脚本管理器</title>
+        <link>https://www.danlong360.com/post/7208/</link>
+        <pubDate>Mon, 07 Oct 2024 22:48:17 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/7208/</guid>
+        <description>&lt;p&gt;Tampermonkey (油猴) 是一款拥有超过1000万用户的最流行的浏览器扩展之一。它允许用户自定义并增强您最喜爱的网页的功能。适用于 Chrome、Microsoft Edge、Safari、Opera Next、 Firefox 等浏览器。&lt;/p&gt;
+&lt;p&gt;用户脚本是小型 JavaScript 程序，可用于向网页添加新功能或修改现有功能；使用油猴，您可以轻松在任何网站上创建、管理和运行这些用户脚本。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;更新日志︱Tampermonkey
+&lt;a class=&#34;link&#34; href=&#34;https://www.tampermonkey.net/changelog.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.tampermonkey.net/changelog.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tampermonkey - 用户脚本
+&lt;a class=&#34;link&#34; href=&#34;https://www.tampermonkey.net/scripts.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.tampermonkey.net/scripts.php&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;安装步骤&#34;&gt;安装步骤
+&lt;/h3&gt;&lt;p&gt;设置—&amp;gt;扩展—&amp;gt;管理扩展—&amp;gt;打开“开发人员模式”—&amp;gt;将crx文件拖拽到扩展程序页面—&amp;gt; 启用！&lt;/p&gt;
+&lt;h3 id=&#34;扩展预览&#34;&gt;扩展预览
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/07/5tWzgRTP6ysemhK.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241007224912050&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;Greasy Fork - 脚本列表（推荐）
+&lt;a class=&#34;link&#34; href=&#34;https://greasyfork.org/zh-CN/scripts&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://greasyfork.org/zh-CN/scripts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/955f98e1e23d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/955f98e1e23d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>油小猴工具箱 v2.2.5 网盘直链下载助手</title>
+        <link>https://www.danlong360.com/post/7190/</link>
+        <pubDate>Mon, 07 Oct 2024 22:45:33 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/7190/</guid>
+        <description>&lt;p&gt;油小猴工具箱是一款强大的浏览器扩展，无需安装油猴扩展，即能实现：网盘直链下载助手、网盘智能识别助手、网页加速器、Mactype助手、星号密码显示助手五大助手的全部功能，真正做到免配置开箱即用。&lt;/p&gt;
+&lt;p&gt;注意：油小猴工具箱和上述5个助手的油猴脚本不要同时安装！否则会出现功能冲突。&lt;/p&gt;
+&lt;h3 id=&#34;应用特色&#34;&gt;应用特色
+&lt;/h3&gt;&lt;p&gt;【油小猴工具箱】是一款超级强大的网页增强扩展，堪称上网神器，内置 10 大功能：
+● ✅ 网盘直链下载（支持百度网盘，阿里云盘，天翼云盘，迅雷云盘，夸克网盘直链获取）；
+● ✅ 网盘链接识别（自动识别百度，阿里，蓝奏，腾讯，夸克，123pan等10+网盘链接）；
+● ✅ 网页超链接加速；
+● ✅ 星号密码显示；
+● ✅ 网页文字清晰度调节；
+● ✅ 选中网页上的任意文本或链接，右键菜单快捷生成二维码；（≥1.7.0）
+● ✅ 右键图片解析图片中的二维码；（≥1.7.0）
+● ✅ 右键图片识别图片中的验证码；（≥1.7.1）
+● ✅ 右键翻译选中的文字；（≥1.8.0）
+● ✅ 右键图片识别图片中的文字（OCR）；（≥1.8.0）&lt;/p&gt;
+&lt;h3 id=&#34;安装步骤&#34;&gt;安装步骤
+&lt;/h3&gt;&lt;p&gt;设置—&amp;gt;扩展—&amp;gt;管理扩展—&amp;gt;打开“开发人员模式”—&amp;gt;将zip文件夹拖拽到扩展程序页面—&amp;gt; 启用！&lt;/p&gt;
+&lt;h3 id=&#34;使用说明&#34;&gt;使用说明
+&lt;/h3&gt;&lt;p&gt;API下载：适用于 IDM，NDM 以及浏览器自带下载
+Aria2下载：适用于 XDown 及 Linux Shell命令行
+cURL下载：适用于 Windows，Linux，MacOS 终端
+RPC下载：适用于 Motrix，Aria2 Tools，AriaNgGUI
+BC下载：适用于 BitComet (比特彗星) 软件进行下载&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/07/fKhXuGEdwWi63ag.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241007224625265&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/955f98e1e23d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/955f98e1e23d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Sleipnir(神马浏览器下载) v6.5.8.4000 中文绿色版</title>
         <link>https://www.danlong360.com/post/451/</link>
         <pubDate>Mon, 07 Oct 2024 13:38:48 +0800</pubDate>

@@ -7,7 +7,116 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 07 Oct 2024 13:41:20 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 07 Oct 2024 22:37:01 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Super Productivity 任务管理软件 v10.0.11</title>
+        <link>https://www.danlong360.com/post/1730/</link>
+        <pubDate>Mon, 07 Oct 2024 22:37:01 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/1730/</guid>
+        <description>&lt;p&gt;Super Productivity是一款任务管理软件，也是一个开源码的应用程序，利用这个软件可以去管理一天日常的工作计划，对自己一天的工作内容进行有效的管理，清楚的知道自己一天内都做了些什么。Super Productivity设置简单，包括许多的功能，有自己的特点。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/07/UEmVLHgNB6vSqdD.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1、内置pomodoro计时器的直观任务规划器&lt;/p&gt;
+&lt;p&gt;2、Github和Jira为您的项目集成&lt;/p&gt;
+&lt;p&gt;3、基于google材料设计的现代ui&lt;/p&gt;
+&lt;p&gt;1、根据google的材料设计，用一个干净易用的界面来计划你的任务。&lt;/p&gt;
+&lt;p&gt;2、自动追踪你的时间。&lt;/p&gt;
+&lt;p&gt;3、轻松创建时间表和工作总结。&lt;/p&gt;
+&lt;p&gt;4、很容易与jira和github集成。&lt;/p&gt;
+&lt;p&gt;5、在干净的本地待办事项列表中对任务进行排序，自动创建工作日志，并在发生更改时立即收到通知。&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/3a7fcd56cec8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/3a7fcd56cec8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Zettlr 科研笔记 v3.2.2 中文版</title>
+        <link>https://www.danlong360.com/post/2992/</link>
+        <pubDate>Mon, 07 Oct 2024 22:35:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/2992/</guid>
+        <description>&lt;p&gt;Zettlr是款适合写作者和研究人员使用的Markdown编辑器，免费开源，功能简洁，具备Markdown所有基本功能，内置各种运算符，还可以调用计数器，可以完美替代Word和收费的文字处理器。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/07/a8fkNJIiMrzqBS1.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;从应用程序中直接管理你的文件和文件夹。&lt;/p&gt;
+&lt;p&gt;在第一个视图中使用代码片段了解您的文件中的内容。&lt;/p&gt;
+&lt;p&gt;使用Quicklook快速预览文件而不关闭当前文件。&lt;/p&gt;
+&lt;p&gt;使用强大的搜索操作符搜索任何东西&lt;/p&gt;
+&lt;p&gt;用“计数器”这个词来概括你的写作量&lt;/p&gt;
+&lt;p&gt;使用舒适的工具栏访问最重要的命令&lt;/p&gt;
+&lt;p&gt;将您的文件导出到您最需要的格式，并与您的同事共享。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;已解决的数据丢失问题
+当Ztelr v3.0.0发布时，我们开始收到用户的报告
+提到一些文件无法正确保存，可能会导致数据
+损失。在寻找潜在的根本原因后，我们现在已经将其确定为
+文件中不正确的换行符处理。具体来说，我们不小心引入了
+这一bug将使泽特尔无法正确检测视窗风格
+CRLF换行符。这意味着泽特勒有时只能正确阅读
+并修改此类文件。&lt;/p&gt;
+&lt;p&gt;此更新修复了此bug。现在，泽特尔能够正确读取和修改任何
+文件，无论它是否已在Windows、macOS、Linux甚至
+一些旧系统。我们想为这个bug道歉，并感谢你
+尽管如此，还是坚持使用泽特尔。&lt;/p&gt;
+&lt;p&gt;文件过滤逻辑的更改
+文件管理器中的过滤器字段在搜索时始终应用或逻辑
+文件和工作区。在这个最新更新中，Ztelr更改为AND文件过滤
+逻辑，这意味着只有匹配所有查询的项目才会在
+输入以空格分隔的短语。&lt;/p&gt;
+&lt;p&gt;举个例子：到目前为止，搜索“尼克拉斯·卢曼”会出现文件
+包含“尼克拉斯”或“卢曼”，或两者兼而有之。从现在开始，搜索
+“尼克拉斯·卢曼”只会显示包含“尼克拉斯”和“尼克拉斯”的文件
+“Luhmann”并排除错过这些短语之一的文件。&lt;/p&gt;
+&lt;p&gt;GUI和功能
+特点：附件/资产/其他文件侧边栏选项卡现在也显示文件
+在适用的默认图像文件夹中找到
+特点：现在右键单击外部降价链接的上下文菜单
+包含删除链接的选项。删除&lt;link&gt;样式链接时，
+link文本保持为纯文本。删除&lt;a class=&#34;link&#34; href=&#34;link&#34; &gt;title&lt;/a&gt;样式链接时，
+该title文本保持为纯文本。
+更改：在过滤器字段中搜索文件时，只有文件和
+将显示与输入的所有查询匹配的工作区
+修复了未保存更改对话框操作的法语翻译。（#5177）
+修复了在Windows上正确保存文件（和保留换行符）的错误
+系统；现在Ztelr应该能够处理任何类型的行（#5109）
+修复了各种列表控件中的复选框不正确的问题
+更新以反映实际的基础价值
+修复侧边栏中的资产文件图标
+侧边栏中的设计修复
+修复：文件预览工具提示现在尊重文件名显示设置
+修复：在文件夹中搜索（全局搜索）时聚焦输入字段
+触发
+兜帽之下
+升级Electron到v30.1.0（参见问题#5135和Electron问题#41839）
+降级Linux构建以使用Ubuntu 20.04而不是22.04（#5137）
+从内部逻辑中完全抽象出换行符处理。现在，换行符
+始终\n在整个应用程序中。文件中的实际换行符将
+存储在各自的文件描述符中，并将专门用于
+文件读取（将它们替换为\n）和文件写入（将\n替换为）&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/45536093a3f5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/45536093a3f5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Freeplane(思维导图软件) v1.12.6 / 1.12.7 Preview 02 中文绿色版</title>
         <link>https://www.danlong360.com/post/493/</link>
         <pubDate>Mon, 07 Oct 2024 13:41:20 +0800</pubDate>
