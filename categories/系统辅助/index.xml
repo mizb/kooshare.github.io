@@ -7,7 +7,163 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 07 Oct 2024 22:40:54 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 08 Oct 2024 10:46:43 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>StartAllBack(Win11开始菜单增强工具) v3.8.10.5181 Beta 破解版</title>
+        <link>https://www.danlong360.com/post/7683/</link>
+        <pubDate>Tue, 08 Oct 2024 10:46:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/7683/</guid>
+        <description>&lt;p&gt;StartAllBack中文版(StartIsBack++)是一款Win11开始菜单增强工具,可以为Windows11恢复经典样式的Windows7主题风格开始菜单和任务栏,功能包括了:自定义开始菜单样式和操作,个性化任务栏及资源管理器等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/08/7aFBuCk43zIwbU5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241008104700065&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;StartAllBack for Windows 11 - StartIsBack+ - MSFN
+&lt;a class=&#34;link&#34; href=&#34;https://msfn.org/board/topic/183013-startallback-for-windows-11/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://msfn.org/board/topic/183013-startallback-for-windows-11/&lt;/a&gt;
+StartIsBack for Windows 11
+&lt;a class=&#34;link&#34; href=&#34;https://www.startallback.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.startallback.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近更新：
+- 支持 Dev, Beta 最新预览版;全新经典资源管理器样式界面
+- 支持 Win11 22H2正式版 Windows 11 22H2 Build 22621
+- 资源管理器功能区, 命令栏, 其他元素现代化改造和重新设计&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;√ 破解免激活，无30天试用期，无哭脸表情水印!
+√ 全面更新中文语言翻译，简体中文字串优化对齐
+√ 剥离升级程序，无升级提示弹窗，去关于项检查更新
+√ 采用原版7zSFX自解压形式重新打包，支持静默安装
+静默安装参数：/ai /gm2
+无人值守安装示例：
+StartAllBack_Repack.exe /ai /gm2
+或右键解压后执行：
+StartAllBackCfg.exe /install /elevated /silent&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;StartAllBack 3.8.10.5173 (stable) all changes:
+Option to totally disable task grouping (a la XP)
+Decoupled widgets position from task centering setting (use system centering setting to control widgets)
+Swapped clock time/date on one line
+Removed Win10 input layout switcher as it makes hotkey unreliable
+Fixed new tab instead of help icon/text in Control Panel process
+Fixed WMP thumbnail
+Fixed segments on secondary taskbars not working in some configurations
+Fixed segments drawing tear/blinking
+Fixed acrylic menu in Macrium viBoot&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8f7706c29d2a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8f7706c29d2a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PowerToys微软免费工具集(自定义系统工具) v0.85.1</title>
+        <link>https://www.danlong360.com/post/8597/</link>
+        <pubDate>Tue, 08 Oct 2024 10:32:06 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8597/</guid>
+        <description>&lt;p&gt;微软名为 PowerToys 是一款微软出的免费工具集，它可以用于高级用户调整和简化 Windows 操作，以提高效率。通过与 Windows 10/Windows 11 shell 搭配使用，同时让用户可以自定义各个工作流。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/08/rHuq1p8GYU2TVti.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241008103224415&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;快捷键重映射:用户可以自定义快捷键，将键盘上的按键映射到其他按键，从而提高工作效率。
+窗口管理器:PowerToys提供了一个窗口管理器，可以帮助用户更方便地管理窗口，包括窗口分屏、窗口排列等功能。
+批量重命名工具:用户可以使用PowerToys的批量重命名工具，快速地对文件或文件夹进行重命名。
+颜色选择器:用户可以使用PowerToys的颜色选择器，快速地选择需要的颜色。
+屏幕录制:用户可以使用PowerToys的屏幕录制功能，记录屏幕上的操作过程。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;免费:PowerToys是一款免费的软件，用户可以免费下载和使用。
+实用:PowerToys提供了一系列实用的功能和工具，可以帮助用户提高工作效率。
+可定制:PowerToys允许用户自定义快捷键、窗口布局等，可以根据自己的需求进行定制。
+轻便:PowerToys体积小巧，不会占用过多的系统资源。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;This is a patch release to fix issues in v0.85.0 we deemed important for stability based on incoming rates. See v0.85.0 for full release notes.&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/59c75caa078e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/59c75caa078e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>x64dbg(反汇编逆向神器) 2024-10-07_23-00 中文绿色版</title>
+        <link>https://www.danlong360.com/post/9465/</link>
+        <pubDate>Tue, 08 Oct 2024 10:25:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/9465/</guid>
+        <description>&lt;p&gt;x64dbg中文版是一款x32/x64位调试器的程序调试工具,这款反汇编逆向神器支持中文和插件,支持类似C表达式解析器,DLL和EXE文件调试,IDA式的跳跃箭头与侧边栏,动态识别模块指令,反汇编CPU窗口,自动化可调试的脚本语言等诸多逆向分析功能.x64dbg调试器主要分为三部分载体:DBG是调试器的调试功能部分,它处理调试技术(使用的 TitanEngine),并为GUI提供数据.GUI是调试器的图形部分,它采用的Qt编程语言,提供用户交互界面.Bridge是DBG和GUI部分的通信库,它可以用在新建功能上工作,而无需更新汇编代码的其它部分.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/08/Eg8m1DSxeJiXLhs.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241008102553917&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持多种CPU架构，包括x86，x64，ARM和ARM64。
+提供实时调试功能，包括断点设置、单步执行、查看寄存器和内存，以及修改数据。
+支持动态分析，可以查看和修改程序的内存和寄存器状态。
+支持多种格式的二进制文件，包括PE、ELF和Mach-O。
+提供强大的插件系统，允许用户添加自定义功能和扩展工具。
+支持调试符号和调试信息，可以帮助用户理解程序的结构和功能。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;开源免费：x64dbg是开源软件，可以免费使用和修改。
+跨平台：x64dbg可以在Windows平台上运行，并支持多个CPU架构。
+功能强大：x64dbg提供了丰富的调试功能和工具，方便用户对程序进行逆向工程和动态分析。
+用户友好：x64dbg具有直观的用户界面，易于上手和操作。
+不断更新：x64dbg团队会持续更新和改进软件，以提供更好的用户体验和功能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c2ab7b352866&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c2ab7b352866&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Antivirus Removal Tool(卸载杀毒软件) 2024.10 中文绿色版</title>
+        <link>https://www.danlong360.com/post/254/</link>
+        <pubDate>Tue, 08 Oct 2024 10:21:49 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/254/</guid>
+        <description>&lt;p&gt;Antivirus Removal Tool是一款专门用于卸载并清除计算机中已安装的杀毒软件的工具。它可以快速、彻底地删除不需要的杀毒软件，确保系统的安全性和稳定性。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/08/Yo85hdI42L1tGSc.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241008102206933&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持多种常见的杀毒软件卸载，如诺顿、卡巴斯基、麦芽等。
+提供彻底的卸载，包括注册表、临时文件等的清理。
+操作简单，一键式卸载，无需复杂的配置和设置。
+可以帮助用户卸载一些顽固的杀毒软件，如无法通过常规方式进行卸载的情况。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高效快速：Antivirus Removal Tool拥有高效的扫描和卸载算法，可以快速地清理不需要的杀毒软件。
+稳定安全：软件经过严格测试，不会对计算机产生任何负面影响，保证系统的稳定性。
+兼容性好：支持多种杀毒软件，适用范围广泛。
+操作简单：软件界面友好，操作简单，即使是不擅长电脑操作的用户也可以轻松使用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/cbd25b2e9fd9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/cbd25b2e9fd9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Fort Firewall 防火墙工具 v3.13.14</title>
         <link>https://www.danlong360.com/post/8675/</link>
         <pubDate>Mon, 07 Oct 2024 22:40:54 +0800</pubDate>
