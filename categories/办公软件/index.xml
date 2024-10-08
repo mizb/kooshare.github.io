@@ -7,7 +7,64 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 08 Oct 2024 10:50:32 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 08 Oct 2024 13:12:25 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>DBeaver Community 通用数据库管理工具 v24.2.2</title>
+        <link>https://www.danlong360.com/post/597/</link>
+        <pubDate>Tue, 08 Oct 2024 13:12:25 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/597/</guid>
+        <description>&lt;p&gt;一款很著名的开源的数据库管理工具，支持好多数据库，功能丰富强大，本人一直在用，Navicat 开源平替。官网介绍翻译成中文：DBeaver Community 是一款免费的跨平台数据库工具，适用于开发者、数据库管理员、分析师和所有数据处理人员。它支持所有流行的 SQL 数据库，如 MySQL、MariaDB、PostgreSQL、SQLite、Apache Family 等。
+软件也另有商业版本，但是开源的社区版本已经很好用了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/08/ZfXx36k5zaipBNm.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;功能特色&#34;&gt;功能特色
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持数据库元数据浏览&lt;/li&gt;
+&lt;li&gt;支持元数据编辑（包括表，列，键，索引）&lt;/li&gt;
+&lt;li&gt;支持SQL语句和脚本的执行&lt;/li&gt;
+&lt;li&gt;支持SQL关键字高亮显示（依据与不同是数据库）&lt;/li&gt;
+&lt;li&gt;简单友好的显示页面&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;SQL 编辑器：
+空白行的智能模式是语句分隔符设置已修复
+垂直按钮对齐已修复
+ER 图：保持布局选择已修复
+数据传输：
+修复了从具有重复列名的 CSV 导入的问题
+并行数据传输监控/取消已修复
+仪表板：
+添加了将图表拖放到另一个仪表板的功能
+添加了一些小的 UI 改进
+连接性：
+添加了连接页面上的 SSH 参数验证
+修复了“端口转发”部分中“本地主机”和“远程主机”字段的编辑
+数据库连接超时通知已修复
+开发：禁用冗余测试
+数据库：
+玛丽亚数据库：
+GRANT OPTION 特权持久性已修复
+架构权限表示已修复
+SQL Server：触发器删除已修复
+Teradata：添加了元数据编辑器中引用表的链接
+本地化：法语翻译已更新（感谢@Jean-BaptisteC）
+一般的：
+Windows 安装程序中的语言配置已修复
+我们已迁移到 Eclipse 2024/06&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d77ada4f5dff&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d77ada4f5dff&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Atlantis Word Processor(文字处理软件) v4.4.1.6 便携版</title>
         <link>https://www.danlong360.com/post/564/</link>
         <pubDate>Tue, 08 Oct 2024 10:50:32 +0800</pubDate>

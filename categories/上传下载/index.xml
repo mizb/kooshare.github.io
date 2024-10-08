@@ -7,7 +7,69 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 06 Oct 2024 13:23:49 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 08 Oct 2024 13:10:03 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>BiglyBT 开源免费BT种子客户端 v3.7.0 官方中文版</title>
+        <link>https://www.danlong360.com/post/8902/</link>
+        <pubDate>Tue, 08 Oct 2024 13:10:03 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8902/</guid>
+        <description>&lt;p&gt;BiglyBT 是一个功能丰富的、开源的、无广告的、bittorrent 客户端。&lt;/p&gt;
+&lt;p&gt;官网介绍：自2003年以来，BiglyBT的团队一直在努力为您带来市场上最好的开源产品。与我们的竞争对手不同，我们的客户没有广告，而且我们的安装程序不包含第三方优惠。我们为几个流行的 bittorent 客户端提供迁移工具。从使用相同来源的项目切换到 BiglyBT 很简单，除了初始迁移批准之外不需要任何交互。您的设置、下载和插件都在那里，随时可以使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/08/AVI95q24CnyBpjf.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.基于Azureus的Torrent客户端&lt;/p&gt;
+&lt;p&gt;2.测试网络连接以获得最佳速度&lt;/p&gt;
+&lt;p&gt;3.控制下载和管理插件&lt;/p&gt;
+&lt;p&gt;4.未来可期的免费开源客户端&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;添加了标签约束变量“file_count_selected”和“count”函数
+在标签约束中添加了“trackers”变量
+添加了标签概述“tag sort auto”列
+添加了“trackerPeers”和“trackerSeeds”标签约束函数
+添加了标签约束函数“pluginOption”
+允许评论标签约束
+支持空约束表达式
+添加了将 torrent 添加到 SimpleAPI 插件的方法添加了
+SimpleAPI torrent 下载的进度指示器
+添加了 SimpleAPI 插件方法来设置下载插件选项
+添加了自动为简单 torrent 创建子文件夹的选项
+添加了将文件设置为高优先级的选项剩余的文件
+添加了文件优先级的全局设置 剩余的文件
+添加“已完成”到生成的提要
+禁止 HTTP 种子下载特定
+添加“测试模式”到“搜索现有数据文件”
+添加“存档”工具栏项
+支持标签/类别过滤器匹配在订阅结果中
+在对等视图中添加了国家/地区聊天子选项卡
+添加了记住对“添加单独下载”提示的响应的选项
+CTRL+a -&amp;gt; 选择所有正在进行的报告窗口
+在侧边栏视图中添加了“关闭视图”文件菜单项
+支持其他启动帮助程序用于“显示文件”操作
+添加了控制侧栏双击弹出类型的选项
+添加了最小化时禁用 UI 更新的选项
+添加了禁用时用于上/下速度的阻止图标
+子/搜索结果的单独种子/对等列
+重置选项所有表视图
+添加了为新视图设置表列默认值的选项
+在订阅结果中添加了“抓取”列
+在标题中显示条目限制 在
+列标题菜单中添加“全选”
+在工具提示中显示字节大小&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7ef7a9d39cad&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/7ef7a9d39cad&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>DLNow Video Downloader v1.54.2024.10.01 多语便携版</title>
         <link>https://www.danlong360.com/post/46/</link>
         <pubDate>Sun, 06 Oct 2024 13:23:49 +0800</pubDate>
