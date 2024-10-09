@@ -7,7 +7,82 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 08 Oct 2024 18:12:31 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 09 Oct 2024 22:06:33 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Office Installer Plus(Office安装工具) v1.18 by Ratiborus 汉化版</title>
+        <link>https://www.danlong360.com/post/3493/</link>
+        <pubDate>Wed, 09 Oct 2024 22:06:33 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/3493/</guid>
+        <description>&lt;p&gt;Office Installer v1.17 by Ratiborus 是一个由 Ratiborus 开发的办公软件安装工具，旨在帮助用户快速方便地安装 Microsoft Office 套件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/09/BHGX7p2qrtWymc1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241009220655642&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;# 静默参数：
+/install - 以隐身模式运行程序并使用之前配置的设置安装 Office。
+该程序旁边应该有一个带有配置参数的Office Installer.ini文件。
+安装可以在在线和离线下执行（Office文件夹应位于程序旁边）
+与之前下载的发行版）静默安装参数在图形界面的初始配置运行设置的。
+/ini:&amp;ldquo;ini 文件名&amp;rdquo; - 使用自定义设置文件。安装时可使用带有命令行参数
+/activate - 使用之前保存的设置文件仅激活 Office软件后然后退出程序
+# 其它问题：
+使用标准方法删除Office软件后，其许可证和密钥仍保留在系统。例如，如果以前有安装过，
+Office 2016，您卸载了它并安装了 Office 2024 - 可能会在 Office 应用程序的属性中看到
+不是Office 2024，而是Office 2016。为防止这种情况发生，建议在程序部分删除旧的office
+“Office Licenses” 查看系统剩余许可证并删除不需要的许可证。如果在启用开关的情况下
+删除了许可证 “删除密钥” - 安装旧 Office 时使用的密钥将从系统中删除。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Office Installer+ | MSFree Soft
+&lt;a class=&#34;link&#34; href=&#34;https://msfree.su/index.php?threads/705/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://msfree.su/index.php?threads/705/&lt;/a&gt;
+Office Installer &amp;amp; Office Installer+ 1.18
+Office Installer中文版 -&amp;gt; 汉化作者: &amp;ldquo;W&amp;rdquo;
+注：增强版(名称标题带+号)支持激活系统&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/408ad4b07c56&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/408ad4b07c56&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Microsoft Office 365 ProPlus - Online Installer v3.3.0 绿色版</title>
+        <link>https://www.danlong360.com/post/4710/</link>
+        <pubDate>Wed, 09 Oct 2024 21:55:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4710/</guid>
+        <description>&lt;p&gt;Microsoft Office 365 ProPlus是Microsoft Office 365中的一款套装，它是一种基于云的办公软件解决方案。它提供了一系列办公应用程序，如Word、Excel、PowerPoint和Outlook等，以及一些新的协作和通信工具。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/09/hZSCVv7adkbWF4f.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241009215540607&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;办公套件：Microsoft Office 365 ProPlus提供了完整的办公套件，可以满足用户的各种需求。它包括了Word、Excel、PowerPoint和Outlook等常用应用程序，以及其他一些应用程序，如OneNote和Access。
+文档分享和协作：Office 365 ProPlus内置了一些协作和分享工具，使用户可以方便地与团队成员共享文档，并进行实时协作。用户可以在同一文档上同时编辑，共享反馈和评论，并随时查看文档的编辑历史记录。
+云存储和备份：Office 365 ProPlus允许用户将文档保存在云端，并随时在任何设备上进行访问。这样，用户可以方便地在不同设备之间同步文件，并在丢失设备时保护重要数据。
+移动办公：Office 365 ProPlus还提供了移动应用程序，使用户可以在移动设备上访问和编辑文档。无论用户身在何处，都可以方便地进行办公工作，并随时与同事进行联系。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;实时协作：Office 365 ProPlus具有强大的协作功能，可以实现多人同时编辑和评论文档。用户可以邀请其他人员一同协作编辑文档，并进行实时沟通和反馈。
+自动更新：Office 365 ProPlus可以自动更新，使用户始终可以使用最新的功能和修复程序。这样，用户无需手动安装更新，也无需担心使用过时的软件版本。
+多平台支持：Office 365 ProPlus可在多种平台上运行，包括Windows、Mac、iOS和Android。这使用户可以在不同设备上无缝切换，并在不同操作系统上使用相同的功能和界面。
+安全性和隐私保护：Office 365 ProPlus具有强大的安全性和隐私保护措施，以确保用户的数据和文档得到保护。它采用了密码保护、数据加密和权限控制等技术，防止信息泄露和未经授权的访问。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9a26b6903f44&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9a26b6903f44&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Adobe Acrobat Pro DC v2024.003.20180 破解版 32位 &amp; 64位</title>
         <link>https://www.danlong360.com/post/9290/</link>
         <pubDate>Tue, 08 Oct 2024 18:12:31 +0800</pubDate>

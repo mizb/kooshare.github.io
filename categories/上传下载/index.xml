@@ -7,7 +7,120 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 08 Oct 2024 13:10:03 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 09 Oct 2024 22:05:14 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>BitComet(比特彗星) v2.10 官方安装版 &amp; 绿色版</title>
+        <link>https://www.danlong360.com/post/6362/</link>
+        <pubDate>Wed, 09 Oct 2024 22:05:14 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6362/</guid>
+        <description>&lt;p&gt;BitComet是一款使用BitTorrent协议进行文件传输的免费P2P下载工具。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/09/UZ7EjgB6xDpSr5u.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241009220533836&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文件共享：BitComet可以通过BitTorrent协议下载和分享文件。用户可以通过多线程下载，从多个源同时下载同一文件，提高下载速度。
+种子管理：BitComet支持种子文件的下载和管理。用户可以通过添加种子文件，获取包含文件元数据的种子，并使用种子文件进行下载。
+高速下载：BitComet支持多线程下载和优化连接算法，可以提供更快的下载速度。
+文件预览：BitComet支持对部分文件类型进行在线预览，以便用户可以在下载完成之前查看文件内容。
+下载管理：BitComet提供了一个下载管理器，可以对正在下载的文件进行管理，包括暂停、恢复、取消和删除等操作。
+队列系统：BitComet支持将任务添加到下载队列中，以便在有限的带宽情况下自动调度和下载文件。
+智能错误纠正：BitComet具有智能错误纠正功能，可以自动检测并修复下载过程中可能出现的错误或数据损坏。
+自定义设置：BitComet提供了一系列自定义设置选项，使用户可以根据自己的需求对下载行为和界面进行调整和优化。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;界面改进：完善bc_bak文件格式错误提示
+界面改进：webui剪贴板权限错误提示改为 “访问剪贴板需要HTTPS协议”
+界面改进：选项窗口HTTP下载任务默认连接数上限提升到2000
+界面修复：允许下载文件名以&amp;quot;.&amp;ldquo;开头
+界面修复：完善新版WebUI界面默认语言检测
+核心修复：修复多次导出配置和数据备份文件可能引发的问题
+界面改进：HTTP下载任务连接数上限提升到2000
+界面改进：个别界面翻译
+界面修复：远程访问BT任务页面没有显示peerID
+核心改进：完善HTTP下载任务队URL路径中的加号处理
+核心改进：改进HTTP下载任务进度接近100%时的区块请求算法
+核心改进：HTTP Tracker、Torrent下载、访问RSS源支持 zstd 压缩算法
+界面改进：完善新版WebUI界面
+界面改进：新版WebUI界面（功能还不完整，继续完善中）
+界面改进：完善远程下载提示信息&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d506a3fbf58a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d506a3fbf58a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Bilidown(B站视频下载工具) v1.2.2 中文绿色版</title>
+        <link>https://www.danlong360.com/post/4285/</link>
+        <pubDate>Wed, 09 Oct 2024 21:39:42 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4285/</guid>
+        <description>&lt;p&gt;一款简洁好用的B站视频下载工具。支持由UP主上传的单集，多集以及相关封面，弹幕，字幕，音乐，刮削等等。支持任意粒度批量组合，登录后最高支持到1080P,大会员可获取所有画质及音质。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/09/aisoxr6I9qLK4wY.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241009214001266&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;修复存储高级设置使用内置变量uid后导致无法下载的问题。
+修复部分较早视频解析后丢失画质问题（1080P高码&amp;amp;高帧）比如 &lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1Dt411f7XB/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bilibili.com/video/BV1Dt411f7XB/&lt;/a&gt; 是2018年发布的视频，是有1080P 高码率画质的，但因为历史遗留原因无法解析出来，升级到v1.2.2后即可解决。
+优化退出登录，命名规则和存储高级规则将不被重置。
+优化图标显示效果（抗锯齿处理）。
+修复了一些已知问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d57369ffe524&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d57369ffe524&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>3D Youtube Downloader(视频下载工具) v1.20.9 多语便携版</title>
+        <link>https://www.danlong360.com/post/6409/</link>
+        <pubDate>Wed, 09 Oct 2024 21:36:47 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6409/</guid>
+        <description>&lt;p&gt;3D Youtube Downloader 是一款方便易用的 Youtube 视频下载工具。该软件支持的格式包括 MP4，WebM 和 FLV，帮助用户可以从 Internet 上直接下载高质量 Youtube 视频。他还为用户提供了多种分辨率的选择，包括360、480和720P，让你轻轻松松就可以下载到 Youtube 视频。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/09/DTKZucsnpozYMd5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241009213705529&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持下载Youtube上的视频，包括普通视频和3D视频。
+支持将下载的视频保存为MP4、FLV、MKV等常见格式。
+可以选择下载视频的分辨率和音频质量。
+可以下载整个播放列表或频道中的所有视频。
+内置的播放器可以预览下载的视频。
+支持下载字幕文件。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观，操作简单方便。
+下载速度快，支持多线程下载。
+支持下载高清视频和4K视频。
+可以根据需要选择下载视频的格式和质量。
+可以下载Youtube上的3D视频，提供多种3D格式选择。
+可以自定义保存路径和文件名。
+软件更新及时，支持常规更新和自动更新。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/3e42eef9c214&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/3e42eef9c214&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>BiglyBT 开源免费BT种子客户端 v3.7.0 官方中文版</title>
         <link>https://www.danlong360.com/post/8902/</link>
         <pubDate>Tue, 08 Oct 2024 13:10:03 +0800</pubDate>
