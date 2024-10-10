@@ -7,7 +7,151 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 09 Oct 2024 21:56:41 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 10 Oct 2024 12:49:28 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>LibreWolf(Firefox浏览器修改版) v131.0.2-1 官方便携版</title>
+        <link>https://www.danlong360.com/post/8987/</link>
+        <pubDate>Thu, 10 Oct 2024 12:49:28 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8987/</guid>
+        <description>&lt;p&gt;LibreWolf 是一个基于 Firefox 的自由和隐私导向的网络浏览器。它旨在提供与 Firefox 相似的功能，同时加强用户隐私和安全性。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/HbyDNnlprCJ37Z2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241010124945522&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;隐私保护：LibreWolf 提供了各种隐私保护功能，包括跟踪器阻止、广告拦截、Cookie 控制和隐私模式等。它还默认启用了 Firefox 的 Enhanced Tracking Protection 功能，可以阻止跟踪器收集用户的数据。
+安全浏览：LibreWolf 借助 Firefox 的安全功能来保护用户免受恶意软件和网络攻击的威胁。它支持安全浏览模式、自动更新和网络警报等功能。
+用户界面定制：LibreWolf 允许用户根据自己的偏好调整浏览器的外观和功能。它支持与 Firefox 相同的扩展和主题，并提供了许多定制选项，例如菜单栏布局、搜索引擎选择和快捷键绑定。
+开源和透明：作为一个开源项目，LibreWolf 的源代码是公开可查看的，任何人都可以审查和验证其安全性和隐私性。它还提供了一个透明的开发进展跟踪系统，方便用户了解项目的最新更新和改进。
+提供了多个版本：LibreWolf 提供了几个不同的版本，包括基于 Debian 和 Arch Linux 的开发版本，以及 Windows、macOS 和 Android 的稳定版本。这些不同版本可以满足用户在不同操作系统上的需求。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f1554b7d9dab&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f1554b7d9dab&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Pale Moon(定制优化火狐浏览器) v33.4.0.1 中文绿色版</title>
+        <link>https://www.danlong360.com/post/4849/</link>
+        <pubDate>Thu, 10 Oct 2024 12:47:28 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4849/</guid>
+        <description>&lt;p&gt;Pale Moon是一款定制的、速度优化的火狐浏览器。该项目使用贡献的开放源代码创建了一个基于Firefox浏览器的全功能、速度优化的浏览器。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/RKWk9PuHAqsbNIf.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241010124746326&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;为现代处理器高度优化
+100% Firefox来源:和经过多年开发的浏览器一样安全。
+支持Firefox扩展、主题和角色
+能够使用这个迁移工具使用现有的Firefox配置文件、书签和设置
+由于禁用了冗余和可选代码，因此使用的内存略少
+显著提高了页面绘制和脚本处理的速度
+支持HTML5和WebGL (v4)
+稳定性:体验更少的浏览器崩溃。
+支持SVG和Canvas，以及包括WOFF在内的可下载字体
+支持OOPP(进程外插件执行)&lt;/p&gt;
+&lt;p&gt;在Pale Moon浏览器中，用户会发现稍微保守一点的用户界面变化。它虽然非常接近Firefox，但(现在比以前更明显了)是一个不同的产品。然而，这些布局上的差异并不会阻止任何人按照他们想要的方式配置他们的浏览器界面。如果他们愿意，还可以包括Mozilla Firefox的默认布局。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;Pale Moon(定制优化火狐浏览器) v33.4.0.1 中文绿色版
+&lt;a class=&#34;link&#34; href=&#34;https://rm-eu.palemoon.org/release/palemoon-33.4.0.1.win32.installer.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rm-eu.palemoon.org/release/palemoon-33.4.0.1.win32.installer.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://rm-eu.palemoon.org/release/palemoon-33.4.0.1.win64.installer.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rm-eu.palemoon.org/release/palemoon-33.4.0.1.win64.installer.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://rm-eu.palemoon.org/release/Palemoon-Portable-33.4.0.1.win32.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rm-eu.palemoon.org/release/Palemoon-Portable-33.4.0.1.win32.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://rm-eu.palemoon.org/release/Palemoon-Portable-33.4.0.1.win64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rm-eu.palemoon.org/release/Palemoon-Portable-33.4.0.1.win64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;官方下载（简体中文语言包 + 切换语言工具）&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://addons.palemoon.org/addon/pm-langpack-zh-cn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://addons.palemoon.org/addon/pm-langpack-zh-cn/&lt;/a&gt;（简体中文语言包）
+&lt;a class=&#34;link&#34; href=&#34;https://addons.palemoon.org/addon/locale-switcher/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://addons.palemoon.org/addon/locale-switcher/&lt;/a&gt;（切换语言工具）&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Opera浏览器(挪威浏览器) v114.0 Build 5282.94</title>
+        <link>https://www.danlong360.com/post/8214/</link>
+        <pubDate>Thu, 10 Oct 2024 12:44:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8214/</guid>
+        <description>&lt;p&gt;Opera浏览器也称为欧朋浏览器，是一款非常好用的网络浏览器。Opera浏览器浏览查找速度快，内容更精准，而且绿色安全，用户可以放心使用。Opera浏览器本身自带拦截广告的插件，让用户不用再为广告多而烦恼，体验效果更佳。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/i18NjuMcnyf4zT7.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241010124518190&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1、广告拦截功能
+摆脱无休止的在线广告的干扰，屏蔽挖矿等恶意软件，并帮助加快页面加载。
+2、内置 Messenger，随时联络
+与朋友聊天同时浏览网页，无需在标签页或应用程序之间切换。
+3、暗色模式
+可通过设置暗色和亮色主题、键盘快捷键、墙纸、扩展程序、收藏夹书签和许多其他选项，对 Opera 进行自定义设定。
+软件特色
+1、浏览速度更快
+相比其他浏览器，我们简化了浏览处理功能，搭配内置广告拦截功能，实现更快速的网页加载体验。
+2、随时联络
+使用浏览器侧边栏中的内置 Messenger，聊天、浏览一举兼得，无需一直在标签页和应用程序之间切换。
+3、定义自我
+可通过设置暗色和亮色主题、键盘快捷键、收藏夹书签和许多其他选项，对 Opera 进行自定义设定。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/427c07c734fd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/427c07c734fd&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Vivaldi浏览器(跨平台的免费浏览器) v6.9.3447.54</title>
+        <link>https://www.danlong360.com/post/6328/</link>
+        <pubDate>Thu, 10 Oct 2024 12:43:16 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6328/</guid>
+        <description>&lt;p&gt;Vivaldi是一款跨平台的免费浏览器，拥有丰富的功能和个性化定制选项，旨在提供快速、稳定和安全的互联网浏览体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/OYjp6hNn57Gd1XF.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241010124335708&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;详细介绍&#34;&gt;详细介绍
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;快速访问：Vivaldi的地址栏集成了搜索引擎以及标签页、书签、历史记录、收藏夹等搜索预测功能，支持快速定位需要访问的网页。&lt;/li&gt;
+&lt;li&gt;高度定制化：用户可以自定义Vivaldi的界面、菜单、快捷键等，以满足个性化的需求。&lt;/li&gt;
+&lt;li&gt;同步功能：用户可通过Vivaldi账号在不同设备间同步书签、历史记录、设置等，并能够设置同步功能的数据类型。&lt;/li&gt;
+&lt;li&gt;Tab栏管理：Vivaldi支持Tab栏多级嵌套、定制外观（尺寸、颜色、位置）、快速预览、Tab堆叠等功能，能够满足用户各种标签页管理需求。&lt;/li&gt;
+&lt;li&gt;侧边栏功能：用户可在侧边栏中添加书签、笔记、历史记录等组件，并可一键打开或关闭侧边栏，完全符合用户工作流程。&lt;/li&gt;
+&lt;li&gt;笔记功能：Vivaldi提供了便捷的笔记功能，可以轻松快速地创建笔记，方便进行复制、粘贴、编辑等操作。&lt;/li&gt;
+&lt;li&gt;音频控制面板：Vivaldi在浏览器内置了音频控制面板，方便快速调整音量，切换播放进度等，让浏览器成为用户的生产工具。&lt;/li&gt;
+&lt;li&gt;快速命令：Vivaldi支持通过快捷键打开命令行，集成了各种搜索引擎、书签、命令等，用户可以快速进行自己需要的操作。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;总之，Vivaldi提供了丰富的功能和定制选项，便捷的操作体验，满足用户的个性化需求，在国际上也获得了良好口碑。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0ba27bd62998&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0ba27bd62998&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Google Chrome(谷歌浏览器) v129.0.6668.101 多语便携版</title>
         <link>https://www.danlong360.com/post/2786/</link>
         <pubDate>Wed, 09 Oct 2024 21:56:41 +0800</pubDate>
