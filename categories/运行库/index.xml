@@ -7,7 +7,77 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 09 Oct 2024 22:00:23 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 10 Oct 2024 18:57:20 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Visual C&#43;&#43;运行库合集轻量版24年10月版v84</title>
+        <link>https://www.danlong360.com/post/6894/</link>
+        <pubDate>Thu, 10 Oct 2024 18:57:20 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6894/</guid>
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版VC++运行库合集(VisualCppRedist),体积小巧,支持静默参数,整合了所有版本Visual C ++,能自动检测安装所有VC库版本.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/fQKoTjAiHXub5zS.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241010185740254&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;Releases · abbodi1406/vcredist · GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/abbodi1406/vcredist/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/abbodi1406/vcredist/releases&lt;/a&gt;
+Microsoft Visual C++ Runtimes AIO 0.66 Repack
+Visual C++ Redistributable Runtimes AIO Repack
+整合的组件版本：
+Microsoft Visual Basic/C++ Runtime (x86/x64)
+Microsoft C Runtime Library (2002: 7.0.9975.0)
+Microsoft C Runtime Library (2003: 7.10.6119.0)
+Microsoft Visual C++ Redistributables (x86/x64)
+├—Microsoft Visual C++ 2005 Redistributable - 8.0.61187
+├—Microsoft Visual C++ 2008 Redistributable - 9.0.30729
+├—Microsoft Visual C++ 2010 Redistributable - 10.0.40219
+├—Microsoft Visual C++ 2012 Redistributable - 11.0.61135
+├—Microsoft Visual C++ 2013 Redistributable - 12.0.40664
+├—Microsoft Visual C++ 2015 Redistributable - 14.10.25008
+├—Microsoft Visual C++ 2005-2022 Redistributable - 14.36.32323.0.0
+Microsoft Visual Studio 2010 Tools for Office Runtime (x86/x64)&lt;/p&gt;
+&lt;p&gt;无人值守运行参数：
+/ai -自动安装全部，不显示提取解压对话框
+/y -自动安装全部，提供安装界面进度显示
+/aiM -自选安装全部，安装每个版本有解压对话框并询问确认
+/aiU -自动卸载全部，卸载每个版本有提取对话框并询问确认
+/aiA -自动安装全部，但是隐藏系统卸载程序列表里的ARP项
+/aiR -自动卸载全部
+/ai5 -安装Microsoft Visual C ++2005
+/ai8 -安装Microsoft Visual C ++2008
+/aiX -安装Microsoft Visual C ++2010
+/ai2 -安装Microsoft Visual C ++2012
+/ai3 -安装Microsoft Visual C ++2013
+/ai9 -安装Microsoft Visual C ++2019
+/aiT -安装Microsoft Visual Studio 2010
+/aiE -安装Microsoft Visual Basic/C++
+/aiV -安装Microsoft C Runtime Library
+/aiH -系统卸载程序列表中自动隐藏已经安装的项
+/aiP -系统卸载程序列表中手动隐藏或显示已经安装的项
+/aiC -完全执行被动模式。安装所有，但UCRT KB3118401除外
+/aiD -调试模式，创建VCpp_debug.log而不安装/卸载任何组件
+/gm2 -7zSFX的静默模式参数，用于禁用解压对话框的可选参数&lt;/p&gt;
+&lt;p&gt;• 无人值守静默安装参数示例：
+自动安装Visual C ++2022(适用仅更新)
+VisualCppRedist_AIO_x86_x64.exe /ai9 /gm2
+自动安装所有VC++运行库组件(适合新系统)
+VisualCppRedist_AIO_x86_x64.exe /ai /gm2&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v0.84.0
+New: Visual C++ 2022 Redistributable - 14.42.34430.0&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f06726be2319&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f06726be2319&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>游戏常用运行库合集 Game Runtime Libraries Package v4.0.24.1009</title>
         <link>https://www.danlong360.com/post/1236/</link>
         <pubDate>Wed, 09 Oct 2024 22:00:23 +0800</pubDate>

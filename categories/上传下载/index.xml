@@ -7,7 +7,59 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 09 Oct 2024 22:05:14 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 10 Oct 2024 19:10:59 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>BitComet(比特彗星) v2.10 解锁全功能豪华版</title>
+        <link>https://www.danlong360.com/post/9785/</link>
+        <pubDate>Thu, 10 Oct 2024 19:10:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/9785/</guid>
+        <description>&lt;p&gt;比特彗星(BitComet，简写为”BC”)是一款采用“C++”编程语言为Microsoft Windows平台编写的BitTorrent客户端软件，也可用于HTTP/FTP下载，并可选装eMule插件(eMule plug-in)通过ed2k网络进行BT/eMule同时下载。它的特性包括同时下载，下载队列，从多文件种子(torrent)中选择下载单个文件，快速恢复下载，聊天，磁盘缓存，速度限制，端口映射，代理服务器和IP地址过滤等。最新的版本中加入了公用DHT网络的支持和反吸血保护(针对迅雷)设定。该版本由 itzmx 论坛小樱制作维护，感谢。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/d1Cx27azXUWcP5E.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241010191119142&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;彗星論壇
+&lt;a class=&#34;link&#34; href=&#34;https://www.cometbbs.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.cometbbs.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;v2.10 正式版
+界面改进：WebUI的任务摘要完善任务状态及文件对齐翻译
+界面改进：WebUI的文件列表显示长效种子信息
+界面改进：WebUI的peer列表显示连接中、未连接、已封禁的peer
+界面改进：WebUI的peer列表显示发起方、协议、对方下载速度、连接时间&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;by 小樱
+- 解锁种子市场（即改繁体为简体中文）
+- 集成启用经典电驴插件eMule v0.50a
++禁止启动自动强制创建开始菜单快捷方式
+- 预设配置文件：去除侧边栏精品软件链接
+- 预设配置文件：用户显IP地址、其它优化
+- 预设配置文件：去详细信息界面起始页（广告页）
+- 预设配置文件：精选订阅更新Tracker服务器自动添加到BT
+- 优化提高了种子上传传输速度和程序长时间挂机做种稳定性
+- 适合大量种子RSS自动发布，支持国内外各大PT站挂机做种&lt;/p&gt;
+&lt;p&gt;# 关于端口堵塞解决办法：
+前提要有个外网IP，如果没有就给运营商打电话，告诉他你要个外网IP，要不然不能下载。
+使用下面解决办法的时候，要先关闭系统防火墙（不想关闭，可以在防火墙添加允许程序）
+解决办法1：去路由器设置界面，打开upnp
+解决办法2：去路由器设置界面，设置端口转发，TCP和UDP，端口22223，指向本机IP
+解决办法3：去路由器设置界面，设置DMZ主机为本机IP（不推荐）&lt;/p&gt;
+&lt;p&gt;# 默认种子传输端口22223
+电驴传输端口22224 网页监听端口1235&lt;/p&gt;
+&lt;p&gt;# 网页远控登陆地址 http://127.0.0.1:1235
+管理员默认账号：admin 密码：用户自定义&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9d338b6924ad&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9d338b6924ad&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>BitComet(比特彗星) v2.10 官方安装版 &amp; 绿色版</title>
         <link>https://www.danlong360.com/post/6362/</link>
         <pubDate>Wed, 09 Oct 2024 22:05:14 +0800</pubDate>
