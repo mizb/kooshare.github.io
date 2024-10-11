@@ -7,7 +7,276 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 10 Oct 2024 19:15:04 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 11 Oct 2024 11:40:35 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>zTasker(一键式效率倍增器定时任务) v1.99.3 中文绿色版</title>
+        <link>https://www.danlong360.com/post/59/</link>
+        <pubDate>Fri, 11 Oct 2024 11:40:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/59/</guid>
+        <description>&lt;p&gt;zTasker是一款全面的任务管理软件，可以帮助用户更好地管理和组织自己的任务和日程安排。它具有易于使用的界面和丰富的功能，适用于个人和商业用户。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/dAhH3et5Mnz49Ii.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241011114054692&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;任务管理：用户可以创建、编辑、删除和标记任务。任务可以按类型、优先级、截止日期等进行分类和排序。
+日历视图：zTasker提供了便捷的日历视图，用户可以在日历上查看和计划任务。
+提醒和提醒：用户可以设置任务的提醒和提醒，确保不会错过重要的事情。
+子任务和检查清单：zTasker支持创建子任务和检查清单，方便用户分解和管理复杂的任务。
+自定义标签和筛选：用户可以为任务添加自定义标签，并根据标签进行筛选和查找任务。
+任务共享：用户可以与其他zTasker用户共享任务，方便协作和分工合作。
+数据备份和恢复：zTasker支持将任务数据备份到云端，并在需要时进行恢复。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：zTasker具有直观的用户界面和简洁的操作流程，使任务管理变得简单和高效。
+强大的功能：软件提供了丰富的功能和灵活的设置选项，满足不同用户的个性化需求。
+安全可靠：zTasker采用了安全的数据传输和存储技术，确保用户的任务数据安全可靠。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;V1.99.3 2024-10-11
+新增：
+执行程序，增加同步运行可选项，和超时时间设置，可用于参数出错后一直运行无法完成的任务
+执行程序，参数可以支持环境变量了
+改进：
+任务计划设置里开始时间逻辑修改，解决一些令人困惑的问题
+修复：
+所有已知问题
+一些必要的优化&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/706cf8febfea&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/706cf8febfea&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Tablacus Explorer(资源管理器替代品) v24.10.10 中文绿色版</title>
+        <link>https://www.danlong360.com/post/993/</link>
+        <pubDate>Fri, 11 Oct 2024 11:33:33 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/993/</guid>
+        <description>&lt;p&gt;Tablacus Explorer是一个免费的Windows资源管理器替代品，它提供了许多高级功能和自定义选项，使用户能够更轻松地管理文件和文件夹。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/sPncSY3palCwDyd.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241011113353653&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;多窗口浏览，方便同时管理多个文件夹和文件。&lt;/li&gt;
+&lt;li&gt;支持自定义命令，能够快速执行常用操作。&lt;/li&gt;
+&lt;li&gt;支持插件扩展，可以安装插件来增强功能。&lt;/li&gt;
+&lt;li&gt;支持快捷键操作，能够快速执行各种操作。&lt;/li&gt;
+&lt;li&gt;支持多种视图模式，包括图标、列表、详细信息等。&lt;/li&gt;
+&lt;li&gt;支持文件夹书签和历史记录，方便访问常用文件夹。&lt;/li&gt;
+&lt;li&gt;支持文件预览，能够快速浏览各种文件类型。&lt;/li&gt;
+&lt;li&gt;支持文件夹比较，能够比较两个文件夹的内容差异。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;轻量级：Tablacus Explorer 的安装包非常小，下载和安装都非常快速。&lt;/li&gt;
+&lt;li&gt;易用性：Tablacus Explorer 的界面简单直观，易于操作和使用。&lt;/li&gt;
+&lt;li&gt;可定制性：Tablacus Explorer 支持多种插件和自定义命令，能够根据个人需求进行定制。&lt;/li&gt;
+&lt;li&gt;多国语言支持：Tablacus Explorer 支持多种语言，包括英语、法语、日语、中文等。&lt;/li&gt;
+&lt;li&gt;免费开源：Tablacus Explorer 是一款完全免费，开源的软件，任何人都可以自由使用和修改。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d4c96dce5c72&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d4c96dce5c72&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>IObit Driver Booster(驱动程序更新工具) v12.0.0.356 多语便携版</title>
+        <link>https://www.danlong360.com/post/2176/</link>
+        <pubDate>Fri, 11 Oct 2024 11:32:01 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/2176/</guid>
+        <description>&lt;p&gt;IObit Driver Booster是一款Windows系统驱动程序更新工具，帮助用户升级过时、缺失或不兼容的驱动程序，以提高系统性能和稳定性。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/CH5TzZ4UQOxYeFn.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241011113218563&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1.快速检测并更新驱动程序：该软件能够快速检查计算机中所有的硬件设备和驱动程序，并检测并更新所有需要更新的驱动程序，提高系统性能和稳定性。
+2.驱动备份和恢复功能：该软件支持驱动备份和恢复功能，用户可以在更新驱动程序之前先备份现有的驱动程序，以便在更新后出现问题时进行恢复。
+3.定时驱动程序更新：该软件支持设置自动检测和定时更新驱动程序的时间，无需手动操作就能保持驱动程序的最新状态。
+4.驱动程序回滚：该软件支持驱动程序回滚功能，可以将驱动程序恢复到之前的版本，以解决新版本驱动程序引起的不兼容问题。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;driver booster破解版,driverbooster驱动更新软件绿色版
+- Driver Booster免激活中文绿色便携版，破解永久专业版
+- 脱离升级程序AutoUpdate.exe和统计 ProductNews.dll
+- 去界面左侧操作中心按钮、反馈按钮、许可证管理按钮等
+- 去菜单项：反馈, 检查更新, 用户手册, 技术支持, 在线支持
+- 禁止自动强制创建烦人的UAC提权和更新服务计划任务项
+- 删除更新下载器组件、反馈程序、多国语言等没啥用文件&lt;/p&gt;
+&lt;p&gt;该工具提供的数据库秒杀国内，国内驱动软件部分检测不到的它能检测到新驱动
+由于驱动数据库服务器在境外，下载驱动没速度的需自备梯子设置选项启用代理！&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/684c23425eb1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/684c23425eb1&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ReNamer(文件重命名工具) Pro v7.6.0.1 多语便携版</title>
+        <link>https://www.danlong360.com/post/8624/</link>
+        <pubDate>Fri, 11 Oct 2024 11:29:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8624/</guid>
+        <description>&lt;p&gt;ReNamer是一款功能强大的文件重命名工具，它可以帮助用户快速方便地批量重命名文件和文件夹。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/zSUCHkfb65lhVEY.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241011112947218&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;批量重命名：ReNamer可以同时处理多个文件和文件夹，并对其进行批量重命名，从而节省时间和劳动力。
+灵活的重命名规则：ReNamer提供了多种灵活的重命名规则，包括添加、删除、替换、移动和修改文件名等操作。用户可以根据需要自定义重命名方案。
+文件标签：ReNamer支持将文件的标签添加到文件名中，从而更好地组织和管理文件。
+文件预览：ReNamer提供了文件预览功能，用户可以在重命名操作之前预览文件名的变化，避免错误操作。
+导出和导入：ReNamer支持将重命名方案导出和导入，方便用户在不同的计算机上使用和共享。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;免费且开源：ReNamer是一款免费软件，用户可以免费使用其所有功能，并可以在其官方网站上获取其源代码。
+多语言支持：ReNamer支持多种语言界面，包括英语、法语、德语、西班牙语、俄语等。
+快速处理：ReNamer具有高速处理能力，可以快速处理大量文件，提高工作效率。
+扩展性：ReNamer支持用户自定义脚本，用户可以编写自己的脚本来实现更复杂的重命名操作。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/edf847310de7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/edf847310de7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VueScan(扫描仪增强软件) Pro v9.8.37.05 多语便携版</title>
+        <link>https://www.danlong360.com/post/4102/</link>
+        <pubDate>Fri, 11 Oct 2024 11:26:45 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4102/</guid>
+        <description>&lt;p&gt;VueScan是一款功能强大的扫描仪软件，可用于扫描、拍摄和打印高质量的图片和文档。它支持大量的扫描仪品牌和型号，包括HP、Canon、Epson、Nikon、Brother等，而且可以在Windows、Mac OS X和Linux等各种操作系统上运行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/tTv8aDQJUOFeAin.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241011112702624&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种扫描仪型号，包括扫描仪、相机和文件夹。&lt;/li&gt;
+&lt;li&gt;支持多种文件格式，包括JPEG、TIFF、PDF和RAW格式。&lt;/li&gt;
+&lt;li&gt;可以进行自动校正、色彩校正和曝光校正等操作，以获得最佳的扫描效果。&lt;/li&gt;
+&lt;li&gt;支持扫描多页文档并将其保存为单个PDF文件。&lt;/li&gt;
+&lt;li&gt;可以进行扫描预览、裁剪和旋转等常见操作。&lt;/li&gt;
+&lt;li&gt;支持OCR（光学字符识别）功能，可以将扫描的文本转换为可编辑的文本格式。&lt;/li&gt;
+&lt;li&gt;可以进行高级图像处理，包括去除噪点、调整色彩和对比度等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简单直观，易于操作。&lt;/li&gt;
+&lt;li&gt;支持多种语言，包括英语、法语、德语、意大利语、西班牙语等。&lt;/li&gt;
+&lt;li&gt;更新频繁，可以及时支持最新的扫描仪型号和操作系统。&lt;/li&gt;
+&lt;li&gt;支持扫描多种类型的文档，包括照片、书籍、报纸和信件等。&lt;/li&gt;
+&lt;li&gt;可以进行批量扫描和批量处理，提高工作效率。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;总之，VueScan是一款功能强大、易于使用的扫描仪软件，适用于个人和企业用户。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;vuescan pro中文破解版,vuescan pro免激活绿色便携版
+- 免激活，破解注册，去更新提示，32位和64位自动识别&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/270ba0a19ee7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/270ba0a19ee7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ExamDiff(文件和文件夹比较工具) Pro v15.0.1.14 便携版</title>
+        <link>https://www.danlong360.com/post/6531/</link>
+        <pubDate>Fri, 11 Oct 2024 11:23:05 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6531/</guid>
+        <description>&lt;p&gt;ExamDiff是一款强大的文件和文件夹比较工具。它可以帮助用户快速而准确地找到两个文件或文件夹之间的差异，以便进行修复或更新。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/VytDp12scZU84Xf.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241011112321305&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文件比较：用户可以比较两个文件中的内容，并快速找出不同之处。
+文件夹比较：用户可以比较两个文件夹中的文件，并查找出不同之处。
+代码比较：支持比较代码文件，方便开发人员查看代码变更之处。
+结果显示：以直观的方式展示文件或文件夹之间的差异。
+快速比较：快速准确比较大型文件和文件夹。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;直观简单：界面简洁直观，操作简单易上手。
+快速准确：可以快速准确地比较文件或文件夹，节省用户时间。
+多种比较模式：支持不同的比较模式，满足用户不同的比较需求。
+方便实用：功能实用，适合各种用户使用。
+自定义设置：用户可以根据自己的需求进行设置。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/bef3f2dbccf6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/bef3f2dbccf6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>鲁大师官方原版丨最新版下载丨版本号 6.1024.4080.1009</title>
+        <link>https://www.danlong360.com/post/4774/</link>
+        <pubDate>Fri, 11 Oct 2024 11:17:11 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4774/</guid>
+        <description>&lt;p&gt;鲁大师是一款个人电脑系统工具，支持win2000以上的所有windows系统版本，它是首款检查并尝试修复硬件的软件，它能轻松辨别电脑硬件真伪，测试电脑配置，测试电脑温度保护电脑稳定运行，清查电脑病毒隐患，优化清理系统，提升电脑运行速度。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/lVYjOfRHMbhr3GQ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241011111728785&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1.全面的系统优化功能：可以对电脑进行全面的系统优化，包括加速启动、优化系统、清理垃圾、修复注册表等。
+2.一键体检系统：可以通过一键体检系统，快速诊断电脑存在的问题，包括硬件状况、系统运行效率等，方便用户了解电脑的整体性能。
+3.实时监控系统：可以实时监控电脑的运行状态，包括CPU、硬盘、内存使用情况等，帮助用户及时发现并解决问题。
+4.易于操作、界面简洁：软件操作简单、易上手，同时界面简洁，易于用户理解和使用。
+5.丰富的辅助工具：软件提供大量的辅助工具，用于修复问题、恢复数据、清理垃圾等，为用户提供全面的系统维护服务。
+6.安全稳定性高：鲁大师具备良好的安全性和稳定性，不会对电脑造成任何损害，安全值得信赖。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;6.1024.4080.1009 更新(日期:2024-10-10)
+[新增] 新增认证厂商：&amp;lsquo;WuziliZ(紫云)&amp;rsquo;、&amp;lsquo;Sakerfalcon(猎隼壹号)&amp;rsquo;、&amp;lsquo;Sharetronic(协创数据)&amp;rsquo;、&amp;lsquo;RUNENG(锐仁)&amp;rsquo;。
+[修复] 修复&amp;rsquo;AMD Ryzen AI 9 HX 370 w/ Radeon 890M&amp;rsquo;获取不到CPU温度和风扇转速的问题
+[优化] 优化硬件实时数据的获取逻辑，减少资源消耗&lt;/p&gt;
+&lt;p&gt;官方网站：&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly93d3cubHVkYXNoaS5jb20v&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ludashi.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;鲁大师官方原版丨最新版下载丨版本号 6.1024.4080.1009
+官方下载：https://pc-package.ludashicdn.com/pc/2024101108/ldsstu/offline/ludashisetup.exe&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Q-Dir(免费的文件管理器) v11.84 中文绿色版</title>
         <link>https://www.danlong360.com/post/8754/</link>
         <pubDate>Thu, 10 Oct 2024 19:15:04 +0800</pubDate>
