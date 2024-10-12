@@ -7,7 +7,149 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 08 Oct 2024 13:15:33 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 12 Oct 2024 12:18:41 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>我们的电视最新版： Our tv v3.3.2 安卓&#43;TV 秒看央视、卫视直播</title>
+        <link>https://www.danlong360.com/post/3102/</link>
+        <pubDate>Sat, 12 Oct 2024 12:18:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/3102/</guid>
+        <description>&lt;p&gt;我们的电视(Our tv)是一款全新电视直播软件。内置直播源，安装即可使用。特点：稳定、蓝光、高清，而且完全免费。内容包括央视、卫视、港澳三个模块，有TV版本和手机版本，喜欢简单看电视的小伙伴可以自行选择。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/12/lzTfN8brBZXaYqW.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;2024 08 09 170127&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本说明&#34;&gt;版本说明
+&lt;/h3&gt;&lt;p&gt;我们的电视是基于大火的电视直播应用我的电视(my-tv)修改而来，是原项目停更后衍生出来的新应用，目前稳定更新中。&lt;/p&gt;
+&lt;p&gt;xxxx_androidtv.apk 电视版
+xxxx_androidphone.apk 安卓手机版&lt;/p&gt;
+&lt;p&gt;与央视频不兼容，建议关闭各应用市场的自动更新。可能会被央视频覆盖安装。&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;提供电视直播频道，包括央视、卫视、港澳等频道&lt;/li&gt;
+&lt;li&gt;支持节目回看功能&lt;/li&gt;
+&lt;li&gt;提供清晰度切换功能&lt;/li&gt;
+&lt;li&gt;支持通过ADB命令在电视上安装&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;**v3.2.9
+**修复与系统屏保冲突的问题&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;v3.3.0&lt;/strong&gt;
+增加收藏功能&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;v3.3.2&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修复凤凰卫视香港台加载节目单引起的崩溃&lt;/li&gt;
+&lt;li&gt;修复确认键出不来频道列表&lt;/li&gt;
+&lt;li&gt;修复回看中返回键返回直播&lt;/li&gt;
+&lt;li&gt;优化节目单右键跳日期选择&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO8yxKts6NsbFcZIibQAuD3AA1?pwd=4w9i&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO8yxKts6NsbFcZIibQAuD3AA1?pwd=4w9i&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>我的电视-安卓(mytv-android)最新版：v2.2.4 使用Android原生开发的电视直播软件，电视版&#43;手机版</title>
+        <link>https://www.danlong360.com/post/3961/</link>
+        <pubDate>Sat, 12 Oct 2024 12:15:34 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/3961/</guid>
+        <description>&lt;p&gt;“mytv-android”是一个使用Android原生开发的电视直播软件，主要功能包括频道切换、频道选择、自定义直播源和节目单、多直播源和多线路支持、频道收藏等。&lt;/p&gt;
+&lt;p&gt;用户可以通过遥控器或触摸屏进行操作，并支持自定义设置和多种格式的直播源和节目单。该项目旨在解决低端设备上播放4K视频卡顿的问题，仅支持Android 5及以上版本，且需要支持IPV6的网络环境。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/12/EOy9fIBpNsHPKTr.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;我的电视-安卓(mytv-android)界面预览&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;h4 id=&#34;操作方式&#34;&gt;操作方式
+&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;遥控器操作方式与主流电视直播软件类似；&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;频道切换：使用上下方向键，或者数字键切换频道；屏幕上下滑动；&lt;/li&gt;
+&lt;li&gt;频道选择：OK键；单击屏幕；&lt;/li&gt;
+&lt;li&gt;设置页面：按下菜单、帮助键，长按OK键；双击、长按屏幕；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;触摸键位对应&#34;&gt;触摸键位对应
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;方向键：屏幕上下左右滑动&lt;/li&gt;
+&lt;li&gt;OK键：点击屏幕&lt;/li&gt;
+&lt;li&gt;长按OK键：长按屏幕&lt;/li&gt;
+&lt;li&gt;菜单、帮助键：双击屏幕&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;自定义设置&#34;&gt;自定义设置
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;访问以下网址：&lt;code&gt;http://&amp;lt;设备IP&amp;gt;:10481&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;打开应用设置界面，移到最后一项&lt;/li&gt;
+&lt;li&gt;支持自定义直播源、自定义节目单、缓存时间等等&lt;/li&gt;
+&lt;li&gt;须知：网页中引用了&lt;code&gt;jsdelivr&lt;/code&gt;的cdn，请确保能够正常访问&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;自定义直播源&#34;&gt;自定义直播源
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;设置入口：自定义设置网址&lt;/li&gt;
+&lt;li&gt;格式支持：m3u格式、tvbox格式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;多直播源&#34;&gt;多直播源
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;设置入口：打开应用设置界面，选中&lt;code&gt;自定义直播源&lt;/code&gt;项，点击后将弹出历史直播源列表&lt;/li&gt;
+&lt;li&gt;历史直播源列表：短按可切换当前直播源（需重启），长按将清除历史记录；该功能类似于&lt;code&gt;多仓&lt;/code&gt;，主要用于简化直播源切换流程&lt;/li&gt;
+&lt;li&gt;须知：
+&lt;ol&gt;
+&lt;li&gt;当直播源数据获取成功时，会将该直播源保存到历史直播源列表中&lt;/li&gt;
+&lt;li&gt;当直播源数据获取失败时，会将该直播源移出历史直播源列表&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;多线路&#34;&gt;多线路
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;功能描述：同一频道拥有多个播放地址，相关标识位于频道名称后面&lt;/li&gt;
+&lt;li&gt;切换线路：左右方向键；屏幕左右滑动&lt;/li&gt;
+&lt;li&gt;自动切换：当当前线路播放失败后，将自动播放下一个线路，直至最后&lt;/li&gt;
+&lt;li&gt;须知：
+&lt;ol&gt;
+&lt;li&gt;当某一线路播放成功后，会将该线路的&lt;code&gt;域名&lt;/code&gt;保存到&lt;code&gt;可播放域名列表&lt;/code&gt;中&lt;/li&gt;
+&lt;li&gt;当某一线路播放失败后，会将该线路的&lt;code&gt;域名&lt;/code&gt;移出&lt;code&gt;可播放域名列表&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;当播放某一频道时，将优先选择匹配&lt;code&gt;可播放域名列表&lt;/code&gt;的线路&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;自定义节目单&#34;&gt;自定义节目单
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;设置入口：自定义设置网址&lt;/li&gt;
+&lt;li&gt;格式支持：.xml、.xml.gz格式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;多节目单&#34;&gt;多节目单
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;设置入口：打开应用设置界面，选中&lt;code&gt;自定义节目单&lt;/code&gt;项，点击后将弹出历史节目单列表&lt;/li&gt;
+&lt;li&gt;具体功能请参照&lt;code&gt;多直播源&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;当天节目单&#34;&gt;当天节目单
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;功能入口：打开应用选台界面，选中某一频道，按下菜单、帮助键、双击屏幕，将打开当天节目单&lt;/li&gt;
+&lt;li&gt;须知：由于该应用不支持回放功能，所以更早的节目单没必要展示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;频道收藏&#34;&gt;频道收藏
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;功能入口：打开应用选台界面，选中某一频道，长按OK键、长按屏幕，将收藏/取消收藏该频道&lt;/li&gt;
+&lt;li&gt;切换显示收藏列表：首先移动到频道列表顶部，然后再次按下方向键上，将切换显示收藏列表；手机长按频道信息切换&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO8ywfW6hdsLKt6Qr6WZbKuKA1?pwd=58nr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO8ywfW6hdsLKt6Qr6WZbKuKA1?pwd=58nr&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>星火电视 v1.0.43.2 海外版，免费看全球，极速秒播放</title>
         <link>https://www.danlong360.com/post/4865/</link>
         <pubDate>Tue, 08 Oct 2024 13:15:33 +0800</pubDate>
