@@ -7,7 +7,41 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 13 Oct 2024 12:24:09 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 14 Oct 2024 00:16:44 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>闪电藤(局域网文件传输工具) v2.6.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/5255/</link>
+        <pubDate>Mon, 14 Oct 2024 00:16:44 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/5255/</guid>
+        <description>&lt;p&gt;闪电藤是基于LocalSend二次开发的一款局域网文件传输工具，在它的基础上进行UI交互的重新设计，以及功能上的增强和删减，使其更加符合中国用户的使用体验。有了LocalSend，还要开发闪电藤，在于LocalSend的更新迭代速度较慢，并且它的使用体验更多的是按国外的来设计的，国内很多需求反馈无法实现，所以我重新设计LocalSend，并征集大家的需求，共同建设一个更完美的LocalSend。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/14/wvuHgKEiU8ocZ72.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241014001704460&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;极简无广告
+免登录
+自动连接同局域网内设备
+跨网段连接
+传输快，不限速&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2.6.0
+新增：支持云文件传输，使用见文档
+优化：更新提示不再弹框，而是用红色角标提醒&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7b4c193e0c67&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/7b4c193e0c67&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO95f2liVoRXq2d_xcefifxQA1?pwd=upr7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO95f2liVoRXq2d_xcefifxQA1?pwd=upr7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Bilidown(B站视频下载工具) v1.2.3 中文绿色版</title>
         <link>https://www.danlong360.com/post/408/</link>
         <pubDate>Sun, 13 Oct 2024 12:24:09 +0800</pubDate>
