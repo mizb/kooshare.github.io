@@ -7,7 +7,108 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 12 Oct 2024 10:31:24 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 13 Oct 2024 12:24:09 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Bilidown(B站视频下载工具) v1.2.3 中文绿色版</title>
+        <link>https://www.danlong360.com/post/408/</link>
+        <pubDate>Sun, 13 Oct 2024 12:24:09 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/408/</guid>
+        <description>&lt;p&gt;一款简洁好用的B站视频下载工具。支持由UP主上传的单集，多集以及相关封面，弹幕，字幕，音乐，刮削等等。支持任意粒度批量组合，登录后最高支持到1080P,大会员可获取所有画质及音质。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/13/9UDmdS3MvaZyPFh.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241013122426735&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;[重要] 适配一种复杂视频结构（合集+分集）的解析问题。
+[重要] 修改音频后缀，由mp3修改为真实格式aac。
+修复使用监听剪切板设置时，分集选中集数丢失问题。
+修复最小化到托盘设置显示错误问题。
+修复了一些已知问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0f023ee9e99c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0f023ee9e99c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Fast Video Downloader(视频下载器) v4.0.0.67 多语便携版</title>
+        <link>https://www.danlong360.com/post/8551/</link>
+        <pubDate>Sun, 13 Oct 2024 11:47:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8551/</guid>
+        <description>&lt;p&gt;Fast Video Downloader 是一款简单易用的视频下载器。它可以帮助用户快速下载 YouTube、Facebook、Vimeo、Dailymotion 等流行视频平台的视频，支持将视频以常见的视频格式（如MP4、FLV、MOV）保存到本地设备上。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/13/nuF3ioEck1COMIl.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241013114809676&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持从多个视频平台下载视频。
+可以下载高清视频。
+快速下载整个播放列表或频道的视频。
+可以选择下载视频的质量和格式。
+可以将下载的视频转换为不同的格式。
+具有下载速度限制和任务调度功能，以便在下载过程中灵活地管理下载任务。
+提供简单直观的用户界面，易于使用。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高速下载：Fast Video Downloader 采用多线程技术，可以提高下载速度，使用户能够快速下载大型视频文件。
+多平台支持：该软件支持多个流行的视频平台，用户可以方便地从这些平台上下载视频。
+批量下载：快速视频下载器支持批量下载，用户可以选择下载整个播放列表或频道中的所有视频，而不需要一个一个地下载。
+下载质量和格式选择：用户可以根据自己的需求选择不同的视频质量和格式进行下载，以适应不同设备和需求。
+视频转换：Fast Video Downloader 还提供视频转换功能，用户可以将下载的视频转换为其他常见格式，以便在不同设备上播放。
+简单易用：该软件提供简洁直观的用户界面，使用户可以轻松地进行视频下载操作。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/457846c685bf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/457846c685bf&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MassTube(免费视频下载工具) Plus v18.1.0.609 便携版</title>
+        <link>https://www.danlong360.com/post/2835/</link>
+        <pubDate>Sun, 13 Oct 2024 11:46:02 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/2835/</guid>
+        <description>&lt;p&gt;MassTube是一款免费的视频下载工具，可让用户方便地从YouTube等视频网站下载视频。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/13/HYdjUvgnPCzwxWI.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241013114623866&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持从YouTube等视频网站下载视频。
+可以选择下载视频的质量和文件格式。
+支持下载整个播放列表。
+可以选择下载特定的视频片段。
+提供多线程下载，加快下载速度。
+界面简单直观，易于使用。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;免费使用：MassTube是免费的视频下载工具，用户可以免费使用其所有功能。
+快速下载：软件采用多线程下载技术，可以加快下载速度，让用户更快地获取所需视频。
+支持多个视频网站：MassTube不仅支持从YouTube下载视频，还支持从其他视频网站下载，如Vimeo、Dailymotion等。
+灵活的选项：用户可以选择下载视频的质量和文件格式，以适应不同的需求和设备。
+完整的播放列表下载：软件支持一次性下载整个播放列表，方便用户批量下载视频。
+简单易用：软件界面直观简单，用户只需复制视频的URL，选择下载选项，即可开始下载。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/b5cfaa499464&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/b5cfaa499464&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Any Video Downloader(视频下载工具) Pro v9.0.10 便携版</title>
         <link>https://www.danlong360.com/post/2240/</link>
         <pubDate>Sat, 12 Oct 2024 10:31:24 +0800</pubDate>
