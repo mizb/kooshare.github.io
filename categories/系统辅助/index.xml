@@ -7,7 +7,49 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 15 Oct 2024 08:33:41 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 15 Oct 2024 11:54:21 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Fort Firewall(Windows防火墙工具) v3.14.4</title>
+        <link>https://www.danlong360.com/post/6250/</link>
+        <pubDate>Tue, 15 Oct 2024 11:54:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6250/</guid>
+        <description>&lt;p&gt;Fort Firewall 是一款高度评价的个人计算机安全防护工具，专为用户提供全面的网络安全解决方案。作为一款开源且免费的防火墙软件，它凭借其高效、轻量级及易于操作的特点，在众多同类产品中脱颖而出。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/15/q7Px9TZ1azdmAbp.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241015115449487&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;全面防护功能：Fort Firewall 采用多层次的安全防护策略，可以对网络请求、应用程序和文件进行全面的监控和保护，确保网络安全。&lt;/li&gt;
+&lt;li&gt;灵活的规则配置：用户可以根据需要自定义规则，对网络连接、应用程序、端口、IP 地址等进行灵活的配置，实现个性化的安全防护。&lt;/li&gt;
+&lt;li&gt;用户友好的界面：Fort Firewall 的界面简单直观，操作易于上手，用户可以轻松地进行规则配置和日志查看。&lt;/li&gt;
+&lt;li&gt;实时流量监控：软件支持实时监视网络数据包的流量，可以随时了解网络使用情况，并查找异常流量和攻击。&lt;/li&gt;
+&lt;li&gt;高效的性能：Fort Firewall 采用高效的内核算法，能够快速、准确地对网络流量进行处理，保证网络流畅和稳定。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;总之，Fort Firewall 是一款功能强大、易用性强的防火墙软件，可以有效保障网络安全和数据隐私。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;UI: MyFort: Move &amp;ldquo;Windows Service&amp;rdquo; from Options.
+UI: Options: Add &amp;ldquo;Alert Window for Auto-Learn mode&amp;rdquo; flag.
+UI: Options: Add &amp;ldquo;Block traffic for disabled App Groups&amp;rdquo; flag.
+UI: Programs: Remove &amp;ldquo;Use Application Group&amp;rsquo;s Enabled State&amp;rdquo; flag.
+UI: Move app group periods handling from Driver.
+Driver: Fix check of Administrator.&lt;/p&gt;
+&lt;h3 id=&#34;中文设置&#34;&gt;中文设置
+&lt;/h3&gt;&lt;p&gt;右下角托盘 – 右键 – Options – Global – Language – Chinese 保存。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d6d97c7ecb6b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d6d97c7ecb6b&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9DJK98t9uiFfx-ULdaWjQ_A1?pwd=nn6g&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9DJK98t9uiFfx-ULdaWjQ_A1?pwd=nn6g&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Advanced Renamer(文件重命名工具) v4.04 多语便携版</title>
         <link>https://www.danlong360.com/post/9991/</link>
         <pubDate>Tue, 15 Oct 2024 08:33:41 +0800</pubDate>
@@ -1893,6 +1935,8 @@ CRC32: 73123129&lt;/p&gt;
 &lt;h3 id=&#34;下载地址&#34;&gt;下载地址
 &lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/817107708d2b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://pan.quark.cn/s/817107708d2b&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9D7KAF6qHRwRXeZHxdXyMXA1?pwd=t65v&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9D7KAF6qHRwRXeZHxdXyMXA1?pwd=t65v&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -4462,6 +4506,8 @@ UE4 Prerequisites 1.0 x64&lt;/p&gt;
 &lt;h3 id=&#34;下载地址&#34;&gt;下载地址
 &lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/5de836da06ea&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://pan.quark.cn/s/5de836da06ea&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9DDu_96qHRwRXeZHxdZu-AA1?pwd=vq4m&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9DDu_96qHRwRXeZHxdZu-AA1?pwd=vq4m&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -4921,8 +4967,8 @@ UE4 Prerequisites 1.0 x64&lt;/p&gt;
 &lt;a class=&#34;link&#34; href=&#34;https://www.osssr.com/download/aHR0cDovL3d3dy5kaXNrYm9zcy5jb20vc2V0dXBzL2Rpc2tib3NzZW50X3NldHVwX3YxNS4wLjEyLmV4ZQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;http://www.diskboss.com/setups/diskbossent_setup_v15.0.12.exe&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;DiskBoss activator/crack&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/dfbe0d7d775d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://pan.quark.cn/s/dfbe0d7d775d&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9DHqZuPqNZcNTLw0o8-qc2A1?pwd=y2jh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9DHqZuPqNZcNTLw0o8-qc2A1?pwd=y2jh&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -9037,6 +9083,8 @@ CRC32: ac786c96&lt;/p&gt;
     &gt;https://url96.ctfile.com/d/60968596-62930743-ef433d?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/bd7bb29b820a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://pan.quark.cn/s/bd7bb29b820a&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9D7-TL5L0RAMhnNq3nzShvA1?pwd=xzns&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9D7-TL5L0RAMhnNq3nzShvA1?pwd=xzns&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -10562,6 +10610,8 @@ GenP现在会在启动时询问您是否要作为受信任的安装程序运行�
     &gt;https://url96.ctfile.com/d/60968596-62756689-1a0279?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
 &lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6a689172c619&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://pan.quark.cn/s/6a689172c619&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;迅雷网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9D7kepPqNZcNTLw0o7y286A1?pwd=27sr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9D7kepPqNZcNTLw0o7y286A1?pwd=27sr&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -17599,6 +17649,8 @@ Win7如果安装提示当前系统版本过时，安装上面两个补丁可解�
 &lt;h2 id=&#34;下载地址&#34;&gt;下载地址
 &lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/73b1a95936a0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://pan.quark.cn/s/73b1a95936a0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9DD3o5BKUI5m9DkH3e-7EAA1?pwd=73hn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9DD3o5BKUI5m9DkH3e-7EAA1?pwd=73hn&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
