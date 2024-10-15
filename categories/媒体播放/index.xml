@@ -7,7 +7,100 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 15 Oct 2024 12:12:16 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 15 Oct 2024 22:20:30 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PotPlayer 241015(1.7.22347) Stable 去广告绿色版</title>
+        <link>https://www.danlong360.com/post/921/</link>
+        <pubDate>Tue, 15 Oct 2024 22:20:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/921/</guid>
+        <description>&lt;p&gt;Daum PotPlayer播放器是一款全能多媒体影音播放器,堪称Windows平台最强大的本地视频播放器.PotPlayer最新版拥有强劲播放引擎加速,支持DXVA,CUDA,QuickSync,多媒体播放器支持蓝光3D,其内置强大的编码器及滤镜/分离器,支持自定义添加解码器,对字幕的支持非常优秀,能兼容特效字幕及在线搜索字幕实时翻译.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/15/FLbWEvaUB8rjNSZ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241015222048547&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;PotPlayer Version History - VideoHelp
+&lt;a class=&#34;link&#34; href=&#34;https://www.videohelp.com/software/PotPlayer/version-history&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.videohelp.com/software/PotPlayer/version-history&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;231220(1.7.22074)版本之后PotPlayer64.dll已被作者加壳防修改！&lt;/p&gt;
+&lt;p&gt;[241015] v241015(1.7.22347) 正式版
+-&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
++ 添加按下鼠标按键时调整播放速度的功能
+- 修正某些 MPEG TS 播放时间异常的问题
+- 修正播放某些 MPEG TS 时出现花屏的问题
+- 修正某些 ASS/SSA 字幕出现异常的问题
+- 修正播放超长文件时导致操作异常的问题&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;pot播放器,potplayer绿色精简版,potplayer绿色便携版
+1、去效验，去右下角空白广告弹窗！卸载可选备份设置
+2、禁止后台联网请求：境外广告、发送日志、检查升级
+3、集成额外的音频解码器及视频解码器组件：Open Codec for PotPlayer
+├—DTS, MLP, TrueHD编码器ModuleFFmpeg4FFmpegMininum64.dll
+├—S/W HEVC(H265)编码器PotPlayerModuleFFmpeg4FFmpeg64.dll
+├—Intel H.264 MVC 3D编解码器库 PotPlayerModulelibmfxsw(64).dll
+4、预设配置：常规设置 + 默认启用自定义解码器H.265/HEVC及硬件加速
+├—滤镜—视频解码器—内置解码器/DXVA设置—&amp;gt;使用硬件加速 (DXVA)
+├—滤镜—视频解码器—内置解码器/DXVA设置—解码器—&amp;gt;H.265/HEVC
+5、集成三款精选皮肤主题：简约暴风, ModernW10, Carefree (轻尘系列)
+6、删除TV直播列表, 登陆程序,日志管理, 消息通知, 多语言等不必要的文件&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/afea07b7dd1d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/afea07b7dd1d&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9FZM0DaAM8ZFiaHzRssOiZA1?pwd=263v&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9FZM0DaAM8ZFiaHzRssOiZA1?pwd=263v&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PotPlayer v1.7.22347.0 / v1.7.22332.0 Beta</title>
+        <link>https://www.danlong360.com/post/5673/</link>
+        <pubDate>Tue, 15 Oct 2024 22:19:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/5673/</guid>
+        <description>&lt;p&gt;PotPlayer是一个免费的多媒体播放器软件，由韩国开发商贝卡尔（BaeDahl）开发。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/15/xMhodZAcp5KeTys.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241015222008005&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;多种多媒体格式支持：PotPlayer支持播放几乎所有主流的音频和视频格式，如MP4，AVI，MKV，WMV，MP3，FLAC等。
+高清播放：PotPlayer支持高清视频播放，具有卓越的画质和音质效果。
+强大的解码能力：PotPlayer内置的解码器支持几乎所有编码格式，无需任何外部解码器就能正常播放。
+智能字幕功能：PotPlayer能够自动搜索并下载与视频匹配的字幕文件，并自动加载。
+3D播放：PotPlayer支持播放3D视频，提供多种3D播放模式和设置选项。
+屏幕捕捉和录制：PotPlayer内置屏幕捕捉和录制功能，可轻松捕捉视频，并录制屏幕活动。
+即时预览：PotPlayer具有即时预览功能，可以在播放前快速预览视频文件。
+视频处理选项：PotPlayer提供了一系列视频处理选项，如旋转，翻转，调整亮度和对比度，应用滤镜等。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁：PotPlayer的界面简洁直观，易于使用，适合各种用户。
+低系统资源消耗：PotPlayer是一款轻量级软件，占用较少的系统资源，没有任何广告或弹窗。
+快速启动和加载：PotPlayer启动速度快，加载媒体文件速度快，无需等待。
+自定义设置：PotPlayer提供了丰富的设置选项，用户可以根据自己的需求定制播放器的外观和功能。
+多语言支持：PotPlayer支持多种语言界面，用户可以根据自己的需要选择合适的语言。
+高度可定制化：PotPlayer提供了大量的皮肤和插件，用户可以自由选择和添加，以满足个人化需求。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;官方下载（241015-1.7.22347.0 正式版）
+&lt;a class=&#34;link&#34; href=&#34;https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;官方下载（241014-1.7.22342.0 测试版）
+&lt;a class=&#34;link&#34; href=&#34;https://t1.daumcdn.net/potplayer/beta/PotPlayerSetup64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://t1.daumcdn.net/potplayer/beta/PotPlayerSetup64.exe&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>PotPlayer 241011(1.7.22339) Beta 去广告增强绿色版</title>
         <link>https://www.danlong360.com/post/7554/</link>
         <pubDate>Tue, 15 Oct 2024 12:12:16 +0800</pubDate>
