@@ -7,7 +7,93 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 17 Oct 2024 10:08:05 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 17 Oct 2024 14:01:30 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>搜狗拼音输入法PC版 v14.9.0.9966 绿色精简版(10.16)</title>
+        <link>https://www.danlong360.com/post/7881/</link>
+        <pubDate>Thu, 17 Oct 2024 14:01:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/7881/</guid>
+        <description>&lt;p&gt;搜狗输入法电脑版是装机必备软件,其打字准,词库全,功能强大,使得输入更高效.搜狗拼音输入法最新版,AI打字准确高效.搜狗输入法去广告绿色精简版,移除广告程序精简优化后的用着还不错,至少比官方版用着安心些.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/17/AfEBvaLbYzeScTM.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241017140148663&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;升级日志 - 搜狗输入法
+&lt;a class=&#34;link&#34; href=&#34;https://pinyin.sogou.com/changelog.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pinyin.sogou.com/changelog.php&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;By: BEIKING
+– 试图打造不联网的搜狗拼音输入法精简版；
+– 修改 SogouPY.ime 和 SogouPY64.ime 去损坏弹窗；
+– 用 0 填充 SGTool.exe 中的 sogou.com 试图阻止联网；
+– 精简 Resource.dll 资源库文件
+– 皮肤和词库放入压缩包内对应文件夹也能自动安装；
+– 细胞词库正常，你下载的 scel 先放到 Scd 文件夹会自动导入；
+– 默认将属性设置、输入法管理器和符号大全快捷方式创建到根目录；
+(需通过快捷方式，才能打开“属性设置”、“输入法管理器”、“符号大全”等窗口)
+√ 免安装批处理精简绿化，仅保留核心功能！
+√ 替换默认皮肤为：简约五彩键盘；
+(修改默认皮肤：_Green\SogouPY\env.ini，ActiveSkinName=简约五彩键盘)
+√ 去联网、去弹窗、去调用，精简了所有的额外功能组件；
+√ 不支持：云计算候选、账户登陆、词库同步，已全部阉割；
+√ 支持安装皮肤和词库、保留符号大全、提供各类本地词库；
+静默安装版安装路径：C:\Program Files\搜狗拼音&lt;/p&gt;
+&lt;p&gt;2024.10.17
+跟进 BEIKING 去广告版 14.9.0.9966 (14.9b) 2024.10.16
+[2024/10/16]
+1）修复安装词库文件后，退出卡 SGTool.exe 进程
+2）完善补充包日志屏蔽
+3）脚本优化：在PE系统绿化，提高 mklink 环境兼容性不报错。&lt;/p&gt;
+&lt;h3 id=&#34;版本区别&#34;&gt;版本区别
+&lt;/h3&gt;&lt;p&gt;① exe单文件，没带词库文件，双击选择路径安装 (自动安装参数: -ai)，输入法配置保存在系统默认路径，在开始菜单创建快捷方式，SGTool.exe 允许常驻进程，响应快捷键可通过 Ctrl+Shift+Z 调出符号大全；
+② 7z 压缩包，带词库文件，需解压通过脚本安装，输入法配置保存在当前文件夹，在当前文件夹创建快捷方式，SGTool.exe 不允许常驻进程，不响应快捷键；&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9O3rLdHhqnt5IX4JKD1t8gA1?pwd=dx93&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9O3rLdHhqnt5IX4JKD1t8gA1?pwd=dx93&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>IM-Magic Partition Resizer(分区调整软件) v7.3.0 多语便携版</title>
+        <link>https://www.danlong360.com/post/3383/</link>
+        <pubDate>Thu, 17 Oct 2024 13:56:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/3383/</guid>
+        <description>&lt;p&gt;IM-Magic Partition Resizer是一款功能强大的分区调整软件，允许用户调整并重新分配硬盘分区空间，从而在不丢失数据的情况下改变分区的大小和位置&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/17/8HTYVcsMd4LOIv9.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241017135717222&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持调整和重新分配硬盘分区的空间大小。
+能够将分区扩大或缩小而不会导致数据丢失。
+可以改变分区的位置，将分区移动到不同的位置。
+能够合并多个分区为一个大分区，或者将一个大分区分割为多个小分区。
+支持调整NTFS和FAT32文件系统的分区大小。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：用户友好的界面和直观的操作使得调整分区变得轻松快捷。
+安全可靠：通过采用先进的数据保护技术，软件可以在调整分区大小时保障数据的安全性。
+快速效率：软件具有快速的分区调整速度，可以在几分钟内完成调整操作。
+支持多种存储设备：软件支持调整硬盘、SSD、USB闪存驱动器等多种存储设备的分区大小。
+支持不同的操作系统：软件可以运行在Windows 10/8/7/Vista/XP和Windows Server 2016/2012/2008/2003等多个操作系统上。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9O388o6hv2qjW8LHrvWWeAA1?pwd=e56z&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9O388o6hv2qjW8LHrvWWeAA1?pwd=e56z&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>zTasker(一键式效率倍增器定时任务) v1.99.4 中文绿色版</title>
         <link>https://www.danlong360.com/post/7095/</link>
         <pubDate>Thu, 17 Oct 2024 10:08:05 +0800</pubDate>
