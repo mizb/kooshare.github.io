@@ -7,7 +7,83 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 15 Oct 2024 21:59:13 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 17 Oct 2024 08:54:59 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>FurMark(显卡压力测试烤机软件) v2.4.1.0 绿色版</title>
+        <link>https://www.danlong360.com/post/1829/</link>
+        <pubDate>Thu, 17 Oct 2024 08:54:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/1829/</guid>
+        <description>&lt;p&gt;FurMark是一款用于测试显卡性能和稳定性的工具。它通过运行高强度的图形渲染测试来评估显卡的性能。用户可以使用FurMark来测试显卡在高负载情况下的稳定性和性能表现，另外，还提供了温度监控和帧率监控功能，以确保显卡在安全范围内运行，并提供流畅的游戏和图形体验。总的来说，FurMark 中文版是一款功能强大的显卡测试工具，可以帮助用户评估显卡的性能和稳定性，并提供实时的温度和帧率监控功能。它适用于游戏玩家、图形设计师和硬件爱好者等用户。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/17/lNJo5zmkedt94HY.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241017085516814&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;基于OpenGL API：采用OpenGL API进行渲染，可以测试显卡在渲染3D图像时的性能表现。&lt;/li&gt;
+&lt;li&gt;多种测试模式：可以进行多种测试模式，包括稳定性测试、极限烤机测试等，可以测试显卡的极限性能。&lt;/li&gt;
+&lt;li&gt;实时监测：可以实时监测显卡的温度、帧数、GPU利用率等参数，帮助用户了解显卡的实际表现。&lt;/li&gt;
+&lt;li&gt;自定义参数：可以自定义测试参数，如分辨率、渲染模式等，以满足不同用户的需求。&lt;/li&gt;
+&lt;li&gt;全屏模式：支持全屏模式，可以更加直观地观察显卡的性能表现。&lt;/li&gt;
+&lt;li&gt;免费软件：FurMark是一款免费软件，用户可以免费下载和使用。&lt;/li&gt;
+&lt;li&gt;支持多平台：支持Windows、Linux等多平台，便于用户在不同设备上使用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;furmark汉化版,FurMark烤机软件,显卡测试软件
+- 本站基于官方版解包，徒手汉化大部分字符串而成
+- 关闭检查更新提示弹窗，关闭准备测试前警告弹窗
+- 汉化所有工具 GPU-Z、GPU Shark、CPU Burner&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9e53bc218406&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9e53bc218406&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9Mz81B-oRcrFnNUs5EWVTiA1?pwd=uhmq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9Mz81B-oRcrFnNUs5EWVTiA1?pwd=uhmq&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>GPU Shark(显卡GPU监视工具) v2.4.1.0 绿色版</title>
+        <link>https://www.danlong360.com/post/8852/</link>
+        <pubDate>Thu, 17 Oct 2024 08:53:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8852/</guid>
+        <description>&lt;p&gt;GPU Shark是一款用于监测和显示图形处理器（GPU）信息的软件工具。它提供了实时的GPU性能监测和数据显示，帮助用户了解GPU的运行情况并优化系统设置。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/17/OPVcfs9Uh6XkHe8.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241017085341635&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;GPU监测：GPU Shark能够实时监测GPU的核心钟频、显存占用、温度、风扇速度等重要参数，以便用户随时了解GPU的工作状态。&lt;/li&gt;
+&lt;li&gt;GPU信息显示：该软件能够显示GPU的核心型号、显存大小、驱动版本等详细信息，方便用户了解自己的GPU配置。&lt;/li&gt;
+&lt;li&gt;性能监测：GPU Shark提供了GPU性能监测图表，显示GPU的负载、温度和风扇速度等数据，帮助用户评估GPU的性能表现以及系统的稳定性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简洁直观：GPU Shark的用户界面非常简洁，易于使用，即使对于不熟悉技术的用户也能轻松上手。&lt;/li&gt;
+&lt;li&gt;实时监测：GPU Shark能够实时更新GPU的数据，用户无需刷新或重新加载就能获取最新的GPU状态信息。&lt;/li&gt;
+&lt;li&gt;多平台支持：GPU Shark支持Windows和Linux操作系统，适用于各种计算机配置。&lt;/li&gt;
+&lt;li&gt;轻量级：该软件占用系统资源较少，对计算机性能的影响较小，不会影响其他应用程序的运行。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ed01e9e8032f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ed01e9e8032f&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9My0SvI3HvfsvXY2dMek-bA1?pwd=kctj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9My0SvI3HvfsvXY2dMek-bA1?pwd=kctj&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>HWiNFO(专业系统信息检测工具) v8.13.5565 中文绿色版</title>
         <link>https://www.danlong360.com/post/1455/</link>
         <pubDate>Tue, 15 Oct 2024 21:59:13 +0800</pubDate>
