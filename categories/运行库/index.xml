@@ -7,7 +7,70 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 11 Oct 2024 20:59:58 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 17 Oct 2024 19:36:27 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>微软运行库 Visual C&#43;&#43;RuntimePack_By:nanlon v4.0.24.1012</title>
+        <link>https://www.danlong360.com/post/4382/</link>
+        <pubDate>Thu, 17 Oct 2024 19:36:27 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4382/</guid>
+        <description>&lt;p&gt;微软常用运行库合集是软件运行时所需的库文件，当软件缺少所需运行库时会出现错误或者不能运行的情况。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/17/trlPkNSG1nLiQpF.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241017193646007&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本说明&#34;&gt;版本说明
+&lt;/h3&gt;&lt;p&gt;本运行库合集源于个人爱好（nanlon），自2016年2月18日发布第一版（1.0 Beta）以来，经过不断地迭代更新、优化、完善，安装及检测逻辑已趋成熟；
+现于2020年8月1日正式发布2.0版本，相比1.0版本，2.0版重新编写了安装脚本，现已支持所有组件的已安装检测及系统架构支持检测等。
+自2.0版起，版本号采用主版本号+次版本号+阶段版本+修订日期的命名方式，将持续跟进相关官方运行库的更新，并不断优化完善。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2024-10-12 (Ver: 4.0.24.1012)：
+Microsoft Visual C++ 2015-2022 Redist 14.42.34430.0。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9PHhij49mmyRCeUUi5DSkfA1?pwd=4j7z&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9PHhij49mmyRCeUUi5DSkfA1?pwd=4j7z&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>常用运行库合集 AIO RuntimePack_By:nanlon v4.0.24.1012</title>
+        <link>https://www.danlong360.com/post/4033/</link>
+        <pubDate>Thu, 17 Oct 2024 19:35:38 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4033/</guid>
+        <description>&lt;p&gt;运行库 是程序在运行时所需要的库文件，通常运行库是以 dll 形式提供的。由于很多常用软件都是使用 Microsoft Visual Studio 编写的，所以这类软件的运行需要依赖微软 Visual C++ 运行库，比如像 迅雷、QQ、Adobe 软件等。如果没有安装运行库或者安装的版本不完整，就可能会导致这些软件启动时报错，提示缺少 dll 文件等。该软件由 nanlon 制作，感谢！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/17/TcGZEyYM6pmQD4X.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241017193557359&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;安装支持&#34;&gt;安装支持
+&lt;/h3&gt;&lt;p&gt;该运行库合集支持 Windows 7 及以上系统安装（不支持 WinXP、Vista、Windows Server 2003/2008）
+包含的运行库 Microsoft .NET Framework、DirectX 9.0c Jun2010、Microsoft Visual C++ Redist；
+包含32位+64位运行库文件，软件会自动检测和安装系统所需运行库组件并排除不适用的组件；
+支持静默安装，参数：/S（示例：AIO_RuntimePack_2.0.20.0801.exe /S）&lt;/p&gt;
+&lt;h3 id=&#34;版本说明&#34;&gt;版本说明
+&lt;/h3&gt;&lt;p&gt;本运行库合集源于个人爱好，自2016年2月18日发布第一版（1.0 Beta）以来，经过不断地迭代更新、优化、完善，安装及检测逻辑已趋成熟；
+现于2020年8月1日正式发布2.0版本，相比1.0版本，2.0版重新编写了安装脚本，现已支持所有组件的已安装检测及系统架构支持检测等。
+自2.0版起，版本号采用主版本号+次版本号+阶段版本+修订日期的命名方式，并将持续跟进相关官方运行库的更新，不断优化完善。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2024-10-12 (Ver: 4.0.24.1012)：
+Microsoft Visual C++ 2015-2022 Redist 14.42.34430.0。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9PHhij49mmyRCeUUi5DSkfA1?pwd=4j7z&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9PHhij49mmyRCeUUi5DSkfA1?pwd=4j7z&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>微软常用运行库合集(Visual C&#43;&#43;) 2024.10.10</title>
         <link>https://www.danlong360.com/post/508/</link>
         <pubDate>Fri, 11 Oct 2024 20:59:58 +0800</pubDate>
