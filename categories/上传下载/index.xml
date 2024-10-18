@@ -7,7 +7,39 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 17 Oct 2024 19:33:45 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 19 Oct 2024 07:03:30 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Bilidown(B站视频下载工具) v1.2.4.1018 中文绿色版</title>
+        <link>https://www.danlong360.com/post/7458/</link>
+        <pubDate>Sat, 19 Oct 2024 07:03:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/7458/</guid>
+        <description>&lt;p&gt;一款简洁好用的B站视频下载工具。支持由UP主上传的单集，多集以及相关封面，弹幕，字幕，音乐，刮削等等。支持任意粒度批量组合，登录后最高支持到1080P,大会员可获取所有画质及音质。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/19/zwyf9RQX6v7jE5V.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;h1 id=&#34;修复了一些已知问题&#34;&gt;新增自动转换MP3功能。 自定义批量-&amp;gt;音频(mp3格式 | 需转换耗时)（当你下载的音频需要在一些特殊设备上播放时使用使用，比如随身听，车载等，会自动把aac格式转换为mp3格式。如果没特殊需求，建议下载默认的aac格式，音质高且体积小。）
+新增命名设置序号变量。
+新增已下载记录加密导入导出功能。
+已下载记录增加up主昵称，点击可打开up主页。
+使用分页优化已下载记录使用体验。
+优化已下载记录打开文件夹功能。
+修改批量封面后缀，由png改为真实格式jpg。
+修复了一些已知问题。
+&lt;/h1&gt;&lt;p&gt;2024-10-18 23:00 补丁，修复：命名变量%index:00%第九个未正常显示09的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9Wt8hUKhGzVEfrDVA9AgsrA1?pwd=qa33&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9Wt8hUKhGzVEfrDVA9AgsrA1?pwd=qa33&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>SmartFTP Client Enterprise(FTP客户端) v10.0.3242 多语便携版</title>
         <link>https://www.danlong360.com/post/9333/</link>
         <pubDate>Thu, 17 Oct 2024 19:33:45 +0800</pubDate>
