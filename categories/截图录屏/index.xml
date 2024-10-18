@@ -7,7 +7,59 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 17 Oct 2024 09:03:58 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 18 Oct 2024 10:19:07 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Sunny截图工具(屏幕截图工具) v2.3.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/1846/</link>
+        <pubDate>Fri, 18 Oct 2024 10:19:07 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/1846/</guid>
+        <description>&lt;p&gt;Sunny截图工具是一款功能强大的屏幕截图工具。它可以帮助用户快速、精确地捕捉屏幕上的任何内容，并提供丰富的编辑和标注功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/18/SvGjUz1pOBYnkNg.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;屏幕捕捉：可以选择全屏、窗口、矩形或自定义区域进行截图。
+全局快捷键：可以设置全局快捷键方便快速启动截图。
+图片编辑：提供各种编辑工具，如画笔、箭头、文字、标签等，可以对截图进行标注、绘画和添加文本等操作。
+图片保存：支持将截图保存为常见的图片格式，如PNG、JPG、BMP等。
+自动保存：可以设置截图自动保存到指定目录，方便后续查看和使用。
+快速分享：提供一键分享功能，可以将截图快速上传至社交媒体或文件分享平台。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简洁易用：界面简洁清晰，操作简单直观，适合各个层次的用户使用。
+高度定制化：支持个性化设置，用户可以根据自己的喜好定制截图工具的快捷键和其他参数。
+快速编辑：提供丰富的编辑工具，可以快速对截图进行各种标注和编辑操作。
+丰富的截图模式：支持全屏、窗口、矩形和自定义区域等多种截图模式，满足不同用户的需求。
+高清截图：支持高分辨率截图，保证截图的清晰度和质量。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;V2.3
+功能:
+支持在线和离线引擎， &amp;ldquo;提取文本(OCR)&amp;rdquo; [Free]
+支持在线的 &amp;ldquo;图片翻译&amp;rdquo;，30+语言翻译 [Free]
+支持离线本地&amp;quot;提取文本(OCR)&amp;ldquo;引擎，支持 CPU 和 GPU 两种模式
+对 OCR 和图片翻译，支持使用私人 key
+支持自动检测窗口的算法切换和关闭
+托盘菜单支持提供更丰富的选项
+支持日志模块
+更新多语言的翻译（感谢 @thiagodalsoto 提供葡萄牙语-巴西语翻译）
+界面优化和更多Linux发行版的适配
+修复:
+Linux 使用 .AppImage 点击更新会崩溃 #47
+Linux KDE 等部分发行版，暗色主题图标看不清 #49
+截图启动有些卡顿 #50
+其它一些 bug 的修复&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9SYSLO8jR6XZ71VFyGw5q6A1?pwd=nxfj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9SYSLO8jR6XZ71VFyGw5q6A1?pwd=nxfj&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>FastStone Capture(屏幕截图软件) v10.8 DC 15.10.2024 中文绿色版</title>
         <link>https://www.danlong360.com/post/5022/</link>
         <pubDate>Thu, 17 Oct 2024 09:03:58 +0800</pubDate>
