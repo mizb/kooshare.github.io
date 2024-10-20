@@ -7,7 +7,63 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 20 Oct 2024 19:00:17 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 20 Oct 2024 21:35:01 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>雷电模拟器 v9.1.28.0 去广告绿色纯净版</title>
+        <link>https://www.danlong360.com/post/850/</link>
+        <pubDate>Sun, 20 Oct 2024 21:35:01 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/850/</guid>
+        <description>&lt;p&gt;雷电模拟器9.0最新版采用Android 9版本内核.雷电安卓模拟器最新版,支持OpenGL3.1模式3D渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
+&lt;p&gt;雷电模拟器5.0稳定版采用Android 7.1.2版内核.雷电安卓模拟器5.0版,支持OpenGL3.1模式3D渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/20/tK28jRgPZrwUmlL.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;更新日志_雷电安卓模拟器&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.ldmnq.com/ld_update_log.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/ld_update_log.html&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;雷电模拟器绿色精简版,雷电安卓模拟器去广告绿色版&lt;/p&gt;
+&lt;p&gt;1.去启动界面广告、去任务栏右下角通知区域游戏弹窗&lt;/p&gt;
+&lt;p&gt;2.去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为）&lt;/p&gt;
+&lt;p&gt;3.去桌面底部广告（桌面主屏幕内下方5个内置游戏推广应用）&lt;/p&gt;
+&lt;p&gt;4.拒绝后台广告数据下载请求 %AppData%\Leidian64\Cache&lt;/p&gt;
+&lt;p&gt;5.破解游戏多开（解除了官方版不能同时运行超过5个APP的限制）&lt;/p&gt;
+&lt;p&gt;6.拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为&lt;/p&gt;
+&lt;p&gt;7.免安装净化处理，删除资讯广告程序、上传组件、错误报告文件&lt;/p&gt;
+&lt;p&gt;8.删除系统镜像内置短信app，提供面具(Magisk)及LSPosed框架&lt;/p&gt;
+&lt;p&gt;● 如何启用ROOT权限？&lt;/p&gt;
+&lt;p&gt;雷电模拟器9.0默认没开ROOT权限&lt;/p&gt;
+&lt;p&gt;界面-设置-其它-root权限-启用即可&lt;/p&gt;
+&lt;p&gt;● 如何只更新去广告后的系统镜像呢？&lt;/p&gt;
+&lt;p&gt;只需下载去广告版提取镜像文件替换到以下位置&lt;/p&gt;
+&lt;p&gt;├—LDPlayer9\system.vmdk, vms\system.vmdk&lt;/p&gt;
+&lt;p&gt;● 雷电模拟器9.0、雷电模拟器5.0/4.0 和 3.x 有什么区别？&lt;/p&gt;
+&lt;p&gt;# 主要指的安卓系统镜像Android版本不同(system.vmdk)：&lt;/p&gt;
+&lt;p&gt;﹂9.0：Android 9-x86_64 (64位版，64位指的安卓系统版本)&lt;/p&gt;
+&lt;p&gt;﹂5.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64位版)&lt;/p&gt;
+&lt;p&gt;﹂3.x：Android 5.1.2-x86&lt;/p&gt;
+&lt;p&gt;# 所有版本都兼容ARM库，可共存使用支持各版无限多开运行&lt;/p&gt;
+&lt;h3 id=&#34;运行要求&#34;&gt;运行要求
+&lt;/h3&gt;&lt;p&gt;Windows 7、Windows 10 或更高版64位&lt;/p&gt;
+&lt;p&gt;需要开启虚拟化技术(VT)，电脑怎么开启VT教程&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.ldmnq.com/support/VTjiao/290.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/support/VTjiao/290.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其它的说明: &lt;a class=&#34;link&#34; href=&#34;https://ldmnq.com/forum/86495.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ldmnq.com/forum/86495.html&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9e89D_KhGzVEfrDVACCoHSA1?pwd=dkas&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9e89D_KhGzVEfrDVACCoHSA1?pwd=dkas&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>沙盘SandBoxie Classic_v5.70.0 / Plus 1.15.0</title>
         <link>https://www.danlong360.com/post/9615/</link>
         <pubDate>Sun, 20 Oct 2024 19:00:17 +0800</pubDate>
