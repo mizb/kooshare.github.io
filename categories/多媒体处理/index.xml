@@ -7,7 +7,66 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 20 Oct 2024 19:59:09 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 20 Oct 2024 22:57:51 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Imagine(轻量级图像浏览器) v1.7.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/6675/</link>
+        <pubDate>Sun, 20 Oct 2024 22:57:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6675/</guid>
+        <description>&lt;p&gt;Imagine 中文版是一款免费图像浏览器应用程序，可让您查看各种格式的图片和动画，包括 JPG，BMP，PNG 和 GIF。该程序的界面带有简单的元素。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/20/dNR6KVmYynaDfwb.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;快速查看和保存图像/动画文件
+支持多种图像/动画文件格式：PNG，JPG，GIF，BMP，PCX，TGA，TIFF，ICO，CUR，LBM，ANI，FLI，WMF，EMF 等。
+从动画文件中提取单个/所有帧
+显示图像/动画文件的详细信息
+显示 Exif/IPTC 信息
+显示或隐藏透明度
+支持数码相机原始图像文件格式：3FR，ARW，CR2，CRW，DNG，ERF，KDC，MRW，NEF，ORF，RAF，RAW，SRW，SR2 等。
+支持多种存档文件格式：ZIP，RAR，7Z，ALZ，HV3，CBZ，CBR，CB7，ARJ，LZH，EGG，TAR，ISO，CAB 等。
+支持高动态范围图像文件格式：HDR，EXR，SXR，MXR 等。
+提供 64 位版本
+提供 Unicode 版本
+多语言支持：英语，德语，西班牙语，俄语，丹麦语，韩语，日语，中文等。
+缩略图浏览器
+批量转换
+幻灯片放映
+批量重命名
+拍摄画面
+平铺视图（检查纹理以进行无缝平铺，对游戏开发者/改装者非常有用）
+创建动画
+创建多个页面图像
+操纵和编辑图像
+键盘和鼠标的可定制快捷方式
+命令行参数支持
+Shell扩展支持
+附加插件支持
+Total Commander Lister 和 Packer 插件
+不写不必要的注册表（基于ini的配置）
+完全优化的二进制文件（微小，纯净，快速，整洁）&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v1.7.0, Oct 20 2024
+- Changed: Menu - &amp;lsquo;Set Transparency&amp;rsquo;
+- Added: Support for text and image elements in SVG plugin
+- Fixed: 32-bit alpha blended image clipboard copy error
+- Fixed: Color rendering error in AVIF plugin
+- Removed: Warning when saving a 32-bit image without alpha as a 24-bit image
+- Removed: Menu - &amp;lsquo;Remove Transparency&amp;rsquo;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9eReA52HybElvIDsX5v1oPA1?pwd=if4w&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9eReA52HybElvIDsX5v1oPA1?pwd=if4w&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Adobe Premiere Pro 2025 v25.0.0.61 m0nkrus</title>
         <link>https://www.danlong360.com/post/5564/</link>
         <pubDate>Sun, 20 Oct 2024 19:59:09 +0800</pubDate>

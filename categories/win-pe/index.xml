@@ -7,7 +7,38 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 11 Oct 2024 11:35:58 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/win-pe/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 20 Oct 2024 22:58:45 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/win-pe/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>玩酷之家启动U盘制作工具 v11.0.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/367/</link>
+        <pubDate>Sun, 20 Oct 2024 22:58:45 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/367/</guid>
+        <description>&lt;p&gt;玩酷之家启动U盘制作工具 CoolStartup 是由 玩酷之家论坛雅铭居士开发，为优盘启动三分区方案制作工具，支持免格升级，工具以发布PE为目的，以适应菜鸟为目的。功能简单！只需将你的UD映像（.FBA）、EFI映像（.ISO)、外置包（.7z 非必要）放在本程序的目录下或目录下的PE文件夹下，即可开始一键制作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/20/EAZkmYcGqCIfs2b.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;CoolStartup11.0 [2024.10.20] 更新信息：
+1.解决因存在USB光驱，导致工具报错问题。[@dk124_MC]
+2.解决制作时出现已停止工作或闪退的问题，[@M]出现后，重复运行程序自动修复；
+配置文件里面关闭任务栏进度条显示，可避免出现已停止工作或闪退的问题；
+出现原因是因为部分系统开启了数据执行保护导致的。
+3.安装PE到本地硬盘，增加了启动菜单超时时间参数设置[TimeOut]。[@gmy]
+4.解决安装PE到本地硬盘，PE启动菜单中含有空格，导致空格后字符丢失的情况。[@gmy]
+5.增加多语言支持，默认内置简体中文、英文。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9eRbMcDidCQ3y_ekkX40JAA1?pwd=h43r&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9eRbMcDidCQ3y_ekkX40JAA1?pwd=h43r&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>balenaEtcher(U盘镜像制作工具) v1.19.25 中文绿色版</title>
         <link>https://www.danlong360.com/post/976/</link>
         <pubDate>Fri, 11 Oct 2024 11:35:58 +0800</pubDate>
