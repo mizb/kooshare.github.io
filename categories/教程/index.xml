@@ -7,55 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 07 Oct 2024 22:12:49 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>C#21天从入门到精通</title>
-        <link>https://www.danlong360.com/post/7744/</link>
-        <pubDate>Mon, 07 Oct 2024 22:12:49 +0800</pubDate>
-        
-        <guid>https://www.danlong360.com/post/7744/</guid>
-        <description>&lt;p&gt;C#作为一种功能强大、易于学习的编程语言,在游戏开发领域得到了广泛应用。特别是Unity游戏引擎对C#的全面支持,使得开发者能够高效地构建高质量的游戏。&lt;/p&gt;
-&lt;p&gt;本课程从零基础开始，给大家详细讲解C#和.NET开发知识，主要内容包括有C#的介绍及变量的使用、类型转换及运算符、位运算符及if结构、循环结构、二维数组及结构体和枚举等内容，具体内容可以看课程目录。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/07/oxieAFN1h6ra42f.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;img&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;h3 id=&#34;课程下载&#34;&gt;课程下载
-&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/86875ab0d923&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://pan.quark.cn/s/86875ab0d923&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Kotlin高级进阶与原理剖析视频教程 - 带源码课件</title>
-        <link>https://www.danlong360.com/post/1284/</link>
-        <pubDate>Mon, 07 Oct 2024 21:53:30 +0800</pubDate>
-        
-        <guid>https://www.danlong360.com/post/1284/</guid>
-        <description>&lt;p&gt;1.Kotlin是Android开发的官方支持语言，由Google在IO大会上正式宣布。&lt;/p&gt;
-&lt;p&gt;2.Kotlin相比Java更加简洁，适合构建Android应用。&lt;/p&gt;
-&lt;p&gt;3.Kotlin运行在JVM上，可以与Java进行100%互操作。&lt;/p&gt;
-&lt;p&gt;4.Kotlin适合Android开发，也可以用于后端开发，如Spring Boot等。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/07/WraxfAjH1BVpYwN.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;img&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;h3 id=&#34;课程下载&#34;&gt;课程下载
-&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/454c3ee626f5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://pan.quark.cn/s/454c3ee626f5&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Mon, 02 Sep 2024 15:04:18 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>obsidian搭配PicGO上传图片出现upload failed, check dev console的解决办法</title>
         <link>https://www.danlong360.com/post/obsidianerror/</link>
         <pubDate>Mon, 02 Sep 2024 15:04:18 +0800</pubDate>
