@@ -7,7 +7,326 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 22 Oct 2024 00:57:12 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 22 Oct 2024 13:01:52 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>APM 第三方Bilibili音频播放器 v3.0.0</title>
+        <link>https://www.danlong360.com/post/12513/</link>
+        <pubDate>Tue, 22 Oct 2024 13:01:52 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/12513/</guid>
+        <description>&lt;p&gt;本项目是电梓播放器的移动改编，它是由电梓播放器的开发者Nek和电Nox播放器的开发者lovegaoshi开发的。本质上是个b站第三方音频在线播放器，是插件版电梓播放器和电闹播放器的忠实移植；对标油管音乐，但是去掉歌单推荐功能，交互仿造AIMP，界面更简洁，设计更人性。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/JdsXVm1M5qeZ3WG.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;目的是使视频轻量化为音频，方便溜歌/歌单分类/下载等
+支持大部分b站视频链接，以及订阅链接实现歌单自动更新；更懂听管人歌切的你
+实现了歌名提取与歌词搜索
+支持换皮和自制皮肤
+支持歌单云备份、与插件版电闹播放器伪互通
+支持b站登录，点赞，三连，增加b站视频播放量
+技术栈为跨平台React Native支持安卓和侧载苹果&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9mbA1mb9TSwEGhA_u3c9tEA1?pwd=iw7p&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9mbA1mb9TSwEGhA_u3c9tEA1?pwd=iw7p&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>凌印 v3.1.1 清爽版 抖快等去水印工具</title>
+        <link>https://www.danlong360.com/post/19711/</link>
+        <pubDate>Tue, 22 Oct 2024 13:01:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/19711/</guid>
+        <description>&lt;p&gt;永久免费无广告的抖音快手等去水印工具，简单方便快捷去水印，无需专业的技能和复杂的操作，一键即可轻松实现水印去除。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/zWtbceBEklfyQxH.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9mb6VZKLQtZA7xsgs9iYZCA1?pwd=58di&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9mb6VZKLQtZA7xsgs9iYZCA1?pwd=58di&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>哔哔音乐 v1.0.2</title>
+        <link>https://www.danlong360.com/post/62250/</link>
+        <pubDate>Tue, 22 Oct 2024 13:00:46 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/62250/</guid>
+        <description>&lt;p&gt;哔哔音乐APP基于另一位Github大佬@SocialSisterYi整理的接口，制作了一个客户端，将B站化身为音乐网站神器。&lt;/p&gt;
+&lt;p&gt;APP基于flutter编写，打开后界面简洁，无需登录即可享受B站的音乐盛宴。&lt;/p&gt;
+&lt;p&gt;想要收听音乐，点击搜索，输入关键词进行检索即可快速查找自己需要的资源。凡是B站有的资源，此处都能找到。&lt;/p&gt;
+&lt;p&gt;音乐来自不同UP主上传，同一个音乐会有多个不同版本，音质参差不齐，和专业音乐软件还是有差距的，喜欢哪些还请各位自行甄别。&lt;/p&gt;
+&lt;p&gt;软件相对比较简洁简陋，没有专门的歌词页面，如果有需要，还可一键将音乐下载到本地，随时离线收听。&lt;/p&gt;
+&lt;p&gt;虽然软件提供的有个歌单广场功能，也仅仅只有几位歌手的音乐合集而已，难以和大厂匹敌。&lt;/p&gt;
+&lt;p&gt;和成熟的音乐软件相比，哔哔音乐属实是简陋了不少，不过对于最基本的音乐需求还是能满足的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/qpgP5CVmNEyrxGR.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9mbGZxv6krOwHrcY_TGno7A1?pwd=ab3s&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9mbGZxv6krOwHrcY_TGno7A1?pwd=ab3s&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Salt Player 椒盐音乐 播放器 v10.6.0-beta01</title>
+        <link>https://www.danlong360.com/post/2220/</link>
+        <pubDate>Tue, 22 Oct 2024 13:00:13 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/2220/</guid>
+        <description>&lt;p&gt;Salt Player（中文名：椒盐音乐）是一款好用的本地音乐播放器软件，支持多种音频格式，软件的界面非常的美观，而且会根据封面的色彩产生流光元素，非常多的主题可以选择，还支持横屏模式和桌面歌词等&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/XE97AedBpxmDtql.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;沉浸模式&lt;/p&gt;
+&lt;p&gt;状态栏歌词(部分机型)&lt;/p&gt;
+&lt;p&gt;自动匹配网络歌词&lt;/p&gt;
+&lt;p&gt;音频输出高级设置&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;DSD 转 PCM 增益现在可以在 0 - 12 dB 中选择
+优化 DSD 相关设置
+优化添加歌曲到歌单对话框
+优化歌词界面性能
+优化快速切换歌曲后台加载歌词性能延迟的问题
+修复部分界面存在的颜色问题
+修复对于部分字体歌词界面歌词文本绘制对齐问题&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9mazsX9xPofLT-PNg-mnRFA1?pwd=c5fy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9mazsX9xPofLT-PNg-mnRFA1?pwd=c5fy&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Autox.Js v7.0.4 无需Root权限 JS自动化软件</title>
+        <link>https://www.danlong360.com/post/28355/</link>
+        <pubDate>Tue, 22 Oct 2024 12:59:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/28355/</guid>
+        <description>&lt;p&gt;一个支持无障碍服务的Android平台上的JavaScript 运行环境 和 开发环境，其发展目标是类似JsBox和Workflow。是安卓平台上的JavaScript自动化工具。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/CaZ9sO2bkRpS6H3.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特性&#34;&gt;软件特性
+&lt;/h3&gt;&lt;p&gt;由无障碍服务实现的简单易用的自动操作函数&lt;/p&gt;
+&lt;p&gt;悬浮窗录制和运行&lt;/p&gt;
+&lt;p&gt;更专业&amp;amp;强大的选择器API，提供对屏幕上的控件的寻找、遍历、获取信息、操作等。类似于Google的UI测试框架UiAutomator，您也可以把他当做移动版UI测试框架使用。&lt;/p&gt;
+&lt;p&gt;采用Javascript为脚本语言，并支持代码补全、变量重命名、代码格式化、查找替换等功能，可以作为一个JavaScript IDE使用&lt;/p&gt;
+&lt;p&gt;支持使用e4x编写界面，并可以将Javascript打包为apk文件，您可以用它来开发小工具应用&lt;/p&gt;
+&lt;p&gt;支持使用Root权限以提供更强大的屏幕点击、滑动、录制功能和运行shell命令。录制录制可产生JS文件或二进制文件，录制动作的回放比较流畅&lt;/p&gt;
+&lt;p&gt;提供截取屏幕、保存截图、图片找色、找图等函数&lt;/p&gt;
+&lt;p&gt;可作为Tasker插件使用，结合Tasker可胜任日常工作流&lt;/p&gt;
+&lt;p&gt;带有界面分析工具，类似Android Studio的LayoutInspector，可以分析界面层次和范围、获取界面上的控件信息的&lt;/p&gt;
+&lt;p&gt;本软件与按键精灵等软件不同，主要区别是：&lt;/p&gt;
+&lt;p&gt;Auto.Js主要以自动化、工作流为目标，更多地是方便日常生活工作，例如启动游戏时自动屏蔽通知、一键与特定联系人微信视频（知乎上出现过该问题，老人难以进行复杂的操作和子女进行微信视频）等&lt;/p&gt;
+&lt;p&gt;Auto.Js兼容性更好。以坐标为基础的按键精灵、脚本精灵很容易出现分辨率问题，而以控件为基础的Auto.Js则没有这个问题&lt;/p&gt;
+&lt;p&gt;Auto.Js执行大部分任务不需要root权限。只有需要精确坐标点击、滑动的相关函数才需要root权限&lt;/p&gt;
+&lt;p&gt;Auto.Js可以提供界面编写等功能，不仅仅是作为一个脚本软件而存在&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9max8Y4qShM7kgAR4J0r8QA1?pwd=kh6u&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9max8Y4qShM7kgAR4J0r8QA1?pwd=kh6u&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>GKD 搞快点 v1.9.0-beta3</title>
+        <link>https://www.danlong360.com/post/60971/</link>
+        <pubDate>Tue, 22 Oct 2024 12:58:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/60971/</guid>
+        <description>&lt;p&gt;GKD是一款安卓上基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击APP。&lt;/p&gt;
+&lt;p&gt;基于 高级选择器 +订阅规则 +快照审查, 它可以实现，点击跳过任意开屏广告/点击关闭应用内部任意弹窗广告, 如关闭百度贴吧帖子广告卡片/知乎回答底部推荐广告卡片，一些快捷操作, 如wx电脑登录自动同意/wx扫描登录自动同意/wx自动领取宏包。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/YqXeUEDMHnLZahQ.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;它可以实现&#34;&gt;它可以实现
+&lt;/h3&gt;&lt;p&gt;点击跳过任意开屏广告/点击关闭应用内部任意弹窗广告, 如关闭百度贴吧帖子广告卡片/知乎回答底部推荐广告卡片
+一些快捷操作, 如微信电脑登录自动同意/微信扫描登录自动同意/微信抢红包
+app已经内置了规则，还支持自动更新，已经开源在GitHub仓库，非常方便好用的工具&lt;/p&gt;
+&lt;h3 id=&#34;可选订阅规则&#34;&gt;可选订阅规则
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;（打开软件，点击订阅，点击“+”，将链接单个复制进去）&lt;/strong&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://raw.gitmirror.com/Adpro-Team/GKD_subscription/main/dist/Adpro_gkd.json5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://raw.gitmirror.com/Adpro-Team/GKD_subscription/main/dist/Adpro_gkd.json5&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://raw.gitmirror.com/AIsouler/GKD_subscription/main/dist/AIsouler_gkd.json5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://raw.gitmirror.com/AIsouler/GKD_subscription/main/dist/AIsouler_gkd.json5&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://raw.githubusercontent.com/aoguai/subscription/custom/dist/aoguai_gkd.json5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://raw.githubusercontent.com/aoguai/subscription/custom/dist/aoguai_gkd.json5&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9maqLWd8mor0-M_WIDnAnpA1?pwd=7c48&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9maqLWd8mor0-M_WIDnAnpA1?pwd=7c48&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PhotoDirector安卓版(相机大师安卓版) v19.7.4 b90190740 修改版</title>
+        <link>https://www.danlong360.com/post/74618/</link>
+        <pubDate>Tue, 22 Oct 2024 12:52:04 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/74618/</guid>
+        <description>&lt;p&gt;📱PhotoDirector安卓版是一款功能强大的照片编辑和美化应用程序，适用于安卓设备。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/tSIdkZHv4RKXFeE.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;照片编辑：提供智能修复、裁剪、旋转、调整、去除红眼等基本编辑工具，帮助用户轻松改善照片质量和外观。
+滤镜和效果：拥有大量的滤镜和特效，包括黑白、复古、HDR、模糊等，让用户可以快速为照片添加艺术效果。
+涂鸦和文字：用户可以用各种颜色和笔触进行涂鸦，并添加文字，以个性化照片。
+美容工具：提供人脸美容工具，包括磨皮、美白、瘦脸、增加眼睛亮度等功能，帮助用户轻松实现自拍美颜效果。
+照片修复：能够移除照片中的不需要的对象和杂物，让照片更干净和完美。
+HDR照片拼接：将多张相同场景但曝光度不同的照片拼接在一起，以创建令人惊叹的HDR照片效果。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简洁易用：用户界面简单直观，易于操作，无论是新手还是专业人士都可以轻松使用。
+多功能：提供了丰富的照片编辑和美化工具，满足用户各种需求。
+快速处理：软件运行速度快，可以在短时间内处理和保存高质量的照片。
+高级编辑：支持调整曝光、对比度、饱和度等参数，让用户可以自定义照片的外观。
+云存储和分享：用户可以将编辑后的照片保存到云端，方便随时随地访问和分享。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;by Balatan
+高级/付费功能已解锁；
+禁用/删除不需要的权限+接收者+提供者+服务；
+优化和快速对齐的图形和干净的资源，实现快速加载；
+从AndroidManifest中删除广告权限/服务/提供商；
+广告链接被删除，调用方法无效；
+广告布局可见性已禁用；
+Google Play Store安装程序包检查已禁用；
+调试代码已删除；
+删除相应java文件的默认.source标签名称；
+Analytics/Crashlytics/Firebase已禁用；
+Facebook广告捆绑SDK全部删除；
+没有活动跟踪器或广告；
+AOSP兼容模式；
+语言：全多国语言；
+CPU：armeabi-v7a、arm64-v8a；
+屏幕DPI：120dpi、160dpi、240dpi、320dpi、480dpi、640dpi；
+原始包裹签名已更改；&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9m_MbLQTxeikEk8Wk6ehEPA1?pwd=wyxs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9m_MbLQTxeikEk8Wk6ehEPA1?pwd=wyxs&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>OfficeSuite Premium &#43; PDF v15.0.54205 解锁高级版</title>
+        <link>https://www.danlong360.com/post/13262/</link>
+        <pubDate>Tue, 22 Oct 2024 12:51:20 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/13262/</guid>
+        <description>&lt;p&gt;📱OfficeSuite Premium是一款功能强大的办公软件，支持在手机、平板、PC上使用，包含文档、电子表格、演示文稿和PDF编辑功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/UpyTCO45HWBLRiN.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;文档编辑：支持编辑DOC、DOCX、RTF、TXT、ODT等格式的文档，可以进行排版、格式化、插入图片等操作。&lt;/li&gt;
+&lt;li&gt;电子表格：支持编辑XLS、XLSX、CSV、ODS等格式的电子表格，可以进行数字计算、公式应用、图表制作等操作。&lt;/li&gt;
+&lt;li&gt;演示文稿：支持制作PPT、PPTX、PPS、PPSX等格式的演示文稿，可以使用不同的主题、背景、动画和转场效果。&lt;/li&gt;
+&lt;li&gt;PDF编辑：支持对PDF文件进行注释、标记、签名、裁剪和旋转等操作。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;多平台支持：OfficeSuite Premium支持在Android、iOS、Windows和MacOS等多个平台上运行，用户可以在不同设备上轻松访问和编辑文档。&lt;/li&gt;
+&lt;li&gt;完美兼容：OfficeSuite Premium支持读取和编辑Microsoft Office、OpenDocument和Adobe PDF格式的文件，能够完美兼容各种常见的办公文档格式。&lt;/li&gt;
+&lt;li&gt;云存储集成：OfficeSuite Premium能够随时随地访问和保存文档，支持与Google Drive、Dropbox、OneDrive等云存储服务集成，方便用户管理和分享文档。&lt;/li&gt;
+&lt;li&gt;丰富的功能：OfficeSuite Premium除了基本的编辑功能外，还在数据处理、图表制作、注释批注、电子签名等方面提供了丰富的功能，满足用户不同的办公需求。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;OfficeSuite: Word, Sheets, PDF [Premium] [Mod Extra]&lt;/p&gt;
+&lt;p&gt;by Balatan
+- 解锁高级版，免费畅享高级版特性（注：部分特权需登陆）
+├—免广告；Word文档转换为PDF无水印；保存文档无水印
+├—支持PDF导出Word,Excel,ePub，可将任何文件导出PDF&lt;/p&gt;
+&lt;p&gt;小提示：反编译后签名原因不可以Google/Adobe账户登陆!&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9m_IfPncOHoawa8xc4-YpMA1?pwd=s2eu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9m_IfPncOHoawa8xc4-YpMA1?pwd=s2eu&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AdGuard广告拦截器APP v4.7.67 Nightly / 4.6.88 Final</title>
+        <link>https://www.danlong360.com/post/19401/</link>
+        <pubDate>Tue, 22 Oct 2024 12:50:25 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/19401/</guid>
+        <description>&lt;p&gt;📱AdGuard中文版广告拦截器是一款最受欢迎的广告拦截程序.Adguard手机版Adguard安卓版无需ROOT权限,可以拦截所有应用和浏览器的广告.具有广告内容拦截跟踪器(包括:广告过滤器,社交过滤器,隐私过滤器,安全过滤器,自定义过滤器),DNS过滤,HTTPS过滤,节省应用流量数据管理以及隐身模式保护个人安全隐私.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/A9CHlmtI2dfG3U4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;AdGuard - Block Ads Without Root Nightly for Android
+&lt;a class=&#34;link&#34; href=&#34;https://adguard.com/zh_cn/versions/android/nightly.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://adguard.com/zh_cn/versions/android/nightly.html&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;Adguard [Nightly] [Premium] [Mod]&lt;/p&gt;
+&lt;p&gt;by Balatan
+adguard安卓版,adguard破解订阅版
+- 解锁永久订阅版，可以正常更新规则
+- 去除首次启动欢迎界面快速设置向导
+- 跳过发送改善体验以及隐私政策向导
+- 禁用或移除了不必要的权限、服务、接收器、提供器
+- 删除不必要资源文件、对齐优化、压缩打包减小体积&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9m_Fps4qShM7kgAR4J0D1JA1?pwd=2wcr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9m_Fps4qShM7kgAR4J0D1JA1?pwd=2wcr&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Duolingo 多邻国 v6.4.3 高级版</title>
         <link>https://www.danlong360.com/post/944a/</link>
         <pubDate>Tue, 22 Oct 2024 00:57:12 +0800</pubDate>
