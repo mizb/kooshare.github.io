@@ -7,7 +7,48 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 20 Oct 2024 22:58:45 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/win-pe/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 22 Oct 2024 10:04:33 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/win-pe/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Rufus中文版(U盘引导盘制作工具) v4.6.2208 中文绿色版</title>
+        <link>https://www.danlong360.com/post/61552/</link>
+        <pubDate>Tue, 22 Oct 2024 10:04:33 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/61552/</guid>
+        <description>&lt;p&gt;Rufus是一款免费的开源软件，主要用于创建引导式USB启动盘。它可以帮助用户将ISO镜像文件写入USB闪存驱动器，使其成为可引导的安装介质，从而方便用户安装操作系统或进行系统恢复。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/uOTQq83S1ar26J4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种文件系统格式：Rufus 支持 FAT16、FAT32、NTFS、UDF 等多种文件系统格式，并可在 ISO/IMG/ZIP 等多种格式的映像文件之间切换。&lt;/li&gt;
+&lt;li&gt;支持多种操作系统：Rufus 支持制作 Windows、Linux、FreeDOS 等多种操作系统的可引导磁盘，用户可以根据需要选择不同的操作系统。&lt;/li&gt;
+&lt;li&gt;界面简洁易用：Rufus 的界面简洁明了，操作简单易学，即使是初学者也可以轻松制作可引导磁盘。&lt;/li&gt;
+&lt;li&gt;支持 UEFI/BIOS 引导：Rufus 支持 UEFI 和 BIOS 两种启动方式，用户可以根据计算机的启动模式进行选择，方便快捷。&lt;/li&gt;
+&lt;li&gt;支持文件损坏检查：Rufus 内置了 MD5、SHA-1、SHA-256 等多种文件损坏检查功能，确保制作出来的磁盘文件完整性。&lt;/li&gt;
+&lt;li&gt;具备可移动性：Rufus 不需要安装，可以直接将软件拷贝至 U 盘中，随时随地制作可引导磁盘。&lt;/li&gt;
+&lt;li&gt;支持多种语言：Rufus 支持多种语言界面，包括英语、中文、法语、德语、韩语等，满足不同用户的使用需求。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;版本 4.6 (2024.10.21)
+Add a new setup.exe wrapper to bypass Windows 11 24H2 in-place upgrade restrictions
+Add TimeZone to regional options replication
+Set local account passwords to not expire by default
+Fix an error when trying to write compressed VHD images
+Fix an error when invoking Rufus from the PowerShell commandline
+Improve revoked UEFI bootloaders check to support Linux SBAT, Windows SVN and cert DBX
+Improve support for ReactOS boot media&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9m175QpTSV6dGWWd5XcQ0qA1?pwd=m5gi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9m175QpTSV6dGWWd5XcQ0qA1?pwd=m5gi&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>玩酷之家启动U盘制作工具 v11.0.0 中文绿色版</title>
         <link>https://www.danlong360.com/post/367/</link>
         <pubDate>Sun, 20 Oct 2024 22:58:45 +0800</pubDate>
