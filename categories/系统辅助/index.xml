@@ -7,7 +7,161 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
+<<<<<<< HEAD
         <lastBuildDate>Wed, 23 Oct 2024 15:44:51 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+=======
+        <lastBuildDate>Wed, 23 Oct 2024 23:35:57 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>EasyUEFI(管理EFI/UEFI启动项) v5.8.0.2 多语便携版</title>
+        <link>https://www.danlong360.com/post/32598/</link>
+        <pubDate>Wed, 23 Oct 2024 23:35:57 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/32598/</guid>
+        <description>&lt;p&gt;EasyUEFI是一款系统管理软件，可以帮助用户轻松管理UEFI启动项，支持修改、删除以及增加启动项。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/23/a5NG7mjFcfpRZ4H.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1、可以自定义UEFI启动项，使用户可以添加、修改和删除启动项，让系统启动更加高效。
+2、可以查看UEFI启动项的详细信息，包括路径、参数、图标等，可以方便的修改UEFI启动项。
+3、可以导入或导出UEFI启动项列表，可以对多台计算机进行快速同步管理。
+4、支持安装Windows系统，可以在UEFI模式下进行安装，让系统安装更加安全、快捷。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好界面：EasyUEFI采用直观的用户界面，使用户能够轻松地完成各种UEFI引导管理任务，无需太多专业知识。
+多种功能选择：软件提供了多种功能选项，包括创建、修改、删除、备份和还原UEFI引导项等，满足用户的不同需求。
+强大的修复能力：EasyUEFI能够检测和修复各种UEFI引导相关问题，如无法启动、引导文件损坏等。
+安全可靠：软件对用户的操作进行了严格控制，以确保操作的安全性和可靠性。同时，EasyUEFI支持备份和还原UEFI引导项，以防止意外损坏。
+兼容性强：EasyUEFI兼容大多数主流的UEFI引导固件，如AMI、Phoenix、Intel、EFI等。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9u1R0kpPx0tQ7YnYrk1votA1?pwd=6nri&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9u1R0kpPx0tQ7YnYrk1votA1?pwd=6nri&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ISO Workshop(ISO镜像处理工具) Pro v13.1 英文便携版</title>
+        <link>https://www.danlong360.com/post/56152/</link>
+        <pubDate>Wed, 23 Oct 2024 23:34:36 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/56152/</guid>
+        <description>&lt;p&gt;ISO Workshop 是一款用于处理ISO镜像文件的软件，它可以帮助你快速、便捷地处理ISO文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/23/61ZT7KkeFgocJLi.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;创建 ISO 文件：可以从文件夹或光盘创建 ISO 映像文件。
+编辑 ISO 文件：允许添加、删除或修改已存在的 ISO 文件中的文件和目录。
+提取 ISO 文件：可以将 ISO 文件中的内容解压到指定的文件夹中。
+烧录 ISO 文件：支持将 ISO 文件直接刻录到光盘上。
+转换 ISO 文件：能够将其他类型的映像文件（如 IMG, BIN）转换为 ISO 格式。
+查看 ISO 文件信息：提供有关 ISO 文件的技术细节，包括文件结构和属性等。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种ISO镜像文件：包括ISO/CUE/IMG/BIN/NRG等格式。&lt;/li&gt;
+&lt;li&gt;内置刻录功能，你可以刻录ISO文件到CD/DVD/Blu-ray光盘。&lt;/li&gt;
+&lt;li&gt;支持从物理光盘制作ISO文件，你可以将光盘内容备份到ISO文件中。&lt;/li&gt;
+&lt;li&gt;可以对ISO文件进行编辑，你可以对ISO文件内容进行添加、删除操作。&lt;/li&gt;
+&lt;li&gt;可以从ISO文件中提取文件，你可以将ISO文件中的文件提取出来，再进行编辑和转换。&lt;/li&gt;
+&lt;li&gt;支持文件转换，你可以将ISO文件转换成其他格式，如ZIP、RAR、7Z等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9u1KADpPx0tQ7YnYrk1qxDA1?pwd=r73h&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9u1KADpPx0tQ7YnYrk1qxDA1?pwd=r73h&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>FolderSizes(磁盘空间分析软件) v9.6.494 便携版</title>
+        <link>https://www.danlong360.com/post/45362/</link>
+        <pubDate>Wed, 23 Oct 2024 23:33:55 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/45362/</guid>
+        <description>&lt;p&gt;FolderSizes是一款强大的磁盘空间分析软件，可以帮助用户快速查看和管理计算机上各个文件夹的大小。用户可以通过这款软件轻松地发现和删除占用大量空间的文件，从而释放更多的存储空间。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/23/Lwjo5xBaXHKAYqD.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;快速扫描磁盘空间，显示各个文件夹的大小和占用比例。
+支持按大小、日期、类型等不同方式对文件夹进行排序和筛选。
+提供图表显示功能，直观展示文件夹大小和占用情况。
+可以将扫描结果导出为报告，方便用户分析和参考。
+支持定时扫描功能，定期监控计算机的存储空间使用情况。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观，操作简单方便，适合各类用户使用。
+扫描速度快，可以快速准确地显示文件夹的大小和占用情况。
+支持多种搜索和筛选功能，帮助用户快速定位占用空间多的文件。
+提供图表展示功能，可以直观地了解文件夹的大小分布情况。
+软件稳定性高，不易出现崩溃和卡顿现象，能够长时间稳定运行。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9u1H5pMtTAdLv6bsUvsFt5A1?pwd=bagw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9u1H5pMtTAdLv6bsUvsFt5A1?pwd=bagw&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>FastGestures(鼠标/触控板/屏手势) v2.2.23 中文绿色版</title>
+        <link>https://www.danlong360.com/post/85356/</link>
+        <pubDate>Wed, 23 Oct 2024 23:31:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/85356/</guid>
+        <description>&lt;p&gt;FastGestures是一款轻量级的Windows软件，可以帮助用户更快速、方便地进行各种操作。它使用手势识别技术，让用户通过简单的手势即可触发各种功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/23/CjRlaie7Jb8YmVz.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;快速操作：FastGestures可以通过手势识别快速触发各种功能，例如打开应用程序、切换窗口、调整音量等。
+自定义手势：用户可以自定义手势，为每个手势关联一个特定的功能。这样，用户可以根据自己的需求和习惯来设置手势，并更轻松地完成各种操作。
+多种手势模式：FastGestures提供多种手势模式，包括手指滑动、手掌平移、手势组合等。用户可以根据不同的操作场景选择适合自己的手势模式。
+可视化设置：FastGestures提供一个可视化的设置界面，用户可以直观地设置手势和关联的功能，并即时预览效果。
+兼容性强：FastGestures与大部分Windows应用程序兼容，并且支持多种常见的手势操作，包括上下滑动、左右滑动、画圈等。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;轻量级：FastGestures具有小巧、占用资源少的特点，不会占用过多的系统资源，对计算机性能影响较小。
+易于使用：FastGestures提供直观的设置界面和简单易懂的操作方式，使用户可以快速上手，并轻松完成各种操作。
+功能丰富：FastGestures支持多种手势和功能设置，可以满足不同用户的需求。用户可以根据自己的喜好和工作习惯来自定义手势和设置功能。
+提高效率：通过使用手势操作，用户可以更快速地完成各种操作，提高工作和学习效率。
+灵活性高：FastGestures提供多种手势模式和设置选项，用户可以根据自己的需求灵活地调整手势和功能的设置。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2.2.23
+新功能
+添加云配置下载功能
+优化
+日志面板添加清空菜单
+优化手势提示面板
+优化触控屏手势体验
+修复
+修复win7下启动时调用UWP函数报错
+其它已知反馈问题&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9u18WfM4QiVvOwdB3_6CbcA1?pwd=4ay6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9u18WfM4QiVvOwdB3_6CbcA1?pwd=4ay6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+>>>>>>> 314513908e6 (update)
         <title>Exeinfo PE(EXE/Dll资源文件查壳工具) v0.0.8.6 中文绿色版</title>
         <link>https://www.danlong360.com/post/71219/</link>
         <pubDate>Wed, 23 Oct 2024 15:44:51 +0800</pubDate>
@@ -9703,6 +9857,7 @@ UE4 Prerequisites 1.0 x64&lt;/p&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;键盘快捷键&#34;&gt;键盘快捷键
 &lt;/h3&gt;&lt;table&gt;
+<<<<<<< HEAD
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;捷径&lt;/th&gt;
@@ -9759,6 +9914,64 @@ UE4 Prerequisites 1.0 x64&lt;/p&gt;
           &lt;td&gt;焦点搜索框（可定制）&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
+=======
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;捷径&lt;/th&gt;
+&lt;th&gt;功能&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;↑/↓&lt;/td&gt;
+&lt;td&gt;浏览搜索结果&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ctrl+ ↑/↓&lt;/td&gt;
+&lt;td&gt;浏览搜索历史记录（如果启用）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Enter&lt;/td&gt;
+&lt;td&gt;打开&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ctrl+ Enter/Click&lt;/td&gt;
+&lt;td&gt;开放路径&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Shift+ Enter/Click&lt;/td&gt;
+&lt;td&gt;一切皆开放&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ctrl+ Shift+C&lt;/td&gt;
+&lt;td&gt;将完整路径复制到剪贴板&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alt+ Enter/Click&lt;/td&gt;
+&lt;td&gt;文件属性&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ctrl+ Shift+Enter&lt;/td&gt;
+&lt;td&gt;以管理员身份运行&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;( Shift+)Tab&lt;/td&gt;
+&lt;td&gt;循环过滤器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ctrl+0-9&lt;/td&gt;
+&lt;td&gt;选择过滤器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Space&lt;/td&gt;
+&lt;td&gt;在QuickLook中预览文件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Win+ Alt+S&lt;/td&gt;
+&lt;td&gt;焦点搜索框（可定制）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+>>>>>>> 314513908e6 (update)
 &lt;/table&gt;
 &lt;h3 id=&#34;下载地址&#34;&gt;下载地址
 &lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/41f35c4931ea&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
