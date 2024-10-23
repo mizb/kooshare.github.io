@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+	<head><meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="腾讯QQPC版去广告增强版,此特别版由@Dreamcast组装打包而成,集成网上修改补丁及参考各种修改特点,集成VC++运行库,可选NtrQQ辅助增强插件,可选QQ本地VIP会员,可选美化托盘图标风格,可选美化声音风格,可选去QQ秀/去搜索框,可选去右下角弹窗,可选消息防撤回,可选去群聊播放送礼物动画等系列可选项.\n"> <title>腾讯QQ 9.7.13 29150 (Dreamcast) 去广告优化版</title>
+
+<link rel="canonical" href="https://www.danlong360.com/post/tengxun9713/" />
+
+<link rel="stylesheet" href="/scss/style.min.f64c625c251f23e1a0ba7b106e4b729477ac4af61ade03fb25c749edb86be194.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
+     crossorigin="anonymous">
+</script><meta property='og:title' content="腾讯QQ 9.7.13 29150 (Dreamcast) 去广告优化版">
+<meta property='og:description' content="腾讯QQPC版去广告增强版,此特别版由@Dreamcast组装打包而成,集成网上修改补丁及参考各种修改特点,集成VC++运行库,可选NtrQQ辅助增强插件,可选QQ本地VIP会员,可选美化托盘图标风格,可选美化声音风格,可选去QQ秀/去搜索框,可选去右下角弹窗,可选消息防撤回,可选去群聊播放送礼物动画等系列可选项.\n">
+<meta property='og:url' content='https://www.danlong360.com/post/tengxun9713/'>
+<meta property='og:site_name' content='KUL藏宝库'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-08-14T11:10:19&#43;08:00'/><meta property='article:modified_time' content='2024-08-14T11:10:19&#43;08:00'/>
+<meta name="twitter:title" content="腾讯QQ 9.7.13 29150 (Dreamcast) 去广告优化版">
+<meta name="twitter:description" content="腾讯QQPC版去广告增强版,此特别版由@Dreamcast组装打包而成,集成网上修改补丁及参考各种修改特点,集成VC++运行库,可选NtrQQ辅助增强插件,可选QQ本地VIP会员,可选美化托盘图标风格,可选美化声音风格,可选去QQ秀/去搜索框,可选去右下角弹窗,可选消息防撤回,可选去群聊播放送礼物动画等系列可选项.\n">
+<link rel="shortcut icon" href="/favicon.ico" />
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-K19J3P52BR"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-K19J3P52BR');
+        }
+      </script>
+
+	</head>
+	<body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu12742395681378621043.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">KUL藏宝库</a></h1>
+            <h2 class="site-description">纯净软件爱好者</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>存档</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+			<main class="main full-width">
+    <article class="main-article">
+	<header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/" >
+                电脑软件
+            </a>
+        
+            <a href="/categories/%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6/" >
+                聊天软件
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/tengxun9713/">腾讯QQ 9.7.13 29150 (Dreamcast) 去广告优化版</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024-08-14</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header> <section class="article-content">
+    
+    
+    <p>腾讯QQPC版去广告增强版,此特别版由@Dreamcast组装打包而成,集成网上修改补丁及参考各种修改特点,集成VC++运行库,可选NtrQQ辅助增强插件,可选QQ本地VIP会员,可选美化托盘图标风格,可选美化声音风格,可选去QQ秀/去搜索框,可选去右下角弹窗,可选消息防撤回,可选去群聊播放送礼物动画等系列可选项.</p>
+<p><img src="https://i.imgur.com/2qTDIvb.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20240814111037300"
+	
+	
+></p>
+<p><strong>特点描述</strong></p>
+<p>– 去除插件效验
+– 去除QQ秀广告
+– 去除QSLogic组件
+– 去除各种TIM升级推广
+– 禁止 Plugin 生成空目录
+– 去除群右上角的“举报”按键
+– 去除主菜单和设置里的“软件更新”
+– 解除隐身或离线“发送抖动和频繁次数限制”
+– 破解非VIP会员在线传输单文件4G的容量限制
+– 彻底禁止每次登陆时主面板顶部皮肤按键闪烁
+– 去除群内好友临时会话窗口右侧新版加载页广告
+– 去除系统设置 — 基本设置 — 安全推荐标签页和相关选项
+– 去除系统设置 — 基本设置 — 软件更新标签页和相关选项
+– 去除系统设置 — 基本设置 — 资讯提醒便签页和相关选项
+– 去除个人文件夹清理后出现的“安装电脑管家…”字样按钮
+– 去除网址卡片右键“QQ浏览器打开”菜单项 (感谢不醒的梦)
+– 去除群内转发的视频、音乐和文章的右键“QQ浏览器打开”选项
+– 去除设置选项“订阅美日精选，了解最新商品资讯”以及相关效果
+– 去除主面板和锁定高宽最小限制(有无搜索框时显示的高度各不同)
+– 去除内置QQ迷你浏览器模块和依赖，所有链接使用默认浏览器打开
+– 去除设置选项“订阅腾讯视频，获取量身定制视频资讯”以及相关效果
+– 禁止登录时生成 bc_******_05.db 和 beacon_report.log 的垃圾文件
+– 去除接收文件时“安装电脑管家桌面整理…”和发送文件时窗口下方广告等提示
+– 去除聊天框内网址链接鼠标悬停窗下方QQ管家图标和所在长条框，微调悬停窗
+– 统一主面板底部的好友、文档、应用三个图标风格，同菜单图标一样为灰色调，看着更美观和谐 (感谢木偶)
+– 去除QQ秀的状态下，保留群对话框隐藏侧边的小箭头 (由于小箭头是共用素材，好友对话框的小小残留无伤大雅)
+– 去除 Advertisement、AppStore、DingDong、MobileGame、Soso、WBlog、WenWen 等无用或停止运营的组件
+– 集成老李的扣扣小清新补丁9.2.1(源自：http://leewt.com)，额外手动改了几处，直接用补丁会使某些功能不能正常使用
+– 恢复群聊原创表情斗图+1功能，小清新补丁默认去掉了此功能，另外图片悬停编辑工具条也一起恢复了，两功能是一伙的
+– 保留QQ音乐点播控件QzoneMusic目录，PC端转发的虽然都是网页形式了，但手机端转发的音乐依旧可以直接在对话框内点击播放
+– 禁止 %AppData%\Tencent\QQ\Misc\UnKownFileOpen 目录生成，从而解决对话框中打开未知文件时弹出电脑管家的推广 (感谢老李)
+– 集成QQ收藏·Outlook助手V1.1，安装前请先关闭 Outlook，使用方法：http://kf.qq.com/faq/120509Uvu67N141204Zr2qyu.html
+– Win7~Win10 托盘图标，原作者来自 PCBeta 的 435312561，感谢！修改详情：http://bbs.pcbeta.com/viewthread-1653162-1-1.html</p>
+<p><strong>安装选项</strong></p>
+<p>系统声音
+├—原版
+├—传美
+└—MSN √
+托盘图标
+├—原版
+├—传美
+├—Adium
+├—Windows 7 Style
+├—Windows 8 Mod (托盘登录动画同 Windows 10 Style)
+├—Windows 8 Pure (托盘登录动画同 Windows 10 Style)
+└—Windows 10 Style √
+恢复组件(两个会弹框的组件)
+├—QQ网吧 × ☆
+└—腾讯网迷你版 × ☆
+去除 –&gt; 对话框&lt;QQ秀&gt; √ ☆
+去除 –&gt; 主面板&lt;搜索栏&gt; √ ☆
+去除 –&gt; 主面板&lt;QQ空间&gt;图标 √ ☆
+去除 –&gt; 主面板&lt;空间&gt;标签栏 √ ☆
+去除 –&gt; 桌面右下角&lt;新闻弹窗&gt; √ ☆
+去除 –&gt; 群聊时播放&lt;送礼物动画&gt; √ ☆
+启用 –&gt; 本地普通会员<VIP> ☆
+启用 –&gt; 本地已读消息&lt;防撤回&gt; √ ☆
+启用 –&gt; 主面板&lt;腾讯文档&gt;图标 √ ☆
+启用 –&gt; 点亮主面板&lt;勋章墙&gt;图标 ☆
+安装 –&gt; QQ收藏·Outlook助手 × (64位系统安装时不显示此选项)
+添加右键 –&gt; 通过QQ发送到… × ☆
+聊天记录 –&gt; 复制粘贴效果改为&lt;文本方式&gt; × ☆
+聊天记录 –&gt; 解除选项&lt;保存到安装目录下&gt;系统限制 √ ☆ （不能正常使用的尝试关闭 UAC，一般就能解决）</p>
+<p>√：表示默认推荐安装时选中
+×：表示默认推荐安装时不选中
+☆：表示覆盖安装时取消可删除相应的文件和效果</p>
+<p>特别感谢 (排名不分先后)
+———————–
+不醒的梦 (技术支持)
+老李 (小清新、去弹窗)
+烈火 (相互学习)
+D4llower (安装脚本的完善和指点)
+KanX (一些细节修改)
+Lance.Moe (NtrQQ 作者)
+zd423 (去校验)</p>
+<p><strong>注意事项</strong></p>
+<p>注意：使用NtrQQ插件，现在有被封号冻结的风险，建议根据需要选择启用该插件！！！
+由于QQ 官方例行封锁QQ旧版本的登陆接口，使用该插件的伪造版本号功能解决登陆限制
+会导致 QQ 被冻结，所以请用与插件兼容的、可正常登录的 QQ 最新版本来配合插件使用。</p>
+<p>① 所有的修改版都有被锁的风险，是否使用自己斟酌，本人不承担任何责任！
+② 安装使用QQ前请先自行安装齐全VC++运行库(Visual C++ / Universal C)
+③ 安装使用QQ前请先自行安装好 Adobe Flash Player 最新版组件，现在好像非必需但还是会提示，自己斟酌安装
+④ 默认去除了主面板&lt;QQ空间&gt;&lt;勋章墙&gt;&lt;腾讯文档&gt;三个功能图标，需要的自己勾选相关选项安装(安装版)，或组件功能切换里开启(绿色版)
+⑤ 9.3.8 开始官方对撤回消息相关做了很多改动，所以目前的防撤回修改默认使用有 bug，启用后会导致群内撤回消息重新编辑不能用，好友对话则无此问题
+└— 解决办法是进QQ的系统设置 — 会话窗口 — 勾选“撤回消息设置” ，然后“自定义消息撤回”里选择除了《无》之外的其他任意选项即可</p>
+<p>提示：
+② 请尽量不要覆盖安装，每次更新前先卸载之前的版本再安装新版
+③ 本安装版支持覆盖安装时切换选项，如系统声音、托盘图标等多个选项之间来回切换
+④ 32位系统安装时选中“QQ收藏·Outlook助手”前请先关闭 Outlook 相关进程，否则助手会安装不能
+⑤ 安装时如有提示文件占用无法继续，调出任务管理器，查找并结束 QQ.exe、QQExternal.exe、TXPlatform.exe 等相关进程一般就能重试继续，不行就看看其他腾讯类软件都开了些啥，比如：腾讯电脑管家、小Q书桌，都关了再安装试试
+⑥ 聊天记录 –&gt; 复制粘贴效果改为文本方式，以旧版纯本文的方式来复制粘贴聊天消息，此功能已知有个小小不完善，文本模式下如果不带上人名复制单人的多行消息时，那么只能粘贴到多行消息的第一行，带上人名一起复制则无此问题，气泡模式下也无此问题</p>
+<p><strong>下载地址</strong></p>
+<p>腾讯QQ v9.7.13(29150) Dreamcast去广告版 / 集成NtrQQ版 [绿色版/安装版]</p>
+<p><a class="link" href="https://pan.quark.cn/s/767feab183f5"  target="_blank" rel="noopener"
+    >https://pan.quark.cn/s/767feab183f5</a></p>
+
+</section>
+ <footer class="article-footer">
+    
+
+    </footer>
+ 
+</article>
+
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/5002/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">腾讯QQ(互联网通讯软件) v9.9.16.28788 全新NT架构</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/364/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Skype(网络通信工具) v8.130.0.205 多语便携版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/7116/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Skype(网络通信工具) v8.131.76.104 多语便携版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/8620/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Skype(网络通信工具) v8.129.0.202 多语便携版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/9905/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">微信PC版WeChat 3.9.12.17 多开防撤回绿色版(撤回带提示)</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+	<section class="copyright">
+		&copy;  2024 KUL藏宝库
+	</section>
+	
+	<section class="running-time">
+		本博客已稳定运行
+		<span id="runningdays" class="running-days"></span>
+	</section>
+	<section class="powerby">
+		 <br />
+		
+	</section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+</main>
+		</div>
+		<script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+<script>
+	let s1 = "2023-3-18"; 
+	s1 = new Date(s1.replace(/-/g, "/"));
+	let s2 = new Date();
+	let timeDifference = s2.getTime() - s1.getTime();
+
+	let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+	let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+	let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+	let result = days + "天" + hours + "小时" + minutes + "分钟";
+	document.getElementById("runningdays").innerHTML = result;
+</script>
+
+	</body>
+</html>

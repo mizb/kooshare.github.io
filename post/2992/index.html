@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+	<head><meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="Zettlr是款适合写作者和研究人员使用的Markdown编辑器，免费开源，功能简洁，具备Markdown所有基本功能，内置各种运算符，还可以调用计数器，可以完美替代Word和收费的文字处理器。\n"> <title>Zettlr 科研笔记 v3.2.2 中文版</title>
+
+<link rel="canonical" href="https://www.danlong360.com/post/2992/" />
+
+<link rel="stylesheet" href="/scss/style.min.f64c625c251f23e1a0ba7b106e4b729477ac4af61ade03fb25c749edb86be194.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
+     crossorigin="anonymous">
+</script><meta property='og:title' content="Zettlr 科研笔记 v3.2.2 中文版">
+<meta property='og:description' content="Zettlr是款适合写作者和研究人员使用的Markdown编辑器，免费开源，功能简洁，具备Markdown所有基本功能，内置各种运算符，还可以调用计数器，可以完美替代Word和收费的文字处理器。\n">
+<meta property='og:url' content='https://www.danlong360.com/post/2992/'>
+<meta property='og:site_name' content='KUL藏宝库'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-10-07T22:35:53&#43;08:00'/><meta property='article:modified_time' content='2024-10-07T22:35:53&#43;08:00'/>
+<meta name="twitter:title" content="Zettlr 科研笔记 v3.2.2 中文版">
+<meta name="twitter:description" content="Zettlr是款适合写作者和研究人员使用的Markdown编辑器，免费开源，功能简洁，具备Markdown所有基本功能，内置各种运算符，还可以调用计数器，可以完美替代Word和收费的文字处理器。\n">
+<link rel="shortcut icon" href="/favicon.ico" />
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-K19J3P52BR"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-K19J3P52BR');
+        }
+      </script>
+
+	</head>
+	<body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu12742395681378621043.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">KUL藏宝库</a></h1>
+            <h2 class="site-description">纯净软件爱好者</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>存档</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#软件特点">软件特点</a></li>
+        <li><a href="#更新日志">更新日志</a></li>
+        <li><a href="#软件下载">软件下载</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+			<main class="main full-width">
+    <article class="main-article">
+	<header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/" >
+                电脑软件
+            </a>
+        
+            <a href="/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/" >
+                办公软件
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/2992/">Zettlr 科研笔记 v3.2.2 中文版</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024-10-07</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header> <section class="article-content">
+    
+    
+    <p>Zettlr是款适合写作者和研究人员使用的Markdown编辑器，免费开源，功能简洁，具备Markdown所有基本功能，内置各种运算符，还可以调用计数器，可以完美替代Word和收费的文字处理器。</p>
+<p><img src="https://s2.loli.net/2024/10/07/a8fkNJIiMrzqBS1.webp"
+	
+	
+	
+	loading="lazy"
+	
+		alt="img"
+	
+	
+></p>
+<h3 id="软件特点">软件特点
+</h3><p>从应用程序中直接管理你的文件和文件夹。</p>
+<p>在第一个视图中使用代码片段了解您的文件中的内容。</p>
+<p>使用Quicklook快速预览文件而不关闭当前文件。</p>
+<p>使用强大的搜索操作符搜索任何东西</p>
+<p>用“计数器”这个词来概括你的写作量</p>
+<p>使用舒适的工具栏访问最重要的命令</p>
+<p>将您的文件导出到您最需要的格式，并与您的同事共享。</p>
+<h3 id="更新日志">更新日志
+</h3><p>已解决的数据丢失问题
+当Ztelr v3.0.0发布时，我们开始收到用户的报告
+提到一些文件无法正确保存，可能会导致数据
+损失。在寻找潜在的根本原因后，我们现在已经将其确定为
+文件中不正确的换行符处理。具体来说，我们不小心引入了
+这一bug将使泽特尔无法正确检测视窗风格
+CRLF换行符。这意味着泽特勒有时只能正确阅读
+并修改此类文件。</p>
+<p>此更新修复了此bug。现在，泽特尔能够正确读取和修改任何
+文件，无论它是否已在Windows、macOS、Linux甚至
+一些旧系统。我们想为这个bug道歉，并感谢你
+尽管如此，还是坚持使用泽特尔。</p>
+<p>文件过滤逻辑的更改
+文件管理器中的过滤器字段在搜索时始终应用或逻辑
+文件和工作区。在这个最新更新中，Ztelr更改为AND文件过滤
+逻辑，这意味着只有匹配所有查询的项目才会在
+输入以空格分隔的短语。</p>
+<p>举个例子：到目前为止，搜索“尼克拉斯·卢曼”会出现文件
+包含“尼克拉斯”或“卢曼”，或两者兼而有之。从现在开始，搜索
+“尼克拉斯·卢曼”只会显示包含“尼克拉斯”和“尼克拉斯”的文件
+“Luhmann”并排除错过这些短语之一的文件。</p>
+<p>GUI和功能
+特点：附件/资产/其他文件侧边栏选项卡现在也显示文件
+在适用的默认图像文件夹中找到
+特点：现在右键单击外部降价链接的上下文菜单
+包含删除链接的选项。删除<link>样式链接时，
+link文本保持为纯文本。删除<a class="link" href="link" >title</a>样式链接时，
+该title文本保持为纯文本。
+更改：在过滤器字段中搜索文件时，只有文件和
+将显示与输入的所有查询匹配的工作区
+修复了未保存更改对话框操作的法语翻译。（#5177）
+修复了在Windows上正确保存文件（和保留换行符）的错误
+系统；现在Ztelr应该能够处理任何类型的行（#5109）
+修复了各种列表控件中的复选框不正确的问题
+更新以反映实际的基础价值
+修复侧边栏中的资产文件图标
+侧边栏中的设计修复
+修复：文件预览工具提示现在尊重文件名显示设置
+修复：在文件夹中搜索（全局搜索）时聚焦输入字段
+触发
+兜帽之下
+升级Electron到v30.1.0（参见问题#5135和Electron问题#41839）
+降级Linux构建以使用Ubuntu 20.04而不是22.04（#5137）
+从内部逻辑中完全抽象出换行符处理。现在，换行符
+始终\n在整个应用程序中。文件中的实际换行符将
+存储在各自的文件描述符中，并将专门用于
+文件读取（将它们替换为\n）和文件写入（将\n替换为）</p>
+<h3 id="软件下载">软件下载
+</h3><p><a class="link" href="https://pan.quark.cn/s/45536093a3f5"  target="_blank" rel="noopener"
+    >https://pan.quark.cn/s/45536093a3f5</a></p>
+
+</section>
+ <footer class="article-footer">
+    
+
+    </footer>
+ 
+</article>
+
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/93302/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Atlantis Word Processor(文字处理软件) v4.4.1.9 便携版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/674/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">GeoGebra(动态数学软件) v6.0.864.0 中文绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/33809/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">XMind 2024(思维导图软件) v24.10.01101 中文绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/87470/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">XMind 2024(创建思维导图) v24.10.01101 中文破解版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/82875/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">PilotEdit(功能强大的文本编辑软件) Pro v19.3.0 中文破解版</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+	<section class="copyright">
+		&copy;  2024 KUL藏宝库
+	</section>
+	
+	<section class="running-time">
+		本博客已稳定运行
+		<span id="runningdays" class="running-days"></span>
+	</section>
+	<section class="powerby">
+		 <br />
+		
+	</section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+</main>
+		</div>
+		<script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+<script>
+	let s1 = "2023-3-18"; 
+	s1 = new Date(s1.replace(/-/g, "/"));
+	let s2 = new Date();
+	let timeDifference = s2.getTime() - s1.getTime();
+
+	let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+	let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+	let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+	let result = days + "天" + hours + "小时" + minutes + "分钟";
+	document.getElementById("runningdays").innerHTML = result;
+</script>
+
+	</body>
+</html>
