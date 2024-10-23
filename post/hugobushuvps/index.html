@@ -1,21 +1,23 @@
 <!DOCTYPE html>
 <html lang="zh-cn" dir="ltr">
 	<head><meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="Debian 安装 Hugo APT 安装的版本较老，所以去 Github 直接下载 .deb 包安装，要下载 extended 版本。\n1 2 wget https://github.com/gohugoio/hugo/releases/download/v0.125.2/hugo_extended_0.125.2_linux-amd64.deb dpkg -i hugo_extended_0.125.2_linux-amd64.deb 安装完成后检查版本。\n1 hugo version 运行 Hugo 把本机的 hugo 博客目录打包上传到 VPS 上，在 hugo 目录运行：\n"> <title>Hugo部署到VPS服务器</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="Debian 安装 Hugo APT 安装的版本较老，所以去 Github 直接下载 .deb 包安装，要下载 extended 版本。 1 2 wget https://github.com/gohugoio/hugo/releases/download/v0.125.2/hugo_extended_0.125.2_linux-amd64.deb dpkg -i hugo_extended_0.125.2_linux-amd64.deb 安装完成后检查版本。 1 hugo version 运行 Hugo 把本机的 hugo 博客目录打包上传到"> <title>Hugo部署到VPS服务器</title>
 
 <link rel="canonical" href="https://www.danlong360.com/post/hugobushuvps/" />
 
 <link rel="stylesheet" href="/scss/style.min.f64c625c251f23e1a0ba7b106e4b729477ac4af61ade03fb25c749edb86be194.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
      crossorigin="anonymous">
 </script><meta property='og:title' content="Hugo部署到VPS服务器">
-<meta property='og:description' content="Debian 安装 Hugo APT 安装的版本较老，所以去 Github 直接下载 .deb 包安装，要下载 extended 版本。\n1 2 wget https://github.com/gohugoio/hugo/releases/download/v0.125.2/hugo_extended_0.125.2_linux-amd64.deb dpkg -i hugo_extended_0.125.2_linux-amd64.deb 安装完成后检查版本。\n1 hugo version 运行 Hugo 把本机的 hugo 博客目录打包上传到 VPS 上，在 hugo 目录运行：\n">
+<meta property='og:description' content="Debian 安装 Hugo APT 安装的版本较老，所以去 Github 直接下载 .deb 包安装，要下载 extended 版本。 1 2 wget https://github.com/gohugoio/hugo/releases/download/v0.125.2/hugo_extended_0.125.2_linux-amd64.deb dpkg -i hugo_extended_0.125.2_linux-amd64.deb 安装完成后检查版本。 1 hugo version 运行 Hugo 把本机的 hugo 博客目录打包上传到">
 <meta property='og:url' content='https://www.danlong360.com/post/hugobushuvps/'>
 <meta property='og:site_name' content='KUL藏宝库'>
 <meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-08-26T16:47:12&#43;08:00'/><meta property='article:modified_time' content='2024-08-26T16:47:12&#43;08:00'/>
 <meta name="twitter:title" content="Hugo部署到VPS服务器">
-<meta name="twitter:description" content="Debian 安装 Hugo APT 安装的版本较老，所以去 Github 直接下载 .deb 包安装，要下载 extended 版本。\n1 2 wget https://github.com/gohugoio/hugo/releases/download/v0.125.2/hugo_extended_0.125.2_linux-amd64.deb dpkg -i hugo_extended_0.125.2_linux-amd64.deb 安装完成后检查版本。\n1 hugo version 运行 Hugo 把本机的 hugo 博客目录打包上传到 VPS 上，在 hugo 目录运行：\n">
+<meta name="twitter:description" content="Debian 安装 Hugo APT 安装的版本较老，所以去 Github 直接下载 .deb 包安装，要下载 extended 版本。 1 2 wget https://github.com/gohugoio/hugo/releases/download/v0.125.2/hugo_extended_0.125.2_linux-amd64.deb dpkg -i hugo_extended_0.125.2_linux-amd64.deb 安装完成后检查版本。 1 hugo version 运行 Hugo 把本机的 hugo 博客目录打包上传到">
 <link rel="shortcut icon" href="/favicon.ico" />
 
+  
+    
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-K19J3P52BR"></script>
       <script>
         var doNotTrack = false;
@@ -30,6 +32,10 @@
           gtag('config', 'G-K19J3P52BR');
         }
       </script>
+    
+  
+
+
 
 	</head>
 	<body class="
