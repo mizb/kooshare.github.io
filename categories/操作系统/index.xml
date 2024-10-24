@@ -7,7 +7,64 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 22 Oct 2024 20:58:16 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 24 Oct 2024 18:23:18 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows 7 &amp; Server 2008 R2 7601.27366 18in1镜像</title>
+        <link>https://www.danlong360.com/post/29926/</link>
+        <pubDate>Thu, 24 Oct 2024 18:23:18 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/29926/</guid>
+        <description>&lt;p&gt;原版集成2023年截止6月份更新完整版ISO镜像下载.微软于2020年1月15号正式停止对Windows7操作系统的支持,目前Windows系统的市场占有率来看仍旧有大量用户,部分用户认为无论是日常办公还是玩游戏,Win7的兼容性都要优于Win11系统.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/24/BdX7h1ZI6qefyvM.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;Win7系统下载, win7系统原版ISO镜像下载, win7系统集成累积更新补丁最新版&lt;/p&gt;
+&lt;p&gt;[简体中文]Windows 7 &amp;amp; Server 2008 R2 7601.27317 18in1镜像(2024年9月)&lt;/p&gt;
+&lt;p&gt;# 合集可供安装18个版本的系统映像：
+﹂Windows 7 家庭普通版&amp;amp;家庭普通版 N
+﹂Windows 7 家庭高级版&amp;amp;家庭高级版 N
+﹂Windows 7 专业版&amp;amp;专业版 N
+﹂Windows 7 企业版&amp;amp;企业版 N
+﹂Windows 7 旗舰版&amp;amp;旗舰版 N
+﹂Windows Server 2008 R2 Standard (服务器核心安装&amp;amp;完全安装)
+﹂Windows Server 2008 R2 Enterprise (服务器核心安装&amp;amp;完全安装)
+﹂Windows Server 2008 R2 Datacenter (服务器核心安装&amp;amp;完全安装)
+﹂Windows Web Server 2008 R2 (服务器核心安装&amp;amp;完全安装)&lt;/p&gt;
+&lt;p&gt;# 集成了如下的内容：
+到2024年9月的全部重要更新(除下面这些个人不推荐安装的更新)
+Bypass ESU v12、USB3.1驱动和NVMe驱动
+.NET Framework 4.8 运行库及简体中文语言包
+Microsoft Visual C++ 2005-2022的VC运行库
+IE11、WMF5.1、RDP 8.0&amp;amp;8.1、DirectX 9.0c运行库
+Microsoft Edge (更新为109版，支持Win7的最终版)&lt;/p&gt;
+&lt;p&gt;# 没有集成的更新：(Windows Update可见的, 没集成其它驱动)
+KB3021917, KB3068708, KB3080149, KB3150513, KB3184143
+注：累计更新会提示更新，是因为补丁做了修改删除了万恶的遥测.&lt;/p&gt;
+&lt;p&gt;# 制作镜像使用MSDN原版镜像如下：
+Windows 7：cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso 和 cn_windows_7_enterprise_with_sp1_x64_dvd_u_677685.iso
+Windows 7 N: en_windows_7_ultimate_n_with_sp1_x64_dvd_u_677543.iso 和 en_windows_7_enterprise_n_with_sp1_x64_dvd_u_677704.iso
+Windows Server 2008 R2：cn_windows_server_2008_r2_standard_enterprise_datacenter_and_web_with_sp1_x64_dvd_617598.iso&lt;/p&gt;
+&lt;p&gt;# Windows7 N版删除了英文语言包和区域包，并安装了简体中文的语言包和区域包。
+使用Windows 10 22H2的安装器替代Windows 7安装器，支持直接在USB3.2的环境下安装。
+ISO集成PE，可开机时切换镜像，PE镜像来自微PE2.3，支持在NVMe磁盘进行PE方式系统安装。
+Windows Server 2008 R2/Windows Web Server 2008 R2默认开启.NET Framework 3.5 SP1。&lt;/p&gt;
+&lt;p&gt;#HASH值 (MD5和SHA1)&lt;/p&gt;
+&lt;p&gt;7601.27317.240814-1814.WIN7SP1_LDR_ESCROW_CLIENTMULTI_X64FRE_ZH-CN.ISO (4.88G)
+SHA1：055dcc1da73f5aba21e79969e0d4cfc5455c7ddb
+MD5：117c0eb76fc3c15a4f106188406770be&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9yWQpgwjqyoyHKf86gwPYxA1?pwd=ng4v&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9yWQpgwjqyoyHKf86gwPYxA1?pwd=ng4v&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows 11 23H2 官方正式版2024年10月版</title>
         <link>https://www.danlong360.com/post/30370/</link>
         <pubDate>Tue, 22 Oct 2024 20:58:16 +0800</pubDate>
