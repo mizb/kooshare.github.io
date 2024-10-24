@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>运行库 on KUL藏宝库</title>
+        <link>https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/</link>
+        <description>Recent content in 运行库 on KUL藏宝库</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>KUL藏宝库</copyright>
+        <lastBuildDate>Thu, 17 Oct 2024 19:36:27 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>微软运行库 Visual C&#43;&#43;RuntimePack_By:nanlon v4.0.24.1012</title>
+        <link>https://www.danlong360.com/post/4382/</link>
+        <pubDate>Thu, 17 Oct 2024 19:36:27 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4382/</guid>
+        <description>&lt;p&gt;微软常用运行库合集是软件运行时所需的库文件，当软件缺少所需运行库时会出现错误或者不能运行的情况。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/17/trlPkNSG1nLiQpF.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241017193646007&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本说明&#34;&gt;版本说明
+&lt;/h3&gt;&lt;p&gt;本运行库合集源于个人爱好（nanlon），自2016年2月18日发布第一版（1.0 Beta）以来，经过不断地迭代更新、优化、完善，安装及检测逻辑已趋成熟；
+现于2020年8月1日正式发布2.0版本，相比1.0版本，2.0版重新编写了安装脚本，现已支持所有组件的已安装检测及系统架构支持检测等。
+自2.0版起，版本号采用主版本号+次版本号+阶段版本+修订日期的命名方式，将持续跟进相关官方运行库的更新，并不断优化完善。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2024-10-12 (Ver: 4.0.24.1012)：
+Microsoft Visual C++ 2015-2022 Redist 14.42.34430.0。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9PHhij49mmyRCeUUi5DSkfA1?pwd=4j7z&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9PHhij49mmyRCeUUi5DSkfA1?pwd=4j7z&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>常用运行库合集 AIO RuntimePack_By:nanlon v4.0.24.1012</title>
+        <link>https://www.danlong360.com/post/4033/</link>
+        <pubDate>Thu, 17 Oct 2024 19:35:38 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4033/</guid>
+        <description>&lt;p&gt;运行库 是程序在运行时所需要的库文件，通常运行库是以 dll 形式提供的。由于很多常用软件都是使用 Microsoft Visual Studio 编写的，所以这类软件的运行需要依赖微软 Visual C++ 运行库，比如像 迅雷、QQ、Adobe 软件等。如果没有安装运行库或者安装的版本不完整，就可能会导致这些软件启动时报错，提示缺少 dll 文件等。该软件由 nanlon 制作，感谢！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/17/TcGZEyYM6pmQD4X.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241017193557359&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;安装支持&#34;&gt;安装支持
+&lt;/h3&gt;&lt;p&gt;该运行库合集支持 Windows 7 及以上系统安装（不支持 WinXP、Vista、Windows Server 2003/2008）
+包含的运行库 Microsoft .NET Framework、DirectX 9.0c Jun2010、Microsoft Visual C++ Redist；
+包含32位+64位运行库文件，软件会自动检测和安装系统所需运行库组件并排除不适用的组件；
+支持静默安装，参数：/S（示例：AIO_RuntimePack_2.0.20.0801.exe /S）&lt;/p&gt;
+&lt;h3 id=&#34;版本说明&#34;&gt;版本说明
+&lt;/h3&gt;&lt;p&gt;本运行库合集源于个人爱好，自2016年2月18日发布第一版（1.0 Beta）以来，经过不断地迭代更新、优化、完善，安装及检测逻辑已趋成熟；
+现于2020年8月1日正式发布2.0版本，相比1.0版本，2.0版重新编写了安装脚本，现已支持所有组件的已安装检测及系统架构支持检测等。
+自2.0版起，版本号采用主版本号+次版本号+阶段版本+修订日期的命名方式，并将持续跟进相关官方运行库的更新，不断优化完善。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2024-10-12 (Ver: 4.0.24.1012)：
+Microsoft Visual C++ 2015-2022 Redist 14.42.34430.0。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9PHhij49mmyRCeUUi5DSkfA1?pwd=4j7z&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9PHhij49mmyRCeUUi5DSkfA1?pwd=4j7z&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>微软常用运行库合集(Visual C&#43;&#43;) 2024.10.10</title>
+        <link>https://www.danlong360.com/post/508/</link>
+        <pubDate>Fri, 11 Oct 2024 20:59:58 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/508/</guid>
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版VC++运行库合集(微软常用运行库合集),整合了所有版本Visual C ++,可以自选更新VC++版本组件,并提供图形安装界面.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/bPcQqY9x1Uke2n8.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241011210016458&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;Visual C++ 微软常用运行库合集 (32+64位合集)
+Repacked by Dreamcast (Build on 2023.02.22)&lt;/p&gt;
+&lt;p&gt;包含组件：
+Visual Basic Virtual Machine(5.1)
+Visual Basic Virtual Machine(6.0)
+Microsoft C Runtime Library 2002(7.0.9975.0)
+Microsoft C Runtime Library 2003(7.10.6119.0)
+Microsoft Visual C++2005 SP1(8.0.61187)
+Microsoft Visual C++2008 SP1(9.0.30729.7523)
+Microsoft Visual C++2010 SP1(10.0.40219.473)
+Microsoft Visual C++2012 UP4(11.0.61135.400)
+Microsoft Visual C++2013(12.0.40664.0)
+Microsoft Visual C++2019(14.28.29213.0)(WinXP)
+Microsoft Visual C++2015-2022(14.34.32323.0)(Win7+)
+Microsoft Universal CRuntime(10.0.10586.9)(WinXP～7)
+Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;Microsoft Visual C++ 2015-2022 Redistributable 14.36.32323.0&lt;/p&gt;
+&lt;h3 id=&#34;静默参数&#34;&gt;静默参数
+&lt;/h3&gt;&lt;p&gt;/silent /verysilent&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/908c4410e1bb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/908c4410e1bb&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Visual C&#43;&#43;运行库合集轻量版24年10月版v84</title>
+        <link>https://www.danlong360.com/post/6894/</link>
+        <pubDate>Thu, 10 Oct 2024 18:57:20 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6894/</guid>
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版VC++运行库合集(VisualCppRedist),体积小巧,支持静默参数,整合了所有版本Visual C ++,能自动检测安装所有VC库版本.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/fQKoTjAiHXub5zS.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241010185740254&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;Releases · abbodi1406/vcredist · GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/abbodi1406/vcredist/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/abbodi1406/vcredist/releases&lt;/a&gt;
+Microsoft Visual C++ Runtimes AIO 0.66 Repack
+Visual C++ Redistributable Runtimes AIO Repack
+整合的组件版本：
+Microsoft Visual Basic/C++ Runtime (x86/x64)
+Microsoft C Runtime Library (2002: 7.0.9975.0)
+Microsoft C Runtime Library (2003: 7.10.6119.0)
+Microsoft Visual C++ Redistributables (x86/x64)
+├—Microsoft Visual C++ 2005 Redistributable - 8.0.61187
+├—Microsoft Visual C++ 2008 Redistributable - 9.0.30729
+├—Microsoft Visual C++ 2010 Redistributable - 10.0.40219
+├—Microsoft Visual C++ 2012 Redistributable - 11.0.61135
+├—Microsoft Visual C++ 2013 Redistributable - 12.0.40664
+├—Microsoft Visual C++ 2015 Redistributable - 14.10.25008
+├—Microsoft Visual C++ 2005-2022 Redistributable - 14.36.32323.0.0
+Microsoft Visual Studio 2010 Tools for Office Runtime (x86/x64)&lt;/p&gt;
+&lt;p&gt;无人值守运行参数：
+/ai -自动安装全部，不显示提取解压对话框
+/y -自动安装全部，提供安装界面进度显示
+/aiM -自选安装全部，安装每个版本有解压对话框并询问确认
+/aiU -自动卸载全部，卸载每个版本有提取对话框并询问确认
+/aiA -自动安装全部，但是隐藏系统卸载程序列表里的ARP项
+/aiR -自动卸载全部
+/ai5 -安装Microsoft Visual C ++2005
+/ai8 -安装Microsoft Visual C ++2008
+/aiX -安装Microsoft Visual C ++2010
+/ai2 -安装Microsoft Visual C ++2012
+/ai3 -安装Microsoft Visual C ++2013
+/ai9 -安装Microsoft Visual C ++2019
+/aiT -安装Microsoft Visual Studio 2010
+/aiE -安装Microsoft Visual Basic/C++
+/aiV -安装Microsoft C Runtime Library
+/aiH -系统卸载程序列表中自动隐藏已经安装的项
+/aiP -系统卸载程序列表中手动隐藏或显示已经安装的项
+/aiC -完全执行被动模式。安装所有，但UCRT KB3118401除外
+/aiD -调试模式，创建VCpp_debug.log而不安装/卸载任何组件
+/gm2 -7zSFX的静默模式参数，用于禁用解压对话框的可选参数&lt;/p&gt;
+&lt;p&gt;• 无人值守静默安装参数示例：
+自动安装Visual C ++2022(适用仅更新)
+VisualCppRedist_AIO_x86_x64.exe /ai9 /gm2
+自动安装所有VC++运行库组件(适合新系统)
+VisualCppRedist_AIO_x86_x64.exe /ai /gm2&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v0.84.0
+New: Visual C++ 2022 Redistributable - 14.42.34430.0&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f06726be2319&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f06726be2319&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>游戏常用运行库合集 Game Runtime Libraries Package v4.0.24.1009</title>
+        <link>https://www.danlong360.com/post/1236/</link>
+        <pubDate>Wed, 09 Oct 2024 22:00:23 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/1236/</guid>
+        <description>&lt;p&gt;游戏常用运行库 合集 整合了许多游戏会用到的运行库，支持 Windows XP – Windows 11 系统，并且支持自动检测系统勾选推荐的运行库，方便快捷。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/09/2LxDr3n7HQEz8qM.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241009220040783&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;本版特点&#34;&gt;本版特点
+&lt;/h3&gt;&lt;p&gt;By：mefcl
+整合常见最新游戏所需运行库
+根据系统自动勾选推荐的版本
+纯净安装包无病毒和弹窗行为
+支持静默安装，静默参数：/S
+致谢：
+David R. Stein、Dreamcast、NanLon、rizalmart、断剑留痕、云水扶摇&lt;/p&gt;
+&lt;h3 id=&#34;包含组件&#34;&gt;包含组件
+&lt;/h3&gt;&lt;p&gt;Microsoft Visual C++ 2002-2003 Runtime x86
+Microsoft Visual C++ 2005 Redist x86 x64
+Microsoft Visual C++ 2008 Redist x86 x64
+Microsoft Visual C++ 2010 Redist x86 x64
+Microsoft Visual C++ 2012 Redist x86 x64
+Microsoft Visual C++ 2013 Redist x86 x64
+Microsoft Visual C++ 2015-2022 Redist x86 x64
+Microsoft .NET Framework 1.0
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 3.5（含2.0、3.0） x86 x64
+Microsoft .NET Framework 4.0 x86 x64
+Microsoft .NET Framework 4.8 x86 x64
+Microsoft .NET Framework 6.0 x86 x64
+Microsoft .NET Framework 7.0 x86 x64
+Microsoft .NET Framework 8.0 x86 x64
+Microsoft XNA Framework 1.0 x86 x64
+Microsoft XNA Framework 2.0 x86 x64
+Microsoft XNA Framework 3.0 x86 x64
+Microsoft XNA Framework 3.1 x86 x64
+Microsoft XNA Framework 4.0 x86 x64
+Microsoft Visual F# Runtime
+Microsoft Visual J# Redistributable Package
+Microsoft AppLocale
+Microsoft XML Core Services 4.0
+Microsoft XML Core Services 6.0
+Microsoft Silverlight 5.0
+Microsoft Games for Windows Marketplace
+Microsoft Games for Windows – LIVE Redistributable
+Microsoft Visual Basic/C++ Runtime
+Microsoft Visual Basic 6.0 Runtime Plus
+– Visual Basic runtime files (v1.0 至 v6.0)
+– Visual Basic Extensions (VBX)
+– ActiveX Controls
+– Dynamic Data Exchange (DDE)
+– Open Link Embedding (OLE)
+– OLE Automation
+– Data Access Objects (DAO)
+– Remote Data Objects (RDO)
+– Distributive Component Object Model (DCOM)
+– Microsoft Data Access Components (MDAC)
+– Microsoft Jet (from 1.x 至 3.x)
+– Windows Script Host (WSH)
+– Windows Management Instrumentation (WMI)
+– DirectX Components for Visual Basic
+– WinG
+– Crystal Report runtime files
+– Third-party ActiveX Controls 和 libraries
+– Microsoft XML Services
+– NTVDM 和 DirectPlay（通过 Windows 功能，仅适用于 Windows 8 或更高版本）
+Microsoft Visual Studio 2010 Tools for Office Runtime
+DirectX 9.0c 9.0、10、11
+NVIDIA PhysX System Software
+Open Audio Library (OpenAL) 2.1
+Rapture3D 2.7.4
+SlimDX Runtime .NET 2.0
+SlimDX Runtime .NET 4.0
+Rockstar Games Social Club 1.1
+Unity Web Player 5.3
+VulkanRT 1.3
+UE4 Prerequisites 1.0 x64&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2024.10.09
+更新 Microsoft .NET Framework 8.0.10.34118
+更新 Microsoft .NET Framework 6.0.35.34113
+修正 Microsoft Silverlight 安装问题&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d30acca2cdac&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d30acca2cdac&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>微软常用运行库合集 2024.08.14 (Visual C&#43;&#43;) 官方版</title>
+        <link>https://www.danlong360.com/post/yunxingkuheji0814/</link>
+        <pubDate>Wed, 21 Aug 2024 22:43:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/yunxingkuheji0814/</guid>
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版VC++运行库合集(微软常用运行库合集),整合了所有版本Visual C ++,可以自选更新VC++版本组件,并提供图形安装界面.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/0hWWHCs.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821224405669&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Visual C++ 微软常用运行库合集 (32+64位合集)
+Repacked by Dreamcast (Build on 2024.08.14)&lt;/p&gt;
+&lt;p&gt;包含组件：
+Visual Basic Virtual Machine(5.1)
+Visual Basic Virtual Machine(6.0)
+Microsoft C Runtime Library 2002(7.0.9975.0)
+Microsoft C Runtime Library 2003(7.10.6119.0)
+Microsoft Visual C++2005 SP1(8.0.61187)
+Microsoft Visual C++2008 SP1(9.0.30729.7523)
+Microsoft Visual C++2010 SP1(10.0.40219.473)
+Microsoft Visual C++2012 UP4(11.0.61135.400)
+Microsoft Visual C++2013(12.0.40664.0)
+Microsoft Visual C++2019(14.38.32919.0)(WinXP)
+Microsoft Visual C++2015-2022(14.42.34226.3)(Win7+)
+Microsoft Universal CRuntime(10.0.10586.9)(WinXP～7)
+Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;静默参数&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;/silent /verysilent&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/783c8e2b40b1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/783c8e2b40b1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO95GxjxVoRXq2d_xcefSUcjA1?pwd=t5dk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO95GxjxVoRXq2d_xcefSUcjA1?pwd=t5dk&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Microsoft Visual C&#43;&#43;14.42.34226.3 (常用运行库) 官方版</title>
+        <link>https://www.danlong360.com/post/visualc34226/</link>
+        <pubDate>Wed, 21 Aug 2024 22:42:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/visualc34226/</guid>
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,这是官方版安装包.&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2019为创建基于微软 Windows 和基于 Microsoft .NET 的应用程序提供了强大而灵活的开发环境支持。Visual C++ Redistributable 用于需要运行C++使用 Visual Studio 2019 开发的应用程序，并动态链接到库。您可以使用这些在系统运行此类应用程序，即使当前系统没有安装 Visual Studio 2019。它将安装这些运行库组件：C Runtime (CRT), Standard C++, MFC, C++ AMP, OpenMP。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/5p3EFYf.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821224305606&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最新支持的Visual C++ 可再发行程序包下载 | Microsoft Docs
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vemgtY24vY3BwL3dpbmRvd3MvbGF0ZXN0LXN1cHBvcnRlZC12Yy1yZWRpc3Q/dmlldz1tc3ZjLTE3MA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.microsoft.com/zh-cn/cpp/windows/latest-supported-vc-redist?view=msvc-170&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Visual C++ 2015, 2017, 2019, 2022 版本现在共用一个安装包。
+例如：安装 VC++2019 将影响使用 VC++2015, 2017 构建的程序。
+但是，安装VC++2015 并不会取代 VC++2015, 2017 安装的文件的较新版本。
+与以前的版本不同，它们各自都有独自的运行库文件，而不是与其它版本共享。&lt;/p&gt;
+&lt;p&gt;静默安装参数：VC_redist.x64.exe /S&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2015-2022 Redistributable 14.42.34226.3 (2024/08/02)&lt;/p&gt;
+&lt;p&gt;x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC52aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS9kb3dubG9hZC9wci8zMjYyN2QzOC1iYzkyLTRmN2MtYjRlMi03MjU5NWMzZDZkYmMvQkMzNDM3M0RCNzhGRDczNDY1N0JGQTdCRDFFNjEyQzhCMUI0NkRENDY3OTY3RjMzRTAwNDRDQTY2RkZBMTg5Mi9WQ19yZWRpc3QueDY0LmV4ZQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.visualstudio.microsoft.com/download/pr/32627d38-bc92-4f7c-b4e2-72595c3d6dbc/BC34373DB78FD734657BFA7BD1E612C8B1B46DD467967F33E0044CA66FFA1892/VC_redist.x64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;x86 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC52aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS9kb3dubG9hZC9wci8zMjYyN2QzOC1iYzkyLTRmN2MtYjRlMi03MjU5NWMzZDZkYmMvN0I1MzJBQ0Y1MTAyMzAyMjZERjJCMjQ0NDY2NDNFQkRERTZERTQ1RDBFRTJBOEFBN0NBRjQ4MkVGNkQwM0ZEQy9WQ19yZWRpc3QueDg2LmV4ZQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.visualstudio.microsoft.com/download/pr/32627d38-bc92-4f7c-b4e2-72595c3d6dbc/7B532ACF510230226DF2B24446643EBDDE6DE45D0EE2A8AA7CAF482EF6D03FDC/VC_redist.x86.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2015 Redistributable 14.0.24516.0
+x86 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzQvNS82LzQ1NmNmNzlhLTQwNDYtNDIzMi04ZTZmLTdjZjNkODA3NWQ5YS92Y19yZWRpc3QueDg2LmV4ZQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/4/5/6/456cf79a-4046-4232-8e6f-7cf3d8075d9a/vc_redist.x86.exe&lt;/a&gt;
+x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzgvNS9lLzg1ZWRiODQzLTkzYWYtNGRhYS1hZDFlLWMzM2RmYTk1YjJlYS92Y19yZWRpc3QueDY0LmV4ZQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/8/5/e/85edb843-93af-4daa-ad1e-c33dfa95b2ea/vc_redist.x64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2013 Redistributable – 12.0.40664
+x86 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC52aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS9kb3dubG9hZC9wci8xMDkxMjExMy81ZGE2NmRkZWJiMGFkMzJlYmQ0YjkyMmZkODJlOGUyNS92Y3JlZGlzdF94ODYuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.visualstudio.microsoft.com/download/pr/10912113/5da66ddebb0ad32ebd4b922fd82e8e25/vcredist_x86.exe&lt;/a&gt;
+x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC52aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS9kb3dubG9hZC9wci8xMDkxMjA0MS9jZWU1ZDZiY2EyZGRiY2QwMzlkYTcyN2JmNGFjYjQ4YS92Y3JlZGlzdF94NjQuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.visualstudio.microsoft.com/download/pr/10912041/cee5d6bca2ddbcd039da727bf4acb48a/vcredist_x64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2012 Redistributable – 11.0.61135.400
+x86 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzEvNi9CLzE2QjA2RjYwLTNCMjAtNEZGMi1CNjk5LTVFOUI3OTYyRjlBRS9WU1VfNC92Y3JlZGlzdF94ODYuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x86.exe&lt;/a&gt;
+x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzEvNi9CLzE2QjA2RjYwLTNCMjAtNEZGMi1CNjk5LTVFOUI3OTYyRjlBRS9WU1VfNC92Y3JlZGlzdF94NjQuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2010 Redistributable – 10.0.40219.473
+x86 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkL0UvRS8wL0VFMDVDOUVGLUE2NjEtNEQ5RS1CQ0UyLTY5NjFFQ0RGMDg3Ri92Y3JlZGlzdF94ODYuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/E/E/0/EE05C9EF-A661-4D9E-BCE2-6961ECDF087F/vcredist_x86.exe&lt;/a&gt;
+x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkL0UvRS8wL0VFMDVDOUVGLUE2NjEtNEQ5RS1CQ0UyLTY5NjFFQ0RGMDg3Ri92Y3JlZGlzdF94NjQuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/E/E/0/EE05C9EF-A661-4D9E-BCE2-6961ECDF087F/vcredist_x64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2008 Redistributable – 9.0.30729.7523
+x86 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzUvRC84LzVEOEM2NUNCLUM4NDktNDAyNS04RTk1LUMzOTY2Q0FGRDhBRS92Y3JlZGlzdF94ODYuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x86.exe&lt;/a&gt;
+x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzUvRC84LzVEOEM2NUNCLUM4NDktNDAyNS04RTk1LUMzOTY2Q0FGRDhBRS92Y3JlZGlzdF94NjQuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2005 Redistributable – 8.0.61001
+x86 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzgvQi80LzhCNDIyNTlGLTVENzAtNDNGNC1BQzJFLTRCMjA4RkQ4RDY2QS92Y3JlZGlzdF94ODYuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x86.exe&lt;/a&gt;
+x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzgvQi80LzhCNDIyNTlGLTVENzAtNDNGNC1BQzJFLTRCMjA4RkQ4RDY2QS92Y3JlZGlzdF94NjQuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x64.exe&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Microsoft .NET Runtime 8.0.8.0 (.NET框架运行库) 官方版</title>
+        <link>https://www.danlong360.com/post/microsoftnetruntime8080/</link>
+        <pubDate>Wed, 21 Aug 2024 22:32:18 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/microsoftnetruntime8080/</guid>
+        <description>&lt;p&gt;Microsoft .NET Framework最新版(微软NET框架运行库.NET8.0下载)是Windows操作系统.NET Framework构建的应用程序所需的基础类型库组件.NET Runtime(NET运行库)是继Windows DNA之后全新软件开发平台,.NET框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/IDpum8O.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821223242684&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Releases · dotnet/core
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL2RvdG5ldC9jb3JlL3JlbGVhc2Vz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/dotnet/core/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;.NET Runtime        -&amp;gt; 微软.NET运行库
+.NET Desktop Runtime -&amp;gt; 微软.NET桌面库程序，包含.NET运行库
+ASP.NET Core Runtime -&amp;gt; 微软用于运行网络/服务器构建类型程序&lt;/p&gt;
+&lt;p&gt;2023年11月 微软.NET8.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2022年11月 微软.NET7.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2021年11月 微软.NET6.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;.NET6.0 是长期支持版本，将支持三年。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft .NET Runtime 8.0.8 Build 33916 (2024/08/13)
+Microsoft .NET Desktop Runtime 8.0.8 Build 33916 (2024/08/13)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/33f13deb7f8a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/33f13deb7f8a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Microsoft .NET Runtime 6.0.33 (.NET框架运行库) 官方版</title>
+        <link>https://www.danlong360.com/post/microsoftnetruntime6033/</link>
+        <pubDate>Wed, 21 Aug 2024 22:30:39 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/microsoftnetruntime6033/</guid>
+        <description>&lt;p&gt;Microsoft .NET Framework最新版(微软NET框架运行库.NET6.0下载)是Windows操作系统.NET Framework构建的应用程序所需的基础类型库组件.NET Runtime(NET运行库)是继Windows DNA之后全新软件开发平台,.NET框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/l4prdus.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240821223108356&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Releases · dotnet/core
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL2RvdG5ldC9jb3JlL3JlbGVhc2Vz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/dotnet/core/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;.NET Runtime        -&amp;gt; .NET运行库
+.NET Desktop Runtime -&amp;gt; .NET桌面库程序，包含.NET运行库
+ASP.NET Core Runtime -&amp;gt; 用于运行网络/服务器构建类型程序&lt;/p&gt;
+&lt;p&gt;2021年11月 微软.NET 6.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2020年11月 微软.NET 5.0 正式版发布！
+本次版本更新非常重视 .NET 的统一性，微软希望 .NET Framework 开发者能够迁移他们的代码和应用到 .NET 5.0 上，为明年发布的 .NET 6.0 将 Xamarin 开发者过渡到统一平台奠定了基础。目标是将所有的 .NET 组件整合到一个产品下，然后用户可以根据需求使用 .NET 的某个部分，而不是单独下载或安装所有内容。&lt;/p&gt;
+&lt;p&gt;.NET 5.0包括了 ASP.NET Core，EF Core，C# 9 和 F# 5，.NET 库增强了 Json 序列化、正则表达式和 HTTP（HTTP 1.1、HTTP/2）的性能。Visual Studio 用户需要 Visual Studio 16.8 以上版本才能使用 .NET 5.0。 .NET 5.0 是微软统一 .NET 堆栈和生态系统的首个版本，它计划在每年的 11 月发布一个新版本，这意味着 2021 年的 11 月将会发布 .NET 6.0。.NET 5.0 不是长期支持版，它将支持到 .NET 6.0 发布 3 个月之后即 2022 年 2 月中旬，.NET 6.0 是长期支持版本，将支持三年。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft .NET Runtime 6.0.33 (2024/08/13)
+Microsoft .NET Desktop Runtime 6.0.33 (2024/08/13)
+Microsoft .NET Framework v4.8 官方离线安装包最终版（ndp48-x86-x64-allos-enu.exe）
+Microsoft .NET Framework v4.8 简体中文语言包（非必要不装也不影响.NET程序运行）（ndp48-x86-x64-allos-chs.exe）&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/fe1a00781cdc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/fe1a00781cdc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Microsoft .NET Runtime 8.0.7.0 (.NET框架运行库) 官方版</title>
+        <link>https://www.danlong360.com/post/netruntime8070/</link>
+        <pubDate>Wed, 14 Aug 2024 10:37:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/netruntime8070/</guid>
+        <description>&lt;p&gt;Microsoft .NET Framework最新版(微软NET框架运行库.NET8.0下载)是Windows操作系统.NET Framework构建的应用程序所需的基础类型库组件.NET Runtime(NET运行库)是继Windows DNA之后全新软件开发平台,.NET框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/X1aZHPa.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814103749094&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Releases · dotnet/core
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL2RvdG5ldC9jb3JlL3JlbGVhc2Vz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/dotnet/core/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;.NET Runtime        -&amp;gt; 微软.NET运行库
+.NET Desktop Runtime -&amp;gt; 微软.NET桌面库程序，包含.NET运行库
+ASP.NET Core Runtime -&amp;gt; 微软用于运行网络/服务器构建类型程序&lt;/p&gt;
+&lt;p&gt;2023年11月 微软.NET8.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2022年11月 微软.NET7.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2021年11月 微软.NET6.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;.NET6.0 是长期支持版本，将支持三年。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft .NET Runtime 8.0.7 Build 33814 (2024/07/10)
+Microsoft .NET Desktop Runtime 8.0.7 Build 33814 (2024/07/10)&lt;/p&gt;
+&lt;p&gt;诚通网盘 &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62683444-e79b14?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62683444-e79b14?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘 &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/46c54bf0a883&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/46c54bf0a883&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;迅雷网盘 &lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO95-MNR343nbWV_t0WtjhD6A1?pwd=fu4m&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO95-MNR343nbWV_t0WtjhD6A1?pwd=fu4m&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Microsoft .NET Runtime 6.0.32 (.NET框架运行库) 官方版</title>
+        <link>https://www.danlong360.com/post/netruntime6032/</link>
+        <pubDate>Wed, 14 Aug 2024 10:36:25 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/netruntime6032/</guid>
+        <description>&lt;p&gt;Microsoft .NET Framework最新版(微软NET框架运行库.NET6.0下载)是Windows操作系统.NET Framework构建的应用程序所需的基础类型库组件.NET Runtime(NET运行库)是继Windows DNA之后全新软件开发平台,.NET框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/9wEupKb.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814103643393&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Releases · dotnet/core
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL2RvdG5ldC9jb3JlL3JlbGVhc2Vz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/dotnet/core/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;.NET Runtime        -&amp;gt; .NET运行库
+.NET Desktop Runtime -&amp;gt; .NET桌面库程序，包含.NET运行库
+ASP.NET Core Runtime -&amp;gt; 用于运行网络/服务器构建类型程序&lt;/p&gt;
+&lt;p&gt;2021年11月 微软.NET 6.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2020年11月 微软.NET 5.0 正式版发布！
+本次版本更新非常重视 .NET 的统一性，微软希望 .NET Framework 开发者能够迁移他们的代码和应用到 .NET 5.0 上，为明年发布的 .NET 6.0 将 Xamarin 开发者过渡到统一平台奠定了基础。目标是将所有的 .NET 组件整合到一个产品下，然后用户可以根据需求使用 .NET 的某个部分，而不是单独下载或安装所有内容。&lt;/p&gt;
+&lt;p&gt;.NET 5.0包括了 ASP.NET Core，EF Core，C# 9 和 F# 5，.NET 库增强了 Json 序列化、正则表达式和 HTTP（HTTP 1.1、HTTP/2）的性能。Visual Studio 用户需要 Visual Studio 16.8 以上版本才能使用 .NET 5.0。 .NET 5.0 是微软统一 .NET 堆栈和生态系统的首个版本，它计划在每年的 11 月发布一个新版本，这意味着 2021 年的 11 月将会发布 .NET 6.0。.NET 5.0 不是长期支持版，它将支持到 .NET 6.0 发布 3 个月之后即 2022 年 2 月中旬，.NET 6.0 是长期支持版本，将支持三年。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft .NET Runtime 6.0.32 (2024/07/10)
+Microsoft .NET Desktop Runtime 6.0.32 (2024/07/10)
+Microsoft .NET Framework v4.8 官方离线安装包最终版（ndp48-x86-x64-allos-enu.exe）
+Microsoft .NET Framework v4.8 简体中文语言包（非必要不装也不影响.NET程序运行）（ndp48-x86-x64-allos-chs.exe）&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/b8eab46b2b36&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/b8eab46b2b36&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO955x7x57gaJSQ_9Rh_zBwXA1?pwd=4rke&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO955x7x57gaJSQ_9Rh_zBwXA1?pwd=4rke&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Microsoft .NET Runtime 7.0.20 (.NET框架运行库) 官方版</title>
+        <link>https://www.danlong360.com/post/netruntime7020/</link>
+        <pubDate>Wed, 14 Aug 2024 10:35:22 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/netruntime7020/</guid>
+        <description>&lt;p&gt;Microsoft .NET Framework最新版(微软NET框架运行库.NET7.0下载)是Windows操作系统.NET Framework构建的应用程序所需的基础类型库组件.NET Runtime(NET运行库)是继Windows DNA之后全新软件开发平台,.NET框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/rBiTslG.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814103541663&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Releases · dotnet/core
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL2RvdG5ldC9jb3JlL3JlbGVhc2Vz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/dotnet/core/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;.NET Runtime        -&amp;gt; 微软.NET运行库
+.NET Desktop Runtime -&amp;gt; 微软.NET桌面库程序，包含.NET运行库
+ASP.NET Core Runtime -&amp;gt; 微软用于运行网络/服务器构建类型程序&lt;/p&gt;
+&lt;p&gt;2022年11月 微软.NET7.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2021年11月 微软.NET6.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;.NET6.0 是长期支持版本，将支持三年。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft .NET Runtime 7.0.20 (2024/05/28)
+Microsoft .NET Desktop Runtime 7.0.20 (2024/05/28)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/d8560467f73c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/d8560467f73c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>微软常用运行库合集 2024.05.03 (Visual C&#43;&#43;) 官方版</title>
+        <link>https://www.danlong360.com/post/yunxingku240523/</link>
+        <pubDate>Wed, 14 Aug 2024 10:34:09 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/yunxingku240523/</guid>
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版VC++运行库合集(微软常用运行库合集),整合了所有版本Visual C ++,可以自选更新VC++版本组件,并提供图形安装界面.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/SlDRIWH.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814103427518&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Visual C++ 微软常用运行库合集 (32+64位合集)
+Repacked by Dreamcast (Build on 2024.05.03)&lt;/p&gt;
+&lt;p&gt;包含组件：
+Visual Basic Virtual Machine(5.1)
+Visual Basic Virtual Machine(6.0)
+Microsoft C Runtime Library 2002(7.0.9975.0)
+Microsoft C Runtime Library 2003(7.10.6119.0)
+Microsoft Visual C++2005 SP1(8.0.61187)
+Microsoft Visual C++2008 SP1(9.0.30729.7523)
+Microsoft Visual C++2010 SP1(10.0.40219.473)
+Microsoft Visual C++2012 UP4(11.0.61135.400)
+Microsoft Visual C++2013(12.0.40664.0)
+Microsoft Visual C++2019(14.38.32919.0)(WinXP)
+Microsoft Visual C++2015-2022(14.40.33807.0)(Win7+)
+Microsoft Universal CRuntime(10.0.10586.9)(WinXP～7)
+Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;静默参数&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;/silent /verysilent&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/c00a6120e802&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/c00a6120e802&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Visual C&#43;&#43;2024年5月版v82 (运行库合集轻量版) 官方版</title>
+        <link>https://www.danlong360.com/post/visualc/</link>
+        <pubDate>Wed, 14 Aug 2024 10:33:00 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/visualc/</guid>
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版VC++运行库合集(VisualCppRedist),体积小巧,支持静默参数,整合了所有版本Visual C ++,能自动检测安装所有VC库版本.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ZWk4LjE.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814103320305&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Releases · abbodi1406/vcredist · GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL2FiYm9kaTE0MDYvdmNyZWRpc3QvcmVsZWFzZXM=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/abbodi1406/vcredist/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ Runtimes AIO 0.82 Repack&lt;/p&gt;
+&lt;p&gt;Visual C++ Redistributable Runtimes AIO Repack&lt;/p&gt;
+&lt;p&gt;▶整合的组件版本：&lt;/p&gt;
+&lt;p&gt;☑ Microsoft Visual Basic/C++ Runtime (x86/x64)
+☑ Microsoft C Runtime Library (2002: 7.0.9975.0)
+☑ Microsoft C Runtime Library (2003: 7.10.6119.0)
+☑ Microsoft Visual C++ Redistributables (x86/x64)
+├—Microsoft Visual C++ 2005 Redistributable – 8.0.61187
+├—Microsoft Visual C++ 2008 Redistributable – 9.0.30729
+├—Microsoft Visual C++ 2010 Redistributable – 10.0.40219
+├—Microsoft Visual C++ 2012 Redistributable – 11.0.61135
+├—Microsoft Visual C++ 2013 Redistributable – 12.0.40664
+├—Microsoft Visual C++ 2015 Redistributable – 14.10.25008
+├—Microsoft Visual C++ 2005-2022 Redistributable 14.40.33810
+☑ Microsoft Visual Studio 2010 Tools for Office Runtime (x86/x64)&lt;/p&gt;
+&lt;p&gt;▶无人值守运行参数：&lt;/p&gt;
+&lt;p&gt;/ai  -自动安装全部，不显示提取解压对话框
+/y   -自动安装全部，提供安装界面进度显示
+/aiM -自选安装全部，安装每个版本有解压对话框并询问确认
+/aiU -自动卸载全部，卸载每个版本有提取对话框并询问确认
+/aiA -自动安装全部，但是隐藏系统卸载程序列表里的ARP项
+/aiR -自动卸载全部
+/ai5 -安装Microsoft Visual C ++2005
+/ai8 -安装Microsoft Visual C ++2008
+/aiX -安装Microsoft Visual C ++2010
+/ai2 -安装Microsoft Visual C ++2012
+/ai3 -安装Microsoft Visual C ++2013
+/ai9 -安装Microsoft Visual C ++2019
+/aiT -安装Microsoft Visual Studio 2010
+/aiE -安装Microsoft Visual Basic/C++
+/aiV -安装Microsoft C Runtime Library
+/aiH -系统卸载程序列表中自动隐藏已经安装的项
+/aiP -系统卸载程序列表中手动隐藏或显示已经安装的项
+/aiC -完全执行被动模式。安装所有，但UCRT KB3118401除外
+/aiD -调试模式，创建VCpp_debug.log而不安装/卸载任何组件
+/gm2 -7zSFX的静默模式参数，用于禁用解压对话框的可选参数&lt;/p&gt;
+&lt;p&gt;• 无人值守静默安装参数示例：&lt;/p&gt;
+&lt;p&gt;自动安装Visual C ++2022（适用仅更新）
+VisualCppRedist_AIO_x86_x64.exe /ai9 /gm2&lt;/p&gt;
+&lt;p&gt;自动安装所有VC++运行库组件（适合新系统）
+VisualCppRedist_AIO_x86_x64.exe /ai /gm2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9b4056235f3e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9b4056235f3e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Java SE Development Kit 22.0.1 (JDK) 官方版</title>
+        <link>https://www.danlong360.com/post/javase2201/</link>
+        <pubDate>Wed, 14 Aug 2024 10:31:50 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/javase2201/</guid>
+        <description>&lt;p&gt;甲骨文公司Oracle Java Development Kit(JDK)是一款Java开发工具包,包含Java运行环境(java运行库),Java开发套件和Java基础类库源代码.Java Runtime Environment(JRE)是运行Java程序的运行环境,不管是做Java开发还是从事安卓开发,都必须在系统安装JRE运行环境.Java语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/IvVBAOi.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814103209723&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2024年4月16号 Java SE 22 发行说明
+Java™ SE Development Kit 22 (JDK22.0.1)
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cub3JhY2xlLmNvbS9qYXZhL3RlY2hub2xvZ2llcy9qYXZhc2UvMjItcmVsbm90ZS1pc3N1ZXMuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.oracle.com/java/technologies/javase/22-relnote-issues.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;JDK17将升级长期支持 (LTS) 版本，在2024年9月前提供支持，JDK18、JDK19将是个短期功能版只支持六个月。&lt;/p&gt;
+&lt;p&gt;2022年3月下旬，甲骨文公司为所有开发人员和企业提供的Java 17 正式版，按照甲骨文重要安全补丁更新（CPU）时间表，JDK18将至少获得两次季度更新，据悉按照惯例 Java 19 正式版将于2022年9月发布。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JRE和JDK的区别？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果在学习或从事Java开发、编译java程序，那么安装JDK&lt;/p&gt;
+&lt;p&gt;如果仅需运行java程序，只需要Java运行库，那么安装JRE&lt;/p&gt;
+&lt;p&gt;Java Development Kit（简称JDK）= Java开发套件，Java开发工具包，面向Java语言开发者。&lt;/p&gt;
+&lt;p&gt;Java Runtime Environment（简称JRE）= Java运行库，Java运行环境，面向Java程序用户们。&lt;/p&gt;
+&lt;p&gt;JDK：Java核心，含Java运行环境(JRE)、编译器（javac.exe）、开发工具（javadoc.exe、jar.exe、keytool.exe、jconsole.exe）和Java工具类库（如tools.jar）源代码等java语言编译所需的工具包。&lt;/p&gt;
+&lt;p&gt;JRE：Java语言开发的程序运行所需要的运行环境，包括JVM标准实现（java.exe等）及 Java核心类库（rt.jar等），它不包含开发工具(编译器、调试器等)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JAVA环境变量配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此电脑-&amp;gt;右键-&amp;gt;属性-&amp;gt;高级系统设置-&amp;gt;环境变量：
+1、「用户变量」和「系统变量」分别新建2条变量&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;变量名：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;CLASSPATH&lt;/span&gt;  &lt;span class=&#34;err&#34;&gt;变量值：&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;dt&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;jar&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;tools&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;jar&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;变量名：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;  &lt;span class=&#34;err&#34;&gt;变量值：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;C&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Program&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Files&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Java&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;jdk1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;8.0&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;_311&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（安装目录版本号路径）&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;2、「系统变量」双击-&amp;gt;Path-&amp;gt;编辑环境变量 -&amp;gt; 分别新建3条&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;%JAVA_HOME%\bin
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C:\Program Files\Java\jdk22.0_1\bin
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C:\Program Files\Java\jre22.0_1
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;# 检查JDK环境配置命令：
+CMD 输入 java -version&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Java开发套件(JDK) Java SE Development Kit 22.0.1 x64 最新版官方正式版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7b85b9a27620&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/7b85b9a27620&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Java SE Development Kit 17.0.11 (JDK) 官方版</title>
+        <link>https://www.danlong360.com/post/javase17011/</link>
+        <pubDate>Wed, 14 Aug 2024 10:30:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/javase17011/</guid>
+        <description>&lt;p&gt;甲骨文公司Oracle Java Development Kit(JDK)是一款Java开发工具包,包含Java运行环境(java运行库),Java开发套件和Java基础类库源代码.Java Runtime Environment(JRE)是运行Java程序的运行环境,不管是做Java开发还是从事安卓开发,都必须在系统安装JRE运行环境.Java语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/CvIs1HE.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814103057310&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2024年4月16日 JDK 17 发行说明
+Java™ SE Development Kit 17.0.11 (JDK17 LTS)
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cub3JhY2xlLmNvbS9qYXZhL3RlY2hub2xvZ2llcy9qYXZhc2UvMTctcmVsbm90ZXMuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.oracle.com/java/technologies/javase/17-relnotes.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;JDK17是Java开发套件长期支持版，Java SE订阅者可以在2026年9月前接受JDK17更新！&lt;/p&gt;
+&lt;p&gt;Java17是一个LTS长期支持版本，就像Java11一样，Java11开始了一个新的发布节奏，Java11支持到2023年9月，扩展支持到2026年9月，在Java11中OracleJDK不再免费用于生产和商业用途，每6个月发布一个新的Java版本，即所谓的非LTS发布，从Java12直至并包括Java16，这些都是生产就绪版本，与LTS版本的唯一区别是支持在下一个版本发布时结束。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JRE和JDK的区别？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果在学习或从事Java开发、编译java程序，那么安装JDK&lt;/p&gt;
+&lt;p&gt;如果仅需运行java程序，只需要Java运行库，那么安装JRE&lt;/p&gt;
+&lt;p&gt;Java Development Kit（简称JDK）= Java开发套件，Java开发工具包，面向Java语言开发者。&lt;/p&gt;
+&lt;p&gt;Java Runtime Environment（简称JRE）= Java运行库，Java运行环境，面向Java程序用户们。&lt;/p&gt;
+&lt;p&gt;JDK：Java核心，含Java运行环境(JRE)、编译器（javac.exe）、开发工具（javadoc.exe、jar.exe、keytool.exe、jconsole.exe）和Java工具类库（如tools.jar）源代码等java语言编译所需的工具包。&lt;/p&gt;
+&lt;p&gt;JRE：Java语言开发的程序运行所需要的运行环境，包括JVM标准实现（java.exe等）及 Java核心类库（rt.jar等），它不包含开发工具(编译器、调试器等)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JAVA环境变量配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此电脑-&amp;gt;右键-&amp;gt;属性-&amp;gt;高级系统设置-&amp;gt;环境变量：
+1、「用户变量」和「系统变量」分别新建2条变量&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;变量名：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;CLASSPATH&lt;/span&gt;  &lt;span class=&#34;err&#34;&gt;变量值：&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;dt&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;jar&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;tools&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;jar&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;变量名：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;  &lt;span class=&#34;err&#34;&gt;变量值：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;C&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Program&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Files&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Java&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;jdk1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;8.0&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;_311&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（安装目录版本号路径）&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;2、「系统变量」双击-&amp;gt;Path-&amp;gt;编辑环境变量 -&amp;gt; 分别新建3条&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;%JAVA_HOME%\bin
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C:\Program Files\Java\jdk1.8.0_311\bin
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C:\Program Files\Java\jre1.8.0_311
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;# 检查JDK环境配置命令：
+CMD 输入 java -version&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Java开发套件 (JDK) Java SE Development Kit 17.0.11 x64 (LTS) 长期支持版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/efc597803a0a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/efc597803a0a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Java SE Development Kit 11.0.23 (JDK) 官方版</title>
+        <link>https://www.danlong360.com/post/javase11023/</link>
+        <pubDate>Wed, 14 Aug 2024 10:29:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/javase11023/</guid>
+        <description>&lt;p&gt;甲骨文公司Oracle Java Development Kit(JDK)是一款Java开发工具包,包含Java运行环境(java运行库),Java开发套件和Java基础类库源代码.Java Runtime Environment(JRE)是运行Java程序的运行环境,不管是做Java开发还是从事安卓开发,都必须在系统安装JRE运行环境.Java语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ohU0U8e.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814102953241&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2024年4月16号 JDK 11 发行说明
+Java™ SE Development Kit 11.0.23 (JDK11 LTS)
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cub3JhY2xlLmNvbS9qYXZhL3RlY2hub2xvZ2llcy9qYXZhc2UvMTEtcmVsbm90ZXMuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.oracle.com/java/technologies/javase/11-relnotes.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;JDK11是Java开发套件长期支持版，Java SE订阅者可以在 2032年1月前接受JDK11更新！&lt;/p&gt;
+&lt;p&gt;Java11是一个LTS长期支持版本，Java11支持到2023年9月，扩展支持到2026年9月，在Java11中OracleJDK不再免费用于生产和商业用途，每6个月发布一个新的Java版本，即所谓的非LTS发布，从Java12直至并包括Java16，这些都是生产就绪版本，与LTS版本的唯一区别是支持在下一个版本发布时结束。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JRE和JDK的区别？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果在学习或从事Java开发、编译java程序，那么安装JDK&lt;/p&gt;
+&lt;p&gt;如果仅需运行java程序，只需要Java运行库，那么安装JRE&lt;/p&gt;
+&lt;p&gt;Java Development Kit（简称JDK）= Java开发套件，Java开发工具包，面向Java语言开发者。&lt;/p&gt;
+&lt;p&gt;Java Runtime Environment（简称JRE）= Java运行库，Java运行环境，面向Java程序用户们。&lt;/p&gt;
+&lt;p&gt;JDK：Java核心，含Java运行环境(JRE)、编译器（javac.exe）、开发工具（javadoc.exe、jar.exe、keytool.exe、jconsole.exe）和Java工具类库（如tools.jar）源代码等java语言编译所需的工具包。&lt;/p&gt;
+&lt;p&gt;JRE：Java语言开发的程序运行所需要的运行环境，包括JVM标准实现（java.exe等）及 Java核心类库（rt.jar等），它不包含开发工具(编译器、调试器等)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JAVA环境变量配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此电脑-&amp;gt;右键-&amp;gt;属性-&amp;gt;高级系统设置-&amp;gt;环境变量：
+1、「用户变量」和「系统变量」分别新建2条变量&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;变量名：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;CLASSPATH&lt;/span&gt;  &lt;span class=&#34;err&#34;&gt;变量值：&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;dt&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;jar&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;tools&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;jar&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;变量名：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;  &lt;span class=&#34;err&#34;&gt;变量值：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;C&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Program&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Files&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Java&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;jdk1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;8.0&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;_311&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（安装目录版本号路径）&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;2、「系统变量」双击-&amp;gt;Path-&amp;gt;编辑环境变量 -&amp;gt; 分别新建3条&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;%JAVA_HOME%\bin
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C:\Program Files\Java\jdk1.8.0_311\bin
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C:\Program Files\Java\jre1.8.0_311
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;# 检查JDK环境配置命令：
+CMD 输入 java -version&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Java开发套件 (JDK) Java SE Development Kit 11.0.23 x64 (LTS) 长期支持版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ad2bbd3ff423&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ad2bbd3ff423&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Java SE Development Kit 8.0.411 (JDK) 官方版</title>
+        <link>https://www.danlong360.com/post/javase80411/</link>
+        <pubDate>Wed, 14 Aug 2024 10:28:32 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/javase80411/</guid>
+        <description>&lt;p&gt;甲骨文公司Oracle Java Development Kit(JDK)是一款Java开发工具包,包含Java运行环境(java运行库),Java开发套件和Java基础类库源代码.Java Runtime Environment(JRE)是运行Java程序的运行环境,不管是做Java开发还是从事安卓开发,都必须在系统安装JRE运行环境.Java语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Nv6QBCS.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814102851814&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2024年4月16号 JDK 8u411 Update 发行说明
+Java™ SE Development Kit 8, Update 411 (JDK 8u411)
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cub3JhY2xlLmNvbS9qYXZhL3RlY2hub2xvZ2llcy9qYXZhc2UvOHUtcmVsbm90ZXMuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.oracle.com/java/technologies/javase/8u-relnotes.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Java 8 是广泛使用的稳定版，JDK8将在2030年12月前提供支持！&lt;/p&gt;
+&lt;p&gt;Java SE 8自发布以来，使用次数已创造了纪录。官方公告介绍：Java 8是款革命性开发平台，其全面升级现有Java编程模式，带来一项协同开发的JVM、Java语言以及库。Java8平台集合生产力、易用性、多语种编程、更高安全性和稳定性等特色。&lt;/p&gt;
+&lt;p&gt;经过2年半的努力、屡次的延期和9个里程碑版本，甲骨文的Java开发团队终于发布了Java 8正式版本。Java 8版本最大的改进就是Lambda表达式，其目的是使Java更易于为多核处理器编写代码；其次，新加入的Nashorn引擎也使得Java程序可以和JavaScript代码互操作；再者，新的日期时间API、GC改进、并发改进也相当令人期待。另外，原本要加入Java 8的Jigsaw项目（标准模块系统）由于开发时间关系，被推迟到了Java 9中，不过Java 8已经在朝着这个方向努力了。&lt;/p&gt;
+&lt;p&gt;Java SE 8 有哪些主要特性？&lt;/p&gt;
+&lt;p&gt;• Lambda表达式，一种新的语言特性，能够使功能作为方法参数或将代码作为数据；&lt;/p&gt;
+&lt;p&gt;• 显著增加和完善Java语言特性，增添标准库，包括默认方法，新的java.util.stream包及 Date-Time API；&lt;/p&gt;
+&lt;p&gt;• Compact Profiles包含 Java SE平台预定义子集，使程序员无需部署在整个平台，可运行在小型设备上；&lt;/p&gt;
+&lt;p&gt;• 安全性包括更新可Java加密体系架构；限制doPrivileged；SSL/TLS Server Name Indication (SNI) Extension以及增强密钥库；&lt;/p&gt;
+&lt;p&gt;• JavaFX更新文档&lt;/p&gt;
+&lt;p&gt;• 新的JavaScript引擎Nashorn&lt;/p&gt;
+&lt;p&gt;JDK7主要是提高易用性，提高性能，增加JSR 292.&lt;/p&gt;
+&lt;p&gt;JDK8主要是lambda和stream API及更加提高性能.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JRE和JDK的区别？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果在学习或从事Java开发、编译java程序，那么安装JDK&lt;/p&gt;
+&lt;p&gt;如果仅需运行java程序，只需要Java运行库，那么安装JRE&lt;/p&gt;
+&lt;p&gt;Java Development Kit（简称JDK）= Java开发套件，Java开发工具包，面向Java语言开发者。&lt;/p&gt;
+&lt;p&gt;Java Runtime Environment（简称JRE）= Java运行库，Java运行环境，面向Java程序用户们。&lt;/p&gt;
+&lt;p&gt;JDK：Java核心，含Java运行环境(JRE)、编译器（javac.exe）、开发工具（javadoc.exe、jar.exe、keytool.exe、jconsole.exe）和Java工具类库（如tools.jar）源代码等java语言编译所需的工具包。&lt;/p&gt;
+&lt;p&gt;JRE：Java语言开发的程序运行所需要的运行环境，包括JVM标准实现（java.exe等）及 Java核心类库（rt.jar等），它不包含开发工具(编译器、调试器等)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JAVA环境变量配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;此电脑-&amp;gt;右键-&amp;gt;属性-&amp;gt;高级系统设置-&amp;gt;环境变量：
+1、「用户变量」和「系统变量」分别新建2条变量&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;变量名：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;CLASSPATH&lt;/span&gt;  &lt;span class=&#34;err&#34;&gt;变量值：&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;dt&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;jar&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;tools&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;jar&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;变量名：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;  &lt;span class=&#34;err&#34;&gt;变量值：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;C&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Program&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Files&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Java&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;jdk1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;8.0&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;_401&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（安装目录版本号路径）&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;2、「系统变量」双击-&amp;gt;Path-&amp;gt;编辑环境变量 -&amp;gt; 分别新建3条&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;%JAVA_HOME%\bin
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C:\Program Files\Java\jdk1.8.0_401\bin
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C:\Program Files\Java\jre1.8.0_401
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;# 检查JDK环境配置命令：
+CMD 输入 java -version&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Java开发套件 (JDK) Java SE Development Kit 8 Update 411 x86/x64 最新JDK稳定版&lt;/p&gt;
+&lt;p&gt;Java运行环境 (JRE) Java Runtime Environment 8 Update 411 x86/x64&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ee83a3ac4e8f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ee83a3ac4e8f&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Microsoft Visual C&#43;&#43;14.40.33807.0 (常用运行库) 官方版</title>
+        <link>https://www.danlong360.com/post/microsoftvisualc/</link>
+        <pubDate>Wed, 14 Aug 2024 10:27:28 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/microsoftvisualc/</guid>
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,这是官方版安装包.&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2019为创建基于微软 Windows 和基于 Microsoft .NET 的应用程序提供了强大而灵活的开发环境支持。Visual C++ Redistributable 用于需要运行C++使用 Visual Studio 2019 开发的应用程序，并动态链接到库。您可以使用这些在系统运行此类应用程序，即使当前系统没有安装 Visual Studio 2019。它将安装这些运行库组件：C Runtime (CRT), Standard C++, MFC, C++ AMP, OpenMP。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/1NLs3Jw.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814102746698&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最新支持的Visual C++ 可再发行程序包下载 | Microsoft Docs
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vemgtY24vY3BwL3dpbmRvd3MvbGF0ZXN0LXN1cHBvcnRlZC12Yy1yZWRpc3Q/dmlldz1tc3ZjLTE3MA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.microsoft.com/zh-cn/cpp/windows/latest-supported-vc-redist?view=msvc-170&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Visual C++ 2015, 2017, 2019, 2022 版本现在共用一个安装包。
+例如：安装 VC++2019 将影响使用 VC++2015, 2017 构建的程序。
+但是，安装VC++2015 并不会取代 VC++2015, 2017 安装的文件的较新版本。
+与以前的版本不同，它们各自都有独自的运行库文件，而不是与其它版本共享。&lt;/p&gt;
+&lt;p&gt;静默安装参数：VC_redist.x64.exe /S&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2015-2022 Redistributable 14.40.33807.0 (2024/04/07)&lt;/p&gt;
+&lt;p&gt;x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC52aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS9kb3dubG9hZC9wci85ZGY4Njc1OS03MjkwLTQxM2UtOTE1OC05OGFkMWFlY2U4NmUvNEVCN0U2QjlCMUYwOUFBODc5QTc5ODRBMzUzRjBDQkQ1REVDOUZGQzUzMDlFMUU3QjU4OUU3N0EwNTYwQTlDRi9WQ19yZWRpc3QueDY0LmV4ZQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.visualstudio.microsoft.com/download/pr/9df86759-7290-413e-9158-98ad1aece86e/4EB7E6B9B1F09AA879A7984A353F0CBD5DEC9FFC5309E1E7B589E77A0560A9CF/VC_redist.x64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;x86 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC52aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS9kb3dubG9hZC9wci9jN2MxNjc5Yi00YmM5LTRmMmMtOTljMC01NzA5Mjk1NGJhNTEvMjEyOEI5OThCQUU4QzVCNzE3MkU1RTMzMzZDODJFQzQzMEEwOTZFREMxMTkwRjEzQkNENDk2MTU2RjBERDQyNy9WQ19yZWRpc3QueDg2LmV4ZQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.visualstudio.microsoft.com/download/pr/c7c1679b-4bc9-4f2c-99c0-57092954ba51/2128B998BAE8C5B7172E5E3336C82EC430A096EDC1190F13BCD496156F0DD427/VC_redist.x86.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2015 Redistributable 14.0.24516.0
+x86 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzQvNS82LzQ1NmNmNzlhLTQwNDYtNDIzMi04ZTZmLTdjZjNkODA3NWQ5YS92Y19yZWRpc3QueDg2LmV4ZQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/4/5/6/456cf79a-4046-4232-8e6f-7cf3d8075d9a/vc_redist.x86.exe&lt;/a&gt;
+x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzgvNS9lLzg1ZWRiODQzLTkzYWYtNGRhYS1hZDFlLWMzM2RmYTk1YjJlYS92Y19yZWRpc3QueDY0LmV4ZQ==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/8/5/e/85edb843-93af-4daa-ad1e-c33dfa95b2ea/vc_redist.x64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2013 Redistributable – 12.0.40664
+x86 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC52aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS9kb3dubG9hZC9wci8xMDkxMjExMy81ZGE2NmRkZWJiMGFkMzJlYmQ0YjkyMmZkODJlOGUyNS92Y3JlZGlzdF94ODYuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.visualstudio.microsoft.com/download/pr/10912113/5da66ddebb0ad32ebd4b922fd82e8e25/vcredist_x86.exe&lt;/a&gt;
+x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC52aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS9kb3dubG9hZC9wci8xMDkxMjA0MS9jZWU1ZDZiY2EyZGRiY2QwMzlkYTcyN2JmNGFjYjQ4YS92Y3JlZGlzdF94NjQuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.visualstudio.microsoft.com/download/pr/10912041/cee5d6bca2ddbcd039da727bf4acb48a/vcredist_x64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2012 Redistributable – 11.0.61135.400
+x86 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzEvNi9CLzE2QjA2RjYwLTNCMjAtNEZGMi1CNjk5LTVFOUI3OTYyRjlBRS9WU1VfNC92Y3JlZGlzdF94ODYuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x86.exe&lt;/a&gt;
+x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzEvNi9CLzE2QjA2RjYwLTNCMjAtNEZGMi1CNjk5LTVFOUI3OTYyRjlBRS9WU1VfNC92Y3JlZGlzdF94NjQuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2010 Redistributable – 10.0.40219.473
+x86 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkL0UvRS8wL0VFMDVDOUVGLUE2NjEtNEQ5RS1CQ0UyLTY5NjFFQ0RGMDg3Ri92Y3JlZGlzdF94ODYuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/E/E/0/EE05C9EF-A661-4D9E-BCE2-6961ECDF087F/vcredist_x86.exe&lt;/a&gt;
+x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkL0UvRS8wL0VFMDVDOUVGLUE2NjEtNEQ5RS1CQ0UyLTY5NjFFQ0RGMDg3Ri92Y3JlZGlzdF94NjQuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/E/E/0/EE05C9EF-A661-4D9E-BCE2-6961ECDF087F/vcredist_x64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2008 Redistributable – 9.0.30729.7523
+x86 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzUvRC84LzVEOEM2NUNCLUM4NDktNDAyNS04RTk1LUMzOTY2Q0FGRDhBRS92Y3JlZGlzdF94ODYuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x86.exe&lt;/a&gt;
+x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzUvRC84LzVEOEM2NUNCLUM4NDktNDAyNS04RTk1LUMzOTY2Q0FGRDhBRS92Y3JlZGlzdF94NjQuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2005 Redistributable – 8.0.61001
+x86 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzgvQi80LzhCNDIyNTlGLTVENzAtNDNGNC1BQzJFLTRCMjA4RkQ4RDY2QS92Y3JlZGlzdF94ODYuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x86.exe&lt;/a&gt;
+x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb3dubG9hZC5taWNyb3NvZnQuY29tL2Rvd25sb2FkLzgvQi80LzhCNDIyNTlGLTVENzAtNDNGNC1BQzJFLTRCMjA4RkQ4RDY2QS92Y3JlZGlzdF94NjQuZXhl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x64.exe&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>DirectX修复工具增强版 DirectX Repair 4.3 官方版</title>
+        <link>https://www.danlong360.com/post/directx/</link>
+        <pubDate>Wed, 14 Aug 2024 10:26:18 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/directx/</guid>
+        <description>&lt;p&gt;DirectX修复工具(DirectX Repair)是一款系统级工具软件，绿色简便易用，无需安装，可直接运行。主要功能是检测当前系统的DirectX组件及VC++库文件状态，发现异常则进行修复。程序采用易用的一键式设计，只要点“检测并修复”，它就会自动完成校验、检测、下载、修复以及注册全部功能，无需用户介入，大大降低使用难度。在常规修复过程中，程序还会自动检测DirectX加速状态，在异常时给予用户相应提示。&lt;/p&gt;
+&lt;p&gt;DirectX修复工具，主要针对0xc000007b问题设计，可以完美修复该问题。本程序中包含了最新版的DirectX redist(Jun2010)，并且全部DX文件都有Microsoft的数字签名，安全放心。适用于系统缺少运行库、游戏不能运行、工业软件（如QQ，3D*S MAX , MAYA ,Corel Painter等）不能运行提示缺少组件等问题。&lt;/p&gt;
+&lt;p&gt;本程序适用于多个操作系统，如Windows XP（需先安装.NET 2.0，详情请参阅“致Windows XP用户.txt”文件）、Windows Vista、Windows 7、Windows 8/8.1、Windows 8.1 Update、Windows 10，同时兼容32位操作系统和64位操作系统。本程序会根据系统的不同，自动调整任务模式，无需进行设置。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/VyMDFls.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814102636117&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DirectX修复工具增强版_VBcom的专栏-CSDN博客
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cuNDIzZG93bi5jb20vZ28ucGhwP3VybD1hSFIwY0hNNkx5OWliRzluTG1OelpHNHVibVYwTDFaQ1kyOXRMMkZ5ZEdsamJHVXZaR1YwWVdsc2N5ODNNalExTVRnMg==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://blog.csdn.net/VBcom/article/details/7245186&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最新版为：DirectX Repair V4.3 增强版，版本号：V4.3.0.40864
+大小: 116MB/7z格式压缩，198MB/zip格式压缩，330MB/解压后&lt;/p&gt;
+&lt;p&gt;DirectX修复工具V4.3更新日志
+改进的功能：
+更新了部分c++数据包。新版程序更新了C++2015-2022的数据包，新数据包兼容性更强，可以修复更多的内容。
+优化调试模式提示功能。在用户进行手动修复时，程序提供更多提示信息，方便用户进行手动修复。
+优化测试版功能。在当前使用的测试版程序到期后，用户可以一键升级至最新版，无需重新下载。
+优化程序框架。为用户提供更多个性化可选项，方便不同用户使用。
+其他细节性改进。&lt;/p&gt;
+&lt;p&gt;修复的BUG：&lt;/p&gt;
+&lt;p&gt;修复了一个在部分情况下无法手动修复c++2015-2022的BUG。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;诚通网盘 &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62683318-e16266?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62683318-e16266?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘 &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/5c103d0f71d8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/5c103d0f71d8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;迅雷网盘 &lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO94Brmy343nbWV_t0WtSIBLA1?pwd=z52t&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO94Brmy343nbWV_t0WtSIBLA1?pwd=z52t&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
