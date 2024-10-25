@@ -1,23 +1,20 @@
 <!DOCTYPE html>
 <html lang="zh-cn" dir="ltr">
 	<head><meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="小狼毫是一款自由、开放源代码的中文输入法，其最大的特点是优秀的多音字和笔画输入识别能力。 软件功能 支持全拼、双拼、五笔等多种输入法； 支持模糊音"> <title>小狼毫输入法(中州韵输入法引擎) v0.16.3</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="小狼毫是一款自由、开放源代码的中文输入法，其最大的特点是优秀的多音字和笔画输入识别能力。\n软件功能 支持全拼、双拼、五笔等多种输入法； 支持模糊音、多音字、繁简体转换等输入； 支持自定义词库、快捷键等功能； 支持多语言输入； 支持云输入（需要联网）。 软件特点 小巧轻便，占用资源少； 界面简洁，易于操作； 词库丰富，支持常用词汇； 词语智能匹配，输入效率高； 支持多语言输入，满足不同需求； 开源自由，可自由定制、修改。 更新内容 0.16.2 (2024-09-28) 主要更新 新特性：支持自動檢查更新使用測試通道，使用WeaselSetup.exe參數可修改，/testing使用測試通道，/release使用發佈版本，默認後者； 新特性：WeaselSetup.exe參數設置界面語言，设置后覆盖区域设置的自动检测。/lt設置爲繁體中文界面，/ls 設置爲簡體中文界面，/le設置爲英文界面 新特性：WeaselSetup.exe參數設置是否使用自動檢查更新，/du禁用自動檢查更新，/eu使用自動檢查更新 新特性：安裝器彈窗提示設置是否自動檢查升級 新特性：開關IME消息響應狀態可配置，WeaselSetup.exe參數/toggleime設置關閉鍵盤（原版本狀態），/toggleascii切換ascii_mode,安裝默認後者 #1364 新特性：支持xmake 2.9.4以上版本構建，使用xbuild.bat開展，相關參數基本同build.bat, 使用xbuild.bat commands可生成compile_commands.json便於lsp使用，xbuild.bat clean可清空xmake構建 #1360 新特性：支持Caps_Lock 按鍵binding（如選重）,需将key_binder置于ascii_composer之前 使能TSF dll中的WER nightly 構建後自動更新rime/home頁面更新測試通道appcast 升級lint檢查使用的llvm最低版本至18.1.6, 更新ci脚本检查更新llvm Bug 修復 修復安裝器在系統未滿足要求時未中斷的問題 修復重新安裝時舊的安於路徑未保持的問題 修復界面語言根據區域格式未正確設置的問題 修復IPC通信時因新舊版本變更引起的異常崩潰的問題 修正代碼編碼格式 修復清空舊log文件 修復控制面板卸載界面中的圖標顯示問題 修復style/hover_type爲&quot;semi_hilite&quot;在首候選時的顯示異常問題 修復新版librime產物未能直接替換使用問題 禁用IPC通信的異步機制，修復一些因異步機制引發的應用異常 修復構建腳本不能重生成正確的版本信息問題 修復一些vs工程配置設置，處理一些deprecated API警告\n"> <title>小狼毫输入法(中州韵输入法引擎) v0.16.3</title>
 
-<link rel="canonical" href="https://www.danlong360.com/post/195/" />
-
-<link rel="stylesheet" href="/scss/style.min.f64c625c251f23e1a0ba7b106e4b729477ac4af61ade03fb25c749edb86be194.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
+<link rel="canonical" href="https://www.danlong360.com/post/195/" />  <link rel="stylesheet" href="/scss/style.min.f64c625c251f23e1a0ba7b106e4b729477ac4af61ade03fb25c749edb86be194.css" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
      crossorigin="anonymous">
 </script><meta property='og:title' content="小狼毫输入法(中州韵输入法引擎) v0.16.3">
-<meta property='og:description' content="小狼毫是一款自由、开放源代码的中文输入法，其最大的特点是优秀的多音字和笔画输入识别能力。 软件功能 支持全拼、双拼、五笔等多种输入法； 支持模糊音">
+<meta property='og:description' content="小狼毫是一款自由、开放源代码的中文输入法，其最大的特点是优秀的多音字和笔画输入识别能力。\n软件功能 支持全拼、双拼、五笔等多种输入法； 支持模糊音、多音字、繁简体转换等输入； 支持自定义词库、快捷键等功能； 支持多语言输入； 支持云输入（需要联网）。 软件特点 小巧轻便，占用资源少； 界面简洁，易于操作； 词库丰富，支持常用词汇； 词语智能匹配，输入效率高； 支持多语言输入，满足不同需求； 开源自由，可自由定制、修改。 更新内容 0.16.2 (2024-09-28) 主要更新 新特性：支持自動檢查更新使用測試通道，使用WeaselSetup.exe參數可修改，/testing使用測試通道，/release使用發佈版本，默認後者； 新特性：WeaselSetup.exe參數設置界面語言，设置后覆盖区域设置的自动检测。/lt設置爲繁體中文界面，/ls 設置爲簡體中文界面，/le設置爲英文界面 新特性：WeaselSetup.exe參數設置是否使用自動檢查更新，/du禁用自動檢查更新，/eu使用自動檢查更新 新特性：安裝器彈窗提示設置是否自動檢查升級 新特性：開關IME消息響應狀態可配置，WeaselSetup.exe參數/toggleime設置關閉鍵盤（原版本狀態），/toggleascii切換ascii_mode,安裝默認後者 #1364 新特性：支持xmake 2.9.4以上版本構建，使用xbuild.bat開展，相關參數基本同build.bat, 使用xbuild.bat commands可生成compile_commands.json便於lsp使用，xbuild.bat clean可清空xmake構建 #1360 新特性：支持Caps_Lock 按鍵binding（如選重）,需将key_binder置于ascii_composer之前 使能TSF dll中的WER nightly 構建後自動更新rime/home頁面更新測試通道appcast 升級lint檢查使用的llvm最低版本至18.1.6, 更新ci脚本检查更新llvm Bug 修復 修復安裝器在系統未滿足要求時未中斷的問題 修復重新安裝時舊的安於路徑未保持的問題 修復界面語言根據區域格式未正確設置的問題 修復IPC通信時因新舊版本變更引起的異常崩潰的問題 修正代碼編碼格式 修復清空舊log文件 修復控制面板卸載界面中的圖標顯示問題 修復style/hover_type爲&quot;semi_hilite&quot;在首候選時的顯示異常問題 修復新版librime產物未能直接替換使用問題 禁用IPC通信的異步機制，修復一些因異步機制引發的應用異常 修復構建腳本不能重生成正確的版本信息問題 修復一些vs工程配置設置，處理一些deprecated API警告\n">
 <meta property='og:url' content='https://www.danlong360.com/post/195/'>
 <meta property='og:site_name' content='KUL藏宝库'>
 <meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-10-04T22:42:06&#43;08:00'/><meta property='article:modified_time' content='2024-10-04T22:42:06&#43;08:00'/>
 <meta name="twitter:title" content="小狼毫输入法(中州韵输入法引擎) v0.16.3">
-<meta name="twitter:description" content="小狼毫是一款自由、开放源代码的中文输入法，其最大的特点是优秀的多音字和笔画输入识别能力。 软件功能 支持全拼、双拼、五笔等多种输入法； 支持模糊音">
+<meta name="twitter:description" content="小狼毫是一款自由、开放源代码的中文输入法，其最大的特点是优秀的多音字和笔画输入识别能力。\n软件功能 支持全拼、双拼、五笔等多种输入法； 支持模糊音、多音字、繁简体转换等输入； 支持自定义词库、快捷键等功能； 支持多语言输入； 支持云输入（需要联网）。 软件特点 小巧轻便，占用资源少； 界面简洁，易于操作； 词库丰富，支持常用词汇； 词语智能匹配，输入效率高； 支持多语言输入，满足不同需求； 开源自由，可自由定制、修改。 更新内容 0.16.2 (2024-09-28) 主要更新 新特性：支持自動檢查更新使用測試通道，使用WeaselSetup.exe參數可修改，/testing使用測試通道，/release使用發佈版本，默認後者； 新特性：WeaselSetup.exe參數設置界面語言，设置后覆盖区域设置的自动检测。/lt設置爲繁體中文界面，/ls 設置爲簡體中文界面，/le設置爲英文界面 新特性：WeaselSetup.exe參數設置是否使用自動檢查更新，/du禁用自動檢查更新，/eu使用自動檢查更新 新特性：安裝器彈窗提示設置是否自動檢查升級 新特性：開關IME消息響應狀態可配置，WeaselSetup.exe參數/toggleime設置關閉鍵盤（原版本狀態），/toggleascii切換ascii_mode,安裝默認後者 #1364 新特性：支持xmake 2.9.4以上版本構建，使用xbuild.bat開展，相關參數基本同build.bat, 使用xbuild.bat commands可生成compile_commands.json便於lsp使用，xbuild.bat clean可清空xmake構建 #1360 新特性：支持Caps_Lock 按鍵binding（如選重）,需将key_binder置于ascii_composer之前 使能TSF dll中的WER nightly 構建後自動更新rime/home頁面更新測試通道appcast 升級lint檢查使用的llvm最低版本至18.1.6, 更新ci脚本检查更新llvm Bug 修復 修復安裝器在系統未滿足要求時未中斷的問題 修復重新安裝時舊的安於路徑未保持的問題 修復界面語言根據區域格式未正確設置的問題 修復IPC通信時因新舊版本變更引起的異常崩潰的問題 修正代碼編碼格式 修復清空舊log文件 修復控制面板卸載界面中的圖標顯示問題 修復style/hover_type爲&quot;semi_hilite&quot;在首候選時的顯示異常問題 修復新版librime產物未能直接替換使用問題 禁用IPC通信的異步機制，修復一些因異步機制引發的應用異常 修復構建腳本不能重生成正確的版本信息問題 修復一些vs工程配置設置，處理一些deprecated API警告\n">
 <link rel="shortcut icon" href="/favicon.ico" />
 
-  
-    
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-K19J3P52BR"></script>
       <script>
         var doNotTrack = false;
@@ -32,10 +29,6 @@
           gtag('config', 'G-K19J3P52BR');
         }
       </script>
-    
-  
-
-
 
 	</head>
 	<body class="
