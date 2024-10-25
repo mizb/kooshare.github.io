@@ -7,7 +7,83 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 24 Oct 2024 21:35:44 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 25 Oct 2024 18:15:20 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>qBittorrent Enhanced Edition(BT下载工具) v5.0.0.10</title>
+        <link>https://www.danlong360.com/post/12763/</link>
+        <pubDate>Fri, 25 Oct 2024 18:15:20 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/12763/</guid>
+        <description>&lt;p&gt;qBittorrent中文版是一款非常好用的免费开源的BitTorrent客户端磁力种子下载工具的BT下载工具.无视敏感及版权文件,支持资源搜索引擎插件,订阅Tracker服务器,BT文件做种分享,DHT网络及匿名模式,采用Vuze兼容协议加密,IP过滤用的Ajax技术兼容Tracker及代理服务器,基于UPnP/NAT-PMP端口映射排队优先次序.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/25/5C4byR2HV3czN8o.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;qBittorrent支持多种协议，包括DHT、PeX、Magnet链接等。
+它可以自动完成种子下载和分享，支持同时下载多个种子文件。
+qBittorrent具有RSS订阅功能，可以自动下载用户订阅的内容。
+该软件支持IP过滤、加密传输、流量限制等功能，提供了更安全和私密的下载环境。
+它还支持种子和下载任务的管理，用户可以对下载速度、优先级等进行设定。
+qBittorrent提供了丰富的统计功能，用户可以查看下载和上传速度、连接数等信息。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;c0re100/qBittorrent-Enhanced-Edition - GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;qBittorrent Enhanced Edition (qBittorrentEE_QB增强版_QB第三方编译版)
+1、基于原版qBittorrent重编译，主要特色：自动屏蔽迅雷等BT下载工具吸血
+2、增强提供了IP过滤规则高级功能，可以根据需要在选项自定义选择 tracker
+3、增强提供了自动禁止来自中国地区的IP未知客户端功能（该选项默认关闭）
+4、可以自动更新订阅公共Tracker服务器地址列表（该选项默认关闭）
+5、提供下载完成后重新效验torrent种子文件功能（该选项默认开启）
+6、解除原版客户端启动多开限制，不受原版限制可以多开运行&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOA2EQP8im1UQkseOPcBuYR9A1?pwd=qzvn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOA2EQP8im1UQkseOPcBuYR9A1?pwd=qzvn&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>SmartFTP Client Enterprise(FTP客户端) v10.0.3243 多语便携版</title>
+        <link>https://www.danlong360.com/post/84791/</link>
+        <pubDate>Fri, 25 Oct 2024 18:12:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/84791/</guid>
+        <description>&lt;p&gt;SmartFTP是一款功能齐全的FTP（文件传输协议）客户端软件，用户可以通过它快速、安全地上传、下载、传输和管理文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/25/RzLlHbZ2yWQVvqX.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持多种文件传输协议：除了FTP外，还支持SFTP、WebDAV、Amazon S3等多种协议，帮助用户更灵活地进行文件传输。
+自动同步功能：可以设置文件夹之间的同步任务，使文件在本地和远程服务器之间自动同步。
+强大的队列管理：支持多个文件传输任务同时运行，可以对队列进行管理和控制。
+智能断点续传：支持断点续传功能，可以在传输中断后恢复传输，节省时间和带宽。
+定时任务：支持设置定时任务来自动执行文件传输操作。
+可视化操作：用户界面简洁明了，操作流畅，适合不同水平的用户使用。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;稳定可靠：SmartFTP是一个成熟稳定的FTP客户端软件，支持多种协议，具有强大的文件传输功能。
+界面友好：软件界面简洁明了，易于使用，适合用户快速上手。
+功能丰富：除了基本的文件传输功能外，还支持自动同步、队列管理、定时任务等高级功能，满足用户的各种需求。
+安全性高：支持加密协议，保障文件传输的安全性和隐私性。
+支持大文件传输：能够高效传输大文件，提高传输效率。
+多平台支持：支持Windows操作系统以及Windows服务器系统，适用于不同的环境和用户需求。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOA2EAakfUpEpq6P8JjSBp6fA1?pwd=snca&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOA2EAakfUpEpq6P8JjSBp6fA1?pwd=snca&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>uTorrent(BT下载工具) Pro v3.6.0.47162 去广告绿色版</title>
         <link>https://www.danlong360.com/post/64381/</link>
         <pubDate>Thu, 24 Oct 2024 21:35:44 +0800</pubDate>
