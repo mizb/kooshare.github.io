@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>操作系统 on KUL藏宝库</title>
-        <link>https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>
+        <link>http://localhost:1313/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>
         <description>Recent content in 操作系统 on KUL藏宝库</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 26 Oct 2024 13:14:23 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 26 Oct 2024 13:14:23 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Windows 10 LTSC 2021 (19044.5073) 集成镜像 (2024年10月)</title>
-        <link>https://www.danlong360.com/post/12325/</link>
+        <link>http://localhost:1313/post/12325/</link>
         <pubDate>Sat, 26 Oct 2024 13:14:23 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/12325/</guid>
+        <guid>http://localhost:1313/post/12325/</guid>
         <description>&lt;p&gt;此页提供的 Win10 LTSC 2021 系统为微软官方原版集成累积更新的完整版 ISO 镜像。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/26/KgbmsNjwWcCvhkX.jpg&#34;
 	
@@ -68,10 +68,10 @@ LTSC 版本无应用商店、无微软小娜，无 OneDriver、Windows 更新提
         </item>
         <item>
         <title>Windows 10 22H2 (19045.5073) 22in1镜像 (2024年10月) – fch1993</title>
-        <link>https://www.danlong360.com/post/16718/</link>
+        <link>http://localhost:1313/post/16718/</link>
         <pubDate>Sat, 26 Oct 2024 13:13:02 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/16718/</guid>
+        <guid>http://localhost:1313/post/16718/</guid>
         <description>&lt;p&gt;此页提供的 Win10 系统为微软官方原版集成累积更新补丁的完整版 ISO 镜像。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/26/G95Q4VDy7oLhOSg.jpg&#34;
 	
@@ -120,10 +120,10 @@ MD5: e8cf3ea707ac464edac2e49421733d53&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.5073) x64 精简 美化版 太阳谷 无更新 (2024.10.23)</title>
-        <link>https://www.danlong360.com/post/43659/</link>
+        <link>http://localhost:1313/post/43659/</link>
         <pubDate>Fri, 25 Oct 2024 20:43:23 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/43659/</guid>
+        <guid>http://localhost:1313/post/43659/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，爱之所及，心之所至，此版本替换了太阳谷图标，集成了任务栏透明工具、独家 4K 高清壁纸，增加右键一些功能，以及离线集成了运行库，有 2 个版本集成了 HarmonyOS 字体，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/25/lpbJqxLOBsTY4Ef.jpg&#34;
 	
@@ -339,10 +339,10 @@ CRC32 ：F434FEFB&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.5073) x64 纯净 精简 无更新 (2024.10.23)</title>
-        <link>https://www.danlong360.com/post/30399/</link>
+        <link>http://localhost:1313/post/30399/</link>
         <pubDate>Fri, 25 Oct 2024 20:40:50 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/30399/</guid>
+        <guid>http://localhost:1313/post/30399/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版保留 Hyper 和 linux，集成 RST-VMD 驱动，比可以更新的补丁的版本体积要小很多，虽小但无过渡精简优化，该有的功能还会有，精简方法基本上还是原来配方，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/25/Qs5pOEfBhYv6PgW.jpg&#34;
 	
@@ -581,10 +581,10 @@ SHA256: 12ACDEC6828E252F2B5C66C54C8784C88B56821CD103959EDC3E8D5BB9AB8560&lt;/p&g
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.5073) x64 精简 游戏版 太阳谷 无更新 (2024.10.23)</title>
-        <link>https://www.danlong360.com/post/80732/</link>
+        <link>http://localhost:1313/post/80732/</link>
         <pubDate>Fri, 25 Oct 2024 18:44:24 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/80732/</guid>
+        <guid>http://localhost:1313/post/80732/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版为游戏版，为游戏稳定而生，保留语音识别 TTS、Hyper 和 linux，体积介于可更新版和无更新版之间，此版本替换了太阳谷图标，集成了任务栏透明工具、独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/25/TCtl6pobXUNPYG7.jpg&#34;
 	
@@ -792,10 +792,10 @@ CRC32 ：2B76635D&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 10 LTSC_2021 (19044.5073) 极限精简 四合一 (2024.10.24)</title>
-        <link>https://www.danlong360.com/post/9101/</link>
+        <link>http://localhost:1313/post/9101/</link>
         <pubDate>Fri, 25 Oct 2024 18:42:53 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/9101/</guid>
+        <guid>http://localhost:1313/post/9101/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原
 2024-10-24 更新至补丁 19044.5073
 修复了自建用户 U 版(概率性重复 2 次脚本部署的问题)
@@ -840,10 +840,10 @@ CRC32: 750D4308&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 10 Pro 22H2 (19045.5073) 深度精简 二合一 (2024.10.24)</title>
-        <link>https://www.danlong360.com/post/27308/</link>
+        <link>http://localhost:1313/post/27308/</link>
         <pubDate>Fri, 25 Oct 2024 18:41:59 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/27308/</guid>
+        <guid>http://localhost:1313/post/27308/</guid>
         <description>&lt;p&gt;温馨提示: 测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;2024-10-24 更新至补丁 19045.5073 优化了内存堆积分配。支持了还原软件、照片信息地图。更新了运行库 2024.10&lt;/p&gt;
 &lt;p&gt;申明：版本每次更新 修系统并不是只迭代更新，会把一些累计的优化调整加入 不会一一全部例举。&lt;/p&gt;
@@ -887,10 +887,10 @@ CRC32: 6B2C449E&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 10 Pro 22H2 (19045.5073) 轻度精简 二合一 (2024.10.24)</title>
-        <link>https://www.danlong360.com/post/53229/</link>
+        <link>http://localhost:1313/post/53229/</link>
         <pubDate>Fri, 25 Oct 2024 18:40:19 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/53229/</guid>
+        <guid>http://localhost:1313/post/53229/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原
 2024-10-24 更新至补丁 19045.5073 优化了驱动更新脚本，多开性能提升。保留了重置功能&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/25/IBbyMwzZxjWePKl.png&#34;
@@ -932,10 +932,10 @@ CRC32: F3047E8D&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 11 Pro (22631.4391) 稳定精简 极限版 二合一 (2024.10.23)</title>
-        <link>https://www.danlong360.com/post/76356/</link>
+        <link>http://localhost:1313/post/76356/</link>
         <pubDate>Fri, 25 Oct 2024 18:38:30 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/76356/</guid>
+        <guid>http://localhost:1313/post/76356/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原
 2024-10-23 更新至补丁 22631.4391
 保留了系统重置功能(无恢复包) 可安装冰点、影子
@@ -984,10 +984,10 @@ CRC32: 156D4A7B&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 11 Pro (22631.4391) 轻度精简 二合一 (2024.10.23)</title>
-        <link>https://www.danlong360.com/post/52873/</link>
+        <link>http://localhost:1313/post/52873/</link>
         <pubDate>Fri, 25 Oct 2024 18:36:22 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/52873/</guid>
+        <guid>http://localhost:1313/post/52873/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原
 2024-10-23 更新至补丁 22631.4391 提高分页池内存，提升多开程序性能。优化虚拟内存跟随系统盘符、驱动更新脚本
 轻度精简版 在对比 22631 深度版上保留了虚拟机平台、iis、沙盒、相机、支持了 window 启用功能&lt;/p&gt;
@@ -1030,10 +1030,10 @@ CRC32: E4678D35&lt;/p&gt;
         </item>
         <item>
         <title>Windows 7 &amp; Server 2008 R2 7601.27366 18in1镜像</title>
-        <link>https://www.danlong360.com/post/29926/</link>
+        <link>http://localhost:1313/post/29926/</link>
         <pubDate>Thu, 24 Oct 2024 18:23:18 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/29926/</guid>
+        <guid>http://localhost:1313/post/29926/</guid>
         <description>&lt;p&gt;原版集成 2023 年截止 6 月份更新完整版 ISO 镜像下载.微软于 2020 年 1 月 15 号正式停止对 Windows7 操作系统的支持,目前 Windows 系统的市场占有率来看仍旧有大量用户,部分用户认为无论是日常办公还是玩游戏,Win7 的兼容性都要优于 Win11 系统.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/24/BdX7h1ZI6qefyvM.png&#34;
 	
@@ -1087,10 +1087,10 @@ MD5：117c0eb76fc3c15a4f106188406770be&lt;/p&gt;
         </item>
         <item>
         <title>Windows 11 23H2 官方正式版2024年10月版</title>
-        <link>https://www.danlong360.com/post/30370/</link>
+        <link>http://localhost:1313/post/30370/</link>
         <pubDate>Tue, 22 Oct 2024 20:58:16 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/30370/</guid>
+        <guid>http://localhost:1313/post/30370/</guid>
         <description>&lt;p&gt;此页提供 Win11 系统官方原版 ISO 镜像为 MVS 渠道消费者版(即零售版)和 VLSC 渠道商业版(即 VL 批量授权版)。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/YzRMBHQj3NXwZoe.jpg&#34;
 	
@@ -1122,10 +1122,10 @@ Microsoft Windows 11 [10.0.22631.4317], Version 23H2 Updated Oct 2024
         </item>
         <item>
         <title>Windows 10 22H2 官方正式版2024年10月版</title>
-        <link>https://www.danlong360.com/post/22649/</link>
+        <link>http://localhost:1313/post/22649/</link>
         <pubDate>Tue, 22 Oct 2024 20:57:02 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/22649/</guid>
+        <guid>http://localhost:1313/post/22649/</guid>
         <description>&lt;p&gt;此页提供 Win10 系统官方原版 ISO 镜像为 MVS 渠道消费者版(即零售版)和 VLSC 渠道商业版(即 VL 批量授权版)。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/lzEmK7ZyptFuAjP.jpg&#34;
 	
@@ -1155,10 +1155,10 @@ Microsoft Windows 10 [10.0.19045.5011], Version 22H2 Updated Oct 2024
         </item>
         <item>
         <title>Windows Server 2022 官方正式版2024年10月版</title>
-        <link>https://www.danlong360.com/post/11584/</link>
+        <link>http://localhost:1313/post/11584/</link>
         <pubDate>Tue, 22 Oct 2024 20:55:55 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/11584/</guid>
+        <guid>http://localhost:1313/post/11584/</guid>
         <description>&lt;p&gt;此页提供的微软官方原版 ISO 镜像为 MVS 渠道消费者版(即零售版)和 VLSC 渠道商业版(即 VL 批量授权版)。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/6kcfm1WAJgYMUEe.jpg&#34;
 	
@@ -1184,10 +1184,10 @@ Microsoft Windows Server 2022 [10.0.20348.2762], Version 21H2 Updated Oct 2024
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 LTSC2024 (26100.2033) x64 精简 游戏版 无更新 (2024.10.16) 正式版，推荐用于 游戏、办公、直播</title>
-        <link>https://www.danlong360.com/post/9727/</link>
+        <link>http://localhost:1313/post/9727/</link>
         <pubDate>Sun, 20 Oct 2024 20:00:10 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/9727/</guid>
+        <guid>http://localhost:1313/post/9727/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，为游戏稳定而生也可以用于办公、直播等，母版来自 Windows11 24H2 LTSC2024 正式版 , 保留 Hyper 和 linux，体积和稳定性介于可更新版和无更新版之间，集成任务栏透明软件，独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，游戏办公直播基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/20/oDPczpmWIfNHynM.jpg&#34;
 	
@@ -1424,10 +1424,10 @@ CRC32:EBF082A4&lt;/p&gt;
         </item>
         <item>
         <title>Windows 11 23H2官方正式版2024年10月版(微软原版ISO镜像)</title>
-        <link>https://www.danlong360.com/post/2312/</link>
+        <link>http://localhost:1313/post/2312/</link>
         <pubDate>Sun, 20 Oct 2024 18:55:42 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/2312/</guid>
+        <guid>http://localhost:1313/post/2312/</guid>
         <description>&lt;p&gt;微软 Win11 系统下载,微软 Win11 23H2 正式版,微软原版系统 ISO 镜像 Win11 Build 22631 官方版 Windows 11 23H2 官方正式版 2024 年 10 月更新版,Win11 23H2 官方版 10 月版内部版本号 22631.4317.GnDown 站点此页提供 Win11 系统官方原版 ISO 镜像为 MVS 渠道消费者版(即零售版)和 VLSC 渠道商业版(即 VL 批量授权版).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/20/2RMqugJzjcr1NTF.png&#34;
 	
@@ -1458,10 +1458,10 @@ Microsoft Windows 11 [10.0.22631.4317], Version 23H2 Updated Oct 2024
         </item>
         <item>
         <title>小修 Windows 11 LTSC2024 (26100.2033) 极限精简 二合一 (2024.10.18)</title>
-        <link>https://www.danlong360.com/post/4460/</link>
+        <link>http://localhost:1313/post/4460/</link>
         <pubDate>Sat, 19 Oct 2024 13:07:59 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/4460/</guid>
+        <guid>http://localhost:1313/post/4460/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;2024-10-18 更新至补丁 26100.2033 恢复了重置此电脑设置,驱动更新脚本优化,修复了某牌固态硬盘蓝屏、关闭自动加密等。&lt;/p&gt;
 &lt;p&gt;此版本为 WIN11 LTSC2024 的极限版，删除了 WinSxS 不支持 windows 功能关闭开启。
@@ -1505,10 +1505,10 @@ CRC32: F2624BDF&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 11 Pro (22000.3260) 深度精简 极限版 二合一 (2024.10.18)</title>
-        <link>https://www.danlong360.com/post/7911/</link>
+        <link>http://localhost:1313/post/7911/</link>
         <pubDate>Sat, 19 Oct 2024 13:06:21 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/7911/</guid>
+        <guid>http://localhost:1313/post/7911/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;2024-10-18 22000.3260 V2 自建用户修复管理员权限，恢复已声明的配置。优化安装脚本，关闭了默认通知&lt;/p&gt;
 &lt;p&gt;深度精简版 相比轻度精简版 少了 winsxs、地图、IIS、Hyper-V 、window 启用功能组件
@@ -1551,10 +1551,10 @@ CRC32: A802A568&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 11 Pro (22000.3260) 轻度精简 传统IE 二合一 (2024.10.18)</title>
-        <link>https://www.danlong360.com/post/4736/</link>
+        <link>http://localhost:1313/post/4736/</link>
         <pubDate>Sat, 19 Oct 2024 13:04:22 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/4736/</guid>
+        <guid>http://localhost:1313/post/4736/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;2024-10-18 22000.3260 V2 恢复了数据包监视器、重置此电脑设置。更新部署运行库脚本&lt;/p&gt;
 &lt;p&gt;因原镜像 EDGE 浏览器不是最新版本，运行后会自动更新导致臃肿，所以喜欢的用户建议手动安装&lt;/p&gt;
@@ -1596,10 +1596,10 @@ CRC32: 9202B21D&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 LTSC2024 (26100.2033) x64 精简 美化版 无更新 (2024.10.15)</title>
-        <link>https://www.danlong360.com/post/2836/</link>
+        <link>http://localhost:1313/post/2836/</link>
         <pubDate>Sat, 19 Oct 2024 13:00:43 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/2836/</guid>
+        <guid>http://localhost:1313/post/2836/</guid>
         <description>&lt;p&gt;此版不能更新补丁，并开启按流量计费，使用正式版 Windows 11 24H2 LTSC 版本做母盘，在无更新版本的基础上修改壁纸，任务栏透明，集成运行库字体等，此版保留 Hyper 和 linux，本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，老机器也可以安装，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/19/RjS9eOnZsEGY3zu.jpg&#34;
 	
@@ -1809,10 +1809,10 @@ CRC32 ：439CFAF3&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 LTSC2024 (26100.2033) x64 纯净 深度精简 无更新 (2024.10.15)</title>
-        <link>https://www.danlong360.com/post/2582/</link>
+        <link>http://localhost:1313/post/2582/</link>
         <pubDate>Sat, 19 Oct 2024 12:57:44 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/2582/</guid>
+        <guid>http://localhost:1313/post/2582/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版支持指纹和人脸，支持安装商店登录微软账号，做到了体积小，功能不减，母版来自 Windows11 24H2 LTSC2024 正式版 集成中文语言包集成补丁,此版精简的比较多，体积小，进程少，如果软件不多一般办公没什么问题，以自己实际需要为准，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/19/OnkUvLDdtTEsR5e.jpg&#34;
 	
@@ -2035,10 +2035,10 @@ CRC32 ：98938F46&lt;/p&gt;
         </item>
         <item>
         <title>Windows 10 22H2官方正式版2024年10月版(微软原版ISO镜像)</title>
-        <link>https://www.danlong360.com/post/9938/</link>
+        <link>http://localhost:1313/post/9938/</link>
         <pubDate>Fri, 18 Oct 2024 19:23:58 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/9938/</guid>
+        <guid>http://localhost:1313/post/9938/</guid>
         <description>&lt;p&gt;微软 Win10 系统下载,微软 Win10 22H2 正式版,微软原版系统 ISO 镜像 Win10 Build 19045 官方版 Windows 10 22H2 官方正式版 2024 年 10 月更新版,Win10 22H2 官方版 10 月版内部版本号 19045.4894.GnDown 站点此页提供 Win10 系统官方原版 ISO 镜像为 MVS 渠道消费者版(即零售版)和 VLSC 渠道商业版(即 VL 批量授权版).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/18/mJEcPS3uQ69Reor.png&#34;
 	
@@ -2067,10 +2067,10 @@ Microsoft Windows 10 [10.0.19045.5011], Version 22H2 Updated Oct 2024
         </item>
         <item>
         <title>Windows Server 2022官方正式版24年10月版(微软原版ISO镜像)</title>
-        <link>https://www.danlong360.com/post/5155/</link>
+        <link>http://localhost:1313/post/5155/</link>
         <pubDate>Fri, 18 Oct 2024 19:22:52 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/5155/</guid>
+        <guid>http://localhost:1313/post/5155/</guid>
         <description>&lt;p&gt;微软 Win10 服务器版,微软 Win10 Server 21H2 正式版,微软服务器系统 Win10 Server 2022 官方版,微软原版系统 ISO 镜像 Win10 Build 20348 官方版微软 Windows 10 Server 2022 官方正式版 2024 年 10 月版.GnDown 站点此页提供的是官方原版 ISO 镜像为 MVS 渠道消费者版(即零售版)和 VLSC 渠道商业版(即 VL 批量授权版).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/18/puSlVwR1jAmNOeD.png&#34;
 	
@@ -2096,10 +2096,10 @@ Microsoft Windows Server 2022 [10.0.20348.2762], Version 21H2 Updated Oct 2024
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 (26100.2033) x64 精简 游戏版 无更新 (2024.10.15) 正式版，推荐用于 游戏、办公、直播</title>
-        <link>https://www.danlong360.com/post/4413/</link>
+        <link>http://localhost:1313/post/4413/</link>
         <pubDate>Fri, 18 Oct 2024 13:44:55 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/4413/</guid>
+        <guid>http://localhost:1313/post/4413/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，此版为游戏版，为游戏稳定而生也可以用于办公、直播，建议 12-14 代 CPU 机器使用，虽然微软还没有正式发布 Windows 11 24H2 版本，但是预计与当前版本相比，变化不会太大，保留 Hyper 和 linux，体积和稳定性介于可更新版和无更新版之间，集成任务栏透明软件，独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，游戏办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/18/2QjF1eGwyXtZT8a.jpg&#34;
 	
@@ -2338,10 +2338,10 @@ CRC32 ：032CAE54&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 (26100.2033) x64 精简 美化版 无更新 (2024.10.14)</title>
-        <link>https://www.danlong360.com/post/647/</link>
+        <link>http://localhost:1313/post/647/</link>
         <pubDate>Fri, 18 Oct 2024 13:41:08 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/647/</guid>
+        <guid>http://localhost:1313/post/647/</guid>
         <description>&lt;p&gt;此版不能更新补丁，并开启按流量计费，使用正式版 Windows 11 24H2 版本做母盘，在无更新版本的基础上修改壁纸，任务栏透明，集成运行库字体等，此版保留 Hyper 和 linux，本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，老机器也可以安装，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/18/cV93Yqf8JEhby7t.jpg&#34;
 	
@@ -2553,10 +2553,10 @@ CRC32 ：888ADD27&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 (26100.2033) x64 纯净 深度精简 无更新 (2024.10.14)</title>
-        <link>https://www.danlong360.com/post/5465/</link>
+        <link>http://localhost:1313/post/5465/</link>
         <pubDate>Fri, 18 Oct 2024 13:38:38 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/5465/</guid>
+        <guid>http://localhost:1313/post/5465/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，使用正式版 Windows 11 24H2 版本做母盘，此版支持指纹和人脸，支持安装商店登录微软账号，做到了体积小，功能不减，此版精简的比较多，体积小，进程少，如果软件不多一般办公没什么问题，以自己实际需要为准，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/18/XIgsi7JzbP2VoWF.jpg&#34;
 	
@@ -2778,10 +2778,10 @@ CRC32 ：FDAFA92B&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4317) x64 精简 游戏版 无更新 (2024.10.14) 推荐适用于 游戏、直播、办公</title>
-        <link>https://www.danlong360.com/post/6416/</link>
+        <link>http://localhost:1313/post/6416/</link>
         <pubDate>Thu, 17 Oct 2024 14:21:43 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/6416/</guid>
+        <guid>http://localhost:1313/post/6416/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，此版为游戏版，为游戏稳定而生也可以用于办公，保留 Hyper 和 linux，体积和稳定性介于可更新版和无更新版之间，集成任务栏透明软件，独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，游戏办公
 基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、对.rar .7z .tar 等压缩文件的支持、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
@@ -3019,10 +3019,10 @@ CRC32 ：E615E094&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4317) x64 精简 美化版 无更新 (2024.10.14)</title>
-        <link>https://www.danlong360.com/post/2450/</link>
+        <link>http://localhost:1313/post/2450/</link>
         <pubDate>Thu, 17 Oct 2024 14:18:16 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/2450/</guid>
+        <guid>http://localhost:1313/post/2450/</guid>
         <description>&lt;p&gt;此版不能更新补丁，保留 Hyper 和 linux，在无更新版本的基础上修改壁纸，任务栏透明，集成运行库字体等，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、对.rar .7z .tar 等压缩文件的支持、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
 &lt;p&gt;Windows 本来就是一个复杂的系统，使用过程中难免会出现各种问题，有些问题可能并不是精简和优化后带来的问题，除了优化和精简外这其中和机器配置、硬件兼容、驱动版本 、个人使用 360 优化、软件版本以及安装工具都有关系，请勿盲目评论，可以先测试下原版中问题是否存在，然后在评论，感谢大家的理解和支持。&lt;/p&gt;
@@ -3262,10 +3262,10 @@ CRC32 ：23950AC7&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4317) x64 纯净 深度精简 无更新 (2024.10.13)</title>
-        <link>https://www.danlong360.com/post/5433/</link>
+        <link>http://localhost:1313/post/5433/</link>
         <pubDate>Thu, 17 Oct 2024 14:15:36 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/5433/</guid>
+        <guid>http://localhost:1313/post/5433/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版支持指纹和人脸，支持安装商店登录微软账号，做到了体积小，功能不减，此版精简的比较多，体积小，进程少，如果软件不多一般办公没什么问题，以自己实际需要为准，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、对.rar .7z .tar 等压缩文件的支持、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
 &lt;p&gt;Windows 本来就是一个复杂的系统，使用过程中难免会出现各种问题，有些问题可能并不是精简和优化后带来的问题，除了优化和精简外这其中和机器配置、硬件兼容、驱动版本 、个人使用 360 优化、软件版本以及安装工具都有关系，请勿盲目评论，可以先测试下原版中问题是否存在，然后在评论，感谢大家的理解和支持。&lt;/p&gt;
@@ -3484,10 +3484,10 @@ CRC32 ：BE1C214C&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.5011) x64 精简 游戏版 太阳谷 无更新 (2024.10.13) 新版任务栏透明软件 新增2款字体</title>
-        <link>https://www.danlong360.com/post/4971/</link>
+        <link>http://localhost:1313/post/4971/</link>
         <pubDate>Thu, 17 Oct 2024 14:12:40 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/4971/</guid>
+        <guid>http://localhost:1313/post/4971/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版为游戏版，为游戏稳定而生，保留语音识别 TTS、Hyper 和 linux，体积介于可更新版和无更新版之间，此版本替换了太阳谷图标，集成了任务栏透明工具、独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/17/Nkyb2GCj1LlFpa3.jpg&#34;
 	
@@ -3695,10 +3695,10 @@ CRC32 ：D25B262A&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.5011) x64 精简 美化版 太阳谷 无更新 (2024.10.13) 新版任务栏透明软件 新增2款字体</title>
-        <link>https://www.danlong360.com/post/4755/</link>
+        <link>http://localhost:1313/post/4755/</link>
         <pubDate>Thu, 17 Oct 2024 14:10:05 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/4755/</guid>
+        <guid>http://localhost:1313/post/4755/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，爱之所及，心之所至，此版本替换了太阳谷图标，集成了任务栏透明工具、独家 4K 高清壁纸，增加右键一些功能，以及离线集成了运行库，有 2 个版本集成了 HarmonyOS 字体，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/17/faDnrSYlKCz4T5w.jpg&#34;
 	
@@ -3911,10 +3911,10 @@ CRC32 ：2E620985&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.5011) x64 纯净 深度精简 无更新 (2024.10.13)</title>
-        <link>https://www.danlong360.com/post/1272/</link>
+        <link>http://localhost:1313/post/1272/</link>
         <pubDate>Thu, 17 Oct 2024 14:06:46 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/1272/</guid>
+        <guid>http://localhost:1313/post/1272/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，支持人脸、指纹、可以安装商店、以及其他 UWP Apxx 程序，可以登录微软账号，此为深度精简版体积小、精简的比较多，注意不支持 bitlocker，适合软件不多的以及轻办公的用户使用，如有第三方软件打不开，请自行安装资源包里的微软常用运行库，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/17/obRq4GxZt3L69eM.jpg&#34;
 	
@@ -4118,10 +4118,10 @@ CRC32 ：86ED047E&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 (26100.2033) x64 纯净 精简 无更新 (2024.10.12)</title>
-        <link>https://www.danlong360.com/post/5230/</link>
+        <link>http://localhost:1313/post/5230/</link>
         <pubDate>Wed, 16 Oct 2024 20:27:36 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/5230/</guid>
+        <guid>http://localhost:1313/post/5230/</guid>
         <description>&lt;p&gt;此版不能更新补丁，并开启按流量计费，使用正式版 Windows 11 24H2 版本做母盘，此版保留 Hyper 和 linux，本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，老机器也可以安装，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/16/Nbhg7IURoOaSGZf.jpg&#34;
 	
@@ -4319,10 +4319,10 @@ CRC32: 563BE0C8&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 (26100.2033) x64 纯净 精简 可更新 (2024.10.12) 正式版</title>
-        <link>https://www.danlong360.com/post/5473/</link>
+        <link>http://localhost:1313/post/5473/</link>
         <pubDate>Wed, 16 Oct 2024 20:25:26 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/5473/</guid>
+        <guid>http://localhost:1313/post/5473/</guid>
         <description>&lt;p&gt;此版按照可更新补丁制作，但不保证永远更新成功，保留语言识别 TTS、安全中心、Defender、hyper、Linux，离线精简部分 APP、以及其他不常用组件，本系统自动绕过 TPM bios 检测，不强制使用微软账号登录，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/16/83SVhJnmcgydzlp.jpg&#34;
 	
@@ -4529,10 +4529,10 @@ CRC32: 179F8702&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 LTSC2024 (26100.2033) x64 纯净 精简 无更新 (2024.10.12)</title>
-        <link>https://www.danlong360.com/post/8499/</link>
+        <link>http://localhost:1313/post/8499/</link>
         <pubDate>Wed, 16 Oct 2024 20:22:42 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/8499/</guid>
+        <guid>http://localhost:1313/post/8499/</guid>
         <description>&lt;p&gt;此版不能更新补丁，并开启按流量计费，母版来自 Windows11 24H2 LTSC2024 正式版 ，此版保留 Hyper 和 linux，本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，老机器也可以安装，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/16/EWGBd8Kv3wtFYnZ.jpg&#34;
 	
@@ -4730,10 +4730,10 @@ CRC32: DDE82016&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 LTSC2024 (26100.2033) x64 纯净 精简 可更新 (2024.10.12) LTSC2024正式版</title>
-        <link>https://www.danlong360.com/post/421/</link>
+        <link>http://localhost:1313/post/421/</link>
         <pubDate>Wed, 16 Oct 2024 20:18:23 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/421/</guid>
+        <guid>http://localhost:1313/post/421/</guid>
         <description>&lt;p&gt;此版按照可更新补丁制作，但不保证永远更新成功，使用 Windows 11 企业版 LTSC 正式版作为母盘，保留语言识别 TTS、安全中心、Defender、hyper、Linux，本系统自动绕过 TPM bios 检测，不强制使用微软账号登录，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/16/2eJKTr9nhoEZmxH.jpg&#34;
 	
@@ -4940,10 +4940,10 @@ CRC32: DA5A1A6A&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4317) x64 纯净 精简 无更新 (2024.10.12)</title>
-        <link>https://www.danlong360.com/post/5690/</link>
+        <link>http://localhost:1313/post/5690/</link>
         <pubDate>Wed, 16 Oct 2024 20:07:54 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/5690/</guid>
+        <guid>http://localhost:1313/post/5690/</guid>
         <description>&lt;p&gt;此版不能更新补丁，并开启按流量计费，此版保留 Hyper 和 linux，本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，老机器也可以安装，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、对.rar .7z .tar 等压缩文件的支持、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
 &lt;p&gt;Windows 本来就是一个复杂的系统，使用过程中难免会出现各种问题，有些问题可能并不是精简和优化后带来的问题，除了优化和精简外这其中和机器配置、硬件兼容、驱动版本 、个人使用 360 优化、软件版本以及安装工具都有关系，请勿盲目评论，可以先测试下原版中问题是否存在，然后在评论，感谢大家的理解和支持。&lt;/p&gt;
@@ -5137,10 +5137,10 @@ CRC32: 3745E546&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4317) x64 纯净 精简 可更新 (2024.10.12)</title>
-        <link>https://www.danlong360.com/post/4511/</link>
+        <link>http://localhost:1313/post/4511/</link>
         <pubDate>Wed, 16 Oct 2024 20:04:40 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/4511/</guid>
+        <guid>http://localhost:1313/post/4511/</guid>
         <description>&lt;p&gt;此版按照可更新补丁制作，但不保证永远更新成功，保留语言识别 TTS、安全中心、Defender、hyper、Linux，离线精简部分 APP、以及其他不常用组件，本系统自动绕过 TPM bios 检测，不强制使用微软账号登录，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、对.rar .7z .tar 等压缩文件的支持、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
 &lt;p&gt;注意事项 必看！！！！！&lt;/p&gt;
@@ -5347,10 +5347,10 @@ CRC32: F8105E0A&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.5011) x64 纯净 精简 无更新 (2024.10.11)</title>
-        <link>https://www.danlong360.com/post/5274/</link>
+        <link>http://localhost:1313/post/5274/</link>
         <pubDate>Wed, 16 Oct 2024 20:00:57 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/5274/</guid>
+        <guid>http://localhost:1313/post/5274/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版保留 Hyper 和 linux，集成 RST-VMD 驱动，比可以更新的补丁的版本体积要小很多，虽小但无过渡精简优化，该有的功能还会有，精简方法基本上还是原来配方，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/16/toJCbgcmj2FXWLv.jpg&#34;
 	
@@ -5556,10 +5556,10 @@ SHA256: 12ACDEC6828E252F2B5C66C54C8784C88B56821CD103959EDC3E8D5BB9AB8560&lt;/p&g
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.5011) x64 纯净 精简 可更新 (2024.10.11)</title>
-        <link>https://www.danlong360.com/post/1207/</link>
+        <link>http://localhost:1313/post/1207/</link>
         <pubDate>Wed, 16 Oct 2024 19:57:23 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/1207/</guid>
+        <guid>http://localhost:1313/post/1207/</guid>
         <description>&lt;p&gt;此版可正常更新补丁，此版本已经重新定义精简方案，比以前更稳定！为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;注意事项 必看！！！！！&lt;/p&gt;
 &lt;p&gt;更新失败的原因，经过数天时间的排查，如果恢复 IE 浏览器（替换 ieframe.dll）后将会无法更新补丁，更新将会失败，即日起可更新版本将不再恢复 IE 浏览器，另外并保留 EDGE 浏览器，需要用 IE 的 请在 EGDE 中 使用 IE 模式打开即可，效果一样的，虽保留 EDGE 但 ISO 体积优化后和之前没有什么变化。&lt;/p&gt;
@@ -5750,10 +5750,10 @@ CRC32: D5D5F2D9&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows7 SP1 专业版 旗舰版 (7601. 27366) IE8 IE11 x64 精简 美化版 太阳谷 (2024.10.11) 新增两款字体</title>
-        <link>https://www.danlong360.com/post/1249/</link>
+        <link>http://localhost:1313/post/1249/</link>
         <pubDate>Tue, 15 Oct 2024 23:32:30 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/1249/</guid>
+        <guid>http://localhost:1313/post/1249/</guid>
         <description>&lt;p&gt;不忘初心美化版 Windows7，集成 4K 高清壁纸，太阳谷图标，以及替换开始菜单图标，和以往不同的是，此次的太阳谷图标来自于 Windows11，共修改替换了 26 个系统文件之多，之前的太阳谷只有 3 个，并对细节进行了精心处理，虽然是老系统，但是看上去一点也不老，这外观一点也不输 Windows11，后续我们将会不断进行改进和完善。
 全新的优化、集成、精简方案，这版将近用了几个月的时间去深入研究，和上版相比，新版本的改进将性能提升到了一个更高的水平。新版解决部分新机型卡 LOGO 问题，支持部分 7/8/9/10/11/12/13 代 CPU 机器安装，本版以 Win7 旗舰版和专业版 64 位为核心，包含 ESU 补丁已经打到 2023 年 9 月最新，包含所有的重要更新，配合 BypassESU-v12 可正常更新补丁，考虑到政企有两个版本特意保留了 IE8 浏览器，以及集成政企公文必备的字体，另外所有版本均保留 Win7 经典的游戏，驱动方面集成 NVME 驱动 USB3.0/3.1 驱动 、以及其他各种除显卡外的大量驱动，通过精简不必要的组件，优化进程服务、启动项等加快速度，经测试运行稳定，此版安装过程最快只需要 5-6 分钟，大大改善了装机等待时间。长期使用不容易变慢，始终保持极速，是大家老配置机器装机、政企办公的最佳选择。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;机器需要进 BIOS 更改设置：&lt;/strong&gt;
@@ -5992,10 +5992,10 @@ CRC32 ：D98D8312&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows7 SP1 专业版 旗舰版 (7601.27366) IE8 IE11 x64 精简版 (2024.10.10)</title>
-        <link>https://www.danlong360.com/post/1660/</link>
+        <link>http://localhost:1313/post/1660/</link>
         <pubDate>Tue, 15 Oct 2024 23:28:41 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/1660/</guid>
+        <guid>http://localhost:1313/post/1660/</guid>
         <description>&lt;p&gt;时隔两年再次更新 WIN7，高品质全新的优化、集成、精简方案，这版将近用了几个月的时间去深入研究，和上版相比，新版本的改进将性能提升到了一个更高的水平。新版解决部分新机型卡 LOGO 问题，支持部分 7/8/9/10/11/12/13 代 CPU 机器安装，本版以 Win7 旗舰版和专业版 64 位为核心，包含 ESU 补丁已经打到 2023 年 9 月最新，包含所有的重要更新，配合 BypassESU-v12 可正常更新补丁，考虑到政企有两个版本特意保留了 IE8 浏览器，以及集成政企公文必备的字体，另外所有版本均保留 Win7 经典的游戏，驱动方面集成 NVME 驱动 USB3.0/3.1 驱动 、以及其他各种除显卡外的大量驱动，通过精简不必要的组件，优化进程服务、启动项等加快速度，经测试运行稳定，此版安装过程最快只需要 5-6 分钟，大大改善了装机等待时间。长期使用不容易变慢，始终保持极速，是大家老配置机器装机、政企办公的最佳选择。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;机器需要进 BIOS 更改设置：&lt;/strong&gt;
 Secure Boot 设置为关闭或者 Disabled【禁用启动安全检查，这个最重要】
@@ -6233,10 +6233,10 @@ CRC32: 9434ABB4&lt;/p&gt;
         </item>
         <item>
         <title>xb21cn Win11 v24H2 Build 26120.2152.1 精简版</title>
-        <link>https://www.danlong360.com/post/8035/</link>
+        <link>http://localhost:1313/post/8035/</link>
         <pubDate>Tue, 15 Oct 2024 22:09:09 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/8035/</guid>
+        <guid>http://localhost:1313/post/8035/</guid>
         <description>&lt;p&gt;xb21cn 精简 Win11 系统最新版,xb21cn Win11 24H2 预览版,xb21cn Win11 精简系统下载,xb21cn Win11 24H2 精简版,xb21cn Windows 11 24H2 精简版,xb21cn Win11 Build 26120 精简版,xb21cn Win11 精简版系统无更新企业版.xb21cn 精简版 Win11 纯净版系统,xb21cn 系统纯净无第三方软件,xb21cn 精简系统下载.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/15/Ir3chsVNQnezZaE.png&#34;
 	
@@ -6287,10 +6287,10 @@ Defender、Hyper-V、Cortana、XPS、IIS、BitLocker 等办公不常用组件&lt
         </item>
         <item>
         <title>xb21cn Win11 v23H2 Build 22635.4387.1 精简版</title>
-        <link>https://www.danlong360.com/post/323/</link>
+        <link>http://localhost:1313/post/323/</link>
         <pubDate>Tue, 15 Oct 2024 22:07:14 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/323/</guid>
+        <guid>http://localhost:1313/post/323/</guid>
         <description>&lt;p&gt;xb21cn 精简 Win11 系统最新版,xb21cn Win11 23H2 预览版,xb21cn Win11 精简系统下载,xb21cn Win11 23H2 精简版,xb21cn Windows 11 23H2 精简版,xb21cn Win11 Build 22635 精简版,xb21cn Win11 精简版系统无更新企业版.xb21cn 精简版 Win11 纯净版系统,xb21cn 系统纯净无第三方软件,xb21cn 精简系统下载.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/15/6xg91tmCJ8zWEPS.png&#34;
 	
@@ -6348,10 +6348,10 @@ Defender、Hyper-V、Cortana、XPS、IIS、BitLocker 等办公不常用组件&lt
         </item>
         <item>
         <title>xb21cn_Win10 v22H2 Build 19045.5011.1 精简版</title>
-        <link>https://www.danlong360.com/post/1562/</link>
+        <link>http://localhost:1313/post/1562/</link>
         <pubDate>Tue, 15 Oct 2024 22:03:43 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/1562/</guid>
+        <guid>http://localhost:1313/post/1562/</guid>
         <description>&lt;p&gt;xb21cn 精简 Win10 系统最新版,xb21cn Win10 22H2 正式版,xb21cn Win10 精简系统下载,xb21cn Win10 22H2 精简版,xb21cn Windows 10 22H2 精简版,xb21cn Win10 Build 19045 精简版,xb21cn Win10 精简版系统无更新企业版.xb21cn 精简版 Win10 纯净版系统,xb21cn 系统纯净无第三方软件,xb21cn 精简系统下载.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/15/h58kOFSfNtnc7U2.png&#34;
 	
@@ -6415,10 +6415,10 @@ Defender、Hyper-V、Cortana、XPS、IIS、BitLocker 等办公不常用组件&lt
         </item>
         <item>
         <title>小修 Windows 10 LTSC_2021 (19044.5011) 极限精简 四合一 (2024.10.11)</title>
-        <link>https://www.danlong360.com/post/1399/</link>
+        <link>http://localhost:1313/post/1399/</link>
         <pubDate>Tue, 15 Oct 2024 15:54:27 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/1399/</guid>
+        <guid>http://localhost:1313/post/1399/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原
 2024-10-11 更新至补丁 19044.5011
 优化了 部署完运行库等组件后，用户可选择是否重启。启用了图片查看器默认查看图片
@@ -6465,10 +6465,10 @@ CRC32: 062AF0B3&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 LTSC2021 (19044.5011) x64 精简 美化版 太阳谷 无更新 (20240.10.10) 适合3-11代CPU</title>
-        <link>https://www.danlong360.com/post/6973/</link>
+        <link>http://localhost:1313/post/6973/</link>
         <pubDate>Tue, 15 Oct 2024 15:50:46 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/6973/</guid>
+        <guid>http://localhost:1313/post/6973/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，爱之所及，心之所至，保留 Hyper 和 linux 并且替换了太阳谷图标，集成了任务栏透明工具、独家 4K 高清壁纸，新增鸿蒙 HarmonyOS 字体，根据自己需要选择，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少，办公基本无影响&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/15/1kgomyUqMLNeQRp.jpg&#34;
 	
@@ -6695,10 +6695,10 @@ CRC32: C865BF10&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 LTSC2021 (19044.5011) x64 纯净 深度精简 无更新 (2024.10.10) 适合3-11代CPU</title>
-        <link>https://www.danlong360.com/post/312/</link>
+        <link>http://localhost:1313/post/312/</link>
         <pubDate>Tue, 15 Oct 2024 15:47:44 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/312/</guid>
+        <guid>http://localhost:1313/post/312/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，支持人脸、指纹、可以安装商店、以及其他 UWP Apxx 程序，可以登录微软账号，此为深度精简版体积小、精简的比较多，注意不支持 bitlocker，适合软件不多的以及轻办公的用户使用，如有第三方软件打不开，请自行安装资源包里的微软常用运行库，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/15/VFfcZCEwM9kqs8W.jpg&#34;
 	
@@ -6878,10 +6878,10 @@ CRC32: EAE00AE4&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 LTSC2021 (19044.5011) x64 纯净 精简 无更新 (2024.10.10) 适合3-11代CPU</title>
-        <link>https://www.danlong360.com/post/122/</link>
+        <link>http://localhost:1313/post/122/</link>
         <pubDate>Tue, 15 Oct 2024 15:44:16 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/122/</guid>
+        <guid>http://localhost:1313/post/122/</guid>
         <description>&lt;p&gt;此版不能更新补丁，为无更新版本，母版来自 MSDN WIN10_LTSC2021，保留 Hyper 和 linux，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/15/ELn1J82xo4Ukhre.jpg&#34;
 	
@@ -7073,10 +7073,10 @@ CRC32: C03DBC5C&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 LTSC2021 (19044.5011) x64 纯净 精简 可更新 (2024.10.09) 适合3-11代CPU</title>
-        <link>https://www.danlong360.com/post/5849/</link>
+        <link>http://localhost:1313/post/5849/</link>
         <pubDate>Tue, 15 Oct 2024 15:33:25 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/5849/</guid>
+        <guid>http://localhost:1313/post/5849/</guid>
         <description>&lt;p&gt;此版可正常更新补丁，适合 3-11 代 CPU 使用，此版本已经重新定义精简方案，比以前更稳定！母版本来自 MSDN LTSC2021，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/15/4MHuVbf1wLBQUvg.jpg&#34;
 	
@@ -7253,10 +7253,10 @@ CRC32: 902D69C6&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 11 Pro (22631.4317) 稳定精简 极限版 二合一</title>
-        <link>https://www.danlong360.com/post/9480/</link>
+        <link>http://localhost:1313/post/9480/</link>
         <pubDate>Sat, 12 Oct 2024 11:15:52 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/9480/</guid>
+        <guid>http://localhost:1313/post/9480/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;2024-10-10 更新至补丁 22631.4317 优化了图片默认打开方式、关闭鼠标阴影、U 版可拖动程序到任务栏(测试:副作用未知)&lt;/p&gt;
 &lt;p&gt;此版本为 WIN11 的极限版，删除了 WinSxS 不支持 window 功能关闭开启。
@@ -7302,10 +7302,10 @@ CRC32: A153D56B&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 11 Pro (22631.4317) 轻度精简 二合一 (2024.10.09)</title>
-        <link>https://www.danlong360.com/post/6922/</link>
+        <link>http://localhost:1313/post/6922/</link>
         <pubDate>Sat, 12 Oct 2024 11:10:15 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/6922/</guid>
+        <guid>http://localhost:1313/post/6922/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;2024-10-09 更新至补丁 22631.4317 优化了图片默认打开方式，修复了部分客户端在线下载时出现闪退的情况&lt;/p&gt;
 &lt;p&gt;轻度精简版 在对比 22631 深度版上保留了虚拟机平台、iis、沙盒、相机、支持了 window 启用功能&lt;/p&gt;
@@ -7351,10 +7351,10 @@ CRC32: EDE145B6&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 10 Pro 22H2 (19045.5011) 深度精简 二合一 (2024.10.09)</title>
-        <link>https://www.danlong360.com/post/9584/</link>
+        <link>http://localhost:1313/post/9584/</link>
         <pubDate>Fri, 11 Oct 2024 23:43:10 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/9584/</guid>
+        <guid>http://localhost:1313/post/9584/</guid>
         <description>&lt;p&gt;温馨提示: 测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;2024-10-09 更新至补丁 19045.5011 优化了图片默认应用打开方式。修复了无法安装 xbox 的问题&lt;/p&gt;
 &lt;p&gt;申明：版本每次更新 修系统并不是只迭代更新，会把一些累计的优化调整加入 不会一一全部例举。&lt;/p&gt;
@@ -7400,10 +7400,10 @@ CRC32: 57DEC93B&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 10 Pro 22H2 (19045.5011) 轻度精简 二合一 (2024.10.09)</title>
-        <link>https://www.danlong360.com/post/4980/</link>
+        <link>http://localhost:1313/post/4980/</link>
         <pubDate>Fri, 11 Oct 2024 23:40:46 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/4980/</guid>
+        <guid>http://localhost:1313/post/4980/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;2024-10-09 更新至补丁 19045.5011 优化了图片默认打开方式，修复了部分网游登陆器在线下载时出现闪退的情况&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/D6FR8eryogWlEXw.png&#34;
@@ -7447,10 +7447,10 @@ CRC32: 3BA0C0BC&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 LTSC2024 (26100.1742) x64 精简 游戏版 无更新 (2024.10.07) 正式版，推荐用于 游戏、办公、直播</title>
-        <link>https://www.danlong360.com/post/3342/</link>
+        <link>http://localhost:1313/post/3342/</link>
         <pubDate>Thu, 10 Oct 2024 19:21:32 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/3342/</guid>
+        <guid>http://localhost:1313/post/3342/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，为游戏稳定而生也可以用于办公、直播等，母版来自 Windows11 24H2 LTSC2024 正式版 , 保留 Hyper 和 linux，体积和稳定性介于可更新版和无更新版之间，集成任务栏透明软件，独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，游戏办公直播基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/zuevxq3wOYN5nSM.jpg&#34;
 	
@@ -7689,10 +7689,10 @@ CRC32: FA9DB2EE&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 LTSC2024 (26100.1742) x64 纯净 深度精简 无更新 </title>
-        <link>https://www.danlong360.com/post/5884/</link>
+        <link>http://localhost:1313/post/5884/</link>
         <pubDate>Thu, 10 Oct 2024 19:17:32 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/5884/</guid>
+        <guid>http://localhost:1313/post/5884/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版支持指纹和人脸，支持安装商店登录微软账号，做到了体积小，功能不减，母版来自 Windows11 24H2 LTSC2024 正式版 集成中文语言包集成补丁,此版精简的比较多，体积小，进程少，如果软件不多一般办公没什么问题，以自己实际需要为准，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/rKalDZ2cGNIjnkO.jpg&#34;
 	
@@ -7917,10 +7917,10 @@ CRC32: EAFD783B&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 LTSC2024 (26100.1742) x64 精简 美化版 无更新 </title>
-        <link>https://www.danlong360.com/post/9517/</link>
+        <link>http://localhost:1313/post/9517/</link>
         <pubDate>Wed, 09 Oct 2024 22:13:04 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/9517/</guid>
+        <guid>http://localhost:1313/post/9517/</guid>
         <description>&lt;p&gt;此版不能更新补丁，并开启按流量计费，使用正式版 Windows 11 24H2 LTSC 版本做母盘，在无更新版本的基础上修改壁纸，任务栏透明，集成运行库字体等，此版保留 Hyper 和 linux，本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，老机器也可以安装，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/09/BrI59ObCsHd7U41.jpg&#34;
 	
@@ -8134,10 +8134,10 @@ CRC32: B72A280F&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 LTSC2024 (26100.1742) x64 纯净 精简 无更新 (2024.10.05)</title>
-        <link>https://www.danlong360.com/post/7443/</link>
+        <link>http://localhost:1313/post/7443/</link>
         <pubDate>Wed, 09 Oct 2024 17:05:35 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/7443/</guid>
+        <guid>http://localhost:1313/post/7443/</guid>
         <description>&lt;p&gt;此版不能更新补丁，并开启按流量计费，母版来自 Windows11 24H2 LTSC2024 正式版 ，此版保留 Hyper 和 linux，本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，老机器也可以安装，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/09/WlD4JRrVHoIAink.jpg&#34;
 	
@@ -8369,10 +8369,10 @@ CRC32: 14534EAE&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 LTSC2024 (26100.1742) x64 纯净 精简 可更新 (2024.10.05) LTSC2024正式版</title>
-        <link>https://www.danlong360.com/post/5913/</link>
+        <link>http://localhost:1313/post/5913/</link>
         <pubDate>Tue, 08 Oct 2024 20:39:38 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/5913/</guid>
+        <guid>http://localhost:1313/post/5913/</guid>
         <description>&lt;p&gt;此版按照可更新补丁制作，但不保证永远更新成功，使用 Windows 11 企业版 LTSC 正式版作为母盘，保留语言识别 TTS、安全中心、Defender、hyper、Linux，本系统自动绕过 TPM bios 检测，不强制使用微软账号登录，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/08/tlyHriuC5d9e48q.jpg&#34;
 	
@@ -8572,10 +8572,10 @@ CRC32: DF0E76EC&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 11 LTSC2024 (26100.1882) 极限精简 二合一 (2024.10.07)</title>
-        <link>https://www.danlong360.com/post/4104/</link>
+        <link>http://localhost:1313/post/4104/</link>
         <pubDate>Tue, 08 Oct 2024 17:53:37 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/4104/</guid>
+        <guid>http://localhost:1313/post/4104/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;2024-10-07 更新至补丁 26100.1882 首次发布 LTSC2024 极限精简版(优化方案 类似 22631 的稳定极限版)&lt;/p&gt;
 &lt;p&gt;此版本为 WIN11 LTSC2024 的极限版，删除了 WinSxS 不支持 windows 功能关闭开启。
@@ -8622,10 +8622,10 @@ CRC32: 5DDA6F24
         </item>
         <item>
         <title>小修 Windows 11 24H2 Pro (26100.1882) 轻度精简 二合一 (2024.10.04)</title>
-        <link>https://www.danlong360.com/post/7362/</link>
+        <link>http://localhost:1313/post/7362/</link>
         <pubDate>Tue, 08 Oct 2024 17:50:35 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/7362/</guid>
+        <guid>http://localhost:1313/post/7362/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;2024-10-04 更新至补丁 26100.1882 还原经典记事本(避免乱码问题)，隐藏了聚焦的了解此图片。优化了字体清晰度&lt;/p&gt;
 &lt;p&gt;新版 Win11 精简难度增大了。修系统的精简初衷就是把 99%用户用不到的文件都精简，做到容量小，功能多的轻快系统。
@@ -8676,10 +8676,10 @@ CRC32: 4AF63656&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 (26100.1742) x64 纯净 深度精简 无更新 (2024.10.04)</title>
-        <link>https://www.danlong360.com/post/753/</link>
+        <link>http://localhost:1313/post/753/</link>
         <pubDate>Mon, 07 Oct 2024 20:21:43 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/753/</guid>
+        <guid>http://localhost:1313/post/753/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，使用正式版 Windows 11 24H2 版本做母盘，此版支持指纹和人脸，支持安装商店登录微软账号，做到了体积小，功能不减，此版精简的比较多，体积小，进程少，如果软件不多一般办公没什么问题，以自己实际需要为准，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/07/dkul6K4SbBcaY7j.jpg&#34;
 	
@@ -8899,10 +8899,10 @@ CRC32: 4AF63656&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 (26100.1742) x64 精简 游戏版 无更新 (2024.10.04) 正式版，推荐用于 游戏、办公、直播</title>
-        <link>https://www.danlong360.com/post/583/</link>
+        <link>http://localhost:1313/post/583/</link>
         <pubDate>Mon, 07 Oct 2024 20:17:05 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/583/</guid>
+        <guid>http://localhost:1313/post/583/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，此版为游戏版，为游戏稳定而生也可以用于办公、直播，建议 12-14 代 CPU 机器使用，虽然微软还没有正式发布 Windows 11 24H2 版本，但是预计与当前版本相比，变化不会太大，保留 Hyper 和 linux，体积和稳定性介于可更新版和无更新版之间，集成任务栏透明软件，独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，游戏办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/07/Byzl3OrVFZEoeW1.jpg&#34;
 	
@@ -9143,10 +9143,10 @@ CRC32: 5807C51F&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 (26100.1742) x64 纯净 精简 无更新 (2024.10.03)</title>
-        <link>https://www.danlong360.com/post/198/</link>
+        <link>http://localhost:1313/post/198/</link>
         <pubDate>Sat, 05 Oct 2024 23:24:52 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/198/</guid>
+        <guid>http://localhost:1313/post/198/</guid>
         <description>&lt;p&gt;此版不能更新补丁，并开启按流量计费，使用正式版 Windows 11 24H2 版本做母盘，此版保留 Hyper 和 linux，本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，老机器也可以安装，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/05/pgZucqJKP3sMUBz.jpg&#34;
 	
@@ -9348,10 +9348,10 @@ CRC32: ADF2551E&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 (26100.1742) x64 精简 美化版 无更新 (2024.10.03)</title>
-        <link>https://www.danlong360.com/post/393/</link>
+        <link>http://localhost:1313/post/393/</link>
         <pubDate>Sat, 05 Oct 2024 23:19:18 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/393/</guid>
+        <guid>http://localhost:1313/post/393/</guid>
         <description>&lt;p&gt;此版不能更新补丁，并开启按流量计费，使用正式版 Windows 11 24H2 版本做母盘，在无更新版本的基础上修改壁纸，任务栏透明，集成运行库字体等，此版保留 Hyper 和 linux，本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，老机器也可以安装，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/05/6cyFTJSmEa8zrIf.jpg&#34;
 	
@@ -9567,10 +9567,10 @@ CRC32: 6910149A&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 (26100.1742) x64 纯净 精简 可更新 (2024.10.02) 正式版</title>
-        <link>https://www.danlong360.com/post/213/</link>
+        <link>http://localhost:1313/post/213/</link>
         <pubDate>Fri, 04 Oct 2024 23:03:36 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/213/</guid>
+        <guid>http://localhost:1313/post/213/</guid>
         <description>&lt;p&gt;此版按照可更新补丁制作，但不保证永远更新成功，保留语言识别 TTS、安全中心、Defender、hyper、Linux，离线精简部分 APP、以及其他不常用组件，本系统自动绕过 TPM bios 检测，不强制使用微软账号登录，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/04/zLpcqOfE6QHJuvb.jpg&#34;
 	
@@ -9770,10 +9770,10 @@ CRC32: 41FFB320&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4249) x64 精简 游戏版 无更新 (2024.09.29) 推荐适用于 游戏、直播、办公</title>
-        <link>https://www.danlong360.com/post/6454/</link>
+        <link>http://localhost:1313/post/6454/</link>
         <pubDate>Thu, 03 Oct 2024 19:34:30 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/6454/</guid>
+        <guid>http://localhost:1313/post/6454/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，此版为游戏版，为游戏稳定而生也可以用于办公，保留 Hyper 和 linux，体积和稳定性介于可更新版和无更新版之间，集成任务栏透明软件，独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，游戏办公
 基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、对.rar .7z .tar 等压缩文件的支持、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
@@ -10013,10 +10013,10 @@ CRC32: 64F73E49&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.4957) x64 精简 游戏版 太阳谷 无更新 (2024.09.27)</title>
-        <link>https://www.danlong360.com/post/9322/</link>
+        <link>http://localhost:1313/post/9322/</link>
         <pubDate>Mon, 30 Sep 2024 22:42:05 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/9322/</guid>
+        <guid>http://localhost:1313/post/9322/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版为游戏版，为游戏稳定而生，保留语音识别 TTS、Hyper 和 linux，体积介于可更新版和无更新版之间，此版本替换了太阳谷图标，集成了任务栏透明工具、独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/30/Ipnh1jaDrw5xfyi.jpg&#34;
 	
@@ -10226,10 +10226,10 @@ CRC32: 5EF0E644&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4249) x64 纯净 精简 无更新 (2024.09.27)</title>
-        <link>https://www.danlong360.com/post/8546/</link>
+        <link>http://localhost:1313/post/8546/</link>
         <pubDate>Mon, 30 Sep 2024 22:37:27 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/8546/</guid>
+        <guid>http://localhost:1313/post/8546/</guid>
         <description>&lt;p&gt;此版不能更新补丁，并开启按流量计费，此版保留 Hyper 和 linux，本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，老机器也可以安装，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、对.rar .7z .tar 等压缩文件的支持、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
 &lt;p&gt;Windows 本来就是一个复杂的系统，使用过程中难免会出现各种问题，有些问题可能并不是精简和优化后带来的问题，除了优化和精简外这其中和机器配置、硬件兼容、驱动版本 、个人使用 360 优化、软件版本以及安装工具都有关系，请勿盲目评论，可以先测试下原版中问题是否存在，然后在评论，感谢大家的理解和支持。&lt;/p&gt;
@@ -10454,10 +10454,10 @@ CRC32: 787D5D2A&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4249) x64 精简 美化版 无更新 (2024.09.28)</title>
-        <link>https://www.danlong360.com/post/7607/</link>
+        <link>http://localhost:1313/post/7607/</link>
         <pubDate>Mon, 30 Sep 2024 22:34:06 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/7607/</guid>
+        <guid>http://localhost:1313/post/7607/</guid>
         <description>&lt;p&gt;此版不能更新补丁，保留 Hyper 和 linux，在无更新版本的基础上修改壁纸，任务栏透明，集成运行库字体等，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、对.rar .7z .tar 等压缩文件的支持、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
 &lt;p&gt;Windows 本来就是一个复杂的系统，使用过程中难免会出现各种问题，有些问题可能并不是精简和优化后带来的问题，除了优化和精简外这其中和机器配置、硬件兼容、驱动版本 、个人使用 360 优化、软件版本以及安装工具都有关系，请勿盲目评论，可以先测试下原版中问题是否存在，然后在评论，感谢大家的理解和支持。&lt;/p&gt;
@@ -10725,10 +10725,10 @@ CRC32: E7A741F2&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4249) x64 纯净 深度精简 无更新 (2024.09.28)</title>
-        <link>https://www.danlong360.com/post/3048/</link>
+        <link>http://localhost:1313/post/3048/</link>
         <pubDate>Mon, 30 Sep 2024 22:30:52 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/3048/</guid>
+        <guid>http://localhost:1313/post/3048/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版支持指纹和人脸，支持安装商店登录微软账号，做到了体积小，功能不减，此版精简的比较多，体积小，进程少，如果软件不多一般办公没什么问题，以自己实际需要为准，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、对.rar .7z .tar 等压缩文件的支持、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
 &lt;p&gt;Windows 本来就是一个复杂的系统，使用过程中难免会出现各种问题，有些问题可能并不是精简和优化后带来的问题，除了优化和精简外这其中和机器配置、硬件兼容、驱动版本 、个人使用 360 优化、软件版本以及安装工具都有关系，请勿盲目评论，可以先测试下原版中问题是否存在，然后在评论，感谢大家的理解和支持。&lt;/p&gt;
@@ -10978,10 +10978,10 @@ CRC32: B0FB0DEF&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.4957) x64 纯净 深度精简 无更新 (2024.09.26)</title>
-        <link>https://www.danlong360.com/post/4957/</link>
+        <link>http://localhost:1313/post/4957/</link>
         <pubDate>Sun, 29 Sep 2024 00:04:04 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/4957/</guid>
+        <guid>http://localhost:1313/post/4957/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，支持人脸、指纹、可以安装商店、以及其他 UWP Apxx 程序，可以登录微软账号，此为深度精简版体积小、精简的比较多，注意不支持 bitlocker，适合软件不多的以及轻办公的用户使用，如有第三方软件打不开，请自行安装资源包里的微软常用运行库，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/29/XeEsD2K7Ukynh8u.jpg&#34;
 	
@@ -11197,10 +11197,10 @@ CRC32: BC4C7141&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.4957) x64 纯净 精简 无更新 (2024.09.25)</title>
-        <link>https://www.danlong360.com/post/buwangchuxinchunjingban4957/</link>
+        <link>http://localhost:1313/post/buwangchuxinchunjingban4957/</link>
         <pubDate>Fri, 27 Sep 2024 22:25:43 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinchunjingban4957/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinchunjingban4957/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版保留 Hyper 和 linux，集成 RST-VMD 驱动，比可以更新的补丁的版本体积要小很多，虽小但无过渡精简优化，该有的功能还会有，精简方法基本上还是原来配方，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/27/hT52VAZGHocYCw1.jpg&#34;
 	
@@ -11417,10 +11417,10 @@ SHA256: 12ACDEC6828E252F2B5C66C54C8784C88B56821CD103959EDC3E8D5BB9AB8560&lt;/p&g
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.4957) x64 精简 美化版 太阳谷 无更新 (2024.09.25)</title>
-        <link>https://www.danlong360.com/post/buwangchuxinwin10jingjianmeihuaban/</link>
+        <link>http://localhost:1313/post/buwangchuxinwin10jingjianmeihuaban/</link>
         <pubDate>Fri, 27 Sep 2024 22:20:58 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinwin10jingjianmeihuaban/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinwin10jingjianmeihuaban/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，爱之所及，心之所至，此版本替换了太阳谷图标，集成了任务栏透明工具、独家 4K 高清壁纸，增加右键一些功能，以及离线集成了运行库，有 2 个版本集成了 HarmonyOS 字体，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/27/PbUzt71Yps8BRr2.jpg&#34;
 	
@@ -11635,10 +11635,10 @@ CRC32 ：33564016&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 10 Pro 22H2 (19045.4957) 深度精简 二合一 (2024.09.27)</title>
-        <link>https://www.danlong360.com/post/xiaoxiuwin10shendujingjian4957/</link>
+        <link>http://localhost:1313/post/xiaoxiuwin10shendujingjian4957/</link>
         <pubDate>Fri, 27 Sep 2024 22:18:42 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xiaoxiuwin10shendujingjian4957/</guid>
+        <guid>http://localhost:1313/post/xiaoxiuwin10shendujingjian4957/</guid>
         <description>&lt;p&gt;温馨提示: 测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;2024-09-27 更新至补丁 19045.4957 优化了核心,同步策略&lt;/p&gt;
 &lt;p&gt;申明：版本每次更新 修系统并不是只迭代更新，会把一些累计的优化调整加入 不会一一全部例举。&lt;/p&gt;
@@ -11682,10 +11682,10 @@ CRC32: 26A1F2E7&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 10 Pro 22H2 (19045.4957) 轻度精简 二合一 (2024.09.27)</title>
-        <link>https://www.danlong360.com/post/xiaoxiuwin10qingdujingjian4957/</link>
+        <link>http://localhost:1313/post/xiaoxiuwin10qingdujingjian4957/</link>
         <pubDate>Fri, 27 Sep 2024 22:16:34 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xiaoxiuwin10qingdujingjian4957/</guid>
+        <guid>http://localhost:1313/post/xiaoxiuwin10qingdujingjian4957/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;2024-09-27 更新至补丁 19045.4957 打开了应用默认通知。修复了已知问题&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/27/5bvJQeFSf4YAPsh.png&#34;
@@ -11727,10 +11727,10 @@ CRC32: 1E33E661&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 10 LTSC_2021 (19044.4957) 极限精简 四合一 (2024.09.27)</title>
-        <link>https://www.danlong360.com/post/xiaoxiuwin10jixianjingjian4957/</link>
+        <link>http://localhost:1313/post/xiaoxiuwin10jixianjingjian4957/</link>
         <pubDate>Fri, 27 Sep 2024 22:13:25 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xiaoxiuwin10jixianjingjian4957/</guid>
+        <guid>http://localhost:1313/post/xiaoxiuwin10jixianjingjian4957/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;2024-09-26 更新至补丁 19044.4957 修复了保存文件时不自动填充文件名、部分机子识别不到 GameXX 电源模式等问题&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/27/RcxOujf5QKCvzo8.png&#34;
@@ -11772,10 +11772,10 @@ CRC32: EF55BA8B&lt;/p&gt;
         </item>
         <item>
         <title>Windows 10 22H2 Build 19045.4957 RTM</title>
-        <link>https://www.danlong360.com/post/windows1022h2build19045.4957rtm/</link>
+        <link>http://localhost:1313/post/windows1022h2build19045.4957rtm/</link>
         <pubDate>Thu, 26 Sep 2024 20:35:07 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/windows1022h2build19045.4957rtm/</guid>
+        <guid>http://localhost:1313/post/windows1022h2build19045.4957rtm/</guid>
         <description>&lt;p&gt;微软 Win10 系统下载,微软 Win10 22H2 下载,微软 Win10 22H2 正式版,Windows 10 22H2 系统 Win10 Build 19045 累积更新正式版.Windows 10 22H2 正式版首个初始版官方 ISO 镜像 2022 年 10 月推出,大版本命名 22H2,内部版 19045.GnDown 站点此页提供的 Win10 系统为微软官方原版集成累积更新补丁的完整版 ISO 镜像.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/u2wCqOQPBsa4iTe.jpg&#34;
 	
@@ -11823,10 +11823,10 @@ MD5: fc5745dfae6a5349cb155c83fd623c7e&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 10 Pro (18363.2274) 深度精简 四合一 最终版</title>
-        <link>https://www.danlong360.com/post/xiaoxiushendujingjian2274/</link>
+        <link>http://localhost:1313/post/xiaoxiushendujingjian2274/</link>
         <pubDate>Thu, 26 Sep 2024 12:07:42 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xiaoxiushendujingjian2274/</guid>
+        <guid>http://localhost:1313/post/xiaoxiushendujingjian2274/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;19H2__18363 推荐老机型安装,主打流畅度，轻度游戏办公 娱乐&lt;/p&gt;
 &lt;p&gt;2024-09-23 深度精简版 V10 【提前祝大家国庆节快乐】：
@@ -11875,10 +11875,10 @@ CRC32: FF7C1136&lt;/p&gt;
         </item>
         <item>
         <title>Windows 7 &amp; Server 2008 R2 7601.27317 18in1镜像</title>
-        <link>https://www.danlong360.com/post/server2008r2/</link>
+        <link>http://localhost:1313/post/server2008r2/</link>
         <pubDate>Thu, 26 Sep 2024 11:53:14 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/server2008r2/</guid>
+        <guid>http://localhost:1313/post/server2008r2/</guid>
         <description>&lt;p&gt;Windows 7 系统下载,Windows Serer 2008 系统下载.GnDown 站点提供原版集成 2023 年截止 6 月份更新完整版 ISO 镜像下载.微软于 2020 年 1 月 15 号正式停止对 Windows7 操作系统的支持,目前 Windows 系统的市场占有率来看仍旧有大量用户,部分用户认为无论是日常办公还是玩游戏,Win7 的兼容性都要优于 Win11 系统.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/u9R6pT7wPJzsKol.jpg&#34;
 	
@@ -11932,10 +11932,10 @@ MD5：117c0eb76fc3c15a4f106188406770be&lt;/p&gt;
         </item>
         <item>
         <title>Windows Server 2022 官方正式版2024年09月版</title>
-        <link>https://www.danlong360.com/post/windowsserver202209/</link>
+        <link>http://localhost:1313/post/windowsserver202209/</link>
         <pubDate>Thu, 19 Sep 2024 23:21:24 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/windowsserver202209/</guid>
+        <guid>http://localhost:1313/post/windowsserver202209/</guid>
         <description>&lt;p&gt;站点此页提供的微软官方原版 ISO 镜像为 MVS 渠道消费者版(即零售版)和 VLSC 渠道商业版(即 VL 批量授权版)。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/19/XiMLFI6nwDYWst3.jpg&#34;
 	
@@ -11965,10 +11965,10 @@ Microsoft Windows Server 2022 [10.0.20348.2700], Version 21H2 Updated Sep 2024
         </item>
         <item>
         <title>Windows 10 22H2官方正式版2024年09月版(微软原版ISO镜像)</title>
-        <link>https://www.danlong360.com/post/windows1022h209/</link>
+        <link>http://localhost:1313/post/windows1022h209/</link>
         <pubDate>Thu, 19 Sep 2024 23:15:37 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/windows1022h209/</guid>
+        <guid>http://localhost:1313/post/windows1022h209/</guid>
         <description>&lt;p&gt;微软 Win10 系统下载,微软 Win10 22H2 正式版,微软原版系统 ISO 镜像 Win10 Build 19045 官方版 Windows 10 22H2 官方正式版 2024 年 9 月更新版,Win10 22H2 官方版 9 月版内部版本号 19045.4894.GnDown 站点此页提供 Win10 系统官方原版 ISO 镜像为 MVS 渠道消费者版(即零售版)和 VLSC 渠道商业版(即 VL 批量授权版).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/19/2stDjyv7mrp1kl6.jpg&#34;
 	
@@ -11997,10 +11997,10 @@ Microsoft Windows 10 [10.0.19045.4894], Version 22H2 Updated Sep 2024
         </item>
         <item>
         <title>Windows 11 22H2官方正式版2024年09月版(微软原版ISO镜像)</title>
-        <link>https://www.danlong360.com/post/windows1122h209/</link>
+        <link>http://localhost:1313/post/windows1122h209/</link>
         <pubDate>Thu, 19 Sep 2024 23:14:23 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/windows1122h209/</guid>
+        <guid>http://localhost:1313/post/windows1122h209/</guid>
         <description>&lt;p&gt;微软 Win11 系统下载,微软 Win11 22H2 正式版,微软原版系统 ISO 镜像 Win11 Build 22621 官方版 Windows 11 22H2 官方正式版 2024 年 9 月更新版,Win11 22H2 官方版 8 月版内部版本号 22621.4168.GnDown 站点此页提供 Win11 系统官方原版 ISO 镜像为 MVS 渠道消费者版(即零售版)和 VLSC 渠道商业版(即 VL 批量授权版).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/19/r4P3CMSL7imYHsA.png&#34;
 	
@@ -12031,10 +12031,10 @@ Microsoft Windows 11 [10.0.22621.4169], Version 22H2 Updated Sep 2024
         </item>
         <item>
         <title>Windows 11 23H2官方正式版2024年09月版(微软原版ISO镜像)</title>
-        <link>https://www.danlong360.com/post/windows1123h209/</link>
+        <link>http://localhost:1313/post/windows1123h209/</link>
         <pubDate>Thu, 19 Sep 2024 23:12:10 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/windows1123h209/</guid>
+        <guid>http://localhost:1313/post/windows1123h209/</guid>
         <description>&lt;p&gt;微软 Win11 系统下载,微软 Win11 23H2 正式版,微软原版系统 ISO 镜像 Win11 Build 22631 官方版 Windows 11 23H2 官方正式版 2024 年 9 月更新版,Win11 23H2 官方版 9 月版内部版本号 22631.4169.GnDown 站点此页提供 Win11 系统官方原版 ISO 镜像为 MVS 渠道消费者版(即零售版)和 VLSC 渠道商业版(即 VL 批量授权版).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/19/r4P3CMSL7imYHsA.png&#34;
 	
@@ -12065,10 +12065,10 @@ Microsoft Windows 11 [10.0.22631.4169], Version 23H2 Updated Sep 2024
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.4894) x64 精简 游戏版 太阳谷 无更新 (2024.09.14)</title>
-        <link>https://www.danlong360.com/post/buwangchuxinwin104894jingjianyouxiban/</link>
+        <link>http://localhost:1313/post/buwangchuxinwin104894jingjianyouxiban/</link>
         <pubDate>Tue, 17 Sep 2024 23:56:02 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinwin104894jingjianyouxiban/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinwin104894jingjianyouxiban/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版为游戏版，为游戏稳定而生，保留语音识别 TTS、Hyper 和 linux，体积介于可更新版和无更新版之间，此版本替换了太阳谷图标，集成了任务栏透明工具、独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/17/kSUtxmVHCaI5fvJ.png&#34;
 	
@@ -12278,10 +12278,10 @@ CRC32 ：313F198E&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4169) x64 精简 美化版 无更新 (2024.09.14)</title>
-        <link>https://www.danlong360.com/post/buwangchuxinwin114169meihuaban/</link>
+        <link>http://localhost:1313/post/buwangchuxinwin114169meihuaban/</link>
         <pubDate>Tue, 17 Sep 2024 23:52:46 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinwin114169meihuaban/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinwin114169meihuaban/</guid>
         <description>&lt;p&gt;此版不能更新补丁，保留 Hyper 和 linux，在无更新版本的基础上修改壁纸，任务栏透明，集成运行库字体等，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、对.rar .7z .tar 等压缩文件的支持、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/17/x8T9CD5YloUiH7s.png&#34;
@@ -12521,10 +12521,10 @@ CRC32 ：614F9CD9&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4169) x64 纯净 深度精简 无更新 (2024.09.15)</title>
-        <link>https://www.danlong360.com/post/buwangchuxin4169shendujingjia/</link>
+        <link>http://localhost:1313/post/buwangchuxin4169shendujingjia/</link>
         <pubDate>Tue, 17 Sep 2024 23:42:46 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin4169shendujingjia/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin4169shendujingjia/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版支持指纹和人脸，支持安装商店登录微软账号，做到了体积小，功能不减，此版精简的比较多，体积小，进程少，如果软件不多一般办公没什么问题，以自己实际需要为准，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、对.rar .7z .tar 等压缩文件的支持、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/17/tHI4TiCdsJyoMEV.png&#34;
@@ -12746,10 +12746,10 @@ CRC32 ：C4947B45&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4169) x64 精简 游戏版 无更新 (2024.09.15) 推荐适用于 游戏、直播、办公</title>
-        <link>https://www.danlong360.com/post/buwangchuxinwin114169/</link>
+        <link>http://localhost:1313/post/buwangchuxinwin114169/</link>
         <pubDate>Tue, 17 Sep 2024 23:39:01 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinwin114169/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinwin114169/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，此版为游戏版，为游戏稳定而生也可以用于办公，保留 Hyper 和 linux，体积和稳定性介于可更新版和无更新版之间，集成任务栏透明软件，独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，游戏办公
 基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、对.rar .7z .tar 等压缩文件的支持、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
@@ -12991,10 +12991,10 @@ CRC32 ：E422F64C&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 (26100.1742) x64 精简 游戏版 无更新 (2024.09.16)</title>
-        <link>https://www.danlong360.com/post/buwangchuxinwin111742/</link>
+        <link>http://localhost:1313/post/buwangchuxinwin111742/</link>
         <pubDate>Tue, 17 Sep 2024 23:34:46 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinwin111742/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinwin111742/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，此版为游戏版，为游戏稳定而生也可以用于办公，虽然微软还没有正式发布 Windows 11 24H2 版本，但是预计与当前版本相比，变化不会太大，保留 Hyper 和 linux，体积和稳定性介于可更新版和无更新版之间，集成任务栏透明软件，独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，游戏办公
 基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/17/txshdfweklSp34y.png&#34;
@@ -13261,10 +13261,10 @@ CRC32 ：3FFBC1FD&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.4894) x64 纯净 精简 可更新 (2024.09.11)</title>
-        <link>https://www.danlong360.com/post/buwangchuxinkegengxin4894/</link>
+        <link>http://localhost:1313/post/buwangchuxinkegengxin4894/</link>
         <pubDate>Sat, 14 Sep 2024 13:34:07 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinkegengxin4894/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinkegengxin4894/</guid>
         <description>&lt;p&gt;此版可正常更新补丁，此版本已经重新定义精简方案，比以前更稳定！为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;注意事项 必看！！！！！&lt;/p&gt;
 &lt;p&gt;更新失败的原因，经过数天时间的排查，如果恢复 IE 浏览器（替换 ieframe.dll）后将会无法更新补丁，更新将会失败，即日起可更新版本将不再恢复 IE 浏览器，另外并保留 EDGE 浏览器，需要用 IE 的 请在 EGDE 中 使用 IE 模式打开即可，效果一样的，虽保留 EDGE 但 ISO 体积优化后和之前没有什么变化。&lt;/p&gt;
@@ -13458,10 +13458,10 @@ CRC32 ：7309073B&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.4894) x64 纯净 精简 无更新 (2024.09.11)</title>
-        <link>https://www.danlong360.com/post/buwangchuxinwin104894/</link>
+        <link>http://localhost:1313/post/buwangchuxinwin104894/</link>
         <pubDate>Sat, 14 Sep 2024 13:30:29 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinwin104894/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinwin104894/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版保留 Hyper 和 linux，集成 RST-VMD 驱动，比可以更新的补丁的版本体积要小很多，虽小但无过渡精简优化，该有的功能还会有，精简方法基本上还是原来配方，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/14/uz91TDIiXxPjWcM.png&#34;
 	
@@ -13668,10 +13668,10 @@ SHA256: 12ACDEC6828E252F2B5C66C54C8784C88B56821CD103959EDC3E8D5BB9AB8560&lt;/p&g
         </item>
         <item>
         <title>小修 Windows 11 24H2 Pro (26100.1742) 轻度精简 二合一 (2024.09.12)</title>
-        <link>https://www.danlong360.com/post/xiaoxiuwin111742/</link>
+        <link>http://localhost:1313/post/xiaoxiuwin111742/</link>
         <pubDate>Sat, 14 Sep 2024 13:27:38 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xiaoxiuwin111742/</guid>
+        <guid>http://localhost:1313/post/xiaoxiuwin111742/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;2024-09-12 更新至补丁 26100.1742
@@ -13717,10 +13717,10 @@ CRC32: 5605BF52&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 10 LTSC_2021 (19044.4894) 极限精简 四合一 (2024.09.13)</title>
-        <link>https://www.danlong360.com/post/xiaoxiuwin100913/</link>
+        <link>http://localhost:1313/post/xiaoxiuwin100913/</link>
         <pubDate>Sat, 14 Sep 2024 13:24:48 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xiaoxiuwin100913/</guid>
+        <guid>http://localhost:1313/post/xiaoxiuwin100913/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;2024-09-13 更新至补丁 19044.4894
@@ -13767,10 +13767,10 @@ CRC32: C9E5201C&lt;/p&gt;
         </item>
         <item>
         <title>xb21cn Win11 v24H2 Build 26120.1742.1 精简版</title>
-        <link>https://www.danlong360.com/post/xb21cnwin111742/</link>
+        <link>http://localhost:1313/post/xb21cnwin111742/</link>
         <pubDate>Sat, 14 Sep 2024 08:41:55 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xb21cnwin111742/</guid>
+        <guid>http://localhost:1313/post/xb21cnwin111742/</guid>
         <description>&lt;p&gt;xb21cn 精简 Win11 系统最新版,xb21cn Win11 24H2 预览版,xb21cn Win11 精简系统下载,xb21cn Win11 24H2 精简版,xb21cn Windows 11 24H2 精简版,xb21cn Win11 Build 26120 精简版,xb21cn Win11 精简版系统无更新企业版.xb21cn 精简版 Win11 纯净版系统,xb21cn 系统纯净无第三方软件,xb21cn 精简系统下载.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/14/RGwhbBHfUKX52Wm.png&#34;
 	
@@ -13821,10 +13821,10 @@ Defender、Hyper-V、Cortana、XPS、IIS、BitLocker 等办公不常用组件&lt
         </item>
         <item>
         <title>xb21cn Win11 v23H2 Build 22635.4169.1 精简版</title>
-        <link>https://www.danlong360.com/post/xb21cnwin114169/</link>
+        <link>http://localhost:1313/post/xb21cnwin114169/</link>
         <pubDate>Sat, 14 Sep 2024 08:39:47 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xb21cnwin114169/</guid>
+        <guid>http://localhost:1313/post/xb21cnwin114169/</guid>
         <description>&lt;p&gt;xb21cn 精简 Win11 系统最新版,xb21cn Win11 23H2 预览版,xb21cn Win11 精简系统下载,xb21cn Win11 23H2 精简版,xb21cn Windows 11 23H2 精简版,xb21cn Win11 Build 22635 精简版,xb21cn Win11 精简版系统无更新企业版.xb21cn 精简版 Win11 纯净版系统,xb21cn 系统纯净无第三方软件,xb21cn 精简系统下载.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/14/RGwhbBHfUKX52Wm.png&#34;
 	
@@ -13882,10 +13882,10 @@ Defender、Hyper-V、Cortana、XPS、IIS、BitLocker 等办公不常用组件&lt
         </item>
         <item>
         <title>xb21cn_Win10 v22H2 Build 19045.4894.1 精简版</title>
-        <link>https://www.danlong360.com/post/xb21cnwin104894/</link>
+        <link>http://localhost:1313/post/xb21cnwin104894/</link>
         <pubDate>Sat, 14 Sep 2024 08:38:12 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xb21cnwin104894/</guid>
+        <guid>http://localhost:1313/post/xb21cnwin104894/</guid>
         <description>&lt;p&gt;xb21cn 精简 Win10 系统最新版,xb21cn Win10 22H2 正式版,xb21cn Win10 精简系统下载,xb21cn Win10 22H2 精简版,xb21cn Windows 10 22H2 精简版,xb21cn Win10 Build 19045 精简版,xb21cn Win10 精简版系统无更新企业版.xb21cn 精简版 Win10 纯净版系统,xb21cn 系统纯净无第三方软件,xb21cn 精简系统下载.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/14/NQwJvng4sYxpTef.png&#34;
 	
@@ -13949,10 +13949,10 @@ Defender、Hyper-V、Cortana、XPS、IIS、BitLocker 等办公不常用组件&lt
         </item>
         <item>
         <title>Windows 11 23H2 (22631.4169) 13in1镜像 (2024年09月) – ananhaid</title>
-        <link>https://www.danlong360.com/post/win114169131/</link>
+        <link>http://localhost:1313/post/win114169131/</link>
         <pubDate>Fri, 13 Sep 2024 22:38:17 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/win114169131/</guid>
+        <guid>http://localhost:1313/post/win114169131/</guid>
         <description>&lt;p&gt;此页提供的 Win11 系统为微软官方原版集成累积更新的完整版 ISO 镜像。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/13/9JO7LUSMZGiWDHl.png&#34;
 	
@@ -13987,10 +13987,10 @@ KB5042099（24 年 8 月 .net 累积更新）（8 月 14 日）&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 11 Pro (22000.3197) 轻度精简 传统IE 二合一 (2024.09.11)</title>
-        <link>https://www.danlong360.com/post/xiaoxiuqingdujingjian0911/</link>
+        <link>http://localhost:1313/post/xiaoxiuqingdujingjian0911/</link>
         <pubDate>Fri, 13 Sep 2024 22:35:02 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xiaoxiuqingdujingjian0911/</guid>
+        <guid>http://localhost:1313/post/xiaoxiuqingdujingjian0911/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;2024-09-11 更新版本号 22000.3197 优化了处理器及游戏模式时的调动，更新运行库 2024.08&lt;/p&gt;
@@ -14034,10 +14034,10 @@ CRC32: 42F89EA7&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 11 Pro (22000.3197) 深度精简 极限版 二合一 (2024.09.11)</title>
-        <link>https://www.danlong360.com/post/xiaoxiuwin11shendujingjian3197/</link>
+        <link>http://localhost:1313/post/xiaoxiuwin11shendujingjian3197/</link>
         <pubDate>Fri, 13 Sep 2024 22:31:25 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xiaoxiuwin11shendujingjian3197/</guid>
+        <guid>http://localhost:1313/post/xiaoxiuwin11shendujingjian3197/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;2024-09-11 更新至补丁 22000.3197 优化了处理器的调动，禁用了字体驱动的更新&lt;/p&gt;
@@ -14082,10 +14082,10 @@ CRC32: AF21ABB4&lt;/p&gt;
         </item>
         <item>
         <title>Windows 11 23H2 Build 22631.4169 RTM</title>
-        <link>https://www.danlong360.com/post/windows11rtm4169/</link>
+        <link>http://localhost:1313/post/windows11rtm4169/</link>
         <pubDate>Thu, 12 Sep 2024 22:01:59 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/windows11rtm4169/</guid>
+        <guid>http://localhost:1313/post/windows11rtm4169/</guid>
         <description>&lt;p&gt;微软 Win11 系统下载,微软 Win11 23H2 正式版,微软 Win11 Build 22631 正式版,微软 Windows 11 23H2 正式版,Windows 11 23H2 官方正式版首个初始版的微软原版 ISO 镜像于 2023 年 10 月推出,系统版本为 23H2,OS 内部版本为 22631,GnDown 站点此页提供的 Win11 系统为微软官方原版集成累积更新的完整版 ISO 镜像.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/12/F654ndW1YXRAzlO.png&#34;
 	
@@ -14128,10 +14128,10 @@ KB5042099（24 年 8 月 .net 累积更新）（8 月 14 日）&lt;/p&gt;
         </item>
         <item>
         <title>Windows 10 LTSC 2021 Build 19044.4894</title>
-        <link>https://www.danlong360.com/post/10ltsc4894/</link>
+        <link>http://localhost:1313/post/10ltsc4894/</link>
         <pubDate>Thu, 12 Sep 2024 21:59:53 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/10ltsc4894/</guid>
+        <guid>http://localhost:1313/post/10ltsc4894/</guid>
         <description>&lt;p&gt;微软 Win10LTSC2021 最新版,微软 Win10 LTSC 21H2 下载,Windows 10 LTSC 21H2 系统 Win10 Build 19044 累积更新.Windows 10 企业版 LTSC 版堪称官方 Win10 精简版,相对普通企业版,不会获得新增功能仅提供安全更新,可以控制升级.GnDown 站点此页提供的 Win10 系统为微软官方原版集成累积更新的完整版 ISO 镜像.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/12/UozltEnTMWZNx8b.jpg&#34;
 	
@@ -14170,10 +14170,10 @@ KB5042097（24 年 8 月 .net 累积更新）（8 月 14 日）&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4112) x64 精简 游戏版 无更新 推荐适用于 游戏、直播、办公</title>
-        <link>https://www.danlong360.com/post/buwangchuxinyouxi4112/</link>
+        <link>http://localhost:1313/post/buwangchuxinyouxi4112/</link>
         <pubDate>Wed, 11 Sep 2024 02:15:32 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinyouxi4112/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinyouxi4112/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，此版为游戏版，为游戏稳定而生也可以用于办公，保留 Hyper 和 linux，体积和稳定性介于可更新版和无更新版之间，集成任务栏透明软件，独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，游戏办公
 基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、对.rar .7z .tar 等压缩文件的支持、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
@@ -14413,10 +14413,10 @@ CRC32 ：E555ECCA&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 11 24H2 Pro (26100.1591) 轻度精简 二合一</title>
-        <link>https://www.danlong360.com/post/%E5%B0%8F%E4%BF%AEwindows111591/</link>
+        <link>http://localhost:1313/post/%E5%B0%8F%E4%BF%AEwindows111591/</link>
         <pubDate>Wed, 11 Sep 2024 02:12:12 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/%E5%B0%8F%E4%BF%AEwindows111591/</guid>
+        <guid>http://localhost:1313/post/%E5%B0%8F%E4%BF%AEwindows111591/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;新版 Win11 精简难度增大了。修系统的精简初衷就是把 99%用户用不到的文件都精简，做到容量小，功能多的轻快系统。
 所以对 Windows 26100 反复精简了 2 个通宵。若遇到问题还请网友们包容吐槽。在此感谢广大网友们的喜爱及反馈！
@@ -14464,10 +14464,10 @@ CRC32: 77E64990&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 1909 (18363.2274) x64 极限精简 珍藏版 960M</title>
-        <link>https://www.danlong360.com/post/buwangchuxin2274jixianjingjian/</link>
+        <link>http://localhost:1313/post/buwangchuxin2274jixianjingjian/</link>
         <pubDate>Sun, 08 Sep 2024 01:00:59 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin2274jixianjingjian/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin2274jixianjingjian/</guid>
         <description>&lt;p&gt;Windows10 1909 极限精简版精品，虚拟机实测内存占用 700M 左右，进程不到 40 个，进程不到 40 个，特别适合 3 至 9 代 CPU，9 代以后的机器不建议，保留打印、远程桌面、IE 浏览器、数字激活等，支持微软账户登录（不支持工作或学校账户），Microsoft EDGE 浏览器可以正常同步收藏夹及个人设置，注意不支持安装商店以及任何 UWP APPX 应用，此版基于 UUP Windows10 1909 (18363.2274) 母盘制作，可以说是精简的非常多，ESD 体积做到了 960M，展开空间 3.71G，适合平常只上网以及软件不多的用户，也适合虚拟机以及软路由 EXSI 里面使用，如有软件打不开请安装运行库，极限精简肯定会导致部分 Win10 系统功能不正常或者部分软件打不开，下面有介绍移除和保留仔细看一下，本帖不回复任何系统功能或者软件出错的解决方法，不建议在日常办公电脑上使用，感兴趣的可以测试下，可以在虚拟机或者不常用的电脑中使用。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/vqFG3AV62ieOYKu.png&#34;
 	
@@ -14544,10 +14544,10 @@ CRC32: 77E64990&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 1909 (18363.2274) x64 精简 美化 太阳谷 无更新 最终版 鸿蒙HarmonyOS 字体可选 </title>
-        <link>https://www.danlong360.com/post/buwangchuxin2274meihua/</link>
+        <link>http://localhost:1313/post/buwangchuxin2274meihua/</link>
         <pubDate>Sun, 08 Sep 2024 00:58:03 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin2274meihua/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin2274meihua/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，最终版不再更新了，保留 hyper 沙盒 web 媒体扩展 此版本 UUP 18363.2274 版本，虽然是前几年的版本了，但是依然有很多人在用，对于 3-9 代 CPU 兼容性比较好，流畅度没的说，此版本替换了太阳谷图标，有 2 个版本集成了 HarmonyOS 字体，对于高分屏效果比较好，根据自己需要选择，集成了任务栏透明工具、独家 4K 高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/9diPzNWJRxe4Blf.png&#34;
 	
@@ -14639,10 +14639,10 @@ TranslucentTB 安装路径在：C:\ProgramData\TranslucentTB
         </item>
         <item>
         <title>不忘初心 Window10 1909 (18363.2274) x64 纯净 精简 无更新 最终版 全新精简方案 适合3至9代CPU</title>
-        <link>https://www.danlong360.com/post/buwangchuxin2274/</link>
+        <link>http://localhost:1313/post/buwangchuxin2274/</link>
         <pubDate>Sun, 08 Sep 2024 00:55:00 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin2274/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin2274/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，1909 的最终版了，后面不更新此版了，母版来自 UUP WIN10_1909 18363.2274，特别适合 3 至 9 代 CPU，9 代以后的机器不建议，采用最新全新精简方案，为保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，可正常更新补丁、办公无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/yKmfsetNGo2IdkQ.png&#34;
 	
@@ -14717,10 +14717,10 @@ TranslucentTB 安装路径在：C:\ProgramData\TranslucentTB
         </item>
         <item>
         <title>不忘初心 Windows10 21H2 (19044.3086) x64 精简 美化 太阳谷 无更新 全新方案&#43;鸿蒙HarmonyOS 字体(可选)</title>
-        <link>https://www.danlong360.com/post/buwangchuxin3086meihuan/</link>
+        <link>http://localhost:1313/post/buwangchuxin3086meihuan/</link>
         <pubDate>Sun, 08 Sep 2024 00:47:02 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin3086meihuan/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin3086meihuan/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，爱之所及，心之所至，此版本 UUP19044.3086 为 21H2 并且替换了太阳谷图标，集成了任务栏透明工具、独家 4K 高清壁纸，增加右键一些功能，有 2 个版本集成了 HarmonyOS 字体，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/rmA53kcOzK84Nd1.png&#34;
 	
@@ -14853,10 +14853,10 @@ TranslucentTB 安装路径在：C:\ProgramData\TranslucentTB
         </item>
         <item>
         <title>不忘初心 Windows10 21H2 (19044.3086) x64 纯净 精简 无更新</title>
-        <link>https://www.danlong360.com/post/buwangchuxinwin103086/</link>
+        <link>http://localhost:1313/post/buwangchuxinwin103086/</link>
         <pubDate>Sun, 08 Sep 2024 00:42:50 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinwin103086/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinwin103086/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，母版来自 UUP WIN10_21H2 19044.3086，此版保留 Hyper 和 linux，集成 RST-VMD 驱动，采用全新精简方案，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/08/WunVmo3Z8g6QM2S.png&#34;
 	
@@ -14968,10 +14968,10 @@ TranslucentTB 安装路径在：C:\ProgramData\TranslucentTB
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4112) x64 纯净 精简 无更新 (2024.08.29)</title>
-        <link>https://www.danlong360.com/post/buwangchuxinjingjian4112/</link>
+        <link>http://localhost:1313/post/buwangchuxinjingjian4112/</link>
         <pubDate>Mon, 02 Sep 2024 13:02:13 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinjingjian4112/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinjingjian4112/</guid>
         <description>&lt;p&gt;此版不能更新补丁，并开启按流量计费，此版保留 Hyper 和 linux，本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，老机器也可以安装，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、对.rar .7z .tar 等压缩文件的支持、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -15339,10 +15339,10 @@ CRC32 ：59793873&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4112) x64 精简 美化版 无更新 (2024.08.30)</title>
-        <link>https://www.danlong360.com/post/buwangchuxin4112/</link>
+        <link>http://localhost:1313/post/buwangchuxin4112/</link>
         <pubDate>Mon, 02 Sep 2024 12:58:10 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin4112/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin4112/</guid>
         <description>&lt;p&gt;此版不能更新补丁，保留 Hyper 和 linux，在无更新版本的基础上修改壁纸，任务栏透明，集成运行库字体等，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、对.rar .7z .tar 等压缩文件的支持、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
 &lt;p&gt;Windows 本来就是一个复杂的系统，使用过程中难免会出现各种问题，有些问题可能并不是精简和优化后带来的问题，除了优化和精简外这其中和机器配置、硬件兼容、驱动版本 、个人使用 360 优化、软件版本以及安装工具都有关系，请勿盲目评论，可以先测试下原版中问题是否存在，然后在评论，感谢大家的理解和支持。&lt;/p&gt;
@@ -15857,10 +15857,10 @@ CRC32 ：77AA3A98&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.4842) x64 纯净 精简 无更新 (2024.08.30)</title>
-        <link>https://www.danlong360.com/post/buwangchuxin4842/</link>
+        <link>http://localhost:1313/post/buwangchuxin4842/</link>
         <pubDate>Mon, 02 Sep 2024 12:53:50 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin4842/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin4842/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版保留 Hyper 和 linux，集成 RST-VMD 驱动，比可以更新的补丁的版本体积要小很多，虽小但无过渡精简优化，该有的功能还会有，精简方法基本上还是原来配方，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;h2 id=&#34;更新日志&#34;&gt;更新日志
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;2024.8.30 更新记录&lt;/strong&gt;
@@ -16307,10 +16307,10 @@ SHA256: 12ACDEC6828E252F2B5C66C54C8784C88B56821CD103959EDC3E8D5BB9AB8560&lt;/p&g
         </item>
         <item>
         <title>Windows 11 23H2 (22631.4112) 13in1镜像 (2024年08月) – ananhaid</title>
-        <link>https://www.danlong360.com/post/windows114112/</link>
+        <link>http://localhost:1313/post/windows114112/</link>
         <pubDate>Sat, 31 Aug 2024 21:27:26 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/windows114112/</guid>
+        <guid>http://localhost:1313/post/windows114112/</guid>
         <description>&lt;p&gt;此页提供的 Win11 系统为微软官方原版集成累积更新的完整版 ISO 镜像。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/9SXpTEqh8wvLO36.jpg&#34;
 	
@@ -16357,10 +16357,10 @@ Windows 11 version 23H2(OS build 22631.4112) x64 AIO 13in1 Aug 2024 zh-CN- Ananh
         </item>
         <item>
         <title>Windows 10 LTSC 2021 (19044.4842) 原版集成镜像 (2024年08月) – ananhaid</title>
-        <link>https://www.danlong360.com/post/ltsc4842/</link>
+        <link>http://localhost:1313/post/ltsc4842/</link>
         <pubDate>Sat, 31 Aug 2024 21:24:20 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/ltsc4842/</guid>
+        <guid>http://localhost:1313/post/ltsc4842/</guid>
         <description>&lt;p&gt;Win10 LTSC 2021 系统为微软官方原版集成累积更新的完整版 ISO 镜像。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/AtZzyDNEPo42hHS.png&#34;
 	
@@ -16403,10 +16403,10 @@ Windows 10 Enterprise LTSC 21H2(OS build 19044.4842) x64 AIO Aug 2024 zh-CN&lt;/
         </item>
         <item>
         <title>不忘初心 Windows10 LTSB2016 长期服务版 (14393.7259) NET4.8 x64 纯净 精简 无更新 (2024.08.28) 超低进程，2-6代老机器强力推荐</title>
-        <link>https://www.danlong360.com/post/buwangchuxin7259/</link>
+        <link>http://localhost:1313/post/buwangchuxin7259/</link>
         <pubDate>Sat, 31 Aug 2024 21:10:49 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin7259/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin7259/</guid>
         <description>&lt;p&gt;此版不能更新补丁，LTSB2016 长期服务版，对于一些低配置的老机器机器来说是最佳选择，号称史上最流畅的 Win10，一直到至今微软仍然没有停止对其更新，官方显示支持结束日期到 2026-10-13，此系统适合 2-6 代 CPU 使用，母版使用 MSDN windows10 _ltsb_2016 14393.0 集成补丁到 14393.7259，保留小娜搜索、语音识别、Hyper、Linux 并集成 NET4.8 补丁，并全面修复对于精简后的老版本 WIN10 常见的“A 字出现了问题,无法安装功能”的问题，最后初心感谢朋友们的厚爱，及时反馈了不少问题，才使得初心的作品不断完善和进步，欢迎下载测试，留下宝贵的反馈和意见。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/31/94I7cBzXNGgyLWa.jpg&#34;
 	
@@ -16689,10 +16689,10 @@ CRC32 ：B4C80356&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 21H2 (22000.3147) x64 精简 游戏版 无更新 (2024.08.26) 经典初代WIN11游戏版</title>
-        <link>https://www.danlong360.com/post/buwangchuxin220003147/</link>
+        <link>http://localhost:1313/post/buwangchuxin220003147/</link>
         <pubDate>Fri, 30 Aug 2024 09:51:06 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin220003147/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin220003147/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，此版为游戏版，为游戏稳定而生也可以用于办公，体积和稳定性介于可更新版和无更新版之间，此版本集成了任务栏透明工具、独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/30/yxHOMPhmu3bUrLq.png&#34;
 	
@@ -17071,10 +17071,10 @@ CRC32 ：FB03674B&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 11 Pro (22631.4112) 轻度精简 二合一 (2024.08.28)</title>
-        <link>https://www.danlong360.com/post/xiaoxiaoqingjian4112/</link>
+        <link>http://localhost:1313/post/xiaoxiaoqingjian4112/</link>
         <pubDate>Fri, 30 Aug 2024 09:43:50 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xiaoxiaoqingjian4112/</guid>
+        <guid>http://localhost:1313/post/xiaoxiaoqingjian4112/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;2024-08-28 更新至补丁 22631.4112 保留了 win11 默认壁纸，恢复了重置此电脑功能，优化了视觉效果&lt;/p&gt;
 &lt;p&gt;轻度精简版 在对比 22631 深度版上保留了虚拟机平台、iis、沙盒、相机、支持了 window 启用功能&lt;/p&gt;
@@ -17481,10 +17481,10 @@ CRC32: 0292AB01&lt;/p&gt;
         </item>
         <item>
         <title>小修 Windows 11 Pro (22631.4112) 稳定精简 极限版 二合一 (2024.08.28)</title>
-        <link>https://www.danlong360.com/post/xiaoxiu226314112/</link>
+        <link>http://localhost:1313/post/xiaoxiu226314112/</link>
         <pubDate>Fri, 30 Aug 2024 09:32:07 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xiaoxiu226314112/</guid>
+        <guid>http://localhost:1313/post/xiaoxiu226314112/</guid>
         <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
 &lt;p&gt;2024-08-28 更新至补丁 22631.4112 保留了恢复选项&lt;/p&gt;
 &lt;p&gt;此版本为 WIN11 的极限版，删除了 WinSxS 不支持 window 功能关闭开启。
@@ -18028,10 +18028,10 @@ CRC32: 64A8E3FF&lt;/p&gt;
         </item>
         <item>
         <title>USBOS V3.0 标准版/增强版(更新到2024.08.25)</title>
-        <link>https://www.danlong360.com/post/usbosv3.0/</link>
+        <link>http://localhost:1313/post/usbosv3.0/</link>
         <pubDate>Thu, 29 Aug 2024 09:00:09 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/usbosv3.0/</guid>
+        <guid>http://localhost:1313/post/usbosv3.0/</guid>
         <description>&lt;h3 id=&#34;增强版介绍&#34;&gt;增强版介绍
 &lt;/h3&gt;&lt;p&gt;ISO 版与 UD 版合体，总体积 1.62GB&amp;ndash;3.0GB（视是否拓展）！
 USBOS V3 是计算机超级维护工具，此话怎讲？
@@ -18132,10 +18132,10 @@ Intel Serial IO 30.100.2351.81、RST-VMD 20.1.0.1015.1 WHQL。&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 LTSC2021 (19044.4780) x64 纯净 精简 可更新 (2024.08.16) 适合3-10代CPU</title>
-        <link>https://www.danlong360.com/post/buwangchuxinltsc4780jingjiankegengxin/</link>
+        <link>http://localhost:1313/post/buwangchuxinltsc4780jingjiankegengxin/</link>
         <pubDate>Mon, 26 Aug 2024 00:55:33 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinltsc4780jingjiankegengxin/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinltsc4780jingjiankegengxin/</guid>
         <description>&lt;p&gt;此版可正常更新补丁，适合 3-11 代 CPU 使用，此版本已经重新定义精简方案，比以前更稳定！母版本来自 MSDN 19044.1288，集成正式版补丁到 19044.4291，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;h2 id=&#34;更新记录&#34;&gt;更新记录
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;2024.8.16 更新记录&lt;/strong&gt;
@@ -18449,10 +18449,10 @@ CRC32 ：429EA773&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 LTSC2021 (19044.4780) x64 纯净 精简 无更新 (2024.08.16) 适合3-10代CPU</title>
-        <link>https://www.danlong360.com/post/buwangchuxinltsc4780jingjianban/</link>
+        <link>http://localhost:1313/post/buwangchuxinltsc4780jingjianban/</link>
         <pubDate>Mon, 26 Aug 2024 00:51:44 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinltsc4780jingjianban/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinltsc4780jingjianban/</guid>
         <description>&lt;p&gt;此版不能更新补丁，为无更新版本，母版来自 MSDN WIN10_LTSC2021 19044.1288 集成补丁到 19044.4780，保留 Hyper 和 linux，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;h2 id=&#34;更新记录&#34;&gt;&lt;strong&gt;更新记录&lt;/strong&gt;
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;2024.8.16 更新记录&lt;/strong&gt;
@@ -18787,10 +18787,10 @@ CRC32 ：CF60308F&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 LTSC2021 (19044.4780) x64 纯净 深度精简 无更新 (2024.08.16) 适合3-10代CPU</title>
-        <link>https://www.danlong360.com/post/buwangchuxinltsc4780shendujingjian/</link>
+        <link>http://localhost:1313/post/buwangchuxinltsc4780shendujingjian/</link>
         <pubDate>Mon, 26 Aug 2024 00:47:49 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinltsc4780shendujingjian/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinltsc4780shendujingjian/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，**支持人脸、指纹、**&lt;strong&gt;可以安装商店、以及其他 UWP Apxx 程序，可以登录微软账号，*&lt;/strong&gt;*此为深度精简版体积小、精简的比较多，注意不支持 bitlocker，适合软件不多的以及轻办公的用户使用，**如有第三方软件打不开，请自行安装资源包里的微软常用运行库，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;h2 id=&#34;更新记录&#34;&gt;更新记录
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;2024.8.16 更新记录&lt;/strong&gt;
@@ -19108,10 +19108,10 @@ CRC32 ：A33A8E41&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 LTSC2021 (19044.4780) x64 精简 美化版 太阳谷 无更新 (2024.08.16) 适合3-10代CPU</title>
-        <link>https://www.danlong360.com/post/buwangchuxinltsc4780meihuaban/</link>
+        <link>http://localhost:1313/post/buwangchuxinltsc4780meihuaban/</link>
         <pubDate>Mon, 26 Aug 2024 00:43:07 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinltsc4780meihuaban/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinltsc4780meihuaban/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，爱之所及，心之所至，此版本 MSDN LTSC2021 19044.1288 为,集成补丁到 19044.4291，保留 Hyper 和 linux 并且替换了太阳谷图标，集成了任务栏透明工具、独家 4K 高清壁纸，新增鸿蒙 HarmonyOS 字体，根据自己需要选择，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;h2 id=&#34;更新记录&#34;&gt;更新记录
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;2024.8.16 更新记录&lt;/strong&gt;
@@ -19481,10 +19481,10 @@ CRC32 ：05484382&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows7 SP1 专业版 旗舰版 (7601.27277) IE8 IE11 x64 精简版 (2024.08.17)</title>
-        <link>https://www.danlong360.com/post/buwangchuxin27277jingjianban/</link>
+        <link>http://localhost:1313/post/buwangchuxin27277jingjianban/</link>
         <pubDate>Mon, 26 Aug 2024 00:11:51 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin27277jingjianban/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin27277jingjianban/</guid>
         <description>&lt;p&gt;时隔两年再次更新 WIN7，高品质全新的优化、集成、精简方案，这版将近用了几个月的时间去深入研究，和上版相比，新版本的改进将性能提升到了一个更高的水平。新版解决部分新机型卡 LOGO 问题，支持部分 7/8/9/10/11/12/13 代 CPU 机器安装，本版以 Win7 旗舰版和专业版 64 位为核心，包含 ESU 补丁已经打到 2023 年 9 月最新，包含所有的重要更新，配合 BypassESU-v12 可正常更新补丁，考虑到政企有两个版本特意保留了 IE8 浏览器，以及集成政企公文必备的字体，另外所有版本均保留 Win7 经典的游戏，驱动方面集成 NVME 驱动 USB3.0/3.1 驱动 、以及其他各种除显卡外的大量驱动，通过精简不必要的组件，优化进程服务、启动项等加快速度，经测试运行稳定，此版安装过程最快只需要 5-6 分钟，大大改善了装机等待时间。长期使用不容易变慢，始终保持极速，是大家老配置机器装机、政企办公的最佳选择。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;机器需要进 BIOS 更改设置：&lt;/strong&gt;
 Secure Boot 设置为关闭或者 Disabled【禁用启动安全检查，这个最重要】
@@ -19909,10 +19909,10 @@ CRC32 ：C61DDC33&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows7 SP1 专业版 旗舰版 (7601. 27277) IE8 IE11 x64 精简 美化版 太阳谷 (2024.08.18)</title>
-        <link>https://www.danlong360.com/post/buwangchuxinwin727277/</link>
+        <link>http://localhost:1313/post/buwangchuxinwin727277/</link>
         <pubDate>Mon, 26 Aug 2024 00:06:03 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinwin727277/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinwin727277/</guid>
         <description>&lt;p&gt;不忘初心美化版 Windows7，集成 4K 高清壁纸，太阳谷图标，以及替换开始菜单图标，和以往不同的是，此次的太阳谷图标来自于 Windows11，共修改替换了 26 个系统文件之多，之前的太阳谷只有 3 个，并对细节进行了精心处理，虽然是老系统，但是看上去一点也不老，这外观一点也不输 Windows11，后续我们将会不断进行改进和完善。&lt;/p&gt;
 &lt;p&gt;全新的优化、集成、精简方案，这版将近用了几个月的时间去深入研究，和上版相比，新版本的改进将性能提升到了一个更高的水平。新版解决部分新机型卡 LOGO 问题，支持部分 7/8/9/10/11/12/13 代 CPU 机器安装，本版以 Win7 旗舰版和专业版 64 位为核心，包含 ESU 补丁已经打到 2023 年 9 月最新，包含所有的重要更新，配合 BypassESU-v12 可正常更新补丁，考虑到政企有两个版本特意保留了 IE8 浏览器，以及集成政企公文必备的字体，另外所有版本均保留 Win7 经典的游戏，驱动方面集成 NVME 驱动 USB3.0/3.1 驱动 、以及其他各种除显卡外的大量驱动，通过精简不必要的组件，优化进程服务、启动项等加快速度，经测试运行稳定，此版安装过程最快只需要 5-6 分钟，大大改善了装机等待时间。长期使用不容易变慢，始终保持极速，是大家老配置机器装机、政企办公的最佳选择。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;机器需要进 BIOS 更改设置：&lt;/strong&gt;
@@ -20338,10 +20338,10 @@ CRC32 ：CDDF5A4B&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.4780) x64 精简 美化版 太阳谷 无更新 (2024.08.17)</title>
-        <link>https://www.danlong360.com/post/buwangchuxin4780meihuaban/</link>
+        <link>http://localhost:1313/post/buwangchuxin4780meihuaban/</link>
         <pubDate>Mon, 26 Aug 2024 00:01:37 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin4780meihuaban/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin4780meihuaban/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，爱之所及，心之所至，此版本替换了太阳谷图标，集成了任务栏透明工具、独家 4K 高清壁纸，增加右键一些功能，以及离线集成了运行库，有 2 个版本集成了 HarmonyOS 字体，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;h2 id=&#34;美化版特色&#34;&gt;美化版特色
 &lt;/h2&gt;&lt;p&gt;离线更换太阳谷图标图标焕然一新，感受一下新图标带来的视觉感。
@@ -20706,10 +20706,10 @@ CRC32 ：CCD72C08&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.4780) x64 纯净 深度精简 无更新 (2024.08.18)</title>
-        <link>https://www.danlong360.com/post/buwangchuxin4780shendujingjian/</link>
+        <link>http://localhost:1313/post/buwangchuxin4780shendujingjian/</link>
         <pubDate>Sun, 25 Aug 2024 23:44:42 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin4780shendujingjian/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin4780shendujingjian/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，支持人脸、指纹、可以安装商店、以及其他 UWP Apxx 程序，可以登录微软账号，此为深度精简版体积小、精简的比较多，注意不支持 bitlocker，适合软件不多的以及轻办公的用户使用，如有第三方软件打不开，请自行安装资源包里的微软常用运行库，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;h2 id=&#34;更新记录&#34;&gt;更新记录
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;2024.8.18 更新记录&lt;/strong&gt;
@@ -21069,10 +21069,10 @@ CRC32 ：3FEC9801&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows10 22H2 (19045.4780) x64 精简 游戏版 太阳谷 无更新 (2024.08.18)</title>
-        <link>https://www.danlong360.com/post/buwangchuxin4780youxiban/</link>
+        <link>http://localhost:1313/post/buwangchuxin4780youxiban/</link>
         <pubDate>Sun, 25 Aug 2024 23:39:37 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin4780youxiban/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin4780youxiban/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版为游戏版，为游戏稳定而生，保留语音识别 TTS、Hyper 和 linux，体积介于可更新版和无更新版之间，此版本替换了太阳谷图标，集成了任务栏透明工具、独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;h2 id=&#34;游戏版的特色&#34;&gt;游戏版的特色
 &lt;/h2&gt;&lt;p&gt;保留 XBOX 组件
@@ -21435,10 +21435,10 @@ CRC32 ：FCF850C3&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4307) x64 精简 美化版 无更新 (2024.08.17)</title>
-        <link>https://www.danlong360.com/post/buwangchuxinmeihuaban4307/</link>
+        <link>http://localhost:1313/post/buwangchuxinmeihuaban4307/</link>
         <pubDate>Sun, 25 Aug 2024 23:20:00 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinmeihuaban4307/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinmeihuaban4307/</guid>
         <description>&lt;p&gt;此版不能更新补丁，保留 Hyper 和 linux，在无更新版本的基础上修改壁纸，任务栏透明，集成运行库字体等，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、&lt;strong&gt;对.rar .7z .tar 等压缩文件的支持&lt;/strong&gt;、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
 &lt;p&gt;Windows 本来就是一个复杂的系统，使用过程中难免会出现各种问题，有些问题可能并不是精简和优化后带来的问题，除了优化和精简外这其中和机器配置、硬件兼容、驱动版本 、个人使用 360 优化、软件版本以及安装工具都有关系，请勿盲目评论，可以先测试下原版中问题是否存在，然后在评论，感谢大家的理解和支持。&lt;/p&gt;
@@ -21845,10 +21845,10 @@ CRC32 ：37330363&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4037) x64 纯净 深度精简 无更新 (2024.08.19)</title>
-        <link>https://www.danlong360.com/post/buwangchuxin4037shendujingjian/</link>
+        <link>http://localhost:1313/post/buwangchuxin4037shendujingjian/</link>
         <pubDate>Sun, 25 Aug 2024 23:15:24 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin4037shendujingjian/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin4037shendujingjian/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版支持指纹和人脸，支持安装商店登录微软账号，做到了体积小，功能不减，此版精简的比较多，体积小，进程少，如果软件不多一般办公没什么问题，以自己实际需要为准，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、&lt;strong&gt;对.rar .7z .tar 等压缩文件的支持&lt;/strong&gt;、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
 &lt;p&gt;Windows 本来就是一个复杂的系统，使用过程中难免会出现各种问题，有些问题可能并不是精简和优化后带来的问题，除了优化和精简外这其中和机器配置、硬件兼容、驱动版本 、个人使用 360 优化、软件版本以及安装工具都有关系，请勿盲目评论，可以先测试下原版中问题是否存在，然后在评论，感谢大家的理解和支持。&lt;/p&gt;
@@ -22241,10 +22241,10 @@ CRC32 ：394402A6&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 23H2 (22631.4037) x64 精简 游戏版 无更新 (2024.08.19) 推荐适用于 游戏、直播、办公</title>
-        <link>https://www.danlong360.com/post/buwangchuxinyouxiban226314037/</link>
+        <link>http://localhost:1313/post/buwangchuxinyouxiban226314037/</link>
         <pubDate>Sun, 25 Aug 2024 23:08:06 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinyouxiban226314037/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinyouxiban226314037/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，此版为游戏版，为游戏稳定而生也可以用于办公，保留 Hyper 和 linux，体积和稳定性介于可更新版和无更新版之间，集成任务栏透明软件，独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，游戏办公
 基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 11 23H2 最令人期待的功能之一便是任务栏“从不合并”模式回归，这一功能允许每个应用程序窗口单独显示在任务栏中，而非像现在这样折叠在一整个标签中。Windows 11 23H2 将带来现代化设计的文件资源管理器，例如新的地址栏、搜索栏、多标签记事本、&lt;strong&gt;对.rar .7z .tar 等压缩文件的支持&lt;/strong&gt;、增强的 Fluent Design 元素、改进的触摸控制等等。&lt;/p&gt;
@@ -22659,10 +22659,10 @@ CRC32 ：D4E8F5FE&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 LTSC2024 (26100.1586) x64 纯净 深度精简 无更新 (2024.08.21)</title>
-        <link>https://www.danlong360.com/post/buwangchuxin261001586shendujingjian/</link>
+        <link>http://localhost:1313/post/buwangchuxin261001586shendujingjian/</link>
         <pubDate>Sun, 25 Aug 2024 22:39:20 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin261001586shendujingjian/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin261001586shendujingjian/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，此版支持指纹和人脸，支持安装商店登录微软账号，做到了体积小，功能不减，母版来自 Windows11 24H2 LTSC2024 OEM 泄露版 集成中文语言包集成补丁,此版精简的比较多，体积小，进程少，如果软件不多一般办公没什么问题，以自己实际需要为准，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 本来就是一个复杂的系统，使用过程中难免会出现各种问题，有些问题可能并不是精简和优化后带来的问题，除了优化和精简外这其中和机器配置、硬件兼容、驱动版本 、个人使用 360 优化、软件版本以及安装工具都有关系，如不确定精简版兼容性如何以及避免踩坑，可以测试此原版后没问题再下载本页的精简系统，感谢大家的理解和支持。&lt;/p&gt;
 &lt;h2 id=&#34;更新记录&#34;&gt;更新记录
@@ -23043,10 +23043,10 @@ CRC32 ：C5E5A3B9&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 LTSC2024 (26100.1586) x64 纯净 精简 无更新 (2024.08.22) 全面修复共享</title>
-        <link>https://www.danlong360.com/post/buwangchuxin261001586/</link>
+        <link>http://localhost:1313/post/buwangchuxin261001586/</link>
         <pubDate>Sun, 25 Aug 2024 22:33:21 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin261001586/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin261001586/</guid>
         <description>&lt;p&gt;此版不能更新补丁，并开启按流量计费，母版来自 Windows11 24H2 LTSC2024 OEM 泄露版 集成中文语言包集成补丁，此版保留 Hyper 和 linux，本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，老机器也可以安装，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 本来就是一个复杂的系统，使用过程中难免会出现各种问题，有些问题可能并不是精简和优化后带来的问题，除了优化和精简外这其中和机器配置、硬件兼容、驱动版本 、个人使用 360 优化、软件版本以及安装工具都有关系，如不确定精简版兼容性如何以及避免踩坑，可以测试此原版后没问题再下载本页的精简系统，感谢大家的理解和支持。&lt;/p&gt;
 &lt;h2 id=&#34;更新记录&#34;&gt;更新记录
@@ -23330,10 +23330,10 @@ CRC32 ：7E34C187&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows11 24H2 LTSC2024 (26100.1586) x64 精简 游戏版 无更新 (2024.08.22)</title>
-        <link>https://www.danlong360.com/post/buwangchuxinltsc2024youxiban/</link>
+        <link>http://localhost:1313/post/buwangchuxinltsc2024youxiban/</link>
         <pubDate>Sun, 25 Aug 2024 22:24:52 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinltsc2024youxiban/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinltsc2024youxiban/</guid>
         <description>&lt;p&gt;注意此版不能更新补丁，为游戏稳定而生也可以用于办公、直播等，母版来自 Windows11 24H2 LTSC2024 OEM 泄露版 集成中文语言包集成补丁，保留 HYPER 和 LINUX,体积和稳定性介于可更新版和无更新版之间，此版本集成了任务栏透明工具、独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
 &lt;p&gt;Windows 本来就是一个复杂的系统，使用过程中难免会出现各种问题，有些问题可能并不是精简和优化后带来的问题，除了优化和精简外这其中和机器配置、硬件兼容、驱动版本 、个人使用 360 优化、软件版本以及安装工具都有关系，请勿盲目评论，可以先测试下原版中问题是否存在，然后在评论，感谢大家的理解和支持。&lt;/p&gt;
 &lt;h2 id=&#34;游戏版特色&#34;&gt;游戏版特色
@@ -23642,10 +23642,10 @@ CRC32 ：263C2F25&lt;/p&gt;
         </item>
         <item>
         <title>Windows11 Win11 23H2 22631.4037.1 xb21cn纯净精简版</title>
-        <link>https://www.danlong360.com/post/win1123h222631xb21cn/</link>
+        <link>http://localhost:1313/post/win1123h222631xb21cn/</link>
         <pubDate>Wed, 21 Aug 2024 23:03:40 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/win1123h222631xb21cn/</guid>
+        <guid>http://localhost:1313/post/win1123h222631xb21cn/</guid>
         <description>&lt;p&gt;xb21cn 精简 Win11 系统最新版,xb21cn Win11 23H2 预览版,xb21cn Win11 精简系统下载,xb21cn Win11 23H2 精简版,xb21cn Windows 11 23H2 精简版,xb21cn Win11 Build 22631 精简版,xb21cn Win11 精简版系统无更新企业版.xb21cn 精简版 Win11 纯净版系统,xb21cn 系统纯净无第三方软件,xb21cn 精简系统下载.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/aUyJTlr.png&#34;
 	
@@ -23703,10 +23703,10 @@ Defender、Hyper-V、Cortana、XPS、IIS、BitLocker 等办公不常用组件&lt
         </item>
         <item>
         <title>Windows10 Win10 22H2 19045.4780.1 xb21cn纯净精简版</title>
-        <link>https://www.danlong360.com/post/win1022h219045xb21cn/</link>
+        <link>http://localhost:1313/post/win1022h219045xb21cn/</link>
         <pubDate>Wed, 21 Aug 2024 23:01:50 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/win1022h219045xb21cn/</guid>
+        <guid>http://localhost:1313/post/win1022h219045xb21cn/</guid>
         <description>&lt;p&gt;xb21cn 精简 Win10 系统最新版,xb21cn Win10 22H2 预览版,xb21cn Win10 精简系统下载,xb21cn Win10 22H2 精简版,xb21cn Windows 10 22H2 精简版,xb21cn Win10 Build 19045 精简版,xb21cn Win10 精简版系统无更新企业版.xb21cn 精简版 Win10 纯净版系统,xb21cn 系统纯净无第三方软件,xb21cn 精简系统下载.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/SmmUHiJ.png&#34;
 	
@@ -23770,10 +23770,10 @@ Defender、Hyper-V、Cortana、XPS、IIS、BitLocker 等办公不常用组件&lt
         </item>
         <item>
         <title>Windows11 Win11 23H2 22631.4037 小修深度精简版</title>
-        <link>https://www.danlong360.com/post/win1123h222631xiaoxiushendujingjian/</link>
+        <link>http://localhost:1313/post/win1123h222631xiaoxiushendujingjian/</link>
         <pubDate>Wed, 21 Aug 2024 22:54:38 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/win1123h222631xiaoxiushendujingjian/</guid>
+        <guid>http://localhost:1313/post/win1123h222631xiaoxiushendujingjian/</guid>
         <description>&lt;p&gt;小修精简 Win11 系统最新正式版,小修 Win11 23H2 精简版,小修 Win11 23H2 稳定极限版,小修 Windows 11 23H2 稳定极限版,小修精简 Win11 Build 22631 正式版,小修系统 Win11 精简版专业版二合一无更新版.小修精简系统下载,小修 Win11 精简版系统提供轻度精简版,中度精简版,深度精简版,稳定极限版,太阳谷风格美化版.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;关于版本&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;小修 Win11 精简版,小修 Windows 11 纯净精简版二合一无更新版：
@@ -23825,10 +23825,10 @@ CRC32: C200FFA6&lt;/p&gt;
         </item>
         <item>
         <title>Windows11 Win11 23H2 22631.4037 小修轻度精简版</title>
-        <link>https://www.danlong360.com/post/win1123h222631xiaoxiuqingdujingjianban/</link>
+        <link>http://localhost:1313/post/win1123h222631xiaoxiuqingdujingjianban/</link>
         <pubDate>Wed, 21 Aug 2024 22:53:01 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/win1123h222631xiaoxiuqingdujingjianban/</guid>
+        <guid>http://localhost:1313/post/win1123h222631xiaoxiuqingdujingjianban/</guid>
         <description>&lt;p&gt;小修精简 Win11 系统最新正式版,小修 Win11 23H2 精简版,小修 Win11 23H2 轻度精简版,小修 Windows 11 23H2 轻度精简版,小修精简 Win11 Build 22631 正式版,小修系统 Win11 精简版专业版二合一无更新版.小修精简系统下载,小修 Win11 精简版系统提供轻度精简版,中度精简版,深度精简版,稳定极限版,太阳谷风格美化版.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;关于版本&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;小修 Win11 精简版,小修 Windows 11 纯净精简版二合一无更新版：
@@ -23879,10 +23879,10 @@ CRC32: 7330F4EB&lt;/p&gt;
         </item>
         <item>
         <title>Windows10 Win10 22H2 19045.4780 小修深度精简版</title>
-        <link>https://www.danlong360.com/post/win1022h219045xiaoxiushendujingjian/</link>
+        <link>http://localhost:1313/post/win1022h219045xiaoxiushendujingjian/</link>
         <pubDate>Wed, 21 Aug 2024 22:51:15 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/win1022h219045xiaoxiushendujingjian/</guid>
+        <guid>http://localhost:1313/post/win1022h219045xiaoxiushendujingjian/</guid>
         <description>&lt;p&gt;小修 Win10 精简版,小修精简 Win10 纯净版,小修 Win10 22H2 精简版,小修 Win10 22H2 轻度精简版,小修 Windows 10 22H2 纯净精简版,小修 Win10 Build 19045 纯净精简版.小修精简系统下载,小修 Win10 系统下载,Win10 小修精简优化版系统提供 Win10 轻度精简版游戏版和 Win10 深度精简版办公版及 Win10 美化版太阳谷.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/oYGP5Oi.png&#34;
 	
@@ -23937,10 +23937,10 @@ CRC32: F15D8CAE&lt;/p&gt;
         </item>
         <item>
         <title>Windows10 Win10 22H2 19045.4780 小修轻度精简版</title>
-        <link>https://www.danlong360.com/post/win1022h219045xiaoxiu/</link>
+        <link>http://localhost:1313/post/win1022h219045xiaoxiu/</link>
         <pubDate>Wed, 21 Aug 2024 22:49:36 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/win1022h219045xiaoxiu/</guid>
+        <guid>http://localhost:1313/post/win1022h219045xiaoxiu/</guid>
         <description>&lt;p&gt;小修 Win10 精简版,小修精简 Win10 纯净版,小修 Win10 22H2 精简版,小修 Win10 22H2 轻度精简版,小修 Windows 10 22H2 纯净精简版,小修 Win10 Build 19045 纯净精简版.小修精简系统下载,小修 Win10 系统下载,Win10 小修精简优化版系统提供 Win10 轻度精简版游戏版和 Win10 深度精简版办公版及 Win10 美化版太阳谷.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/dm65ETP.png&#34;
 	
@@ -23997,10 +23997,10 @@ CRC32: E9458449&lt;/p&gt;
         </item>
         <item>
         <title>Windows 11 23H2 Build 22631.4037 RTM ISO镜像</title>
-        <link>https://www.danlong360.com/post/windows1123h2build22631/</link>
+        <link>http://localhost:1313/post/windows1123h2build22631/</link>
         <pubDate>Wed, 21 Aug 2024 22:36:22 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/windows1123h2build22631/</guid>
+        <guid>http://localhost:1313/post/windows1123h2build22631/</guid>
         <description>&lt;p&gt;微软 Win11 系统下载,微软 Win11 23H2 正式版,微软 Win11 Build 22631 正式版,微软 Windows 11 23H2 正式版,Windows 11 23H2 官方正式版首个初始版的微软原版 ISO 镜像于 2023 年 10 月推出,系统版本为 23H2,OS 内部版本为 22631,软件超小杯提供的 Win11 系统为微软官方原版集成累积更新的完整版 ISO 镜像.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/CUTKZnt.png&#34;
 	
@@ -24045,10 +24045,10 @@ Windows 11 version 23H2(OS build 22631.3958) x64 AIO 13in1 Aug 2024 zh-CN – An
         </item>
         <item>
         <title>Windows 10 22H2 Build 19045.4780 RTM ISO镜像</title>
-        <link>https://www.danlong360.com/post/windows1022h2build190454780/</link>
+        <link>http://localhost:1313/post/windows1022h2build190454780/</link>
         <pubDate>Wed, 21 Aug 2024 22:33:37 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/windows1022h2build190454780/</guid>
+        <guid>http://localhost:1313/post/windows1022h2build190454780/</guid>
         <description>&lt;p&gt;微软 Win10 系统下载,微软 Win10 22H2 下载,微软 Win10 22H2 正式版,Windows 10 22H2 系统 Win10 Build 19045 累积更新正式版.Windows 10 22H2 正式版首个初始版官方 ISO 镜像 2022 年 10 月推出,大版本命名 22H2,内部版 19045.软件超小杯提供的 Win10 系统为微软官方原版集成累积更新补丁的完整版 ISO 镜像.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/J9sWIUc.png&#34;
 	
@@ -24098,10 +24098,10 @@ MD5: 5636bef2708737f2841a43489b011a83&lt;/p&gt;
         </item>
         <item>
         <title>Windows11 Win11 23H2 22631.3880 不忘初心游戏版</title>
-        <link>https://www.danlong360.com/post/buwangchunxinyouxiban22631/</link>
+        <link>http://localhost:1313/post/buwangchunxinyouxiban22631/</link>
         <pubDate>Tue, 13 Aug 2024 00:49:41 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchunxinyouxiban22631/</guid>
+        <guid>http://localhost:1313/post/buwangchunxinyouxiban22631/</guid>
         <description>&lt;p&gt;不忘初心 Win11 精简版,不忘初心游戏版 Win11 精简版,不忘初心 Win11 23H2 游戏版,不忘初心 Win11 23H2 精简版游戏版无更新版,不忘初心 Windows 11 23H2 游戏版,不忘初心 Win11 Build 22631 游戏版,Win11 不忘初心精简优化版系统下载,不忘初心精简系统下载.主要提供 Win11 无更新版,Win11 美化版和 Win11 游戏版.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;不忘初心游戏版 Win11 精简版系统概述：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;注意此版不能更新补丁，而且非纯净版，此版为游戏版，为游戏稳定而生也可以用于办公，保留 Hyper 和 linux，体积和稳定性介于可更新版和无更新版之间，集成任务栏透明软件，独家 4K 全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定系统全部都是离线精简和优化并补齐 DX 所需 DLL，非二次封装。系统纯净、流畅、进程少，游戏办公基本无影响。&lt;/p&gt;
@@ -24323,10 +24323,10 @@ SHA256: 89DAD4236BB06B749795EA5C3085047D79A1181A5052BE15539F4DF33698D43A&lt;/p&g
         </item>
         <item>
         <title>Windows11 Win11 23H2 22631.3880 不忘初心美化版</title>
-        <link>https://www.danlong360.com/post/buwangchuxinmeihuaban22631/</link>
+        <link>http://localhost:1313/post/buwangchuxinmeihuaban22631/</link>
         <pubDate>Tue, 13 Aug 2024 00:48:14 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinmeihuaban22631/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinmeihuaban22631/</guid>
         <description>&lt;p&gt;不忘初心 Win11 精简版,不忘初心美化版 Win11 精简版,不忘初心 Win11 23H2 美化版,不忘初心 Win11 23H2 精简版美化版无更新版,不忘初心 Windows 11 23H2 美化版,不忘初心 Win11 Build 22631 美化版,Win11 不忘初心精简优化版系统下载,不忘初心精简系统下载.主要提供 Win11 无更新版,Win11 美化版和 Win11 游戏版.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;不忘初心美化版 Win11 精简版系统概述：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此版不能更新补丁，保留 Hyper 和 linux，在无更新版本的基础上修改壁纸，任务栏透明，集成运行库字体等，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响！&lt;/p&gt;
@@ -24544,10 +24544,10 @@ SHA256: 7CD75A1A58F282FF33DB2A148435B171CAE62490E92BD079D02466135C9F4E79&lt;/p&g
         </item>
         <item>
         <title>Windows11 Win11 23H2 22631.3880 不忘初心纯净版</title>
-        <link>https://www.danlong360.com/post/buwangchuxinchunjingban22631/</link>
+        <link>http://localhost:1313/post/buwangchuxinchunjingban22631/</link>
         <pubDate>Tue, 13 Aug 2024 00:45:05 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinchunjingban22631/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinchunjingban22631/</guid>
         <description>&lt;p&gt;不忘初心 Win11 精简版,不忘初心 Win11 纯净精简版,不忘初心精简 Win11 23H2 系统下载,不忘初心 Win11 23H2 精简版,不忘初心 Windows 11 23H2 纯净精简版,不忘初心 Win11 Build 22631 纯净精简版,Win11 不忘初心精简优化版系统下载,不忘初心精简系统下载.主要提供 Win11 纯净精简版及 Win11 美化版和 Win11 游戏版.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;不忘初心纯净版 Win11 精简版系统无更新版概述：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此版不能更新补丁，并开启按流量计费，此版保留 Hyper 和 linux，母版来自 UUP 22631.3880，本版本自动跳过硬件检测，优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响！&lt;/p&gt;
@@ -24768,10 +24768,10 @@ SHA256: AA8732BF3962B6894E76F48163454F134A83C7BE71647E5BAD6464F76D131092&lt;/p&g
         </item>
         <item>
         <title>优启通VIP版 3.7.2024.0720 (启动盘制作) 绿色版</title>
-        <link>https://www.danlong360.com/post/youqitong/</link>
+        <link>http://localhost:1313/post/youqitong/</link>
         <pubDate>Tue, 13 Aug 2024 00:41:43 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/youqitong/</guid>
+        <guid>http://localhost:1313/post/youqitong/</guid>
         <description>&lt;p&gt;优启通 VIP 版(EasyU,简称 EU)是 IT 天空打造的一款专业 U 盘启动盘制作工具,优启通工具采用 U 盘三分区方案,支持 BIOS(Legacy)与 UEFI 双启动模式,在支持主流硬件基础上,同时兼容早期多数旧硬件.整合各种装机必备工具,并结合 IT 天空数款自研软件,有效提高系统安装效率.U 盘 PE 所在分区于系统下自动隐藏,PE 区与数据区分别独立,便于使用者对数据的各项操作.优启通 WinPE 系统定位于一线装机技术员,系统工程师和系统维护人员.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.rjcxb.com/img/cover/windows/395/01.jpg&#34;
 	
@@ -24806,10 +24806,10 @@ SHA256: AA8732BF3962B6894E76F48163454F134A83C7BE71647E5BAD6464F76D131092&lt;/p&g
         </item>
         <item>
         <title>杏雨梨云启动维护系统2024端午版v4 (杏雨梨云PE) 绿色版</title>
-        <link>https://www.danlong360.com/post/xingyuliyun/</link>
+        <link>http://localhost:1313/post/xingyuliyun/</link>
         <pubDate>Tue, 13 Aug 2024 00:40:18 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xingyuliyun/</guid>
+        <guid>http://localhost:1313/post/xingyuliyun/</guid>
         <description>&lt;p&gt;杏雨梨云 USB 维护系统是一款知名的老牌 U 盘启动系统制作工具,杏雨梨云启动维护系统 2024 端午版提供个人开发的第十代 IQI X Windows 一键安装系统工具及 OBR 一键备份&amp;amp;一键还原,IQI 一键分区等人性化功能.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;含标准版、精简版、备选组件
@@ -24850,10 +24850,10 @@ V4 更新：
         </item>
         <item>
         <title>蜂鸟PE 2.4.1 (PE系统) 绿色版</title>
-        <link>https://www.danlong360.com/post/fengniaope/</link>
+        <link>http://localhost:1313/post/fengniaope/</link>
         <pubDate>Tue, 13 Aug 2024 00:38:44 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/fengniaope/</guid>
+        <guid>http://localhost:1313/post/fengniaope/</guid>
         <description>&lt;p&gt;蜂鸟 PE 使用批处理构建，WimBuilder2 处理注册表整合而成的维护 PE，是一个以维护为目的的 PE，励志做一个安全、小巧、稳定、流畅、可靠的 WinPE。蜂鸟 PE，小而强悍的 WinPE 维护系统，支持：笔记本电量显示、Bitlocker、Linux 分区、VHD 虚拟磁盘 等功能。&lt;/p&gt;
 &lt;h2 id=&#34;pe-特点&#34;&gt;PE 特点
 &lt;/h2&gt;&lt;p&gt;• 精简的文件内核与注册表
@@ -24871,10 +24871,10 @@ V4 更新：
         </item>
         <item>
         <title>Windows11 Win11 22H2 22621.2215 小修深度精简版</title>
-        <link>https://www.danlong360.com/post/xiaoxiushendu22621/</link>
+        <link>http://localhost:1313/post/xiaoxiushendu22621/</link>
         <pubDate>Tue, 13 Aug 2024 00:34:01 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xiaoxiushendu22621/</guid>
+        <guid>http://localhost:1313/post/xiaoxiushendu22621/</guid>
         <description>&lt;p&gt;小修精简 Win11 系统最新正式版,小修 Win11 22H2 精简版,小修 Win11 22H2 深度精简版,小修 Windows 11 22H2 深度精简版,小修精简 Win11 Build 22621 正式版,小修系统 Win11 精简版专业版二合一无更新版.小修精简系统下载,小修 Win11 精简版系统提供轻度精简版,中度精简版,深度精简版,极限稳定版,太阳谷风格美化版.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;关于版本&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;小修 Win11 精简版,小修 Windows 11 纯净精简版二合一无更新版：
@@ -24915,10 +24915,10 @@ CRC32: 907A6CE8&lt;/p&gt;
         </item>
         <item>
         <title>Windows11 Win11 22H2 22621.2215 小修轻度精简版</title>
-        <link>https://www.danlong360.com/post/xiaoxiu22621/</link>
+        <link>http://localhost:1313/post/xiaoxiu22621/</link>
         <pubDate>Tue, 13 Aug 2024 00:19:14 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xiaoxiu22621/</guid>
+        <guid>http://localhost:1313/post/xiaoxiu22621/</guid>
         <description>&lt;p&gt;小修精简 Win11 系统最新正式版,小修 Win11 22H2 精简版,小修 Win11 22H2 轻度精简版,小修 Windows 11 22H2 轻度精简版,小修精简 Win11 Build 22621 正式版,小修系统 Win11 精简版专业版二合一无更新版.小修精简系统下载,小修 Win11 精简版系统提供轻度精简版,中度精简版,深度精简版,极限稳定版,太阳谷风格美化版.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;关于版本&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;小修 Win11 精简版,小修 Windows 11 纯净精简版二合一无更新版：
@@ -24958,10 +24958,10 @@ CRC32: 7332AB4A&lt;/p&gt;
         </item>
         <item>
         <title>微PE工具箱 2.3 官方版</title>
-        <link>https://www.danlong360.com/post/weipegongjuxiang/</link>
+        <link>http://localhost:1313/post/weipegongjuxiang/</link>
         <pubDate>Tue, 13 Aug 2024 00:16:17 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/weipegongjuxiang/</guid>
+        <guid>http://localhost:1313/post/weipegongjuxiang/</guid>
         <description>&lt;p&gt;微 PE 工具箱是一款免费纯净无广告的 WinPE 装机维护工具.WePE 工具箱是装机维护最得力的助手,最后救命稻草.化繁为简,小材大用,一键安装,极速启动.微 PE 工具箱,最好用的 PE 启动盘,没有之一.无任何广告推广,内核完整精简,性价比超高的第三方工具合集.WePE2.3 最新版采用全新 Win10PE 内核,堪称最好用的全能 PE 维护系统.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;微 PE 工具箱 – 官网
@@ -25018,10 +25018,10 @@ CRC32: AD84CDA4&lt;/p&gt;
         </item>
         <item>
         <title>Win11 v22H2(22621.1900)_小修深度精简版</title>
-        <link>https://www.danlong360.com/post/win11xiaoxiu/</link>
+        <link>http://localhost:1313/post/win11xiaoxiu/</link>
         <pubDate>Tue, 13 Aug 2024 00:09:00 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/win11xiaoxiu/</guid>
+        <guid>http://localhost:1313/post/win11xiaoxiu/</guid>
         <description>&lt;p&gt;小修 Win11 22H2 预览版,小修 Win11 精简版,小修 Win10 22H2 精简版,小修 Win11 22H2 深度精简版,小修 Windows 11 22H2 精简版,小修 Win11 专业版 22H2 精简版无更新版,小修 Win11 Build 22621 精简版无更新版,小修 Win11 系统下载,Win11 小修精简优化版系统提供 Win11 轻度精简版和 Win11 深度精简版及 Win11 美化版.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;UUP dump（第三方查询下载页面）
