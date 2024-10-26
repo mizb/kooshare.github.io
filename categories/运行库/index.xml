@@ -25,9 +25,9 @@
 	
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;版本说明&#34;&gt;版本说明
-&lt;/h3&gt;&lt;p&gt;本运行库合集源于个人爱好（nanlon），自2016年2月18日发布第一版（1.0 Beta）以来，经过不断地迭代更新、优化、完善，安装及检测逻辑已趋成熟；
-现于2020年8月1日正式发布2.0版本，相比1.0版本，2.0版重新编写了安装脚本，现已支持所有组件的已安装检测及系统架构支持检测等。
-自2.0版起，版本号采用主版本号+次版本号+阶段版本+修订日期的命名方式，将持续跟进相关官方运行库的更新，并不断优化完善。&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;本运行库合集源于个人爱好（nanlon），自 2016 年 2 月 18 日发布第一版（1.0 Beta）以来，经过不断地迭代更新、优化、完善，安装及检测逻辑已趋成熟；
+现于 2020 年 8 月 1 日正式发布 2.0 版本，相比 1.0 版本，2.0 版重新编写了安装脚本，现已支持所有组件的已安装检测及系统架构支持检测等。
+自 2.0 版起，版本号采用主版本号+次版本号+阶段版本+修订日期的命名方式，将持续跟进相关官方运行库的更新，并不断优化完善。&lt;/p&gt;
 &lt;h3 id=&#34;更新日志&#34;&gt;更新日志
 &lt;/h3&gt;&lt;p&gt;2024-10-12 (Ver: 4.0.24.1012)：
 Microsoft Visual C++ 2015-2022 Redist 14.42.34430.0。&lt;/p&gt;
@@ -56,12 +56,12 @@ Microsoft Visual C++ 2015-2022 Redist 14.42.34430.0。&lt;/p&gt;
 &lt;h3 id=&#34;安装支持&#34;&gt;安装支持
 &lt;/h3&gt;&lt;p&gt;该运行库合集支持 Windows 7 及以上系统安装（不支持 WinXP、Vista、Windows Server 2003/2008）
 包含的运行库 Microsoft .NET Framework、DirectX 9.0c Jun2010、Microsoft Visual C++ Redist；
-包含32位+64位运行库文件，软件会自动检测和安装系统所需运行库组件并排除不适用的组件；
+包含 32 位+64 位运行库文件，软件会自动检测和安装系统所需运行库组件并排除不适用的组件；
 支持静默安装，参数：/S（示例：AIO_RuntimePack_2.0.20.0801.exe /S）&lt;/p&gt;
 &lt;h3 id=&#34;版本说明&#34;&gt;版本说明
-&lt;/h3&gt;&lt;p&gt;本运行库合集源于个人爱好，自2016年2月18日发布第一版（1.0 Beta）以来，经过不断地迭代更新、优化、完善，安装及检测逻辑已趋成熟；
-现于2020年8月1日正式发布2.0版本，相比1.0版本，2.0版重新编写了安装脚本，现已支持所有组件的已安装检测及系统架构支持检测等。
-自2.0版起，版本号采用主版本号+次版本号+阶段版本+修订日期的命名方式，并将持续跟进相关官方运行库的更新，不断优化完善。&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;本运行库合集源于个人爱好，自 2016 年 2 月 18 日发布第一版（1.0 Beta）以来，经过不断地迭代更新、优化、完善，安装及检测逻辑已趋成熟；
+现于 2020 年 8 月 1 日正式发布 2.0 版本，相比 1.0 版本，2.0 版重新编写了安装脚本，现已支持所有组件的已安装检测及系统架构支持检测等。
+自 2.0 版起，版本号采用主版本号+次版本号+阶段版本+修订日期的命名方式，并将持续跟进相关官方运行库的更新，不断优化完善。&lt;/p&gt;
 &lt;h3 id=&#34;更新日志&#34;&gt;更新日志
 &lt;/h3&gt;&lt;p&gt;2024-10-12 (Ver: 4.0.24.1012)：
 Microsoft Visual C++ 2015-2022 Redist 14.42.34430.0。&lt;/p&gt;
@@ -76,7 +76,7 @@ Microsoft Visual C++ 2015-2022 Redist 14.42.34430.0。&lt;/p&gt;
         <pubDate>Fri, 11 Oct 2024 20:59:58 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/508/</guid>
-        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版VC++运行库合集(微软常用运行库合集),整合了所有版本Visual C ++,可以自选更新VC++版本组件,并提供图形安装界面.&lt;/p&gt;
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称 MSVC,VB/VC,VC 运行库)系统运行库是 Windows 操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版 VC++运行库合集(微软常用运行库合集),整合了所有版本 Visual C ++,可以自选更新 VC++版本组件,并提供图形安装界面.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/bPcQqY9x1Uke2n8.png&#34;
 	
 	
@@ -88,7 +88,7 @@ Microsoft Visual C++ 2015-2022 Redist 14.42.34430.0。&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;特点描述&#34;&gt;特点描述
-&lt;/h3&gt;&lt;p&gt;Visual C++ 微软常用运行库合集 (32+64位合集)
+&lt;/h3&gt;&lt;p&gt;Visual C++ 微软常用运行库合集 (32+64 位合集)
 Repacked by Dreamcast (Build on 2023.02.22)&lt;/p&gt;
 &lt;p&gt;包含组件：
 Visual Basic Virtual Machine(5.1)
@@ -102,7 +102,7 @@ Microsoft Visual C++2012 UP4(11.0.61135.400)
 Microsoft Visual C++2013(12.0.40664.0)
 Microsoft Visual C++2019(14.28.29213.0)(WinXP)
 Microsoft Visual C++2015-2022(14.34.32323.0)(Win7+)
-Microsoft Universal CRuntime(10.0.10586.9)(WinXP～7)
+Microsoft Universal CRuntime(10.0.10586.9)(WinXP ～ 7)
 Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
 &lt;h3 id=&#34;更新日志&#34;&gt;更新日志
 &lt;/h3&gt;&lt;p&gt;Microsoft Visual C++ 2015-2022 Redistributable 14.36.32323.0&lt;/p&gt;
@@ -119,7 +119,7 @@ Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
         <pubDate>Thu, 10 Oct 2024 18:57:20 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/6894/</guid>
-        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版VC++运行库合集(VisualCppRedist),体积小巧,支持静默参数,整合了所有版本Visual C ++,能自动检测安装所有VC库版本.&lt;/p&gt;
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称 MSVC,VB/VC,VC 运行库)系统运行库是 Windows 操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版 VC++运行库合集(VisualCppRedist),体积小巧,支持静默参数,整合了所有版本 Visual C ++,能自动检测安装所有 VC 库版本.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/fQKoTjAiHXub5zS.png&#34;
 	
 	
@@ -154,26 +154,26 @@ Microsoft Visual Studio 2010 Tools for Office Runtime (x86/x64)&lt;/p&gt;
 /y -自动安装全部，提供安装界面进度显示
 /aiM -自选安装全部，安装每个版本有解压对话框并询问确认
 /aiU -自动卸载全部，卸载每个版本有提取对话框并询问确认
-/aiA -自动安装全部，但是隐藏系统卸载程序列表里的ARP项
+/aiA -自动安装全部，但是隐藏系统卸载程序列表里的 ARP 项
 /aiR -自动卸载全部
-/ai5 -安装Microsoft Visual C ++2005
-/ai8 -安装Microsoft Visual C ++2008
-/aiX -安装Microsoft Visual C ++2010
-/ai2 -安装Microsoft Visual C ++2012
-/ai3 -安装Microsoft Visual C ++2013
-/ai9 -安装Microsoft Visual C ++2019
-/aiT -安装Microsoft Visual Studio 2010
-/aiE -安装Microsoft Visual Basic/C++
-/aiV -安装Microsoft C Runtime Library
+/ai5 -安装 Microsoft Visual C ++2005
+/ai8 -安装 Microsoft Visual C ++2008
+/aiX -安装 Microsoft Visual C ++2010
+/ai2 -安装 Microsoft Visual C ++2012
+/ai3 -安装 Microsoft Visual C ++2013
+/ai9 -安装 Microsoft Visual C ++2019
+/aiT -安装 Microsoft Visual Studio 2010
+/aiE -安装 Microsoft Visual Basic/C++
+/aiV -安装 Microsoft C Runtime Library
 /aiH -系统卸载程序列表中自动隐藏已经安装的项
 /aiP -系统卸载程序列表中手动隐藏或显示已经安装的项
-/aiC -完全执行被动模式。安装所有，但UCRT KB3118401除外
-/aiD -调试模式，创建VCpp_debug.log而不安装/卸载任何组件
-/gm2 -7zSFX的静默模式参数，用于禁用解压对话框的可选参数&lt;/p&gt;
+/aiC -完全执行被动模式。安装所有，但 UCRT KB3118401 除外
+/aiD -调试模式，创建 VCpp_debug.log 而不安装/卸载任何组件
+/gm2 -7zSFX 的静默模式参数，用于禁用解压对话框的可选参数&lt;/p&gt;
 &lt;p&gt;• 无人值守静默安装参数示例：
-自动安装Visual C ++2022(适用仅更新)
+自动安装 Visual C ++2022(适用仅更新)
 VisualCppRedist_AIO_x86_x64.exe /ai9 /gm2
-自动安装所有VC++运行库组件(适合新系统)
+自动安装所有 VC++运行库组件(适合新系统)
 VisualCppRedist_AIO_x86_x64.exe /ai /gm2&lt;/p&gt;
 &lt;h3 id=&#34;更新日志&#34;&gt;更新日志
 &lt;/h3&gt;&lt;p&gt;v0.84.0
@@ -218,7 +218,7 @@ Microsoft Visual C++ 2013 Redist x86 x64
 Microsoft Visual C++ 2015-2022 Redist x86 x64
 Microsoft .NET Framework 1.0
 Microsoft .NET Framework 1.1
-Microsoft .NET Framework 3.5（含2.0、3.0） x86 x64
+Microsoft .NET Framework 3.5（含 2.0、3.0） x86 x64
 Microsoft .NET Framework 4.0 x86 x64
 Microsoft .NET Framework 4.8 x86 x64
 Microsoft .NET Framework 6.0 x86 x64
@@ -285,7 +285,7 @@ UE4 Prerequisites 1.0 x64&lt;/p&gt;
         <pubDate>Wed, 21 Aug 2024 22:43:37 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/yunxingkuheji0814/</guid>
-        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版VC++运行库合集(微软常用运行库合集),整合了所有版本Visual C ++,可以自选更新VC++版本组件,并提供图形安装界面.&lt;/p&gt;
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称 MSVC,VB/VC,VC 运行库)系统运行库是 Windows 操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版 VC++运行库合集(微软常用运行库合集),整合了所有版本 Visual C ++,可以自选更新 VC++版本组件,并提供图形安装界面.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/0hWWHCs.png&#34;
 	
 	
@@ -297,7 +297,7 @@ UE4 Prerequisites 1.0 x64&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Visual C++ 微软常用运行库合集 (32+64位合集)
+&lt;p&gt;Visual C++ 微软常用运行库合集 (32+64 位合集)
 Repacked by Dreamcast (Build on 2024.08.14)&lt;/p&gt;
 &lt;p&gt;包含组件：
 Visual Basic Virtual Machine(5.1)
@@ -311,7 +311,7 @@ Microsoft Visual C++2012 UP4(11.0.61135.400)
 Microsoft Visual C++2013(12.0.40664.0)
 Microsoft Visual C++2019(14.38.32919.0)(WinXP)
 Microsoft Visual C++2015-2022(14.42.34226.3)(Win7+)
-Microsoft Universal CRuntime(10.0.10586.9)(WinXP～7)
+Microsoft Universal CRuntime(10.0.10586.9)(WinXP ～ 7)
 Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;静默参数&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;/silent /verysilent&lt;/p&gt;
@@ -328,8 +328,8 @@ Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
         <pubDate>Wed, 21 Aug 2024 22:42:41 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/visualc34226/</guid>
-        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,这是官方版安装包.&lt;/p&gt;
-&lt;p&gt;Microsoft Visual C++ 2019为创建基于微软 Windows 和基于 Microsoft .NET 的应用程序提供了强大而灵活的开发环境支持。Visual C++ Redistributable 用于需要运行C++使用 Visual Studio 2019 开发的应用程序，并动态链接到库。您可以使用这些在系统运行此类应用程序，即使当前系统没有安装 Visual Studio 2019。它将安装这些运行库组件：C Runtime (CRT), Standard C++, MFC, C++ AMP, OpenMP。&lt;/p&gt;
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称 MSVC,VB/VC,VC 运行库)系统运行库是 Windows 操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,这是官方版安装包.&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2019 为创建基于微软 Windows 和基于 Microsoft .NET 的应用程序提供了强大而灵活的开发环境支持。Visual C++ Redistributable 用于需要运行 C++使用 Visual Studio 2019 开发的应用程序，并动态链接到库。您可以使用这些在系统运行此类应用程序，即使当前系统没有安装 Visual Studio 2019。它将安装这些运行库组件：C Runtime (CRT), Standard C++, MFC, C++ AMP, OpenMP。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/5p3EFYf.png&#34;
 	
 	
@@ -341,12 +341,12 @@ Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最新支持的Visual C++ 可再发行程序包下载 | Microsoft Docs
+&lt;p&gt;最新支持的 Visual C++ 可再发行程序包下载 | Microsoft Docs
 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vemgtY24vY3BwL3dpbmRvd3MvbGF0ZXN0LXN1cHBvcnRlZC12Yy1yZWRpc3Q/dmlldz1tc3ZjLTE3MA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://docs.microsoft.com/zh-cn/cpp/windows/latest-supported-vc-redist?view=msvc-170&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Visual C++ 2015, 2017, 2019, 2022 版本现在共用一个安装包。
 例如：安装 VC++2019 将影响使用 VC++2015, 2017 构建的程序。
-但是，安装VC++2015 并不会取代 VC++2015, 2017 安装的文件的较新版本。
+但是，安装 VC++2015 并不会取代 VC++2015, 2017 安装的文件的较新版本。
 与以前的版本不同，它们各自都有独自的运行库文件，而不是与其它版本共享。&lt;/p&gt;
 &lt;p&gt;静默安装参数：VC_redist.x64.exe /S&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
@@ -393,7 +393,7 @@ x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugin
         <pubDate>Wed, 21 Aug 2024 22:32:18 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/microsoftnetruntime8080/</guid>
-        <description>&lt;p&gt;Microsoft .NET Framework最新版(微软NET框架运行库.NET8.0下载)是Windows操作系统.NET Framework构建的应用程序所需的基础类型库组件.NET Runtime(NET运行库)是继Windows DNA之后全新软件开发平台,.NET框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
+        <description>&lt;p&gt;Microsoft .NET Framework 最新版(微软 NET 框架运行库.NET8.0 下载)是 Windows 操作系统.NET Framework 构建的应用程序所需的基础类型库组件.NET Runtime(NET 运行库)是继 Windows DNA 之后全新软件开发平台,.NET 框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/IDpum8O.png&#34;
 	
 	
@@ -408,12 +408,12 @@ x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugin
 &lt;p&gt;Releases · dotnet/core
 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL2RvdG5ldC9jb3JlL3JlbGVhc2Vz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/dotnet/core/releases&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;.NET Runtime        -&amp;gt; 微软.NET运行库
-.NET Desktop Runtime -&amp;gt; 微软.NET桌面库程序，包含.NET运行库
+&lt;p&gt;.NET Runtime -&amp;gt; 微软.NET 运行库
+.NET Desktop Runtime -&amp;gt; 微软.NET 桌面库程序，包含.NET 运行库
 ASP.NET Core Runtime -&amp;gt; 微软用于运行网络/服务器构建类型程序&lt;/p&gt;
-&lt;p&gt;2023年11月 微软.NET8.0 正式版发布！&lt;/p&gt;
-&lt;p&gt;2022年11月 微软.NET7.0 正式版发布！&lt;/p&gt;
-&lt;p&gt;2021年11月 微软.NET6.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2023 年 11 月 微软.NET8.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2022 年 11 月 微软.NET7.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2021 年 11 月 微软.NET6.0 正式版发布！&lt;/p&gt;
 &lt;p&gt;.NET6.0 是长期支持版本，将支持三年。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft .NET Runtime 8.0.8 Build 33916 (2024/08/13)
@@ -428,7 +428,7 @@ Microsoft .NET Desktop Runtime 8.0.8 Build 33916 (2024/08/13)&lt;/p&gt;
         <pubDate>Wed, 21 Aug 2024 22:30:39 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/microsoftnetruntime6033/</guid>
-        <description>&lt;p&gt;Microsoft .NET Framework最新版(微软NET框架运行库.NET6.0下载)是Windows操作系统.NET Framework构建的应用程序所需的基础类型库组件.NET Runtime(NET运行库)是继Windows DNA之后全新软件开发平台,.NET框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
+        <description>&lt;p&gt;Microsoft .NET Framework 最新版(微软 NET 框架运行库.NET6.0 下载)是 Windows 操作系统.NET Framework 构建的应用程序所需的基础类型库组件.NET Runtime(NET 运行库)是继 Windows DNA 之后全新软件开发平台,.NET 框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/l4prdus.png&#34;
 	
 	
@@ -443,18 +443,18 @@ Microsoft .NET Desktop Runtime 8.0.8 Build 33916 (2024/08/13)&lt;/p&gt;
 &lt;p&gt;Releases · dotnet/core
 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL2RvdG5ldC9jb3JlL3JlbGVhc2Vz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/dotnet/core/releases&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;.NET Runtime        -&amp;gt; .NET运行库
-.NET Desktop Runtime -&amp;gt; .NET桌面库程序，包含.NET运行库
+&lt;p&gt;.NET Runtime -&amp;gt; .NET 运行库
+.NET Desktop Runtime -&amp;gt; .NET 桌面库程序，包含.NET 运行库
 ASP.NET Core Runtime -&amp;gt; 用于运行网络/服务器构建类型程序&lt;/p&gt;
-&lt;p&gt;2021年11月 微软.NET 6.0 正式版发布！&lt;/p&gt;
-&lt;p&gt;2020年11月 微软.NET 5.0 正式版发布！
+&lt;p&gt;2021 年 11 月 微软.NET 6.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2020 年 11 月 微软.NET 5.0 正式版发布！
 本次版本更新非常重视 .NET 的统一性，微软希望 .NET Framework 开发者能够迁移他们的代码和应用到 .NET 5.0 上，为明年发布的 .NET 6.0 将 Xamarin 开发者过渡到统一平台奠定了基础。目标是将所有的 .NET 组件整合到一个产品下，然后用户可以根据需求使用 .NET 的某个部分，而不是单独下载或安装所有内容。&lt;/p&gt;
-&lt;p&gt;.NET 5.0包括了 ASP.NET Core，EF Core，C# 9 和 F# 5，.NET 库增强了 Json 序列化、正则表达式和 HTTP（HTTP 1.1、HTTP/2）的性能。Visual Studio 用户需要 Visual Studio 16.8 以上版本才能使用 .NET 5.0。 .NET 5.0 是微软统一 .NET 堆栈和生态系统的首个版本，它计划在每年的 11 月发布一个新版本，这意味着 2021 年的 11 月将会发布 .NET 6.0。.NET 5.0 不是长期支持版，它将支持到 .NET 6.0 发布 3 个月之后即 2022 年 2 月中旬，.NET 6.0 是长期支持版本，将支持三年。&lt;/p&gt;
+&lt;p&gt;.NET 5.0 包括了 ASP.NET Core，EF Core，C# 9 和 F# 5，.NET 库增强了 Json 序列化、正则表达式和 HTTP（HTTP 1.1、HTTP/2）的性能。Visual Studio 用户需要 Visual Studio 16.8 以上版本才能使用 .NET 5.0。 .NET 5.0 是微软统一 .NET 堆栈和生态系统的首个版本，它计划在每年的 11 月发布一个新版本，这意味着 2021 年的 11 月将会发布 .NET 6.0。.NET 5.0 不是长期支持版，它将支持到 .NET 6.0 发布 3 个月之后即 2022 年 2 月中旬，.NET 6.0 是长期支持版本，将支持三年。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft .NET Runtime 6.0.33 (2024/08/13)
 Microsoft .NET Desktop Runtime 6.0.33 (2024/08/13)
 Microsoft .NET Framework v4.8 官方离线安装包最终版（ndp48-x86-x64-allos-enu.exe）
-Microsoft .NET Framework v4.8 简体中文语言包（非必要不装也不影响.NET程序运行）（ndp48-x86-x64-allos-chs.exe）&lt;/p&gt;
+Microsoft .NET Framework v4.8 简体中文语言包（非必要不装也不影响.NET 程序运行）（ndp48-x86-x64-allos-chs.exe）&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/fe1a00781cdc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://pan.quark.cn/s/fe1a00781cdc&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -465,7 +465,7 @@ Microsoft .NET Framework v4.8 简体中文语言包（非必要不装也不影�
         <pubDate>Wed, 14 Aug 2024 10:37:30 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/netruntime8070/</guid>
-        <description>&lt;p&gt;Microsoft .NET Framework最新版(微软NET框架运行库.NET8.0下载)是Windows操作系统.NET Framework构建的应用程序所需的基础类型库组件.NET Runtime(NET运行库)是继Windows DNA之后全新软件开发平台,.NET框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
+        <description>&lt;p&gt;Microsoft .NET Framework 最新版(微软 NET 框架运行库.NET8.0 下载)是 Windows 操作系统.NET Framework 构建的应用程序所需的基础类型库组件.NET Runtime(NET 运行库)是继 Windows DNA 之后全新软件开发平台,.NET 框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/X1aZHPa.png&#34;
 	
 	
@@ -480,12 +480,12 @@ Microsoft .NET Framework v4.8 简体中文语言包（非必要不装也不影�
 &lt;p&gt;Releases · dotnet/core
 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL2RvdG5ldC9jb3JlL3JlbGVhc2Vz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/dotnet/core/releases&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;.NET Runtime        -&amp;gt; 微软.NET运行库
-.NET Desktop Runtime -&amp;gt; 微软.NET桌面库程序，包含.NET运行库
+&lt;p&gt;.NET Runtime -&amp;gt; 微软.NET 运行库
+.NET Desktop Runtime -&amp;gt; 微软.NET 桌面库程序，包含.NET 运行库
 ASP.NET Core Runtime -&amp;gt; 微软用于运行网络/服务器构建类型程序&lt;/p&gt;
-&lt;p&gt;2023年11月 微软.NET8.0 正式版发布！&lt;/p&gt;
-&lt;p&gt;2022年11月 微软.NET7.0 正式版发布！&lt;/p&gt;
-&lt;p&gt;2021年11月 微软.NET6.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2023 年 11 月 微软.NET8.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2022 年 11 月 微软.NET7.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2021 年 11 月 微软.NET6.0 正式版发布！&lt;/p&gt;
 &lt;p&gt;.NET6.0 是长期支持版本，将支持三年。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft .NET Runtime 8.0.7 Build 33814 (2024/07/10)
@@ -504,7 +504,7 @@ Microsoft .NET Desktop Runtime 8.0.7 Build 33814 (2024/07/10)&lt;/p&gt;
         <pubDate>Wed, 14 Aug 2024 10:36:25 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/netruntime6032/</guid>
-        <description>&lt;p&gt;Microsoft .NET Framework最新版(微软NET框架运行库.NET6.0下载)是Windows操作系统.NET Framework构建的应用程序所需的基础类型库组件.NET Runtime(NET运行库)是继Windows DNA之后全新软件开发平台,.NET框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
+        <description>&lt;p&gt;Microsoft .NET Framework 最新版(微软 NET 框架运行库.NET6.0 下载)是 Windows 操作系统.NET Framework 构建的应用程序所需的基础类型库组件.NET Runtime(NET 运行库)是继 Windows DNA 之后全新软件开发平台,.NET 框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/9wEupKb.png&#34;
 	
 	
@@ -519,18 +519,18 @@ Microsoft .NET Desktop Runtime 8.0.7 Build 33814 (2024/07/10)&lt;/p&gt;
 &lt;p&gt;Releases · dotnet/core
 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL2RvdG5ldC9jb3JlL3JlbGVhc2Vz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/dotnet/core/releases&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;.NET Runtime        -&amp;gt; .NET运行库
-.NET Desktop Runtime -&amp;gt; .NET桌面库程序，包含.NET运行库
+&lt;p&gt;.NET Runtime -&amp;gt; .NET 运行库
+.NET Desktop Runtime -&amp;gt; .NET 桌面库程序，包含.NET 运行库
 ASP.NET Core Runtime -&amp;gt; 用于运行网络/服务器构建类型程序&lt;/p&gt;
-&lt;p&gt;2021年11月 微软.NET 6.0 正式版发布！&lt;/p&gt;
-&lt;p&gt;2020年11月 微软.NET 5.0 正式版发布！
+&lt;p&gt;2021 年 11 月 微软.NET 6.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2020 年 11 月 微软.NET 5.0 正式版发布！
 本次版本更新非常重视 .NET 的统一性，微软希望 .NET Framework 开发者能够迁移他们的代码和应用到 .NET 5.0 上，为明年发布的 .NET 6.0 将 Xamarin 开发者过渡到统一平台奠定了基础。目标是将所有的 .NET 组件整合到一个产品下，然后用户可以根据需求使用 .NET 的某个部分，而不是单独下载或安装所有内容。&lt;/p&gt;
-&lt;p&gt;.NET 5.0包括了 ASP.NET Core，EF Core，C# 9 和 F# 5，.NET 库增强了 Json 序列化、正则表达式和 HTTP（HTTP 1.1、HTTP/2）的性能。Visual Studio 用户需要 Visual Studio 16.8 以上版本才能使用 .NET 5.0。 .NET 5.0 是微软统一 .NET 堆栈和生态系统的首个版本，它计划在每年的 11 月发布一个新版本，这意味着 2021 年的 11 月将会发布 .NET 6.0。.NET 5.0 不是长期支持版，它将支持到 .NET 6.0 发布 3 个月之后即 2022 年 2 月中旬，.NET 6.0 是长期支持版本，将支持三年。&lt;/p&gt;
+&lt;p&gt;.NET 5.0 包括了 ASP.NET Core，EF Core，C# 9 和 F# 5，.NET 库增强了 Json 序列化、正则表达式和 HTTP（HTTP 1.1、HTTP/2）的性能。Visual Studio 用户需要 Visual Studio 16.8 以上版本才能使用 .NET 5.0。 .NET 5.0 是微软统一 .NET 堆栈和生态系统的首个版本，它计划在每年的 11 月发布一个新版本，这意味着 2021 年的 11 月将会发布 .NET 6.0。.NET 5.0 不是长期支持版，它将支持到 .NET 6.0 发布 3 个月之后即 2022 年 2 月中旬，.NET 6.0 是长期支持版本，将支持三年。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft .NET Runtime 6.0.32 (2024/07/10)
 Microsoft .NET Desktop Runtime 6.0.32 (2024/07/10)
 Microsoft .NET Framework v4.8 官方离线安装包最终版（ndp48-x86-x64-allos-enu.exe）
-Microsoft .NET Framework v4.8 简体中文语言包（非必要不装也不影响.NET程序运行）（ndp48-x86-x64-allos-chs.exe）&lt;/p&gt;
+Microsoft .NET Framework v4.8 简体中文语言包（非必要不装也不影响.NET 程序运行）（ndp48-x86-x64-allos-chs.exe）&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/b8eab46b2b36&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://pan.quark.cn/s/b8eab46b2b36&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO955x7x57gaJSQ_9Rh_zBwXA1?pwd=4rke&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -543,7 +543,7 @@ Microsoft .NET Framework v4.8 简体中文语言包（非必要不装也不影�
         <pubDate>Wed, 14 Aug 2024 10:35:22 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/netruntime7020/</guid>
-        <description>&lt;p&gt;Microsoft .NET Framework最新版(微软NET框架运行库.NET7.0下载)是Windows操作系统.NET Framework构建的应用程序所需的基础类型库组件.NET Runtime(NET运行库)是继Windows DNA之后全新软件开发平台,.NET框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
+        <description>&lt;p&gt;Microsoft .NET Framework 最新版(微软 NET 框架运行库.NET7.0 下载)是 Windows 操作系统.NET Framework 构建的应用程序所需的基础类型库组件.NET Runtime(NET 运行库)是继 Windows DNA 之后全新软件开发平台,.NET 框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/rBiTslG.png&#34;
 	
 	
@@ -558,11 +558,11 @@ Microsoft .NET Framework v4.8 简体中文语言包（非必要不装也不影�
 &lt;p&gt;Releases · dotnet/core
 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL2RvdG5ldC9jb3JlL3JlbGVhc2Vz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://github.com/dotnet/core/releases&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;.NET Runtime        -&amp;gt; 微软.NET运行库
-.NET Desktop Runtime -&amp;gt; 微软.NET桌面库程序，包含.NET运行库
+&lt;p&gt;.NET Runtime -&amp;gt; 微软.NET 运行库
+.NET Desktop Runtime -&amp;gt; 微软.NET 桌面库程序，包含.NET 运行库
 ASP.NET Core Runtime -&amp;gt; 微软用于运行网络/服务器构建类型程序&lt;/p&gt;
-&lt;p&gt;2022年11月 微软.NET7.0 正式版发布！&lt;/p&gt;
-&lt;p&gt;2021年11月 微软.NET6.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2022 年 11 月 微软.NET7.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2021 年 11 月 微软.NET6.0 正式版发布！&lt;/p&gt;
 &lt;p&gt;.NET6.0 是长期支持版本，将支持三年。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft .NET Runtime 7.0.20 (2024/05/28)
@@ -577,7 +577,7 @@ Microsoft .NET Desktop Runtime 7.0.20 (2024/05/28)&lt;/p&gt;
         <pubDate>Wed, 14 Aug 2024 10:34:09 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/yunxingku240523/</guid>
-        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版VC++运行库合集(微软常用运行库合集),整合了所有版本Visual C ++,可以自选更新VC++版本组件,并提供图形安装界面.&lt;/p&gt;
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称 MSVC,VB/VC,VC 运行库)系统运行库是 Windows 操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版 VC++运行库合集(微软常用运行库合集),整合了所有版本 Visual C ++,可以自选更新 VC++版本组件,并提供图形安装界面.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/SlDRIWH.png&#34;
 	
 	
@@ -589,7 +589,7 @@ Microsoft .NET Desktop Runtime 7.0.20 (2024/05/28)&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Visual C++ 微软常用运行库合集 (32+64位合集)
+&lt;p&gt;Visual C++ 微软常用运行库合集 (32+64 位合集)
 Repacked by Dreamcast (Build on 2024.05.03)&lt;/p&gt;
 &lt;p&gt;包含组件：
 Visual Basic Virtual Machine(5.1)
@@ -603,7 +603,7 @@ Microsoft Visual C++2012 UP4(11.0.61135.400)
 Microsoft Visual C++2013(12.0.40664.0)
 Microsoft Visual C++2019(14.38.32919.0)(WinXP)
 Microsoft Visual C++2015-2022(14.40.33807.0)(Win7+)
-Microsoft Universal CRuntime(10.0.10586.9)(WinXP～7)
+Microsoft Universal CRuntime(10.0.10586.9)(WinXP ～ 7)
 Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;静默参数&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;/silent /verysilent&lt;/p&gt;
@@ -618,7 +618,7 @@ Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
         <pubDate>Wed, 14 Aug 2024 10:33:00 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/visualc/</guid>
-        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版VC++运行库合集(VisualCppRedist),体积小巧,支持静默参数,整合了所有版本Visual C ++,能自动检测安装所有VC库版本.&lt;/p&gt;
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称 MSVC,VB/VC,VC 运行库)系统运行库是 Windows 操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版 VC++运行库合集(VisualCppRedist),体积小巧,支持静默参数,整合了所有版本 Visual C ++,能自动检测安装所有 VC 库版本.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ZWk4LjE.png&#34;
 	
 	
@@ -635,7 +635,7 @@ Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
     &gt;https://github.com/abbodi1406/vcredist/releases&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft Visual C++ Runtimes AIO 0.82 Repack&lt;/p&gt;
 &lt;p&gt;Visual C++ Redistributable Runtimes AIO Repack&lt;/p&gt;
-&lt;p&gt;▶整合的组件版本：&lt;/p&gt;
+&lt;p&gt;▶ 整合的组件版本：&lt;/p&gt;
 &lt;p&gt;☑ Microsoft Visual Basic/C++ Runtime (x86/x64)
 ☑ Microsoft C Runtime Library (2002: 7.0.9975.0)
 ☑ Microsoft C Runtime Library (2003: 7.10.6119.0)
@@ -648,31 +648,31 @@ Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
 ├—Microsoft Visual C++ 2015 Redistributable – 14.10.25008
 ├—Microsoft Visual C++ 2005-2022 Redistributable 14.40.33810
 ☑ Microsoft Visual Studio 2010 Tools for Office Runtime (x86/x64)&lt;/p&gt;
-&lt;p&gt;▶无人值守运行参数：&lt;/p&gt;
-&lt;p&gt;/ai  -自动安装全部，不显示提取解压对话框
-/y   -自动安装全部，提供安装界面进度显示
+&lt;p&gt;▶ 无人值守运行参数：&lt;/p&gt;
+&lt;p&gt;/ai -自动安装全部，不显示提取解压对话框
+/y -自动安装全部，提供安装界面进度显示
 /aiM -自选安装全部，安装每个版本有解压对话框并询问确认
 /aiU -自动卸载全部，卸载每个版本有提取对话框并询问确认
-/aiA -自动安装全部，但是隐藏系统卸载程序列表里的ARP项
+/aiA -自动安装全部，但是隐藏系统卸载程序列表里的 ARP 项
 /aiR -自动卸载全部
-/ai5 -安装Microsoft Visual C ++2005
-/ai8 -安装Microsoft Visual C ++2008
-/aiX -安装Microsoft Visual C ++2010
-/ai2 -安装Microsoft Visual C ++2012
-/ai3 -安装Microsoft Visual C ++2013
-/ai9 -安装Microsoft Visual C ++2019
-/aiT -安装Microsoft Visual Studio 2010
-/aiE -安装Microsoft Visual Basic/C++
-/aiV -安装Microsoft C Runtime Library
+/ai5 -安装 Microsoft Visual C ++2005
+/ai8 -安装 Microsoft Visual C ++2008
+/aiX -安装 Microsoft Visual C ++2010
+/ai2 -安装 Microsoft Visual C ++2012
+/ai3 -安装 Microsoft Visual C ++2013
+/ai9 -安装 Microsoft Visual C ++2019
+/aiT -安装 Microsoft Visual Studio 2010
+/aiE -安装 Microsoft Visual Basic/C++
+/aiV -安装 Microsoft C Runtime Library
 /aiH -系统卸载程序列表中自动隐藏已经安装的项
 /aiP -系统卸载程序列表中手动隐藏或显示已经安装的项
-/aiC -完全执行被动模式。安装所有，但UCRT KB3118401除外
-/aiD -调试模式，创建VCpp_debug.log而不安装/卸载任何组件
-/gm2 -7zSFX的静默模式参数，用于禁用解压对话框的可选参数&lt;/p&gt;
+/aiC -完全执行被动模式。安装所有，但 UCRT KB3118401 除外
+/aiD -调试模式，创建 VCpp_debug.log 而不安装/卸载任何组件
+/gm2 -7zSFX 的静默模式参数，用于禁用解压对话框的可选参数&lt;/p&gt;
 &lt;p&gt;• 无人值守静默安装参数示例：&lt;/p&gt;
-&lt;p&gt;自动安装Visual C ++2022（适用仅更新）
+&lt;p&gt;自动安装 Visual C ++2022（适用仅更新）
 VisualCppRedist_AIO_x86_x64.exe /ai9 /gm2&lt;/p&gt;
-&lt;p&gt;自动安装所有VC++运行库组件（适合新系统）
+&lt;p&gt;自动安装所有 VC++运行库组件（适合新系统）
 VisualCppRedist_AIO_x86_x64.exe /ai /gm2&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9b4056235f3e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -685,7 +685,7 @@ VisualCppRedist_AIO_x86_x64.exe /ai /gm2&lt;/p&gt;
         <pubDate>Wed, 14 Aug 2024 10:31:50 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/javase2201/</guid>
-        <description>&lt;p&gt;甲骨文公司Oracle Java Development Kit(JDK)是一款Java开发工具包,包含Java运行环境(java运行库),Java开发套件和Java基础类库源代码.Java Runtime Environment(JRE)是运行Java程序的运行环境,不管是做Java开发还是从事安卓开发,都必须在系统安装JRE运行环境.Java语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
+        <description>&lt;p&gt;甲骨文公司 Oracle Java Development Kit(JDK)是一款 Java 开发工具包,包含 Java 运行环境(java 运行库),Java 开发套件和 Java 基础类库源代码.Java Runtime Environment(JRE)是运行 Java 程序的运行环境,不管是做 Java 开发还是从事安卓开发,都必须在系统安装 JRE 运行环境.Java 语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/IvVBAOi.png&#34;
 	
 	
@@ -697,22 +697,22 @@ VisualCppRedist_AIO_x86_x64.exe /ai /gm2&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2024年4月16号 Java SE 22 发行说明
+&lt;p&gt;2024 年 4 月 16 号 Java SE 22 发行说明
 Java™ SE Development Kit 22 (JDK22.0.1)
 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cub3JhY2xlLmNvbS9qYXZhL3RlY2hub2xvZ2llcy9qYXZhc2UvMjItcmVsbm90ZS1pc3N1ZXMuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.oracle.com/java/technologies/javase/22-relnote-issues.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;JDK17将升级长期支持 (LTS) 版本，在2024年9月前提供支持，JDK18、JDK19将是个短期功能版只支持六个月。&lt;/p&gt;
-&lt;p&gt;2022年3月下旬，甲骨文公司为所有开发人员和企业提供的Java 17 正式版，按照甲骨文重要安全补丁更新（CPU）时间表，JDK18将至少获得两次季度更新，据悉按照惯例 Java 19 正式版将于2022年9月发布。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;JRE和JDK的区别？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果在学习或从事Java开发、编译java程序，那么安装JDK&lt;/p&gt;
-&lt;p&gt;如果仅需运行java程序，只需要Java运行库，那么安装JRE&lt;/p&gt;
-&lt;p&gt;Java Development Kit（简称JDK）= Java开发套件，Java开发工具包，面向Java语言开发者。&lt;/p&gt;
-&lt;p&gt;Java Runtime Environment（简称JRE）= Java运行库，Java运行环境，面向Java程序用户们。&lt;/p&gt;
-&lt;p&gt;JDK：Java核心，含Java运行环境(JRE)、编译器（javac.exe）、开发工具（javadoc.exe、jar.exe、keytool.exe、jconsole.exe）和Java工具类库（如tools.jar）源代码等java语言编译所需的工具包。&lt;/p&gt;
-&lt;p&gt;JRE：Java语言开发的程序运行所需要的运行环境，包括JVM标准实现（java.exe等）及 Java核心类库（rt.jar等），它不包含开发工具(编译器、调试器等)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;JAVA环境变量配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;JDK17 将升级长期支持 (LTS) 版本，在 2024 年 9 月前提供支持，JDK18、JDK19 将是个短期功能版只支持六个月。&lt;/p&gt;
+&lt;p&gt;2022 年 3 月下旬，甲骨文公司为所有开发人员和企业提供的 Java 17 正式版，按照甲骨文重要安全补丁更新（CPU）时间表，JDK18 将至少获得两次季度更新，据悉按照惯例 Java 19 正式版将于 2022 年 9 月发布。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JRE 和 JDK 的区别？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果在学习或从事 Java 开发、编译 java 程序，那么安装 JDK&lt;/p&gt;
+&lt;p&gt;如果仅需运行 java 程序，只需要 Java 运行库，那么安装 JRE&lt;/p&gt;
+&lt;p&gt;Java Development Kit（简称 JDK）= Java 开发套件，Java 开发工具包，面向 Java 语言开发者。&lt;/p&gt;
+&lt;p&gt;Java Runtime Environment（简称 JRE）= Java 运行库，Java 运行环境，面向 Java 程序用户们。&lt;/p&gt;
+&lt;p&gt;JDK：Java 核心，含 Java 运行环境(JRE)、编译器（javac.exe）、开发工具（javadoc.exe、jar.exe、keytool.exe、jconsole.exe）和 Java 工具类库（如 tools.jar）源代码等 java 语言编译所需的工具包。&lt;/p&gt;
+&lt;p&gt;JRE：Java 语言开发的程序运行所需要的运行环境，包括 JVM 标准实现（java.exe 等）及 Java 核心类库（rt.jar 等），它不包含开发工具(编译器、调试器等)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JAVA 环境变量配置：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此电脑-&amp;gt;右键-&amp;gt;属性-&amp;gt;高级系统设置-&amp;gt;环境变量：
-1、「用户变量」和「系统变量」分别新建2条变量&lt;/p&gt;
+1、「用户变量」和「系统变量」分别新建 2 条变量&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -723,7 +723,7 @@ Java™ SE Development Kit 22 (JDK22.0.1)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;变量名：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;  &lt;span class=&#34;err&#34;&gt;变量值：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;C&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Program&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Files&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Java&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;jdk1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;8.0&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;_311&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（安装目录版本号路径）&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;2、「系统变量」双击-&amp;gt;Path-&amp;gt;编辑环境变量 -&amp;gt; 分别新建3条&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;2、「系统变量」双击-&amp;gt;Path-&amp;gt;编辑环境变量 -&amp;gt; 分别新建 3 条&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -736,10 +736,10 @@ Java™ SE Development Kit 22 (JDK22.0.1)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C:\Program Files\Java\jre22.0_1
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;# 检查JDK环境配置命令：
+&lt;/div&gt;&lt;p&gt;# 检查 JDK 环境配置命令：
 CMD 输入 java -version&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Java开发套件(JDK) Java SE Development Kit 22.0.1 x64 最新版官方正式版&lt;/p&gt;
+&lt;p&gt;Java 开发套件(JDK) Java SE Development Kit 22.0.1 x64 最新版官方正式版&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7b85b9a27620&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://pan.quark.cn/s/7b85b9a27620&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -750,7 +750,7 @@ CMD 输入 java -version&lt;/p&gt;
         <pubDate>Wed, 14 Aug 2024 10:30:41 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/javase17011/</guid>
-        <description>&lt;p&gt;甲骨文公司Oracle Java Development Kit(JDK)是一款Java开发工具包,包含Java运行环境(java运行库),Java开发套件和Java基础类库源代码.Java Runtime Environment(JRE)是运行Java程序的运行环境,不管是做Java开发还是从事安卓开发,都必须在系统安装JRE运行环境.Java语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
+        <description>&lt;p&gt;甲骨文公司 Oracle Java Development Kit(JDK)是一款 Java 开发工具包,包含 Java 运行环境(java 运行库),Java 开发套件和 Java 基础类库源代码.Java Runtime Environment(JRE)是运行 Java 程序的运行环境,不管是做 Java 开发还是从事安卓开发,都必须在系统安装 JRE 运行环境.Java 语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/CvIs1HE.png&#34;
 	
 	
@@ -762,22 +762,22 @@ CMD 输入 java -version&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2024年4月16日 JDK 17 发行说明
+&lt;p&gt;2024 年 4 月 16 日 JDK 17 发行说明
 Java™ SE Development Kit 17.0.11 (JDK17 LTS)
 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cub3JhY2xlLmNvbS9qYXZhL3RlY2hub2xvZ2llcy9qYXZhc2UvMTctcmVsbm90ZXMuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.oracle.com/java/technologies/javase/17-relnotes.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;JDK17是Java开发套件长期支持版，Java SE订阅者可以在2026年9月前接受JDK17更新！&lt;/p&gt;
-&lt;p&gt;Java17是一个LTS长期支持版本，就像Java11一样，Java11开始了一个新的发布节奏，Java11支持到2023年9月，扩展支持到2026年9月，在Java11中OracleJDK不再免费用于生产和商业用途，每6个月发布一个新的Java版本，即所谓的非LTS发布，从Java12直至并包括Java16，这些都是生产就绪版本，与LTS版本的唯一区别是支持在下一个版本发布时结束。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;JRE和JDK的区别？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果在学习或从事Java开发、编译java程序，那么安装JDK&lt;/p&gt;
-&lt;p&gt;如果仅需运行java程序，只需要Java运行库，那么安装JRE&lt;/p&gt;
-&lt;p&gt;Java Development Kit（简称JDK）= Java开发套件，Java开发工具包，面向Java语言开发者。&lt;/p&gt;
-&lt;p&gt;Java Runtime Environment（简称JRE）= Java运行库，Java运行环境，面向Java程序用户们。&lt;/p&gt;
-&lt;p&gt;JDK：Java核心，含Java运行环境(JRE)、编译器（javac.exe）、开发工具（javadoc.exe、jar.exe、keytool.exe、jconsole.exe）和Java工具类库（如tools.jar）源代码等java语言编译所需的工具包。&lt;/p&gt;
-&lt;p&gt;JRE：Java语言开发的程序运行所需要的运行环境，包括JVM标准实现（java.exe等）及 Java核心类库（rt.jar等），它不包含开发工具(编译器、调试器等)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;JAVA环境变量配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;JDK17 是 Java 开发套件长期支持版，Java SE 订阅者可以在 2026 年 9 月前接受 JDK17 更新！&lt;/p&gt;
+&lt;p&gt;Java17 是一个 LTS 长期支持版本，就像 Java11 一样，Java11 开始了一个新的发布节奏，Java11 支持到 2023 年 9 月，扩展支持到 2026 年 9 月，在 Java11 中 OracleJDK 不再免费用于生产和商业用途，每 6 个月发布一个新的 Java 版本，即所谓的非 LTS 发布，从 Java12 直至并包括 Java16，这些都是生产就绪版本，与 LTS 版本的唯一区别是支持在下一个版本发布时结束。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JRE 和 JDK 的区别？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果在学习或从事 Java 开发、编译 java 程序，那么安装 JDK&lt;/p&gt;
+&lt;p&gt;如果仅需运行 java 程序，只需要 Java 运行库，那么安装 JRE&lt;/p&gt;
+&lt;p&gt;Java Development Kit（简称 JDK）= Java 开发套件，Java 开发工具包，面向 Java 语言开发者。&lt;/p&gt;
+&lt;p&gt;Java Runtime Environment（简称 JRE）= Java 运行库，Java 运行环境，面向 Java 程序用户们。&lt;/p&gt;
+&lt;p&gt;JDK：Java 核心，含 Java 运行环境(JRE)、编译器（javac.exe）、开发工具（javadoc.exe、jar.exe、keytool.exe、jconsole.exe）和 Java 工具类库（如 tools.jar）源代码等 java 语言编译所需的工具包。&lt;/p&gt;
+&lt;p&gt;JRE：Java 语言开发的程序运行所需要的运行环境，包括 JVM 标准实现（java.exe 等）及 Java 核心类库（rt.jar 等），它不包含开发工具(编译器、调试器等)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JAVA 环境变量配置：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此电脑-&amp;gt;右键-&amp;gt;属性-&amp;gt;高级系统设置-&amp;gt;环境变量：
-1、「用户变量」和「系统变量」分别新建2条变量&lt;/p&gt;
+1、「用户变量」和「系统变量」分别新建 2 条变量&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -788,7 +788,7 @@ Java™ SE Development Kit 17.0.11 (JDK17 LTS)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;变量名：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;  &lt;span class=&#34;err&#34;&gt;变量值：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;C&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Program&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Files&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Java&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;jdk1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;8.0&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;_311&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（安装目录版本号路径）&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;2、「系统变量」双击-&amp;gt;Path-&amp;gt;编辑环境变量 -&amp;gt; 分别新建3条&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;2、「系统变量」双击-&amp;gt;Path-&amp;gt;编辑环境变量 -&amp;gt; 分别新建 3 条&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -801,10 +801,10 @@ Java™ SE Development Kit 17.0.11 (JDK17 LTS)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C:\Program Files\Java\jre1.8.0_311
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;# 检查JDK环境配置命令：
+&lt;/div&gt;&lt;p&gt;# 检查 JDK 环境配置命令：
 CMD 输入 java -version&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Java开发套件 (JDK) Java SE Development Kit 17.0.11 x64 (LTS) 长期支持版&lt;/p&gt;
+&lt;p&gt;Java 开发套件 (JDK) Java SE Development Kit 17.0.11 x64 (LTS) 长期支持版&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/efc597803a0a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://pan.quark.cn/s/efc597803a0a&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -815,7 +815,7 @@ CMD 输入 java -version&lt;/p&gt;
         <pubDate>Wed, 14 Aug 2024 10:29:37 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/javase11023/</guid>
-        <description>&lt;p&gt;甲骨文公司Oracle Java Development Kit(JDK)是一款Java开发工具包,包含Java运行环境(java运行库),Java开发套件和Java基础类库源代码.Java Runtime Environment(JRE)是运行Java程序的运行环境,不管是做Java开发还是从事安卓开发,都必须在系统安装JRE运行环境.Java语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
+        <description>&lt;p&gt;甲骨文公司 Oracle Java Development Kit(JDK)是一款 Java 开发工具包,包含 Java 运行环境(java 运行库),Java 开发套件和 Java 基础类库源代码.Java Runtime Environment(JRE)是运行 Java 程序的运行环境,不管是做 Java 开发还是从事安卓开发,都必须在系统安装 JRE 运行环境.Java 语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ohU0U8e.png&#34;
 	
 	
@@ -827,22 +827,22 @@ CMD 输入 java -version&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2024年4月16号 JDK 11 发行说明
+&lt;p&gt;2024 年 4 月 16 号 JDK 11 发行说明
 Java™ SE Development Kit 11.0.23 (JDK11 LTS)
 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cub3JhY2xlLmNvbS9qYXZhL3RlY2hub2xvZ2llcy9qYXZhc2UvMTEtcmVsbm90ZXMuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.oracle.com/java/technologies/javase/11-relnotes.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;JDK11是Java开发套件长期支持版，Java SE订阅者可以在 2032年1月前接受JDK11更新！&lt;/p&gt;
-&lt;p&gt;Java11是一个LTS长期支持版本，Java11支持到2023年9月，扩展支持到2026年9月，在Java11中OracleJDK不再免费用于生产和商业用途，每6个月发布一个新的Java版本，即所谓的非LTS发布，从Java12直至并包括Java16，这些都是生产就绪版本，与LTS版本的唯一区别是支持在下一个版本发布时结束。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;JRE和JDK的区别？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果在学习或从事Java开发、编译java程序，那么安装JDK&lt;/p&gt;
-&lt;p&gt;如果仅需运行java程序，只需要Java运行库，那么安装JRE&lt;/p&gt;
-&lt;p&gt;Java Development Kit（简称JDK）= Java开发套件，Java开发工具包，面向Java语言开发者。&lt;/p&gt;
-&lt;p&gt;Java Runtime Environment（简称JRE）= Java运行库，Java运行环境，面向Java程序用户们。&lt;/p&gt;
-&lt;p&gt;JDK：Java核心，含Java运行环境(JRE)、编译器（javac.exe）、开发工具（javadoc.exe、jar.exe、keytool.exe、jconsole.exe）和Java工具类库（如tools.jar）源代码等java语言编译所需的工具包。&lt;/p&gt;
-&lt;p&gt;JRE：Java语言开发的程序运行所需要的运行环境，包括JVM标准实现（java.exe等）及 Java核心类库（rt.jar等），它不包含开发工具(编译器、调试器等)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;JAVA环境变量配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;JDK11 是 Java 开发套件长期支持版，Java SE 订阅者可以在 2032 年 1 月前接受 JDK11 更新！&lt;/p&gt;
+&lt;p&gt;Java11 是一个 LTS 长期支持版本，Java11 支持到 2023 年 9 月，扩展支持到 2026 年 9 月，在 Java11 中 OracleJDK 不再免费用于生产和商业用途，每 6 个月发布一个新的 Java 版本，即所谓的非 LTS 发布，从 Java12 直至并包括 Java16，这些都是生产就绪版本，与 LTS 版本的唯一区别是支持在下一个版本发布时结束。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JRE 和 JDK 的区别？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果在学习或从事 Java 开发、编译 java 程序，那么安装 JDK&lt;/p&gt;
+&lt;p&gt;如果仅需运行 java 程序，只需要 Java 运行库，那么安装 JRE&lt;/p&gt;
+&lt;p&gt;Java Development Kit（简称 JDK）= Java 开发套件，Java 开发工具包，面向 Java 语言开发者。&lt;/p&gt;
+&lt;p&gt;Java Runtime Environment（简称 JRE）= Java 运行库，Java 运行环境，面向 Java 程序用户们。&lt;/p&gt;
+&lt;p&gt;JDK：Java 核心，含 Java 运行环境(JRE)、编译器（javac.exe）、开发工具（javadoc.exe、jar.exe、keytool.exe、jconsole.exe）和 Java 工具类库（如 tools.jar）源代码等 java 语言编译所需的工具包。&lt;/p&gt;
+&lt;p&gt;JRE：Java 语言开发的程序运行所需要的运行环境，包括 JVM 标准实现（java.exe 等）及 Java 核心类库（rt.jar 等），它不包含开发工具(编译器、调试器等)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JAVA 环境变量配置：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此电脑-&amp;gt;右键-&amp;gt;属性-&amp;gt;高级系统设置-&amp;gt;环境变量：
-1、「用户变量」和「系统变量」分别新建2条变量&lt;/p&gt;
+1、「用户变量」和「系统变量」分别新建 2 条变量&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -853,7 +853,7 @@ Java™ SE Development Kit 11.0.23 (JDK11 LTS)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;变量名：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;  &lt;span class=&#34;err&#34;&gt;变量值：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;C&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Program&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Files&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Java&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;jdk1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;8.0&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;_311&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（安装目录版本号路径）&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;2、「系统变量」双击-&amp;gt;Path-&amp;gt;编辑环境变量 -&amp;gt; 分别新建3条&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;2、「系统变量」双击-&amp;gt;Path-&amp;gt;编辑环境变量 -&amp;gt; 分别新建 3 条&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -866,10 +866,10 @@ Java™ SE Development Kit 11.0.23 (JDK11 LTS)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C:\Program Files\Java\jre1.8.0_311
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;# 检查JDK环境配置命令：
+&lt;/div&gt;&lt;p&gt;# 检查 JDK 环境配置命令：
 CMD 输入 java -version&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Java开发套件 (JDK) Java SE Development Kit 11.0.23 x64 (LTS) 长期支持版&lt;/p&gt;
+&lt;p&gt;Java 开发套件 (JDK) Java SE Development Kit 11.0.23 x64 (LTS) 长期支持版&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ad2bbd3ff423&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://pan.quark.cn/s/ad2bbd3ff423&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -880,7 +880,7 @@ CMD 输入 java -version&lt;/p&gt;
         <pubDate>Wed, 14 Aug 2024 10:28:32 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/javase80411/</guid>
-        <description>&lt;p&gt;甲骨文公司Oracle Java Development Kit(JDK)是一款Java开发工具包,包含Java运行环境(java运行库),Java开发套件和Java基础类库源代码.Java Runtime Environment(JRE)是运行Java程序的运行环境,不管是做Java开发还是从事安卓开发,都必须在系统安装JRE运行环境.Java语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
+        <description>&lt;p&gt;甲骨文公司 Oracle Java Development Kit(JDK)是一款 Java 开发工具包,包含 Java 运行环境(java 运行库),Java 开发套件和 Java 基础类库源代码.Java Runtime Environment(JRE)是运行 Java 程序的运行环境,不管是做 Java 开发还是从事安卓开发,都必须在系统安装 JRE 运行环境.Java 语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Nv6QBCS.png&#34;
 	
 	
@@ -892,32 +892,32 @@ CMD 输入 java -version&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2024年4月16号 JDK 8u411 Update 发行说明
+&lt;p&gt;2024 年 4 月 16 号 JDK 8u411 Update 发行说明
 Java™ SE Development Kit 8, Update 411 (JDK 8u411)
 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cub3JhY2xlLmNvbS9qYXZhL3RlY2hub2xvZ2llcy9qYXZhc2UvOHUtcmVsbm90ZXMuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.oracle.com/java/technologies/javase/8u-relnotes.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Java 8 是广泛使用的稳定版，JDK8将在2030年12月前提供支持！&lt;/p&gt;
-&lt;p&gt;Java SE 8自发布以来，使用次数已创造了纪录。官方公告介绍：Java 8是款革命性开发平台，其全面升级现有Java编程模式，带来一项协同开发的JVM、Java语言以及库。Java8平台集合生产力、易用性、多语种编程、更高安全性和稳定性等特色。&lt;/p&gt;
-&lt;p&gt;经过2年半的努力、屡次的延期和9个里程碑版本，甲骨文的Java开发团队终于发布了Java 8正式版本。Java 8版本最大的改进就是Lambda表达式，其目的是使Java更易于为多核处理器编写代码；其次，新加入的Nashorn引擎也使得Java程序可以和JavaScript代码互操作；再者，新的日期时间API、GC改进、并发改进也相当令人期待。另外，原本要加入Java 8的Jigsaw项目（标准模块系统）由于开发时间关系，被推迟到了Java 9中，不过Java 8已经在朝着这个方向努力了。&lt;/p&gt;
+&lt;p&gt;Java 8 是广泛使用的稳定版，JDK8 将在 2030 年 12 月前提供支持！&lt;/p&gt;
+&lt;p&gt;Java SE 8 自发布以来，使用次数已创造了纪录。官方公告介绍：Java 8 是款革命性开发平台，其全面升级现有 Java 编程模式，带来一项协同开发的 JVM、Java 语言以及库。Java8 平台集合生产力、易用性、多语种编程、更高安全性和稳定性等特色。&lt;/p&gt;
+&lt;p&gt;经过 2 年半的努力、屡次的延期和 9 个里程碑版本，甲骨文的 Java 开发团队终于发布了 Java 8 正式版本。Java 8 版本最大的改进就是 Lambda 表达式，其目的是使 Java 更易于为多核处理器编写代码；其次，新加入的 Nashorn 引擎也使得 Java 程序可以和 JavaScript 代码互操作；再者，新的日期时间 API、GC 改进、并发改进也相当令人期待。另外，原本要加入 Java 8 的 Jigsaw 项目（标准模块系统）由于开发时间关系，被推迟到了 Java 9 中，不过 Java 8 已经在朝着这个方向努力了。&lt;/p&gt;
 &lt;p&gt;Java SE 8 有哪些主要特性？&lt;/p&gt;
-&lt;p&gt;• Lambda表达式，一种新的语言特性，能够使功能作为方法参数或将代码作为数据；&lt;/p&gt;
-&lt;p&gt;• 显著增加和完善Java语言特性，增添标准库，包括默认方法，新的java.util.stream包及 Date-Time API；&lt;/p&gt;
-&lt;p&gt;• Compact Profiles包含 Java SE平台预定义子集，使程序员无需部署在整个平台，可运行在小型设备上；&lt;/p&gt;
-&lt;p&gt;• 安全性包括更新可Java加密体系架构；限制doPrivileged；SSL/TLS Server Name Indication (SNI) Extension以及增强密钥库；&lt;/p&gt;
-&lt;p&gt;• JavaFX更新文档&lt;/p&gt;
-&lt;p&gt;• 新的JavaScript引擎Nashorn&lt;/p&gt;
-&lt;p&gt;JDK7主要是提高易用性，提高性能，增加JSR 292.&lt;/p&gt;
-&lt;p&gt;JDK8主要是lambda和stream API及更加提高性能.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;JRE和JDK的区别？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果在学习或从事Java开发、编译java程序，那么安装JDK&lt;/p&gt;
-&lt;p&gt;如果仅需运行java程序，只需要Java运行库，那么安装JRE&lt;/p&gt;
-&lt;p&gt;Java Development Kit（简称JDK）= Java开发套件，Java开发工具包，面向Java语言开发者。&lt;/p&gt;
-&lt;p&gt;Java Runtime Environment（简称JRE）= Java运行库，Java运行环境，面向Java程序用户们。&lt;/p&gt;
-&lt;p&gt;JDK：Java核心，含Java运行环境(JRE)、编译器（javac.exe）、开发工具（javadoc.exe、jar.exe、keytool.exe、jconsole.exe）和Java工具类库（如tools.jar）源代码等java语言编译所需的工具包。&lt;/p&gt;
-&lt;p&gt;JRE：Java语言开发的程序运行所需要的运行环境，包括JVM标准实现（java.exe等）及 Java核心类库（rt.jar等），它不包含开发工具(编译器、调试器等)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;JAVA环境变量配置：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;• Lambda 表达式，一种新的语言特性，能够使功能作为方法参数或将代码作为数据；&lt;/p&gt;
+&lt;p&gt;• 显著增加和完善 Java 语言特性，增添标准库，包括默认方法，新的 java.util.stream 包及 Date-Time API；&lt;/p&gt;
+&lt;p&gt;• Compact Profiles 包含 Java SE 平台预定义子集，使程序员无需部署在整个平台，可运行在小型设备上；&lt;/p&gt;
+&lt;p&gt;• 安全性包括更新可 Java 加密体系架构；限制 doPrivileged；SSL/TLS Server Name Indication (SNI) Extension 以及增强密钥库；&lt;/p&gt;
+&lt;p&gt;• JavaFX 更新文档&lt;/p&gt;
+&lt;p&gt;• 新的 JavaScript 引擎 Nashorn&lt;/p&gt;
+&lt;p&gt;JDK7 主要是提高易用性，提高性能，增加 JSR 292.&lt;/p&gt;
+&lt;p&gt;JDK8 主要是 lambda 和 stream API 及更加提高性能.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JRE 和 JDK 的区别？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果在学习或从事 Java 开发、编译 java 程序，那么安装 JDK&lt;/p&gt;
+&lt;p&gt;如果仅需运行 java 程序，只需要 Java 运行库，那么安装 JRE&lt;/p&gt;
+&lt;p&gt;Java Development Kit（简称 JDK）= Java 开发套件，Java 开发工具包，面向 Java 语言开发者。&lt;/p&gt;
+&lt;p&gt;Java Runtime Environment（简称 JRE）= Java 运行库，Java 运行环境，面向 Java 程序用户们。&lt;/p&gt;
+&lt;p&gt;JDK：Java 核心，含 Java 运行环境(JRE)、编译器（javac.exe）、开发工具（javadoc.exe、jar.exe、keytool.exe、jconsole.exe）和 Java 工具类库（如 tools.jar）源代码等 java 语言编译所需的工具包。&lt;/p&gt;
+&lt;p&gt;JRE：Java 语言开发的程序运行所需要的运行环境，包括 JVM 标准实现（java.exe 等）及 Java 核心类库（rt.jar 等），它不包含开发工具(编译器、调试器等)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JAVA 环境变量配置：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;此电脑-&amp;gt;右键-&amp;gt;属性-&amp;gt;高级系统设置-&amp;gt;环境变量：
-1、「用户变量」和「系统变量」分别新建2条变量&lt;/p&gt;
+1、「用户变量」和「系统变量」分别新建 2 条变量&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -928,7 +928,7 @@ Java™ SE Development Kit 8, Update 411 (JDK 8u411)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;变量名：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;JAVA_HOME&lt;/span&gt;  &lt;span class=&#34;err&#34;&gt;变量值：&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;C&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Program&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Files&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;Java&lt;/span&gt;\&lt;span class=&#34;n&#34;&gt;jdk1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;8.0&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;_401&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（安装目录版本号路径）&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;2、「系统变量」双击-&amp;gt;Path-&amp;gt;编辑环境变量 -&amp;gt; 分别新建3条&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;2、「系统变量」双击-&amp;gt;Path-&amp;gt;编辑环境变量 -&amp;gt; 分别新建 3 条&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -941,11 +941,11 @@ Java™ SE Development Kit 8, Update 411 (JDK 8u411)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C:\Program Files\Java\jre1.8.0_401
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;# 检查JDK环境配置命令：
+&lt;/div&gt;&lt;p&gt;# 检查 JDK 环境配置命令：
 CMD 输入 java -version&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Java开发套件 (JDK) Java SE Development Kit 8 Update 411 x86/x64 最新JDK稳定版&lt;/p&gt;
-&lt;p&gt;Java运行环境 (JRE) Java Runtime Environment 8 Update 411 x86/x64&lt;/p&gt;
+&lt;p&gt;Java 开发套件 (JDK) Java SE Development Kit 8 Update 411 x86/x64 最新 JDK 稳定版&lt;/p&gt;
+&lt;p&gt;Java 运行环境 (JRE) Java Runtime Environment 8 Update 411 x86/x64&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ee83a3ac4e8f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://pan.quark.cn/s/ee83a3ac4e8f&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -956,8 +956,8 @@ CMD 输入 java -version&lt;/p&gt;
         <pubDate>Wed, 14 Aug 2024 10:27:28 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/microsoftvisualc/</guid>
-        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,这是官方版安装包.&lt;/p&gt;
-&lt;p&gt;Microsoft Visual C++ 2019为创建基于微软 Windows 和基于 Microsoft .NET 的应用程序提供了强大而灵活的开发环境支持。Visual C++ Redistributable 用于需要运行C++使用 Visual Studio 2019 开发的应用程序，并动态链接到库。您可以使用这些在系统运行此类应用程序，即使当前系统没有安装 Visual Studio 2019。它将安装这些运行库组件：C Runtime (CRT), Standard C++, MFC, C++ AMP, OpenMP。&lt;/p&gt;
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称 MSVC,VB/VC,VC 运行库)系统运行库是 Windows 操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,这是官方版安装包.&lt;/p&gt;
+&lt;p&gt;Microsoft Visual C++ 2019 为创建基于微软 Windows 和基于 Microsoft .NET 的应用程序提供了强大而灵活的开发环境支持。Visual C++ Redistributable 用于需要运行 C++使用 Visual Studio 2019 开发的应用程序，并动态链接到库。您可以使用这些在系统运行此类应用程序，即使当前系统没有安装 Visual Studio 2019。它将安装这些运行库组件：C Runtime (CRT), Standard C++, MFC, C++ AMP, OpenMP。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/1NLs3Jw.png&#34;
 	
 	
@@ -969,12 +969,12 @@ CMD 输入 java -version&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最新支持的Visual C++ 可再发行程序包下载 | Microsoft Docs
+&lt;p&gt;最新支持的 Visual C++ 可再发行程序包下载 | Microsoft Docs
 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vemgtY24vY3BwL3dpbmRvd3MvbGF0ZXN0LXN1cHBvcnRlZC12Yy1yZWRpc3Q/dmlldz1tc3ZjLTE3MA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://docs.microsoft.com/zh-cn/cpp/windows/latest-supported-vc-redist?view=msvc-170&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Visual C++ 2015, 2017, 2019, 2022 版本现在共用一个安装包。
 例如：安装 VC++2019 将影响使用 VC++2015, 2017 构建的程序。
-但是，安装VC++2015 并不会取代 VC++2015, 2017 安装的文件的较新版本。
+但是，安装 VC++2015 并不会取代 VC++2015, 2017 安装的文件的较新版本。
 与以前的版本不同，它们各自都有独自的运行库文件，而不是与其它版本共享。&lt;/p&gt;
 &lt;p&gt;静默安装参数：VC_redist.x64.exe /S&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
@@ -1021,9 +1021,9 @@ x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugin
         <pubDate>Wed, 14 Aug 2024 10:26:18 +0800</pubDate>
         
         <guid>https://www.danlong360.com/post/directx/</guid>
-        <description>&lt;p&gt;DirectX修复工具(DirectX Repair)是一款系统级工具软件，绿色简便易用，无需安装，可直接运行。主要功能是检测当前系统的DirectX组件及VC++库文件状态，发现异常则进行修复。程序采用易用的一键式设计，只要点“检测并修复”，它就会自动完成校验、检测、下载、修复以及注册全部功能，无需用户介入，大大降低使用难度。在常规修复过程中，程序还会自动检测DirectX加速状态，在异常时给予用户相应提示。&lt;/p&gt;
-&lt;p&gt;DirectX修复工具，主要针对0xc000007b问题设计，可以完美修复该问题。本程序中包含了最新版的DirectX redist(Jun2010)，并且全部DX文件都有Microsoft的数字签名，安全放心。适用于系统缺少运行库、游戏不能运行、工业软件（如QQ，3D*S MAX , MAYA ,Corel Painter等）不能运行提示缺少组件等问题。&lt;/p&gt;
-&lt;p&gt;本程序适用于多个操作系统，如Windows XP（需先安装.NET 2.0，详情请参阅“致Windows XP用户.txt”文件）、Windows Vista、Windows 7、Windows 8/8.1、Windows 8.1 Update、Windows 10，同时兼容32位操作系统和64位操作系统。本程序会根据系统的不同，自动调整任务模式，无需进行设置。&lt;/p&gt;
+        <description>&lt;p&gt;DirectX 修复工具(DirectX Repair)是一款系统级工具软件，绿色简便易用，无需安装，可直接运行。主要功能是检测当前系统的 DirectX 组件及 VC++库文件状态，发现异常则进行修复。程序采用易用的一键式设计，只要点“检测并修复”，它就会自动完成校验、检测、下载、修复以及注册全部功能，无需用户介入，大大降低使用难度。在常规修复过程中，程序还会自动检测 DirectX 加速状态，在异常时给予用户相应提示。&lt;/p&gt;
+&lt;p&gt;DirectX 修复工具，主要针对 0xc000007b 问题设计，可以完美修复该问题。本程序中包含了最新版的 DirectX redist(Jun2010)，并且全部 DX 文件都有 Microsoft 的数字签名，安全放心。适用于系统缺少运行库、游戏不能运行、工业软件（如 QQ，3D*S MAX , MAYA ,Corel Painter 等）不能运行提示缺少组件等问题。&lt;/p&gt;
+&lt;p&gt;本程序适用于多个操作系统，如 Windows XP（需先安装.NET 2.0，详情请参阅“致 Windows XP 用户.txt”文件）、Windows Vista、Windows 7、Windows 8/8.1、Windows 8.1 Update、Windows 10，同时兼容 32 位操作系统和 64 位操作系统。本程序会根据系统的不同，自动调整任务模式，无需进行设置。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/VyMDFls.png&#34;
 	
 	
@@ -1035,20 +1035,20 @@ x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugin
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;DirectX修复工具增强版_VBcom的专栏-CSDN博客
+&lt;p&gt;DirectX 修复工具增强版_VBcom 的专栏-CSDN 博客
 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cuNDIzZG93bi5jb20vZ28ucGhwP3VybD1hSFIwY0hNNkx5OWliRzluTG1OelpHNHVibVYwTDFaQ1kyOXRMMkZ5ZEdsamJHVXZaR1YwWVdsc2N5ODNNalExTVRnMg==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://blog.csdn.net/VBcom/article/details/7245186&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;最新版为：DirectX Repair V4.3 增强版，版本号：V4.3.0.40864
-大小: 116MB/7z格式压缩，198MB/zip格式压缩，330MB/解压后&lt;/p&gt;
-&lt;p&gt;DirectX修复工具V4.3更新日志
+大小: 116MB/7z 格式压缩，198MB/zip 格式压缩，330MB/解压后&lt;/p&gt;
+&lt;p&gt;DirectX 修复工具 V4.3 更新日志
 改进的功能：
-更新了部分c++数据包。新版程序更新了C++2015-2022的数据包，新数据包兼容性更强，可以修复更多的内容。
+更新了部分 c++数据包。新版程序更新了 C++2015-2022 的数据包，新数据包兼容性更强，可以修复更多的内容。
 优化调试模式提示功能。在用户进行手动修复时，程序提供更多提示信息，方便用户进行手动修复。
 优化测试版功能。在当前使用的测试版程序到期后，用户可以一键升级至最新版，无需重新下载。
 优化程序框架。为用户提供更多个性化可选项，方便不同用户使用。
 其他细节性改进。&lt;/p&gt;
-&lt;p&gt;修复的BUG：&lt;/p&gt;
-&lt;p&gt;修复了一个在部分情况下无法手动修复c++2015-2022的BUG。&lt;/p&gt;
+&lt;p&gt;修复的 BUG：&lt;/p&gt;
+&lt;p&gt;修复了一个在部分情况下无法手动修复 c++2015-2022 的 BUG。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;诚通网盘 &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62683318-e16266?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://url96.ctfile.com/d/60968596-62683318-e16266?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
