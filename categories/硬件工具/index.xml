@@ -2,17 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>硬件工具 on KUL藏宝库</title>
-        <link>http://localhost:1313/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/</link>
+        <link>https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/</link>
         <description>Recent content in 硬件工具 on KUL藏宝库</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 26 Oct 2024 19:03:39 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 27 Oct 2024 19:27:46 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Display Driver Uninstaller(驱动卸载工具) v18.0.8.4 中文绿色版</title>
+        <link>https://www.danlong360.com/post/1834/</link>
+        <pubDate>Sun, 27 Oct 2024 19:27:46 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/1834/</guid>
+        <description>&lt;p&gt;Display Driver Uninstaller（DDU）是一款免费的图形驱动程序卸载工具，它可以帮助用户完全卸载显卡驱动程序，并清除与之关联的文件、注册表项和文件夹，以确保系统完全清除所有显卡驱动程序的残留物，从而解决由于显卡驱动程序残留物导致的各种问题。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/27/fvsS6xNOIE9aDJz.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持完全卸载NVIDIA、AMD和Intel显卡驱动程序。&lt;/li&gt;
+&lt;li&gt;支持安全模式下的卸载操作。&lt;/li&gt;
+&lt;li&gt;支持备份和还原显卡驱动程序设置。&lt;/li&gt;
+&lt;li&gt;支持自动更新程序版本。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;免费软件，无需注册或付费。&lt;/li&gt;
+&lt;li&gt;界面简洁，易于使用。&lt;/li&gt;
+&lt;li&gt;支持多种语言界面。&lt;/li&gt;
+&lt;li&gt;更新频繁，保证对新显卡驱动程序的兼容性。&lt;/li&gt;
+&lt;li&gt;支持安全模式下的卸载操作，确保系统安全。&lt;/li&gt;
+&lt;li&gt;支持备份和还原显卡驱动程序设置，方便用户管理驱动程序。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOACn0w-OyqqTWf82Sij445CA1?pwd=g3wi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOACn0w-OyqqTWf82Sij445CA1?pwd=g3wi&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Hard Disk Sentinel(固态硬盘监控) v6.20.4 中文绿色版</title>
-        <link>http://localhost:1313/post/21781/</link>
+        <link>https://www.danlong360.com/post/21781/</link>
         <pubDate>Sat, 26 Oct 2024 19:03:39 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/21781/</guid>
+        <guid>https://www.danlong360.com/post/21781/</guid>
         <description>&lt;p&gt;Hard Disk Sentinel 是一款用于监控硬盘和 SSD 的软件。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/26/4cXlR1A2w3tgqGf.png&#34;
 	
@@ -43,10 +81,10 @@
         </item>
         <item>
         <title>HWiNFO(专业系统信息检测工具) v8.13.5575 中文绿色版</title>
-        <link>http://localhost:1313/post/48816/</link>
+        <link>https://www.danlong360.com/post/48816/</link>
         <pubDate>Fri, 25 Oct 2024 18:19:26 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/48816/</guid>
+        <guid>https://www.danlong360.com/post/48816/</guid>
         <description>&lt;p&gt;HWiNFO 是一款功能强大、免费的硬件信息检测工具，它可以提供详细的系统和硬件信息，帮助用户更好地了解自己的电脑硬件配置。它支持 Windows 系统，包括 Windows 10、Windows 8/8.1、Windows 7、Windows Vista 和 Windows XP。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/25/XTuml3P1g5kCavS.png&#34;
 	
@@ -83,10 +121,10 @@
         </item>
         <item>
         <title>HWiNFO(专业系统信息诊断工具) v8.13.5570 多语便携版</title>
-        <link>http://localhost:1313/post/75576/</link>
+        <link>https://www.danlong360.com/post/75576/</link>
         <pubDate>Fri, 25 Oct 2024 18:07:53 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/75576/</guid>
+        <guid>https://www.danlong360.com/post/75576/</guid>
         <description>&lt;p&gt;HWiNFO 是一款系统信息和诊断工具，能够提供关于硬件组件和系统信息的详细报告。其功能包括监控硬件健康状况、实时系统监控、报告系统信息、诊断硬件问题等。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/25/8Pjbq6xYaONzkep.png&#34;
 	
@@ -115,10 +153,10 @@
         </item>
         <item>
         <title>Z-Info(硬件监测工具组合套装) v1.0.45.33 便携版</title>
-        <link>http://localhost:1313/post/52204/</link>
+        <link>https://www.danlong360.com/post/52204/</link>
         <pubDate>Fri, 25 Oct 2024 18:05:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/52204/</guid>
+        <guid>https://www.danlong360.com/post/52204/</guid>
         <description>&lt;p&gt;Z-info 一款专业的硬件监测工具组合，Z-info 不仅几乎支持所有类型的处理器和主板，而且还可以轻松的帮助用户查看出硬件的各种数据，使用起来非常方便，有需要的朋友就来下载吧。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/25/hnR2uoixkYacvzZ.png&#34;
 	
@@ -159,10 +197,10 @@
         </item>
         <item>
         <title>CPUID CPU-Z(CPU检测工具) v2.11.2 中文绿色版</title>
-        <link>http://localhost:1313/post/14488/</link>
+        <link>https://www.danlong360.com/post/14488/</link>
         <pubDate>Thu, 24 Oct 2024 18:27:20 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/14488/</guid>
+        <guid>https://www.danlong360.com/post/14488/</guid>
         <description>&lt;p&gt;CPU-Z 中文版是一款权威的 CPU 处理器检测工具.CPU-Z 最新版 CPU 检测工具支持 CPU 种类相当全面,软件的启动速度及检测速度也很快,能够准确的检测出 CPU,主板,内存,显卡,SPD 等相关信息,包含制造厂及处理器名称,核心构造及封装技术,内部外部频率,最大超频速度侦测,处理器相关可以使用的指令集等.它可以看出哪家厂牌,内频,Cache 等玩家常提到的数据,包括 SelfSnoop,CMOVccInstruction 这些专家才能看得懂的资讯与数据.
 &lt;img src=&#34;https://s2.loli.net/2024/10/24/41lyrtoI3CsBAbP.png&#34;
 	
@@ -197,10 +235,10 @@
         </item>
         <item>
         <title>UserBenchmark(系统测试跑分软件) v4.6.1.0 便携版</title>
-        <link>http://localhost:1313/post/9211/</link>
+        <link>https://www.danlong360.com/post/9211/</link>
         <pubDate>Wed, 23 Oct 2024 12:35:10 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/9211/</guid>
+        <guid>https://www.danlong360.com/post/9211/</guid>
         <description>&lt;p&gt;UserBenchmark 是一款免费的计算机性能评估软件，帮助用户测试和比较各种硬件组件的性能。它可以测试 CPU、GPU、内存、存储以及其他硬件设备的性能，并生成详细的性能报告。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/23/3BajT5vroVtnU8c.png&#34;
 	
@@ -230,10 +268,10 @@
         </item>
         <item>
         <title>驱动人生官方原版丨最新版下载丨版本号 8.16.58.120</title>
-        <link>http://localhost:1313/post/61990/</link>
+        <link>https://www.danlong360.com/post/61990/</link>
         <pubDate>Wed, 23 Oct 2024 12:28:10 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/61990/</guid>
+        <guid>https://www.danlong360.com/post/61990/</guid>
         <description>&lt;p&gt;驱动人生是一款专业的硬件驱动更新软件，它能够自动扫描系统中过期、损坏或缺失的驱动，提供正确的驱动下载和安装，以确保电脑硬件的最佳表现。以下是驱动人生的软件介绍和特色。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/23/2X1PolM9RcYkS5y.png&#34;
 	
@@ -275,10 +313,10 @@
         </item>
         <item>
         <title>AIDA64 Extreme(硬件检测工具) v7.40.7100 完整版&#43;精简版</title>
-        <link>http://localhost:1313/post/3534/</link>
+        <link>https://www.danlong360.com/post/3534/</link>
         <pubDate>Tue, 22 Oct 2024 20:37:48 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/3534/</guid>
+        <guid>https://www.danlong360.com/post/3534/</guid>
         <description>&lt;p&gt;AIDA64 官方版(原 EVEREST)是一款综合性的系统硬件检测工具,号称最权威的电脑硬件检测,监控与测试软件,这款专业的硬件检测大师也是每位高手玩家,菜鸟用户必备的硬件检测利器.AIDA64 不仅提供诸如协助超频,硬件侦错,压力测试和传感器监测等多种功能,而且还可以对处理器,系统内存和磁盘驱动器性能进行全面评估.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/uSaI53hjBk9dmCs.png&#34;
 	
@@ -316,10 +354,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>Macrorit Data Wiper(硬盘数据擦除器) v7.3.0 多语便携版</title>
-        <link>http://localhost:1313/post/27531/</link>
+        <link>https://www.danlong360.com/post/27531/</link>
         <pubDate>Tue, 22 Oct 2024 12:53:18 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/27531/</guid>
+        <guid>https://www.danlong360.com/post/27531/</guid>
         <description>&lt;p&gt;Macrorit Data Wiper 是一款数据擦除工具，用于永久删除硬盘、分区、文件或文件夹中的敏感数据。它提供了多种擦除算法，确保数据无法被恢复。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/epEltGgomHwiX3v.png&#34;
 	
@@ -353,10 +391,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>Macrorit Disk Scanner(修复磁盘坏道) v6.9.0 多语便携版</title>
-        <link>http://localhost:1313/post/57607/</link>
+        <link>https://www.danlong360.com/post/57607/</link>
         <pubDate>Tue, 22 Oct 2024 12:52:41 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/57607/</guid>
+        <guid>https://www.danlong360.com/post/57607/</guid>
         <description>&lt;p&gt;Macrorit Disk Scanner 是一款用于检测和修复硬盘问题的工具。它可以扫描硬盘并查找可能的错误、坏道或损坏的文件系统。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/ER4zWMGN7X9ti8S.png&#34;
 	
@@ -391,10 +429,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>AIDA64(硬件信息检测神器) v7.40.7100 中文绿色版</title>
-        <link>http://localhost:1313/post/11711/</link>
+        <link>https://www.danlong360.com/post/11711/</link>
         <pubDate>Tue, 22 Oct 2024 10:09:22 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/11711/</guid>
+        <guid>https://www.danlong360.com/post/11711/</guid>
         <description>&lt;p&gt;AIDA64 Extreme 是一款功能全面的系统诊断软件，它可以帮助用户分析、监测和测试计算机硬件和软件。它可以提供详细的硬件信息，以及系统性能和安全状态等基本信息。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/R9xZVLC38tiUwd6.webp&#34;
 	
@@ -426,10 +464,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>HWiNFO(专业系统信息检测工具) v8.13.5570 中文绿色版</title>
-        <link>http://localhost:1313/post/9482/</link>
+        <link>https://www.danlong360.com/post/9482/</link>
         <pubDate>Mon, 21 Oct 2024 18:31:25 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/9482/</guid>
+        <guid>https://www.danlong360.com/post/9482/</guid>
         <description>&lt;p&gt;HWiNFO 是一款功能强大、免费的硬件信息检测工具，它可以提供详细的系统和硬件信息，帮助用户更好地了解自己的电脑硬件配置。它支持 Windows 系统，包括 Windows 10、Windows 8/8.1、Windows 7、Windows Vista 和 Windows XP。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/21/15dkfABqlUZeabu.png&#34;
 	
@@ -466,10 +504,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>UserBenchmark(系统测试跑分软件) v4.5.6.0 便携版</title>
-        <link>http://localhost:1313/post/341/</link>
+        <link>https://www.danlong360.com/post/341/</link>
         <pubDate>Mon, 21 Oct 2024 12:23:40 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/341/</guid>
+        <guid>https://www.danlong360.com/post/341/</guid>
         <description>&lt;p&gt;UserBenchmark 是一款免费的计算机性能评估软件，帮助用户测试和比较各种硬件组件的性能。它可以测试 CPU、GPU、内存、存储以及其他硬件设备的性能，并生成详细的性能报告。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/21/vJsFk5Amp3clKzw.png&#34;
 	
@@ -499,10 +537,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>Display Driver Uninstaller(驱动卸载工具) v18.0.8.3 中文绿色版</title>
-        <link>http://localhost:1313/post/4451/</link>
+        <link>https://www.danlong360.com/post/4451/</link>
         <pubDate>Sun, 20 Oct 2024 22:57:09 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/4451/</guid>
+        <guid>https://www.danlong360.com/post/4451/</guid>
         <description>&lt;p&gt;Display Driver Uninstaller（DDU）是一款免费的图形驱动程序卸载工具，它可以帮助用户完全卸载显卡驱动程序，并清除与之关联的文件、注册表项和文件夹，以确保系统完全清除所有显卡驱动程序的残留物，从而解决由于显卡驱动程序残留物导致的各种问题。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/20/iy62TUfHMuNzpCo.png&#34;
 	
@@ -537,10 +575,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>HWiNFO(专业系统信息诊断工具) v8.13.5565 多语便携版</title>
-        <link>http://localhost:1313/post/799/</link>
+        <link>https://www.danlong360.com/post/799/</link>
         <pubDate>Sun, 20 Oct 2024 19:09:45 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/799/</guid>
+        <guid>https://www.danlong360.com/post/799/</guid>
         <description>&lt;p&gt;HWiNFO 是一款系统信息和诊断工具，能够提供关于硬件组件和系统信息的详细报告。其功能包括监控硬件健康状况、实时系统监控、报告系统信息、诊断硬件问题等。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/20/GMBVzyCJDnWaKFL.png&#34;
 	
@@ -569,10 +607,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>UserBenchmark(系统测试跑分软件) v4.5.5.0 便携版</title>
-        <link>http://localhost:1313/post/7598/</link>
+        <link>https://www.danlong360.com/post/7598/</link>
         <pubDate>Fri, 18 Oct 2024 10:10:48 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/7598/</guid>
+        <guid>https://www.danlong360.com/post/7598/</guid>
         <description>&lt;p&gt;UserBenchmark 是一款免费的计算机性能评估软件，帮助用户测试和比较各种硬件组件的性能。它可以测试 CPU、GPU、内存、存储以及其他硬件设备的性能，并生成详细的性能报告。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/18/rXk37qSdaeLxTOG.png&#34;
 	
@@ -602,10 +640,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>FurMark(显卡压力测试烤机软件) v2.4.1.0 绿色版</title>
-        <link>http://localhost:1313/post/1829/</link>
+        <link>https://www.danlong360.com/post/1829/</link>
         <pubDate>Thu, 17 Oct 2024 08:54:59 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/1829/</guid>
+        <guid>https://www.danlong360.com/post/1829/</guid>
         <description>&lt;p&gt;FurMark 是一款用于测试显卡性能和稳定性的工具。它通过运行高强度的图形渲染测试来评估显卡的性能。用户可以使用 FurMark 来测试显卡在高负载情况下的稳定性和性能表现，另外，还提供了温度监控和帧率监控功能，以确保显卡在安全范围内运行，并提供流畅的游戏和图形体验。总的来说，FurMark 中文版是一款功能强大的显卡测试工具，可以帮助用户评估显卡的性能和稳定性，并提供实时的温度和帧率监控功能。它适用于游戏玩家、图形设计师和硬件爱好者等用户。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/17/lNJo5zmkedt94HY.png&#34;
 	
@@ -641,10 +679,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>GPU Shark(显卡GPU监视工具) v2.4.1.0 绿色版</title>
-        <link>http://localhost:1313/post/8852/</link>
+        <link>https://www.danlong360.com/post/8852/</link>
         <pubDate>Thu, 17 Oct 2024 08:53:21 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/8852/</guid>
+        <guid>https://www.danlong360.com/post/8852/</guid>
         <description>&lt;p&gt;GPU Shark 是一款用于监测和显示图形处理器（GPU）信息的软件工具。它提供了实时的 GPU 性能监测和数据显示，帮助用户了解 GPU 的运行情况并优化系统设置。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/17/OPVcfs9Uh6XkHe8.png&#34;
 	
@@ -678,10 +716,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>HWiNFO(专业系统信息检测工具) v8.13.5565 中文绿色版</title>
-        <link>http://localhost:1313/post/1455/</link>
+        <link>https://www.danlong360.com/post/1455/</link>
         <pubDate>Tue, 15 Oct 2024 21:59:13 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/1455/</guid>
+        <guid>https://www.danlong360.com/post/1455/</guid>
         <description>&lt;p&gt;HWiNFO 是一款功能强大、免费的硬件信息检测工具，它可以提供详细的系统和硬件信息，帮助用户更好地了解自己的电脑硬件配置。它支持 Windows 系统，包括 Windows 10、Windows 8/8.1、Windows 7、Windows Vista 和 Windows XP。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/15/hu2MpfGgsAOroqS.png&#34;
 	
@@ -720,10 +758,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>UserBenchmark(系统测试跑分软件) v4.5.4.0 绿色版</title>
-        <link>http://localhost:1313/post/9677/</link>
+        <link>https://www.danlong360.com/post/9677/</link>
         <pubDate>Tue, 15 Oct 2024 21:55:41 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/9677/</guid>
+        <guid>https://www.danlong360.com/post/9677/</guid>
         <description>&lt;p&gt;UserBenchmark 是一款免费的计算机性能评估软件，帮助用户测试和比较各种硬件组件的性能。它可以测试 CPU、GPU、内存、存储以及其他硬件设备的性能，并生成详细的性能报告。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/15/YGkKfRaLWO6V8yg.png&#34;
 	
@@ -755,10 +793,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>FurMark(显卡压力测试烤机软件) v2.4.0.0 绿色版</title>
-        <link>http://localhost:1313/post/3220/</link>
+        <link>https://www.danlong360.com/post/3220/</link>
         <pubDate>Fri, 11 Oct 2024 20:38:27 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/3220/</guid>
+        <guid>https://www.danlong360.com/post/3220/</guid>
         <description>&lt;p&gt;FurMark 是一款用于测试显卡性能和稳定性的工具。它通过运行高强度的图形渲染测试来评估显卡的性能。用户可以使用 FurMark 来测试显卡在高负载情况下的稳定性和性能表现，另外，还提供了温度监控和帧率监控功能，以确保显卡在安全范围内运行，并提供流畅的游戏和图形体验。总的来说，FurMark 中文版是一款功能强大的显卡测试工具，可以帮助用户评估显卡的性能和稳定性，并提供实时的温度和帧率监控功能。它适用于游戏玩家、图形设计师和硬件爱好者等用户。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/WgOYzNywu7xAHI6.png&#34;
 	
@@ -792,10 +830,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>HWiNFO(专业系统信息诊断工具) v8.13.5560 多语便携版</title>
-        <link>http://localhost:1313/post/7694/</link>
+        <link>https://www.danlong360.com/post/7694/</link>
         <pubDate>Thu, 10 Oct 2024 12:58:56 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/7694/</guid>
+        <guid>https://www.danlong360.com/post/7694/</guid>
         <description>&lt;p&gt;HWiNFO 是一款系统信息和诊断工具，能够提供关于硬件组件和系统信息的详细报告。其功能包括监控硬件健康状况、实时系统监控、报告系统信息、诊断硬件问题等。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/UvfAYKIWHbDraeO.png&#34;
 	
@@ -824,10 +862,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>FanControl(电脑风扇转速控制软件) v206 绿色版</title>
-        <link>http://localhost:1313/post/1176/</link>
+        <link>https://www.danlong360.com/post/1176/</link>
         <pubDate>Wed, 09 Oct 2024 21:21:56 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/1176/</guid>
+        <guid>https://www.danlong360.com/post/1176/</guid>
         <description>&lt;p&gt;FanControl 是一款用于控制计算机风扇速度的软件。它能够监测计算机的内部温度，并根据温度的变化来自动调整风扇的速度，以保持计算机的散热效果和稳定运行。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/09/N715qYBvub2XzUs.png&#34;
 	
@@ -857,10 +895,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>GPU Shark(显卡GPU监视工具) v2.4 绿色版</title>
-        <link>http://localhost:1313/post/8663/</link>
+        <link>https://www.danlong360.com/post/8663/</link>
         <pubDate>Tue, 08 Oct 2024 12:59:29 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/8663/</guid>
+        <guid>https://www.danlong360.com/post/8663/</guid>
         <description>&lt;p&gt;GPU Shark 是一款用于监测和显示图形处理器（GPU）信息的软件工具。它提供了实时的 GPU 性能监测和数据显示，帮助用户了解 GPU 的运行情况并优化系统设置。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/08/KrnA8qegOzsiXUh.png&#34;
 	
@@ -892,10 +930,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>HWiNFO 硬件检测工具 v8.12.5555.0 官方便携版</title>
-        <link>http://localhost:1313/post/6509/</link>
+        <link>https://www.danlong360.com/post/6509/</link>
         <pubDate>Mon, 07 Oct 2024 22:38:16 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/6509/</guid>
+        <guid>https://www.danlong360.com/post/6509/</guid>
         <description>&lt;p&gt;HWiNFO 是款适合电脑系统中使用的系统信息监测工具。HWiNFO 可以显示出处理器、主板及芯片组、pcmcia 接口、bios 版本、内存等信息。HWiNFO(64 位)还可以给用户全面展示计算机的硬件信息以及性能。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/07/A2IbDrFdUTlx5ph.webp&#34;
 	
@@ -937,10 +975,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>FanCtrl(免费的风扇控制软件) v1.7.1 英文绿色版</title>
-        <link>http://localhost:1313/post/162/</link>
+        <link>https://www.danlong360.com/post/162/</link>
         <pubDate>Sun, 06 Oct 2024 13:08:59 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/162/</guid>
+        <guid>https://www.danlong360.com/post/162/</guid>
         <description>&lt;p&gt;FanCtrl 是一款免费的风扇控制软件，它可以帮助用户监测和控制计算机风扇的速度和温度。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/06/gA3NdizbO7Fc5lv.png&#34;
 	
@@ -976,10 +1014,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>RAM Saver(优化内存软件) Pro v24.10 多语便携版</title>
-        <link>http://localhost:1313/post/166/</link>
+        <link>https://www.danlong360.com/post/166/</link>
         <pubDate>Sat, 05 Oct 2024 11:25:01 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/166/</guid>
+        <guid>https://www.danlong360.com/post/166/</guid>
         <description>&lt;p&gt;RAM Saver 是一款用于优化和管理电脑内存的软件。它可以帮助用户释放内存空间，提升系统性能并防止系统崩溃。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/05/kb3zatClF2gQ5H8.png&#34;
 	
@@ -1010,10 +1048,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>Display Driver Uninstaller(驱动卸载工具) v18.0.8.2 中文绿色版</title>
-        <link>http://localhost:1313/post/358/</link>
+        <link>https://www.danlong360.com/post/358/</link>
         <pubDate>Fri, 04 Oct 2024 22:45:21 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/358/</guid>
+        <guid>https://www.danlong360.com/post/358/</guid>
         <description>&lt;p&gt;Display Driver Uninstaller（DDU）是一款免费的图形驱动程序卸载工具，它可以帮助用户完全卸载显卡驱动程序，并清除与之关联的文件、注册表项和文件夹，以确保系统完全清除所有显卡驱动程序的残留物，从而解决由于显卡驱动程序残留物导致的各种问题。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/04/HZ6id4lpPXjrVQJ.png&#34;
 	
@@ -1048,10 +1086,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>OCCT电脑硬件测试(烤鸡测试软件) v13.1.10.99 便携版</title>
-        <link>http://localhost:1313/post/4948/</link>
+        <link>https://www.danlong360.com/post/4948/</link>
         <pubDate>Thu, 03 Oct 2024 22:00:40 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/4948/</guid>
+        <guid>https://www.danlong360.com/post/4948/</guid>
         <description>&lt;p&gt;OCCT 中文版(OverClock Checking Tool)是一款电脑稳定性及基准测试软件(烤鸡软件)的硬件测试软件.电源测试软件功能包括:硬件基准测试,温度监控,GPU 测试,CPU 频率测试,CPU 性能测试,CPU 显存测试,电源电压功耗测试.OCCT 最新版具备类似 Furmark 超强压榨 GPU 的能力,支持生成结果图表,生成 CSV 数据文件及外部监控程序数据导入.它可以使 CPU,显卡,电源等满负荷运行,同时监测电源各电压输出的波动,并以曲线图的方式输出电压波动图表,以便于诊断并图表查看计算机在高负载下的反应,可以判断被电源检测工具的大概品质.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/03/YQClOVi2bv4SUoM.png&#34;
 	
@@ -1074,10 +1112,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>UserBenchmark(系统测试跑分软件) v4.5.1.0 绿色版</title>
-        <link>http://localhost:1313/post/9403/</link>
+        <link>https://www.danlong360.com/post/9403/</link>
         <pubDate>Thu, 03 Oct 2024 20:56:19 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/9403/</guid>
+        <guid>https://www.danlong360.com/post/9403/</guid>
         <description>&lt;p&gt;UserBenchmark 是一款免费的计算机性能评估软件，帮助用户测试和比较各种硬件组件的性能。它可以测试 CPU、GPU、内存、存储以及其他硬件设备的性能，并生成详细的性能报告。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/03/CLcdw5vEZf3iAb7.png&#34;
 	
@@ -1107,10 +1145,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>HWiNFO(专业系统信息检测工具) v8.12.5555 中文绿色版</title>
-        <link>http://localhost:1313/post/898/</link>
+        <link>https://www.danlong360.com/post/898/</link>
         <pubDate>Mon, 30 Sep 2024 23:10:39 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/898/</guid>
+        <guid>https://www.danlong360.com/post/898/</guid>
         <description>&lt;p&gt;HWiNFO 是一款功能强大、免费的硬件信息检测工具，它可以提供详细的系统和硬件信息，帮助用户更好地了解自己的电脑硬件配置。它支持 Windows 系统，包括 Windows 10、Windows 8/8.1、Windows 7、Windows Vista 和 Windows XP。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/30/ISaTpqe2zPWgO3F.png&#34;
 	
@@ -1147,10 +1185,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>Macrorit Disk Scanner(修复磁盘坏道) v6.7.3 多语便携版</title>
-        <link>http://localhost:1313/post/5164/</link>
+        <link>https://www.danlong360.com/post/5164/</link>
         <pubDate>Mon, 30 Sep 2024 23:04:42 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/5164/</guid>
+        <guid>https://www.danlong360.com/post/5164/</guid>
         <description>&lt;p&gt;Macrorit Disk Scanner 是一款用于检测和修复硬盘问题的工具。它可以扫描硬盘并查找可能的错误、坏道或损坏的文件系统。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/30/aDhY3xiqbOsmpWB.png&#34;
 	
@@ -1185,10 +1223,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>万能驱动VIP版(万能驱动8 EasyDrv) v24v5</title>
-        <link>http://localhost:1313/post/wannengqudong24v5/</link>
+        <link>https://www.danlong360.com/post/wannengqudong24v5/</link>
         <pubDate>Sat, 28 Sep 2024 23:49:55 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/wannengqudong24v5/</guid>
+        <guid>https://www.danlong360.com/post/wannengqudong24v5/</guid>
         <description>&lt;p&gt;万能驱动 7 自 2017 年发布至今已 6 年有余，今天将画上最终版的句号，继任者万能驱动 8 已蓄势待发（VIP 抢先体验）。相较万能驱动 7，万能驱动 8 使用了全新的设计理念，硬件检索、驱动安装等方面皆有新技术加持，驱动库、软件库可全面自定义。沉浸技术十余载，只为与诸君分享更加完善的驱动安装体验，感谢大家的支持与厚爱！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/28/am5oDFcNejqdRrx.png&#34;
 	
@@ -1255,10 +1293,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>FanControl(电脑风扇转速控制软件) v205 绿色版</title>
-        <link>http://localhost:1313/post/fancontrol205/</link>
+        <link>https://www.danlong360.com/post/fancontrol205/</link>
         <pubDate>Sat, 28 Sep 2024 11:05:04 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/fancontrol205/</guid>
+        <guid>https://www.danlong360.com/post/fancontrol205/</guid>
         <description>&lt;p&gt;FanControl 是一款用于控制计算机风扇速度的软件。它能够监测计算机的内部温度，并根据温度的变化来自动调整风扇的速度，以保持计算机的散热效果和稳定运行。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/28/l9XfaD8hHwoTSAm.png&#34;
 	
@@ -1288,10 +1326,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>IObit Driver Booster(驱动程序更新工具) v12.0.0.354 多语便携版</title>
-        <link>http://localhost:1313/post/iobitdriverbooster354/</link>
+        <link>https://www.danlong360.com/post/iobitdriverbooster354/</link>
         <pubDate>Fri, 27 Sep 2024 20:08:41 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/iobitdriverbooster354/</guid>
+        <guid>https://www.danlong360.com/post/iobitdriverbooster354/</guid>
         <description>&lt;p&gt;IObit Driver Booster 是一款 Windows 系统驱动程序更新工具，帮助用户升级过时、缺失或不兼容的驱动程序，以提高系统性能和稳定性。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/27/eIWmAwgoOznyEuF.png&#34;
 	
@@ -1322,10 +1360,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>HWiNFO(专业系统信息诊断工具) v8.11.5550 多语便携版</title>
-        <link>http://localhost:1313/post/hwinfo8115550/</link>
+        <link>https://www.danlong360.com/post/hwinfo8115550/</link>
         <pubDate>Thu, 26 Sep 2024 11:56:58 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/hwinfo8115550/</guid>
+        <guid>https://www.danlong360.com/post/hwinfo8115550/</guid>
         <description>&lt;p&gt;HWiNFO 是一款系统信息和诊断工具，能够提供关于硬件组件和系统信息的详细报告。其功能包括监控硬件健康状况、实时系统监控、报告系统信息、诊断硬件问题等。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/5uK3e9dzjmRhxbk.png&#34;
 	
@@ -1354,10 +1392,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>OCCT电脑硬件测试(烤鸡测试软件) v13.1.8.99 便携版</title>
-        <link>http://localhost:1313/post/occt899/</link>
+        <link>https://www.danlong360.com/post/occt899/</link>
         <pubDate>Thu, 26 Sep 2024 11:42:22 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/occt899/</guid>
+        <guid>https://www.danlong360.com/post/occt899/</guid>
         <description>&lt;p&gt;OCCT 中文版(OverClock Checking Tool)是一款电脑稳定性及基准测试软件(烤鸡软件)的硬件测试软件.电源测试软件功能包括:硬件基准测试,温度监控,GPU 测试,CPU 频率测试,CPU 性能测试,CPU 显存测试,电源电压功耗测试.OCCT 最新版具备类似 Furmark 超强压榨 GPU 的能力,支持生成结果图表,生成 CSV 数据文件及外部监控程序数据导入.它可以使 CPU,显卡,电源等满负荷运行,同时监测电源各电压输出的波动,并以曲线图的方式输出电压波动图表,以便于诊断并图表查看计算机在高负载下的反应,可以判断被电源检测工具的大概品质.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/26/CoXnm3OBcZxDyaE.png&#34;
 	
@@ -1380,10 +1418,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>FanControl(电脑风扇转速控制软件) v204 绿色版</title>
-        <link>http://localhost:1313/post/fancontrol204/</link>
+        <link>https://www.danlong360.com/post/fancontrol204/</link>
         <pubDate>Tue, 24 Sep 2024 09:40:45 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/fancontrol204/</guid>
+        <guid>https://www.danlong360.com/post/fancontrol204/</guid>
         <description>&lt;p&gt;FanControl 是一款用于控制计算机风扇速度的软件。它能够监测计算机的内部温度，并根据温度的变化来自动调整风扇的速度，以保持计算机的散热效果和稳定运行。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/24/J8zpi2l9nh5VRaP.png&#34;
 	
@@ -1413,10 +1451,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>IsMyHdOK(硬盘基准测试工具) v4.11 中文绿色版</title>
-        <link>http://localhost:1313/post/ismyhdok411/</link>
+        <link>https://www.danlong360.com/post/ismyhdok411/</link>
         <pubDate>Mon, 23 Sep 2024 19:19:19 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/ismyhdok411/</guid>
+        <guid>https://www.danlong360.com/post/ismyhdok411/</guid>
         <description>&lt;p&gt;IsMyHdOK 中文版(硬盘测试软件)是一款硬盘基准测试工具,用于检测 SSD 及 HDD 的读取和写入速度,混合持续读写,持续传输率, 随机 4K 随机测试等指标.可以通过菜单在 IsMyHdOK 查看硬盘型号跑分和详情测试结果.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/23/YxUOl9hGJiTj4tW.png&#34;
 	
@@ -1451,10 +1489,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>Z-Info(硬件监测工具组合套装) v1.0.45.32 便携版</title>
-        <link>http://localhost:1313/post/zinfo4532/</link>
+        <link>https://www.danlong360.com/post/zinfo4532/</link>
         <pubDate>Mon, 23 Sep 2024 09:58:29 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/zinfo4532/</guid>
+        <guid>https://www.danlong360.com/post/zinfo4532/</guid>
         <description>&lt;p&gt;Z-info 一款专业的硬件监测工具组合，Z-info 不仅几乎支持所有类型的处理器和主板，而且还可以轻松的帮助用户查看出硬件的各种数据，使用起来非常方便，有需要的朋友就来下载吧。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/23/ONivgwdyRjuS7hX.png&#34;
 	
@@ -1495,10 +1533,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>SIW Enterprise 2024 v14.5.0827 中文版</title>
-        <link>http://localhost:1313/post/siwenterprise/</link>
+        <link>https://www.danlong360.com/post/siwenterprise/</link>
         <pubDate>Sun, 22 Sep 2024 18:17:53 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/siwenterprise/</guid>
+        <guid>https://www.danlong360.com/post/siwenterprise/</guid>
         <description>&lt;p&gt;硬件检测工具 SIW 是一款电脑硬件及软件信息综合检测工具，可读取硬件设备和系统软件相关详细信息，包括主板、BIOS、CPU 信息、内存及感应器、PCI 插槽、声显卡及存储装置、硬盘驱动器及网络设备等信息。&lt;/p&gt;
 &lt;h3 id=&#34;软件截图&#34;&gt;软件截图
 &lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.sypai.net/wp-content/uploads/2024/09/20240922161342215071.webp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -1519,10 +1557,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>SSD Fresh Plus(固态硬盘优化工具) v14.0.56618 多语便携版</title>
-        <link>http://localhost:1313/post/ssdfreshplus56618/</link>
+        <link>https://www.danlong360.com/post/ssdfreshplus56618/</link>
         <pubDate>Sat, 21 Sep 2024 16:47:38 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/ssdfreshplus56618/</guid>
+        <guid>https://www.danlong360.com/post/ssdfreshplus56618/</guid>
         <description>&lt;p&gt;Abelssoft SSD Fresh 是一款专为固态硬盘定制的优化工具软件。它可以帮助用户优化固态硬盘的性能、稳定性和寿命，并提供一系列与固态硬盘有关的功能。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/21/eFm8VC6BHxMAEsN.png&#34;
 	
@@ -1553,10 +1591,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>Auslogics Driver Updater(驱动更新工具) v2.0.1.0 便携版</title>
-        <link>http://localhost:1313/post/auslogicsdriver/</link>
+        <link>https://www.danlong360.com/post/auslogicsdriver/</link>
         <pubDate>Thu, 19 Sep 2024 12:40:30 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/auslogicsdriver/</guid>
+        <guid>https://www.danlong360.com/post/auslogicsdriver/</guid>
         <description>&lt;p&gt;Auslogics Driver Updater 是一款专业的驱动更新工具，可以帮助用户快速和方便地更新计算机硬件设备的驱动程序。该软件可以扫描计算机中的所有硬件设备，检测是否有过期、损坏或不兼容的驱动程序，并提供相应的更新选项，以确保计算机硬件设备始终运行在最新和最佳的状态。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.gndown.com/wp-content/uploads/2023/11/f2261244428628b.png?x48431&#34;
 	
@@ -1585,10 +1623,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>CPUID CPU-Z(CPU检测工具) v2.11.0 中文绿色版</title>
-        <link>http://localhost:1313/post/cpuz2110/</link>
+        <link>https://www.danlong360.com/post/cpuz2110/</link>
         <pubDate>Thu, 19 Sep 2024 08:11:08 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/cpuz2110/</guid>
+        <guid>https://www.danlong360.com/post/cpuz2110/</guid>
         <description>&lt;p&gt;CPU-Z 中文版是一款权威的 CPU 处理器检测工具.CPU-Z 最新版 CPU 检测工具支持 CPU 种类相当全面,软件的启动速度及检测速度也很快,能够准确的检测出 CPU,主板,内存,显卡,SPD 等相关信息,包含制造厂及处理器名称,核心构造及封装技术,内部外部频率,最大超频速度侦测,处理器相关可以使用的指令集等.它可以看出哪家厂牌,内频,Cache 等玩家常提到的数据,包括 SelfSnoop,CMOVccInstruction 这些专家才能看得懂的资讯与数据.
 &lt;img src=&#34;https://s2.loli.net/2024/09/19/fOlc2mqy3GivEC8.png&#34;
 	
@@ -1623,10 +1661,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>图吧工具箱(图拉丁吧硬件检测工具箱) v2024.09 中文绿色版</title>
-        <link>http://localhost:1313/post/tubagongjuxiang202409/</link>
+        <link>https://www.danlong360.com/post/tubagongjuxiang202409/</link>
         <pubDate>Wed, 18 Sep 2024 17:53:38 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/tubagongjuxiang202409/</guid>
+        <guid>https://www.danlong360.com/post/tubagongjuxiang202409/</guid>
         <description>&lt;p&gt;图吧工具箱(全名图拉丁吧硬件检测工具箱)是个免费开源绿色纯净的硬件检测工具合集,专为图钉及所有 DIY 爱好者制作,包含常用硬件测试和检测工具,月工 JS 必备.图拉丁工具箱硬件检测工具,免费无限制功能全免费.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/18/pIUfyEsMSL69hiP.png&#34;
 	
@@ -1674,10 +1712,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>Hard Disk Sentinel(固态硬盘监控) v6.20.3 中文绿色版</title>
-        <link>http://localhost:1313/post/harddisksentinel6203/</link>
+        <link>https://www.danlong360.com/post/harddisksentinel6203/</link>
         <pubDate>Wed, 18 Sep 2024 17:43:26 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/harddisksentinel6203/</guid>
+        <guid>https://www.danlong360.com/post/harddisksentinel6203/</guid>
         <description>&lt;p&gt;Hard Disk Sentinel 是一款用于监控硬盘和 SSD 的软件。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/18/OGE1A3pCibKduko.png&#34;
 	
@@ -1708,10 +1746,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>HWiNFO(专业系统信息诊断工具) v8.11.5545 多语便携版</title>
-        <link>http://localhost:1313/post/hwinfo5545/</link>
+        <link>https://www.danlong360.com/post/hwinfo5545/</link>
         <pubDate>Wed, 18 Sep 2024 13:55:54 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/hwinfo5545/</guid>
+        <guid>https://www.danlong360.com/post/hwinfo5545/</guid>
         <description>&lt;p&gt;HWiNFO 是一款系统信息和诊断工具，能够提供关于硬件组件和系统信息的详细报告。其功能包括监控硬件健康状况、实时系统监控、报告系统信息、诊断硬件问题等。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/18/ZV3EDG7NKYOpMqt.png&#34;
 	
@@ -1740,10 +1778,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>FanControl(电脑风扇转速控制软件) v202 绿色版</title>
-        <link>http://localhost:1313/post/fancontrol202/</link>
+        <link>https://www.danlong360.com/post/fancontrol202/</link>
         <pubDate>Sun, 15 Sep 2024 11:49:40 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/fancontrol202/</guid>
+        <guid>https://www.danlong360.com/post/fancontrol202/</guid>
         <description>&lt;p&gt;FanControl 是一款用于控制计算机风扇速度的软件。它能够监测计算机的内部温度，并根据温度的变化来自动调整风扇的速度，以保持计算机的散热效果和稳定运行。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/15/V2iSQ8yqKeAJ536.png&#34;
 	
@@ -1777,10 +1815,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>OCCT电脑硬件测试(烤鸡测试软件) v13.1.7.99 便携版</title>
-        <link>http://localhost:1313/post/occt131799/</link>
+        <link>https://www.danlong360.com/post/occt131799/</link>
         <pubDate>Fri, 13 Sep 2024 10:21:56 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/occt131799/</guid>
+        <guid>https://www.danlong360.com/post/occt131799/</guid>
         <description>&lt;p&gt;OCCT 中文版(OverClock Checking Tool)是一款电脑稳定性及基准测试软件(烤鸡软件)的硬件测试软件.电源测试软件功能包括:硬件基准测试,温度监控,GPU 测试,CPU 频率测试,CPU 性能测试,CPU 显存测试,电源电压功耗测试.OCCT 最新版具备类似 Furmark 超强压榨 GPU 的能力,支持生成结果图表,生成 CSV 数据文件及外部监控程序数据导入.它可以使 CPU,显卡,电源等满负荷运行,同时监测电源各电压输出的波动,并以曲线图的方式输出电压波动图表,以便于诊断并图表查看计算机在高负载下的反应,可以判断被电源检测工具的大概品质.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/13/S3aDMwg6yNi2Ltd.png&#34;
 	
@@ -1805,10 +1843,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>Display Driver Uninstaller(驱动卸载工具) v18.0.8.1 中文绿色版</title>
-        <link>http://localhost:1313/post/driveruninstaller81/</link>
+        <link>https://www.danlong360.com/post/driveruninstaller81/</link>
         <pubDate>Fri, 13 Sep 2024 08:23:29 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/driveruninstaller81/</guid>
+        <guid>https://www.danlong360.com/post/driveruninstaller81/</guid>
         <description>&lt;p&gt;Display Driver Uninstaller（DDU）是一款免费的图形驱动程序卸载工具，它可以帮助用户完全卸载显卡驱动程序，并清除与之关联的文件、注册表项和文件夹，以确保系统完全清除所有显卡驱动程序的残留物，从而解决由于显卡驱动程序残留物导致的各种问题。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/13/KhHZD53WJ4BgckX.png&#34;
 	
@@ -1845,10 +1883,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>IObit Driver Booster(驱动程序更新工具) v12.0.0.308 多语便携版</title>
-        <link>http://localhost:1313/post/iobitdriver308/</link>
+        <link>https://www.danlong360.com/post/iobitdriver308/</link>
         <pubDate>Thu, 12 Sep 2024 21:52:39 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/iobitdriver308/</guid>
+        <guid>https://www.danlong360.com/post/iobitdriver308/</guid>
         <description>&lt;p&gt;IObit Driver Booster 是一款 Windows 系统驱动程序更新工具，帮助用户升级过时、缺失或不兼容的驱动程序，以提高系统性能和稳定性。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/12/G3dxBNCruZXnWmk.png&#34;
 	
@@ -1881,10 +1919,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>OCCT电脑硬件测试(烤鸡测试软件) v13.1.5.99 便携版</title>
-        <link>http://localhost:1313/post/occt99/</link>
+        <link>https://www.danlong360.com/post/occt99/</link>
         <pubDate>Thu, 12 Sep 2024 13:11:02 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/occt99/</guid>
+        <guid>https://www.danlong360.com/post/occt99/</guid>
         <description>&lt;p&gt;OCCT 中文版(OverClock Checking Tool)是一款电脑稳定性及基准测试软件(烤鸡软件)的硬件测试软件.电源测试软件功能包括:硬件基准测试,温度监控,GPU 测试,CPU 频率测试,CPU 性能测试,CPU 显存测试,电源电压功耗测试.OCCT 最新版具备类似 Furmark 超强压榨 GPU 的能力,支持生成结果图表,生成 CSV 数据文件及外部监控程序数据导入.它可以使 CPU,显卡,电源等满负荷运行,同时监测电源各电压输出的波动,并以曲线图的方式输出电压波动图表,以便于诊断并图表查看计算机在高负载下的反应,可以判断被电源检测工具的大概品质.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/12/l9pVNxYbeQjU23C.png&#34;
 	
@@ -1909,10 +1947,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>IObit SmartDefrag(智能磁盘整理) v10.1.0.419 特别版</title>
-        <link>http://localhost:1313/post/smartdefrag10419/</link>
+        <link>https://www.danlong360.com/post/smartdefrag10419/</link>
         <pubDate>Wed, 11 Sep 2024 23:00:48 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/smartdefrag10419/</guid>
+        <guid>https://www.danlong360.com/post/smartdefrag10419/</guid>
         <description>&lt;p&gt;IObit SmartDefrag Pro 中文版智能磁盘整理工具是一款免费且强大的碎片整理工具。采用业界先进的 ExpressDefrag 技术，碎片整理速度非常快，而且还能够对磁盘的文件系统同时进行优化。借助领先的静默整理技术，IObit SmartDefrag 在后台利用计算机的空闲时刻自动进行碎片整理，让你的硬盘一直保持较高的运行效率。IObit SmartDefrag Pro 中文版 绝对不带任何插件，对个人用户，家庭及小企业用户是完全免费的。拥有独特的“安装后自动运行”以及碎片智能诊断技术，无需任何设置和人为操作，就能够全自动运行。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/11/cX1fW7lIJrpT5EB.png&#34;
 	
@@ -1947,10 +1985,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>HWiNFO(专业系统信息检测工具) v8.11.5540 中文绿色版</title>
-        <link>http://localhost:1313/post/hwinfo5540/</link>
+        <link>https://www.danlong360.com/post/hwinfo5540/</link>
         <pubDate>Wed, 11 Sep 2024 16:01:07 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/hwinfo5540/</guid>
+        <guid>https://www.danlong360.com/post/hwinfo5540/</guid>
         <description>&lt;p&gt;HWiNFO 是一款功能强大、免费的硬件信息检测工具，它可以提供详细的系统和硬件信息，帮助用户更好地了解自己的电脑硬件配置。它支持 Windows 系统，包括 Windows 10、Windows 8/8.1、Windows 7、Windows Vista 和 Windows XP。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/11/WLnvwUp9sckZ8b1.png&#34;
 	
@@ -1989,10 +2027,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>UserBenchmark(系统测试跑分软件) v4.4.7.0 绿色版</title>
-        <link>http://localhost:1313/post/userbenchmark/</link>
+        <link>https://www.danlong360.com/post/userbenchmark/</link>
         <pubDate>Sat, 07 Sep 2024 21:03:33 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/userbenchmark/</guid>
+        <guid>https://www.danlong360.com/post/userbenchmark/</guid>
         <description>&lt;p&gt;UserBenchmark 是一款免费的计算机性能评估软件，帮助用户测试和比较各种硬件组件的性能。它可以测试 CPU、GPU、内存、存储以及其他硬件设备的性能，并生成详细的性能报告。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/07/JZqk2i3D1QaXzW4.png&#34;
 	
@@ -2024,10 +2062,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>Crystal Info &amp; Mark(硬盘检测工具) v1.0.7 多语便携版</title>
-        <link>http://localhost:1313/post/crystal107/</link>
+        <link>https://www.danlong360.com/post/crystal107/</link>
         <pubDate>Sat, 07 Sep 2024 20:40:55 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/crystal107/</guid>
+        <guid>https://www.danlong360.com/post/crystal107/</guid>
         <description>&lt;p&gt;Crystal Info &amp;amp; Mark 一套三个 Crystal Dew World 产品，用于测试 PC 组件。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/07/oRNWH59jvYJM6In.png&#34;
 	
@@ -2054,10 +2092,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>CrystalDiskInfo(硬盘监控工具) v9.4.4 / 9.5.0 Beta1 中文绿色版</title>
-        <link>http://localhost:1313/post/crystaldiskinfo944/</link>
+        <link>https://www.danlong360.com/post/crystaldiskinfo944/</link>
         <pubDate>Fri, 06 Sep 2024 08:54:45 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/crystaldiskinfo944/</guid>
+        <guid>https://www.danlong360.com/post/crystaldiskinfo944/</guid>
         <description>&lt;p&gt;CrystalDiskInfo 是一款免费的硬盘监控工具，可用于监测和显示硬盘驱动器的健康状况和性能指标。它提供了关于硬盘温度、健康状态、可用空间、传输速度等信息，帮助用户及时了解硬盘的运行情况，并采取相应措施保护数据安全。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/06/tJWAXRYxElQn9b2.png&#34;
 	
@@ -2083,10 +2121,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>Driver Talent Pro 8.1.11.54 (驱动人生海外版) 单文件</title>
-        <link>http://localhost:1313/post/drivertalentpro811154/</link>
+        <link>https://www.danlong360.com/post/drivertalentpro811154/</link>
         <pubDate>Thu, 22 Aug 2024 00:16:46 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/drivertalentpro811154/</guid>
+        <guid>https://www.danlong360.com/post/drivertalentpro811154/</guid>
         <description>&lt;p&gt;Driver Talent 中文破解版(驱动人生海外版)是一款专业的驱动更新软件,功能包括:驱动下载,驱动检测,驱动管理,外设驱动.相比驱动人生国内版功能实用,,纯净无广告捆绑恶意软件,作为更新管理驱动的是不错的选择.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/22/pCqx5Ab6nsYht7j.png&#34;
 	
@@ -2125,10 +2163,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>HWiNFO 8.10.5520 (硬件检测) 单文件</title>
-        <link>http://localhost:1313/post/hwinfo8105520/</link>
+        <link>https://www.danlong360.com/post/hwinfo8105520/</link>
         <pubDate>Thu, 22 Aug 2024 00:14:13 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/hwinfo8105520/</guid>
+        <guid>https://www.danlong360.com/post/hwinfo8105520/</guid>
         <description>&lt;p&gt;HWiNFO 是一个专业的系统信息检测工具，支持最新的技术和标准，可检查计算机硬件的所有信息。HWiNFO 主要可以显示出处理器、主板及芯片组、PCMCIA 接口、BIOS 版本、内存等信息，另外 HWiNFO 还提供了对处理器、内存、硬盘（WIN9X 里不可用）以及 CD-ROM 的性能测试功能。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/22/VLchy7HTjiaCfIl.png&#34;
 	
@@ -2158,10 +2196,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>WinToUSB 9.0.0 WinToHDD 6.5.0 (U盘引导盘制作) 绿色版</title>
-        <link>http://localhost:1313/post/wintousb900/</link>
+        <link>https://www.danlong360.com/post/wintousb900/</link>
         <pubDate>Thu, 22 Aug 2024 00:09:25 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/wintousb900/</guid>
+        <guid>https://www.danlong360.com/post/wintousb900/</guid>
         <description>&lt;p&gt;WinToUSB 破解版是一款 U 盘安装系统工具,可以轻松将 Windows/WinPE 操作系统 ISO/WIM/ESD/SWM 文件安装到 U 盘或者移动硬盘.这款 U 盘启动工具的 Windows To Go 转换功能能将当前的 Windows 操作系统复制到移动硬盘或 U 盘运行,支持创建基于 WinPE 的 U 盘启动盘,将 WinPE 启动镜像迁移到移动硬盘或 U 盘启动.&lt;/p&gt;
 &lt;p&gt;WinToHDD 破解版是一款本地硬盘安装系统工具,可以轻松全新安装,重装系统,克隆系统,无需通过 U 盘或移动硬盘.直接从 ISO,WIM,ESD 镜像文件选择要安装的操作系统,安装到其他硬盘分区,将系统克隆到另一个硬盘,无需重新安装系统软件,安装或克隆时使用 BitLocker 加密当前系统分区,实现与 GPT 和 UEFI 完全兼容.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/22/vJze1CT75NBFsuk.png&#34;
@@ -2194,10 +2232,10 @@ CPUZ、HWINFO、DDU、GPUZ 更新到最新版本。
         </item>
         <item>
         <title>GPU-Z 2.60.0 (显卡检测) 单文件</title>
-        <link>http://localhost:1313/post/gpuz2600/</link>
+        <link>https://www.danlong360.com/post/gpuz2600/</link>
         <pubDate>Wed, 21 Aug 2024 23:33:01 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/gpuz2600/</guid>
+        <guid>https://www.danlong360.com/post/gpuz2600/</guid>
         <description>&lt;p&gt;知名显卡识别软件 TechPowerUp GPU-Z 中文版是一款专业显卡检测工具的 GPU 测试软件,GPU-Z 最新版提供了关于 GPU 图形显卡和 CPU 处理器的硬件信息.GPU-Z 单执行文件,绿色便携免安装,界面直观,自带启动向导,运行后显示 GPU 核心及运行频率,传感器等参数信息,如同 CPU-Z 一样,这也是款必备的电脑硬件检测工具.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/21/ORhq2LbQyBm6u43.png&#34;
 	
@@ -2240,10 +2278,10 @@ gpuz 中文版,g-puz 中文版,GPU-Z 中文汉化版
         </item>
         <item>
         <title>图吧工具箱 2024.08 (硬件检测) 绿色版</title>
-        <link>http://localhost:1313/post/tubagongjuxiang/</link>
+        <link>https://www.danlong360.com/post/tubagongjuxiang/</link>
         <pubDate>Wed, 14 Aug 2024 13:25:55 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/tubagongjuxiang/</guid>
+        <guid>https://www.danlong360.com/post/tubagongjuxiang/</guid>
         <description>&lt;p&gt;图吧工具箱(全名图拉丁吧硬件检测工具箱)是个免费开源绿色纯净的硬件检测工具合集,专为所有计算机硬件极客,DIY 爱好者，各路大神及小白制作,这款免费硬件工具箱集成大量常见硬件检测和测试工具及评分工具.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/bhimNUP.png&#34;
 	
@@ -2285,10 +2323,10 @@ gpuz 中文版,g-puz 中文版,GPU-Z 中文汉化版
         </item>
         <item>
         <title>Driver Talent Pro 8.1.11.52 (驱动人生海外版) 单文件</title>
-        <link>http://localhost:1313/post/drivertalentpro/</link>
+        <link>https://www.danlong360.com/post/drivertalentpro/</link>
         <pubDate>Wed, 14 Aug 2024 13:24:55 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/drivertalentpro/</guid>
+        <guid>https://www.danlong360.com/post/drivertalentpro/</guid>
         <description>&lt;p&gt;Driver Talent 中文破解版(驱动人生海外版)是一款专业的驱动更新软件,功能包括:驱动下载,驱动检测,驱动管理,外设驱动.相比驱动人生国内版功能实用,,纯净无广告捆绑恶意软件,作为更新管理驱动的是不错的选择.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/g5JQ0XU.png&#34;
 	
@@ -2323,10 +2361,10 @@ gpuz 中文版,g-puz 中文版,GPU-Z 中文汉化版
         </item>
         <item>
         <title>HDTune Pro 6.0 (硬盘检测）单文件</title>
-        <link>http://localhost:1313/post/hdtunepro/</link>
+        <link>https://www.danlong360.com/post/hdtunepro/</link>
         <pubDate>Wed, 14 Aug 2024 13:23:54 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/hdtunepro/</guid>
+        <guid>https://www.danlong360.com/post/hdtunepro/</guid>
         <description>&lt;p&gt;HD Tune 是一款硬盘检测工具，对于电脑上乱七八糟一大堆的人来说，使用 HDTune 可以检测硬盘的健康度、传输速率、温度等等，HDTune 非常小巧，界面直观简单，大家闲着没事的时候可以试一试。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/fkcA4cv.png&#34;
 	
@@ -2363,10 +2401,10 @@ gpuz 中文版,g-puz 中文版,GPU-Z 中文汉化版
         </item>
         <item>
         <title>360驱动大师 2.0.0.2040 (内置万能网卡驱动) 单文件</title>
-        <link>http://localhost:1313/post/360qudongdashi/</link>
+        <link>https://www.danlong360.com/post/360qudongdashi/</link>
         <pubDate>Wed, 14 Aug 2024 13:22:52 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/360qudongdashi/</guid>
+        <guid>https://www.danlong360.com/post/360qudongdashi/</guid>
         <description>&lt;p&gt;360 驱动大师最新版是一款驱动安装更新软件,拥有百万级的驱动库,驱动安装和升级一键化,无需手动操作;首创驱动体检技术,驱动精确识别匹配;支持无人值守安装驱动,启动参数-q;首创一键智能识别假显卡,假硬件.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/QSYOZNV.png&#34;
 	
@@ -2406,10 +2444,10 @@ gpuz 中文版,g-puz 中文版,GPU-Z 中文汉化版
         </item>
         <item>
         <title>Display Driver Uninstaller 18.0.7.9 (显卡驱动卸载) 绿色版</title>
-        <link>http://localhost:1313/post/displaydriveruninstaller/</link>
+        <link>https://www.danlong360.com/post/displaydriveruninstaller/</link>
         <pubDate>Wed, 14 Aug 2024 13:21:47 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/displaydriveruninstaller/</guid>
+        <guid>https://www.danlong360.com/post/displaydriveruninstaller/</guid>
         <description>&lt;p&gt;Display Driver Uninstaller（显卡驱动程序卸载工具，简称：DDU），是一款显卡驱动程序删除工具，可以帮助您从系统中彻底卸载 AMD/NVIDIA/INTEL 显卡驱动程序、程序包和剩余项（包括注册表项、文件夹和文件、驱动程序存储等）。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Jz0fgre.png&#34;
 	
@@ -2447,10 +2485,10 @@ AMD：仅在移除 AMD GPU 驱动程序时尝试移除 AMDKMPFD。
         </item>
         <item>
         <title>IsMyHdOK 3.99 (硬盘基准测试工具) 单文件</title>
-        <link>http://localhost:1313/post/ismyhdok/</link>
+        <link>https://www.danlong360.com/post/ismyhdok/</link>
         <pubDate>Wed, 14 Aug 2024 13:20:45 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/ismyhdok/</guid>
+        <guid>https://www.danlong360.com/post/ismyhdok/</guid>
         <description>&lt;p&gt;IsMyHdOK 中文版(硬盘测试软件)是一款硬盘基准测试工具,用于检测 SSD 及 HDD 的读取和写入速度,混合持续读写,持续传输率, 随机 4K 随机测试等指标.可以通过菜单在 IsMyHdOK 查看硬盘型号跑分和详情测试结果&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/KKuQuud.png&#34;
 	
@@ -2486,10 +2524,10 @@ AMD：仅在移除 AMD GPU 驱动程序时尝试移除 AMDKMPFD。
         </item>
         <item>
         <title>HWiNFO 8.6.5500 (硬件检测) 单文件</title>
-        <link>http://localhost:1313/post/hwinfo/</link>
+        <link>https://www.danlong360.com/post/hwinfo/</link>
         <pubDate>Wed, 14 Aug 2024 13:19:41 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/hwinfo/</guid>
+        <guid>https://www.danlong360.com/post/hwinfo/</guid>
         <description>&lt;p&gt;HWiNFO 是一个专业的系统信息检测工具，支持最新的技术和标准，可检查计算机硬件的所有信息。HWiNFO 主要可以显示出处理器、主板及芯片组、PCMCIA 接口、BIOS 版本、内存等信息，另外 HWiNFO 还提供了对处理器、内存、硬盘（WIN9X 里不可用）以及 CD-ROM 的性能测试功能。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/a4ecJCe.png&#34;
 	
@@ -2519,10 +2557,10 @@ AMD：仅在移除 AMD GPU 驱动程序时尝试移除 AMDKMPFD。
         </item>
         <item>
         <title>AIDA64 Extreme 7.35 (硬件检测) 绿色版&#43;单文件</title>
-        <link>http://localhost:1313/post/aida64extreme/</link>
+        <link>https://www.danlong360.com/post/aida64extreme/</link>
         <pubDate>Wed, 14 Aug 2024 13:18:39 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/aida64extreme/</guid>
+        <guid>https://www.danlong360.com/post/aida64extreme/</guid>
         <description>&lt;p&gt;全球 No.1 的硬件识别,诊断神器 AIDA64 v7.00 2023 年冬季正式版发布!AIDA64 中文版是一款硬件检测工具及基准测试软件(烤机软件),相对硬件玩家来说,AIDA64 电脑版是设备识别性能检测不二之选,权威性遥遥领先.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/dwzBLRb.png&#34;
 	
@@ -2564,10 +2602,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>IObit Driver Booster 11.6.0.128 (驱动更新) 绿色版</title>
-        <link>http://localhost:1313/post/iobitdriverbooster1160128/</link>
+        <link>https://www.danlong360.com/post/iobitdriverbooster1160128/</link>
         <pubDate>Wed, 14 Aug 2024 13:17:28 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/iobitdriverbooster1160128/</guid>
+        <guid>https://www.danlong360.com/post/iobitdriverbooster1160128/</guid>
         <description>&lt;p&gt;IObit Driver Booster 中文版是一款专业的驱动更新软件.驱动管理工具检测硬件驱动更新,驱动备份管理,离线驱动更新,检测游戏组件,修复设备错误,无声问题,网络问题.提供游戏加速,系统优化,系统信息检测等功能.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/6VS74a8.png&#34;
 	
@@ -2604,10 +2642,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>CPU-Z 2.10.0 (CPU检测工具) 单文件</title>
-        <link>http://localhost:1313/post/cpuz2100/</link>
+        <link>https://www.danlong360.com/post/cpuz2100/</link>
         <pubDate>Wed, 14 Aug 2024 13:16:20 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/cpuz2100/</guid>
+        <guid>https://www.danlong360.com/post/cpuz2100/</guid>
         <description>&lt;p&gt;CPU-Z 中文版是一款权威的 CPU 处理器检测工具.CPU-Z 最新版 CPU 检测工具支持 CPU 种类相当全面,软件的启动速度及检测速度也很快,能够准确的检测出 CPU,主板,内存,显卡,SPD 等相关信息,包含制造厂及处理器名称,核心构造及封装技术,内部外部频率,最大超频速度侦测,处理器相关可以使用的指令集等.它可以看出哪家厂牌,内频,Cache 等玩家常提到的数据,包括 SelfSnoop,CMOVccInstruction 这些专家才能看得懂的资讯与数据.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/wvnnGD2.png&#34;
 	
@@ -2636,10 +2674,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>万能驱动VIP版 EasyDrv 8.1.2404 官方版</title>
-        <link>http://localhost:1313/post/easydrv812404/</link>
+        <link>https://www.danlong360.com/post/easydrv812404/</link>
         <pubDate>Wed, 14 Aug 2024 13:14:58 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/easydrv812404/</guid>
+        <guid>https://www.danlong360.com/post/easydrv812404/</guid>
         <description>&lt;p&gt;万能驱动 VIP 版(简称 EasyDrv)是 IT 天空出品的一款智能识别电脑硬件并自动安装驱动的驱动安装工具.它拥有简约友好的用户界面,驱动覆盖面广泛,智能精确识别硬件设备,万能驱动搭载了 IT 天空团队精心整理制作的离线驱动包.这是到目前为止,针对当前主流硬件设备收集和整理得最为全面的驱动集合,支持市面上绝大多数主流硬件,兼容以往多数旧硬件.驱动包经过合理的整合与压缩工作,以尽可能小的体积支持尽可能多的硬件设备.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/vmw2swC.png&#34;
 	
@@ -2699,10 +2737,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>BurnAware Professional 17.9 (光盘刻录) 单文件</title>
-        <link>http://localhost:1313/post/burnaware/</link>
+        <link>https://www.danlong360.com/post/burnaware/</link>
         <pubDate>Wed, 14 Aug 2024 13:13:43 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/burnaware/</guid>
+        <guid>https://www.danlong360.com/post/burnaware/</guid>
         <description>&lt;p&gt;BurnAware 中文破解版是一款光盘刻录软件,这款光盘刻录工具箱包含:复制光盘数据,擦除光盘内容,数据恢复工具,多份刻录等功能.支持所有规格的光盘存储类型,数据光盘,启动光盘,影音光盘(音频 CD/MP3 光盘/DVD 视频/BDMV/AVCHD/音频采集卡),光盘映像(ISO 刻录复制/创建 ISO 映像/可启动 ISO 映像),混合光盘等.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/4nbJlpV.png&#34;
 	
@@ -2731,10 +2769,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>WinToUSB 8.9.0 WinToHDD 6.5.0 (U盘引导盘制作) 绿色版</title>
-        <link>http://localhost:1313/post/wintousb/</link>
+        <link>https://www.danlong360.com/post/wintousb/</link>
         <pubDate>Wed, 14 Aug 2024 13:12:34 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/wintousb/</guid>
+        <guid>https://www.danlong360.com/post/wintousb/</guid>
         <description>&lt;p&gt;WinToUSB 破解版是一款 U 盘安装系统工具,可以轻松将 Windows/WinPE 操作系统 ISO/WIM/ESD/SWM 文件安装到 U 盘或者移动硬盘.这款 U 盘启动工具的 Windows To Go 转换功能能将当前的 Windows 操作系统复制到移动硬盘或 U 盘运行,支持创建基于 WinPE 的 U 盘启动盘,将 WinPE 启动镜像迁移到移动硬盘或 U 盘启动.&lt;/p&gt;
 &lt;p&gt;WinToHDD 破解版是一款本地硬盘安装系统工具,可以轻松全新安装,重装系统,克隆系统,无需通过 U 盘或移动硬盘.直接从 ISO,WIM,ESD 镜像文件选择要安装的操作系统,安装到其他硬盘分区,将系统克隆到另一个硬盘,无需重新安装系统软件,安装或克隆时使用 BitLocker 加密当前系统分区,实现与 GPT 和 UEFI 完全兼容.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/pGOqQBn.png&#34;
@@ -2765,10 +2803,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>CrystalDiskInfo 9.3.2 (硬盘检测) 绿色版&#43;单文件</title>
-        <link>http://localhost:1313/post/crystaldiskinfo/</link>
+        <link>https://www.danlong360.com/post/crystaldiskinfo/</link>
         <pubDate>Wed, 14 Aug 2024 13:11:40 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/crystaldiskinfo/</guid>
+        <guid>https://www.danlong360.com/post/crystaldiskinfo/</guid>
         <description>&lt;p&gt;CrystalDiskInfo 中文版是一款硬盘检测工具的硬盘健康状态硬盘信息检测软件.检测机械硬盘及固态硬盘信息,采用 S.M.A.R.T.技术检测分析读取磁盘的详细信息,包含硬盘温度,固件,序列号,驱动器接口等.CrystalDiskInf 绿色版是由日本人@hiyohiyo 个人开发的一款小工具,能全面详细直观的检查硬盘的健康状态及各种参数.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/As5XKn8.png&#34;
 	
@@ -2793,10 +2831,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>Speccy 1.33.079.0 (硬件检测) 绿色版</title>
-        <link>http://localhost:1313/post/speccy/</link>
+        <link>https://www.danlong360.com/post/speccy/</link>
         <pubDate>Wed, 14 Aug 2024 13:10:43 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/speccy/</guid>
+        <guid>https://www.danlong360.com/post/speccy/</guid>
         <description>&lt;p&gt;Speccy 中文版是一款硬件信息查看工具,Speccy 官方最新版可以查看计算机的软硬件详细信息,比如:操作系统,CPU,主板,内存,显卡,硬盘,光驱,网络等.Speccy 硬件检测软件可实时监控其使用情况,温度及驱动更新等信息.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/n7sbC6O.png&#34;
 	
@@ -2825,10 +2863,10 @@ Extreme(至尊版), Business(工程版), Engineer(商业版), Network Audit(网�
         </item>
         <item>
         <title>LightBulb 2.5.3 (屏幕亮度色温调节) 绿色版</title>
-        <link>http://localhost:1313/post/lightbulb/</link>
+        <link>https://www.danlong360.com/post/lightbulb/</link>
         <pubDate>Wed, 14 Aug 2024 13:09:39 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/lightbulb/</guid>
+        <guid>https://www.danlong360.com/post/lightbulb/</guid>
         <description>&lt;p&gt;LightBulb 是一款电脑屏幕色温调节软件，在 github 上开源，与知名的 f.lux 是同一类软件，可以调节电脑显示器屏幕的色温，通过调节，可以过滤蓝光，减少屏幕的蓝光输出，达到护眼效果，此外，还可以根据时间自动调节显示器屏幕颜色，让屏幕始终处于护眼状态，适合长时间用电脑的用户使用。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/3Gf9Cg6.png&#34;
 	
@@ -2862,10 +2900,10 @@ Produce self-contained builds of the app by @Tyrrrz in #292&lt;/p&gt;
         </item>
         <item>
         <title>Ventoy 1.0.99 (U盘启动神器) 单文件</title>
-        <link>http://localhost:1313/post/ventoy/</link>
+        <link>https://www.danlong360.com/post/ventoy/</link>
         <pubDate>Wed, 14 Aug 2024 13:07:56 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/ventoy/</guid>
+        <guid>https://www.danlong360.com/post/ventoy/</guid>
         <description>&lt;p&gt;Ventoy 中文版是一款新一代多系统启动 U 盘解决方案.国产开源 U 盘启动制作工具,支持 Legacy BIOS 和 UEFI 模式,理论上几乎支持任何 ISO 镜像文件,支持加载多个不同类型的 ISO 文件启动,无需反复地格式化 U 盘,插入 U 盘安装写入就能制作成可引导的 USB 启动盘,然后把 ISO 系统文件拷贝到 U 盘里就能启动,无需其它操作.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/K99pwSA.png&#34;
 	
@@ -2922,10 +2960,10 @@ ISO 文件支持列表模式或目录树模式显示 说明
         </item>
         <item>
         <title>3DMark 2.29.8256 (显卡跑分) 破解版</title>
-        <link>http://localhost:1313/post/3dmark/</link>
+        <link>https://www.danlong360.com/post/3dmark/</link>
         <pubDate>Wed, 14 Aug 2024 13:06:56 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/3dmark/</guid>
+        <guid>https://www.danlong360.com/post/3dmark/</guid>
         <description>&lt;p&gt;FurMark 3DMark 中文版(显卡测试软件)是一款全球最受欢迎的权威显卡性能测试软件,这款显卡烤鸡软件现已迭代为测试整机综合性能的专业硬件检测工具.第二代 3DMark 专业版在原有显卡基准测试功能上进行了优化,提供了用于衡量电脑硬件 DirectX 11,12 接口的基准测试和光追性能测试等多项测试模块和显卡压力测试功能,通过实时渲染高负载的游戏模拟场景动画,检测显卡散热能力,测试 GPU 和 CPU 的性能和综合跑分结果.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/kIqQCDQ.png&#34;
 	
@@ -2974,10 +3012,10 @@ Wild Life 移动：需要 GPU 支持 Vulkan 1.1&lt;/p&gt;
         </item>
         <item>
         <title>Rufus 4.5.2180 (U盘引导盘制作) 单文件</title>
-        <link>http://localhost:1313/post/rufus/</link>
+        <link>https://www.danlong360.com/post/rufus/</link>
         <pubDate>Wed, 14 Aug 2024 13:05:58 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/rufus/</guid>
+        <guid>https://www.danlong360.com/post/rufus/</guid>
         <description>&lt;p&gt;Rufus 中文版是一款小巧实用免费开源的 U 盘引导盘制作工具及 U 盘启动工具,它可以快速的将 ISO 镜像文件制作成可引导启动的 USB 启动盘,支持 Windows/Linux 系统启动,堪称写入镜像速度最快的 U 盘启动制作工具.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/nNbAYaf.png&#34;
 	
@@ -3026,10 +3064,10 @@ Rufus v1.10 及之后的所有版本都支持从 ISO 镜像 (.iso) 创建可引�
         </item>
         <item>
         <title>FurMark 2.3.0 (显卡烤机) 绿色版</title>
-        <link>http://localhost:1313/post/furmark/</link>
+        <link>https://www.danlong360.com/post/furmark/</link>
         <pubDate>Wed, 14 Aug 2024 13:05:02 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/furmark/</guid>
+        <guid>https://www.danlong360.com/post/furmark/</guid>
         <description>&lt;p&gt;Geeks3D FurMark(烤机软件)是一款 GPU 压力测试工具及 OpenGL 基准测试工具的显卡测试软件,支持单卡/多卡烤机模式,可以测试 NVIDIA GeForce/AMD Radeon/Intel HD Graphics 显卡 GPU 性能,包括实时运行:帧,频率,功率,温度,通过高强度渲染算法测试 GPU 负载运行频率和温度数据,从而衡量显卡性能和稳定性&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/HICngxl.png&#34;
 	
@@ -3060,10 +3098,10 @@ Rufus v1.10 及之后的所有版本都支持从 ISO 镜像 (.iso) 创建可引�
         </item>
         <item>
         <title>GPU-Z 2.59.0 (显卡检测) 单文件</title>
-        <link>http://localhost:1313/post/gpuz/</link>
+        <link>https://www.danlong360.com/post/gpuz/</link>
         <pubDate>Wed, 14 Aug 2024 13:04:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/gpuz/</guid>
+        <guid>https://www.danlong360.com/post/gpuz/</guid>
         <description>&lt;p&gt;知名显卡识别软件 TechPowerUp GPU-Z 中文版是一款专业显卡检测工具的 GPU 测试软件,GPU-Z 最新版提供了关于 GPU 图形显卡和 CPU 处理器的硬件信息.GPU-Z 单执行文件,绿色便携免安装,界面直观,自带启动向导,运行后显示 GPU 核心及运行频率,传感器等参数信息,如同 CPU-Z 一样,这也是款必备的电脑硬件检测工具.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/yBjvBD9.png&#34;
 	
@@ -3099,10 +3137,10 @@ gpuz 中文版,g-puz 中文版,GPU-Z 中文汉化版
         </item>
         <item>
         <title>CrystalDiskMark 8.0.5 (硬盘检测) 单文件</title>
-        <link>http://localhost:1313/post/crystaldiskmark/</link>
+        <link>https://www.danlong360.com/post/crystaldiskmark/</link>
         <pubDate>Wed, 14 Aug 2024 13:02:56 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/crystaldiskmark/</guid>
+        <guid>https://www.danlong360.com/post/crystaldiskmark/</guid>
         <description>&lt;p&gt;CrystalDiskMark 中文版(硬盘检测工具)是一款专业硬盘跑分测试工具.它是由日本人 hiyohiyo 开发的硬盘基准测试软件,用于检测机械硬盘及固态硬盘的读取和写入速度,混合随机读写,持续传输率,随机 4K 性能测试.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ImL2Gwh.png&#34;
 	
@@ -3137,10 +3175,10 @@ gpuz 中文版,g-puz 中文版,GPU-Z 中文汉化版
         </item>
         <item>
         <title>万能驱动VIP版 EasyDrv 7.23.925.3 官方版</title>
-        <link>http://localhost:1313/post/easydrv7239253/</link>
+        <link>https://www.danlong360.com/post/easydrv7239253/</link>
         <pubDate>Wed, 14 Aug 2024 13:01:52 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/easydrv7239253/</guid>
+        <guid>https://www.danlong360.com/post/easydrv7239253/</guid>
         <description>&lt;p&gt;万能驱动 VIP 版(简称 EasyDrv)是 IT 天空出品的一款智能识别电脑硬件并自动安装驱动的驱动安装工具.它拥有简约友好的用户界面,驱动覆盖面广泛,智能精确识别硬件设备,万能驱动搭载了 IT 天空团队精心整理制作的离线驱动包.这是到目前为止,针对当前主流硬件设备收集和整理得最为全面的驱动集合,支持市面上绝大多数主流硬件,兼容以往多数旧硬件.驱动包经过合理的整合与压缩工作,以尽可能小的体积支持尽可能多的硬件设备.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/al9EByw.png&#34;
 	
@@ -3200,10 +3238,10 @@ gpuz 中文版,g-puz 中文版,GPU-Z 中文汉化版
         </item>
         <item>
         <title>OCCT 11.0.21 (烤机软件) 绿色版</title>
-        <link>http://localhost:1313/post/occt/</link>
+        <link>https://www.danlong360.com/post/occt/</link>
         <pubDate>Wed, 14 Aug 2024 13:00:43 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/occt/</guid>
+        <guid>https://www.danlong360.com/post/occt/</guid>
         <description>&lt;p&gt;OCCT 中文版(OverClock Checking Tool)是一款电脑稳定性及基准测试软件(烤鸡软件)的硬件测试软件.电源测试软件功能包括:硬件基准测试,温度监控,GPU 测试,CPU 频率测试,CPU 性能测试,CPU 显存测试,电源电压功耗测试.OCCT 最新版具备类似 Furmark 超强压榨 GPU 的能力,支持生成结果图表,生成 CSV 数据文件及外部监控程序数据导入.它可以使 CPU,显卡,电源等满负荷运行,同时监测电源各电压输出的波动,并以曲线图的方式输出电压波动图表,以便于诊断并图表查看计算机在高负载下的反应,可以判断被电源检测工具的大概品质.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/00qwbxZ.png&#34;
 	
@@ -3227,10 +3265,10 @@ gpuz 中文版,g-puz 中文版,GPU-Z 中文汉化版
         </item>
         <item>
         <title>PCMark 2.1.2574 (性能跑分) 破解版</title>
-        <link>http://localhost:1313/post/pcmark/</link>
+        <link>https://www.danlong360.com/post/pcmark/</link>
         <pubDate>Wed, 14 Aug 2024 12:59:40 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/pcmark/</guid>
+        <guid>https://www.danlong360.com/post/pcmark/</guid>
         <description>&lt;p&gt;FurMark PCMark 中文版(基准测试软件)是一款专业的计算机处理器性能评估的权威软件之一的硬件检测工具,这款电脑性能测试跑分软件具备全面的基准测试软件能力.PCMark 专业版主要用于评估整机综合性能(基准测试包括:处理器性能测试,图形性能测试,硬盘性能测试),应用程序测试,电池寿命测试,存储基准测试,PCMark10 专业版加入了续航测试和存储测试,能针对某个硬件进行深度完整测试,测试结果以综合性能数据呈现.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/SPUaJz6.png&#34;
 	
@@ -3260,10 +3298,10 @@ gpuz 中文版,g-puz 中文版,GPU-Z 中文汉化版
         </item>
         <item>
         <title>驱动精灵2022 9.70.0.104 (内置万能网卡驱动) 单文件</title>
-        <link>http://localhost:1313/post/qudongjingling2022/</link>
+        <link>https://www.danlong360.com/post/qudongjingling2022/</link>
         <pubDate>Wed, 14 Aug 2024 12:58:31 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/qudongjingling2022/</guid>
+        <guid>https://www.danlong360.com/post/qudongjingling2022/</guid>
         <description>&lt;p&gt;驱动精灵，驱动研究专注不怠，只为解决驱动问题！驱动精灵是集驱动管理和硬件检测于一体、专业级的驱动管理和维护工具。提供驱动备份、恢复、安装、删除、在线更新等实用功能。驱动精灵秉承驱动之家十余年积累，硬件驱动支持率高达 98%，已经为数亿用户解决了各种电脑驱动问题、系统故障，是目前最有效的驱动软件。驱动精灵采用多重算法保证驱动精确匹配，双重下载引擎，全网 CDN 文件加速，下载超快。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/848Vwwd.png&#34;
 	

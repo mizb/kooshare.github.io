@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="zh-cn" dir="ltr">
-	<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8" />
+	<head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="在 layouts/partials/footer/custom.html 里添加以下 JS 代码，其中 s1 是网站创建日期。代码参考自这里 ，加上了小时和分钟的计算。\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 &lt;!-- Add blog running time --&gt; &lt;script&gt; let s1 = &#39;2023-3-18&#39;; //website start date s1 = new Date(s1.replace(/-/g, &#34;/&#34;)); let s2 = new Date(); let timeDifference = s2.getTime() - s1.getTime(); let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24)); let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60)); let result = days + &#34;天&#34; + hours + &#34;小时&#34; + minutes + &#34;分钟&#34;; document.getElementById(&#39;runningdays&#39;).innerHTML = result; &lt;/script&gt; 再在 layouts/partials/footer/footer.html 里添加以下代码：\n"> <title>Hugo页面底栏添加“网站运行时长”stack主题</title>
 
-<link rel="canonical" href="http://localhost:1313/post/wangzhanyunxingshichang/" />  <link rel="stylesheet" href="/scss/style.min.f64c625c251f23e1a0ba7b106e4b729477ac4af61ade03fb25c749edb86be194.css" />
+<link rel="canonical" href="https://www.danlong360.com/post/wangzhanyunxingshichang/" />  <link rel="stylesheet" href="/scss/style.min.f64c625c251f23e1a0ba7b106e4b729477ac4af61ade03fb25c749edb86be194.css" />
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
      crossorigin="anonymous">
 </script><meta property='og:title' content="Hugo页面底栏添加“网站运行时长”stack主题">
 <meta property='og:description' content="在 layouts/partials/footer/custom.html 里添加以下 JS 代码，其中 s1 是网站创建日期。代码参考自这里 ，加上了小时和分钟的计算。\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 &lt;!-- Add blog running time --&gt; &lt;script&gt; let s1 = &#39;2023-3-18&#39;; //website start date s1 = new Date(s1.replace(/-/g, &#34;/&#34;)); let s2 = new Date(); let timeDifference = s2.getTime() - s1.getTime(); let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24)); let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60)); let result = days + &#34;天&#34; + hours + &#34;小时&#34; + minutes + &#34;分钟&#34;; document.getElementById(&#39;runningdays&#39;).innerHTML = result; &lt;/script&gt; 再在 layouts/partials/footer/footer.html 里添加以下代码：\n">
-<meta property='og:url' content='http://localhost:1313/post/wangzhanyunxingshichang/'>
+<meta property='og:url' content='https://www.danlong360.com/post/wangzhanyunxingshichang/'>
 <meta property='og:site_name' content='KUL藏宝库'>
 <meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-08-22T11:19:23&#43;08:00'/><meta property='article:modified_time' content='2024-08-22T11:19:23&#43;08:00'/>
 <meta name="twitter:title" content="Hugo页面底栏添加“网站运行时长”stack主题">
