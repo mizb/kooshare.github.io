@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>虚拟机 on KUL藏宝库</title>
-        <link>https://www.danlong360.com/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/</link>
+        <link>http://localhost:1313/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/</link>
         <description>Recent content in 虚拟机 on KUL藏宝库</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 20 Oct 2024 21:35:01 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 20 Oct 2024 21:35:01 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>雷电模拟器 v9.1.28.0 去广告绿色纯净版</title>
-        <link>https://www.danlong360.com/post/850/</link>
+        <link>http://localhost:1313/post/850/</link>
         <pubDate>Sun, 20 Oct 2024 21:35:01 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/850/</guid>
+        <guid>http://localhost:1313/post/850/</guid>
         <description>&lt;p&gt;雷电模拟器 9.0 最新版采用 Android 9 版本内核.雷电安卓模拟器最新版,支持 OpenGL3.1 模式 3D 渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
 &lt;p&gt;雷电模拟器 5.0 稳定版采用 Android 7.1.2 版内核.雷电安卓模拟器 5.0 版,支持 OpenGL3.1 模式 3D 渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/20/tK28jRgPZrwUmlL.webp&#34;
@@ -65,10 +65,10 @@
         </item>
         <item>
         <title>沙盘SandBoxie Classic_v5.70.0 / Plus 1.15.0</title>
-        <link>https://www.danlong360.com/post/9615/</link>
+        <link>http://localhost:1313/post/9615/</link>
         <pubDate>Sun, 20 Oct 2024 19:00:17 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/9615/</guid>
+        <guid>http://localhost:1313/post/9615/</guid>
         <description>&lt;p&gt;沙盘 Sandboxie 中文版是一款知名的系统安全工具的菜鸟高手裸奔工具,它可以让选定程序在安全的隔离系统环境下运行,只要在此环境中运行的软件,浏览器或注册表信息等都可以完整的进行清空,不留一点痕迹.同时可以防御些带有木马或者病毒的恶意网站,对于经常测试软件或者不放心的软件,可放心在沙盘里面运行.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/20/WDsvRzeKTodtSq4.png&#34;
 	
@@ -96,10 +96,10 @@ Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
         </item>
         <item>
         <title>雷电模拟器9 v9.0.79.0 去广告绿色纯净版</title>
-        <link>https://www.danlong360.com/post/4168/</link>
+        <link>http://localhost:1313/post/4168/</link>
         <pubDate>Wed, 16 Oct 2024 20:50:46 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/4168/</guid>
+        <guid>http://localhost:1313/post/4168/</guid>
         <description>&lt;p&gt;雷电模拟器 9 是一款可以让手机应用及游戏在电脑上运行的软件，采用虚拟安卓手机操作界面，玩家可以通过雷电模拟器在电脑上玩手机游戏。在电脑上模拟安卓手机系统，实现安卓应用的安装、使用、卸载。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/16/3WJyAwHZ1uchoFi.png&#34;
 	
@@ -150,10 +150,10 @@ Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
         </item>
         <item>
         <title>VirtualBox(虚拟机软件) v7.1.4 Build 165100 多语便携版</title>
-        <link>https://www.danlong360.com/post/4262/</link>
+        <link>http://localhost:1313/post/4262/</link>
         <pubDate>Wed, 16 Oct 2024 19:49:47 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/4262/</guid>
+        <guid>http://localhost:1313/post/4262/</guid>
         <description>&lt;p&gt;VirtualBox 是由 Oracle 公司开发的一款虚拟化软件。它可以在一台物理计算机上构建多个虚拟计算机，每个虚拟计算机都可以运行独立的操作系统。VirtualBox 支持在 Windows、macOS、Linux 和 Solaris 等操作系统上进行安装和运行。它被广泛用于开发和测试环境中，同时也可以用于运行旧版操作系统、软件模拟和学习等需求。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/16/qnrHoXgLV9faKCW.png&#34;
 	
@@ -190,10 +190,10 @@ Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
         </item>
         <item>
         <title>VirtualBox(轻量级虚拟机软件) v7.1.4 Build 165100</title>
-        <link>https://www.danlong360.com/post/4609/</link>
+        <link>http://localhost:1313/post/4609/</link>
         <pubDate>Wed, 16 Oct 2024 10:11:54 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/4609/</guid>
+        <guid>http://localhost:1313/post/4609/</guid>
         <description>&lt;p&gt;VirtualBox 是由 Oracle 公司开发的一款开源的虚拟机软件，可以在一台物理机上运行多个虚拟的操作系统。用户可以在 VirtualBox 中安装不同的操作系统，如 Windows、Linux、MacOS 等，来进行软件开发、测试、教学等工作。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/16/Md5foLQOe3hnyxg.png&#34;
 	
@@ -226,10 +226,10 @@ Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
         </item>
         <item>
         <title>VMware Workstation虚拟机 v17.6.1 中文精简版</title>
-        <link>https://www.danlong360.com/post/6270/</link>
+        <link>http://localhost:1313/post/6270/</link>
         <pubDate>Fri, 11 Oct 2024 12:18:26 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/6270/</guid>
+        <guid>http://localhost:1313/post/6270/</guid>
         <description>&lt;p&gt;VMware Workstation 中文版是一款功能强大的 VMware 虚拟机软件.最新 VMware 精简版集成许可密钥免激活,最大特色是已解锁支持安装 MAC OS X 客户操作系统,添加了微软 MSDM,DELL SLIC 的 BLOS 支持,号称世界史上第一位解决,VMwar 中文注册精简版相比原版体积小,功能实用性较强,安装方便深受部分用户喜爱.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/bEUakzlygiAJORm.png&#34;
 	
@@ -285,10 +285,10 @@ VM10：Windows XP 或更高版 32 位和 64 位旧版
         </item>
         <item>
         <title>VMware Workstation(VMware虚拟机) Pro v17.6.1.24319023</title>
-        <link>https://www.danlong360.com/post/407/</link>
+        <link>http://localhost:1313/post/407/</link>
         <pubDate>Thu, 10 Oct 2024 19:07:36 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/407/</guid>
+        <guid>http://localhost:1313/post/407/</guid>
         <description>&lt;p&gt;VMware Workstation（中文名“威睿工作站”）是一款功能强大的桌面虚拟计算机软件，提供用户可在单一的桌面上同时运行不同的操作系统，和进行开发、测试 、部署新的应用程序的最佳解决方案。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/ws3GpuJIkicjYaQ.png&#34;
 	
@@ -320,10 +320,10 @@ VM10：Windows XP 或更高版 32 位和 64 位旧版
         </item>
         <item>
         <title>VMware Workstation Player(虚拟机平台) v17.6.1.24319023</title>
-        <link>https://www.danlong360.com/post/5545/</link>
+        <link>http://localhost:1313/post/5545/</link>
         <pubDate>Thu, 10 Oct 2024 19:06:03 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/5545/</guid>
+        <guid>http://localhost:1313/post/5545/</guid>
         <description>&lt;p&gt;VMware Workstation Player 是一款虚拟化软件，旨在为用户提供创建和运行虚拟机的平台。它可以在一台物理机上同时运行多个虚拟机，每个虚拟机都可以运行不同的操作系统。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/g9TKIGUJXL4nOf3.png&#34;
 	
@@ -353,10 +353,10 @@ VM10：Windows XP 或更高版 32 位和 64 位旧版
         </item>
         <item>
         <title>沙盘SandBoxie Classic_v5.69.10 / Plus 1.14.10</title>
-        <link>https://www.danlong360.com/post/138/</link>
+        <link>http://localhost:1313/post/138/</link>
         <pubDate>Fri, 04 Oct 2024 22:21:56 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/138/</guid>
+        <guid>http://localhost:1313/post/138/</guid>
         <description>&lt;p&gt;沙盘 Sandboxie 中文版是一款知名的系统安全工具的菜鸟高手裸奔工具,它可以让选定程序在安全的隔离系统环境下运行,只要在此环境中运行的软件,浏览器或注册表信息等都可以完整的进行清空,不留一点痕迹.同时可以防御些带有木马或者病毒的恶意网站,对于经常测试软件或者不放心的软件,可放心在沙盘里面运行.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/04/eqULPGOf4MsIBRh.png&#34;
 	
@@ -384,10 +384,10 @@ Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
         </item>
         <item>
         <title>VirtualBox(虚拟机软件) v7.1.2 Build 164945 多语便携版</title>
-        <link>https://www.danlong360.com/post/3804/</link>
+        <link>http://localhost:1313/post/3804/</link>
         <pubDate>Mon, 30 Sep 2024 23:30:22 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/3804/</guid>
+        <guid>http://localhost:1313/post/3804/</guid>
         <description>&lt;p&gt;VirtualBox 是由 Oracle 公司开发的一款虚拟化软件。它可以在一台物理计算机上构建多个虚拟计算机，每个虚拟计算机都可以运行独立的操作系统。VirtualBox 支持在 Windows、macOS、Linux 和 Solaris 等操作系统上进行安装和运行。它被广泛用于开发和测试环境中，同时也可以用于运行旧版操作系统、软件模拟和学习等需求。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/30/7rpRy8iwGPY5QuD.png&#34;
 	
@@ -422,10 +422,10 @@ Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
         </item>
         <item>
         <title>雷电模拟器9(64) v9.0.78.0 去广告绿色纯净版</title>
-        <link>https://www.danlong360.com/post/leidianmoniqi9078/</link>
+        <link>http://localhost:1313/post/leidianmoniqi9078/</link>
         <pubDate>Sun, 22 Sep 2024 17:33:52 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/leidianmoniqi9078/</guid>
+        <guid>http://localhost:1313/post/leidianmoniqi9078/</guid>
         <description>&lt;p&gt;玩电脑手游模拟器安卓版首选雷电模拟器 9.0 最新版采用 Android 9 版本内核.雷电安卓模拟器最新版,支持 OpenGL3.1 模式 3D 渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/22/QjE39OvVXzwynie.jpg&#34;
 	
@@ -471,10 +471,10 @@ Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
         </item>
         <item>
         <title>雷电模拟器9.0 v9.0.77.4 去广告纯净版</title>
-        <link>https://www.danlong360.com/post/leidianmoniqi774/</link>
+        <link>http://localhost:1313/post/leidianmoniqi774/</link>
         <pubDate>Fri, 20 Sep 2024 15:24:42 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/leidianmoniqi774/</guid>
+        <guid>http://localhost:1313/post/leidianmoniqi774/</guid>
         <description>&lt;p&gt;雷电模拟器 9 是基于安卓 9 内核开发的全新版本模拟器，具备强大的游戏兼容性和系统兼容性，能够稳定运行市面上万款热门手游，带你感受更快的速度、更完美的操控体验！且全面升级了 Android 9 作业系统，将 32 位和 64 位元框架合并，有着比以往更快的启动速度，更低的电脑资源占用。&lt;/p&gt;
 &lt;p&gt;支持 OpenGL3.1 模式 3D 渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/20/YNC6RJpfK4Sqru1.png&#34;
@@ -555,10 +555,10 @@ Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
         </item>
         <item>
         <title>VirtualBox(轻量级虚拟机软件) v7.1.0 Build 164728</title>
-        <link>https://www.danlong360.com/post/virtualbox710/</link>
+        <link>http://localhost:1313/post/virtualbox710/</link>
         <pubDate>Thu, 12 Sep 2024 08:59:53 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/virtualbox710/</guid>
+        <guid>http://localhost:1313/post/virtualbox710/</guid>
         <description>&lt;p&gt;VirtualBox 是由 Oracle 公司开发的一款开源的虚拟机软件，可以在一台物理机上运行多个虚拟的操作系统。用户可以在 VirtualBox 中安装不同的操作系统，如 Windows、Linux、MacOS 等，来进行软件开发、测试、教学等工作。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/12/sPcj3y28MhS6Ltd.png&#34;
 	
@@ -591,10 +591,10 @@ Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
         </item>
         <item>
         <title>雷电模拟器9(64) v9.0.77.0 去广告绿色纯净版</title>
-        <link>https://www.danlong360.com/post/leidianmoniqi770/</link>
+        <link>http://localhost:1313/post/leidianmoniqi770/</link>
         <pubDate>Thu, 12 Sep 2024 08:38:52 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/leidianmoniqi770/</guid>
+        <guid>http://localhost:1313/post/leidianmoniqi770/</guid>
         <description>&lt;p&gt;玩电脑手游模拟器安卓版首选雷电模拟器 9.0 最新版采用 Android 9 版本内核.雷电安卓模拟器最新版,支持 OpenGL3.1 模式 3D 渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/12/OA5xZCLuaPWEFpY.jpg&#34;
 	
@@ -640,10 +640,10 @@ Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
         </item>
         <item>
         <title>VMware Workstation虚拟机 v17.6.0 中文精简版</title>
-        <link>https://www.danlong360.com/post/vmware1760jingjianban/</link>
+        <link>http://localhost:1313/post/vmware1760jingjianban/</link>
         <pubDate>Wed, 04 Sep 2024 22:37:03 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/vmware1760jingjianban/</guid>
+        <guid>http://localhost:1313/post/vmware1760jingjianban/</guid>
         <description>&lt;p&gt;VMware Workstation 中文版是一款功能强大的 VMware 虚拟机软件.最新 VMware 精简版集成许可密钥免激活,最大特色是已解锁支持安装 MAC OS X 客户操作系统,添加了微软 MSDM,DELL SLIC 的 BLOS 支持,号称世界史上第一位解决,VMware 中文注册精简版相比原版体积小,功能实用性较强,安装方便深受部分用户喜爱.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/04/QbnZRXuB7zr3KcH.png&#34;
 	
@@ -706,10 +706,10 @@ VM10：Windows XP 或更高版 32 位和 64 位旧版
         </item>
         <item>
         <title>VMware Workstation Player(虚拟机平台) v17.6.0.24238078</title>
-        <link>https://www.danlong360.com/post/vmwareworkstationplayer/</link>
+        <link>http://localhost:1313/post/vmwareworkstationplayer/</link>
         <pubDate>Tue, 03 Sep 2024 21:23:43 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/vmwareworkstationplayer/</guid>
+        <guid>http://localhost:1313/post/vmwareworkstationplayer/</guid>
         <description>&lt;p&gt;VMware Workstation Player 是一款虚拟化软件，旨在为用户提供创建和运行虚拟机的平台。它可以在一台物理机上同时运行多个虚拟机，每个虚拟机都可以运行不同的操作系统。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/03/ParfDnvCS3Fc4Lp.png&#34;
 	
@@ -741,10 +741,10 @@ VM10：Windows XP 或更高版 32 位和 64 位旧版
         </item>
         <item>
         <title>VMware Workstation(VMware虚拟机) Pro v17.6.0.24238078</title>
-        <link>https://www.danlong360.com/post/vmware8078/</link>
+        <link>http://localhost:1313/post/vmware8078/</link>
         <pubDate>Tue, 03 Sep 2024 21:18:51 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/vmware8078/</guid>
+        <guid>http://localhost:1313/post/vmware8078/</guid>
         <description>&lt;p&gt;VMware Workstation（中文名“威睿工作站”）是一款功能强大的桌面虚拟计算机软件，提供用户可在单一的桌面上同时运行不同的操作系统，和进行开发、测试 、部署新的应用程序的最佳解决方案。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/03/QLGmiczaSKoXJVb.png&#34;
 	
@@ -778,10 +778,10 @@ VM10：Windows XP 或更高版 32 位和 64 位旧版
         </item>
         <item>
         <title>Vmware虚拟机安装超低内存占用的Windows 10教程</title>
-        <link>https://www.danlong360.com/post/vmwarewin10/</link>
+        <link>http://localhost:1313/post/vmwarewin10/</link>
         <pubDate>Fri, 23 Aug 2024 10:24:08 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/vmwarewin10/</guid>
+        <guid>http://localhost:1313/post/vmwarewin10/</guid>
         <description>&lt;p&gt;这款 Windows 10 系统安装好后占用内存在 380M 左右,非常适合虚拟机和老古董机使用,运行流畅不卡顿.制作了配套的安装视频教程,按教程安装即可.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/23/G8QayMWksoOTZt2.png&#34;
 	
@@ -802,10 +802,10 @@ VM10：Windows XP 或更高版 32 位和 64 位旧版
         </item>
         <item>
         <title>雷电模拟器9(64) 9.0.75.1 (安卓模拟器) 去广告绿色版</title>
-        <link>https://www.danlong360.com/post/leidianmoniqi90751lvseban/</link>
+        <link>http://localhost:1313/post/leidianmoniqi90751lvseban/</link>
         <pubDate>Wed, 14 Aug 2024 11:03:40 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/leidianmoniqi90751lvseban/</guid>
+        <guid>http://localhost:1313/post/leidianmoniqi90751lvseban/</guid>
         <description>&lt;p&gt;玩电脑手游模拟器安卓版首选雷电模拟器 9.0 最新版采用 Android 9 版本内核.雷电安卓模拟器最新版,支持 OpenGL3.1 模式 3D 渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/VlrhP2s.png&#34;
 	
@@ -850,10 +850,10 @@ VM10：Windows XP 或更高版 32 位和 64 位旧版
         </item>
         <item>
         <title>SandBoxie Classic 5.69.6 / Plus 1.14.6 (沙盘沙盒沙箱) 官方版</title>
-        <link>https://www.danlong360.com/post/sandboxie5696/</link>
+        <link>http://localhost:1313/post/sandboxie5696/</link>
         <pubDate>Wed, 14 Aug 2024 11:02:28 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/sandboxie5696/</guid>
+        <guid>http://localhost:1313/post/sandboxie5696/</guid>
         <description>&lt;p&gt;沙盘 Sandboxie 中文版是一款知名的系统安全工具的菜鸟高手裸奔工具,它可以让选定程序在安全的隔离系统环境下运行,只要在此环境中运行的软件,浏览器或注册表信息等都可以完整的进行清空,不留一点痕迹.同时可以防御些带有木马或者病毒的恶意网站,对于经常测试软件或者不放心的软件,可放心在沙盘里面运行.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/fStYwgh.png&#34;
 	
@@ -882,10 +882,10 @@ VM10：Windows XP 或更高版 32 位和 64 位旧版
         </item>
         <item>
         <title>VirtualBox 7.0.20 (虚拟机) 官方版</title>
-        <link>https://www.danlong360.com/post/virtualbox7020/</link>
+        <link>http://localhost:1313/post/virtualbox7020/</link>
         <pubDate>Wed, 14 Aug 2024 11:01:09 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/virtualbox7020/</guid>
+        <guid>http://localhost:1313/post/virtualbox7020/</guid>
         <description>&lt;p&gt;Oracle VM VirtualBox 中文版是一款甲骨文公司旗下的免费开源轻量级虚拟机软件.它主要优势是完全免费,性能稳定,可以在 Linux/Windows 平台运行,可以在主机上安装 Win,MacOS,Linux,BSD 等客户机操作系统.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/RKC8d3q.png&#34;
 	
@@ -909,10 +909,10 @@ VM10：Windows XP 或更高版 32 位和 64 位旧版
         </item>
         <item>
         <title>雷电模拟器5 5.0.82 (安卓模拟器) 去广告绿色版</title>
-        <link>https://www.danlong360.com/post/leidianmoniqi55082/</link>
+        <link>http://localhost:1313/post/leidianmoniqi55082/</link>
         <pubDate>Wed, 14 Aug 2024 11:00:03 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/leidianmoniqi55082/</guid>
+        <guid>http://localhost:1313/post/leidianmoniqi55082/</guid>
         <description>&lt;p&gt;玩电脑手游模拟器安卓版首选雷电模拟器 5.0 稳定版采用 Android 7.1.2 版内核.雷电安卓模拟器 5.0 版,支持 OpenGL3.1 模式 3D 渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/85XgAKo.png&#34;
 	
@@ -947,10 +947,10 @@ VM10：Windows XP 或更高版 32 位和 64 位旧版
         </item>
         <item>
         <title>VMware Workstation Pro 17.5.2 (虚拟机) 精简优化版</title>
-        <link>https://www.danlong360.com/post/vmware1752jingjianyouhua/</link>
+        <link>http://localhost:1313/post/vmware1752jingjianyouhua/</link>
         <pubDate>Wed, 14 Aug 2024 10:58:45 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/vmware1752jingjianyouhua/</guid>
+        <guid>http://localhost:1313/post/vmware1752jingjianyouhua/</guid>
         <description>&lt;p&gt;VMware Workstation 中文版是一款功能强大的 VMware 虚拟机软件.最新 VMware 精简版集成许可密钥免激活,最大特色是已解锁支持安装 MAC OS X 客户操作系统,添加了微软 MSDM,DELL SLIC 的 BLOS 支持,号称世界史上第一位解决,VMware 中文注册精简版相比原版体积小,功能实用性较强,安装方便深受部分用户喜爱.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/SYaUs2b.png&#34;
 	
@@ -1004,10 +1004,10 @@ VM10：Windows XP 或更高版 32 位和 64 位旧版
         </item>
         <item>
         <title>VMware Workstation Pro 17.5.2 (虚拟机) 破解版</title>
-        <link>https://www.danlong360.com/post/vmware1752/</link>
+        <link>http://localhost:1313/post/vmware1752/</link>
         <pubDate>Wed, 14 Aug 2024 10:57:29 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/vmware1752/</guid>
+        <guid>http://localhost:1313/post/vmware1752/</guid>
         <description>&lt;p&gt;威睿虚拟机软件 VMware Workstation 17 PRO 正式版更新.VMware17 最新版增加了全新暗色界面,支持最新 Win 和 Linux 客户机系统版本,进了 WDDM 1.2 和 OpenGL 4.3 3D 硬件加速支持,12.0 版本之后专门为 Win10 兼容性和功能做了优化,新技术支持 DX10,4K 高分辨率显示屏,OpenGL 3.3,7.1 声道及兼容主流新硬件设备.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/quguNSl.png&#34;
 	
@@ -1055,10 +1055,10 @@ VM10：Windows XP 或更高版 32 位和 64 位旧版
         </item>
         <item>
         <title>WinKawaks 1.65 (街机模拟器) 绿色版</title>
-        <link>https://www.danlong360.com/post/winkawaks165/</link>
+        <link>http://localhost:1313/post/winkawaks165/</link>
         <pubDate>Wed, 14 Aug 2024 10:56:05 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/winkawaks165/</guid>
+        <guid>http://localhost:1313/post/winkawaks165/</guid>
         <description>&lt;p&gt;WinKawaks 是一款带有 NeoGeo、CP System 和 CP System II 板的街机模拟器。 这意味着可以享受 90 年代中后期街机游戏中一些最受欢迎的视频游戏，包括《街头霸王》、《拳皇》、《恐龙快打》和《三国志》等史诗系列游戏。WinKawaks 模拟器的特点在于其优秀的画面表现和流畅的运行速度。通过模拟器，可以体验到与原版游戏相差无几的画质，同时保证游戏的流畅运行。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/4VfYYDB.png&#34;
 	

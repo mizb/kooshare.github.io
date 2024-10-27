@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>WinPE on KUL藏宝库</title>
-        <link>https://www.danlong360.com/categories/winpe/</link>
+        <link>http://localhost:1313/categories/winpe/</link>
         <description>Recent content in WinPE on KUL藏宝库</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 09:00:09 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/winpe/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Aug 2024 09:00:09 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/winpe/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>USBOS V3.0 标准版/增强版(更新到2024.08.25)</title>
-        <link>https://www.danlong360.com/post/usbosv3.0/</link>
+        <link>http://localhost:1313/post/usbosv3.0/</link>
         <pubDate>Thu, 29 Aug 2024 09:00:09 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/usbosv3.0/</guid>
+        <guid>http://localhost:1313/post/usbosv3.0/</guid>
         <description>&lt;h3 id=&#34;增强版介绍&#34;&gt;增强版介绍
 &lt;/h3&gt;&lt;p&gt;ISO 版与 UD 版合体，总体积 1.62GB&amp;ndash;3.0GB（视是否拓展）！
 USBOS V3 是计算机超级维护工具，此话怎讲？
