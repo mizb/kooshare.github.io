@@ -7,26 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 27 Oct 2024 21:52:47 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>安卓APP</title>
-        <link>http://localhost:1313/categories/%E5%AE%89%E5%8D%93app/</link>
-        <pubDate>Sun, 27 Oct 2024 21:52:47 +0800</pubDate>
-        
-        <guid>http://localhost:1313/categories/%E5%AE%89%E5%8D%93app/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>电脑软件</title>
-        <link>http://localhost:1313/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</link>
-        <pubDate>Sun, 27 Oct 2024 21:52:47 +0800</pubDate>
-        
-        <guid>http://localhost:1313/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Mon, 28 Oct 2024 19:22:39 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Windows 11</title>
         <link>http://localhost:1313/categories/windows-11/</link>
-        <pubDate>Sun, 27 Oct 2024 21:41:16 +0800</pubDate>
+        <pubDate>Mon, 28 Oct 2024 19:22:39 +0800</pubDate>
         
         <guid>http://localhost:1313/categories/windows-11/</guid>
         <description></description>
@@ -34,9 +18,33 @@
         <item>
         <title>操作系统</title>
         <link>http://localhost:1313/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>
-        <pubDate>Sun, 27 Oct 2024 21:41:16 +0800</pubDate>
+        <pubDate>Mon, 28 Oct 2024 19:22:39 +0800</pubDate>
         
         <guid>http://localhost:1313/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>电脑软件</title>
+        <link>http://localhost:1313/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</link>
+        <pubDate>Mon, 28 Oct 2024 13:29:36 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>激活工具</title>
+        <link>http://localhost:1313/categories/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/</link>
+        <pubDate>Mon, 28 Oct 2024 13:29:36 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Windows 10</title>
+        <link>http://localhost:1313/categories/windows-10/</link>
+        <pubDate>Sun, 27 Oct 2024 21:52:47 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/windows-10/</guid>
         <description></description>
         </item>
         <item>
@@ -88,6 +96,14 @@
         <description></description>
         </item>
         <item>
+        <title>安卓APP</title>
+        <link>http://localhost:1313/categories/%E5%AE%89%E5%8D%93app/</link>
+        <pubDate>Sun, 27 Oct 2024 19:32:18 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E5%AE%89%E5%8D%93app/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>硬件工具</title>
         <link>http://localhost:1313/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/</link>
         <pubDate>Sun, 27 Oct 2024 19:27:46 +0800</pubDate>
@@ -133,14 +149,6 @@
         <pubDate>Sat, 26 Oct 2024 18:59:50 +0800</pubDate>
         
         <guid>http://localhost:1313/categories/%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Windows 10</title>
-        <link>http://localhost:1313/categories/windows-10/</link>
-        <pubDate>Sat, 26 Oct 2024 13:14:23 +0800</pubDate>
-        
-        <guid>http://localhost:1313/categories/windows-10/</guid>
         <description></description>
         </item>
         <item>
@@ -205,14 +213,6 @@
         <pubDate>Fri, 18 Oct 2024 18:58:46 +0800</pubDate>
         
         <guid>http://localhost:1313/categories/%E7%94%B5%E8%84%91%E6%B8%B8%E6%88%8F/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>激活工具</title>
-        <link>http://localhost:1313/categories/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/</link>
-        <pubDate>Fri, 18 Oct 2024 10:23:18 +0800</pubDate>
-        
-        <guid>http://localhost:1313/categories/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/</guid>
         <description></description>
         </item>
         <item>
