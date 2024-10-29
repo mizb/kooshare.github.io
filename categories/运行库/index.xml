@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>运行库 on KUL藏宝库</title>
-        <link>http://localhost:1313/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/</link>
+        <link>https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/</link>
         <description>Recent content in 运行库 on KUL藏宝库</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 17 Oct 2024 19:36:27 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 17 Oct 2024 19:36:27 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>微软运行库 Visual C&#43;&#43;RuntimePack_By:nanlon v4.0.24.1012</title>
-        <link>http://localhost:1313/post/4382/</link>
+        <link>https://www.danlong360.com/post/4382/</link>
         <pubDate>Thu, 17 Oct 2024 19:36:27 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/4382/</guid>
+        <guid>https://www.danlong360.com/post/4382/</guid>
         <description>&lt;p&gt;微软常用运行库合集是软件运行时所需的库文件，当软件缺少所需运行库时会出现错误或者不能运行的情况。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/17/trlPkNSG1nLiQpF.png&#34;
 	
@@ -38,10 +38,10 @@ Microsoft Visual C++ 2015-2022 Redist 14.42.34430.0。&lt;/p&gt;
         </item>
         <item>
         <title>常用运行库合集 AIO RuntimePack_By:nanlon v4.0.24.1012</title>
-        <link>http://localhost:1313/post/4033/</link>
+        <link>https://www.danlong360.com/post/4033/</link>
         <pubDate>Thu, 17 Oct 2024 19:35:38 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/4033/</guid>
+        <guid>https://www.danlong360.com/post/4033/</guid>
         <description>&lt;p&gt;运行库 是程序在运行时所需要的库文件，通常运行库是以 dll 形式提供的。由于很多常用软件都是使用 Microsoft Visual Studio 编写的，所以这类软件的运行需要依赖微软 Visual C++ 运行库，比如像 迅雷、QQ、Adobe 软件等。如果没有安装运行库或者安装的版本不完整，就可能会导致这些软件启动时报错，提示缺少 dll 文件等。该软件由 nanlon 制作，感谢！&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/17/TcGZEyYM6pmQD4X.png&#34;
 	
@@ -72,10 +72,10 @@ Microsoft Visual C++ 2015-2022 Redist 14.42.34430.0。&lt;/p&gt;
         </item>
         <item>
         <title>微软常用运行库合集(Visual C&#43;&#43;) 2024.10.10</title>
-        <link>http://localhost:1313/post/508/</link>
+        <link>https://www.danlong360.com/post/508/</link>
         <pubDate>Fri, 11 Oct 2024 20:59:58 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/508/</guid>
+        <guid>https://www.danlong360.com/post/508/</guid>
         <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称 MSVC,VB/VC,VC 运行库)系统运行库是 Windows 操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版 VC++运行库合集(微软常用运行库合集),整合了所有版本 Visual C ++,可以自选更新 VC++版本组件,并提供图形安装界面.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/bPcQqY9x1Uke2n8.png&#34;
 	
@@ -115,10 +115,10 @@ Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
         </item>
         <item>
         <title>Visual C&#43;&#43;运行库合集轻量版24年10月版v84</title>
-        <link>http://localhost:1313/post/6894/</link>
+        <link>https://www.danlong360.com/post/6894/</link>
         <pubDate>Thu, 10 Oct 2024 18:57:20 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/6894/</guid>
+        <guid>https://www.danlong360.com/post/6894/</guid>
         <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称 MSVC,VB/VC,VC 运行库)系统运行库是 Windows 操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版 VC++运行库合集(VisualCppRedist),体积小巧,支持静默参数,整合了所有版本 Visual C ++,能自动检测安装所有 VC 库版本.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/fQKoTjAiHXub5zS.png&#34;
 	
@@ -185,10 +185,10 @@ New: Visual C++ 2022 Redistributable - 14.42.34430.0&lt;/p&gt;
         </item>
         <item>
         <title>游戏常用运行库合集 Game Runtime Libraries Package v4.0.24.1009</title>
-        <link>http://localhost:1313/post/1236/</link>
+        <link>https://www.danlong360.com/post/1236/</link>
         <pubDate>Wed, 09 Oct 2024 22:00:23 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/1236/</guid>
+        <guid>https://www.danlong360.com/post/1236/</guid>
         <description>&lt;p&gt;游戏常用运行库 合集 整合了许多游戏会用到的运行库，支持 Windows XP – Windows 11 系统，并且支持自动检测系统勾选推荐的运行库，方便快捷。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/09/2LxDr3n7HQEz8qM.png&#34;
 	
@@ -281,10 +281,10 @@ UE4 Prerequisites 1.0 x64&lt;/p&gt;
         </item>
         <item>
         <title>微软常用运行库合集 2024.08.14 (Visual C&#43;&#43;) 官方版</title>
-        <link>http://localhost:1313/post/yunxingkuheji0814/</link>
+        <link>https://www.danlong360.com/post/yunxingkuheji0814/</link>
         <pubDate>Wed, 21 Aug 2024 22:43:37 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/yunxingkuheji0814/</guid>
+        <guid>https://www.danlong360.com/post/yunxingkuheji0814/</guid>
         <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称 MSVC,VB/VC,VC 运行库)系统运行库是 Windows 操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版 VC++运行库合集(微软常用运行库合集),整合了所有版本 Visual C ++,可以自选更新 VC++版本组件,并提供图形安装界面.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/0hWWHCs.png&#34;
 	
@@ -324,10 +324,10 @@ Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
         </item>
         <item>
         <title>Microsoft Visual C&#43;&#43;14.42.34226.3 (常用运行库) 官方版</title>
-        <link>http://localhost:1313/post/visualc34226/</link>
+        <link>https://www.danlong360.com/post/visualc34226/</link>
         <pubDate>Wed, 21 Aug 2024 22:42:41 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/visualc34226/</guid>
+        <guid>https://www.danlong360.com/post/visualc34226/</guid>
         <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称 MSVC,VB/VC,VC 运行库)系统运行库是 Windows 操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,这是官方版安装包.&lt;/p&gt;
 &lt;p&gt;Microsoft Visual C++ 2019 为创建基于微软 Windows 和基于 Microsoft .NET 的应用程序提供了强大而灵活的开发环境支持。Visual C++ Redistributable 用于需要运行 C++使用 Visual Studio 2019 开发的应用程序，并动态链接到库。您可以使用这些在系统运行此类应用程序，即使当前系统没有安装 Visual Studio 2019。它将安装这些运行库组件：C Runtime (CRT), Standard C++, MFC, C++ AMP, OpenMP。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/5p3EFYf.png&#34;
@@ -389,10 +389,10 @@ x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugin
         </item>
         <item>
         <title>Microsoft .NET Runtime 8.0.8.0 (.NET框架运行库) 官方版</title>
-        <link>http://localhost:1313/post/microsoftnetruntime8080/</link>
+        <link>https://www.danlong360.com/post/microsoftnetruntime8080/</link>
         <pubDate>Wed, 21 Aug 2024 22:32:18 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/microsoftnetruntime8080/</guid>
+        <guid>https://www.danlong360.com/post/microsoftnetruntime8080/</guid>
         <description>&lt;p&gt;Microsoft .NET Framework 最新版(微软 NET 框架运行库.NET8.0 下载)是 Windows 操作系统.NET Framework 构建的应用程序所需的基础类型库组件.NET Runtime(NET 运行库)是继 Windows DNA 之后全新软件开发平台,.NET 框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/IDpum8O.png&#34;
 	
@@ -424,10 +424,10 @@ Microsoft .NET Desktop Runtime 8.0.8 Build 33916 (2024/08/13)&lt;/p&gt;
         </item>
         <item>
         <title>Microsoft .NET Runtime 6.0.33 (.NET框架运行库) 官方版</title>
-        <link>http://localhost:1313/post/microsoftnetruntime6033/</link>
+        <link>https://www.danlong360.com/post/microsoftnetruntime6033/</link>
         <pubDate>Wed, 21 Aug 2024 22:30:39 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/microsoftnetruntime6033/</guid>
+        <guid>https://www.danlong360.com/post/microsoftnetruntime6033/</guid>
         <description>&lt;p&gt;Microsoft .NET Framework 最新版(微软 NET 框架运行库.NET6.0 下载)是 Windows 操作系统.NET Framework 构建的应用程序所需的基础类型库组件.NET Runtime(NET 运行库)是继 Windows DNA 之后全新软件开发平台,.NET 框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/l4prdus.png&#34;
 	
@@ -461,10 +461,10 @@ Microsoft .NET Framework v4.8 简体中文语言包（非必要不装也不影�
         </item>
         <item>
         <title>Microsoft .NET Runtime 8.0.7.0 (.NET框架运行库) 官方版</title>
-        <link>http://localhost:1313/post/netruntime8070/</link>
+        <link>https://www.danlong360.com/post/netruntime8070/</link>
         <pubDate>Wed, 14 Aug 2024 10:37:30 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/netruntime8070/</guid>
+        <guid>https://www.danlong360.com/post/netruntime8070/</guid>
         <description>&lt;p&gt;Microsoft .NET Framework 最新版(微软 NET 框架运行库.NET8.0 下载)是 Windows 操作系统.NET Framework 构建的应用程序所需的基础类型库组件.NET Runtime(NET 运行库)是继 Windows DNA 之后全新软件开发平台,.NET 框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/X1aZHPa.png&#34;
 	
@@ -500,10 +500,10 @@ Microsoft .NET Desktop Runtime 8.0.7 Build 33814 (2024/07/10)&lt;/p&gt;
         </item>
         <item>
         <title>Microsoft .NET Runtime 6.0.32 (.NET框架运行库) 官方版</title>
-        <link>http://localhost:1313/post/netruntime6032/</link>
+        <link>https://www.danlong360.com/post/netruntime6032/</link>
         <pubDate>Wed, 14 Aug 2024 10:36:25 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/netruntime6032/</guid>
+        <guid>https://www.danlong360.com/post/netruntime6032/</guid>
         <description>&lt;p&gt;Microsoft .NET Framework 最新版(微软 NET 框架运行库.NET6.0 下载)是 Windows 操作系统.NET Framework 构建的应用程序所需的基础类型库组件.NET Runtime(NET 运行库)是继 Windows DNA 之后全新软件开发平台,.NET 框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/9wEupKb.png&#34;
 	
@@ -539,10 +539,10 @@ Microsoft .NET Framework v4.8 简体中文语言包（非必要不装也不影�
         </item>
         <item>
         <title>Microsoft .NET Runtime 7.0.20 (.NET框架运行库) 官方版</title>
-        <link>http://localhost:1313/post/netruntime7020/</link>
+        <link>https://www.danlong360.com/post/netruntime7020/</link>
         <pubDate>Wed, 14 Aug 2024 10:35:22 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/netruntime7020/</guid>
+        <guid>https://www.danlong360.com/post/netruntime7020/</guid>
         <description>&lt;p&gt;Microsoft .NET Framework 最新版(微软 NET 框架运行库.NET7.0 下载)是 Windows 操作系统.NET Framework 构建的应用程序所需的基础类型库组件.NET Runtime(NET 运行库)是继 Windows DNA 之后全新软件开发平台,.NET 框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/rBiTslG.png&#34;
 	
@@ -573,10 +573,10 @@ Microsoft .NET Desktop Runtime 7.0.20 (2024/05/28)&lt;/p&gt;
         </item>
         <item>
         <title>微软常用运行库合集 2024.05.03 (Visual C&#43;&#43;) 官方版</title>
-        <link>http://localhost:1313/post/yunxingku240523/</link>
+        <link>https://www.danlong360.com/post/yunxingku240523/</link>
         <pubDate>Wed, 14 Aug 2024 10:34:09 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/yunxingku240523/</guid>
+        <guid>https://www.danlong360.com/post/yunxingku240523/</guid>
         <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称 MSVC,VB/VC,VC 运行库)系统运行库是 Windows 操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版 VC++运行库合集(微软常用运行库合集),整合了所有版本 Visual C ++,可以自选更新 VC++版本组件,并提供图形安装界面.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/SlDRIWH.png&#34;
 	
@@ -614,10 +614,10 @@ Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
         </item>
         <item>
         <title>Visual C&#43;&#43;2024年5月版v82 (运行库合集轻量版) 官方版</title>
-        <link>http://localhost:1313/post/visualc/</link>
+        <link>https://www.danlong360.com/post/visualc/</link>
         <pubDate>Wed, 14 Aug 2024 10:33:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/visualc/</guid>
+        <guid>https://www.danlong360.com/post/visualc/</guid>
         <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称 MSVC,VB/VC,VC 运行库)系统运行库是 Windows 操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版 VC++运行库合集(VisualCppRedist),体积小巧,支持静默参数,整合了所有版本 Visual C ++,能自动检测安装所有 VC 库版本.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ZWk4LjE.png&#34;
 	
@@ -681,10 +681,10 @@ VisualCppRedist_AIO_x86_x64.exe /ai /gm2&lt;/p&gt;
         </item>
         <item>
         <title>Java SE Development Kit 22.0.1 (JDK) 官方版</title>
-        <link>http://localhost:1313/post/javase2201/</link>
+        <link>https://www.danlong360.com/post/javase2201/</link>
         <pubDate>Wed, 14 Aug 2024 10:31:50 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/javase2201/</guid>
+        <guid>https://www.danlong360.com/post/javase2201/</guid>
         <description>&lt;p&gt;甲骨文公司 Oracle Java Development Kit(JDK)是一款 Java 开发工具包,包含 Java 运行环境(java 运行库),Java 开发套件和 Java 基础类库源代码.Java Runtime Environment(JRE)是运行 Java 程序的运行环境,不管是做 Java 开发还是从事安卓开发,都必须在系统安装 JRE 运行环境.Java 语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/IvVBAOi.png&#34;
 	
@@ -746,10 +746,10 @@ CMD 输入 java -version&lt;/p&gt;
         </item>
         <item>
         <title>Java SE Development Kit 17.0.11 (JDK) 官方版</title>
-        <link>http://localhost:1313/post/javase17011/</link>
+        <link>https://www.danlong360.com/post/javase17011/</link>
         <pubDate>Wed, 14 Aug 2024 10:30:41 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/javase17011/</guid>
+        <guid>https://www.danlong360.com/post/javase17011/</guid>
         <description>&lt;p&gt;甲骨文公司 Oracle Java Development Kit(JDK)是一款 Java 开发工具包,包含 Java 运行环境(java 运行库),Java 开发套件和 Java 基础类库源代码.Java Runtime Environment(JRE)是运行 Java 程序的运行环境,不管是做 Java 开发还是从事安卓开发,都必须在系统安装 JRE 运行环境.Java 语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/CvIs1HE.png&#34;
 	
@@ -811,10 +811,10 @@ CMD 输入 java -version&lt;/p&gt;
         </item>
         <item>
         <title>Java SE Development Kit 11.0.23 (JDK) 官方版</title>
-        <link>http://localhost:1313/post/javase11023/</link>
+        <link>https://www.danlong360.com/post/javase11023/</link>
         <pubDate>Wed, 14 Aug 2024 10:29:37 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/javase11023/</guid>
+        <guid>https://www.danlong360.com/post/javase11023/</guid>
         <description>&lt;p&gt;甲骨文公司 Oracle Java Development Kit(JDK)是一款 Java 开发工具包,包含 Java 运行环境(java 运行库),Java 开发套件和 Java 基础类库源代码.Java Runtime Environment(JRE)是运行 Java 程序的运行环境,不管是做 Java 开发还是从事安卓开发,都必须在系统安装 JRE 运行环境.Java 语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ohU0U8e.png&#34;
 	
@@ -876,10 +876,10 @@ CMD 输入 java -version&lt;/p&gt;
         </item>
         <item>
         <title>Java SE Development Kit 8.0.411 (JDK) 官方版</title>
-        <link>http://localhost:1313/post/javase80411/</link>
+        <link>https://www.danlong360.com/post/javase80411/</link>
         <pubDate>Wed, 14 Aug 2024 10:28:32 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/javase80411/</guid>
+        <guid>https://www.danlong360.com/post/javase80411/</guid>
         <description>&lt;p&gt;甲骨文公司 Oracle Java Development Kit(JDK)是一款 Java 开发工具包,包含 Java 运行环境(java 运行库),Java 开发套件和 Java 基础类库源代码.Java Runtime Environment(JRE)是运行 Java 程序的运行环境,不管是做 Java 开发还是从事安卓开发,都必须在系统安装 JRE 运行环境.Java 语言的贡献力量是其他任何技术无可比拟的.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Nv6QBCS.png&#34;
 	
@@ -952,10 +952,10 @@ CMD 输入 java -version&lt;/p&gt;
         </item>
         <item>
         <title>Microsoft Visual C&#43;&#43;14.40.33807.0 (常用运行库) 官方版</title>
-        <link>http://localhost:1313/post/microsoftvisualc/</link>
+        <link>https://www.danlong360.com/post/microsoftvisualc/</link>
         <pubDate>Wed, 14 Aug 2024 10:27:28 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/microsoftvisualc/</guid>
+        <guid>https://www.danlong360.com/post/microsoftvisualc/</guid>
         <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称 MSVC,VB/VC,VC 运行库)系统运行库是 Windows 操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,这是官方版安装包.&lt;/p&gt;
 &lt;p&gt;Microsoft Visual C++ 2019 为创建基于微软 Windows 和基于 Microsoft .NET 的应用程序提供了强大而灵活的开发环境支持。Visual C++ Redistributable 用于需要运行 C++使用 Visual Studio 2019 开发的应用程序，并动态链接到库。您可以使用这些在系统运行此类应用程序，即使当前系统没有安装 Visual Studio 2019。它将安装这些运行库组件：C Runtime (CRT), Standard C++, MFC, C++ AMP, OpenMP。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/1NLs3Jw.png&#34;
@@ -1017,10 +1017,10 @@ x64 &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugin
         </item>
         <item>
         <title>DirectX修复工具增强版 DirectX Repair 4.3 官方版</title>
-        <link>http://localhost:1313/post/directx/</link>
+        <link>https://www.danlong360.com/post/directx/</link>
         <pubDate>Wed, 14 Aug 2024 10:26:18 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/directx/</guid>
+        <guid>https://www.danlong360.com/post/directx/</guid>
         <description>&lt;p&gt;DirectX 修复工具(DirectX Repair)是一款系统级工具软件，绿色简便易用，无需安装，可直接运行。主要功能是检测当前系统的 DirectX 组件及 VC++库文件状态，发现异常则进行修复。程序采用易用的一键式设计，只要点“检测并修复”，它就会自动完成校验、检测、下载、修复以及注册全部功能，无需用户介入，大大降低使用难度。在常规修复过程中，程序还会自动检测 DirectX 加速状态，在异常时给予用户相应提示。&lt;/p&gt;
 &lt;p&gt;DirectX 修复工具，主要针对 0xc000007b 问题设计，可以完美修复该问题。本程序中包含了最新版的 DirectX redist(Jun2010)，并且全部 DX 文件都有 Microsoft 的数字签名，安全放心。适用于系统缺少运行库、游戏不能运行、工业软件（如 QQ，3D*S MAX , MAYA ,Corel Painter 等）不能运行提示缺少组件等问题。&lt;/p&gt;
 &lt;p&gt;本程序适用于多个操作系统，如 Windows XP（需先安装.NET 2.0，详情请参阅“致 Windows XP 用户.txt”文件）、Windows Vista、Windows 7、Windows 8/8.1、Windows 8.1 Update、Windows 10，同时兼容 32 位操作系统和 64 位操作系统。本程序会根据系统的不同，自动调整任务模式，无需进行设置。&lt;/p&gt;
