@@ -772,7 +772,7 @@
 &lt;/h3&gt;&lt;p&gt;当网站开启了 CloudFlare 服务，用户访问我们的网站时，其实访问的离用户比较近的 Cloudflare 服务器，Cloudflare 再代理用户请求我们的源服务器，以达到加速和保护源服务器的目的。Cloudflare 代理用户请求我们源服务器获取网页资源的过程叫回源。&lt;/p&gt;
 &lt;p&gt;Cloudflare 造成循环重定向的错误就出在了回源的过程中，造成这种错误的原因就是 http 和 https 之间的重定向。&lt;/p&gt;
 &lt;p&gt;Cloudflare Crypto 的 SSL 中有 4 个选项 (如下)，其中 Off 就是不启用 SSL，通过 HTTP 协议访问网站。另外 3 种是通过 HTTPS 协议访问网站。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/TClnB4l.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/TClnB4l.png&#34;
 	
 	
 	

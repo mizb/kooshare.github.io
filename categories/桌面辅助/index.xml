@@ -1443,7 +1443,7 @@ StartAllBackCfg.exe /install /elevated /silent&lt;/p&gt;
         
         <guid>https://www.danlong360.com/post/startallback38/</guid>
         <description>&lt;p&gt;StartAllBack 中文版(StartIsBack++)是一款 Win11 开始菜单工具,可以为 Windows11 恢复经典样式 Windows7 主题风格开始菜单和任务栏及资源管理器,功能包括:自定义开始菜单样式和操作,个性化任务栏及资源管理器.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/W15Ckmr.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/W15Ckmr.png&#34;
 	
 	
 	
@@ -1491,7 +1491,7 @@ StartAllBackCfg.exe /install /elevated /silent&lt;/p&gt;
         <guid>https://www.danlong360.com/post/dawnlauncher/</guid>
         <description>&lt;p&gt;Dawn Launcher(桌面快速启动工具)是一款简单易用免费的 Windows 快捷启动工具,Dawn 快速启动软件也就是将图标,文件夹以及文件这些项目按照用户的习惯分门别类归纳到一起,这款快捷启动管理工具使用很方便.&lt;/p&gt;
 &lt;p&gt;右键点击 Dawn Launcher 左侧栏位置，可以为自己创建一个分类，输入分类名称，名称根据个人喜好来，比如「办公」、「娱乐」这些都可以，还能为该分类配置快捷键，使用过程中，键入对应快捷键，可以快速打开分类。分类创建完成，下一步就是加入内容，直接拖入软件图标、文件、文件夹都可以，也可以在软件框中间位置单击右键来创建项目。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/1fQBe7n.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/1fQBe7n.png&#34;
 	
 	
 	
@@ -1529,7 +1529,7 @@ StartAllBackCfg.exe /install /elevated /silent&lt;/p&gt;
         
         <guid>https://www.danlong360.com/post/wallpaperengine/</guid>
         <description>&lt;p&gt;来自 flameg 制作的动态壁纸软件 Wallpaper Engine 壁纸引擎离线版。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ddyk6mk.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/ddyk6mk.png&#34;
 	
 	
 	
@@ -1566,7 +1566,7 @@ A3:无需卸载上一版本，覆盖安装即可&lt;/p&gt;
         
         <guid>https://www.danlong360.com/post/lucy/</guid>
         <description>&lt;p&gt;用过音速启动、Rolan、Lily 等启动工具，都是很好的快速启动软件，但每个软件都不可能适应所有人的需求，于是作者 156608225 自己又造了一个 Lucy 快速启动，非常简洁，连个漂亮图标都不给，只为快速启动，简洁到该有不该有的都没有，Lucy 快速启动不联网，不写注册表，自由设置开机启动。Lucy 快速启动使用 C++编写，界面库使用网易云信 NIM_Duilib，数据存储使用 sqlite3 本地数据库。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/JB9UhJI.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/JB9UhJI.png&#34;
 	
 	
 	
@@ -1601,7 +1601,7 @@ A3:无需卸载上一版本，覆盖安装即可&lt;/p&gt;
         
         <guid>https://www.danlong360.com/post/magpie/</guid>
         <description>&lt;p&gt;Magpie 是一个轻量级的窗口缩放工具，内置了多种高效的缩放算法和滤镜。它主要用于提升游戏画质和让不支持全屏化的游戏也能全屏显示等。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/6Hfyv0Y.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/6Hfyv0Y.png&#34;
 	
 	
 	
@@ -1646,7 +1646,7 @@ A3:无需卸载上一版本，覆盖安装即可&lt;/p&gt;
         <guid>https://www.danlong360.com/post/mayelite/</guid>
         <description>&lt;p&gt;Maye 是一款作者看不惯 Rolan 而开发的快速启动工具，使用易语言开发，界面基于 webui 的 Miniblink，体积相对来说会大一点。&lt;/p&gt;
 &lt;p&gt;Maye Lite 是一款更轻更简洁的快速启动工具。它的功能非常单一化，只专注于文件的快速启动。没有繁杂的功能，操作中也不会产生任何垃圾文件，绿色无污染，是用户提升 Windows 操作体验的好帮手。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/24KTPVB.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/24KTPVB.png&#34;
 	
 	
 	
@@ -1700,7 +1700,7 @@ A3:无需卸载上一版本，覆盖安装即可&lt;/p&gt;
         
         <guid>https://www.danlong360.com/post/wallhaven/</guid>
         <description>&lt;p&gt;wallhaven 是我很喜欢的一个壁纸网站，但是每次都需要把壁纸下载保存，然后再手动替换，感觉太麻烦了。所以动手写了该软件，可以直接浏览网站的壁纸，然后一键设置成壁纸。附加功能是可以定时切换壁纸。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/SESbi4Q.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/SESbi4Q.png&#34;
 	
 	
 	
@@ -1730,7 +1730,7 @@ A3:无需卸载上一版本，覆盖安装即可&lt;/p&gt;
         
         <guid>https://www.danlong360.com/post/biniware/</guid>
         <description>&lt;p&gt;Biniware Run 能够为用户节省很多麻烦，通过该软件可以快速地打开所需的应用程序，包括文件、网站等等，软件是免费的，操作非常简单，用户只需要将想要快速打开的程序工具拖放到软件中即可添加菜单项，不会占用桌面的图标，支持对参数进行自定义设置。在运行后会显示一个悬浮图标，左键点击即可显示我们的菜单列表，将文件、文件夹、程序快捷方式等拖放到这个图标上就能快速添加菜单项，支持多级菜单。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/SwyYcZS.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/SwyYcZS.png&#34;
 	
 	
 	
@@ -1763,7 +1763,7 @@ A3:无需卸载上一版本，覆盖安装即可&lt;/p&gt;
         
         <guid>https://www.danlong360.com/post/stardock/</guid>
         <description>&lt;p&gt;Stardock Start11 中文破解版是一款 Win11 开始菜单工具软件,Start10/Start11 破解版系列产品是 Win10/Win11 开始菜单增强工具,Start11 破解版可以添加任务栏经典开始按钮,主要为 Windows 10,Windows 11 恢复经典 Win7 样式的开始菜单风格,提供包括:开始菜单,任务栏,按钮样式,菜单操作的配置优化等自定义功能.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/FfUoAyh.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/FfUoAyh.png&#34;
 	
 	
 	
@@ -1796,7 +1796,7 @@ A3:无需卸载上一版本，覆盖安装即可&lt;/p&gt;
         
         <guid>https://www.danlong360.com/post/claunch/</guid>
         <description>&lt;p&gt;CLaunch 是一款小巧、多功能、低资源占用的快速启动管理工具。通过 CLaunch 用户可以方便地对系统功能、快捷方式、文件路径等资源进行集中管理和调用。调用的方式也异常丰富，如点击图标、鼠标动作、键盘热键等。CLaunch 还具有强大的定制功能和选项设置，支持皮肤及插件。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/SEh0PuC.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/SEh0PuC.png&#34;
 	
 	
 	
@@ -1823,7 +1823,7 @@ A3:无需卸载上一版本，覆盖安装即可&lt;/p&gt;
         
         <guid>https://www.danlong360.com/post/startisback/</guid>
         <description>&lt;p&gt;StartIsBack 中文版(StartIsBack++)是一款 Win10 开始菜单增强工具,可以为 Windows10 恢复经典样式的 Windows7 主题风格开始菜单和任务栏,功能包括了:自定义开始菜单样式和操作,个性化任务栏及资源管理器等.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/gcNGRgq.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/gcNGRgq.png&#34;
 	
 	
 	
@@ -1867,7 +1867,7 @@ StartIsBackCfg.exe /install /elevated /silent&lt;/p&gt;
         <guid>https://www.danlong360.com/post/qstart2024/</guid>
         <description>&lt;p&gt;Qstart 是一款非常简单的快速启动程序，在你的电脑上程序越来越多，桌面快捷键也是日益增加，为了让你的桌面更加的简洁清爽，是时候使用一款快速启动工具来保持桌面整洁啦，这款新一代桌面整理工具使用可将任意项目添加到列表中，随时可启动和打开需要的内容，并且整个软件的界面也是超级的简单清爽，所有的内容显示在窗口中，你只需要将快捷方式拖放到软件窗口中，即可点击运行。&lt;/p&gt;
 &lt;p&gt;软件小巧，几乎不占用资源，无需安装，解压即可使用。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/o6pUXbG.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/o6pUXbG.png&#34;
 	
 	
 	
@@ -1899,7 +1899,7 @@ StartIsBackCfg.exe /install /elevated /silent&lt;/p&gt;
         
         <guid>https://www.danlong360.com/post/windows11classiccontextmenu/</guid>
         <description>&lt;p&gt;Windows 11 的设计师恐怕是认为用户手指缺乏锻炼，所以对于几个用户常用的操作都来增加一个步骤，让用户点击多一次锻炼一下手指。比如最让小编抓狂的右键菜单，明明可以像旧版那样一步搞定，却非要用户点击多一次。好在这个也有修改器“Win11 Classic Context Menu”，用它用户就可以轻松的把 Windows 11 的右键菜单切换回旧版样式。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/XRFimL9.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/XRFimL9.png&#34;
 	
 	
 	
@@ -1931,7 +1931,7 @@ StartIsBackCfg.exe /install /elevated /silent&lt;/p&gt;
         
         <guid>https://www.danlong360.com/post/openshell/</guid>
         <description>&lt;p&gt;OpenShell 中文版(Classic-Start 复刻自 Classic Shell)是一款免费开源的经典开始菜单工具,win10 经典开始菜单软件可以自定义调整开始菜单和资源管理器等,包含经典开始菜单/经典资源管理器/经典 IE 三大模块功能.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/OIPsj7N.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/OIPsj7N.png&#34;
 	
 	
 	
@@ -1967,7 +1967,7 @@ StartIsBackCfg.exe /install /elevated /silent&lt;/p&gt;
         
         <guid>https://www.danlong360.com/post/maye/</guid>
         <description>&lt;p&gt;Maye 中文版是一款体积小巧简单易用的快速启动工具.不要看体积小巧,这款桌面整理工具功能还是非常多样化的,比如:多文件拖拽添加启动,快捷键呼出,自动多列显示,lnk 文件解析等等.软件没有繁杂的功能,操作中也不会产生任何垃圾文件,绿色无污染,只专注于文件的快速启动,是用户提升 Windows 操作体验的好帮手.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/CWPAgwP.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/CWPAgwP.png&#34;
 	
 	
 	

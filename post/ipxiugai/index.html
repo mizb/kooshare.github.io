@@ -333,7 +333,7 @@
     
     
     <p>IP 地址修改器是由 kn007 编写的一个小工具，是目前较好用的 IP 地址修改工具。程序主要原理还是利用了 WMI 的 Win32_NetworkAdapter、Win32_NetworkAdapterConfiguration，还有 Netapi32.dll 及注册表补充来获取信息，硬件方面用了 Setupapi.dll 来控制网卡禁启用。本想用下 iphlpapi.dll 获取信息的，但测试完，感觉就是个废物。没什么卵用。至于 MSFT_NetAdapter，因为最低要 Win 8 或 Server 2012 就放弃了。看了下，就是信息整合比较好、方法比较多，但还是要配合 Win32_NetworkAdapterConfiguration 使用。啥时候能有个动态库或好的 WMI 类单独来管理就好了。</p>
-<p><img src="https://i.imgur.com/voVdlog.png"
+<p><img src="/voVdlog.png"
 	
 	
 	
