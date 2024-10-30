@@ -7,7 +7,51 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 22 Oct 2024 10:04:33 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/win-pe/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 30 Oct 2024 17:55:41 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/win-pe/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>优启通VIP版(U盘启动盘制作工具) v3.7.2024.1025</title>
+        <link>https://www.danlong360.com/post/94391/</link>
+        <pubDate>Wed, 30 Oct 2024 17:55:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/94391/</guid>
+        <description>&lt;p&gt;优启通VIP版(EasyU,简称EU)是IT天空打造的一款专业U盘启动盘制作工具,优启通工具采用U盘三分区方案,支持BIOS(Legacy)与UEFI双启动模式,在支持主流硬件基础上,同时兼容早期多数旧硬件.整合各种装机必备工具,并结合IT天空数款自研软件,有效提高系统安装效率.U盘PE所在分区于系统下自动隐藏,PE区与数据区分别独立,便于使用者对数据的各项操作.优启通WinPE系统定位于一线装机技术员,系统工程师和系统维护人员.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/30/CM1xcXQY38Rzola.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;功能特点&#34;&gt;功能特点
+&lt;/h3&gt;&lt;p&gt;1）U盘模式：一键全新制作, 支持免格升级, UD/EFI分区, 个性化启动菜单, 模拟测试
+2）本地模式：将PE写入当前系统盘符, 支持BLOS/UEFI引导, 安装PETools/Dlc扩展包
+3）生成ISO：生成PE的ISO镜像,可用于量产,虚拟机;可选UDF/PETools/Dlc扩展包,可选引导菜单样式
+4）分区管理：这辅助功能,用于检查及修复U盘,创建磁盘分区操作,文件信息, 如:UD区信息,安装信息等
+5）高级选项：UD/EFI分区,本地模式,ISO-BLOS/EFI,2003PE/Win10PE,各种加载命令,磁盘检测模式等&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;[VIP] 优启通 EasyU v3.7.2024.1025（2024.10.29 发布）
+更新 - Intel RST VMD 20.0.0.1038 64位
+更新 - 傲梅分区助手 PartAssist 10.5
+更新 - CPU-Z 2.11.2
+更新 - DiskGenius 5.6.1.1580
+更新 - FastCopy 5.8
+更新 - Ghost Explorer 12.0.0.11611
+更新 - WinNTSetup 5.3.5.2&lt;/p&gt;
+&lt;h3 id=&#34;特别提醒&#34;&gt;特别提醒
+&lt;/h3&gt;&lt;p&gt;1.下载解压后，请运行EasyU主程序进行制作；
+2.请预先准备好U盘或者移动硬盘，推荐标配16G或以上；
+3.请尽可能选择速度和性能好的U盘，某些较差的控制芯片的U盘可能导致制作失败；
+4.请在制作前备份U盘内重要数据，避免出现不必要的问题；
+5.个别杀软会将主程序或PE内工具软件报毒，还请理性判断；
+6.移动硬盘USB转接芯片的优劣，将导致制作成功与否或可否正常启动。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOASC8TYmBaXy68nA4rZkiJbA1?pwd=s8j8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOASC8TYmBaXy68nA4rZkiJbA1?pwd=s8j8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Rufus中文版(U盘引导盘制作工具) v4.6.2208 中文绿色版</title>
         <link>https://www.danlong360.com/post/61552/</link>
         <pubDate>Tue, 22 Oct 2024 10:04:33 +0800</pubDate>

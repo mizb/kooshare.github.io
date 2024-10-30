@@ -7,7 +7,42 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 29 Oct 2024 22:31:35 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 30 Oct 2024 19:46:25 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MobaXterm(远程终极工具箱) v24.3 Build 5248 绿色版</title>
+        <link>https://www.danlong360.com/post/87694/</link>
+        <pubDate>Wed, 30 Oct 2024 19:46:25 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/87694/</guid>
+        <description>&lt;p&gt;MobaXterm是一款功能强大的远程计算工具，它提供了一系列的远程操作功能，如远程终端、文件传输、X11窗口显示等，使得远程计算操作更加方便快捷。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/30/TMYKpCUd2q3vacH.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;远程终端：支持SSH、Telnet、RDP、VNC等协议，能够远程登录到Linux、Unix、Windows等系统，并提供强大的终端操作功能。
+文件传输：支持SCP、SFTP、FTP等协议，能够方便地在本地和远程计算机之间传输文件。
+X11窗口显示：支持在本地计算机上显示远程计算机的应用程序，使得在远程计算机上运行的图形界面应用程序可以在本地显示，并支持图形界面交互操作。
+远程桌面：支持远程桌面协议，能够远程访问Windows系统，并提供类似于Windows本地桌面的体验。
+X服务器：作为一个X服务器，可以在Windows系统上运行Linux/Unix应用程序，并提供图形界面显示。
+多标签终端：支持多个终端同时打开，并以标签页形式进行切换，方便管理和操作多个远程计算机。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面友好：提供直观的用户界面，操作简单，易于上手。
+功能丰富：集成了多种常用的远程操作功能，能够满足各种远程计算需求。
+高性能：采用了高效的远程计算协议和算法，能够快速响应用户操作。
+可定制性强：提供了丰富的设置选项，使得用户可以根据自己的需求进行定制和配置。
+轻量级：相比于其他类似的工具，MobaXterm的安装包体积较小，占用系统资源较少，运行稳定。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOASFNLHiuGh6xY-XhN_1pUrA1?pwd=zisp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOASFNLHiuGh6xY-XhN_1pUrA1?pwd=zisp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>TeamViewer(远程控制软件) v15.59.3 官方绿色版</title>
         <link>https://www.danlong360.com/post/95733/</link>
         <pubDate>Tue, 29 Oct 2024 22:31:35 +0800</pubDate>

@@ -7,7 +7,356 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 30 Oct 2024 11:22:30 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 30 Oct 2024 18:57:19 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>VLC Media Player VLC开源播放器 v3.5.7</title>
+        <link>https://www.danlong360.com/post/33229/</link>
+        <pubDate>Wed, 30 Oct 2024 18:57:19 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/33229/</guid>
+        <description>&lt;p&gt;VLC媒体播放器是一款免费的开源跨平台多媒体播放器，可播放大多数多媒体文件以及光盘，设备和网络流媒体协议。&lt;/p&gt;
+&lt;p&gt;这是Android™平台的VLC媒体播放器的端口。 VLC for Android可以播放任何视频和音频文件，以及网络流，网络共享和驱动器，以及DVD ISO，如桌面版VLC。&lt;/p&gt;
+&lt;p&gt;VLC for Android是一款完整的音频播放器，具有完整的数据库，均衡器和滤波器，可播放所有奇怪的音频格式。&lt;/p&gt;
+&lt;p&gt;VLC适用于所有人，完全免费，没有广告，没有应用内购买，没有间谍，是由热情的志愿者开发的。所有源代码都是免费提供的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/30/uT2hmN4dMPifol8.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;VLC for Android™播放大多数本地视频和音频文件，以及网络流（包括自适应流媒体），DVD ISO，如桌面版VLC。它还支持磁盘共享。&lt;/p&gt;
+&lt;p&gt;支持所有格式，包括MKV，MP4，AVI，MOV，Ogg，FLAC，TS，M2TS，Wv和AAC。包含所有编解码器，无需单独下载。它支持字幕，图文电视和隐藏式字幕。&lt;/p&gt;
+&lt;p&gt;VLC for Android有一个音频和视频文件的媒体库，允许直接浏览文件夹。&lt;/p&gt;
+&lt;p&gt;VLC支持多轨音频和字幕。它支持自动旋转，宽高比调整和手势来控制音量，亮度和搜索。&lt;/p&gt;
+&lt;p&gt;它还包括用于音频控制的小部件，支持音频耳机控制，封面艺术和完整的音频媒体库。&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOASElRQPpfokPt6vf-LrNvOA1?pwd=wufa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOASElRQPpfokPt6vf-LrNvOA1?pwd=wufa&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Klick’r 智能图像识别自动点击器 v3.0.5</title>
+        <link>https://www.danlong360.com/post/40858/</link>
+        <pubDate>Wed, 30 Oct 2024 18:56:38 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/40858/</guid>
+        <description>&lt;p&gt;Klick’r是一款基于图像识别的开源Android应用，为自动化重复任务带来了革新。它不仅能够胜任传统的自动点击任务，更以独到的图像识别功能脱颖而出，是游戏玩家、测试工程师以及所有面临重复劳动的人的得力助手。利用了先进的图像处理技术，结合高效的事件监听机制，确保在动态环境中准确识别目标图像。&lt;/p&gt;
+&lt;p&gt;通过集成深度学习模型进行图像比对，Klick’r实现了高精度的自动化触发。此外，其底层利用Android SDK的强大功能，支持广播接收器和Intent服务，使得高级用户能够编写复杂脚本，实现自动化流程控制。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/30/tzDhfuSCM9IB67o.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;精确点击与滑动：配置点击位置、按压时间和滑动轨迹，配合图像识别，令自动化动作精准无误&lt;/li&gt;
+&lt;li&gt;高级定制自动化：内置强大的脚本编辑支持，允许添加计数器、逻辑流控制，极大扩展了自动化边界&lt;/li&gt;
+&lt;li&gt;多样化触发器：灵活设置基于图片、时间间隔、计数条件或系统事件的触发，满足个性化需求&lt;/li&gt;
+&lt;li&gt;简易模式：提供直观的操作界面，即便是自动化新手也能快速上手&lt;/li&gt;
+&lt;li&gt;教学引导：内置教程帮助新用户迅速掌握复杂的自动化设定，轻松自动化生活&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOASEiZk0N3lBDGeZToTqSRwA1?pwd=sfgb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOASEiZk0N3lBDGeZToTqSRwA1?pwd=sfgb&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Direct直达搜索 v1.5.5</title>
+        <link>https://www.danlong360.com/post/21765/</link>
+        <pubDate>Wed, 30 Oct 2024 18:56:06 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/21765/</guid>
+        <description>&lt;p&gt;Direct直达搜索APP是一款不错的搜索工具软件，在这里也是带来了比较全面丰富的内容，用户朋友可以轻松完成相关的搜索服务，是能够随时随地搜索各类资源的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/30/phGtZjBW9mVJrLI.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;快捷的搜索的工具，这款搜素的工具能够助手用户完成搜索的内容&lt;/li&gt;
+&lt;li&gt;满足用户对于搜索的需求，直接的快速启动各种内容&lt;/li&gt;
+&lt;li&gt;直达提供了强大的搜索功能，规则云端更新，无需繁琐的手动添加&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOASEf57GMkqjaNvq851-s55A1?pwd=27wk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOASEf57GMkqjaNvq851-s55A1?pwd=27wk&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小歪微商 v1.3.9 微商作图工具，生成专属朋友圈，去广告会员版</title>
+        <link>https://www.danlong360.com/post/82653/</link>
+        <pubDate>Wed, 30 Oct 2024 18:55:08 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/82653/</guid>
+        <description>&lt;p&gt;此版本已为你解锁vip功能，小编已亲测会员功能全部免费，生成专属于你的个性化朋友圈，各种文案一键选择即可发送，后续也将为你持续更新最新破解版本等你来享。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/30/fsqVy47JPG8RTCX.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;无需登录，会员解锁&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOASEcZjEtvDjj5a0TM1beOGA1?pwd=29ie&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOASEcZjEtvDjj5a0TM1beOGA1?pwd=29ie&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>柚子下载 v1.0.2 高级版</title>
+        <link>https://www.danlong360.com/post/30822/</link>
+        <pubDate>Wed, 30 Oct 2024 18:54:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/30822/</guid>
+        <description>&lt;p&gt;一款功能全面的手机下载器应用，以其干净清爽无广告的界面和强大的下载功能受到用户欢迎。软件支持轻松批量多任务下载内容，并接入了常用的搜索器，包括百度、必应和搜狗搜索，同时支持多种文件格式的下载，如视频、音频、文档等。用户可以通过这款软件快速搜索并下载所需内容。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/30/tGFko3qr4Qc7lXz.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOASEaArI7pWPnIhdx689SNPA1?pwd=dqh2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOASEaArI7pWPnIhdx689SNPA1?pwd=dqh2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Apo-AI v3.9.7 Chat Smith，AI人工智能聊天软件，GPT人工智能机器人，GРТ4.0模型</title>
+        <link>https://www.danlong360.com/post/76751/</link>
+        <pubDate>Wed, 30 Oct 2024 18:53:46 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/76751/</guid>
+        <description>&lt;p&gt;Apo-AI安卓版是一款功能先进的AI人工智能聊天软件APP。Apo-AI付费版利用先进的ChatGPT4.0模型与Chatbot AI聊天助理进行对话，用户可以提出任何问题，并即时获得答复，享受与AI的互动对话体验。AIChat安卓版内置了更高效、更智能的GPT-4模型，提供了更出色的性能和智能化的聊天能力。无论您是寻求知识、娱乐还是解决问题，Apo-AI安卓版都将成为您可靠的伙伴，为您提供精准而高质量的答案。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/30/qIheXRCFEwrinfd.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;提供更多选择的AI GPT4 Chatbot助手，如商务、内容、写作、面试、信息等领域。&lt;/li&gt;
+&lt;li&gt;利用Apo AI Chatbot作为Linux终端，结合JavaScript助手进行代码调试和编写，并从文本中提取数据。&lt;/li&gt;
+&lt;li&gt;提供总结、问答和解释各种特定风格事物的功能。&lt;/li&gt;
+&lt;li&gt;获得关于AI艺术、装饰、派对主题、社交媒体状态、内容营销以及商务电子邮件创意的灵感。&lt;/li&gt;
+&lt;li&gt;寻找家庭作业和作业问题的答案。&lt;/li&gt;
+&lt;li&gt;使用Apo AI Chatbot进行音乐创作、翻译、语法修正、论文评分和数学问题解决。&lt;/li&gt;
+&lt;li&gt;通过与Apo AI Chatbot进行对话，获得更多创意，展示您独特的想法和示例。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;AI Chat: Ask Chatbot Assistant
+&lt;a class=&#34;link&#34; href=&#34;https://play.google.com/store/apps/details?id=com.smartwidgetlabs.chatgpt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://play.google.com/store/apps/details?id=com.smartwidgetlabs.chatgpt&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;修改日志&#34;&gt;修改日志
+&lt;/h3&gt;&lt;p&gt;解锁内购收费，精简对齐优化&lt;/p&gt;
+&lt;p&gt;如果需要使用GРТ4.0模型，请点击左上方的AI Chat(GPT-4)选择即可。&lt;/p&gt;
+&lt;h3 id=&#34;温馨提示&#34;&gt;温馨提示
+&lt;/h3&gt;&lt;p&gt;注意：提问需要梯子，否则回答总提示英文！&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOASEYp3f0IK1T3ef-lLD_cgA1?pwd=rb7v&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOASEYp3f0IK1T3ef-lLD_cgA1?pwd=rb7v&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AI Photo AI照片 v1.3.2 高级版</title>
+        <link>https://www.danlong360.com/post/16769/</link>
+        <pubDate>Wed, 30 Oct 2024 18:53:12 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/16769/</guid>
+        <description>&lt;p&gt;AI Photo是一款利用先进人工智能技术的应用程序，旨在帮助用户轻松生成各种风格的艺术头像。无论你是想要回忆90年代的青春，还是想要尝试赛博朋克风格，AI Photo都能满足你的需求。通过简单的操作，用户只需上传一张照片，便可以快速生成令人惊叹的艺术图像。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/30/DR5ImksipghtJHq.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOASETfUDMEBFbj8EjCyTpEVA1?pwd=wtm5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOASETfUDMEBFbj8EjCyTpEVA1?pwd=wtm5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>亲戚关系计算器 v1.1.0</title>
+        <link>https://www.danlong360.com/post/19228/</link>
+        <pubDate>Wed, 30 Oct 2024 18:52:40 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/19228/</guid>
+        <description>&lt;p&gt;亲戚关系计算器APP专为用户带来的亲戚称呼推理的软件，软件的用法也是非常的简单，通过人物的关系逐步的点击即刻得到称呼，让用户春节等节假日遇到七大姑八大姨或是远房亲戚等直接手机进行计算不用担心因不知道怎么称呼而尴尬，非常的精准，软件的用法简单内存占比也非常的小，单机不用联网也可以使用，打开即刻查询让你走亲访友不尴尬也不再畏惧。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/30/lO6urdKnUzehMLi.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;亲戚计算器支持常见的关系称谓计算&lt;/li&gt;
+&lt;li&gt;通过人物的关系逐步的点击即刻得到称呼&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOASEQqZ_EttfmPk2UdWQn4-A1?pwd=kx5f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOASEQqZ_EttfmPk2UdWQn4-A1?pwd=kx5f&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ToonMe 卡通化相机 v0.7.13 特别版</title>
+        <link>https://www.danlong360.com/post/42107/</link>
+        <pubDate>Wed, 30 Oct 2024 18:52:02 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/42107/</guid>
+        <description>&lt;p&gt;此软件可以使自己的照片卡通化，秒变动漫人物。使用ToonMe中的人工智能神奇功能，自动以卡通或矢量样式重新绘制你的肖像。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/30/89XcoMCmfYl6GI3.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOASEOHXmAiwdKXToqLKMbz_A1?pwd=cgns&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOASEOHXmAiwdKXToqLKMbz_A1?pwd=cgns&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>超强磁力下载 v1.2.8 手机磁力下载神器，解析速度非常快，会员解锁版</title>
+        <link>https://www.danlong360.com/post/88746/</link>
+        <pubDate>Wed, 30 Oct 2024 18:51:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/88746/</guid>
+        <description>&lt;p&gt;超强磁力下载app下载速度可达20m/s,完美超越某雷下载软件，是一个逆天的手机磁力下载神器,支持种子、冷门磁力、死磁等多种链接下载，解析速度非常快，而且还能在线边下边播。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/30/Z5VuJaTqjEgBRGi.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;会员解锁
+去更新&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOASELLEzKOjjVCuoe5uA9MvA1?pwd=jir4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOASELLEzKOjjVCuoe5uA9MvA1?pwd=jir4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>流舟文件 v1.7.14 便捷的文件管理工具</title>
+        <link>https://www.danlong360.com/post/87105/</link>
+        <pubDate>Wed, 30 Oct 2024 18:50:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/87105/</guid>
+        <description>&lt;p&gt;流舟文件是一款主打文件管理功能的软件。便捷的文件管理工具，通过软件可以快捷安全的浏览手机中的文件，还可以直接从电脑端浏览，满足你的相关需求。功能强大且免费的本地和网络文件管理器，帮助你高效的管理文件以及应用，还可以用存储分析/文件分析功能释放手机空间。使用多选、剪切/复制/粘贴、移动、创建、删除、重命名、搜索、共享、发送、隐藏、创建快捷方式和书签来管理文件，就像在台式机或笔记本电脑上一样。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/30/B2NGclI5UhyfCQ1.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;应用管理器-分类卸载备份详细信息
+在列表和网格视图中查看文件
+压缩和解压缩文件
+搜索和共享文件
+多种选择和多种分类支持
+照片、视频和apk文件的缩略图&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;新增&amp;rsquo;隐藏文件&amp;rsquo;功能,您可将不希望看见的文件(文件夹)隐藏&lt;/li&gt;
+&lt;li&gt;文件中转站支持响应 QQ/微信 内的所有文件类型&lt;/li&gt;
+&lt;li&gt;TV体验优化&lt;/li&gt;
+&lt;li&gt;侧边栏内分组调整&lt;/li&gt;
+&lt;li&gt;视频播放器支持读取smb/ftp/webdav的视频列表&lt;/li&gt;
+&lt;li&gt;添加文件快捷方式到桌面时支持设置名称&lt;/li&gt;
+&lt;li&gt;体验优化和bug修复&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOASEIbTmapCyDEsuUZRE3osA1?pwd=eded&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOASEIbTmapCyDEsuUZRE3osA1?pwd=eded&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>抖音APP(抖音安卓版) v31.9.0 抖音官方正式版</title>
+        <link>https://www.danlong360.com/post/2999/</link>
+        <pubDate>Wed, 30 Oct 2024 17:48:14 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/2999/</guid>
+        <description>&lt;p&gt;📱抖音App是由字节跳动公司推出的一款手机应用。它是一款集音乐、舞蹈、搞笑、美食等多种内容的短视频分享平台，用户可以用手机拍摄视频并添加各种滤镜、音效和特效来制作个人短视频。抖音App以其快速的视频裁剪和编辑功能而备受欢迎，用户可以轻松地在几分钟内制作出高质量的短视频。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/30/UOnEt81BRiY5JHT.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;视频制作：用户可以通过抖音App快速拍摄和编辑短视频，添加滤镜、音效和特效来制作个性化的视频内容。
+视频发布：用户可以将自己制作的短视频发布到平台上，并通过抖音App的分发机制获得更多的曝光和关注。
+音乐配音：抖音App提供了大量的音乐库，用户可以选择自己喜欢的音乐为短视频配乐，增加视频的趣味性和吸引力。
+社交互动：用户可以在抖音App上关注其他用户，点赞、评论和转发他人的视频，与其他用户进行互动和交流。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：抖音App拥有简洁的用户界面和直观的操作方式，使用户能够快速上手并制作出精彩的短视频。
+高品质内容：抖音App提供了大量的高质量视频内容，用户可以在这里欣赏到各种类型的精彩视频。
+智能推荐：抖音App通过智能算法能够根据用户的喜好和兴趣推荐相关的视频内容，为用户提供个性化的浏览体验。
+广泛社交：抖音App提供了多种社交互动方式，用户可以关注其他用户、与他们互动交流，并通过点赞和评论表达自己的喜好和观点。
+热门挑战：抖音App经常推出热门挑战活动，用户可以参与其中并展示自己的创意和才艺。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;&lt;strong&gt;新版变化&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;版本号结尾为1为正式版
+版本号结尾为0日首页有反馈图标为内测版
+版本号结尾为0日首页无反馈图标为公测版(Pad)&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAS8xXQt1m9rR73xkTlNZ9dA1?pwd=886j&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAS8xXQt1m9rR73xkTlNZ9dA1?pwd=886j&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>FairEmail 安卓电子邮件 v1.2242</title>
         <link>https://www.danlong360.com/post/94865/</link>
         <pubDate>Wed, 30 Oct 2024 11:22:30 +0800</pubDate>
