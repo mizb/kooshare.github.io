@@ -7,7 +7,47 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 31 Oct 2024 12:32:26 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 31 Oct 2024 19:15:47 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>维克日记(支持Markdown语法输入) v0.5.4 中文绿色版</title>
+        <link>https://www.danlong360.com/post/70223/</link>
+        <pubDate>Thu, 31 Oct 2024 19:15:47 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/70223/</guid>
+        <description>&lt;p&gt;维克日记是一款设计优雅、开箱即用的日记软件，支持Markdown语法输入和实时预览。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/31/pwQaPegnIhOqslV.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;一目了然的用户界面，简单免配置、开箱即用
+支持Markdown语法输入，内容原地实时预览
+日记支持表格可视化编辑、本地图片插入/粘贴
+支持输入密码登录，日记隐私内容更有保障
+支持按目录批量操作日记（如：删除等）
+数据纯本地保存，无惧云端第三方安全风险
+支持Windows、Mac、Linux多个系统平台&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v0.5.4
+新增功能
+新增段落样式设置：首行缩进/首字加粗/首字下沉
+新增文档大纲目录组件，支持文档内容滚动联动
+问题修复
+解决文档目录在文档较多时展开可能卡顿的问题
+改进优化
+调整目录滚动条宽度，解决太窄无法选中的问题
+笔记标题编辑完自动聚焦编辑区，方便后续写作&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAXIVQ9QzDSnT2515fcJ_TCA1?pwd=nsu8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAXIVQ9QzDSnT2515fcJ_TCA1?pwd=nsu8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>The Bat!(邮件客户端) Professional Edition v11.3 多语便携版</title>
         <link>https://www.danlong360.com/post/16294/</link>
         <pubDate>Thu, 31 Oct 2024 12:32:26 +0800</pubDate>
