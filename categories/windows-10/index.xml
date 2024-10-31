@@ -7,7 +7,61 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 27 Oct 2024 21:52:47 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-10/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 31 Oct 2024 21:28:55 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-10/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>小修 Windows 10 Pro (18363.2274) 深度精简 四合一 最终版V11 (2024.10.31)</title>
+        <link>https://www.danlong360.com/post/3039/</link>
+        <pubDate>Thu, 31 Oct 2024 21:28:55 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/3039/</guid>
+        <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原
+19H2__18363 推荐老机型安装,主打流畅度，轻度游戏办公 娱乐
+2024-10-31 深度精简版 V11
+修复了关机时会概率性出现 ctfmon 溢出错误
+修复了手机无法共享与 PC 网络、个别机子无法识别 GameXX 模式
+恢复了设备安装管理器定期刷新设备元数据、设备重置功能
+更新了常用运行库(2024.10)，支持了繁体、日语输入法添加(须在网络属性里关闭流量计费)
+优化了图片查看方式、优化了驱动脚本、优化了默认桌面图标字体为宋体(对低分辨率显示器更友好)
+集成VC、DX、轻度美化设置，默认开启高性能模式，虚拟内存需用户自己设置。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/31/MvguiK5nstGeawc.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;小修 Windows 10 Pro (18363.2274) 深度精简 四合一 最终版V11 (2024.10.31)&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本特点&#34;&gt;版本特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;纯净、无广告、流畅、右键设置、响应速度、适合家庭娱乐/集成微软常用运行库合集/DX&lt;/li&gt;
+&lt;li&gt;关闭windows更新不包括驱动 更新不包括恶意软件删除工具&lt;/li&gt;
+&lt;li&gt;集成.NET Framework 3.5(仅限Windows转换程序)旧版制作&lt;/li&gt;
+&lt;li&gt;集成更新后运行清理 (仅限Windows转换程序) 后期封装制作&lt;/li&gt;
+&lt;li&gt;此版本采用 uup官网镜像 Windows 10 19H2 Pro 18363.2274&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;主要保留&#34;&gt;主要保留
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;• U版本 4.36G / [自建账户]&lt;/strong&gt;
+共享、计算器、空间音效、看图、WMP、截图、旧版组件、Net3.5 – 4.8、光学、小娜、搜索、打印
+IE、ODBC、简体输入法、蓝牙、组策略、DX、xbox 驱动、触摸、画图、Mstsc、Linux、远程桌面、heic
+User 安装完毕 C 盘占用 4G 左右 首次进入桌面进程优化控制在 40 左右浮动&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;• A版本 4.36G / [快速安装]&lt;/strong&gt;
+相比User&lt;del&gt;一个是自建用户名、一个是快速管理员账户&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;• PC 版本 4.20G&lt;/strong&gt;
+精简了 平板触控、指纹、传感器、轻松使用、移动设备&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名称: H:\Windows 10 Pro 18363.2274 4in1 深度精简版 V11 小修.esd
+文件大小: 1392048574 字节
+修改时间: 2024 年 10 月 31 日, 14:52:58
+MD5: 16B48258A337CD14EA054FD1D5BA4FCF
+SHA1: 96CCD3F40F718AD4C498994F206727C7D8F4DAE5
+CRC32: 4E542F3F&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAXlb7cIsoxC8LpDUR83PdAA1?pwd=jg7t&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAXlb7cIsoxC8LpDUR83PdAA1?pwd=jg7t&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>小修 Windows 10 LTSC_2021 (19044.5073) 极限精简 四合一 (2024.10.25)</title>
         <link>https://www.danlong360.com/post/21394/</link>
         <pubDate>Sun, 27 Oct 2024 21:52:47 +0800</pubDate>
