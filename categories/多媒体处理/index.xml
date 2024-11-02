@@ -7,7 +7,122 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 02 Nov 2024 11:27:38 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 02 Nov 2024 18:27:13 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>OBS Studio(开源录屏直播软件) v31.0.0 Beta 3 / 30.2.3 中文绿色版</title>
+        <link>https://www.danlong360.com/post/44134/</link>
+        <pubDate>Sat, 02 Nov 2024 18:27:13 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/44134/</guid>
+        <description>&lt;p&gt;OBS Studio（Open Broadcaster Software Studio）是一款免费且开源的视频录制和直播软件，适用于 Windows、macOS 和 Linux 操作系统。它提供了丰富的功能和用户友好的界面，帮助用户轻松创建和编辑高质量的视频内容。OBS Studio 广泛应用于游戏直播、教学视频制作、会议录制和内容创作等领域。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/02/xBri4msMOUCQp8k.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;实时录制和直播：支持将屏幕、摄像头、游戏内容等实时录制并直播到各大直播平台，如Twitch、YouTube等。
+多场景切换：支持创建多个场景和源，方便用户随时切换不同的场景和内容。
+图片/文本叠加：支持在直播画面上叠加图片、文本、水印等元素。
+滤镜和特效：支持应用各种滤镜和特效来增强直播效果。
+高质量音频支持：支持多通道音频捕获和混音，以及降噪和音频增强功能。
+自定义热键和快捷键：支持用户自定义热键和快捷键，方便快速操作和切换场景。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;轻量级、开源免费：OBS Studio是一个开源、免费的直播和录制工具，可在Windows、macOS和Linux系统上运行。
+易于使用：OBS Studio界面简洁直观，用户可以轻松了解软件的操作流程和功能。
+强大的扩展性：支持第三方插件和扩展，用户可以根据自己的需求灵活定制和扩展功能。
+社区支持：拥有庞大的用户社区和开发者社区，用户可以在社区中获取技术支持、交流经验和资源共享。
+更新频繁：OBS Studio团队定期更新软件，修复bug、增加新功能和优化性能，保持软件的稳定性和可靠性。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAgQv66QzDSnT2515fg3g-qA1?pwd=8qsu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAgQv66QzDSnT2515fg3g-qA1?pwd=8qsu&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>SolveigMM Video Splitter(视频无损剪辑) v8.1.2410.31</title>
+        <link>https://www.danlong360.com/post/8292/</link>
+        <pubDate>Sat, 02 Nov 2024 18:26:32 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8292/</guid>
+        <description>&lt;p&gt;SolveigMM Video Splitter是一款功能强大、且操作简单方便的视频分割合并软件，它是SolveigMM AVI Trimmer的功能加强版，分割合并快速无损、且界面友好；它的视频分割功能（Splitter ）支持各种编码格式的AVI（DivX、DV、MJPEG、XVID、MPEG-4）、WMV、ASF（DivX、MJPEG、XVID、MPEG-4、WM Video 7/9）F、MPEG（.mpg、.mpeg、.mpv、.m2v、.vob)文件、也支持受损的WMV、ASF格式的分割。视频合并功能（Joiner）则支持.wma、.wmv、.asf、.avi、.mpg、.mpv、.dat等格式。视频预览的话需要相应的解码器，但不影响分割。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/02/7fjtVlYchoG2BbL.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;视频分割：可以根据时间或关键帧来分割视频文件，实现精确的分割。
+错误修复：可以修复由文件损坏或错误编码引起的视频问题。
+批量处理：可以一次处理多个视频文件，提高工作效率。
+音频提取：可以从视频文件中提取音频，并保存为独立的音频文件。
+视频合并：可以将多个视频文件合并成一个完整的视频文件，无需重新编码。
+快速剪辑：可以快速剪辑视频文件，去除不需要的部分。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高质量视频分割：分割视频时保持原始视频的质量和格式。
+快速处理速度：可以快速处理大型视频文件，无需重新编码。
+直观的用户界面：提供简单和易于使用的界面，适合初学者和专业人士使用。
+稳定可靠：软件稳定性高，没有崩溃或错误的情况。
+多语言支持：支持多种语言界面，满足不同用户的需求。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;使用了 大眼仔 大佬补丁制作
+按照补丁要求自动更改主程序名称为：SMMVSplitter_x64_DaYanZai.exe，并更改快捷方式
+免去手动操作麻烦&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAgQrc3TGvLpavAUvhhBcoBA1?pwd=wuw4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAgQrc3TGvLpavAUvhhBcoBA1?pwd=wuw4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Shark007 Codecs(多媒体编解码器套件) v18.7.9 绿色版</title>
+        <link>https://www.danlong360.com/post/26266/</link>
+        <pubDate>Sat, 02 Nov 2024 18:25:56 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/26266/</guid>
+        <description>&lt;p&gt;Shark007 Codecs 是一个全面的多媒体编解码器套件，它为Windows用户提供了直接在Windows Media Player和其他媒体播放器中播放多媒体文件的能力。它包括了几乎所有常见的视频和音频格式的解码器和编码器，例如AVI、MKV、FLV、MP4、MP3、WAV等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/02/xYcfSlQkFuq2zrX.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;提供多种视频和音频格式的解码器和编码器；
+可以在Windows Media Player和其他媒体播放器中无缝播放各种多媒体文件；
+提供高质量的解码和编码算法，保证音视频的清晰度和流畅度；
+支持各种视频和音频设置，例如音量控制、视频调整、字幕显示等；
+支持皮肤和界面定制，让用户可以根据自己的喜好进行个性化设置；
+提供了一个简单的安装程序，使安装和配置过程变得简单和快速。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;免费使用：Shark007 Codecs 是一个免费的软件，用户可以在不花费任何费用的情况下获得并使用它；
+全面兼容：该软件支持几乎所有常见的视频和音频格式，包括高清视频和无损音频；
+稳定可靠：Shark007 Codecs 使用了高质量的解码和编码算法，确保音视频的稳定性和可靠性；
+简单易用：软件提供了一个简单直观的用户界面，使用户可以轻松地进行安装和配置；
+定制化配置：软件允许用户根据自己的需求进行各种音视频设置，以满足不同用户的需求。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;notable updates (current):
+- update LAV filters 0.79.2.20
+- update MediaInfo DLL v24.6
+- update MPC-BE filters 1.8.0.34
+- update Icaros 3.3.3&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAgQp8cQzDSnT2515fg3eGOA1?pwd=wb3c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAgQp8cQzDSnT2515fg3eGOA1?pwd=wb3c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Paint.NET(图像和照片处理软件) v5.1.9072 beta / 5.0.13 中文绿色版</title>
         <link>https://www.danlong360.com/post/26231/</link>
         <pubDate>Sat, 02 Nov 2024 11:27:38 +0800</pubDate>

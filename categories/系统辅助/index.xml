@@ -7,7 +7,92 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 02 Nov 2024 11:28:19 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 02 Nov 2024 18:24:32 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Fort Firewall(Windows防火墙工具) v3.14.9</title>
+        <link>https://www.danlong360.com/post/95716/</link>
+        <pubDate>Sat, 02 Nov 2024 18:24:32 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/95716/</guid>
+        <description>&lt;p&gt;Fort Firewall 是一款高度评价的个人计算机安全防护工具，专为用户提供全面的网络安全解决方案。作为一款开源且免费的防火墙软件，它凭借其高效、轻量级及易于操作的特点，在众多同类产品中脱颖而出。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/02/p5LwV1zKqXcrUsI.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;全面防护功能：Fort Firewall 采用多层次的安全防护策略，可以对网络请求、应用程序和文件进行全面的监控和保护，确保网络安全。&lt;/li&gt;
+&lt;li&gt;灵活的规则配置：用户可以根据需要自定义规则，对网络连接、应用程序、端口、IP 地址等进行灵活的配置，实现个性化的安全防护。&lt;/li&gt;
+&lt;li&gt;用户友好的界面：Fort Firewall 的界面简单直观，操作易于上手，用户可以轻松地进行规则配置和日志查看。&lt;/li&gt;
+&lt;li&gt;实时流量监控：软件支持实时监视网络数据包的流量，可以随时了解网络使用情况，并查找异常流量和攻击。&lt;/li&gt;
+&lt;li&gt;高效的性能：Fort Firewall 采用高效的内核算法，能够快速、准确地对网络流量进行处理，保证网络流畅和稳定。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;总之，Fort Firewall 是一款功能强大、易用性强的防火墙软件，可以有效保障网络安全和数据隐私。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;UI: Options: Traffic Graph: Add Colors for Dark Theme.
+Driver: Remove Service SID-s handling.&lt;/p&gt;
+&lt;h3 id=&#34;中文设置&#34;&gt;中文设置
+&lt;/h3&gt;&lt;p&gt;右下角托盘 – 右键 – Options – Global – Language – Chinese 保存。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAgQmdzXWDu4kivZv7kFEeuA1?pwd=eq7h&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAgQmdzXWDu4kivZv7kFEeuA1?pwd=eq7h&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜狗拼音输入法PC版 v14.10.0.1161 绿色精简版(11.02)</title>
+        <link>https://www.danlong360.com/post/43975/</link>
+        <pubDate>Sat, 02 Nov 2024 18:23:48 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/43975/</guid>
+        <description>&lt;p&gt;搜狗输入法电脑版是装机必备软件,其打字准,词库全,功能强大,使得输入更高效.搜狗拼音输入法最新版,AI打字准确高效.搜狗输入法去广告绿色精简版,移除广告程序精简优化后的用着还不错,至少比官方版用着安心些.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/02/6BY7mAwheciRSTL.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;升级日志 - 搜狗输入法
+&lt;a class=&#34;link&#34; href=&#34;https://pinyin.sogou.com/changelog.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pinyin.sogou.com/changelog.php&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;By: BEIKING
+– 试图打造不联网的搜狗拼音输入法精简版；
+– 修改 SogouPY.ime 和 SogouPY64.ime 去损坏弹窗；
+– 用 0 填充 SGTool.exe 中的 sogou.com 试图阻止联网；
+– 精简 Resource.dll 资源库文件
+– 皮肤和词库放入压缩包内对应文件夹也能自动安装；
+– 细胞词库正常，你下载的 scel 先放到 Scd 文件夹会自动导入；
+– 默认将属性设置、输入法管理器和符号大全快捷方式创建到根目录；
+(需通过快捷方式，才能打开“属性设置”、“输入法管理器”、“符号大全”等窗口)
+√ 免安装批处理精简绿化，仅保留核心功能！
+√ 替换默认皮肤为：简约五彩键盘；
+(修改默认皮肤：_Green\SogouPY\env.ini，ActiveSkinName=简约五彩键盘)
+√ 去联网、去弹窗、去调用，精简了所有的额外功能组件；
+√ 不支持：云计算候选、账户登陆、词库同步，已全部阉割；
+√ 支持安装皮肤和词库、保留符号大全、提供各类本地词库；
+静默安装版安装路径：C:\Program Files\搜狗拼音&lt;/p&gt;
+&lt;p&gt;[2024/11/2]
+1）取消之前添加的用来加速安装的注册表项，原因：可能会导致Win10以后系统特定情况下绿化后会出现两个状态栏，需要多次切换才恢复。
+2）补充文件“过检游戏防作弊检测”后，增加判断：添加系统防火墙策略禁止ime联网 + 不允许使用“@特殊绿化_禁止SGTool.exe进程常驻.lnk”。&lt;/p&gt;
+&lt;h3 id=&#34;版本区别&#34;&gt;版本区别
+&lt;/h3&gt;&lt;p&gt;① exe单文件，没带词库文件，双击选择路径安装 (自动安装参数: -ai)，输入法配置保存在系统默认路径，在开始菜单创建快捷方式，SGTool.exe 允许常驻进程，响应快捷键可通过 Ctrl+Shift+Z 调出符号大全；
+② 7z 压缩包，带词库文件，需解压通过脚本安装，输入法配置保存在当前文件夹，在当前文件夹创建快捷方式，SGTool.exe 不允许常驻进程，不响应快捷键；&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAgQd95jqhcVWcsT0I-WCq9A1?pwd=2jz3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAgQd95jqhcVWcsT0I-WCq9A1?pwd=2jz3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>AkelPad(轻量级文本编辑器) v4.10.0 中文绿色版</title>
         <link>https://www.danlong360.com/post/22142/</link>
         <pubDate>Sat, 02 Nov 2024 11:28:19 +0800</pubDate>
