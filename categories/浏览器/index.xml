@@ -7,7 +7,47 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 02 Nov 2024 11:23:21 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 03 Nov 2024 12:36:45 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MyChrome(谷歌浏览器便携版制作软件) v3.8.49.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/52656/</link>
+        <pubDate>Sun, 03 Nov 2024 12:36:45 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/52656/</guid>
+        <description>&lt;p&gt;MyChrome(Chrome增强软件)是一款用于Chromium,Chrome,Edge,Firefox等浏览器的便携化工具更新器,可以获取浏览器离线安装包制作便携版,内置MouseInc鼠标手势软件和TabPlus标签化插件,支持自定义浏览器安装包,数据路径,缓存路径,增加启动/退出时运行外部程序参数,支持设置为默认浏览器,可以自动更新等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/03/wxs86iWorFfMyCN.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;MyChrome - 可下载制作win版谷歌和Edge便携版/查询mac版谷歌。&lt;/p&gt;
+&lt;p&gt;MyChrome修复增强版是由@申杰基于@甲壳虫原版的基础上进行以下修改：
+1、MyChrome在Chrome核72及以上右键和双击关闭标签页，滚轮切换标签页失效，我虽然不懂MyChrome源码语言au3，但是MyChrome原作者写的英文还是看得懂这些函数是啥意思，于是花了点时间通过内置TabPlus.exe（我自己修改的ahk文件）把这几个功能修复了下；感谢甲壳虫
+2、内置了MouseInc全局鼠标手势软件（我去掉了他的更新提示，每次他更新我手动更新MyChrome内置的MouseInc），默认启用；感谢shuax
+3、内置了GreenChrome,Edge++，大家一直想用的“悬停激活标签页”，“书签在新标签页打开”等都可以使用了；感谢shuax
+4、原来MyChrome里的Chromium下载地址只有32位的，我新增了64位的，并另外新增了Edge下载地址；感谢shuax
+5、下载Edge离线安装包后可以直接在MyChrome里面点击“从离线安装包提取”即可自动解压；
+6、内置的Chromium默认不包含GoogleAPI，我新增了导入GoogleAPI功能；
+7、完善了下修改和新增的两个语言文件zh-TW.ini和en-US.ini
+8、原版MyChrome只有600多k，我修改后2M,主要是因为内置了一些小东西，所以本身还有些小东西如去除开发者提示，如空白新标签页等功能我都没有加进去，有需要的请单独找我。
+9、修复MyChrome更新功能。
+10、增加了edge,chromium等其他浏览器的离线安装包获取方式。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;MyChrome3.8.48正式更名为MyBrowser
+3.8.49
+1.修改64位金丝雀版Edge浏览器下载链接获取方式，更加稳定
+2.细节调整&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAkLd_jTZUEL58Uh04H5UseA1?pwd=qu7z&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAkLd_jTZUEL58Uh04H5UseA1?pwd=qu7z&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>LibreWolf(Firefox浏览器修改版) v132.0-1 官方便携版</title>
         <link>https://www.danlong360.com/post/28528/</link>
         <pubDate>Sat, 02 Nov 2024 11:23:21 +0800</pubDate>
