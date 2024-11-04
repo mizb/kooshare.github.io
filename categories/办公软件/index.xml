@@ -7,7 +7,84 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 03 Nov 2024 17:58:58 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 04 Nov 2024 12:32:53 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>CudaText(免费开源代码编辑器) v1.219.0.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/61884/</link>
+        <pubDate>Mon, 04 Nov 2024 12:32:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/61884/</guid>
+        <description>&lt;p&gt;CudaText 是一个跨平台文本编辑器，适用于Windows、Linux和macOS。它具有许多高级功能，可以满足开发人员和程序员的需求。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/RKwuYG2vqDWX6BU.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;语法高亮：支持许多编程语言的语法高亮显示，代码更易读。
+代码折叠：可以折叠大块代码，使得查看和编辑代码更加方便。
+插件支持：可以通过安装插件来扩展软件的功能，支持自定义插件的开发。
+多光标编辑：支持同时编辑多处相同的内容，提高代码编辑的效率。
+快速查找和替换：可以快速搜索并替换文本，支持正则表达式。
+自动完成：智能代码自动完成功能，提供代码片段和建议。
+代码护眼模式：可以选择暗色或亮色主题，减轻眼睛的疲劳。
+分割视图：可以将编辑器窗口分成多个视图，同时查看和编辑不同的文件。
+集成文件管理器：可以方便地浏览和管理计算机上的文件和文件夹。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;轻量级：CudaText采用C++和Python编写，占用系统资源较少。
+跨平台：可以在Windows、Linux和macOS上运行，支持多种操作系统。
+自定义配置：用户可以自定义软件的外观、快捷键和功能，满足个性化需求。
+多语言支持：软件界面支持多国语言，可以切换为多种语言界面。&lt;/p&gt;
+&lt;h3 id=&#34;中文设置&#34;&gt;中文设置
+&lt;/h3&gt;&lt;p&gt;Options – Select translation … – 双击 zh-CN 即可。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOApVAP917p82f1YWXjWMlb_A1?pwd=xn3s&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOApVAP917p82f1YWXjWMlb_A1?pwd=xn3s&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>QOwnNotes(跨平台笔记应用程序) v24.11.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/53533/</link>
+        <pubDate>Mon, 04 Nov 2024 12:32:10 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/53533/</guid>
+        <description>&lt;p&gt;QOwnNotes是一款功能强大的跨平台笔记应用程序，可以帮助用户轻松管理笔记、任务和清单。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/wojCfNrl5Et8Xqg.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.支持多种编辑器：支持Markdown、Html、和其它多种文本编辑器；
+2.易于搜索：可设置快捷键进行搜索，支持正则表达式搜索；
+3.多个账户：可以管理多个账户，并可以自定义设置；
+4.可定义笔记标签：可以使用标签来组织笔记，方便查找；
+5.全文搜索：支持全文搜索，可以在整个笔记库中搜索文本；
+6.数据同步：可以通过多种方式进行数据同步，包括Dropbox、Nextcloud等；
+7.导出功能：可以通过PDF、HTML等格式导出笔记。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;24.11.0
+There now is a new script settings for secret variables with the type string-secret
+Those strings will be stored encrypted (but don&amp;rsquo;t depend on that encryption)
+In the settings dump, such variables will be masked with ********
+For more information, please take a look at the
+scripting documentation
+Added more Spanish, Arabic, Russian (thank you, alejandromoc, noureddin, catmenmilota)&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOApV5zaTGvLpavAUvhkd-deA1?pwd=bwe4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOApV5zaTGvLpavAUvhkd-deA1?pwd=bwe4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Freeplane(思维导图软件) v1.12.6 / 1.12.7 Preview 04 中文绿色版</title>
         <link>https://www.danlong360.com/post/6599/</link>
         <pubDate>Sun, 03 Nov 2024 17:58:58 +0800</pubDate>
