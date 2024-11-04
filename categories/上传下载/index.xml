@@ -7,7 +7,145 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 04 Nov 2024 12:39:44 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 04 Nov 2024 18:46:43 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Alist 挂载工具 v3.39.1</title>
+        <link>https://www.danlong360.com/post/4095/</link>
+        <pubDate>Mon, 04 Nov 2024 18:46:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4095/</guid>
+        <description>&lt;p&gt;一个支持多个存储的文件列表程序，由 Gin 和 Solidjs 提供支持。&lt;/p&gt;
+&lt;p&gt;便于使用：Alist是从头开始设计的，易于安装，可以在所有平台上使用。&lt;/p&gt;
+&lt;p&gt;多重存储：Alist支持本地存储、Aliyundrive、Onedrive、Google Drive等多种存储提供商，并且易于扩展。&lt;/p&gt;
+&lt;p&gt;支持WebDAV：Alist支持所有存储 WebDAV，这是一个访问文件的标准。&lt;/p&gt;
+&lt;p&gt;深色模式：明暗模式自由切换。&lt;/p&gt;
+&lt;p&gt;受保护的路线：为特定路径添加密码保护和身份验证。&lt;/p&gt;
+&lt;p&gt;文件预览：支持视频、音频、office、pdf、代码、图片预览等，连ipa安装。&lt;/p&gt;
+&lt;p&gt;包下载：使用浏览器的stream api支持不使用服务器的包下载。&lt;/p&gt;
+&lt;p&gt;更多新功能：包括文本编辑器、readme/html 渲染、文件永久链接、cloudflare workers 代理等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/X6jVJ7dENUgSTkC.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;支持多种存储&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;本地存储&lt;/li&gt;
+&lt;li&gt;阿里云盘&lt;/li&gt;
+&lt;li&gt;OneDrive / Sharepoint（国际版, 世纪互联,de,us）&lt;/li&gt;
+&lt;li&gt;天翼云盘 (个人云, 家庭云)&lt;/li&gt;
+&lt;li&gt;GoogleDrive&lt;/li&gt;
+&lt;li&gt;123云盘&lt;/li&gt;
+&lt;li&gt;FTP / SFTP&lt;/li&gt;
+&lt;li&gt;PikPak&lt;/li&gt;
+&lt;li&gt;S3&lt;/li&gt;
+&lt;li&gt;Seafile&lt;/li&gt;
+&lt;li&gt;又拍云对象存储&lt;/li&gt;
+&lt;li&gt;WebDav(支持无API的OneDrive/SharePoint)&lt;/li&gt;
+&lt;li&gt;Teambition（中国，国际）&lt;/li&gt;
+&lt;li&gt;分秒帧&lt;/li&gt;
+&lt;li&gt;和彩云 (个人云, 家庭云)&lt;/li&gt;
+&lt;li&gt;Yandex.Disk&lt;/li&gt;
+&lt;li&gt;百度网盘&lt;/li&gt;
+&lt;li&gt;夸克网盘&lt;/li&gt;
+&lt;li&gt;迅雷网盘&lt;/li&gt;
+&lt;li&gt;蓝奏云&lt;/li&gt;
+&lt;li&gt;阿里云盘分享&lt;/li&gt;
+&lt;li&gt;谷歌相册&lt;/li&gt;
+&lt;li&gt;Mega.nz&lt;/li&gt;
+&lt;li&gt;一刻相册&lt;/li&gt;
+&lt;li&gt;SMB&lt;/li&gt;
+&lt;li&gt;115&lt;/li&gt;
+&lt;li&gt;Cloudreve&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;部署方便，开箱即用
+文件预览（PDF、markdown、代码、纯文本……）
+画廊模式下的图像预览
+视频和音频预览，支持歌词和字幕
+Office 文档预览（docx、pptx、xlsx、&amp;hellip;）
+README.md 预览渲染
+文件永久链接复制和直接文件下载
+黑暗模式
+国际化
+受保护的路由（密码保护和身份验证）
+WebDav (具体见 &lt;a class=&#34;link&#34; href=&#34;https://alist.nn.ci/zh/guide/webdav.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://alist.nn.ci/zh/guide/webdav.html&lt;/a&gt;)
+Docker 部署
+Cloudflare workers 中转
+文件/文件夹打包下载
+网页上传(可以允许访客上传)，删除，新建文件夹，重命名，移动，复制
+离线下载
+跨存储复制文件&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;🚀特点
+独立端口s3服务器-by@itsHenry35in#6242 （9c84b）
+添加doge驱动程序-由@eryajf和@xhofe在#6201 （cf08a）
+139：定期刷新令牌-by@zzc10086in#6146 （195c8）
+seafile：改进功能，支持访问加密库等-by#6160 中的@mlkt（ac680）
+首页🐞错误修复
+添加m3u8到默认视频类型-通过#6142 中的@xhofe（7d9ec）
+如果设置为空，重新启动后设置重置为默认值-#6143 中的@xhofe（2a17d）
+日志垃圾邮件-by@itsHenry35in#6181 （bdfc1）
+139
+错误的刷新TokenResp序列化-by@zzc10086in#6248 （022e0）
+词
+替换dockerfile标记步骤可能没有效果-by#6206 中的@Mmx233（b07dd）
+deps
+将github.com/t3rm1n4l/go-mega摘要更新到#6081 （6f6a8）中的@renovate[bot]
+更新golang.org/x/exp摘要到814bf88-by@renovate[bot]in#6144 （82222）
+伊兰祖
+添加引用到请求标头-由#6171 中的@xhofe（9a0a6）
+IPFS
+url转义文件名（#6245关闭#6027）-by@chenjia404in#6245and#6027 （88947）
+莫潘莫潘
+上传错误（关闭#6158in#6166）-by@foxxorcatin#6158and#6166 （45e00）&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqorvpa6oNGcDHE8c2XNvyA1?pwd=zi5f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqorvpa6oNGcDHE8c2XNvyA1?pwd=zi5f&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>SmartFTP Client Enterprise(FTP客户端) v10.0.3248 多语便携版</title>
+        <link>https://www.danlong360.com/post/39113/</link>
+        <pubDate>Mon, 04 Nov 2024 18:17:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/39113/</guid>
+        <description>&lt;p&gt;SmartFTP是一款功能齐全的FTP（文件传输协议）客户端软件，用户可以通过它快速、安全地上传、下载、传输和管理文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/K5sbHXPc1NERa2e.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持多种文件传输协议：除了FTP外，还支持SFTP、WebDAV、Amazon S3等多种协议，帮助用户更灵活地进行文件传输。
+自动同步功能：可以设置文件夹之间的同步任务，使文件在本地和远程服务器之间自动同步。
+强大的队列管理：支持多个文件传输任务同时运行，可以对队列进行管理和控制。
+智能断点续传：支持断点续传功能，可以在传输中断后恢复传输，节省时间和带宽。
+定时任务：支持设置定时任务来自动执行文件传输操作。
+可视化操作：用户界面简洁明了，操作流畅，适合不同水平的用户使用。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;稳定可靠：SmartFTP是一个成熟稳定的FTP客户端软件，支持多种协议，具有强大的文件传输功能。
+界面友好：软件界面简洁明了，易于使用，适合用户快速上手。
+功能丰富：除了基本的文件传输功能外，还支持自动同步、队列管理、定时任务等高级功能，满足用户的各种需求。
+安全性高：支持加密协议，保障文件传输的安全性和隐私性。
+支持大文件传输：能够高效传输大文件，提高传输效率。
+多平台支持：支持Windows操作系统以及Windows服务器系统，适用于不同的环境和用户需求。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqjNnfmD9dRIu4fa-dyUBJA1?pwd=5qkt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqjNnfmD9dRIu4fa-dyUBJA1?pwd=5qkt&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>123云盘PC版客户端 v2.2.5_123网盘绿色版</title>
         <link>https://www.danlong360.com/post/95877/</link>
         <pubDate>Mon, 04 Nov 2024 12:39:44 +0800</pubDate>

@@ -7,7 +7,289 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 04 Nov 2024 12:38:58 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 04 Nov 2024 18:16:09 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>NIUBI Partition Editor(磁盘分区软件) v10.0.8 多语便携版</title>
+        <link>https://www.danlong360.com/post/77405/</link>
+        <pubDate>Mon, 04 Nov 2024 18:16:09 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/77405/</guid>
+        <description>&lt;p&gt;NIUBI Partition Editor是一款功能强大的磁盘分区管理软件，它可以帮助用户进行磁盘分区的创建、调整、合并、移动、拆分、格式化和删除等操作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/UFfJ8BSaOm5Vew3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;磁盘分区调整：可以调整磁盘分区的大小，合并多个分区为一个分区，移动分区的位置等。&lt;/li&gt;
+&lt;li&gt;磁盘分区创建：可以创建新的磁盘分区，并自定义分区的大小和文件系统类型。&lt;/li&gt;
+&lt;li&gt;磁盘分区格式化：可以对磁盘分区进行格式化，支持多种文件系统格式，如NTFS、FAT32、exFAT等。&lt;/li&gt;
+&lt;li&gt;磁盘分区拆分：可以将一个分区拆分成多个分区，按照用户需求来重新划分磁盘空间。&lt;/li&gt;
+&lt;li&gt;数据保护：软件内置了一系列数据保护机制，可以防止误操作导致数据丢失，同时也支持回滚操作。&lt;/li&gt;
+&lt;li&gt;引导修复：可以修复损坏的引导记录，解决系统启动问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;安全可靠：NIUBI Partition Editor采用了先进的数据保护技术，能够确保用户的数据安全，在操作过程中提供多重保护措施。&lt;/li&gt;
+&lt;li&gt;快速高效：软件具备出色的分区操作速度和性能，可以帮助用户快速完成各种磁盘分区操作。&lt;/li&gt;
+&lt;li&gt;友好易用：NIUBI Partition Editor提供了直观易懂的操作界面，即使对于没有专业知识的用户也能够轻松上手。&lt;/li&gt;
+&lt;li&gt;兼容性强：软件支持多种Windows操作系统版本，包括Windows 10、Windows 8、Windows 7等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqjL5ZYM9IhYrRWh0Vq-R8A1?pwd=bzju&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqjL5ZYM9IhYrRWh0Vq-R8A1?pwd=bzju&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Navicat Premium Lite(数据库管理工具) v17.1.9 中文免费版</title>
+        <link>https://www.danlong360.com/post/38223/</link>
+        <pubDate>Mon, 04 Nov 2024 18:11:42 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/38223/</guid>
+        <description>&lt;p&gt;Navicat Premium Lite 是一款数据库管理工具，带有数据处理、数据可视化、数据分析等功能。软件支持多种常见数据库，包括MySQL、MariaDB、SQLite、SQL Server、Oracle等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/2RchFU3EnOwVWr9.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;数据库连接管理：可以轻松管理多个数据库连接，支持SSH隧道连接。
+SQL编辑器：具有语法高亮、代码自动补全、SQL格式化等功能，可帮助用户快速编写SQL语句。
+数据导入导出：支持各种数据格式的导入导出，如CSV、Excel等。
+数据同步：可以对比两个数据库的结构和数据，进行数据同步操作。
+数据备份及恢复：可以快速备份数据库，并支持定时备份功能，方便数据库恢复操作。
+数据库设计：支持数据库表、视图、触发器等对象的设计和管理。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁：Navicat Premium Lite拥有直观简洁的界面，容易上手。
+多数据库支持：支持多种常见数据库，方便用户统一管理多个数据库。
+多语言支持：软件支持多种语言，满足不同地区用户的需求。
+自动化任务：支持定时备份、数据同步等自动化任务，减轻用户的工作压力。
+数据安全保障：软件提供数据加密、访问控制等功能，保障数据的安全性。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqj5ZbYM9IhYrRWh0VpwCvA1?pwd=wxe3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqj5ZbYM9IhYrRWh0VpwCvA1?pwd=wxe3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Navicat Premium(数据库管理工具) v17.1.9 中文破解版</title>
+        <link>https://www.danlong360.com/post/8330/</link>
+        <pubDate>Mon, 04 Nov 2024 18:10:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8330/</guid>
+        <description>&lt;p&gt;Navicat Premium 是一款多功能的数据库管理工具，可以连接并管理主流的数据库系统，如MySQL、PostgreSQL、Oracle、SQL Server等。它提供了丰富的功能和强大的工具，可以帮助用户轻松地管理数据库，进行数据导入导出、查询、备份和恢复等操作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/OvbSoeZ2rUX7Axs.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;数据库连接：支持连接多种数据库系统，方便用户统一管理不同类型的数据库。
+数据编辑：提供直观的图形化界面，方便用户进行数据的编辑和管理。
+数据同步：支持数据同步功能，可以方便地将数据同步到不同的数据库系统中。
+数据备份和恢复：提供强大的备份和恢复功能，保障数据的安全性。
+数据导入导出：支持多种数据格式的导入导出，方便用户进行数据的迁移和分享。
+SQL查询：提供强大的SQL查询功能，支持多种SQL语句，方便用户进行数据查询和分析。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;多数据库支持：支持连接多种数据库系统，方便用户管理不同类型的数据库。
+强大的工具集：提供了丰富的工具和功能，可以满足用户对数据库管理的各种需求。
+图形化界面：提供直观的图形化界面，方便用户进行操作，降低学习成本。
+数据安全性：提供强大的备份和恢复功能，保障数据的安全性，避免数据丢失。
+灵活性：支持多种数据格式的导入导出，可以满足用户对数据迁移和分享的需求。
+高性能：支持快速的数据查询和操作，提升用户的工作效率。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqj2vwKKXl9Ezvlnn0o-QDA1?pwd=dsyj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqj2vwKKXl9Ezvlnn0o-QDA1?pwd=dsyj&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Fort Firewall(Windows防火墙工具) v3.14.10 / 3.14.11 Test01</title>
+        <link>https://www.danlong360.com/post/63769/</link>
+        <pubDate>Mon, 04 Nov 2024 18:07:50 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/63769/</guid>
+        <description>&lt;p&gt;Fort Firewall 是一款高度评价的个人计算机安全防护工具，专为用户提供全面的网络安全解决方案。作为一款开源且免费的防火墙软件，它凭借其高效、轻量级及易于操作的特点，在众多同类产品中脱颖而出。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/26AwPcomdHvUEqs.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;全面防护功能：Fort Firewall 采用多层次的安全防护策略，可以对网络请求、应用程序和文件进行全面的监控和保护，确保网络安全。&lt;/li&gt;
+&lt;li&gt;灵活的规则配置：用户可以根据需要自定义规则，对网络连接、应用程序、端口、IP 地址等进行灵活的配置，实现个性化的安全防护。&lt;/li&gt;
+&lt;li&gt;用户友好的界面：Fort Firewall 的界面简单直观，操作易于上手，用户可以轻松地进行规则配置和日志查看。&lt;/li&gt;
+&lt;li&gt;实时流量监控：软件支持实时监视网络数据包的流量，可以随时了解网络使用情况，并查找异常流量和攻击。&lt;/li&gt;
+&lt;li&gt;高效的性能：Fort Firewall 采用高效的内核算法，能够快速、准确地对网络流量进行处理，保证网络流畅和稳定。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;总之，Fort Firewall 是一款功能强大、易用性强的防火墙软件，可以有效保障网络安全和数据隐私。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;UI: Tray: Don&amp;rsquo;t show icons for &amp;ldquo;Block Traffic&amp;rdquo; and &amp;ldquo;Filter Mode&amp;rdquo; menus.
+UI: Fix Zones processing (v3.14.9 regression).
+UI: Log purged obsolete app paths as Info.&lt;/p&gt;
+&lt;h3 id=&#34;中文设置&#34;&gt;中文设置
+&lt;/h3&gt;&lt;p&gt;右下角托盘 – 右键 – Options – Global – Language – Chinese 保存。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqiRIDAOf34v7y0K0ZETawA1?pwd=675v&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqiRIDAOf34v7y0K0ZETawA1?pwd=675v&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>RegCool(注册表编辑工具) v2.015 多语便携版</title>
+        <link>https://www.danlong360.com/post/38186/</link>
+        <pubDate>Mon, 04 Nov 2024 18:07:05 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/38186/</guid>
+        <description>&lt;p&gt;RegCool是一款功能强大的注册表编辑器，帮助用户安全地管理注册表，保护Windows系统安全。它支持Windows 10/8/7/Vista和XP系统。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/XZPyN9aKHcbRgh6.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;多重撤销和重做：RegCool支持多个撤销和重做功能，且撤销历史可以保存到磁盘，并在启动时重新加载，这为用户提供了更大的操作灵活性和错误纠正能力。
+搜索和替换：使用超快速搜索算法，用户可以轻松地搜索和替换注册表项、值和数据。
+比较注册表：RegCool能够以超快的速度比较不同计算机之间的注册表，这在迁移数据或解决系统问题时非常有用。
+剪切、复制和粘贴：用户可以剪切、复制和粘贴注册表项和值，方便在不同位置进行数据的迁移或备份。
+注册表快照与备份还原：RegShot功能允许用户快速拍摄注册表的快照，并将其与第二个快照进行比较，这对于在系统更改或安装新软件后进行验证非常有用。同时，软件也支持注册表的备份和还原，确保数据的安全。
+碎片整理：RegCool还提供注册表碎片整理功能，帮助优化注册表性能。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：RegCool的界面设计直观易用，用户无需复杂的操作即可快速上手。同时，软件支持中文，便于国内用户使用。
+高效稳定：采用先进的算法和技术，RegCool在执行各项功能时表现出色，运行稳定，不会给系统带来额外的负担。
+功能全面：RegCool几乎涵盖了所有与注册表相关的功能，无论用户需要执行何种操作，都能在这款软件中找到相应的工具。
+安全可靠：软件经过严格的安全检测，确保在使用过程中不会损害系统安全或导致数据丢失。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqiOQ6mD9dRIu4fa-dyCNpA1?pwd=dune&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqiOQ6mD9dRIu4fa-dyCNpA1?pwd=dune&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>EF Commander(强大文件管理器) v24.11 中文绿色版</title>
+        <link>https://www.danlong360.com/post/5991/</link>
+        <pubDate>Mon, 04 Nov 2024 18:03:22 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/5991/</guid>
+        <description>&lt;p&gt;EF Commander 是一款功能强大且用户友好的文件管理器，它提供了丰富的文件管理和操作功能，帮助用户高效地管理和操作文件。EF Commander 特别适合需要频繁处理文件的用户，如程序员、系统管理员和高级用户。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/WXUYTc48l9ImHM3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;文件浏览：使用标签页浏览文件和文件夹，支持文件预览和缩略图显示。&lt;/li&gt;
+&lt;li&gt;文件搜索：可以按文件名、文件类型、修改日期等条件进行文件搜索，支持通配符和正则表达式。&lt;/li&gt;
+&lt;li&gt;批量重命名：可以对多个文件进行快速批量重命名操作，支持添加前缀、后缀、替换字符等功能。&lt;/li&gt;
+&lt;li&gt;文件压缩和解压缩：支持常见的压缩格式，如ZIP、RAR、7Z等，可以快速创建、提取、分割和合并压缩文件。&lt;/li&gt;
+&lt;li&gt;多标签页浏览：可以同时打开多个标签页，方便在不同文件夹之间切换和浏览。&lt;/li&gt;
+&lt;li&gt;文件比较：可以比较两个文件的差异，支持逐行比较和合并差异。&lt;/li&gt;
+&lt;li&gt;文件加密：可以对文件进行加密，保护文件安全性。&lt;/li&gt;
+&lt;li&gt;文件传输：可以快速将文件从电脑传输到手机或其他设备。&lt;/li&gt;
+&lt;li&gt;文件打包和解包：可以将文件打包成单个文件，方便传输和备份。&lt;/li&gt;
+&lt;li&gt;文件管理器扩展：可以安装和使用第三方文件管理器扩展，扩展功能和操作方式。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多功能集成：集成了文件管理、搜索、传输、编辑和归档等多种功能，用户无需在多个工具之间切换。
+高效操作：支持批量操作和拖放操作，提高文件管理的效率。
+双面板布局：采用经典的双面板布局，用户可以同时查看和操作两个不同的文件夹。
+网络支持：支持多种网络协议，方便用户进行远程文件管理。
+文件预览：支持多种文件格式的预览，用户可以快速查看文件内容。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqi5_JaHaqP7GszTIFACyeA1?pwd=auj4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqi5_JaHaqP7GszTIFACyeA1?pwd=auj4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Inno Unpacker(Inno Setup解包器) v1.10.0 汉化绿色版</title>
+        <link>https://www.danlong360.com/post/13824/</link>
+        <pubDate>Mon, 04 Nov 2024 18:01:49 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/13824/</guid>
+        <description>&lt;p&gt;Inno Unpacker 是一款专门用于解包由 Inno Setup 创建的安装程序的工具。Inno Setup 是一个广泛使用的安装程序生成器，许多软件开发者使用它来创建 Windows 应用程序的安装包。Inno Unpacker 可以帮助用户提取这些安装包中的文件和资源，适用于逆向工程、文件恢复和调试等场景。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/2BeOizoxub5M7K1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;解包安装程序：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;解包功能：支持解包由 Inno Setup 创建的安装程序文件（通常扩展名为 &lt;code&gt;.exe&lt;/code&gt;），提取其中的所有文件和资源。
+批量解包：支持批量解包多个安装程序文件，提高处理效率。
+自定义解包路径：用户可以选择自定义解包路径，将提取的文件保存到指定的目录。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;文件管理：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文件浏览：解包后，用户可以浏览提取的文件和文件夹，方便管理和查看。
+文件预览：支持文件预览功能，用户可以快速查看提取文件的内容。
+文件导出：支持将提取的文件导出到其他位置，方便进一步处理和使用。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;安装程序分析：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;安装脚本解析：解析安装程序的脚本文件（通常是 &lt;code&gt;setup.iss&lt;/code&gt;），帮助用户了解安装程序的结构和配置。
+资源查看：查看安装程序中的资源文件，如图标、图像和配置文件。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;其他工具：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;日志记录：支持日志记录功能，用户可以查看和记录解包过程中的详细信息。
+错误报告：生成详细的错误报告，帮助用户解决解包过程中遇到的问题。
+命令行支持：支持命令行操作，用户可以通过脚本自动化解包任务。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+高效解包：采用高效的解包算法，确保快速准确地提取安装程序中的文件和资源。
+多功能集成：集成了解包、文件管理和安装程序分析等多种功能，用户无需在多个工具之间切换。
+自定义路径：支持自定义解包路径，用户可以将提取的文件保存到指定的目录。
+文件预览：支持多种文件格式的预览，用户可以快速查看提取文件的内容。
+批量处理：支持批量解包多个安装程序文件，提高处理效率。
+脚本解析：解析安装程序的脚本文件，帮助用户了解安装程序的结构和配置。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqhzRQKKXl9Ezvlnn0neETA1?pwd=nduy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqhzRQKKXl9Ezvlnn0neETA1?pwd=nduy&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>zTasker(一键式效率倍增器定时任务) v1.99.6 中文绿色版</title>
         <link>https://www.danlong360.com/post/78832/</link>
         <pubDate>Mon, 04 Nov 2024 12:38:58 +0800</pubDate>

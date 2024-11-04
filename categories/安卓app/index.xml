@@ -7,7 +7,331 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 03 Nov 2024 23:18:33 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 04 Nov 2024 18:49:26 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Sleep Monitor 睡眠监测 v2.7.9.2 高级版</title>
+        <link>https://www.danlong360.com/post/50328/</link>
+        <pubDate>Mon, 04 Nov 2024 18:49:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/50328/</guid>
+        <description>&lt;p&gt;Sleep Monitor 睡眠监测 是一款帮助你轻松入睡，记录梦话录音，追踪睡眠周期的睡眠健康应用。致力于让你睡得更好、睡得更香，从而更好地了解自己的睡眠行为，保持健康与活力。每天清晨在舒缓的音乐中开始新的一天，应用会为你提供详尽的睡眠报告分析,帮助你养成更好的睡眠习惯，通过各类舒缓助眠曲和冥想曲，减轻焦虑与压力，保持专注平静，放松身心。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/bEhqrJxy1FnQIXA.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqp3s9m5tPqhOeH5VhMX1uA1?pwd=3wzb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqp3s9m5tPqhOeH5VhMX1uA1?pwd=3wzb&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Obtainium v1.1.29，自定义应用更新追踪工具</title>
+        <link>https://www.danlong360.com/post/841/</link>
+        <pubDate>Mon, 04 Nov 2024 18:48:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/841/</guid>
+        <description>&lt;p&gt;直接从源代码获取Android应用程序更新。&lt;/p&gt;
+&lt;p&gt;Obtainium允许您直接从应用程序的发布页面安装和更新应用程序，并在发布新版本时收到通知。&lt;/p&gt;
+&lt;p&gt;许多优秀的开源应用由于各种各样的原因无法上架应用商店，检测更新就成为了一件麻烦事，Obtainium 能帮助你追踪应用更新，支持GitHub、GitLab、F-Droid、APKPure、AppGallery等多种应用来源，有能力甚至可以手动编写规则，解析网页来获取应用更新信息。&lt;/p&gt;
+&lt;p&gt;Obtainium的核心目标是自动化直接从其“源”网站（应用文件可直接下载的网站）下载和安装Android应用更新的过程。这个过程需要自动化，因为用户可能不愿意或无法依赖应用商店来更新给定的应用程序，但Android应用程序（与PC应用程序不同）通常假设它们将由应用商店外部更新，因此不包括内置的自我更新功能。 虽然这个概念很简单，但各种各样的支持源、用户首选项以及APK命名、版本控制和分发方法使事情变得更加复杂。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/2kEVHKbMIgRtuf6.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;使用方法&#34;&gt;使用方法
+&lt;/h3&gt;&lt;p&gt;添加应用步骤：首先切换到“添加应用”页面，在来源URL中输入链接，比如这里输入一个Github链接，然后下方会出现一些特殊选项，按需开启（一般保存默认即可），然后点击“添加”按钮，一个应用就添加完成了。完成添加后，可在应用列表进行查看，下拉列表可以检查更新。有新版本时会在应用名称后显示“下载”按钮，点击即可下载。&lt;/p&gt;
+&lt;p&gt;直接从源代码获取Android应用程序更新。 Obtainium允许您直接从应用程序的发布页面安装和更新应用程序，并在发布新版本时收到通知。&lt;/p&gt;
+&lt;p&gt;目前支持的App来源：&lt;/p&gt;
+&lt;p&gt;开源：&lt;/p&gt;
+&lt;p&gt;GitHub
+GitLab
+Codeberg
+F-Droid
+Third Party F-Droid Repos
+IzzyOnDroid
+SourceHut&lt;/p&gt;
+&lt;p&gt;其它:&lt;/p&gt;
+&lt;p&gt;APKPure
+Aptoide
+Uptodown
+APKMirror (Track-Only)
+Huawei AppGallery
+Jenkins Jobs&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqozFiS3IK4i45-3lBTEUIA1?pwd=crwf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqozFiS3IK4i45-3lBTEUIA1?pwd=crwf&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Klick’r 智能图像识别自动点击器 v3.0.6</title>
+        <link>https://www.danlong360.com/post/18485/</link>
+        <pubDate>Mon, 04 Nov 2024 18:48:13 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/18485/</guid>
+        <description>&lt;p&gt;Klick’r是一款基于图像识别的开源Android应用，为自动化重复任务带来了革新。它不仅能够胜任传统的自动点击任务，更以独到的图像识别功能脱颖而出，是游戏玩家、测试工程师以及所有面临重复劳动的人的得力助手。利用了先进的图像处理技术，结合高效的事件监听机制，确保在动态环境中准确识别目标图像。&lt;/p&gt;
+&lt;p&gt;通过集成深度学习模型进行图像比对，Klick’r实现了高精度的自动化触发。此外，其底层利用Android SDK的强大功能，支持广播接收器和Intent服务，使得高级用户能够编写复杂脚本，实现自动化流程控制。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/Q3AYXOnl5WLZ4Iy.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;精确点击与滑动：配置点击位置、按压时间和滑动轨迹，配合图像识别，令自动化动作精准无误&lt;/li&gt;
+&lt;li&gt;高级定制自动化：内置强大的脚本编辑支持，允许添加计数器、逻辑流控制，极大扩展了自动化边界&lt;/li&gt;
+&lt;li&gt;多样化触发器：灵活设置基于图片、时间间隔、计数条件或系统事件的触发，满足个性化需求&lt;/li&gt;
+&lt;li&gt;简易模式：提供直观的操作界面，即便是自动化新手也能快速上手&lt;/li&gt;
+&lt;li&gt;教学引导：内置教程帮助新用户迅速掌握复杂的自动化设定，轻松自动化生活&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqowamfC3Ubjtedss6J5PqA1?pwd=89qd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqowamfC3Ubjtedss6J5PqA1?pwd=89qd&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>FairEmail 安卓电子邮件 v1.2244</title>
+        <link>https://www.danlong360.com/post/91735/</link>
+        <pubDate>Mon, 04 Nov 2024 18:46:08 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/91735/</guid>
+        <description>&lt;p&gt;FairEmail是一款功能齐全，开源，隐私友好的安卓电子邮件应用程序。几乎包含所有的电子邮件供应商，包括 Gmail，Outlook 和雅虎。FairEmail 可能适合你，如果你重视你的隐私。FairEmail 只是一个电子邮件客户端，所以你只需要带上自己的电子邮件地址。FairEmail 不支持非标准协议，如 MicrosoftExchangeWeb 服务和 MicrosoftActiveSync。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/qb368tveudKm2MY.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h3&gt;&lt;p&gt;功能齐全
+100%开源
+面向·隐私的
+无限账户
+无限的电子邮件地址
+统一的收件箱(可选帐户或文件夹)
+对话线程
+双向同步
+推送通知
+离线存储和操作
+常见的文本样式选项(大小、颜色、列表等)
+电池友好
+低数据使用
+小(&amp;lt; 25 mb)
+材料设计(包括黑色/黑色主题)
+维护和支持&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqopb5E9RhXI0gErEWWhyUA1?pwd=kisq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqopb5E9RhXI0gErEWWhyUA1?pwd=kisq&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Just Player 视频播放器 v0.170</title>
+        <link>https://www.danlong360.com/post/25558/</link>
+        <pubDate>Mon, 04 Nov 2024 18:45:18 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/25558/</guid>
+        <description>&lt;p&gt;Just Player是一个开源的视频播放软件，它的功能都是免费的。只需点击打开即可，整个过程不受广告干扰。生成的图像清晰，可以在更多设备上打开，让您更方便地观看视频。当然，它可以满足不同用户的需求，可以随时随地打开。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/rOp4tBqfnIGETz9.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;兼容市场广泛流行的多种文件格式，借助简洁直观的界面，精准呈现核心信息内容&lt;/li&gt;
+&lt;li&gt;集成了播放、暂停等基础操控功能，只需与电视本体相连，便能轻松传输并展示各类文件&lt;/li&gt;
+&lt;li&gt;可自由选取访问存储或直接开启视频播放，所有操作均围绕预设的专属文件夹展开&lt;/li&gt;
+&lt;li&gt;支持加载多种兼容字幕格式，涵盖ASS、TTML、VTT、SRT及SSA，满足您的多样化需求&lt;/li&gt;
+&lt;li&gt;只需将字幕文件置于根目录下，用户即可跨设备无缝使用，享受便捷的观影体验&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqomtfn1MU0isMXmN9No5EA1?pwd=xcek&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqomtfn1MU0isMXmN9No5EA1?pwd=xcek&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Deku SMS 短信转发工具 v0.48.0</title>
+        <link>https://www.danlong360.com/post/53905/</link>
+        <pubDate>Mon, 04 Nov 2024 18:43:34 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/53905/</guid>
+        <description>&lt;p&gt;Deku SMS是一款开源的安卓短信应用程序，支持使用Webhook、SMTP和FTP三种协议进行短信转发，简单快捷，可以胜任日常默认短信应用程序的角色。除此之外，DekuSMS集成了RabbitMQ，让用户能够通过个人服务器接收短信信息。这一设计理念有效解决了用户在使用备机时的困扰，让人们无需再随身携带多部手机，即可接收到重要的验证码和通知&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/KadeXJILQi7Awur.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;&lt;strong&gt;软件特点&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;无论是Webhook还是SMTP协议，都表现出极高的便利性和可靠性，接收到的短信内容清晰易读，操作方便&lt;/li&gt;
+&lt;li&gt;集成了RabbitMQ，提供了更高效的消息队列管理，让有需求的用户能够创建自定义的短信收发服务器，进一步提高了信息处理的自主性和灵活性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqokB7zkt-ShkK9-_FE9bJA1?pwd=s5tm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqokB7zkt-ShkK9-_FE9bJA1?pwd=s5tm&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>快影 v6.66.0.666004 会员解锁版，简单易上手，小白变大神</title>
+        <link>https://www.danlong360.com/post/1403/</link>
+        <pubDate>Mon, 04 Nov 2024 18:42:39 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/1403/</guid>
+        <description>&lt;p&gt;快影是一款简单易上手的视频剪辑神器，能够帮助用户轻松制作出高质量视频作品。提供了丰富实用的剪辑功能：分割、裁剪、拼接、倒放、多种字幕和滤镜、美颜、视频背景、画中画、智能抠像、转场、添加常规/曲线/自定义变速、添加封面和片尾等功能，让用户轻松制作出精美视频等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/UzsFeaYvMxNXOqr.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;**1.AI 视频动漫：**人物视频生成动漫效果；打造专属虚拟形象&lt;/p&gt;
+&lt;p&gt;**2.AI文生图：**输入描述词，选择风格，AI生成图片&lt;/p&gt;
+&lt;p&gt;**3.AI绘画：**上传图片，选择玩法，AI生成效果图&lt;/p&gt;
+&lt;p&gt;**4.AI文案库：**提供文案适配视频、图片配文，文案润色改写功能&lt;/p&gt;
+&lt;p&gt;**5.创作中心：**协助解决账号运营痛点，推荐丰富的创作灵感，助推账号涨粉&lt;/p&gt;
+&lt;p&gt;**6.强大音乐库：**智能配音、字幕、提取音频、降噪、音乐卡点等，轻松添加各种音效。&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqoh06aTpJZMQn9Iw0ERnkA1?pwd=5zj7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqoh06aTpJZMQn9Iw0ERnkA1?pwd=5zj7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小黄人影视 v1.3.0 纯净版</title>
+        <link>https://www.danlong360.com/post/69627/</link>
+        <pubDate>Mon, 04 Nov 2024 18:41:40 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/69627/</guid>
+        <description>&lt;p&gt;小黄人影视是一款很不错的追剧软件，提供多条播放线路，视频画质都是高清，播放挺流畅的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/mboi5IRvYXPp7q8.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqnVW161NDGhJ5HXs2R-6QA1?pwd=8559&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqnVW161NDGhJ5HXs2R-6QA1?pwd=8559&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>好好看影视 v3.2.3 去广告版，一键畅享国内外影视，高效搜索无广告追剧神器</title>
+        <link>https://www.danlong360.com/post/12485/</link>
+        <pubDate>Mon, 04 Nov 2024 18:40:49 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/12485/</guid>
+        <description>&lt;p&gt;好好看影视作为一款全新发布的免费追剧神器，集国内影视大片与奈飞精选于一体，内置海量影视源，流畅播放无忧，遇卡可即时换线，全程无广告干扰，并支持高清投屏，尽享大屏观影乐趣。其高效搜索引擎让用户通过片名、演员或导演名即可迅速找到心仪内容，极大提升了使用体验，让追剧之旅变得更加便捷与精彩。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/trwTivnbgzDSWmA.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;实时更新大量热门新剧，用户可根据自己喜好挑选。&lt;/li&gt;
+&lt;li&gt;提供详尽的影片归类服务，让使用者更容易找到所需的资讯。&lt;/li&gt;
+&lt;li&gt;推送热门的影视作品，让你不用再为追剧而发愁。&lt;/li&gt;
+&lt;li&gt;有大量未经剪辑的国外电影，只要点进去，就能看个没完没了。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqnSs0pHD6BEgDEC253d3DA1?pwd=x57p&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqnSs0pHD6BEgDEC253d3DA1?pwd=x57p&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>X-plore安卓版(安卓手机文件管理器) v4.40.06 修改版</title>
+        <link>https://www.danlong360.com/post/53473/</link>
+        <pubDate>Mon, 04 Nov 2024 18:08:33 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/53473/</guid>
+        <description>&lt;p&gt;📱X-plore File Manager安卓版是一款功能强大的文件管理器，适用于安卓设备。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/04/cnIUME6QYm4BpAf.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文件管理：X-plore File Manager能够浏览、复制、剪切、粘贴、删除和重命名文件和文件夹。它支持多选功能，可以同时操作多个文件和文件夹。
+压缩和解压缩文件：该软件支持常见的压缩文件格式，例如ZIP、RAR等。您可以将文件压缩成ZIP文件或从ZIP文件中解压缩文件。
+通过无线网络共享文件：X-plore File Manager支持通过Wi-Fi或蓝牙将文件共享给其他设备。您可以将手机设备作为FTP服务器使用，让其他设备可以访问您的文件。
+查看和编辑文本文件：您可以使用X-plore File Manager查看和编辑文本文件。它支持各种编码格式，并且还具有查找和替换功能。
+图片查看器：该软件内置了一个图像查看器，能够预览常见的图像文件格式。
+视频和音频播放器：您可以直接在X-plore File Manager中观看视频和听取音频文件，无需打开其他应用程序。
+解析APK文件：您可以直接在X-plore File Manager中查看Android应用程序的信息，并能够从安装的应用程序中提取APK文件。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;双栏界面：X-plore File Manager使用双栏界面，使文件操作更加方便快捷。
+树状目录：该软件提供树状目录结构，可以更直观地查看文件和文件夹的层级关系。
+云存储支持：X-plore File Manager支持连接到云存储服务，例如Google Drive、Dropbox等。您可以直接在该软件中访问和管理云端文件。
+内置文件编辑器：该软件内置了文本编辑器、图像查看器和音视频播放器。您无需打开其他应用程序即可进行文件操作和查看。
+插件支持：X-plore File Manager支持各种插件，扩展了其功能。例如，您可以安装FTP服务器插件，将手机设备作为FTP服务器使用。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;by Balatan，youarefinished
+捐赠/付费功能已解锁;
+禁用/删除不需要的权限 + 接收者 + 提供者 + 服务;
+优化和压缩的图形，并清理资源以快速加载;
+谷歌云端硬盘坏了;
+Google Play商店安装包检查禁用;
+删除了调试代码;
+删除相应java文件的默认.source标签名称;
+Analytics / Crashlytics / Firebase禁用;
+暗版改进;
+语言：全多语言;
+CPU：armeabi-v7a、arm64-v8a、x86、x86_x64;
+屏幕DPI：120dpi、160dpi、240dpi、320dpi、480dpi、640dpi;
+原包装签名已更改;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAqiUofFtpJm73EhSuoFJ0SA1?pwd=a2th&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAqiUofFtpJm73EhSuoFJ0SA1?pwd=a2th&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>VN视频编辑器 v2.3.0 纯净版</title>
         <link>https://www.danlong360.com/post/76520/</link>
         <pubDate>Sun, 03 Nov 2024 23:18:33 +0800</pubDate>
