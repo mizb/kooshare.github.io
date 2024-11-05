@@ -7,7 +7,207 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 04 Nov 2024 12:35:44 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 05 Nov 2024 12:40:01 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PotPlayer 241101(1.7.22357) Beta 去广告增强绿色版</title>
+        <link>https://www.danlong360.com/post/80478/</link>
+        <pubDate>Tue, 05 Nov 2024 12:40:01 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/80478/</guid>
+        <description>&lt;p&gt;Daum PotPlayer播放器是一款全能多媒体影音播放器,堪称Windows平台最强大的本地视频播放器.PotPlayer最新版拥有强劲播放引擎加速,支持DXVA,CUDA,QuickSync,多媒体播放器支持蓝光3D,其内置强大的编码器及滤镜/分离器,支持自定义添加解码器,对字幕的支持非常优秀,能兼容特效字幕及在线搜索字幕实时翻译.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/05/rKhzFbwLi8dxNgs.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;PotPlayer Version History - VideoHelp
+&lt;a class=&#34;link&#34; href=&#34;https://www.videohelp.com/software/PotPlayer/version-history&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.videohelp.com/software/PotPlayer/version-history&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;231220(1.7.22074)版本之后PotPlayer64.dll已被作者加壳防修改！&lt;/p&gt;
+&lt;p&gt;[241015] v241015(1.7.22347) 正式版
+-&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
++ 添加按下鼠标按键时调整播放速度的功能
+- 修正某些 MPEG TS 播放时间异常的问题
+- 修正播放某些 MPEG TS 时出现花屏的问题
+- 修正某些 ASS/SSA 字幕出现异常的问题
+- 修正播放超长文件时导致操作异常的问题&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;pot播放器,potplayer绿色精简版,potplayer绿色便携版
+1、去效验，去右下角空白广告弹窗！卸载可选备份设置
+2、禁止后台联网请求：境外广告、发送日志、检查升级
+3、集成额外的音频解码器及视频解码器组件：Open Codec for PotPlayer
+├—DTS, MLP, TrueHD编码器ModuleFFmpeg4FFmpegMininum64.dll
+├—S/W HEVC(H265)编码器PotPlayerModuleFFmpeg4FFmpeg64.dll
+├—Intel H.264 MVC 3D编解码器库 PotPlayerModulelibmfxsw(64).dll
+4、预设配置：常规设置 + 默认启用自定义解码器H.265/HEVC及硬件加速
+├—滤镜—视频解码器—内置解码器/DXVA设置—&amp;gt;使用硬件加速 (DXVA)
+├—滤镜—视频解码器—内置解码器/DXVA设置—解码器—&amp;gt;H.265/HEVC
+5、集成三款精选皮肤主题：简约暴风, ModernW10, Carefree (轻尘系列)
+6、删除TV直播列表, 登陆程序,日志管理, 消息通知, 多语言等不必要的文件&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编辑原因：11.05 更新 PotPlayer v1.7.22357 Beta elchupacabra 去广告增强绿色版&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAugokFClKqBrGTfZlsQ8AlA1?pwd=rjkz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAugokFClKqBrGTfZlsQ8AlA1?pwd=rjkz&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MPC-BE视频播放器(强大视频播放器) v1.8.0.40 中文绿色版</title>
+        <link>https://www.danlong360.com/post/30295/</link>
+        <pubDate>Tue, 05 Nov 2024 12:39:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/30295/</guid>
+        <description>&lt;p&gt;MPC-BE（Media Player Classic - Black Edition）是一款功能强大的视频播放器，是Media Player Classic的一个分支，它支持多种视频和音频文件格式，并提供多种附加功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/05/2938nwiK5zpHbfr.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持广泛的视频文件格式，如AVI、FLV、MP4、MKV、MOV等，以及多种音频文件格式，如MP3、WAV、AAC等。
+具有广泛的解码器支持，包括内置的解码器和外部的第三方解码器，可以确保播放器能够兼容几乎所有的媒体文件。
+提供各种视频和音频调整选项，如亮度、对比度、饱和度调整，以及音量控制、均衡器等。
+支持多种字幕格式，如SRT、SSA、ASS等，并提供字幕的显示和调整选项。
+提供多种界面语言和主题，可以根据用户的偏好进行定制。
+支持快速和精确的搜索功能，可以轻松找到想要播放的视频或音频文件。
+启用硬件加速和多线程解码，提供流畅的播放体验。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;开源免费：MPC-BE是一个开源项目，用户可以免费使用和分发该软件。
+轻量化：软件的安装文件很小，占用较少的系统资源，不会影响计算机的性能。
+高度可定制：用户可以根据自己的需求进行界面和功能的定制，使软件符合个人使用习惯。
+易于使用：软件的界面简洁明了，功能布局合理，使用户可以轻松找到所需的功能和选项。
+稳定可靠：MPC-BE经过多次测试和改进，具有较高的稳定性和可靠性，可以长时间运行而不会崩溃或出错。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAugkyTft4eMueiQWKyJ3uXA1?pwd=b68n&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAugkyTft4eMueiQWKyJ3uXA1?pwd=b68n&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MPC-HC视频播放器(便捷视频播放器) v2.3.7 中文绿色版</title>
+        <link>https://www.danlong360.com/post/39622/</link>
+        <pubDate>Tue, 05 Nov 2024 12:38:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/39622/</guid>
+        <description>&lt;p&gt;MPC-HC是一款免费的媒体播放器，它源自于原始的Media Player Classic项目，并且在Windows操作系统上得到了广泛的应用。MPC-HC有着简洁直观的用户界面，并且具备强大的功能，以满足用户对于媒体播放的需求。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/05/OXSqQl5AwCE3TdM.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持各种媒体文件格式：MPC-HC可以播放几乎所有主流格式的音频和视频文件，包括MP3、AAC、WAV、MP4、AVI、MKV等，用户可以使用该软件来观看电影、听音乐和查看照片。
+播放器控制：MPC-HC提供了常规播放器控制，如播放、暂停、快进、快退等。此外，它还支持截图功能，允许用户在播放期间截取当前画面。
+多音轨和字幕支持：MPC-HC可以处理包含多个音轨的视频文件，并且允许用户切换音轨。此外，它还可以导入并显示外部字幕文件，以便用户更好地观看外语视频。
+虚拟音频设备模拟：MPC-HC可以模拟虚拟音频设备，允许用户以高音质的方式录制和保存音频流。
+定时播放和循环播放：MPC-HC拥有定时播放功能，可以设置在指定时间开始播放或暂停文件。此外，用户还可以使用该软件实现循环播放，以便反复播放视频或音频。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;轻量级和低资源占用：MPC-HC是一款非常轻量级的媒体播放器，其安装包较小，且软件本身消耗的系统资源也很少，使其在运行时不会导致计算机变慢。
+易于使用：MPC-HC具有简洁直观的用户界面，可以让用户快速上手并使用其功能。
+开源和免费：MPC-HC是开源软件，其源代码可以公开查看和修改。此外，它也是完全免费的，用户可以随时下载和使用，无需付费授权。
+播放质量优秀：MPC-HC支持多种音频和视频编解码器，可以播放高质量的媒体文件，并提供完善的音频和视频效果控制，使用户能够享受到更好的观看和听音乐的体验。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编辑原因：11.05 更新 MPC-HC v2.3.7 elchupacabra 增强绿色版&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAugiWTE9RhXI0gErEXsb7BA1?pwd=45fy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAugiWTE9RhXI0gErEXsb7BA1?pwd=45fy&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Mp3tag(管理MP3文件标签的软件) v3.27a / 3.27d Beta 多语便携版</title>
+        <link>https://www.danlong360.com/post/63374/</link>
+        <pubDate>Tue, 05 Nov 2024 12:25:03 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/63374/</guid>
+        <description>&lt;p&gt;Mp3tag 是一款专门用来管理 MP3 文件标签的软件。它可以轻松地编辑 MP3 文件的标签，包括歌曲名称、演出者、专辑名称、专辑图片等。不仅如此，Mp3tag 还可以自动从互联网上获取歌曲的标签信息，非常方便。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/05/guoi5IpB9xLSeTV.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;编辑 MP3 标签&lt;/li&gt;
+&lt;li&gt;自动获取歌曲标签信息&lt;/li&gt;
+&lt;li&gt;编辑 MP3 文件名称&lt;/li&gt;
+&lt;li&gt;批量处理 MP3 文件&lt;/li&gt;
+&lt;li&gt;支持多种音频格式&lt;/li&gt;
+&lt;li&gt;免费使用&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Mp3tag 界面简洁清晰，易于操作&lt;/li&gt;
+&lt;li&gt;可以批量处理 MP3 文件，高效快捷&lt;/li&gt;
+&lt;li&gt;可以自动获取歌曲的标签信息，节省用户时间&lt;/li&gt;
+&lt;li&gt;支持多种音频格式，不仅局限于 MP3&lt;/li&gt;
+&lt;li&gt;免费使用，且无广告、无病毒。&lt;/li&gt;
+&lt;li&gt;随时更新，保持与最新的音频标签标准相符合。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAufH-7kvW6xePIesnvrdxFA1?pwd=359v&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAufH-7kvW6xePIesnvrdxFA1?pwd=359v&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>哔哩哔哩官方原版丨最新版下载丨版本号 1.15.1.3764</title>
+        <link>https://www.danlong360.com/post/57433/</link>
+        <pubDate>Tue, 05 Nov 2024 12:20:12 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/57433/</guid>
+        <description>&lt;p&gt;哔哩哔哩PC客户端是一款能够让用户在电脑上观看哔哩哔哩（B站）视频的软件。它支持高清视频播放、全屏观看、弹幕评论、视频下载等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/05/Zbhn1jdcAproKFx.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;视频观看：用户可以在客户端上观看B站上的所有视频，包括各种类型的番剧、动漫、电视剧、电影、纪录片等。&lt;/li&gt;
+&lt;li&gt;弹幕评论：用户可以在观看视频的同时，对视频进行评论或者与其他用户互动。&lt;/li&gt;
+&lt;li&gt;视频下载：用户可以将B站上的视频下载到本地，方便离线播放和分享。&lt;/li&gt;
+&lt;li&gt;收藏管理：用户可以对自己喜欢的视频进行收藏管理，方便后续观看和管理。&lt;/li&gt;
+&lt;li&gt;视频历史记录：客户端能够记录用户观看过的视频记录，方便用户查找和回看。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面清新简洁：哔哩哔哩PC客户端的界面清新简洁，符合年轻用户的审美趋势。&lt;/li&gt;
+&lt;li&gt;视频播放不卡顿：哔哩哔哩PC客户端采用了流媒体协议，视频播放流畅，不会出现卡顿和缓冲的情况。&lt;/li&gt;
+&lt;li&gt;支持多平台：用户可以在Windows、Mac等多个操作系统上使用客户端，兼容性更好，省去了用户在不同平台上安装不同软件的烦恼。&lt;/li&gt;
+&lt;li&gt;功能强大智能：哔哩哔哩PC客户端支持多种功能，如下载、弹幕评论、收藏、历史记录等，智能化管理，让用户使用更便捷。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;官方网站：https://www.bilibili.com/&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;哔哩哔哩官方原版丨最新版下载丨版本号 1.15.1.3764
+官方下载：https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>FreeTube(开源的YouTube客户端) v0.22.0 多语便携版</title>
         <link>https://www.danlong360.com/post/70476/</link>
         <pubDate>Mon, 04 Nov 2024 12:35:44 +0800</pubDate>
