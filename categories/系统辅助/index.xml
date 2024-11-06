@@ -7,7 +7,48 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 06 Nov 2024 12:20:37 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 06 Nov 2024 19:03:55 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Enigma Virtual Box(虚拟打包器) v11.10.20241106 汉化去广告版</title>
+        <link>https://www.danlong360.com/post/99607/</link>
+        <pubDate>Wed, 06 Nov 2024 19:03:55 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/99607/</guid>
+        <description>&lt;p&gt;Enigma Virtual Box中文版(虚拟打包器)是一款免费的软件虚拟化工具的虚拟文件打包工具.Enigma Virtual Box文件虚拟工具可以将多个文件封装到程序主文件,程序和配套文件打包成一个可执行文件,配套文件也不会被释放至硬盘,从而制作成为单执行文件的绿色软件.它支持所有类型的文件格式,虚拟化后的程序不释放任何临时文件到硬盘,文件虚拟过程仅在内存运行.该软件的功能有独立免费程序,同时支持X86和X64二进制文件.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/06/qcbf1VLoKN4szax.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;虚拟化文件系统: 将所有应用程序所需的文件捆绑并存储在一个独立的文件内，避免文件散落和混乱。
+虚拟化注册表: 将应用程序所需的注册表项和设置保存在虚拟化注册表中，避免对系统注册表的修改和冲突。
+虚拟化动态链接库: 将应用程序所需的动态链接库文件打包到一个单一的可执行文件中，避免缺少依赖文件导致的运行错误。
+安全保护: Enigma Virtual Box可以对虚拟化环境进行加密，防止未授权的访问和修改。
+高度兼容性: Enigma Virtual Box支持大多数Windows应用程序，并且与主流开发工具和编程语言兼容。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用: Enigma Virtual Box界面友好，操作简单，即使没有编程经验的用户也能快速上手。
+轻量级: Enigma Virtual Box的安装包非常小巧，体积轻盈，不会占用过多的系统资源。
+柔性配置: Enigma Virtual Box提供了丰富的配置选项，可以根据实际需求对虚拟化环境进行灵活的设置。
+自动依赖解析: Enigma Virtual Box可以自动分析应用程序的依赖关系，并自动将依赖的文件打包到虚拟化环境中，无需手动操作。
+兼容性测试: Enigma Virtual Box提供了兼容性测试工具，可以验证虚拟化环境在不同系统上的可靠性和稳定性。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v11.10.20241106 版本更新：2024年11月6日
+– 修复了在最近的 Windows 11 下执行虚拟 exe 文件的问题
+– 更好地处理映射虚拟文件的虚拟内存
+– 改进了在 Windows 11 下虚拟文件的查询&lt;/p&gt;
+&lt;p&gt;此汉化去广告版由 th_sjy 汉化修改分享，去除了主窗口中的广告条和链接，去除了所有无用文件实现真正的单文件便携。
+注意：由于脱壳原因，部分字符串脱壳后无法汉化。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB0A3O8KXCjoaJuIB7fnZiLA1?pwd=t722&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB0A3O8KXCjoaJuIB7fnZiLA1?pwd=t722&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows Manager 10/11(Win10/11优化大师) v2.0.7 多语便携版</title>
         <link>https://www.danlong360.com/post/94380/</link>
         <pubDate>Wed, 06 Nov 2024 12:20:37 +0800</pubDate>
