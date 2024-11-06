@@ -7,7 +7,84 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 05 Nov 2024 18:10:05 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 06 Nov 2024 12:29:04 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>WPS Office 2016 v10.8.2.7164 最终专业增强优化版</title>
+        <link>https://www.danlong360.com/post/68191/</link>
+        <pubDate>Wed, 06 Nov 2024 12:29:04 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/68191/</guid>
+        <description>&lt;p&gt;WPS Office是由金山软件股份有限公司自主研发的一款办公软件套装，可以实现办公软件最常用的文字、表格、演示等多种功能。具有内存占用低、运行速度快、体积小巧、强大插件平台支持、免费提供海量在线存储空间及文档模板、支持阅读和输出PDF文件、全面兼容微软Office97-2010格式（doc/docx/xls/xlsx/ppt/pptx等）独特优势。覆盖Windows、Linux、Android、iOS等多个平台。WPS Office支持桌面和移动办公。且WPS移动版通过Google Play平台，已覆盖的50多个国家和地区，WPS for Android在应用排行榜上领先于微软及其他竞争对手，居同类应用之首。该版本使用 @zdBryan 的补丁，非常感谢。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/06/Xb3lqgnMsTHW1et.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241106122939191&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新说明&#34;&gt;更新说明
+&lt;/h3&gt;&lt;p&gt;2024.11.06
+更新到 10.8.2.7164 版，VBA组件合并，不再单独发布。&lt;/p&gt;
+&lt;p&gt;2020.08.19
+安装脚本更改
+增加不含VBA组件版本
+解决网友@♂：吴发现的不能自动求和的问题&lt;/p&gt;
+&lt;p&gt;菜单多出百度云问题：
+如果在安装官网百度云网盘的情况下可能出现一个”保存到百度云”的菜单，原因是百度云网盘自动注册了WPS的COM加载项。
+在开发工具，”COM加载项”里删除即可。&lt;/p&gt;
+&lt;h3 id=&#34;版本说明&#34;&gt;版本说明
+&lt;/h3&gt;&lt;p&gt;该版为2016最后一个版本，非常适合老机器和无云服务需求用户使用。
+该版有以下特点：
+模仿官方安装和卸载样式
+去除轻办公组件
+去除自动更新和服务组件
+集成永久序列号
+集成专业VBA组件&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAzryvzJ1hj44HTTFZWye65A1?pwd=jjsp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAzryvzJ1hj44HTTFZWye65A1?pwd=jjsp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Super Productivity(任务时间管理软件) v10.1.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/73428/</link>
+        <pubDate>Wed, 06 Nov 2024 12:27:10 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/73428/</guid>
+        <description>&lt;p&gt;Super Productivity 是一款开源的任务和时间管理软件，旨在帮助用户提高工作和生活的效率。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/06/cWAopId4q9YrRPV.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;任务管理：用户可以创建和组织各种任务，设置截止日期和优先级，追踪任务进度，并添加备注和附件。
+时间记录：软件可以记录用户的工作时间，并生成详细的时间报告和统计数据，帮助用户了解自己的工作习惯和时间利用情况。
+提醒功能：软件支持设置提醒，提醒用户完成任务和会议等重要事项。
+Pomodoro 技术：软件内置 Pomodoro 计时器，可以帮助用户按照 Pomodoro 技术的理念管理时间和集中注意力。
+项目管理：用户可以创建和管理项目，将相关的任务和子任务组织在一起，方便管理和追踪项目进度。
+键盘快捷键：软件支持丰富的键盘快捷键，用户可以快速执行各种操作，提高操作效率。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;跨平台支持：Super Productivity 可以在 Windows、Mac 和 Linux 等多个平台上运行，满足不同用户的需求。
+开源免费：软件以开源方式发布，任何人都可以免费使用、修改和分享它的源代码。
+界面简洁：软件的界面简洁直观，操作容易上手，不会给用户带来学习成本。
+自定义设置：软件支持用户根据自己的需求进行个性化设置，例如调整界面样式、定制提醒方式等。
+数据备份：软件可以自动备份用户的数据，防止数据丢失和意外情况发生。
+社区支持：软件拥有活跃的用户社区，用户可以在社区中交流经验、提出问题和获取帮助。
+功能丰富：软件提供了许多实用的功能，例如任务过滤、标签管理、快速搜索等，满足用户各种需求。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOAzrRdCtf_8v-4klrNweuC9A1?pwd=gkt4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOAzrRdCtf_8v-4klrNweuC9A1?pwd=gkt4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Joplin(开源免费笔记软件) v3.1.22 中文绿色版</title>
         <link>https://www.danlong360.com/post/14229/</link>
         <pubDate>Tue, 05 Nov 2024 18:10:05 +0800</pubDate>
