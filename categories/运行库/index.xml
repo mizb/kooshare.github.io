@@ -7,7 +7,50 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 06 Nov 2024 13:09:49 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 07 Nov 2024 17:11:18 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>微软常用运行库合集(Visual C&#43;&#43;) 2024.11.07</title>
+        <link>https://www.danlong360.com/post/42920/</link>
+        <pubDate>Thu, 07 Nov 2024 17:11:18 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/42920/</guid>
+        <description>&lt;p&gt;Microsoft Visual C++ Redistributable(简称MSVC,VB/VC,VC运行库)系统运行库是Windows操作系统应用程序的基础类型库的可再发行程序包.Microsoft Visual C++运行库是系统装机必备组件,此版VC++运行库合集(微软常用运行库合集),整合了所有版本Visual C ++,可以自选更新VC++版本组件,并提供图形安装界面.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/XZuB1T9HqNdkOVc.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;Visual C++ 微软常用运行库合集 (32+64位合集)
+Repacked by Dreamcast (Build on 2024.10.12)&lt;/p&gt;
+&lt;p&gt;包含组件：
+Visual Basic Virtual Machine(5.1)
+Visual Basic Virtual Machine(6.0)
+Microsoft C Runtime Library 2002(7.0.9975.0)
+Microsoft C Runtime Library 2003(7.10.6119.0)
+Microsoft Visual C++2005 SP1(8.0.61187)
+Microsoft Visual C++2008 SP1(9.0.30729.7523)
+Microsoft Visual C++2010 SP1(10.0.40219.473)
+Microsoft Visual C++2012 UP4(11.0.61135.400)
+Microsoft Visual C++2013(12.0.40664.0)
+Microsoft Visual C++2019(14.38.32919.0)(WinXP)
+Microsoft Visual C++2015-2022(14.42.34430.0)(Win7+)
+Microsoft Universal CRuntime(10.0.10586.9)(WinXP～7)
+Microsoft Visual Studio 2010 Tools For Office Runtime&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;Microsoft Visual C++ 2015-2022 Redistributable v14.42.34433&lt;/p&gt;
+&lt;h3 id=&#34;静默参数&#34;&gt;静默参数
+&lt;/h3&gt;&lt;p&gt;/silent /verysilent&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB4uFo51ivENm4fpa4D53C0A1?pwd=akwc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB4uFo51ivENm4fpa4D53C0A1?pwd=akwc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Visual C&#43;&#43;运行库合集轻量版24年11月版v85</title>
         <link>https://www.danlong360.com/post/20970/</link>
         <pubDate>Wed, 06 Nov 2024 13:09:49 +0800</pubDate>

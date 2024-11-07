@@ -7,7 +7,344 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 07 Nov 2024 12:28:24 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 07 Nov 2024 17:31:27 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Salt Player 椒盐音乐 播放器 v10.6.0-beta04</title>
+        <link>https://www.danlong360.com/post/70849/</link>
+        <pubDate>Thu, 07 Nov 2024 17:31:27 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/70849/</guid>
+        <description>&lt;p&gt;Salt Player（中文名：椒盐音乐）是一款好用的本地音乐播放器软件，支持多种音频格式，软件的界面非常的美观，而且会根据封面的色彩产生流光元素，非常多的主题可以选择，还支持横屏模式和桌面歌词等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/H3pwSEC2KdAnjVq.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;沉浸模式&lt;/p&gt;
+&lt;p&gt;状态栏歌词(部分机型)&lt;/p&gt;
+&lt;p&gt;自动匹配网络歌词&lt;/p&gt;
+&lt;p&gt;音频输出高级设置&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;DSD 转 PCM 增益现在可以在 0 - 12 dB 中选择
+优化 DSD 相关设置
+优化添加歌曲到歌单对话框
+优化歌词界面性能
+优化快速切换歌曲后台加载歌词性能延迟的问题
+修复部分界面存在的颜色问题
+修复对于部分字体歌词界面歌词文本绘制对齐问题&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB4yqrp5MmxKcVAoqls1BfMA1?pwd=3uch&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB4yqrp5MmxKcVAoqls1BfMA1?pwd=3uch&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Duolingo 多邻国 v6.7.0 高级版</title>
+        <link>https://www.danlong360.com/post/11877/</link>
+        <pubDate>Thu, 07 Nov 2024 17:30:44 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/11877/</guid>
+        <description>&lt;p&gt;多邻国Duolingo是一款零基础轻松学习多国语言的软件，每天只需几分钟,人人都可免费使用多邻国的网站和移动应用学习超过 30 种的外语。小口小口啃外语,科学又有趣。实用日常英语对话，多邻国手把手从基础教起，让你轻松开口说地道英语。针对已有基础之用户，通过多邻国跳级测试后，也能自动匹配相应程度课程进行学习。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/oyW2e8PDtYx61MC.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本说明&#34;&gt;&lt;strong&gt;版本说明&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;01.解锁高级/付费功能。&lt;/p&gt;
+&lt;p&gt;02.语言课程解锁。&lt;/p&gt;
+&lt;p&gt;03.开始课程已解锁。&lt;/p&gt;
+&lt;p&gt;04.特别优惠功能已解锁。&lt;/p&gt;
+&lt;p&gt;05.Power-Ups 功能已解锁。&lt;/p&gt;
+&lt;p&gt;06.服装功能已解锁。&lt;/p&gt;
+&lt;p&gt;07.奖励功能已解锁。&lt;/p&gt;
+&lt;p&gt;08.可离线自动下载。&lt;/p&gt;
+&lt;p&gt;09.禁用/删除不需要的权限 + 接收者 + 提供者 + 服务。&lt;/p&gt;
+&lt;p&gt;10.优化和 zipaligned 图形和清理资源以实现快速加载。&lt;/p&gt;
+&lt;p&gt;11.从 Android.manifest 中删除了广告权限/服务/提供商。&lt;/p&gt;
+&lt;p&gt;12.删除了广告链接并取消了调用方法。&lt;/p&gt;
+&lt;p&gt;13.广告布局可见性已禁用。&lt;/p&gt;
+&lt;p&gt;14.Google Play 商店安装包检查已禁用。&lt;/p&gt;
+&lt;p&gt;15.删除调试代码。&lt;/p&gt;
+&lt;p&gt;16.去掉对应java文件默认的.source标签名。&lt;/p&gt;
+&lt;p&gt;17.分析/Crashlytics/Firebase 禁用。&lt;/p&gt;
+&lt;p&gt;18.Facebook 广告捆绑 SDK 完全移除。&lt;/p&gt;
+&lt;p&gt;19.没有活动的跟踪器或广告。&lt;/p&gt;
+&lt;p&gt;20.语言：完整的多国语言。&lt;/p&gt;
+&lt;p&gt;21.CPU：armeabi-v7a、arm64-v8a、x86、x86_64。&lt;/p&gt;
+&lt;p&gt;22.屏幕DPI：120dpi、160dpi、240dpi、320dpi、480dpi、640dpi。&lt;/p&gt;
+&lt;p&gt;23.原始包签名已更改。&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB4yo67u5cDZFY2QfKN7oMBA1?pwd=cvvh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB4yo67u5cDZFY2QfKN7oMBA1?pwd=cvvh&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>资源猫 v3.0.8 多影视源，无广告强大功能的资源搜索软件</title>
+        <link>https://www.danlong360.com/post/58332/</link>
+        <pubDate>Thu, 07 Nov 2024 17:30:02 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/58332/</guid>
+        <description>&lt;p&gt;资源猫是一款拥有强大功能的资源搜索APP，你想要的各类资源都可以通过软件的搜索功能直接找到，实时更新热门影视资源，追剧不等待，让你享受边看边播的快感！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/8oMP24RLmEWsSbh.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;灵活点播：随点随看，灵活点播，时间自由掌握&lt;/p&gt;
+&lt;p&gt;极速播放：边播边下，随时拖动看你所爱&lt;/p&gt;
+&lt;p&gt;全格式支持：全格式播放，边播边下，畅享高清画质&lt;/p&gt;
+&lt;p&gt;热门推荐：每日推荐最新、最热门的影视剧，直接点播观看&lt;/p&gt;
+&lt;p&gt;云播模式：特有的云播放模式，连接互联网资源库，一键搜出你想要的电影&lt;/p&gt;
+&lt;p&gt;安全极速：领先的双核搜索技术，智能防护，拒绝病毒&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB4ylNvqWBqDkx7fsm_M_bPA1?pwd=59tf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB4ylNvqWBqDkx7fsm_M_bPA1?pwd=59tf&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>好奇时刻 v1.4.4，高颜值冷知识学习软件，小清新风格</title>
+        <link>https://www.danlong360.com/post/28450/</link>
+        <pubDate>Thu, 07 Nov 2024 17:29:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/28450/</guid>
+        <description>&lt;p&gt;好奇时刻是一款旨在帮助用户通过轻松有趣的方式学习各种冷知识的应用。其界面设计清新美观，内容涵盖了趣味冷知识、动物与植物冷知识、生活常识、健康科普等多个领域。用户可以通过这款应用在一分钟内学到一个新奇的知识点，非常适合好奇心旺盛的朋友使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/TpZr6b2qOl79eCY.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB4yhx40Q8-tF1C7-XV64YoA1?pwd=uu78&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB4yhx40Q8-tF1C7-XV64YoA1?pwd=uu78&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>东南小说 v1.6.0 会员版，内置124个优质书源</title>
+        <link>https://www.danlong360.com/post/37760/</link>
+        <pubDate>Thu, 07 Nov 2024 17:28:19 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/37760/</guid>
+        <description>&lt;p&gt;一款专为男性用户打造的手机看小说应用，人气榜、新书榜、连载榜等多个榜单，实时更新，多资源、多类型的精彩小说，尽情享受，高质量的服务引擎，让你能够阅读流畅的小说内容。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/n9W6hb2CBDLdz3v.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB4yV-vwj5QhtCBiZBIIAdUA1?pwd=iria&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB4yV-vwj5QhtCBiZBIIAdUA1?pwd=iria&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>比特舟 v1.5.5，免费搜索全网热门资源</title>
+        <link>https://www.danlong360.com/post/99792/</link>
+        <pubDate>Thu, 07 Nov 2024 17:27:44 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/99792/</guid>
+        <description>&lt;p&gt;比特船是一款功能强大的资源搜索神器，采用人工智能AI技术，独创多引擎实时去重技术，帮您自动过滤重复或失效的下载地址，通过爬虫检索搜索引擎来过滤网络资源种子磁力链接，输入简单名称即可模糊搜索到你需要的资源：影视、音乐、小说、漫画、学习资料等诸多内容，当然了，你也可以发挥你的想象力，搜索一些稀有资源，这里就不多说了，懂得都懂！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/4SKjlkqtuXA7gTp.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.自动去除重复下载地址&lt;/p&gt;
+&lt;p&gt;2.自动判断引擎是否可用&lt;/p&gt;
+&lt;p&gt;3.一键全网引擎搜索&lt;/p&gt;
+&lt;p&gt;4.无需登录，无任何广告。&lt;/p&gt;
+&lt;p&gt;5.快速设置下载速度，不受下载速度限制。&lt;/p&gt;
+&lt;p&gt;6.给出正确的搜索结果，过滤掉无效的重复下载。&lt;/p&gt;
+&lt;p&gt;7.支持BT搜索、磁力搜索、Torrent 搜索、BitComet 搜索。&lt;/p&gt;
+&lt;p&gt;8.数据来源网络，不存储种子文件，只提供BT资源磁力链接。&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB4yRtD1ivENm4fpa4D6XheA1?pwd=ncsj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB4yRtD1ivENm4fpa4D6XheA1?pwd=ncsj&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>摘星剧场 v1.6.0 会员版，您的极致追剧伴侣，尽享高清无扰的观剧盛宴</title>
+        <link>https://www.danlong360.com/post/7883/</link>
+        <pubDate>Thu, 07 Nov 2024 17:26:58 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/7883/</guid>
+        <description>&lt;p&gt;摘星剧场是一款高清无广告的追剧神器，内置了多条高速播放源，确保观影流畅无阻。若偶遇播放障碍，无需烦恼，只需轻松一键，即可自定义切换源，畅享不间断的精彩。真正实现了秒启秒播，让您告别等待，即刻沉浸于剧情之中。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/e6mGZBKlOipnCXy.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.随时切换设备运用，不会因设备更换而到头来仍是一个新手。&lt;/p&gt;
+&lt;p&gt;2.操作简略易懂，让您的每一次运用都变得愈加为所欲为。&lt;/p&gt;
+&lt;p&gt;3.内部推荐体系，根据您的喜好，智能推荐契合您优越的新番。&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB4yP7-7pJlJse8BMNQUMNaA1?pwd=mu3a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB4yP7-7pJlJse8BMNQUMNaA1?pwd=mu3a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Thunderbird 雷鸟 邮件管理 v128.4.2esr</title>
+        <link>https://www.danlong360.com/post/10802/</link>
+        <pubDate>Thu, 07 Nov 2024 17:26:18 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/10802/</guid>
+        <description>&lt;p&gt;Thunderbird 雷鸟 是一款免费开源的电子邮件、新闻订阅、即时通信、日历客户端，配置简单，定制自由。Thunderbird 的核心准则之一是使用和推广开放标准——重点就是拒绝世界上我们无法相互通信的封闭平台和服务。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/W9Mk7oIzJU63B4Q.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;邮件账户设置向导：在使用之前，您应该知道您的 IMAP、SMTP 和 SSL/TLS 设置。然后您需要提供您的名称、电子邮件地址以及密码，然后电子邮件账户向导将检查我们的数据库，找出适合您的相关设置。&lt;/p&gt;
+&lt;p&gt;快捷通讯录：快捷通讯录提供了快捷且简便的方式添加人员信息到您的通讯录。点击您已收到消息的星型图标即可轻松添加人员。双击后您可以添加更多信息，像是照片、生日，以及其他联系信息。&lt;/p&gt;
+&lt;p&gt;附件提醒：附件提醒器会找出您的正文中与附件相关的词语（包括像是与文件类型等内容相关的其他词语），并在您点击发送前提醒您添加附件。&lt;/p&gt;
+&lt;p&gt;标签页式电子邮件：如果您喜欢 Firefox 的标签页式浏览，您一定也会喜欢标签页式邮件。标签页电子邮件让您可以在多个标签页中分别加载电子邮件，便于您在它们之间快速跳转。比如您在回复一封电子邮件时，也许需要先查阅一封较早的电子邮件。标签式电子邮件，让您可以同时打开多个电子邮件，便于参考。&lt;/p&gt;
+&lt;p&gt;快速过滤工具栏：可以让您快速的过滤您的电子邮件。在快速过滤栏中输入一些字词，结果就会即刻出现。您也可以用新消息、标签，以及您的通讯录中的人员来过滤您的电子邮件。您还可以“固定”，或者保存过滤器并跨多个文件夹使用它。&lt;/p&gt;
+&lt;p&gt;搜索工具：Thunderbird 中的搜索界面包含过滤和时间线工具，供您精确查找想找到的邮件。Thunderbird 还会索引您的所有电子邮件和聊天对话，便于您非常快速的搜索。您的搜索结果会显示在一个新的标签页中，所以您可以轻松的在搜索结果与其他邮件的界面之间切换。&lt;/p&gt;
+&lt;p&gt;消息归档：如果您认为暂时不再需要某封邮件，想让它离开您的收件箱，但是还不想删除它，那么归档它吧！归档有助于您管理您的收件箱中的消息，把您的电子邮件都归档到“归档”文件夹。&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB4yMHtgfOEgBXuABn9UqP-A1?pwd=4hcs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB4yMHtgfOEgBXuABn9UqP-A1?pwd=4hcs&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AfuseKt 网络视频播放器 v1.4.0-10190</title>
+        <link>https://www.danlong360.com/post/41695/</link>
+        <pubDate>Thu, 07 Nov 2024 17:25:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/41695/</guid>
+        <description>&lt;p&gt;AfuseKt 是一款功能强大的安卓网络视频播放器，专为满足用户对多样化媒体播放需求而设计。它不仅支持多种流行的在线存储和媒体管理平台，如阿里云盘、Alist、WebDAV和Emby等，还提供了刮削功能和海报墙展示，使得用户能够更加便捷地管理和观看他们的视频内容。最低版本支持安卓11。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/1tE57FOu4bqLgAV.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB4yJWRBoKXTdJ7XqeBZ8sSA1?pwd=r73q&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB4yJWRBoKXTdJ7XqeBZ8sSA1?pwd=r73q&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>OfficeSuite Pro v15.0.54212 高级版 世界顶级移动办公软件</title>
+        <link>https://www.danlong360.com/post/3252/</link>
+        <pubDate>Thu, 07 Nov 2024 17:24:39 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/3252/</guid>
+        <description>&lt;p&gt;OfficeSuite – 世界顶级移动办公软件！Google Play商店下载最多的办公软件应用，迄今为止，智能手机平台上，功能最强大、兼容性最好的移动Office办公套件。创建，查看和编辑Word，Excel和PowerPoint文档，支持查看PDF文档及增强安全性，支持将PDF导出为Word，Excel和ePub，将任何文件转换为PDF。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/Tze86ECaok5t9UJ.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;play.google.com/store/apps/details?id=com.mobisystems.editor.office_registered&lt;/p&gt;
+&lt;h4 id=&#34;关于版本&#34;&gt;关于版本
+&lt;/h4&gt;&lt;p&gt;【免费版】OfficeSuite + PDF Editor&lt;/p&gt;
+&lt;p&gt;在Google Play商店，有广告，免费下载有功能限制。&lt;/p&gt;
+&lt;p&gt;【专业版】OfficeSuite Pro + PDF&lt;/p&gt;
+&lt;p&gt;在Google Play商店需要付费购买才能下载，无广告。&lt;/p&gt;
+&lt;p&gt;【高级版】OfficeSuite Premium + PDF&lt;/p&gt;
+&lt;p&gt;无广告，要付费购买密钥激活升级高级版。&lt;/p&gt;
+&lt;h3 id=&#34;版本特点&#34;&gt;版本特点
+&lt;/h3&gt;&lt;p&gt;by GhostRider,derrin&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;解锁高级版，免费畅享高级版特性（注：需任意账户登陆）&lt;/li&gt;
+&lt;li&gt;免广告；Word文档转换为PDF无水印；保存文档无水印&lt;/li&gt;
+&lt;li&gt;支持PDF导出Word,Excel,ePub，可将任何文件导出PDF&lt;/li&gt;
+&lt;li&gt;小提示：反编译后签名原因不可以Google/Adobe账户登陆!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB4yEyWLOUdgjjAt1mHHZyKA1?pwd=2ac2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB4yEyWLOUdgjjAt1mHHZyKA1?pwd=2ac2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AdGuard广告拦截器APP v4.6.204 Final / 4.7.88 Nightly</title>
+        <link>https://www.danlong360.com/post/25619/</link>
+        <pubDate>Thu, 07 Nov 2024 17:13:01 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/25619/</guid>
+        <description>&lt;p&gt;📱AdGuard中文版广告拦截器是一款最受欢迎的广告拦截程序.Adguard手机版Adguard安卓版无需ROOT权限,可以拦截所有应用和浏览器的广告.具有广告内容拦截跟踪器(包括:广告过滤器,社交过滤器,隐私过滤器,安全过滤器,自定义过滤器),DNS过滤,HTTPS过滤,节省应用流量数据管理以及隐身模式保护个人安全隐私.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/PuqQUkCO1ZdXKHx.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;AdGuard - Block Ads Without Root Nightly for Android
+&lt;a class=&#34;link&#34; href=&#34;https://adguard.com/zh_cn/versions/android/nightly.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://adguard.com/zh_cn/versions/android/nightly.html&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;Adguard [Nightly] [Premium] [Mod]&lt;/p&gt;
+&lt;p&gt;by Balatan
+adguard安卓版,adguard破解订阅版
+- 解锁永久订阅版，可以正常更新规则
+- 去除首次启动欢迎界面快速设置向导
+- 跳过发送改善体验以及隐私政策向导
+- 禁用或移除了不必要的权限、服务、接收器、提供器
+- 删除不必要资源文件、对齐优化、压缩打包减小体积&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB4uLt11K8ZXv46o5tqhStsA1?pwd=nehu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB4uLt11K8ZXv46o5tqhStsA1?pwd=nehu&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>XMind思维导图APP v24.10.02293 破解会员版</title>
         <link>https://www.danlong360.com/post/48357/</link>
         <pubDate>Thu, 07 Nov 2024 12:28:24 +0800</pubDate>
