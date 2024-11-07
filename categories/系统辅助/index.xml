@@ -7,7 +7,158 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 07 Nov 2024 07:42:19 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 07 Nov 2024 12:26:47 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hasleo Disk Clone(磁盘克隆工具) v4.8.0.2 多语便携版</title>
+        <link>https://www.danlong360.com/post/43646/</link>
+        <pubDate>Thu, 07 Nov 2024 12:26:47 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/43646/</guid>
+        <description>&lt;p&gt;Hasleo Disk Clone 是一款功能强大且用户友好的磁盘克隆工具，它提供了丰富的磁盘克隆和备份功能，帮助用户高效地克隆和备份硬盘、SSD 和其他存储设备。Hasleo Disk Clone 特别适合需要备份和迁移系统、数据和个人文件的个人用户、企业和 IT 专业人士。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/p4FPnt7IGQ5a96S.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;磁盘克隆：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;整盘克隆：支持整盘克隆功能，用户可以将一个硬盘的所有内容完整地克隆到另一个硬盘。
+分区克隆：支持分区克隆功能，用户可以克隆特定的分区，而不是整个硬盘。
+增量克隆：支持增量克隆功能，只克隆自上次克隆以来发生变化的数据，提高克隆效率。
+智能克隆：支持智能克隆功能，自动跳过坏扇区，确保克隆过程的顺利进行。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;系统迁移：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;系统迁移：支持系统迁移功能，用户可以将操作系统从一个硬盘迁移到另一个硬盘，确保系统正常启动和运行。
+引导管理：支持引导管理功能，确保克隆后的硬盘能够正确引导系统。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;数据备份：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;备份和还原：支持备份和还原功能，用户可以创建磁盘或分区的备份，并在需要时恢复。
+增量备份：支持增量备份功能，只备份自上次备份以来发生变化的数据，节省存储空间。
+差异备份：支持差异备份功能，备份自上次完全备份以来发生变化的数据。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;磁盘管理：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;磁盘分区：支持磁盘分区功能，用户可以创建、删除、调整分区大小等。
+磁盘检查：支持磁盘检查功能，用户可以检查磁盘的健康状况，发现并修复错误。
+磁盘擦除：支持磁盘擦除功能，用户可以安全地擦除磁盘上的数据，确保数据无法恢复。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;其他工具：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文件恢复：支持文件恢复功能，用户可以恢复误删除的文件。
+日志记录：支持日志记录功能，用户可以查看和记录克隆和备份任务的历史记录。
+命令行支持：支持命令行操作，用户可以通过脚本自动化克隆和备份任务。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多功能集成：集成了磁盘克隆、系统迁移、数据备份和磁盘管理等多种功能，用户无需在多个工具之间切换。
+高效克隆：采用高效的克隆算法，确保快速准确的克隆效果。
+智能克隆：支持智能克隆功能，自动跳过坏扇区，确保克隆过程的顺利进行。
+系统兼容：支持多种操作系统和存储设备，包括 Windows、HDD、SSD 等。
+增量和差异备份：支持增量和差异备份功能，节省存储空间，提高备份效率。
+引导管理：支持引导管理功能，确保克隆后的硬盘能够正确引导系统。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB3x2Rleb3VWlj5LTayCra6A1?pwd=j982&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB3x2Rleb3VWlj5LTayCra6A1?pwd=j982&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>XYplorer(多标签文件管理器) v26.60.0200 多语便携版</title>
+        <link>https://www.danlong360.com/post/53539/</link>
+        <pubDate>Thu, 07 Nov 2024 12:24:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/53539/</guid>
+        <description>&lt;p&gt;XYplorer中文版是一款多标签文件管理器及增强资源管理器的工具,XYplorer文件管理器支持多标签页栏,管理文件时跟使用Chrome之类浏览器一样,从浏览方便性,和切换滑顺程度,要比Windows系统自带的Explorer资源管理器便捷得多.可以大部分程度上替代系统自带的文理器.同时,有浏览器快捷键和鼠标快捷.&lt;img src=&#34;https://s2.loli.net/2024/11/07/Qu9A7qwY8Z6pWoN.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;件管&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.gndown.com/wp-content/uploads/2024/05/104b3773ae563f1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;XYplorer(多标签文件管理器) v26.00.0000 多语便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;双窗口浏览：支持双窗口浏览，可以同时浏览两个文件夹，方便文件的复制、移动和比较。
+高级搜索：支持高级搜索功能，可以根据文件名、大小、日期、属性等多种条件进行搜索。
+标签和书签：支持标签和书签功能，可以方便地管理和访问常用文件和文件夹。
+自定义命令：支持自定义命令功能，可以自定义快捷键和命令，方便快速访问常用功能。
+文件预览：支持文件预览功能，可以在文件管理器中直接预览图片、音频、视频等文件。
+批量重命名：支持批量重命名功能，可以根据规则批量重命名文件和文件夹。
+文件比较：支持文件比较功能，可以比较两个文件或文件夹的差异。
+自动化操作：支持自动化操作功能，可以通过脚本实现自动化操作。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;XYplorer - What’s New
+&lt;a class=&#34;link&#34; href=&#34;https://www.xyplorer.com/whatsnew.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.xyplorer.com/whatsnew.php&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB3wr-Aukjc4QCtJgekLlcdA1?pwd=aiqx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB3wr-Aukjc4QCtJgekLlcdA1?pwd=aiqx&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VueScan(扫描仪增强软件) Pro v9.8.39 多语便携版</title>
+        <link>https://www.danlong360.com/post/34973/</link>
+        <pubDate>Thu, 07 Nov 2024 12:23:56 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/34973/</guid>
+        <description>&lt;p&gt;VueScan是一款功能强大的扫描仪软件，可用于扫描、拍摄和打印高质量的图片和文档。它支持大量的扫描仪品牌和型号，包括HP、Canon、Epson、Nikon、Brother等，而且可以在Windows、Mac OS X和Linux等各种操作系统上运行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/TYLiR7hkxBq4egs.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种扫描仪型号，包括扫描仪、相机和文件夹。&lt;/li&gt;
+&lt;li&gt;支持多种文件格式，包括JPEG、TIFF、PDF和RAW格式。&lt;/li&gt;
+&lt;li&gt;可以进行自动校正、色彩校正和曝光校正等操作，以获得最佳的扫描效果。&lt;/li&gt;
+&lt;li&gt;支持扫描多页文档并将其保存为单个PDF文件。&lt;/li&gt;
+&lt;li&gt;可以进行扫描预览、裁剪和旋转等常见操作。&lt;/li&gt;
+&lt;li&gt;支持OCR（光学字符识别）功能，可以将扫描的文本转换为可编辑的文本格式。&lt;/li&gt;
+&lt;li&gt;可以进行高级图像处理，包括去除噪点、调整色彩和对比度等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简单直观，易于操作。&lt;/li&gt;
+&lt;li&gt;支持多种语言，包括英语、法语、德语、意大利语、西班牙语等。&lt;/li&gt;
+&lt;li&gt;更新频繁，可以及时支持最新的扫描仪型号和操作系统。&lt;/li&gt;
+&lt;li&gt;支持扫描多种类型的文档，包括照片、书籍、报纸和信件等。&lt;/li&gt;
+&lt;li&gt;可以进行批量扫描和批量处理，提高工作效率。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;vuescan pro中文破解版,vuescan pro免激活绿色便携版
+- 免注册激活，32位+64位，集成OCR语言中文/俄/英语&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB3wnGELOUdgjjAt1mGv7ZiA1?pwd=ajjp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB3wnGELOUdgjjAt1mGv7ZiA1?pwd=ajjp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>微信键盘-微信输入法(微信官方出品) v1.2.6.784</title>
         <link>https://www.danlong360.com/post/95982/</link>
         <pubDate>Thu, 07 Nov 2024 07:42:19 +0800</pubDate>
