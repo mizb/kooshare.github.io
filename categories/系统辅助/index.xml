@@ -7,7 +7,103 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 07 Nov 2024 17:14:41 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 07 Nov 2024 21:13:24 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>eDiary电子日记本(记录生活点滴) v4.3.4 中文绿色版</title>
+        <link>https://www.danlong360.com/post/41734/</link>
+        <pubDate>Thu, 07 Nov 2024 21:13:24 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/41734/</guid>
+        <description>&lt;p&gt;eDiary电子日记本是一款简单易用的电子日记软件，可以帮助用户记录生活中的点滴，保存珍贵的回忆和心情。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/13DpPZUNhdOCnGq.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241107211357828&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;主要特色&#34;&gt;主要特色
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;简单易用：该软件操作简单，界面清晰易懂，即使是电脑小白也能轻松上手。&lt;/li&gt;
+&lt;li&gt;多样化功能：软件支持多种文本编辑和排版功能，支持插入图片，设置字体、颜色、日期等，满足用户对个性化日记的需求。&lt;/li&gt;
+&lt;li&gt;安全保密：该软件支持加密功能，用户可将重要日记加密保护，保障隐私安全。&lt;/li&gt;
+&lt;li&gt;多平台同步：用户可通过云同步功能将电子日记本同步到多个平台，如手机、平板及电脑，可随时查看，随时编辑，随时备份。&lt;/li&gt;
+&lt;li&gt;分享互动：用户可将日记分享到社交平台，与好友交流分享自己的心情和生活点滴，增强社交互动。&lt;/li&gt;
+&lt;li&gt;时间轴记录：软件提供了时间轴记录功能，可帮助用户将不同时间点的日记分门别类，便于查阅和整理。&lt;/li&gt;
+&lt;li&gt;备份和恢复：软件还提供了备份和恢复功能，用户可随时备份日记本，避免误删除或系统故障时数据丢失的问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;新版 (4.3.4) 有哪些改进？
+* 新增：支持自定义常用字体，并在字体下拉框列表的顶部显示常用字体。
+* 新增：新增了 AI 写作助手工具 &amp;ldquo;查辞典&amp;rdquo;。
+* 新增：数据统计中支持选择时间范围。
+* 新增：新增了 &amp;ldquo;清除格式&amp;rdquo; 功能 （菜单：格式 -&amp;gt; 清除格式）。
+* 新增：记住编辑器底部附件栏的大小。
+* 新增：新增了 &amp;ldquo;阅读模式下显示光标&amp;rdquo; 的设置项。
+* 新增：支持 Tab/Shift+Tab 缩进项目符号和编号。
+* 新增：导出为单个文件时允许设置新文章另起一页。
+* 新增：支持在日记库列表页对日记本进行重命名。
+* 修正：修正了经常报错 &amp;ldquo;Some operation could not be performed&amp;hellip;&amp;rdquo; 的问题。
+* 修正：修正了模板管理器其中无法正常设置英文字体的问题。
+* 修正：修正了模板管理器中新建模板后立即应用模板显示文档损坏的问题。
+* 修正：修正了段落对话框中直接输入行距值时自动变成 &amp;ldquo;3&amp;rdquo; 的问题。
+* 修正：修正了夜间模式下字体段落等窗口中某些区域颜色不正确的问题。
+* 修正：修正了夜间模式下AI写作助手面板颜色不正确的问题。
+* 修正：修正了 &amp;ldquo;表格中 Ctrl+Enter 进行数学计算时报错&amp;rdquo; 的问题。
+* 修正：修正了代码块的诸多问题（渲染问题和滚动条问题等）。
+* 修正：修正了字数统计中英文单词的统计算法。
+* 优化：优化了 AI 写作助手的返回结果展示效果。
+* 优化：增强了 AI 写作助手中 &amp;ldquo;字数增加/字数精简&amp;rdquo; 的功能。
+* 优化：阅读模式下自动隐藏编辑器标尺。
+* 优化：改进了 AI 日记帮写的文章质量。
+* 优化：优化了界面细节若干。
+* 调整：&amp;ldquo;项目符号&amp;rdquo; 和 &amp;ldquo;编号&amp;rdquo; 改名为 &amp;ldquo;无序列表&amp;rdquo; 和 &amp;ldquo;有序列表&amp;rdquo;。
+* 测试：测试通过了 &amp;ldquo;123云盘&amp;rdquo; WebDAV 同步。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB5mKN-siU-gEcE-cxp1i0LA1?pwd=4cgx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB5mKN-siU-gEcE-cxp1i0LA1?pwd=4cgx&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Wise Disk Cleaner(系统清理工具) v11.1.7.833 多语便携版</title>
+        <link>https://www.danlong360.com/post/73460/</link>
+        <pubDate>Thu, 07 Nov 2024 21:09:54 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/73460/</guid>
+        <description>&lt;p&gt;Wise Disk Cleaner 是一款免费的系统清理工具，可以帮助用户清理系统中无用的文件和垃圾文件，从而释放磁盘空间，提高系统运行速度。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/07/ZFgzsLH6qvKRu52.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;清理无用文件：可以清理系统中的临时文件、日志文件、垃圾文件、无用的安装文件和下载文件等。&lt;/li&gt;
+&lt;li&gt;清理浏览器缓存：可以清理浏览器中的缓存文件、Cookie、历史记录等，保护用户的隐私。&lt;/li&gt;
+&lt;li&gt;定时清理：可以设置定时清理计划，让系统自动清理垃圾文件，不需要手动操作。&lt;/li&gt;
+&lt;li&gt;磁盘分析：可以分析磁盘使用情况，查看哪些文件占用了大量空间，从而可以有针对性地清理。&lt;/li&gt;
+&lt;li&gt;文件恢复：可以恢复误删除的文件，避免误操作导致数据丢失。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;免费：Wise Disk Cleaner 是一款完全免费的软件，无需付费就可以享受其强大的功能。&lt;/li&gt;
+&lt;li&gt;安全：Wise Disk Cleaner 支持备份和恢复功能，可以在清理前备份重要文件，避免误删重要数据。&lt;/li&gt;
+&lt;li&gt;简单易用：Wise Disk Cleaner 操作简单，界面清晰，用户可以轻松上手使用。&lt;/li&gt;
+&lt;li&gt;快速高效：Wise Disk Cleaner 可以快速扫描系统，找到并清理无用文件，提高系统运行速度。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB5mBKMM8lSa4qTQjnF9ffWA1?pwd=v99x&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB5mBKMM8lSa4qTQjnF9ffWA1?pwd=v99x&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows 系统调校 2024.11.07 中文绿色版</title>
         <link>https://www.danlong360.com/post/97466/</link>
         <pubDate>Thu, 07 Nov 2024 17:14:41 +0800</pubDate>
