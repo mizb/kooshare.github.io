@@ -7,7 +7,74 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 28 Oct 2024 13:29:36 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 08 Nov 2024 17:43:04 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>HEU KMS Activator(KMS激活工具) v42.3.1 中文绿色版</title>
+        <link>https://www.danlong360.com/post/15391/</link>
+        <pubDate>Fri, 08 Nov 2024 17:43:04 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/15391/</guid>
+        <description>&lt;p&gt;HEU KMS Activator中文版是一款简洁高效的KMS/OEM智能激活工具,适用所有Windows,Office版本,无需联网即可一键激活,支持UEFI的KMS激活工具.KMS服务是微软对Windows,Office等产品的批量许可服务,利用KMS可以激活局域网内的产品.该工具利用KMS机制在系统搭建KMS服务器,从而实现在线或离线激活.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/08/Bxdsfl9uiIvCGtO.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1、智能激活：智能识别最佳的激活方式
+• 优先顺序依次为数字许可证/KMS38/OEM/KMS
+• 自动识别并跳过已经永久激活的Windows/Office
+2、KMS激活Windows和Office
+• 安装/卸载自动续期功能，两种模式可供选择[1]自动续订模式(默认 [2]任务计划模式
+• 清除KMS客户端信息：清除KMS服务器地址、端口、激活时间间隔、续订时间间隔等
+• 搭建KMS服务器[手动激活]：KMS服务器地址/端口
+3、数字激活Windows和Office(Win10/11数字许可证激活及KMS38激活离线方式)
+• 添加/解除KMS38保护，免受180天激活影响，除非解除保护，否则不能使用KMS38激活
+• 查看当前系统信息：网络状态/激活状态，描述便于快速查看是否支持数字许可证/KMS38
+4、OEM激活Windows Vista/7/Server
+• 卸载OEM激活信息：清除动态加载的SLIC等信息，OEM激活将失效
+• 生产$OEM$文件夹：可将该文件夹置于iso镜像source文件夹下，以集成OEM激活功能
+5、激活信息备份还原、更改Windows 10版本、Microsoft Office零售版转换批量授权版
+6、Windows/Office密钥管理功能：安装密钥、卸载密钥、查看密钥、清除Office许可证
+7、智能激活、激活成功率高、支持静默参数、几乎支持所有 Windows/Office 所有版本
+8、Windows 7上无需依赖.NET Framework、能够离线激活，也能连接网络服务器激活&lt;/p&gt;
+&lt;h3 id=&#34;静默参数&#34;&gt;静默参数
+&lt;/h3&gt;&lt;p&gt;/? 查看静默参数
+/smart 智能激活
+/dig 数字许可证激活Win10/11
+/k38 激活Win10/11至2038年
+/lok 添加KMS38保护
+/oem OEM激活Win Vista/7/Server
+/od1 OEM模式1(默认)
+/od2 OEM模式2
+/kwi 使用KMS激活Windows
+/kof 使用KMS激活Office
+/kd1 KMS模式1(默认)
+/kd2 KMS模式2
+/wxp 激活Windows XP
+/r2v Office R2V
+/ren 安装自动续期功能
+/unr 卸载自动续期功能
+/reb 重启计算机
+/nologo 使用静默参数时不显示logo
+# 无人值守静默方式以数字许可永久激活系统：
+HEU_KMS_Activator.exe /kwi /dig /nologo
+注：Defender会误报威胁，需要提前加入排除!&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;[2024.11.08] v42.3.1 更新说明：
+1.增加Office 2024 激活信息备份还原功能。&lt;/p&gt;
+&lt;p&gt;文件: HEU_KMS_Activator_v42.3.1.exe
+SHA1: DD621D3672A2188B9195EB7AE8B67A48C48132EE&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBAB7m4QIKzBusEFpRouKbqA1?pwd=j9bg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBAB7m4QIKzBusEFpRouKbqA1?pwd=j9bg&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>KMS Server Service(激活Windows和Office) v2.1.3 绿色版</title>
         <link>https://www.danlong360.com/post/85950/</link>
         <pubDate>Mon, 28 Oct 2024 13:29:36 +0800</pubDate>
