@@ -7,7 +7,111 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 09 Nov 2024 11:58:51 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 09 Nov 2024 17:06:40 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Auslogics SSD Optimizer(固态硬盘优化工具) v2.0.0.0 便携版</title>
+        <link>https://www.danlong360.com/post/79873/</link>
+        <pubDate>Sat, 09 Nov 2024 17:06:40 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/79873/</guid>
+        <description>&lt;p&gt;Auslogics SSD Optimizer 是一款专为固态硬盘（SSD）设计的优化工具，它提供了多种优化功能，帮助用户提高 SSD 的性能、延长使用寿命并确保系统的稳定性和可靠性。Auslogics SSD Optimizer 特别适合需要保持 SSD 最佳状态的个人用户、企业和 IT 专业人士。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/09/MyZwtfzXENWxsVr.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;TRIM 命令优化：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;自动 TRIM：支持自动执行 TRIM 命令，帮助释放未使用的块，提高 SSD 的读写速度。
+手动 TRIM：支持手动执行 TRIM 命令，用户可以随时优化 SSD 性能。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;垃圾回收：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;垃圾回收：支持垃圾回收功能，自动清理未使用的数据块，提高 SSD 的可用空间。
+深度垃圾回收：支持深度垃圾回收功能，更彻底地清理未使用的数据块。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;文件碎片整理：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文件碎片整理：支持文件碎片整理功能，优化文件的存储位置，提高读写速度。
+智能碎片整理：支持智能碎片整理功能，自动识别和优化关键文件。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;性能监控：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;实时监控：支持实时监控 SSD 的性能指标，如读写速度、温度等。
+性能报告：支持生成性能报告，用户可以查看和分析 SSD 的性能数据。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;系统优化：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;启动项管理：支持启动项管理功能，用户可以管理开机启动项，提高系统启动速度。
+注册表优化：支持注册表优化功能，自动清理无效的注册表项，提高系统性能。
+临时文件清理：支持临时文件清理功能，自动删除临时文件，释放磁盘空间。&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;备份和恢复：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;系统备份：支持系统备份功能，用户可以创建系统备份，防止数据丢失。
+系统恢复：支持系统恢复功能，用户可以恢复系统备份，恢复系统到备份时的状态。&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;其他工具：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文件恢复：支持文件恢复功能，用户可以恢复误删除的文件。
+日志记录：支持日志记录功能，用户可以查看和记录优化任务的历史记录。
+命令行支持：支持命令行操作，用户可以通过脚本自动化优化任务。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多功能集成：集成了 TRIM 命令优化、垃圾回收、文件碎片整理和系统优化等多种功能，用户无需在多个工具之间切换。
+高效优化：采用高效的优化算法，确保快速准确的优化效果。
+实时监控：支持实时监控 SSD 的性能指标，帮助用户及时了解和优化 SSD 状态。
+系统兼容：支持多种 Windows 操作系统，包括 Windows 10、Windows 8.1 和 Windows 7。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBFBiA3YAs0FhyaOJ3A6s5TA1?pwd=9uhj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBFBiA3YAs0FhyaOJ3A6s5TA1?pwd=9uhj&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Double Commander v1.1.19 / 1.2.0 r11657 Snapshot 中文绿色版</title>
+        <link>https://www.danlong360.com/post/48451/</link>
+        <pubDate>Sat, 09 Nov 2024 17:04:13 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/48451/</guid>
+        <description>&lt;p&gt;Double Commander 是一款开源的文件管理器，类似于 Total Commander。它具有双窗口界面，可以方便用户在两个目录之间进行复制、移动、删除文件操作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/09/3HkDsE6dSGxPuWO.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;双窗口界面：方便用户同时浏览和操作两个目录。
+多标签页支持：用户可以在同一个窗口内打开多个标签页，方便管理多个目录。
+自定义快捷键：用户可以根据自己的习惯设置快捷键，提高操作效率。
+多种文件操作功能：支持文件复制、移动、删除、重命名等操作。
+内置文件比较工具：用户可以比较两个文件的内容差异。
+文件搜索：支持快速搜索文件和文件夹。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;跨平台支持：Double Commander 可以在 Windows、Linux、Mac 等多个平台上运行。
+免费开源：Double Commander 是免费的开源软件，用户可以自由使用和修改。
+插件支持：用户可以根据需要安装插件，扩展软件功能。
+多语言支持：支持多种语言界面，方便用户使用。
+轻量级：Double Commander 的安装包比较小，占用系统资源少，运行速度也比较快。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBFB_edfeNz0_9U_OlNz3kfA1?pwd=xryb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBFB_edfeNz0_9U_OlNz3kfA1?pwd=xryb&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>StartAllBack(Win11开始菜单增强工具) v3.8.13.5196 Beta 破解版</title>
         <link>https://www.danlong360.com/post/2997/</link>
         <pubDate>Sat, 09 Nov 2024 11:58:51 +0800</pubDate>
