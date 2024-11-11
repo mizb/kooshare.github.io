@@ -7,7 +7,48 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 11 Nov 2024 12:25:09 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Nov 2024 18:24:29 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>foobox(基于foobar2000的CUI界面配置) v7.37 重制版(11.11)</title>
+        <link>https://www.danlong360.com/post/83545/</link>
+        <pubDate>Mon, 11 Nov 2024 18:24:29 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/83545/</guid>
+        <description>&lt;p&gt;foobox 是一个 foobar2000 默认用户界面 (DUI) 的皮肤配置，基于 jsplitter (Spider Monkey Panel 版) 组件，符合主流软件的审美，扩展功能丰富并保持软件的流畅运行.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/11/A8MiaVFxQlwfBrq.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;制作和使用&#34;&gt;制作和使用
+&lt;/h3&gt;&lt;p&gt;foobox 中文版适用于 foobar2000 汉化版 by Asion ，使用以下第三方组件:
+ttsping 的歌词组件 ESLyric;
+基于 Spider Monkey Panel 的 JSplitter;
+foo_enhanced_spectrum_analyzer.&lt;/p&gt;
+&lt;p&gt;并修改使用以下优秀的代码部件:
+播放列表管理器，播放列表，封面浏览原作者 br3tt，汉化 always_beta;
+封面面板原作者 Jensen;
+搜索框原作者 Asion;
+简介面板作者 Wil-B;
+网络电台列表维护 范明明;&lt;/p&gt;
+&lt;p&gt;到最新 Releases (发行版) 页面下载安装包，从 7.24 起，安装包不再集成 foobar2000 汉化版，仅包含 foobox 主题及所需组件，绿色安装，自由便捷。
+从 7.26版开始增加 foobox 6 重制版，foobox 7 专注 64 位版，foobox 6 重制版为 32 位版，其实是在 foobox 7 的基础上添加 UI Hacks 并整合了两个版本的特点，适合喜欢隐藏菜单栏状态栏 UI 的朋友。
+额外的视频面板可选安装，它基于 foo-youtube 和 foo_input_ffmpeg 组件。
+完成后可以在 “主菜单&amp;ndash;视图&amp;ndash;布局&amp;ndash;快速设置”里切换各种 foobox 布局组合。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;重制版添加标题栏显示更多音轨信息的设置，在 foobox 设置里自定义。
+右栏的信息封面面板右键菜单添加循环歌曲信息的开关，可以关闭文字循环，不显示编码等信息。
+修正已知 bug 及代码优化，自带的电台列表添加一个代理地址。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBPni7ns2qSUzTMxgEGSCZzA1?pwd=36yq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBPni7ns2qSUzTMxgEGSCZzA1?pwd=36yq&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Spotify(正版流媒体音乐平台) v1.2.49.439 多语便携版</title>
         <link>https://www.danlong360.com/post/33849/</link>
         <pubDate>Mon, 11 Nov 2024 12:25:09 +0800</pubDate>

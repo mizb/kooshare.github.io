@@ -7,7 +7,117 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 11 Nov 2024 12:24:27 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Nov 2024 18:35:14 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>HandBrake(免费视频转码器) v1.8.2 / 20241111 Nightly 中文绿色版</title>
+        <link>https://www.danlong360.com/post/79720/</link>
+        <pubDate>Mon, 11 Nov 2024 18:35:14 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/79720/</guid>
+        <description>&lt;p&gt;HandBrake 可将您已有拍摄的视频，制作可在您的手机、平板电脑、电视媒体播放器、游戏机、计算机或网络浏览器上使用的新视频——几乎所有支持现代视频格式的产品。
+HandBrake 适用于最常见的视频文件和格式，包括由消费类和专业摄像机、手机和平板电脑等移动设备、游戏和计算机屏幕录制以及 DVD 和蓝光光盘创建的文件和格式。 HandBrake 利用 FFmpeg、x264 和 x265 等工具从这些来源创建新的 MP4 或 MKV 视频文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/11/rs2alP1cXfSOZ4I.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;内置设备预设
+通过选择为您的设备优化的配置文件，或选择用于标准或高质量转换的通用配置文件，在几秒钟内开始使用 HandBrake。 简单，容易，快速。 对于那些想要更多选择的人，调整许多基本和高级选项以改进您的编码。&lt;/p&gt;
+&lt;p&gt;支持的输入源：
+Handbrake 可以处理最常见的多媒体文件和任何不包含任何类型的复制保护的 DVD 或蓝光源。&lt;/p&gt;
+&lt;p&gt;输出：
+文件容器：.MP4(.M4V) 和 .MKV
+视频编码器：H.265（x265 和 QuickSync）、H.264（x264 和 QuickSync）、H.265 MPEG-4 和 MPEG-2、VP8、VP9 和 Theora
+音频编码器：AAC / HE-AAC、MP3、Flac、AC3 或 Vorbis
+音频直通：AC-3、E-AC3、DTS、DTS-HD、TrueHD、AAC 和 MP3 音轨&lt;/p&gt;
+&lt;p&gt;更多功能
+标题/章节和范围选择
+编码的批量扫描和排队
+章节标记
+字幕（VobSub、隐藏字幕 CEA-608、SSA、SRT）
+恒定质量或平均比特率视频编码
+支持 VFR 和 CFR
+视频过滤器：去隔行、去梳、去噪、去噪、去块、灰度、裁剪和缩放
+实时静态和视频预览&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBPoBm_8QVvmQQ_li546DmcA1?pwd=atce&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBPoBm_8QVvmQQ_li546DmcA1?pwd=atce&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>FFmpeg Batch AV Converter(音视频转换软件) v3.1.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/51975/</link>
+        <pubDate>Mon, 11 Nov 2024 18:34:20 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/51975/</guid>
+        <description>&lt;p&gt;FFmpeg Batch AV Converter是一款批量音视频转换软件。它使用了FFmpeg的命令行工具，可以快速、高效地转换多种音视频格式。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/11/xVGbu5oiLYtCwQe.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持批量转换多种音视频格式，包括MP4、AVI、MKV、FLV、WMV等。
+可以同时转换多个音视频文件，提高工作效率。
+支持设置转换的输出文件格式、编码、分辨率、帧率等参数。
+支持自定义输出文件名，方便对转换后的文件进行管理。
+提供转换进度和剩余时间等信息的实时显示。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观，操作简单方便，适合初学者使用。
+支持通过拖拽方式添加需要转换的音视频文件，操作更加便捷。
+高性能转换引擎，可以快速处理大量的音视频文件。
+提供了丰富的转换选项，可以根据用户需求进行个性化设置。
+转换过程中的错误提示和日志输出，方便用户了解转换情况。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBPo94YoT6u6afiJAOhCBZLA1?pwd=6rk9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBPo94YoT6u6afiJAOhCBZLA1?pwd=6rk9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HD Video Converter Factory(视频格式转换) Pro v27.8 多语便携版</title>
+        <link>https://www.danlong360.com/post/80892/</link>
+        <pubDate>Mon, 11 Nov 2024 18:33:33 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/80892/</guid>
+        <description>&lt;p&gt;WonderFox HD Video Converter Factory中文破解版(豌豆狐HD高清视频转换器)是一款高清视频转换软件,支持各种视频格式转换,有视频转换,视频合并,视频马赛克,视频下载,屏幕录像,GIF制作,图片转视频等功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/11/E2orYV4FZyhAOcR.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持300多种视频格式转换，在保留视频质量的同时，压缩率可达80%，转换速度可达50X速率！
+支持画面剪切、片段剪辑、片段合并、特效添加、铃声制作、声音调整、FTP上传、字幕编辑等。
+﹂独特的HD视频编码技术和批量转换模式，可以转换4K、H265(HEVC)和VP9 视频格式
+﹂支持多轨高清视频转换（M2TS、MKV、AVCHD、HDTV、BDAV、MPEG-TS等）
+﹂先进高清视频转换技术（4K、HD MKV、HD MP4、HD AVI、HD MTS等）
+﹂支持高清或标清转换4K (UHD), 1080P (FHD), 720P (HD), 480P(SD)
+﹂拥有50X视频转换速度：多核CPU超线程, 可以将转换速度飙升至50X
+﹂5X压缩率：内置高级视频压缩器，预置优化参数，无损模式压缩视频
+﹂专业音频转换：完美支持DTS，杜比5.1环绕立体声，无损音频输出格式
+﹂支持高帧60fps转换、解决转换音频视频同步智能修复时间轴损坏的问题
+﹂支持转换视频时移除或添加字幕&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBPo5rHHKb_1MmXJSeElZQ8A1?pwd=ypqi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBPo5rHHKb_1MmXJSeElZQ8A1?pwd=ypqi&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>reaConverter(图片格式转换工具) Pro v7.835 多语便携版</title>
         <link>https://www.danlong360.com/post/27742/</link>
         <pubDate>Mon, 11 Nov 2024 12:24:27 +0800</pubDate>

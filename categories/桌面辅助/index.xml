@@ -7,7 +7,48 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 10 Nov 2024 11:36:32 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%A1%8C%E9%9D%A2%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Nov 2024 18:27:43 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%A1%8C%E9%9D%A2%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Qstart(新一代桌面整理工具) v20240530 中文绿色版</title>
+        <link>https://www.danlong360.com/post/92483/</link>
+        <pubDate>Mon, 11 Nov 2024 18:27:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/92483/</guid>
+        <description>&lt;p&gt;Qstart 是一个针对 Qualcomm 处理器的软件开发包 (SDK)。它包含一系列工具、库和文档，旨在帮助开发人员快速开发可用于 Qualcomm 芯片集的高质量软件。该套件特别适用于嵌入式系统的开发，如手机、平板电脑和其他类似设备。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/11/LlDnb7F5pcmBtJw.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;① 开发环境：Qstart 提供了一个完整的软件开发环境，包括调试器、编译器、模拟器和仿真器等。
+② 软件调试：Qstart 带有一个完整的调试工具套件，支持实时调试、远程调试和仿真调试。
+③ 应用开发：Qstart 支持多种应用程序开发模式，包括基于 Android 和 Linux 的应用程序。
+④ 驱动程序开发：Qstart 支持开发各种类型的驱动程序，包括嵌入式操作系统的驱动程序和 Linux 驱动程序等。
+⑤ 库开发：Qstart 包含各种库，包括媒体库、网络库、图形库、通信库等，可用于加速应用程序开发。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;① 环境搭建 : Qstart 提供了一种简单的方式，使开发者可以快速地搭建一个开发环境，包括安装各种工具、库和文档。
+② 强大的工具套件：Qstart 为开发者提供一个强大的工具套件，包括调试器、编译器、仿真器和模拟器，让开发人员可以更加高效地开发和调试代码。
+③ 应用程序和驱动程序开发：Qstart 支持多种类型的应用程序和驱动程序开发框架，通过这些框架，开发人员可以使用高效且易于学习的语言和技术来开发应用程序和驱动程序。
+④ 库开发：Qstart 包含许多库，应用开发者可以使用这些库将编写应用程序的时间大大缩短，从而可以快速地构建强大的应用程序。
+⑤ 良好的文档支持：Qstart 带有完整的文档集合，包括教程、参考手册和示例代码等。这些文档不仅使开发人员更轻松地上手，也有益于他们更好地理解和学习该软件的使用。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;1: 支持右键发送到Qstart， 这应该是最快捷增加链向的方法。
+2: 在线升级成功后会弹出提示了。
+3: 支持音频播放.
+4: 支持文件夹, 记忆板模式.
+5: 支持一键截图.
+6: 支持一键备份, 恢复.&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBPntaDvWoljjUncEFvxrdEA1?pwd=kvcp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBPntaDvWoljjUncEFvxrdEA1?pwd=kvcp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>EarthView(提供卫星地球照片作为壁纸) v7.10.5 便携版</title>
         <link>https://www.danlong360.com/post/72362/</link>
         <pubDate>Sun, 10 Nov 2024 11:36:32 +0800</pubDate>
