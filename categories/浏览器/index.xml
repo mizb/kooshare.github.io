@@ -7,7 +7,290 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 12 Nov 2024 22:00:44 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 13 Nov 2024 13:04:56 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>火狐浏览器(Firefox)tete009 Firefox 132.0.2 private build</title>
+        <link>https://www.danlong360.com/post/38980/</link>
+        <pubDate>Wed, 13 Nov 2024 13:04:56 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/38980/</guid>
+        <description>&lt;p&gt;tete009 Firefox最新版火狐浏览器知名第三方编译版,火狐浏览器tete009编译版,其优化设计和兼容性非常优秀.它的便携化制作方式完美,加载大容量网页速度特别快,尤其是加载图片速度快,兼容性启动速度非常不错.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/13/EPULrJTCjuV6iaW.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;-tete009-firefox-特点介绍&#34;&gt;● tete009 Firefox 特点介绍
+&lt;/h3&gt;&lt;p&gt;tete009 Mozilla Firefox - Tete&amp;rsquo;s Atelier
+&lt;a class=&#34;link&#34; href=&#34;http://www1.plala.or.jp/tete009/en-US/software.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www1.plala.or.jp/tete009/en-US/software.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;tete009 Firefox 编译版的启动和加载图片时间是所有火狐浏览器版本里最快的!tete009的版本改进了Firefox内存占用，根据不同的CPU指令集重写了tmemutil.dll，即内存管理的dll文件，使效率大为提高;改善了浏览器的渲染过程，使渲染效率更高;此外Module Binder能缩短Firefox的启动时间。根据不同的CPU指令集制作不同的版本，使Mozilla Firefox能够根据不同的平台而优化，这也是众多第三方编译版共同的特征。&lt;/p&gt;
+&lt;h3 id=&#34;-tete009-firefox版本切换简体中文方法&#34;&gt;● tete009 Firefox版本切换简体中文方法
+&lt;/h3&gt;&lt;p&gt;设置(Settings)-&amp;gt;常规(General)-&amp;gt;language(语言)
+English(US)-&amp;gt;下拉-&amp;gt;Search for more languages (搜索更多语言)
+Select a language to add-&amp;gt;下拉-&amp;gt;简体中文-&amp;gt;Add-&amp;gt;添加完-OK&lt;/p&gt;
+&lt;h3 id=&#34;-tete009-firefox版本如何启用便携模式&#34;&gt;● tete009 Firefox版本如何启用便携模式?
+&lt;/h3&gt;&lt;p&gt;在根目录新建文件 tmemutil.ini，启用以下内容即可完成便携模式
+%AppData%LocalMozillaFirefoxProfiles可以保存到跟根目录
+Portable = 1，如果为0则禁用便携模式
+[General]
+Portable = 1
+PortableDataPath = D:FirefoxProfiles
+● 如何更新tete009 Firefox版本 (作者方法)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打开tete009 Firefox旧版的所在位置，根据需要备份以下文件和文件夹&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;├—PortableDataPath 指定的文件夹(如果启用了便携模式)
+├—searchplugins folder (搜索插件目录)
+├—plugins folder (插件目录)
+├—tmemutil.ini (如果已存在)&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;删除tete009 Firefox旧版本&lt;/li&gt;
+&lt;li&gt;解压tete009 Firefox最新版&lt;/li&gt;
+&lt;li&gt;将备份文件复制到新版目录&lt;/li&gt;
+&lt;li&gt;如有必要重新安装语言包&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;x64 SSE3
+Firefox 132.0.2 [2024111023 en-US win32 tete009 x64 sse3 cspgo] (62.4MB)
+MD5: 14c7b953610873f2973c3d92e39cc380
+SHA1: e0b53a2cd1412a1672574aefe6d46b7b62d9e1af
+SHA256: a1f3621677d85f3cf20fe074e2a3694973166d503c796716bb258efaad91f788&lt;/p&gt;
+&lt;p&gt;Language packs:
+&lt;a class=&#34;link&#34; href=&#34;https://releases.mozilla.org/pub/mozilla.org/firefox/releases/132.0.2/win64/xpi/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://releases.mozilla.org/pub/mozilla.org/firefox/releases/132.0.2/win64/xpi/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBYyZ2spAsZCgzEaZzD-mwNA1?pwd=jf2n&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBYyZ2spAsZCgzEaZzD-mwNA1?pwd=jf2n&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>谷歌浏览器Google Chrome v131.0.6778.70 便携增强版</title>
+        <link>https://www.danlong360.com/post/34562/</link>
+        <pubDate>Wed, 13 Nov 2024 13:00:50 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/34562/</guid>
+        <description>&lt;p&gt;Google Chrome是由谷歌公司开发的一款快速、安全、免费的网络浏览器。它具有强大的搜索引擎、安全设置、速度快的操作、自定义设置等众多功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/13/YNyD24KuloLvTP8.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.快速浏览：支持快速启动、网页预加载，可以更快的加载网页；
+2.安全性：支持多种安全功能，包括自动填充表单、安全浏览和安全搜索等；
+3.定制化：支持自定义首页、安装扩展程序、设置主题等；
+4.搜索引擎：支持Google搜索引擎，搜索结果更加准确；
+5.插件功能：支持丰富的插件功能，可以增强网络浏览的体验；
+6.多种语言：支持多种语言，可以根据用户的需求进行切换。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;√ 无升级、便携式、绿色免安装，即可以覆盖更新又能解压使用！
+√ 此增强版，支持右键解压使用，Win7系统可以自定义安装位置
+√ 加入了 Chrome增强软件劫持补丁 Chrome++ 1.5.5（version.dll）
+﹂Chrome++增强版特点（作者：耍下shuax）
+├—双击关闭标签页面
+├—保留最后标签页（点X不行，防止关闭最后一个标签页时关闭浏览器）
+├—鼠标悬停标签栏滚动
+├—按住右键时滚轮滚动标签栏
+├—移除flash锁区，移除2020年过期警告（v88版彻底删除了Flash支持）
+├—移除管理员身份运行的警告
+├—移除开发者模式警告（无需开启开发者模式直接安装第三方扩展程序）
+├—便携式，程序放App目录，用户数据文件放Data目录（兼容原版数据）
+├—移除关于版本更新错误警告
+* 启动软件App/chrome.exe, 增强功能通过App/version.dll补丁实现
+* 由于是便携版，不会和其它版本冲突，不想用了直接删掉整个文件夹
+√ 根目录加入优化启动.bat , 可快速追踪参数快捷方式和屏蔽以下提示
+√ 屏蔽了Win7系统的提示通告 (获取将来的更新,需要Win10或更高版)
+√ 采用的不带更新组件服务的官方正式版，删除Chromium多语言Pak&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBYyC-EyqY4kQuXL00FLtA8A1?pwd=5rab&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBYyC-EyqY4kQuXL00FLtA8A1?pwd=5rab&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>谷歌浏览器Google Chrome v131.0.6778.70 官方正式版</title>
+        <link>https://www.danlong360.com/post/70757/</link>
+        <pubDate>Wed, 13 Nov 2024 13:00:06 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/70757/</guid>
+        <description>&lt;p&gt;Google浏览器2022最新版Chrome浏览器最新版下载.谷歌浏览器官方正式版Google Chrome浏览器稳定版,采用自主研发Chromium内核,它是全球最受欢迎的谷歌浏览器电脑版,追求速度,隐私安全的网络浏览器.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/13/YNyD24KuloLvTP8.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Chrome Releases
+&lt;a class=&#34;link&#34; href=&#34;https://chromereleases.googleblog.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://chromereleases.googleblog.com&lt;/a&gt;
+v109 开始是支持 Win7/8的最后一个 Chrome 版本
+v90 开始AV1视频编码技术，高清视频占用大幅减小
+v88 开始永久停止Flash插件支持，相关代码彻底移除
+v87 内部代码支持 Adobe Flash Player 插件的最终版
+v86 开始恢复地址栏中URL的 HTTP、HTTPS、WWW 前缀方法
+﹂现在最新版只需：地址栏右键-&amp;gt;选择-&amp;gt;总是显示完整网址即可
+v83 开始可开启安全DNS
+﹂chrome://flags里的Secure DNS lookups项取消
+﹂现在设置-隐身设置和安全性-高级-使用安全DNS
+v81 开始新增标签分组功能
+﹂chrome://flags/#tab-groups //改Enabled开启
+v80 开始新增拦截高负载广告
+﹂chrome://flags/#enable-heavy-ad-intervention //改Enabled开启
+v79 开始新增多线程下载功能(Parallel downloading)
+﹂chrome://flags/#enable-parallel-downloading //改Enabled开启
+v77 开始又增加了个隐藏地址栏URL的HTTP、HTTPS及WWW前缀项
+﹂chrome://flags/#omnibox-ui-hide-steady-state-url-trivial-subdomains //改Disabled
+v76 开始隐藏地址栏中URL的HTTP、HTTPS及WWW前缀(恢复方法)
+﹂chrome://flags/#omnibox-ui-hide-steady-state-url-scheme-and-subdomains //改Disabled
+v73 开始禁止本地拖拽crx扩展程序安装(仍然可通过扩展程序加载解压的扩展程序安装)
+v71 开始完全禁用Adobe Flash Player PPAPI插件(强制启用需用 chrome++增强软件)
+﹂chrome://flags/#enable-ephemeral-flash-permission //改为Disabled(仅限低版本)
+v57 开始不再内置chrome://plugins/ 命令行进入界面
+v54 开始不再内置Adobe Flash Player PPAPI插件
+v50 开始不再支持Windows XP
+v45 开始不再支持Adobe Flash Player NPAPI插件&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBYy7pmNH0FR2EBs0erCJKKA1?pwd=95q8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBYy7pmNH0FR2EBs0erCJKKA1?pwd=95q8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Chrome&#43;&#43;(Chrome浏览器增强软件) v1.11.0</title>
+        <link>https://www.danlong360.com/post/87145/</link>
+        <pubDate>Wed, 13 Nov 2024 12:59:15 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/87145/</guid>
+        <description>&lt;p&gt;Chrome++插件是一款Google Chrome浏览器增强软件,Chrome浏览器便携式Dll劫持内存模块,可以强制实现flash插件支持,解除Flash Player地区封锁限制,移除开发者模式警告及更新错误提示,增强标签页功能.&lt;/p&gt;
+&lt;p&gt;GreenChrome是一款增强Chrome的软件，可以方便打造绿色版Chrome。
+具有双击关闭标签，右键关闭标签页，保留最后标签，悬停快速标签切换；
+追加Chrome运行参数，启动时运行程序，老板键，空白新标签页；
+任意形状鼠标手势，便携化绿色版，自带hosts，按键转换等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:%5cUsers%5cAdministrator%5cAppData%5cRoaming%5cTypora%5ctypora-user-images%5cimage-20241113125936498.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241113125936498&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;Chrome浏览器Chrome增强软件最新版(Chrome Plus) - GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/shuax/chrome_plus&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/shuax/chrome_plus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chrome++增强版特点（作者：耍下shuax）
+├—双击关闭标签页面
+├—保留最后标签页（点X不行，防止关闭最后一个标签页时关闭浏览器）
+├—鼠标悬停标签栏滚动
+├—按住右键时滚轮滚动标签栏
+├—移除flash锁区，移除2020年过期警告（v88版彻底删除了Flash支持）
+├—移除管理员运行警告
+├—移除开发者模式警告（无需开启开发者模式直接安装第三方扩展程序）
+├—便携式，程序放App目录，用户数据文件放Data目录（兼容原版数据）
+├—移除更新错误警告
+* 启动软件App/chrome.exe, 增强功能通过App/version.dll补丁实现
+* 由于是便携版，不会和其它版本冲突，不想用了直接删掉整个文件夹&lt;/p&gt;
+&lt;p&gt;如何使用？
+解压运行App/chrome.exe即可，增强通过version.dll劫持内存补丁实现。
+由于是便携版，不会和其它版本冲突，不想用了可以直接删掉整个文件夹。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2024.08.23 Chrome++ 1.9.0 正式版
+- 修复系列问题&lt;/p&gt;
+&lt;p&gt;2024.04.04 Chrome++ 1.8.3 正式版
+- 允许自定义 new_tab_disable_name
+- 修复新标签判断在隐身模式下无效
+- 修复书签菜单栏滚动卡住的问题&lt;/p&gt;
+&lt;p&gt;注意，从 Chrome 版本 123 开始，当启用 Chrome++ 的 open_bookmark_new_tab 功能时，某些包含大量书签的书签文件夹会出现延迟或冻结的情况。本次更新已采取措施尝试解决卡死的问题，但延迟仍然存在。测试表明 Chrome 125 版本显着缓解了这个问题。故认为该问题是由核心修改引起的。请等待 Chrome 团队的进一步更新或暂时禁用受影响的功能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBYy5RQlxE0uw-0p8uoTB6-A1?pwd=49sz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBYy5RQlxE0uw-0p8uoTB6-A1?pwd=49sz&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Opera浏览器(挪威浏览器) v114.0 Build 5282.185</title>
+        <link>https://www.danlong360.com/post/25967/</link>
+        <pubDate>Wed, 13 Nov 2024 12:28:46 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/25967/</guid>
+        <description>&lt;p&gt;Opera浏览器也称为欧朋浏览器，是一款非常好用的网络浏览器。Opera浏览器浏览查找速度快，内容更精准，而且绿色安全，用户可以放心使用。Opera浏览器本身自带拦截广告的插件，让用户不用再为广告多而烦恼，体验效果更佳。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/13/fuO7XdHMegTw4tm.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1、广告拦截功能
+摆脱无休止的在线广告的干扰，屏蔽挖矿等恶意软件，并帮助加快页面加载。
+2、内置 Messenger，随时联络
+与朋友聊天同时浏览网页，无需在标签页或应用程序之间切换。
+3、暗色模式
+可通过设置暗色和亮色主题、键盘快捷键、墙纸、扩展程序、收藏夹书签和许多其他选项，对 Opera 进行自定义设定。
+软件特色
+1、浏览速度更快
+相比其他浏览器，我们简化了浏览处理功能，搭配内置广告拦截功能，实现更快速的网页加载体验。
+2、随时联络
+使用浏览器侧边栏中的内置 Messenger，聊天、浏览一举兼得，无需一直在标签页和应用程序之间切换。
+3、定义自我
+可通过设置暗色和亮色主题、键盘快捷键、收藏夹书签和许多其他选项，对 Opera 进行自定义设定。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBYpWDxAYHW3C8BSrv-rtkCA1?pwd=yb75&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBYpWDxAYHW3C8BSrv-rtkCA1?pwd=yb75&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Mozilla Firefox(火狐浏览器) v132.0.2 官方正式版</title>
+        <link>https://www.danlong360.com/post/67679/</link>
+        <pubDate>Wed, 13 Nov 2024 12:21:20 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/67679/</guid>
+        <description>&lt;p&gt;Mozilla Firefox火狐浏览器下载,火狐浏览器2024最新版官方稳定版,火狐浏览器(Firefox2024)速度快,上网体验最安全!火狐游览器内核性能非常优秀,采用Gecko引擎主流网络浏览器,提供多种网络标准和个性化定制.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/13/NvDf287adLrpX51.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;快速浏览：火狐浏览器采用了先进的渲染引擎，可以快速加载网页，并且具有快速的响应速度。
+安全性：火狐浏览器内置了丰富的安全功能，包括恶意软件和钓鱼网站的防护机制，保护用户的个人信息安全。
+隐私保护：火狐浏览器提供了一系列的隐私保护功能，例如追踪保护、强制加密的HTTPS连接和个人数据同步功能。
+全面自定义：火狐浏览器提供了丰富的扩展和主题，用户可以根据自己的喜好自定义浏览器的外观和功能。
+跨平台兼容：火狐浏览器可在Windows、Mac、Linux和Android等多个平台上运行，并且提供了统一的用户体验。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;强调用户体验：火狐浏览器致力于提供简洁而直观的用户界面，使用户能够更容易地浏览和管理网页。
+开源：火狐浏览器采用了开源的软件开发模式，这意味着任何人都可以查看和修改其源代码，增加其安全性和可信度。
+多进程架构：火狐浏览器使用多进程架构，使得浏览器更稳定，能够更好地处理多个标签页和插件。
+扩展生态系统：火狐浏览器具有丰富的扩展生态系统，用户可以根据自己的需要选择和安装各种功能扩展，从而增强浏览器的功能和定制性。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBYpLHqvgE5V2RJ9bW1etxpA1?pwd=uz66&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBYpLHqvgE5V2RJ9bW1etxpA1?pwd=uz66&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>360安全浏览器 v15.3.6253.0_去广告绿色便携版</title>
         <link>https://www.danlong360.com/post/74449/</link>
         <pubDate>Tue, 12 Nov 2024 22:00:44 +0800</pubDate>
@@ -7343,7 +7626,7 @@ v45 开始不再支持 Adobe Flash Player NPAPI 插件&lt;/p&gt;
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Chromium内核浏览器实验室功能特性运行参数：&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;https&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;//&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;peter&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sh&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;experiments&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;chromium&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;command&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;line&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;switches&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;https&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;//&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;peter&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sh&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;experiments&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;chromium&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;command&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;line&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;switches&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;user&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;dir&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Data&amp;#34;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;//&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;数据重定向存储当前目录&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;user&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;dir&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;..\Data&amp;#34;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;//&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;数据重定向存储到上层目录&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;disk&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cache&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;dir&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Cache&amp;#34;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;//&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;缓存重定向存储存当前目录&lt;/span&gt;

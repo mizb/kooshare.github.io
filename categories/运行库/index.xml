@@ -7,7 +7,157 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 08 Nov 2024 17:46:32 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 13 Nov 2024 12:24:29 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Microsoft .NET Runtime(.NET9.0下载) v9.0.0</title>
+        <link>https://www.danlong360.com/post/49182/</link>
+        <pubDate>Wed, 13 Nov 2024 12:24:29 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/49182/</guid>
+        <description>&lt;p&gt;Microsoft .NET 9.0.0 是微软推出的一个重要的框架更新，旨在为开发者提供更强大的工具和功能来构建现代化的应用程序。.NET 9.0.0 支持 Windows、macOS 和 Linux 等多种操作系统，适用于开发桌面应用、Web 应用、移动应用和云服务。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/13/lFMEPUHcgvXSoIy.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;跨平台开发：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;多平台支持：支持 Windows、macOS 和 Linux 等多种操作系统，开发者可以在不同平台上构建和运行应用程序。
+统一开发体验：提供统一的开发体验，开发者可以使用相同的工具和语言在不同平台上进行开发。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;高性能：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;优化的运行时：包含优化的运行时环境，提高应用程序的性能和响应速度。
+异步编程：支持异步编程模型，提高应用程序的并发性和响应能力。
+内存管理：改进的内存管理机制，减少内存泄漏和提高内存利用率。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;现代化的开发工具：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Visual Studio 集成：与 Visual Studio 集成，提供强大的开发环境和调试工具。
+命令行工具：支持命令行工具，如 dotnet CLI，方便开发者进行自动化构建和部署。
+依赖管理：支持 NuGet 包管理器，方便管理和更新项目依赖。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;丰富的框架和库：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;ASP.NET Core：支持 ASP.NET Core 框架，用于构建高性能的 Web 应用和服务。
+Blazor：支持 Blazor 框架，用于构建客户端 Web 应用，使用 C# 和 Razor 视图。
+Entity Framework Core：支持 Entity Framework Core ORM，用于数据库操作和数据访问。
+Windows Forms 和 WPF：支持 Windows Forms 和 WPF 框架，用于构建桌面应用程序。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;云原生支持：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;容器化：支持 Docker 容器化，方便应用程序的打包和部署。
+微服务架构：支持微服务架构，方便构建和管理分布式应用程序。
+Azure 集成：与 Azure 云服务集成，提供丰富的云原生开发和管理工具。&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;安全性和可靠性：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;安全特性：提供多种安全特性，如身份验证、授权和数据加密，确保应用程序的安全性。
+可靠性：提供高可靠性的运行时环境，确保应用程序的稳定性和可用性。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;跨平台开发：支持多平台开发，提供统一的开发体验，方便开发者在不同平台上构建和运行应用程序。
+高性能：优化的运行时环境和异步编程模型，提高应用程序的性能和响应速度。
+现代化的开发工具：与 Visual Studio 和 dotnet CLI 集成，提供强大的开发环境和工具。
+丰富的框架和库：支持多种框架和库，满足不同应用场景的需求。
+云原生支持：支持容器化和微服务架构，方便构建和管理云原生应用程序。
+安全性和可靠性：提供多种安全特性和高可靠的运行时环境，确保应用程序的安全性和稳定性。
+社区和支持：提供详细的使用指南和技术支持，帮助开发者解决使用过程中遇到的问题。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;Microsoft .NET Runtime 9.0.0 (2024/10/29)
+x64：https://download.visualstudio.microsoft.com/download/pr/99bd07c2-c95c-44dc-9d47-36d3b18df240/bdf26c62f69c1b783687c1dce83ccf7a/dotnet-runtime-9.0.0-win-x64.exe
+x86：https://download.visualstudio.microsoft.com/download/pr/0e89cce9-dc02-423c-a657-0c2b421edf21/af2e916785775fe7e023b953af404db5/dotnet-runtime-9.0.0-win-x86.exe&lt;/p&gt;
+&lt;p&gt;Microsoft Windows Desktop Runtime 9.0.0 (2024/10/29)
+x64：https://download.visualstudio.microsoft.com/download/pr/685792b6-4827-4dca-a971-bce5d7905170/1bf61b02151bc56e763dc711e45f0e1e/windowsdesktop-runtime-9.0.0-win-x64.exe
+x86：https://download.visualstudio.microsoft.com/download/pr/8dfbde7b-c316-418d-934a-d3246253f342/69c6a35b77a4f01b95588e1df2bddf9a/windowsdesktop-runtime-9.0.0-win-x86.exe&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Microsoft .NET Runtime(.NET8.0下载) v8.0.11</title>
+        <link>https://www.danlong360.com/post/74683/</link>
+        <pubDate>Wed, 13 Nov 2024 12:23:31 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/74683/</guid>
+        <description>&lt;p&gt;Microsoft .NET 8.0.0 是微软推出的一款软件开发平台，用于创建和运行各种类型的应用程序。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/13/L1kbqlVvwc7r5aM.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241113122729957&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;跨平台支持：.NET 8.0.0 可在 Windows、Mac 和 Linux 等多种操作系统上开发和运行应用程序。
+高性能：通过优化和并行计算技术，.NET 8.0.0 可以提供高性能的应用程序执行效果。
+多语言支持：.NET 8.0.0 支持多种编程语言，包括C#、F#和Visual Basic等。开发人员可以根据自己的偏好选择合适的语言进行开发。
+网络和云集成：.NET 8.0.0 提供了强大的网络和云集成功能，使开发人员能够轻松地与 Web 服务、云存储和数据库等进行交互。
+模块化开发：.NET 8.0.0 支持模块化开发，开发人员可以将应用程序划分为多个可重用的模块，以提高开发效率。
+安全性：.NET 8.0.0 提供了多种安全功能和机制，包括代码签名、数据加密和身份验证等，以保护应用程序和用户数据的安全性。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;强大的工具集：.NET 8.0.0 提供了丰富的工具和库，使开发人员能够更快地构建和调试应用程序。这些工具包括代码编辑器、调试器和性能分析器等。
+大规模应用支持：.NET 8.0.0 支持构建和部署大规模的应用程序，可以处理数千个并发请求，保持应用程序的高响应性能。
+面向未来的技术：.NET 8.0.0 不断更新和改进，以支持最新的技术和趋势。开发人员可以利用各种新功能和特性来构建现代化的应用程序。
+开放源代码：.NET 8.0.0 是开源的，开发人员可以获取其源代码并自由地进行修改和定制，以满足自己的需求。
+向后兼容性：.NET 8.0.0 具有良好的向后兼容性，意味着旧版本的应用程序可以无缝地迁移到新版本，无需进行大量的修改和调整。
+强大的社区支持：.NET 8.0.0 拥有庞大的开发者社区，开发人员可以获得来自社区的支持、教程和资源，加速应用程序的开发过程。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;Microsoft .NET Runtime 8.0.11 (2024/10/18)
+x64：https://download.visualstudio.microsoft.com/download/pr/53e9e41c-b362-4598-9985-45f989518016/53c5e1919ba2fe23273f2abaff65595b/dotnet-runtime-8.0.11-win-x64.exe
+x86：https://download.visualstudio.microsoft.com/download/pr/a8d1a489-60d6-4e63-93ee-ab9c44d78b0d/5519f99ff50de6e096bb1d266dd0e667/dotnet-runtime-8.0.11-win-x86.exe&lt;/p&gt;
+&lt;p&gt;Microsoft Windows Desktop Runtime 8.0.11 (2024/10/22)
+x64：https://download.visualstudio.microsoft.com/download/pr/27bcdd70-ce64-4049-ba24-2b14f9267729/d4a435e55182ce5424a7204c2cf2b3ea/windowsdesktop-runtime-8.0.11-win-x64.exe
+x86：https://download.visualstudio.microsoft.com/download/pr/6e1f5faf-ee7d-4db0-9111-9e270a458342/4cdcd1af2d6914134308630f048fbdfc/windowsdesktop-runtime-8.0.11-win-x86.exe&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Microsoft .NET Runtime(.NET6.0下载) v6.0.36</title>
+        <link>https://www.danlong360.com/post/28481/</link>
+        <pubDate>Wed, 13 Nov 2024 12:22:48 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/28481/</guid>
+        <description>&lt;p&gt;Microsoft .NET Framework最新版(微软NET框架运行库.NET6.0下载)是Windows操作系统.NET Framework构建的应用程序所需的基础类型库组件.NET Runtime(NET运行库)是继Windows DNA之后全新软件开发平台,.NET框架是采用系统虚拟机运行的编程平台,采用的通用语言运行库为基础,支持多国语言的开发环境.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;D:%5cGray_Fraser_Muster%5cPerson_Note_Picture%5cYX_Image%5c20241113_122301.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Releases · dotnet/core
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/dotnet/core/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/dotnet/core/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;.NET Runtime -&amp;gt; .NET运行库
+.NET Desktop Runtime -&amp;gt; .NET桌面库程序，包含.NET运行库
+ASP.NET Core Runtime -&amp;gt; 用于运行网络/服务器构建类型程序&lt;/p&gt;
+&lt;p&gt;2021年11月 微软.NET 6.0 正式版发布！&lt;/p&gt;
+&lt;p&gt;2020年11月 微软.NET 5.0 正式版发布！
+本次版本更新非常重视 .NET 的统一性，微软希望 .NET Framework 开发者能够迁移他们的代码和应用到 .NET 5.0 上，为明年发布的 .NET 6.0 将 Xamarin 开发者过渡到统一平台奠定了基础。目标是将所有的 .NET 组件整合到一个产品下，然后用户可以根据需求使用 .NET 的某个部分，而不是单独下载或安装所有内容。&lt;/p&gt;
+&lt;p&gt;.NET 5.0包括了 ASP.NET Core，EF Core，C# 9 和 F# 5，.NET 库增强了 Json 序列化、正则表达式和 HTTP（HTTP 1.1、HTTP/2）的性能。Visual Studio 用户需要 Visual Studio 16.8 以上版本才能使用 .NET 5.0。 .NET 5.0 是微软统一 .NET 堆栈和生态系统的首个版本，它计划在每年的 11 月发布一个新版本，这意味着 2021 年的 11 月将会发布 .NET 6.0。.NET 5.0 不是长期支持版，它将支持到 .NET 6.0 发布 3 个月之后即 2022 年 2 月中旬，.NET 6.0 是长期支持版本，将支持三年。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;Microsoft .NET Runtime 6.0.36 (2024/10/26)
+x64 &lt;a class=&#34;link&#34; href=&#34;https://download.visualstudio.microsoft.com/download/pr/1a5fc50a-9222-4f33-8f73-3c78485a55c7/1cb55899b68fcb9d98d206ba56f28b66/dotnet-runtime-6.0.36-win-x64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.visualstudio.microsoft.com/download/pr/1a5fc50a-9222-4f33-8f73-3c78485a55c7/1cb55899b68fcb9d98d206ba56f28b66/dotnet-runtime-6.0.36-win-x64.exe&lt;/a&gt;
+x86 &lt;a class=&#34;link&#34; href=&#34;https://download.visualstudio.microsoft.com/download/pr/727d79cb-6a4c-4a6b-bd9e-af99ad62de0b/5cd3550f1589a2f1b3a240c745dd1023/dotnet-runtime-6.0.36-win-x86.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.visualstudio.microsoft.com/download/pr/727d79cb-6a4c-4a6b-bd9e-af99ad62de0b/5cd3550f1589a2f1b3a240c745dd1023/dotnet-runtime-6.0.36-win-x86.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft .NET Desktop Runtime 6.0.36 (2024/10/26)
+x64 &lt;a class=&#34;link&#34; href=&#34;https://download.visualstudio.microsoft.com/download/pr/f6b6c5dc-e02d-4738-9559-296e938dabcb/b66d365729359df8e8ea131197715076/windowsdesktop-runtime-6.0.36-win-x64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.visualstudio.microsoft.com/download/pr/f6b6c5dc-e02d-4738-9559-296e938dabcb/b66d365729359df8e8ea131197715076/windowsdesktop-runtime-6.0.36-win-x64.exe&lt;/a&gt;
+x86 &lt;a class=&#34;link&#34; href=&#34;https://download.visualstudio.microsoft.com/download/pr/cdc314df-4a4c-4709-868d-b974f336f77f/acd5ab7637e456c8a3aa667661324f6d/windowsdesktop-runtime-6.0.36-win-x86.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.visualstudio.microsoft.com/download/pr/cdc314df-4a4c-4709-868d-b974f336f77f/acd5ab7637e456c8a3aa667661324f6d/windowsdesktop-runtime-6.0.36-win-x86.exe&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>常用运行库合集 AIO RuntimePack_By:nanlon v4.0.24.1106</title>
         <link>https://www.danlong360.com/post/39881/</link>
         <pubDate>Fri, 08 Nov 2024 17:46:32 +0800</pubDate>
