@@ -7,7 +7,53 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 13 Nov 2024 13:06:51 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 13 Nov 2024 17:47:04 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>一点红语音合成(文本转语音工具) v3.1 中文绿色版</title>
+        <link>https://www.danlong360.com/post/63465/</link>
+        <pubDate>Wed, 13 Nov 2024 17:47:04 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/63465/</guid>
+        <description>&lt;p&gt;一点红语音合成软件是一款高效、易用的文本转语音工具，它利用先进的语音合成技术，特别是集成微软的语音服务API，为用户提供了一套全面且免费的文字转语音解决方案。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/13/gsv5t1bXDBfHNMU.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文本转语音转换：用户只需输入想要转换的文本，软件就能迅速将其转化为自然流畅的语音输出，支持多种中文语音风格和角色。
+多语言与方言支持：虽然主要强调中文支持，但借助微软的技术背景，可能也支持其他语言的语音合成，具体取决于软件的更新与配置。
+丰富的语音角色：内置34个官方中文语音对象，包括云健、云希、云夏、云扬、晓北、晓妮等，涵盖不同性别、年龄和情感色彩的声音，满足多样化的应用场景需求。
+高级自定义选项：允许用户调整语音的语速、音调、音量等参数，以及选择输出格式（如主要支持MP3），确保生成的语音文件符合个性化需求。
+SSML支持：通过支持Speech Synthesis Markup Language (SSML)，用户能更精细地控制语音的发音、停顿、语调等，实现更加自然和专业的语音合成效果。
+音频编辑功能：除了基本的文字转语音外，还可能提供音频剪辑、拼接、混合等基本的音频处理功能，使得音频制作更加灵活便捷。
+操作界面友好：设计简洁直观的操作界面，即便是非专业用户也能轻松上手，快速完成配音创作。
+云服务集成：利用云端处理能力，减轻本地计算负担，同时保证合成效率和质量。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;免费与绿色版：软件完全免费提供，无需注册或付费，且为绿色版本，无需安装即可使用，不捆绑任何广告或额外软件。
+持续更新与优化：随着版本的迭代，软件不断引入新功能，修复已知问题，提升用户体验。
+高效合成引擎：依托微软强大的Azure TTS技术，合成速度快，语音质量高，适合大量文本的快速转换需求。
+资源占用少：软件体积小，运行时占用系统资源少，保证了良好的系统兼容性和稳定性。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v3.1
+修复403错误
+v3.0
+主要更新的内容如下：
+1、解决本机开起VPN时，一点红语音合成无法正常启动问题。
+2、解决2.9版本播音主播中的试听无法播放、报错问题。
+3、文本转语音界面文本框添加纵向滚动条，方便使用。
+4、解决免费人物403报错问题。这个问题应该出在了很多语音软件上面，微软官方对中国国内连接做了部分限制，其实最简单的方式就是开VPN，可以直接解决这个问题，所以程序中先解决掉了VPN启动报错问题，不过目前国内限制问题，也已经解决掉。
+5、新增混配配音功能，可以使用多个播音人物进行混合配音，功能做的比较单一，因为时间有限精力也有限。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBZvhLjZ1n2Kn0xnfyHCI9HA1?pwd=r976&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBZvhLjZ1n2Kn0xnfyHCI9HA1?pwd=r976&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Paint.NET(图像和照片处理软件) v5.1 中文绿色版</title>
         <link>https://www.danlong360.com/post/32250/</link>
         <pubDate>Wed, 13 Nov 2024 13:06:51 +0800</pubDate>
@@ -350,8 +396,7 @@ RAW 图片处理：对于RAW格式的照片，可以进行高质量的处理和�
 &lt;/h3&gt;&lt;p&gt;- 集成ID和注册码，关检查更新，第三方便携式处理&lt;/p&gt;
 &lt;p&gt;- 默认简体中文，启动不弹出预置文件帮助索引错误&lt;/p&gt;
 &lt;h3 id=&#34;下载地址&#34;&gt;下载地址
-&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBPp65KAdtuyWNt6lk1rXA5A1?pwd=mfp3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://pan.xunlei.com/s/VOBPp65KAdtuyWNt6lk1rXA5A1?pwd=mfp3&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;温馨提示：应版权方要求，违规内容链接已处理或移除!&lt;/p&gt;
 </description>
         </item>
         <item>

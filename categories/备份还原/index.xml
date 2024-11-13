@@ -7,7 +7,66 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 01 Nov 2024 17:51:35 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%87%E4%BB%BD%E8%BF%98%E5%8E%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 13 Nov 2024 17:44:58 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%87%E4%BB%BD%E8%BF%98%E5%8E%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>SnapShot(硬盘备份软件) v1.50.0.1613 汉化绿色版</title>
+        <link>https://www.danlong360.com/post/40311/</link>
+        <pubDate>Wed, 13 Nov 2024 17:44:58 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/40311/</guid>
+        <description>&lt;p&gt;Drive SnapShot中文版是一款小巧强大的系统热备份软件,硬盘备份软件SnapShot最新版支持磁盘卷热备份还原,差异备份,增量备份,异机还原,远程备份,RAID磁盘阵列,挂载映像文件映射虚拟驱动器,生成哈希文件,命令行操作等,备份速度快,备份的镜像文件体积较小.该工具短小精悍,原生绿色单执行文件,无额外临时数据生成.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/13/9AUkZpCWLa3JbGD.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;创建快照: Drive SnapShot可以快速创建硬盘的快照，包括系统盘和数据盘。
+备份数据: 用户可以将创建的快照保存为镜像文件，以便日后恢复数据。
+定时备份: 支持定时自动备份功能，可以设置备份策略和时间来保证数据的安全性。
+恢复数据: 用户可以随时使用Drive SnapShot恢复备份数据，无需重新安装系统。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高效快速: Drive SnapShot使用独特的快照技术，可以在几分钟内完成磁盘快照的创建和备份过程。
+灵活性强: 用户可以选择备份整个硬盘或者部分分区，灵活性高。
+安全可靠: Drive SnapShot备份数据时使用强大的数据压缩和加密技术，确保备份数据的安全性。
+兼容性强: 支持Windows系统的所有版本，包括Windows XP、Windows 7、Windows 8和Windows 10等。
+可靠稳定: Drive SnapShot是一款经过多年发展和优化的备份工具，结合了稳定性和可靠性。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Drive Snapshot - What&amp;rsquo;s new
+&lt;a class=&#34;link&#34; href=&#34;http://drivesnapshot.de/en/news.htm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://drivesnapshot.de/en/news.htm&lt;/a&gt;
+● 支持DOS, WinPE, Windows 所有版本备份和还原硬盘
+● 绿色小巧原生单文件，仅几百KB，麻雀虽小，五脏俱全
+● 短小精悍，功能强大，并且支持各种的命令行参数操作
+● 完全备份指定硬盘镜像到映像文件而无需重新启动系统
+● 备份不中断方式进行，系统多分区备份也无需中断工作
+● 支持备份成虚拟硬盘，以方便直接恢复单个文件或目录
+● 完整恢复急救系统，恢复非系统分区可在系统直接完成
+● 恢复系统分区将在下一次启动 Windows 过程进行恢复
+● 兼容FAT16/FAT32/NTFS、Linux EXT2/3/4/Reiser
+● 兼容所有 Windows 硬盘磁盘阵列(RAID)
+● 支持增量备份，支持恢复迁移到不同的硬件
+● 支持加密备份文件和分隔成指定大小的文件
+● 备份速度快，备份的镜像文件体积相对较小
+● 超高备份压缩比(比ATI备份的文件还要小)&lt;/p&gt;
+&lt;p&gt;v1.50
+- 支持Windows 11、Windows Server 2022
+- 支持备份到SFTP服务器功能
+- 免费更新期从2年延长至5年
+v1.49主要更新：
+- 新的加密方式
+- 改进了与服务版系统的统一写过滤器(UWF)功能的兼容性
+- 兼容Windows Server 2019, Windows 10 20H2 以上版&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBZv_usljaqiGvo6tiIHRweA1?pwd=wzv8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBZv_usljaqiGvo6tiIHRweA1?pwd=wzv8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>ASCOMP Guardian Of Data(数据保护备份软件) Pro v3.005 便携版</title>
         <link>https://www.danlong360.com/post/89336/</link>
         <pubDate>Fri, 01 Nov 2024 17:51:35 +0800</pubDate>
