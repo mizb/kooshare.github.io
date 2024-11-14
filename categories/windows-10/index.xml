@@ -7,7 +7,60 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 07 Nov 2024 21:22:41 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-10/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 14 Nov 2024 21:56:59 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-10/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows 10 LTSC 2021 Build 19044.5131</title>
+        <link>https://www.danlong360.com/post/75891/</link>
+        <pubDate>Thu, 14 Nov 2024 21:56:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/75891/</guid>
+        <description>&lt;p&gt;微软Win10LTSC2021最新版,微软Win10 LTSC 21H2下载,Windows 10 LTSC 21H2系统Win10 Build 19044累积更新.Windows 10企业版LTSC版堪称官方Win10精简版,相对普通企业版,不会获得新增功能仅提供安全更新,可以控制升级&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/14/JkLuXZ5Stdho2VB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Windows 10 - 版本信息 | Microsoft Docs
+&lt;a class=&#34;link&#34; href=&#34;https://docs.microsoft.com/zh-cn/windows/release-health/release-information&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.microsoft.com/zh-cn/windows/release-health/release-information&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2024年10月累积更新(KB5045594) Windows 10 version 21H2(OS build 19044.5073) Update
+&lt;a class=&#34;link&#34; href=&#34;https://support.microsoft.com/zh-cn/help/5045594&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/zh-cn/help/5045594&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Win10企业版2021长期服务版（Windows 10 Enterprise LTSC 21H2），提供长期支持至2031年
+它相当于就是官方Win10精简版，稳定流畅，对电脑硬件配置要求较低，可以用数字权利永久激活。
+LTSC版本无应用商店、无微软小娜，无OneDriver、Windows更新提供高级设置可选安装更新方式。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;Windows 10 LTSC 2021 Build 19044.5073 原版集成镜像2024年10月更新补丁最新完整版&lt;/p&gt;
+&lt;p&gt;母版选用官方初始版和补丁，使用工具只有Win_ISO_Patching_Scripts，最新完整功能原版！&lt;/p&gt;
+&lt;p&gt;采用Win_ISO_Patching_Scripts脚本工具集成：
+KB5045594（2024年10月累积更新 19044.5073）
+KB5046823（2024年10月服务堆栈更新 19044.5071.1.1）
+KB5045933（2024年10月.NET Framewrok 4.8.1 累积更新）
+KB5011048（.NET Framework 4.8.1 10.0.1.8028）
+KB5011050（.NET Framework 4.8.1 简体中文语言包）
+KB5015684（22H2启用补丁，仅用于SAC版本）
+KB5045523（2024年10月安装镜像文件更新）
+KB5044615（2024年10月Safe OS更新）&lt;/p&gt;
+&lt;p&gt;[Windows 10 LTSC 2021 &amp;amp; 其它]19044.4957原版集成镜像24年9月第2次更新 - ananhaid&lt;/p&gt;
+&lt;p&gt;没有添加任何第三方数据，母版选用官方初始版和补丁，使用工具只有DISM，完整功能原版！&lt;/p&gt;
+&lt;p&gt;- 集成功能：
+.net framework 3.5（netfx3）、.net framework 4.8.1
+LTSC 2021 集成库文件（微软修复映像错误之前会一直提供）：
+1、集成官方 VP9VideoExtensions 库文件，修复设置-&amp;gt;应用-&amp;gt;视频播放中的预览错误。&lt;/p&gt;
+&lt;p&gt;- 集成补丁：
+KB5043131（24年9月累积更新 19044.4957）（9月25日）
+KB5042097（24年8月 .net 累积更新）（8月14日）&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBeymY7ymwF4aKt3RdHZhEXA1?pwd=apeb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBeymY7ymwF4aKt3RdHZhEXA1?pwd=apeb&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>小修 Windows 10 Pro (18363.2274) 深度精简 四合一 最终版V12 (2024.11.04)</title>
         <link>https://www.danlong360.com/post/5244/</link>
         <pubDate>Thu, 07 Nov 2024 21:22:41 +0800</pubDate>
