@@ -7,7 +7,132 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 14 Nov 2024 21:43:47 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 15 Nov 2024 12:18:59 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Vim(支持多种编程语言编辑器) v9.1.0866 中文绿色版</title>
+        <link>https://www.danlong360.com/post/80280/</link>
+        <pubDate>Fri, 15 Nov 2024 12:18:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/80280/</guid>
+        <description>&lt;p&gt;Vim是Vi编辑器的增强版，它提供了更多的功能和快捷键。Vim是一款自由软件，它是由Bram Moolenaar在1991年创建的。Vim支持多种编程语言，包括C、C++、Java、Python、Perl等等。它是一款轻量级的编辑器，可以快速打开和编辑大型文件。Vim可以在终端中使用，也可以在图形界面中使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;D:%5cGray_Fraser_Muster%5cPerson_Note_Picture%5cYX_Image%5c20241115_121912.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种编程语言。&lt;/li&gt;
+&lt;li&gt;支持多窗口编辑。&lt;/li&gt;
+&lt;li&gt;支持复制、剪切和粘贴文本。&lt;/li&gt;
+&lt;li&gt;支持搜索和替换。&lt;/li&gt;
+&lt;li&gt;支持自动完成和自动缩进。&lt;/li&gt;
+&lt;li&gt;支持宏录制和回放。&lt;/li&gt;
+&lt;li&gt;支持插件扩展。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;快捷键丰富：Vim有很多快捷键，可以让用户快速完成操作。&lt;/li&gt;
+&lt;li&gt;可定制性强：用户可以通过修改配置文件来定制自己的Vim。&lt;/li&gt;
+&lt;li&gt;高效性：Vim可以快速打开和编辑大型文件。&lt;/li&gt;
+&lt;li&gt;跨平台：Vim可以在多个操作系统中使用。&lt;/li&gt;
+&lt;li&gt;插件扩展：Vim支持插件扩展，可以增加更多的功能。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBiASBNvlobIfFs-v-70l7dA1?pwd=bvvr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBiASBNvlobIfFs-v-70l7dA1?pwd=bvvr&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Visual Studio Code(微软免费代码编辑器) v1.95.3</title>
+        <link>https://www.danlong360.com/post/6399/</link>
+        <pubDate>Fri, 15 Nov 2024 12:18:15 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6399/</guid>
+        <description>&lt;p&gt;Visual Studio Code 是一款由微软开发的轻量级代码编辑器。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;D:%5cGray_Fraser_Muster%5cPerson_Note_Picture%5cYX_Image%5c20241115_121827.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种编程语言，包括 JavaScript、TypeScript、Python、C++ 等；&lt;/li&gt;
+&lt;li&gt;提供智能代码补全、语法高亮、代码折叠等功能；&lt;/li&gt;
+&lt;li&gt;支持 Git 版本控制；&lt;/li&gt;
+&lt;li&gt;提供插件系统，用户可以自定义插件来增强编辑器的功能；&lt;/li&gt;
+&lt;li&gt;支持调试功能，用户可以在编辑器中进行调试。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;轻量级：Visual Studio Code 的体积比较小，启动速度快，占用资源较少；&lt;/li&gt;
+&lt;li&gt;跨平台：Visual Studio Code 支持 Windows、macOS 和 Linux 操作系统；&lt;/li&gt;
+&lt;li&gt;可扩展：Visual Studio Code 提供了丰富的插件系统，用户可以根据自己的需求来选择安装插件；&lt;/li&gt;
+&lt;li&gt;高度定制化：Visual Studio Code 的用户界面可以进行高度定制化，用户可以根据自己的喜好来配置编辑器；&lt;/li&gt;
+&lt;li&gt;社区支持：Visual Studio Code 有庞大的开发者社区，用户可以在社区中获取到丰富的资源和支持。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;中文设置&#34;&gt;中文设置
+&lt;/h3&gt;&lt;p&gt;启动 Visual Studio Code，默认为英文界面。
+点击插件按钮，搜索 Chinese，如配图所示，如果没有安装中文插件，需要点击 Install 进行安装。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBiAPyEf9KlQ1QMr8Wvp1sOA1?pwd=crur&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBiAPyEf9KlQ1QMr8Wvp1sOA1?pwd=crur&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>pgAdmin 4(开源免费数据库管理平台) v8.13</title>
+        <link>https://www.danlong360.com/post/3812/</link>
+        <pubDate>Fri, 15 Nov 2024 12:17:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/3812/</guid>
+        <description>&lt;p&gt;pgAdmin是一个开源的PostgreSQL数据库管理工具，它提供了一个直观的图形用户界面来管理和操作PostgreSQL数据库。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/15/xKBpv2t6ogucqWA.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;详细介绍&#34;&gt;详细介绍
+&lt;/h3&gt;&lt;p&gt;pgAdmin是由PostgreSQL Global Development Group开发的一个开源工具，用于管理和操作PostgreSQL数据库。它提供了一个易于使用的图形用户界面，可以帮助用户管理和监控PostgreSQL数据库，包括创建和删除数据库、表、视图、用户、角色、函数等等。pgAdmin还支持SQL查询、数据导入和导出、备份和还原、服务器配置等功能。&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;创建和删除数据库、表、视图、用户、角色、函数等。&lt;/li&gt;
+&lt;li&gt;编辑和执行SQL查询，包括查询结果的可视化展示。&lt;/li&gt;
+&lt;li&gt;导入和导出数据，支持多种数据格式，如CSV、Excel、JSON等。&lt;/li&gt;
+&lt;li&gt;备份和还原数据库，支持自动备份和定时备份。&lt;/li&gt;
+&lt;li&gt;监控和管理服务器，包括服务器参数配置、日志查看等。&lt;/li&gt;
+&lt;li&gt;支持多语言界面，包括英语、法语、德语、西班牙语、意大利语、葡萄牙语等。&lt;/li&gt;
+&lt;li&gt;跨平台支持，可以在Windows、Linux、MacOS等操作系统上运行。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;易于使用的图形用户界面，直观易懂。&lt;/li&gt;
+&lt;li&gt;支持多种数据格式和多语言界面，方便用户使用。&lt;/li&gt;
+&lt;li&gt;支持多种操作系统，具有良好的跨平台性。&lt;/li&gt;
+&lt;li&gt;提供了丰富的功能，包括SQL查询、数据导入和导出、备份和还原、服务器配置等。&lt;/li&gt;
+&lt;li&gt;开源免费，用户可以自由地使用和修改软件。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;中文设置&#34;&gt;中文设置
+&lt;/h3&gt;&lt;p&gt;File – Preferences – Miscellaneous – User language – Chinese，选择 Save 保存后再点击 Refresh 刷新即可。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBiAN8kO0dnz9yROsnWq_kDA1?pwd=vpth&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBiAN8kO0dnz9yROsnWq_kDA1?pwd=vpth&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>WPS Office 2023专业增强版 v12.8.2.18913 永久激活版</title>
         <link>https://www.danlong360.com/post/96/</link>
         <pubDate>Thu, 14 Nov 2024 21:43:47 +0800</pubDate>
