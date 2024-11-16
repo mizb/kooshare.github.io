@@ -7,7 +7,97 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 15 Nov 2024 12:04:12 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 16 Nov 2024 12:37:49 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ZY-Player在线视频聚合播放器 v3.3.8 中文免费版</title>
+        <link>https://www.danlong360.com/post/56182/</link>
+        <pubDate>Sat, 16 Nov 2024 12:37:49 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/56182/</guid>
+        <description>&lt;p&gt;ZY-Player是一款兼容多种格式视频的全功能媒体播放器。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/16/2UFciBjIlxsN81t.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持播放多种格式的视频文件，包括MP4、AVI、MKV、FLV等，还支持音频文件播放。&lt;/li&gt;
+&lt;li&gt;内置强大的解码器，支持高清、全高清、4K等多种分辨率视频的解码播放，能够确保流畅、清晰的视频播放效果。&lt;/li&gt;
+&lt;li&gt;提供了丰富的播放控制功能，包括倍速播放、循环播放、快进/快退、音量调节等。&lt;/li&gt;
+&lt;li&gt;支持字幕文件的导入和调整，用户可以根据需要自由调整字幕的大小、位置和颜色。&lt;/li&gt;
+&lt;li&gt;具有强大的播放列表功能，能够快速添加和管理视频文件，提供清晰的列表中显示视频信息，方便用户快速选择、播放。&lt;/li&gt;
+&lt;li&gt;借助于强大的H/W解码技术，可以加快视频加载速度，缩短视频的加载时间，让用户更好地享受视频观看。&lt;/li&gt;
+&lt;li&gt;以专业的承诺，100% 零广告！智能化检测电影并推荐合适您的电影。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;总的来说，ZY-Player是一款十分优秀的媒体播放器，具有丰富的功能和简洁的操作，适合广大视频爱好者使用。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v3.3.8
+[特性] 支持csp_XBPQ|csp_XYQ|csp_AppYSv2源格式(实验性)
+[特性] 注册URL Scheme, 支持通过zy://协议唤醒应用
+[特性] 支持常见加解密|hash计算|数据编码
+[特性] 支持folderInfolder模式
+[优化] 多语言适配已知未适配内容+已知样式溢出内容修改+支持tdesgin内置组件
+[优化] 侧边栏采用虚拟列表渲染(数据太多导致太多dom元素卡顿)
+[优化] 嗅探逻辑支持sniffer_exclude参数，对齐道长嗅探器传参格式
+[优化] 电视导入时过滤不支持协议(ftp|rtsp|rsp)
+[优化] 重新导入历史和收藏均显示找不到数据源(回归key设计-注意之前历史会失效)
+[优化] 解析类型为web时调用嗅探器嗅探后使用播放器(iframe显示可能有广)
+[优化] 全局超时时间调整为最小3s最大60s, 超过范围自动设置为3s
+[优化] 数据源选择csp_XBPQ|csp_XYQ|csp_AppYSv2可自动填充api
+[优化] 老板键在原有隐藏窗口基础上增加窗口静音和暂停 [#issue 323]
+[修复] 新版titlebar组件不兼容问题(win、linux均有该问题)
+[修复] mac系统触发每次打开应用都弹窗网络请求权限校验(打开防火墙情况)
+[修复] win11系统存在安装应用后无法打开(nsis安装脚写注册表逻辑问题)
+[修复] 数据源列表通过搜索加载的数据选中删除无效
+[修复] 数据源编辑内容无需点击确认就可修改原始数据
+[修复] 播放器中epg列表不加载数据源中的专属epg
+[修复] 网盘错误逻辑导致切换数据源会导致数据源消失[#issue 314]
+[修复] 网盘匹配不到password导致服务终止
+[修复] 播放器播放影视视频, 点击推荐数据无法触发事件
+[修复] 数据导入时涉及基础配置时以及webdev远端同步本地数据不刷新
+[修复] 新版本electron前端获取不到文件路径, 替换为electron-dialog方案
+[修复] 智脑无法打开openai链接
+[修复] 切换分类｜切换数据源, 顶部搜索关键词不恢复默认问题
+[修复] 基础数据设置数据不成功问题(已初始化数据为基准)
+[修复] 侧边栏收起对不齐顶部问题(强迫着患者福音)
+[修复] 用户数据导入不规范导致窗口无法打开[#issue 312]
+[修复] 切换频道节目单不更新[#issue 346]
+[变动] 剔除-iframe嗅探方案(限制较多, 和pie方案功能相差较多)
+[变动] 剔除-收藏页检查更新功能(效果与实际设想相差较大);
+[变动] 剔除-数据源类型appv1和appv2(实验性csp_AppYSv2替代)
+[变动] 剔除-设置页hipy的推广内容
+[变动] 修改-数据管理-快捷配置剔除此软件导入方式, 合并tvbox和hipy导入格式
+[变动] 修改-影视第一个分类数据改为加载首页数据(homeVod)
+[变动] 修改-电视相关参数epg应携带{name}和{date}|logo应携带{name}(优先级:自带-&amp;gt;源自带-&amp;gt;全局)
+[变动] 修改-电视过滤ipv6频道改为仅标识ipv6(跳过检测会增加加载时间, 不友好)
+[变动] 拆封写源工具部分功能并独立于设置页面
+[变动] 剔除-数据源有限性检测(现有逻辑较为鸡肋, 同时导致用户不断询问)
+[变动] 剔除-硬件加速开关(数据库变更后硬件加速禁用失败)
+[变动] 剔除-随心看功能(鸡肋功能)
+[变动] 字体采用小米字体(MiSans)&lt;/p&gt;
+&lt;p&gt;注意:
+升级: 此版本为破坏性更新, 重构 80%代码, 新版本不会将旧版本数据代入, 注意数据备份
+换新: 启用zyfun软件名, zyplayer与知名私有文档zyxxxxer-doc重叠度太高
+再见: 不再支持win7|win8.1系统以及不在提供32位win架构, 兼容老系统代价太大
+提醒: 发现Linux环境网络请求较慢, 请适当提高全局超时时间(如果源里写了超时时间则不生效请改源)
+测试: 本次发版前经多位小伙伴验证, 最大限度保证功能的可靠性&lt;/p&gt;
+&lt;h3 id=&#34;使用说明&#34;&gt;使用说明
+&lt;/h3&gt;&lt;p&gt;注意:
+1.感谢：@fourbeauty重绘logo
+2.升级：此版本升级会丢失数据，注意数据备份，导入会丢失历史和收藏数据
+3.数据源可使用 基础设置-&amp;gt;数据管理-&amp;gt;配置导入-&amp;gt;远端导入&amp;mdash;地址[https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json]-&amp;gt;导入
+源收集：https://github.com/Hiram-Wong/ZyPlayer/discussions/48&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBnHSgmhNThitDo0pCP1f0vA1?pwd=2fnr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBnHSgmhNThitDo0pCP1f0vA1?pwd=2fnr&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>foobar2000 v2.1.6 / 2.24 Preview 2024-11-14 英文版</title>
         <link>https://www.danlong360.com/post/46407/</link>
         <pubDate>Fri, 15 Nov 2024 12:04:12 +0800</pubDate>
