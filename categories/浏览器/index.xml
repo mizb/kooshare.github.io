@@ -7,7 +7,67 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 16 Nov 2024 12:46:29 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 16 Nov 2024 17:46:27 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Ungoogled-Chromium v131.0.6778.69-1.1 中文绿色版</title>
+        <link>https://www.danlong360.com/post/14936/</link>
+        <pubDate>Sat, 16 Nov 2024 17:46:27 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/14936/</guid>
+        <description>&lt;p&gt;Ungoogled-Chromium 是一个基于 Chromium 开源项目的浏览器，旨在移除所有与 Google 相关的功能和服务，以提高隐私保护和用户控制。与传统的 Chromium 或 Chrome 浏览器相比，Ungoogled-Chromium 更加注重用户隐私和数据安全。它是开源项目，由社区维护，适合那些希望避免数据收集和广告跟踪的用户。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/16/c92KN6vp8rgHJLo.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;隐私保护：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;移除 Google 服务：移除了所有与 Google 相关的服务和功能，如 Google Analytics、Crash Reporter 和 Safe Browsing。
+禁用遥测：禁用了所有遥测和数据收集功能，确保用户的浏览行为不会被记录和分析。
+增强隐私设置：提供了增强的隐私设置选项，用户可以进一步控制浏览器的行为和数据收集。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;扩展支持：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;第三方扩展：支持第三方扩展和插件，用户可以安装和使用各种扩展来增强浏览器功能。
+自定义扩展：支持自定义扩展，用户可以编写和安装自己的扩展来满足特定需求。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;同步功能：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;自托管同步：支持自托管同步功能，用户可以使用自己的服务器进行书签、密码和设置的同步，避免依赖第三方服务。
+加密同步：支持加密同步功能，确保同步数据的安全性和隐私性。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;安全性和稳定性：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;定期更新：开发团队定期发布更新，修复已知的安全漏洞和稳定性问题。
+沙箱技术：采用沙箱技术，隔离浏览器进程，提高安全性。
+安全浏览：虽然移除了 Google 的 Safe Browsing 功能，但用户可以通过其他方式（如第三方服务）实现类似功能。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;用户界面：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;自定义主题：支持自定义主题和皮肤，用户可以个性化浏览器界面。
+多标签管理：支持多标签管理功能，用户可以同时打开和管理多个网页标签。
+书签管理：支持书签管理功能，用户可以方便地保存和管理常用网站。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;隐私优先：移除了所有与 Google 相关的服务和功能，确保用户隐私不受侵犯。
+开源项目：开源项目，由社区维护，用户可以查看和修改源代码，确保透明度和安全性。
+自托管同步：支持自托管同步功能，用户可以使用自己的服务器进行数据同步，避免依赖第三方服务。
+扩展支持：支持第三方扩展和插件，用户可以增强浏览器功能，满足个性化需求。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+多平台支持：支持 Windows、macOS 和 Linux 操作系统，适用于不同平台的用户。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBoPNoEsUnfgF7NZpEv91S7A1?pwd=8q27&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBoPNoEsUnfgF7NZpEv91S7A1?pwd=8q27&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>微软edge浏览器 v131.0.2903.51 多语便携版</title>
         <link>https://www.danlong360.com/post/93756/</link>
         <pubDate>Sat, 16 Nov 2024 12:46:29 +0800</pubDate>
