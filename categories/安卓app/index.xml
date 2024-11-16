@@ -7,7 +7,52 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 15 Nov 2024 19:07:09 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 16 Nov 2024 07:38:24 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AE%89%E5%8D%93app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Lucky Patcher(幸运破解器APP) v11.5.4 Build 1914</title>
+        <link>https://www.danlong360.com/post/35567/</link>
+        <pubDate>Sat, 16 Nov 2024 07:38:24 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/35567/</guid>
+        <description>&lt;p&gt;📱Lucky Patcher 是来自大神ChelpuS的作品（即钛备份和SPB的Mod作者），Lucky Patcher更像是做的一款合集或者通用破解，所以各位遇到应用没办法用时，可以尝试用这款 App 试试，不过不保证一定会PJ，所以叫做“幸运破解器”。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/16/LzNtfl4CMYJuwU7.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;注意：幸运破解器需要ROOT权限和BusyBox支持！&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;– 支持自定义破解、移除Google授权验证、移除亚马逊应用商店授权验证、移除Google广告、手动破解四种破解方式
+– 移除Google授权验证支持自动模式、反向自动模式、极限自动模式、手动模式和选择破解方式
+– 可选择的破解方式：授权验证程序切换修复、缓存授权修复、响应代码验证修复、响应代码替换
+– 手动破解时可以将破解对象保存为自定义破解
+– 支持选择以标签或包名来给修改版APK文件命名
+– 支持开机自动破解
+– 支持更改应用程序调用的权限和活动
+– 支持修复虚拟机缓存（详见软件“帮助”中的说明）
+– 支持显示系统应用程序
+– 点击列表中的应用程序查看应用程序相关信息
+– 创建PJ后的修改版APK并生成到/sdcard/LuckyPatcher/Modified/
+– 安装SuperSU，解决ROOT权限受损问题
+– 安装/更新BusyBox
+– 启动时自动检查并清除/data/app/中的无用ODEX
+– 支持自动更新幸运破解器
+– 支持更换幸运破解器界面的方向（横屏/竖屏）
+– 支持筛选应用程序列表：按授权验证、Google广告、自定义PJ、虚拟机缓存修复、未发现PJ&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;11.5.4
+~ Updated translations.
+This app has advertisements&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBmIcxjh4xdNtaVWOqjPc8UA1?pwd=kkmm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBmIcxjh4xdNtaVWOqjPc8UA1?pwd=kkmm&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>希沃白板 v2.1.49</title>
         <link>https://www.danlong360.com/post/3455/</link>
         <pubDate>Fri, 15 Nov 2024 19:07:09 +0800</pubDate>
