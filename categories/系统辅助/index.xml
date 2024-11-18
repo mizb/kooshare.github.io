@@ -7,7 +7,309 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 17 Nov 2024 21:37:20 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 18 Nov 2024 11:38:54 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ReNamer(文件重命名工具) Pro v7.6.0.3 多语便携版</title>
+        <link>https://www.danlong360.com/post/2793/</link>
+        <pubDate>Mon, 18 Nov 2024 11:38:54 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/2793/</guid>
+        <description>&lt;p&gt;ReNamer是一款功能强大的文件重命名工具，它可以帮助用户快速方便地批量重命名文件和文件夹。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/18/CPRzKr1efLhV6mt.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;批量重命名：ReNamer可以同时处理多个文件和文件夹，并对其进行批量重命名，从而节省时间和劳动力。
+灵活的重命名规则：ReNamer提供了多种灵活的重命名规则，包括添加、删除、替换、移动和修改文件名等操作。用户可以根据需要自定义重命名方案。
+文件标签：ReNamer支持将文件的标签添加到文件名中，从而更好地组织和管理文件。
+文件预览：ReNamer提供了文件预览功能，用户可以在重命名操作之前预览文件名的变化，避免错误操作。
+导出和导入：ReNamer支持将重命名方案导出和导入，方便用户在不同的计算机上使用和共享。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;免费且开源：ReNamer是一款免费软件，用户可以免费使用其所有功能，并可以在其官方网站上获取其源代码。
+多语言支持：ReNamer支持多种语言界面，包括英语、法语、德语、西班牙语、俄语等。
+快速处理：ReNamer具有高速处理能力，可以快速处理大量文件，提高工作效率。
+扩展性：ReNamer支持用户自定义脚本，用户可以编写自己的脚本来实现更复杂的重命名操作。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBxNmajgJlHmJ-27B-GTt42A1?pwd=6vry&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBxNmajgJlHmJ-27B-GTt42A1?pwd=6vry&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>CHK(文件完整性校验工具) v5.51 中文绿色版</title>
+        <link>https://www.danlong360.com/post/64815/</link>
+        <pubDate>Mon, 18 Nov 2024 11:38:08 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/64815/</guid>
+        <description>&lt;p&gt;CHK 是一个免费的校验和实用程序 – 旨在帮助您验证您的文件的完整性一个简单的应用程序，找到重复以及更多！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/18/vG6ojdMAsz7wF8e.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;哈希值计算：
+支持多种哈希算法，如 MD5、SHA-1、SHA-256、SHA-384、SHA-512 等。
+可以快速计算单个文件或多文件的哈希值。
+哈希值校验：
+允许用户输入已知的哈希值，与计算出的哈希值进行对比，验证文件的完整性。
+支持批量校验多个文件的哈希值。
+文件拖放：
+用户可以通过拖放文件到主界面，快速进行哈希值计算和校验。
+日志记录：
+记录校验过程和结果，方便用户查看和保存。
+命令行支持：
+提供命令行接口，方便脚本自动化使用。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;轻量级：占用系统资源少，运行速度快，不会对系统性能产生明显影响。
+用户友好：提供简洁直观的图形用户界面，操作简便，适合各水平用户使用。
+多算法支持：支持多种主流哈希算法，满足不同场景下的需求。
+批量处理：支持批量计算和校验多个文件的哈希值，提高工作效率。
+跨平台支持：支持 Windows、macOS 和 Linux 操作系统，确保跨平台的兼容性。
+实时反馈：在计算和校验过程中提供实时反馈，用户可以随时查看进度。
+安全可靠：不包含任何恶意软件或广告，确保用户数据的安全。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBxNkDC_l4YNvmA4fqJFy10A1?pwd=s6vx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBxNkDC_l4YNvmA4fqJFy10A1?pwd=s6vx&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Echosync(文件夹备份和同步工具) v7.6.0.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/22747/</link>
+        <pubDate>Mon, 18 Nov 2024 11:36:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/22747/</guid>
+        <description>&lt;p&gt;Echosync 是一款备份和同步工具，可以帮助用户将数据备份到另一个存储介质或同步多个计算机之间的数据。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/18/UvzAHwMuJj5t7LB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;备份和同步文件和文件夹，包括文档、音乐、视频、图片等。&lt;/li&gt;
+&lt;li&gt;支持实时同步，可以在文件被修改时及时同步。&lt;/li&gt;
+&lt;li&gt;自动增量备份，只备份最近修改过的文件，大幅提高备份效率。&lt;/li&gt;
+&lt;li&gt;支持多个存储介质，如云存储、外部硬盘、FTP 等。&lt;/li&gt;
+&lt;li&gt;提供图形用户界面以及命令行工具，方便用户进行操作。&lt;/li&gt;
+&lt;li&gt;支持多平台，包括 Windows、MacOS 和 Linux。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;安全稳定：Echosync 使用先进的加密技术和数据校验方法，确保数据传输和存储的安全。&lt;/li&gt;
+&lt;li&gt;灵活性强：Echosync 提供多种备份和同步方式，用户可以根据自己的需要进行灵活配置。&lt;/li&gt;
+&lt;li&gt;高效性：Echosync 的自动增量备份功能够大幅提高备份效率，避免不必要的重复备份。&lt;/li&gt;
+&lt;li&gt;易于使用：Echosync 提供友好的用户界面和简单直观的操作方式，使用户能够快速上手。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBxNfqEgyJ9BwEmR5v_ZYolA1?pwd=4taa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBxNfqEgyJ9BwEmR5v_ZYolA1?pwd=4taa&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Double Commander v1.1.20 / 1.2.0 r11681 Snapshot 中文绿色版</title>
+        <link>https://www.danlong360.com/post/65613/</link>
+        <pubDate>Mon, 18 Nov 2024 11:32:00 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/65613/</guid>
+        <description>&lt;p&gt;Double Commander 是一款开源的文件管理器，类似于 Total Commander。它具有双窗口界面，可以方便用户在两个目录之间进行复制、移动、删除文件操作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/18/ipksvZPyoQzaGDd.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;双窗口界面：方便用户同时浏览和操作两个目录。
+多标签页支持：用户可以在同一个窗口内打开多个标签页，方便管理多个目录。
+自定义快捷键：用户可以根据自己的习惯设置快捷键，提高操作效率。
+多种文件操作功能：支持文件复制、移动、删除、重命名等操作。
+内置文件比较工具：用户可以比较两个文件的内容差异。
+文件搜索：支持快速搜索文件和文件夹。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;跨平台支持：Double Commander 可以在 Windows、Linux、Mac 等多个平台上运行。
+免费开源：Double Commander 是免费的开源软件，用户可以自由使用和修改。
+插件支持：用户可以根据需要安装插件，扩展软件功能。
+多语言支持：支持多种语言界面，方便用户使用。
+轻量级：Double Commander 的安装包比较小，占用系统资源少，运行速度也比较快。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBxNMPugJlHmJ-27B-GTkZDA1?pwd=agsc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBxNMPugJlHmJ-27B-GTkZDA1?pwd=agsc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>DBeaver(数据库管理工具) v24.2.5 / 24.3.0 Early Access 中文绿色版</title>
+        <link>https://www.danlong360.com/post/80655/</link>
+        <pubDate>Mon, 18 Nov 2024 11:31:18 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/80655/</guid>
+        <description>&lt;p&gt;DBeaver 是一款功能强大、易于使用的数据库管理工具。它支持多种数据库管理系统，包括 MySQL、PostgreSQL、Oracle、SQLite、Firebird 等。DBeaver 提供了一个集成的开发环境，让用户可以通过一个统一的界面来管理和操作不同的数据库。它的界面简洁、直观，功能齐全，可以满足不同用户的需求。DBeaver 还支持多种数据导入导出格式，包括 CSV、XML、JSON 等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/18/sIFw7Xo5aPVqmQG.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;数据库连接管理：支持多种数据库管理系统，包括 MySQL、PostgreSQL、Oracle、SQLite、Firebird 等。&lt;/li&gt;
+&lt;li&gt;数据库对象管理：支持多种数据库对象管理，包括表、视图、索引、存储过程、触发器等。&lt;/li&gt;
+&lt;li&gt;SQL 编辑器：支持 SQL 编辑器，可以编写和执行 SQL 语句。&lt;/li&gt;
+&lt;li&gt;数据导入导出：支持多种数据导入导出格式，包括 CSV、XML、JSON 等。&lt;/li&gt;
+&lt;li&gt;数据库备份和恢复：支持数据库备份和恢复操作。&lt;/li&gt;
+&lt;li&gt;数据库安全管理：支持数据库用户和权限管理。&lt;/li&gt;
+&lt;li&gt;数据库性能优化：支持数据库性能优化，包括索引优化、查询优化等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;开源免费：DBeaver 是一款开源的数据库管理工具，用户可以免费使用。&lt;/li&gt;
+&lt;li&gt;支持多种数据库管理系统：DBeaver 支持多种数据库管理系统，包括 MySQL、PostgreSQL、Oracle、SQLite、Firebird 等。&lt;/li&gt;
+&lt;li&gt;界面简洁、直观：DBeaver 的界面简洁、直观，功能齐全，可以满足不同用户的需求。&lt;/li&gt;
+&lt;li&gt;SQL 编辑器：DBeaver 支持 SQL 编辑器，可以编写和执行 SQL 语句。&lt;/li&gt;
+&lt;li&gt;数据导入导出：DBeaver 支持多种数据导入导出格式，包括 CSV、XML、JSON 等。&lt;/li&gt;
+&lt;li&gt;数据库备份和恢复：DBeaver 支持数据库备份和恢复操作。&lt;/li&gt;
+&lt;li&gt;数据库安全管理：DBeaver 支持数据库用户和权限管理。&lt;/li&gt;
+&lt;li&gt;数据库性能优化：DBeaver 支持数据库性能优化，包括索引优化、查询优化等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBxNJflYGnBCY43oVhQRWP5A1?pwd=pi9i&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBxNJflYGnBCY43oVhQRWP5A1?pwd=pi9i&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>NTLite(操作系统定制工具) v2024.11.10169</title>
+        <link>https://www.danlong360.com/post/53570/</link>
+        <pubDate>Mon, 18 Nov 2024 11:30:38 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/53570/</guid>
+        <description>&lt;p&gt;NTLite是一款Windows操作系统定制工具，它可以帮助用户自定义Windows安装程序，从而使安装过程更快、更稳定、更安全。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/18/CWz21oLxBqHFsVN.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;可以删除Windows中不需要的组件，如语言包、驱动程序、服务、程序等。&lt;/li&gt;
+&lt;li&gt;可以添加第三方驱动程序、更新、程序等。&lt;/li&gt;
+&lt;li&gt;可以更改Windows默认设置，如主题、壁纸、登录画面等。&lt;/li&gt;
+&lt;li&gt;可以自动化Windows安装过程，如自动输入序列号、自动安装程序等。&lt;/li&gt;
+&lt;li&gt;可以制作自定义的Windows安装程序，包括ISO镜像、USB安装盘等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简洁明了，易于使用。&lt;/li&gt;
+&lt;li&gt;支持Windows 7、8、8.1、10等多个版本。&lt;/li&gt;
+&lt;li&gt;支持32位和64位系统。&lt;/li&gt;
+&lt;li&gt;可以进行在线更新，保持最新功能。&lt;/li&gt;
+&lt;li&gt;提供详细的日志和错误报告，方便用户定位问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBxNHF3_l4YNvmA4fqJFpdrA1?pwd=78ez&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBxNHF3_l4YNvmA4fqJFpdrA1?pwd=78ez&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Syncovery Premium(文件同步软件) v11.0.12.27 破解版</title>
+        <link>https://www.danlong360.com/post/9147/</link>
+        <pubDate>Mon, 18 Nov 2024 11:29:10 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/9147/</guid>
+        <description>&lt;p&gt;Syncovery 是一款功能强大且用户友好的文件同步和备份工具，它提供了丰富的文件管理和同步功能，帮助用户高效地管理和保护重要数据。Syncovery 特别适合需要频繁备份和同步文件的个人用户、企业和 IT 专业人士。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/18/2vA8gFtlHTXJIz4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;文件同步：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;双向同步：支持双向同步功能，用户可以在两个文件夹之间保持文件的一致性。
+单向同步：支持单向同步功能，用户可以将一个文件夹的内容复制到另一个文件夹。
+增量同步：支持增量同步功能，只同步发生变化的文件，提高同步效率。
+定时同步：支持定时同步功能，用户可以设置定时任务，自动进行文件同步。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;文件备份：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;完全备份：支持完全备份功能，用户可以将整个文件夹或驱动器的内容备份到目标位置。
+增量备份：支持增量备份功能，只备份发生变化的文件，节省存储空间。
+差异备份：支持差异备份功能，备份自上次完全备份以来发生变化的文件。
+版本控制：支持版本控制功能，用户可以保留多个备份版本，方便恢复旧版本的文件。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;文件传输：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;本地传输：支持本地文件和文件夹的快速传输。
+网络传输：支持通过 FTP、SFTP、WebDAV 等协议进行网络文件传输。
+云存储：支持多种云存储服务，如 Dropbox、Google Drive、OneDrive 等，用户可以将文件备份到云端。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;文件管理：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文件过滤：支持文件过滤功能，用户可以设置过滤规则，排除不需要同步或备份的文件。
+文件删除：支持文件删除功能，用户可以设置删除规则，自动删除旧的备份文件。
+文件恢复：支持文件恢复功能，用户可以恢复误删除的文件。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;日志和报告：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;日志记录：支持日志记录功能，用户可以查看和记录同步和备份任务的历史记录。
+错误报告：生成详细的错误报告，帮助用户解决同步和备份过程中遇到的问题。&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;其他工具：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文件加密：支持文件加密功能，用户可以加密重要的文件，确保数据安全。
+压缩和解压：支持文件压缩和解压功能，用户可以压缩备份文件，节省存储空间。
+命令行支持：支持命令行操作，用户可以通过脚本自动化同步和备份任务。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多功能集成：集成了文件同步、备份、传输和管理等多种功能，用户无需在多个工具之间切换。
+高效同步：采用高效的同步算法，确保快速准确的同步效果。
+多备份模式：支持完全备份、增量备份和差异备份等多种备份模式，满足不同的备份需求。
+多平台支持：支持 Windows 和 macOS 操作系统，适用于不同平台的用户。
+多协议支持：支持多种网络协议和云存储服务，方便用户进行远程文件管理和备份。
+文件过滤：支持文件过滤功能，用户可以设置过滤规则，排除不需要同步或备份的文件。
+版本控制：支持版本控制功能，用户可以保留多个备份版本，方便恢复旧版本的文件。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBxNC2i3uncmmYbeFwJzC4qA1?pwd=7f4p&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBxNC2i3uncmmYbeFwJzC4qA1?pwd=7f4p&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>STranslate(翻译工具/OCR工具) v1.2.10.1117 中文绿色版</title>
         <link>https://www.danlong360.com/post/24594/</link>
         <pubDate>Sun, 17 Nov 2024 21:37:20 +0800</pubDate>
