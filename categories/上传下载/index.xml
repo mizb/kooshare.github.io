@@ -7,7 +7,279 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 18 Nov 2024 22:55:12 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 19 Nov 2024 13:03:29 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>qBittorrent Enhanced Edition(BitTorrent客户端) v5.0.2 中文绿色版</title>
+        <link>https://www.danlong360.com/post/70323/</link>
+        <pubDate>Tue, 19 Nov 2024 13:03:29 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/70323/</guid>
+        <description>&lt;p&gt;qBittorrent是一个免费的开源BitTorrent客户端，可用于下载和分享文件。它是许多用户首选的BitTorrent客户端之一，因为它功能强大且易于使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/19/MJ9SGNDp2fsWXQI.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;同时下载多个文件：qBittorrent支持同时下载多个文件，用户可以方便地管理和跟踪他们的下载任务。
+定时下载：用户可以设置下载任务在特定时间开始或停止，方便控制下载行为。
+RSS订阅：qBittorrent支持RSS订阅，用户可以订阅自己喜欢的网站或资源，并自动下载更新。
+IP过滤器：用户可以设置IP过滤器来屏蔽特定IP地址或IP范围，提高下载速度和安全性。
+加密传输：qBittorrent支持加密传输，保护用户下载数据的隐私和安全性。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;轻量级：qBittorrent是一个轻量级的BitTorrent客户端，占用系统资源少，运行稳定。
+广泛支持：qBittorrent支持Windows、Mac OS和Linux等操作系统，用户可以轻松在不同平台上使用。
+社区支持：qBittorrent拥有庞大的用户群体和活跃的社区，用户可以获得及时的帮助和支持。
+开源免费：qBittorrent是一个开源免费软件，用户可以自由地下载、使用和修改，没有任何收费。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;c0re100/qBittorrent-Enhanced-Edition - GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;qBittorrent Enhanced Edition (qBittorrentEE_QB增强版_QB第三方编译版)
+1、基于原版qBittorrent重编译，主要特色：自动屏蔽迅雷等BT下载工具吸血
+2、增强提供了IP过滤规则高级功能，可以根据需要在选项自定义选择 tracker
+3、增强提供了自动禁止来自中国地区的IP未知客户端功能（该选项默认关闭）
+4、可以自动更新订阅公共Tracker服务器地址列表（该选项默认关闭）
+5、提供下载完成后重新效验torrent种子文件功能（该选项默认开启）
+6、解除原版客户端启动多开限制，不受原版限制可以多开运行&lt;/p&gt;
+&lt;p&gt;::集成Python爬虫搜索引擎文件，免安装原版方式便携式处理
+::预置精选tracker地址订阅，并启用匿名模式取消检测升级等&lt;/p&gt;
+&lt;p&gt;2024.11.18 v5.0.2.10
+- 跟进原版更新内核 v5.0.2&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOC1u4EYTYaWdrrpPb6u6fgUA1?pwd=87tv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOC1u4EYTYaWdrrpPb6u6fgUA1?pwd=87tv&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ArrowDL(开源批量下载工具) v4.0.3 中文绿色版</title>
+        <link>https://www.danlong360.com/post/79437/</link>
+        <pubDate>Tue, 19 Nov 2024 12:58:14 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/79437/</guid>
+        <description>&lt;p&gt;ArrowDL 是一款免费、开源的下载管理软件，它是 Firefox 浏览器的扩展程序，可以让用户更方便地批量下载文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/19/DSUlcwomJRtNTuv.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多线程下载，提高下载速度。&lt;/li&gt;
+&lt;li&gt;支持 HTTP、HTTPS 和 FTP 的下载协议。&lt;/li&gt;
+&lt;li&gt;支持断点续传，下载中断后可在上次下载的位置继续下载。&lt;/li&gt;
+&lt;li&gt;支持批量下载，可以选择多个文件同时下载。&lt;/li&gt;
+&lt;li&gt;支持过滤和排序功能，可以按文件类型、大小、日期等条件筛选和排序文件。&lt;/li&gt;
+&lt;li&gt;支持定时设置下载任务，方便智能化下载。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载速度快：ArrowDL多线程下载加上断点续传功能，大大提高了文件下载速度，满足快速下载的需求。&lt;/li&gt;
+&lt;li&gt;操作简单：ArrowDL的操作界面简洁明了，易于上手，且下载设置自由灵活。&lt;/li&gt;
+&lt;li&gt;安全可靠：ArrowDL在数据传输过程中会进行实时检测，确保下载的文件不会被病毒或木马污染。&lt;/li&gt;
+&lt;li&gt;兼容性好：ArrowDL是 Firefox 浏览器的扩展程序，支持多个操作系统，如 Windows、Linux 和 Mac OS 等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOC1t1UN241jwDl6oRgZ8vpRA1?pwd=cvyp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOC1t1UN241jwDl6oRgZ8vpRA1?pwd=cvyp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>XDown|专业的文件下载与分享工具 v2.0.9.3 中文绿色版</title>
+        <link>https://www.danlong360.com/post/31135/</link>
+        <pubDate>Tue, 19 Nov 2024 12:57:24 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/31135/</guid>
+        <description>&lt;p&gt;XDown 是一款专业的文件下载与分享工具，支持http，BT，磁力等下载方式，并且支持制作种子文件，另外软件没有广告，推荐试试。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/19/KZsHM1kBnwm39dW.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;功能特性&#34;&gt;功能特性
+&lt;/h3&gt;&lt;p&gt;支持浏览器(Chrome/FireFox/Edge Chromium/百分浏览器)接管下载
+支持torrent下载文件与做种
+支持断线重连
+支持标准FTP/HTTP/HTTPS/HTTP2协议下载
+支持http header自定义字段
+支持手动设置并发数(最大128)
+支持多IP轮询节点下载
+支持BitTorrent 内置tracker list设置
+支持tls1.0/1.1/1.2/1.3-sni
+支持磁力链接
+支持DHT ipv4+ipv6
+支持全局限速
+支持自定义全局代理设置&lt;/p&gt;
+&lt;h3 id=&#34;更新历史&#34;&gt;更新历史
+&lt;/h3&gt;&lt;p&gt;2.0.9.3 （2024-11-19）[windows]
+1.优化编译参数,减少被Microsoft Defender误报的概率
+2.精简优化依赖lib
+3.解决Avira/VBA32/IKARUS误报&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOC1sgtk-zcFgxORpweO8j_xA1?pwd=5r3b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOC1sgtk-zcFgxORpweO8j_xA1?pwd=5r3b&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>qBittorrent Enhanced Edition(BT下载工具) v5.0.2.10</title>
+        <link>https://www.danlong360.com/post/78584/</link>
+        <pubDate>Tue, 19 Nov 2024 12:54:49 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/78584/</guid>
+        <description>&lt;p&gt;qBittorrent中文版是一款非常好用的免费开源的BitTorrent客户端磁力种子下载工具的BT下载工具.无视敏感及版权文件,支持资源搜索引擎插件,订阅Tracker服务器,BT文件做种分享,DHT网络及匿名模式,采用Vuze兼容协议加密,IP过滤用的Ajax技术兼容Tracker及代理服务器,基于UPnP/NAT-PMP端口映射排队优先次序.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/19/6btxCgP3HTaRyS7.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;qBittorrent支持多种协议，包括DHT、PeX、Magnet链接等。
+它可以自动完成种子下载和分享，支持同时下载多个种子文件。
+qBittorrent具有RSS订阅功能，可以自动下载用户订阅的内容。
+该软件支持IP过滤、加密传输、流量限制等功能，提供了更安全和私密的下载环境。
+它还支持种子和下载任务的管理，用户可以对下载速度、优先级等进行设定。
+qBittorrent提供了丰富的统计功能，用户可以查看下载和上传速度、连接数等信息。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;c0re100/qBittorrent-Enhanced-Edition - GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;qBittorrent Enhanced Edition (qBittorrentEE_QB增强版_QB第三方编译版)
+1、基于原版qBittorrent重编译，主要特色：自动屏蔽迅雷等BT下载工具吸血
+2、增强提供了IP过滤规则高级功能，可以根据需要在选项自定义选择 tracker
+3、增强提供了自动禁止来自中国地区的IP未知客户端功能（该选项默认关闭）
+4、可以自动更新订阅公共Tracker服务器地址列表（该选项默认关闭）
+5、提供下载完成后重新效验torrent种子文件功能（该选项默认开启）
+6、解除原版客户端启动多开限制，不受原版限制可以多开运行&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOC1sXjw241jwDl6oRgZ8kL6A1?pwd=z4xr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOC1sXjw241jwDl6oRgZ8kL6A1?pwd=z4xr&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>4K Video Downloader&#43;(4K视频下载器) v1.10.0.0154 多语便携版</title>
+        <link>https://www.danlong360.com/post/15419/</link>
+        <pubDate>Tue, 19 Nov 2024 12:50:45 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/15419/</guid>
+        <description>&lt;p&gt;4K Video Downloader中文破解版(4K视频下载器)是一款哔哩哔哩B站视频下载工具及油管高清视频下载工具.智能解析视频最高画质,一键下载字幕,订阅YouTube视频,无视限制下载任何油管视频及专辑,可以提取视频字幕和音乐.它是一款支持中文的YouTube高画质视频下载工具,只要复制视频网址,就可以下载bilibili,YouTube,Facebook等网站视频文件,下载时可选择8K,4K,2K,1080p,720p,480p,360p,QCIF等视频画质及字幕.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/19/gry6mRJMflQ2jvD.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;4K Video Downloader+ (4K Video Downloader Plus)
+&lt;a class=&#34;link&#34; href=&#34;https://www.4kdownload.com/products/videodownloader-39&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.4kdownload.com/products/videodownloader-39&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近更新：
+- 支持下载B站哔哩哔哩高清视频和音频！
+• 智能下载YouTube高清视频
+• 下载YouTube订阅视频列表
+• 更新获取订阅YouTube频道
+• 下载被限制访问的YouTube视频
+• 采用ZenMate下载被限制的视频
+• 一键下载字幕、分离声音和字幕（独有）
+• 下载60帧360°全景视频、8K/4K超清视频
+• 将YouTube视频文件转换其它多媒体格式&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;4kvideodownloaderplus破解版,4K高清视频下载软件,超清视频下载器
+4kvideodownloader+免激活中文绿色便携版，集成注册激活码去更新&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOC1rzLPKOGTbrhypK1GxvhSA1?pwd=uyp9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOC1rzLPKOGTbrhypK1GxvhSA1?pwd=uyp9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>DLNow Video Downloader v1.54.2024.11.17 多语便携版</title>
+        <link>https://www.danlong360.com/post/92645/</link>
+        <pubDate>Tue, 19 Nov 2024 12:47:07 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/92645/</guid>
+        <description>&lt;p&gt;DLNow Video Downloader 是一款功能强大的视频下载软件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/19/saeNXHKFf1xtpwQ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;视频下载：DLNow Video Downloader 可以帮助用户从多个流行视频网站下载视频，包括 YouTube、Facebook、Instagram、Vimeo、Dailymotion 等。
+批量下载：用户可以选择下载单个视频或批量下载多个视频，提高下载效率。
+视频转换：DLNow Video Downloader 支持将下载的视频转换为其他常见的视频格式，如 MP4、AVI、MOV、WMV 等。
+高质量下载：软件支持下载高清视频，并提供不同的清晰度选项，使用户可以选择适合自己需求的视频质量。
+下载速度优化：DLNow Video Downloader 可以优化下载速度，提供更快的下载体验。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：DLNow Video Downloader 的界面简单直观，用户可以轻松学习和使用该软件。
+多平台支持：DLNow Video Downloader 支持 Windows、Mac、Android 等多个平台，适用于多种设备。
+自定义选项：软件提供了一些个性化设置选项，如选择下载目录、设置下载速度限制等，提供更好的用户体验。
+高速下载：DLNow Video Downloader 使用多线程下载技术，可以加快下载速度。
+免费试用：软件提供免费试用版本，用户可以在购买之前先体验软件的功能和性能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOC1rGjDVyE-76g_h0h1cQMDA1?pwd=7xd9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOC1rGjDVyE-76g_h0h1cQMDA1?pwd=7xd9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Microsoft OneDrive(微软云储存服务) v24.216.1027.0001</title>
+        <link>https://www.danlong360.com/post/26276/</link>
+        <pubDate>Tue, 19 Nov 2024 12:41:46 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/26276/</guid>
+        <description>&lt;p&gt;Microsoft OneDrive是一种云存储服务，它允许用户存储和同步文件及文件夹到云端，并让用户能够从任何设备上访问和共享这些文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/19/Of5EWkUSABZ8ac1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文件存储和同步：用户可以将文件和文件夹存储到OneDrive中，并使用自动同步功能，确保文件的副本始终与云端保持同步。这样，无论用户使用哪个设备，他们都可以随时随地访问和编辑文件。
+文件共享和协作：用户可以通过OneDrive共享文件和文件夹，以便与其他人合作。用户可以设置访问权限，控制谁可以查看、编辑或下载这些文件。此外，多个用户可以同时编辑同一个文件，实时查看和跟踪对文件的更改。
+文件备份和恢复：OneDrive可以用作文件备份工具，用户可以将其重要文件备份到云端，以防机器故障、丢失或损坏。如果文件在本地设备上遭到意外删除或损坏，用户可以轻松地从OneDrive中恢复文件。
+移动访问：OneDrive还有移动应用程序，可以在iOS和Android设备上使用。这样，用户可以使用手机或平板电脑访问和管理他们的文件。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;与Microsoft Office集成：OneDrive与Microsoft Office完全集成，用户可以直接从Office应用程序中打开、编辑和保存文件。这使得文件的协作和编辑变得更加无缝和高效。
+大量的免费存储空间：每个用户在注册时会获得免费的存储空间，一般为5GB，而订阅Office 365的用户可以获得更多的存储空间。
+高级安全保护措施：OneDrive采用高级安全性措施来保护用户文件的安全性和隐私。它提供了数据加密、身份验证和文件访问权限控制等功能。
+版本控制和恢复：OneDrive可以追踪和保存文件的版本历史记录，以便用户可以查看和恢复以前的版本。这对于在编辑文件时不小心进行了错误更改或需要查看之前的更改记录的用户非常有用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOC1quCXE4qKX46dTM1JKdftA1?pwd=t3af&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOC1quCXE4qKX46dTM1JKdftA1?pwd=t3af&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Gopeed(功能强大的下载器) v1.6.3 中文绿色版</title>
         <link>https://www.danlong360.com/post/59684/</link>
         <pubDate>Mon, 18 Nov 2024 22:55:12 +0800</pubDate>
