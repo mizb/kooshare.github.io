@@ -7,7 +7,72 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 20 Nov 2024 20:01:28 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 20 Nov 2024 23:48:55 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>CrystalDiskMark(硬盘检测工具) v8.0.6 中文绿色版</title>
+        <link>https://www.danlong360.com/post/58995/</link>
+        <pubDate>Wed, 20 Nov 2024 23:48:55 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/58995/</guid>
+        <description>&lt;p&gt;CrystalDiskMark 是一款用于评估磁盘读写性能的磁盘测试工具。它可以测试磁盘的各种特性，包括最大速度、最大传输速度、最大随机读取/写入速度等，以及最小排队深度等，可以帮助用户测量和评估磁盘的性能。此外，它还支持自定义测试，可以让用户选择特定的读取/写入数据量和测试次数，以便更为准确地测量磁盘的性能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/20/d9Nl4nDSxJiMI3A.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;测试硬盘的读取速度和写入速度：CrystalDiskMark可以通过对硬盘进行读取和写入测试，来评估硬盘的性能。
+支持多种硬盘类型：CrystalDiskMark支持测试机械硬盘、固态硬盘、外置硬盘等多种类型的硬盘。
+自动生成测试结果报告：CrystalDiskMark会生成测试结果报告，包括硬盘的读取速度、写入速度等信息，方便用户查看。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观：CrystalDiskMark的界面设计简洁易懂，用户可以快速上手进行硬盘性能测试。
+支持多种测试模式：CrystalDiskMark支持多种测试模式，包括随机读写测试、连续读写测试等，满足用户不同的测试需求。
+测试结果准确可靠：CrystalDiskMark通过对硬盘进行多次测试，确保测试结果的准确性和可靠性。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOC9GsgxPpB9a7I293QjlZjGA1?pwd=x7uq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOC9GsgxPpB9a7I293QjlZjGA1?pwd=x7uq&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>CrystalDiskInfo(硬盘监控工具) v9.5.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/3667/</link>
+        <pubDate>Wed, 20 Nov 2024 23:48:13 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/3667/</guid>
+        <description>&lt;p&gt;CrystalDiskInfo 是一款免费的硬盘监控工具，可用于监测和显示硬盘驱动器的健康状况和性能指标。它提供了关于硬盘温度、健康状态、可用空间、传输速度等信息，帮助用户及时了解硬盘的运行情况，并采取相应措施保护数据安全。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/20/RnMXdiAI8CFfmgG.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1.显示硬盘的基本信息，包括型号、容量、固件版本等。
+2.监测硬盘的温度，并提供警报功能。
+3.显示硬盘的健康状态，通过S.M.A.R.T技术检测硬盘的运行状况。
+4.提供传输速率的监测和显示。
+5.支持固态硬盘（SSD）和机械硬盘（HDD）。
+6.提供邮件通知功能，当硬盘出现问题时可及时通知用户。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.简单易用：CrystalDiskInfo 提供直观的界面和简单的操作，用户可以轻松了解硬盘的运行情况。
+2.兼容性强：支持Windows操作系统，并且能够与大多数硬盘驱动器兼容。
+3.实时监测：可以实时监测硬盘的温度、健康状态和传输速率，及时发现问题并采取措施。
+4.免费开源：CrystalDiskInfo 是一款开源软件，用户可以免费使用，并且没有广告和插件。
+5.多语言支持：支持多种语言，方便用户选择适合自己的语言进行使用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOC9Gob_r6uH9Rdje4HfWr6UA1?pwd=vdbc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOC9Gob_r6uH9Rdje4HfWr6UA1?pwd=vdbc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>AIDA64(硬件信息检测神器) v7.40.7100 / 7.40.7113 Beta 中文绿色版</title>
         <link>https://www.danlong360.com/post/31183/</link>
         <pubDate>Wed, 20 Nov 2024 20:01:28 +0800</pubDate>
