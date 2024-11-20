@@ -7,7 +7,247 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 20 Nov 2024 12:55:32 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 20 Nov 2024 21:05:11 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>FFmpeg Batch AV Converter（FFmpeg界面版）v3.1.1 便携版</title>
+        <link>https://www.danlong360.com/post/96991/</link>
+        <pubDate>Wed, 20 Nov 2024 21:05:11 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/96991/</guid>
+        <description>&lt;p&gt;FFmpeg Batch AV Converter是一款免费的通用音频和视频编码器，只需单击几下鼠标，即可在拖放式进度信息的便捷GUI中使用ffmpeg命令行的全部功能。 由于具有多文件编码功能，它可能是可用的最快的a / v批处理编码器，因为它通过启动多达用户CPU线程数的多个并发进程来最大限度地利用系统资源。 您可以更改编码优先级，暂停和继续，设置自动关机。 对于经验丰富的ffmpeg用户以及初学者来说，它都是不错的选择。 它为几乎所有音频/视频格式提供了无限的单文件或多文件批处理编码。 您可以使用任何一组参数，并在开始编码之前尝试使用它们。 您可以操纵和多路复用流，批量字幕视频（作为跟踪和硬编码），修剪，连接，录制屏幕，捕获M3u8或YouTube URL。&lt;/p&gt;
+&lt;p&gt;1、支持视频编码h264 / h265 / NVENC / QuickSync / ProRes。&lt;/p&gt;
+&lt;p&gt;2、支持音频编码MP3 / AAC / AC3 / FLAC / WAV。&lt;/p&gt;
+&lt;p&gt;3、可以批量处理多文件，批量编码成千上万个媒体文件。&lt;/p&gt;
+&lt;p&gt;4、完成媒体文件编码之后支持自动关闭，并运行后续脚本。&lt;/p&gt;
+&lt;p&gt;5、支持用户自定义设置媒体编码的优先级。&lt;/p&gt;
+&lt;p&gt;6、拖放，流映射和复用，可以批量下载M3U8网址。&lt;/p&gt;
+&lt;p&gt;7、支持FFmpeg A / V编码向导，让您轻松使用。&lt;/p&gt;
+&lt;p&gt;8、筛选档案，修剪和串联文件，批量下载YouTube视频。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/20/2MsTCaVSFkmKlLz.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1、通过拖放进度信息，使用GUI的ffmpeg命令行中的所有功能。&lt;/p&gt;
+&lt;p&gt;2、您可以更改编码优先级，暂停和继续以及设置自动关机。&lt;/p&gt;
+&lt;p&gt;3、为几乎所有音频/视频格式提供无限制的单文件或多文件批处理编码。&lt;/p&gt;
+&lt;p&gt;4、您可以使用任何一组参数，并在开始编码之前尝试使用它们。&lt;/p&gt;
+&lt;p&gt;5、您可以操纵和多路复用流，批处理字幕，修剪，连接，记录屏幕，捕获m3u8或YouTube URL。&lt;/p&gt;
+&lt;p&gt;6、访问有用的多媒体文件信息。&lt;/p&gt;
+&lt;p&gt;7、您可以使用优雅的编码向导手动保存您喜欢的自定义ffmpeg参数。&lt;/p&gt;
+&lt;p&gt;8、您可以使用相对/绝对输出路径来自动重命名输出文件，覆盖它们。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;以文件为基础提供预输入参数（添加编码参数列）。
+修复了使用“打开”对话框打开应用程序时的问题。
+•修复bug从流多路复用选项卡中删除项目。
+•改进了屏幕阅读器的可访问性描述。
+•夜间模式的一些改进。&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOC8gB5v0fs3XspU78Q8KFBuA1?pwd=5hww&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOC8gB5v0fs3XspU78Q8KFBuA1?pwd=5hww&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小宾AI抠图 v0.2.3 绿色版</title>
+        <link>https://www.danlong360.com/post/30870/</link>
+        <pubDate>Wed, 20 Nov 2024 21:03:57 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/30870/</guid>
+        <description>&lt;p&gt;小宾AI抠图应用，使用开源模型 briaai/RMBG-1.4实现图像抠图,支持单张图像拖拽、粘贴图像和连接、和批量抠图。支持多种格式的证件照制作、支持单张和批量图像格式转换。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/20/sTVkOg6ABb9fL43.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;本地模型算法进行抠图，支持单张和批量抠图&lt;/p&gt;
+&lt;p&gt;支持单张抠图和批量抠图&lt;/p&gt;
+&lt;p&gt;支持拖拽和粘贴&lt;/p&gt;
+&lt;p&gt;AI证件照抠图功能&lt;/p&gt;
+&lt;p&gt;支持图片格式转换、批量转换&lt;/p&gt;
+&lt;p&gt;语言支持中文和英文&lt;/p&gt;
+&lt;p&gt;支持暗色和亮色主题&lt;/p&gt;
+&lt;p&gt;项目开源，可供学习和参考&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOC8g82xkzYJ4VcpWi6XcOmLA1?pwd=qkxv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOC8g82xkzYJ4VcpWi6XcOmLA1?pwd=qkxv&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>CyberLink PowerDirector(威力导演2025) v23.0.1113.0 便携版</title>
+        <link>https://www.danlong360.com/post/56304/</link>
+        <pubDate>Wed, 20 Nov 2024 20:11:11 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/56304/</guid>
+        <description>&lt;p&gt;威力导演是一款专业的视频编辑器，可用于制作电影、电视剧、音乐视频、广告以及个人视频等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/20/8nYFSZsPzB71l3v.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;视频剪辑：可以对视频进行裁剪、分割、合并等操作，实现剧情布局的灵活性。
+特效制作：内置丰富的特效库，如转场特效、滤镜、动画效果等，能够为视频增加各种视觉效果。
+音频编辑：支持音轨分离、音量调整、音效添加等操作，使得视频的声音效果更加出色。
+字幕加入：可以添加字幕、标题、贴纸等文本元素，并支持自定义字体、颜色、动画等特效。
+导入与导出：支持导入多种视频、图片、音频文件格式，并可以导出到各种常用的视频格式。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;直观易用：威力导演提供了直观的用户界面和操作方式，使得视频编辑过程简单易懂，即使是新手也能快速上手。
+多种模板与资源：软件内置了大量的视频模板和特效资源，供用户选择和使用，可以大大节省制作时间和提高创作效率。
+高质量输出：威力导演支持高分辨率视频和音频输出，可以保证制作出的视频作品质量优秀。
+多平台支持：威力导演可用于Windows、Mac和移动设备上，用户可以在不同设备上无缝切换和编辑视频。
+社区分享：威力导演内置了视频分享平台，用户可以方便地将制作好的视频直接分享到YouTube、Facebook等社交媒体上。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOC8cq2SwRbGxhwaJCup0hjtA1?pwd=jtg6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOC8cq2SwRbGxhwaJCup0hjtA1?pwd=jtg6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Adobe全系列破解版下载 官方原版&amp;破解补丁(11.20更新1款Adobe软件)</title>
+        <link>https://www.danlong360.com/post/9730/</link>
+        <pubDate>Wed, 20 Nov 2024 20:06:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/9730/</guid>
+        <description>&lt;p&gt;Adobe 系列软件是创意和设计行业的标准工具集，涵盖了从图像编辑、视频制作到网页设计和数字出版的广泛领域。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/20/lqvz76cySajkA3o.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;Adobe Photoshop
+功能：专业级的图像编辑软件，用于修复照片、创建合成图像、绘制和绘画等。
+特点：强大的图层系统、广泛的滤镜和效果、精确的选择工具、3D模型支持。
+Adobe Illustrator
+功能：矢量图形设计软件，用于创建徽标、插图、图表和复杂图形。
+特点：精确的矢量绘图工具、文字排版控制、色彩管理、实时预览。
+Adobe InDesign
+功能：专业页面布局和排版软件，适用于杂志、书籍、小册子等。
+特点：长文档支持、多页预览、高级排版工具、PDF输出。
+Adobe Acrobat Pro DC
+功能：PDF 创建、编辑和管理工具。
+特点：转换文档格式、注释和评论、表单填写和签名、PDF优化。
+Adobe Premiere Pro
+功能：专业视频编辑软件，适合剪辑、调色、音频编辑和动态图形。
+特点：非线性编辑、多轨道编辑、Lumetri Color面板、集成的Adobe Stock素材库。
+Adobe After Effects
+功能：动态图形和视觉特效创作工具。
+特点：动画创建、粒子系统、3D摄像机跟踪、与Premiere Pro无缝集成。
+Adobe Animate
+功能：动画制作软件，用于创建交互式动画和游戏。
+特点：矢量动画、骨骼绑定、声音同步、HTML5 Canvas和Flash输出。
+Adobe XD
+功能：用户体验设计工具，用于界面设计、原型制作和协作。
+特点：实时预览、设计规范共享、团队协作功能。
+Adobe Lightroom
+功能：照片管理和后期处理软件。
+特点：非破坏性编辑、批量处理、色彩校正、图像组织。
+Adobe Dreamweaver
+功能：网页设计和编码环境。
+特点：代码高亮、实时视图、CSS和HTML5支持、FTP上传。
+Adobe Audition
+功能：专业音频编辑和混音软件。
+特点：多轨录音、降噪、音频修复、音效库。&lt;/p&gt;
+&lt;p&gt;Adobe 系列软件通常通过 Creative Cloud 订阅服务提供，这允许用户访问最新版本的软件以及云存储和其他在线服务。每款软件都有其特定的使用场景，但它们都共享一套核心的设计原则和工作流程，使得跨软件协作变得简单。&lt;/p&gt;
+&lt;p&gt;破解补丁简单用法就是：先点search按钮，等会有结果了，再点patch就好了。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编辑原因：
+Adobe系列官方安装程序+破解补丁(目录下Crack文件夹)都在此文章更新，因Adobe直装版更新较慢！
+[11.20]
+Adobe Photoshop 2025 v26.1.0.121 破解版
+[11.18]
+Adobe InCopy 2025 v20.0.1 破解版
+Adobe InDesign 2025 v20.0.1 破解版
+[11.15]
+Adobe Acrobat Pro DC 2024.004.20272 破解版
+Adobe Illustrator 2024 v29.1 破解版
+[11.08]
+Adobe Substance 3D Sampler 4.5.2 破解版
+[11.06]
+Adobe Substance 3D Painter 10.1.1 破解版
+[10.30]
+Adobe Illustrator 2025 v29.0.1 破解版
+[10.24]
+Adobe After Effects 2025 v25.0.1 破解版
+[10.22]
+Adobe Substance 3D Modeler v1.15.0 破解版
+[10.17]
+Adobe Lightroom Classic 2025 v14.0.1 破解版
+[10.16]
+Adobe Media Encoder 2024 v24.6.3 破解版
+Adobe Audition 2024 v24.6.3 破解版
+Adobe After Effects 2024 v24.6.3 破解版
+Adobe Premiere Pro 2024 v24.6.3 破解版
+[10.15]
+Adobe Bridge 2024 v14.1.3 破解版
+[10.12]
+Adobe Character Animator 2025 v25.0 破解版
+Adobe Media Encoder 2025 v25.0 破解版
+Adobe Bridge 2025 v15.0 破解版
+Adobe Premiere Pro 2025 v25.0 破解版
+Adobe Audition 2025 v25.0 破解版
+Adobe Photoshop Lightroom v8.0 破解版&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOB9-0hnpnoa89eDSLp3x_09A1?pwd=38za&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOB9-0hnpnoa89eDSLp3x_09A1?pwd=38za&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>CapCut剪映国际版(视频编辑工具) v5.1.0.1897 / 5.2.0.1923 Beta3</title>
+        <link>https://www.danlong360.com/post/87367/</link>
+        <pubDate>Wed, 20 Nov 2024 20:02:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/87367/</guid>
+        <description>&lt;p&gt;CapCut剪映国际版是一款功能强大的视频编辑应用程序。作为一个全功能的视频编辑软件，CapCut提供了多种工具和特效，让用户能够轻松剪辑、裁剪、调整视频的速度和音频，添加音乐、文本和滤镜，以及进行视觉特效和颜色校正等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/20/EcrLW7mznyk6fdw.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;剪辑和裁剪视频：通过简单的拖动和缩放，用户可以从视频中裁剪出他们想要的片段，并进行剪辑和拼接。
+调整视频速度：用户可以加快或减慢视频的播放速度，产生慢动作或快速剪辑的效果。
+音频编辑：用户可以调整视频中的音频音量，并添加背景音乐或配乐。
+视觉特效：CapCut提供了多种视觉特效，如过渡效果、动态文字和图形等，使用户能够为他们的视频添加更多的创意和个性。
+颜色校正：用户可以为视频应用各种颜色滤镜和校正，改变视频的色调和氛围。
+文本和贴纸：CapCut提供了丰富的文本和贴纸选项，供用户添加标题、字幕、标签和表情等。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁易用：CapCut采用直观的用户界面设计，使用户能够快速学习和操作软件。
+多功能工具：CapCut提供了各种功能丰富的工具，如调整、修剪、旋转、翻转和混音等，满足用户各种视频编辑需求。
+高质量输出：CapCut支持多种分辨率和视频格式的输出，用户可以根据自己的需求选择最佳的输出设置。
+社交媒体分享：用户可以将编辑好的视频直接分享到各种社交媒体平台，与朋友和粉丝分享自己的创作作品。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOC8cLXQal64XvKqOT7KOWpxA1?pwd=nezx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOC8cLXQal64XvKqOT7KOWpxA1?pwd=nezx&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>FastFlix(转换和处理视频文件) v5.8.2 中文绿色版</title>
         <link>https://www.danlong360.com/post/89884/</link>
         <pubDate>Wed, 20 Nov 2024 12:55:32 +0800</pubDate>
