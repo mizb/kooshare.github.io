@@ -7,7 +7,119 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 20 Nov 2024 19:58:35 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 21 Nov 2024 18:27:33 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>xb21cn Win11 v24H2 Build 26120.2454.1 精简版</title>
+        <link>https://www.danlong360.com/post/85708/</link>
+        <pubDate>Thu, 21 Nov 2024 18:27:33 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/85708/</guid>
+        <description>&lt;p&gt;xb21cn精简Win11系统最新版,xb21cn Win11 24H2预览版,xb21cn Win11精简系统下载,xb21cn Win11 24H2精简版,xb21cn Windows 11 24H2精简版,xb21cn Win11 Build 26120精简版,xb21cn Win11精简版系统无更新企业版.xb21cn精简版Win11纯净版系统,xb21cn系统纯净无第三方软件,xb21cn精简系统下载.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;D:%5cGray_Fraser_Muster%5cPerson_Note_Picture%5cYX_Image%5c20241121_062750.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;xb21cn精简Windows 11 24H2 Build 26120 xb21cn系统Win11精简版&lt;/p&gt;
+&lt;p&gt;无更新版：转换企业版G版、深度精简优化、彻底阉割更新、占用低性能高！&lt;/p&gt;
+&lt;p&gt;- 详细版本: Windows 11 24H2(OS build 26120.2454) 企业版G x64 Dev
+- 集成2024年7月累积更新合安全更新及堆栈更新，并启用Net3.5和Net4.8
+- 桌面提供授权转换脚本，支持转为服务器版的DC授权，支持服务器管理器
+- 移植服务器版统一写入筛选器功能：UWF + WEF，并汉化集成GUI控制器
+- 彻底阉割系统更新功能，去更新选项、极限精简WinSXS，故不可以更新!
+- 移植增加：蓝牙设备、人脸识别、触屏等功能，集成网卡触摸屏等驱动
+- 功能精简：杀毒、hyv、小娜、pdf、xps、iis、ps和服务器相关组件
+- 功能保留：人脸和指纹识别、WMP、IE、旧版组件、打印机、SMB
+- 破解驱动数字签名（可免F8安装无签名驱动，主要是旧网卡驱动）
+- 添加中文美式键盘（默认隐藏微软输入法图标可在语言自行添加）
+- 修改替换：原版老旧驱动（主要是网卡驱动，国产数字可能误报）
+- 集成驱动：英特尔i219v网卡/触摸屏等驱动 (主要针对的旧电脑)
+- 默认管埋员帐户，优化调整：关闭防火墙，禁用各种不常用服务&lt;/p&gt;
+&lt;p&gt;【不可更新精简版使用说明】&lt;/p&gt;
+&lt;p&gt;系统仅做了部分注册表优化，服务为原版。如需进一步降低进程，可自行禁用不需要服务！
+** 自建账户：释放完系统 ESD 后删除文件夹 Windows\Panther
+** 破解驱动数字签名（可免F8安装无签名驱动）
+** 集成统一写入筛选器：UWF 和 GUI控制器 、集成 NET3.5&lt;/p&gt;
+&lt;p&gt;一、精简项目：
+Defender、Hyper-V、Cortana、XPS、IIS、BitLocker等办公不常用组件&lt;/p&gt;
+&lt;p&gt;二、保留系统绝大部分功能
+打印机、wmp、IE、SMB、SNMP、TCPIP、TFTP、Telnet、工作文件夹、计算器、远程桌面
+旧版组件、远程差分、PDF、PowerShell、截图、orc、手写识别、人脸、完整驱动等&lt;/p&gt;
+&lt;p&gt;三、可在线或离线安装的组件：
+各国语言、基本输入法、语音识别、补充字体 和 部分小补丁&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;xb21cn精简Win11 24H2系统无更新极限精简版(11月Dev预览更新版)
+26120x64.2454-(20E526887D8099B3AE786A846764973F).esd
+发布时间：2024年11月21号， 文件大小：1,572,484,376（1.46G）&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCDJBtTQxxhHVog5IlDkNBHA1?pwd=vs6e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCDJBtTQxxhHVog5IlDkNBHA1?pwd=vs6e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>xb21cn Win11 v23H2 Build 22635.4541.1 精简版</title>
+        <link>https://www.danlong360.com/post/7640/</link>
+        <pubDate>Thu, 21 Nov 2024 18:26:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/7640/</guid>
+        <description>&lt;p&gt;xb21cn精简Win11系统最新版,xb21cn Win11 23H2预览版,xb21cn Win11精简系统下载,xb21cn Win11 23H2精简版,xb21cn Windows 11 23H2精简版,xb21cn Win11 Build 22635精简版,xb21cn Win11精简版系统无更新企业版.xb21cn精简版Win11纯净版系统,xb21cn系统纯净无第三方软件,xb21cn精简系统下载.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/21/6HcK1mUjDTSZVix.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;xb21cn精简Windows 10 23H2 Build 22635 xb21cn系统Win11精简版&lt;/p&gt;
+&lt;p&gt;无更新版：转换企业版G版、极限精简优化、彻底阉割更新、占用低性能高！&lt;/p&gt;
+&lt;p&gt;- 内部详细版本：Windows 11 23H2(OS build 22635.4541) 企业版 G x64
+- 集成2024年9月累积更新合安全更新及堆栈更新，并启用 Net3.5和Net4.8
+- 桌面提供授权转换脚本，支持转为服务器版的DC授权，支持服务器管理器
+- 移植服务器版统一写入筛选器功能：UWF + WEF，并汉化集成GUI控制器
+- 彻底阉割系统更新功能，去更新选项、极限精简WinSXS，故不可以更新!
+- 移植增加：蓝牙设备、人脸识别、触屏等功能，集成网卡触摸屏等驱动
+- 功能精简：杀毒、hyv、小娜、pdf、xps、iis、ps和服务器相关组件
+- 功能保留：人脸和指纹识别、WMP、IE、旧版组件、打印机、SMB
+- 破解驱动数字签名（可免F8安装无签名驱动，主要是旧网卡驱动）
+- 添加中文美式键盘（默认隐藏微软输入法图标可在语言自行添加）
+- 修改替换：原版老旧驱动（主要是网卡驱动，国产数字可能误报）
+- 集成驱动：英特尔i219v网卡/触摸屏等驱动 (主要针对的旧电脑)
+- 默认管埋员帐户，优化调整：关闭防火墙，禁用各种不常用服务&lt;/p&gt;
+&lt;p&gt;【不可更新精简版使用说明】&lt;/p&gt;
+&lt;p&gt;系统仅做了注册表优化，如需进一步降低进程，可自行禁用不需要服务！&lt;/p&gt;
+&lt;p&gt;** 自建账户：释放完系统 ESD 后删除文件夹 Windows\Panther&lt;/p&gt;
+&lt;p&gt;** 笔记本启用休眠：电源设置中选择　平衡模式 或 节能模式
+电源选项中已加入大小核设置，可自行设置。&lt;/p&gt;
+&lt;p&gt;** 破解驱动签名验证（可免F8安装无签名驱动）&lt;/p&gt;
+&lt;p&gt;** 集成统一写入筛选器：UWF 和 GUI控制器
+集成 NET3.5 及 net 4.8或4.8.1最新补丁&lt;/p&gt;
+&lt;p&gt;一、精简项目：
+Defender、Hyper-V、Cortana、XPS、IIS、BitLocker等办公不常用组件&lt;/p&gt;
+&lt;p&gt;二、保留系统绝大部分功能
+打印机、wmp、IE、SMB、SNMP、TCPIP、TFTP、Telnet、工作文件夹、计算器、远程桌面
+旧版组件、远程差分、PDF、PowerShell、截图、orc、手写识别、人脸、完整驱动等
+（请不要尝试取消开启的功能，否则无法再开启，切记！！！）&lt;/p&gt;
+&lt;p&gt;三、可在线或离线安装的组件：
+各国语言、基本输入法、语音识别、补充字体 和 部分小补丁&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;xb21cn精简Win11 23H2系统无更新极限精简版 (24年11月Beta版)
+22635x64.4541-(C7ECCFB4008A3CA177D6A2FB8158C39D0.esd
+发布时间: 2024年11月21号，文件大小: 1,584,504,995 字节(1.47G)&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCDJBtTQxxhHVog5IlDkNBHA1?pwd=vs6e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCDJBtTQxxhHVog5IlDkNBHA1?pwd=vs6e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows 11 24H2官方正式版2024年11月版(微软原版ISO镜像)</title>
         <link>https://www.danlong360.com/post/39810/</link>
         <pubDate>Wed, 20 Nov 2024 19:58:35 +0800</pubDate>
