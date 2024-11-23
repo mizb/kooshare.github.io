@@ -7,7 +7,41 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 14 Nov 2024 21:45:33 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 23 Nov 2024 12:55:33 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MultiPack Visual C&#43;&#43; Installer(VC&#43;&#43; 运行库集合包) v3.7</title>
+        <link>https://www.danlong360.com/post/62663/</link>
+        <pubDate>Sat, 23 Nov 2024 12:55:33 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/62663/</guid>
+        <description>&lt;p&gt;VC++ 运行库集合包是一个集合了多个版本的Microsoft Visual C++运行库的软件包。它的主要功能是帮助用户解决在运行VC++开发的程序时可能出现的缺少对应版本运行库的问题，从而确保程序的正常运行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/23/eruQv7xXs5bJWyl.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;集合了多个版本的Microsoft Visual C++运行库，包括2005、2008、2010、2013、2015、2017等版本。
+简单易用，用户只需下载安装对应版本的运行库集合包即可解决缺少运行库导致的程序无法运行的问题。
+支持32位和64位系统，用户可以根据自己的系统架构选择合适的版本进行安装。
+更新及时，随着Microsoft Visual C++运行库的更新，VC++ 运行库集合包也会及时更新，确保用户始终能够获得最新的运行库支持。&lt;/p&gt;
+&lt;h3 id=&#34;包括版本&#34;&gt;包括版本
+&lt;/h3&gt;&lt;p&gt;Microsoft Visual C++ 2005 (x86 only) 8.0.61001
+Microsoft Visual C++ 2008 (x86/x64) 9.0.30729.6161
+Microsoft Visual C++ 2010 (x86/x64) 10.0.40219.473
+Microsoft Visual C++ 2012 (x86/x64) 11.0.61030.0
+Microsoft Visual C++ 2013 (x86/x64) 12.0.40664.0
+Microsoft Visual C++ 2015-2022 (x86/x64) *14.42.34433.0&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCMQgdPAz1nOjCia3piNtB9A1?pwd=w57x&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCMQgdPAz1nOjCia3piNtB9A1?pwd=w57x&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>游戏常用运行库合集 Game Runtime Libraries Package v5.0.24.1114</title>
         <link>https://www.danlong360.com/post/34990/</link>
         <pubDate>Thu, 14 Nov 2024 21:45:33 +0800</pubDate>

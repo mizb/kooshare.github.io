@@ -7,7 +7,53 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 21 Nov 2024 12:30:32 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 23 Nov 2024 12:58:24 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>B站录播姬(B站视频录制工具) v2.13.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/40541/</link>
+        <pubDate>Sat, 23 Nov 2024 12:58:24 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/40541/</guid>
+        <description>&lt;p&gt;B站录播姬是一款专为Bilibili（B站）平台设计的录制工具。它的主要功能是能够将B站上的直播内容进行录制并保存成视频文件，方便用户进行后续的观看或分享。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/23/gim6lx7WSIB1Kyb.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;直播录制：B站录播姬可以帮助用户将B站上的直播内容进行实时录制，无论是游戏直播、二次元直播还是其他类型的直播，都可以轻松捕捉到并保存下来。&lt;/li&gt;
+&lt;li&gt;视频转码：录制完成后，B站录播姬可以将视频文件进行转码，支持多种常见视频格式，方便用户在不同平台上播放和分享。&lt;/li&gt;
+&lt;li&gt;录制设置：软件具备一系列的录制设置选项，例如画质、帧率、音频来源等，用户可以根据自己的需求进行调整。&lt;/li&gt;
+&lt;li&gt;弹幕保存：B站录播姬还支持将直播时的弹幕内容进行保存，用户可以在录制的视频中显示弹幕，增加观看体验。&lt;/li&gt;
+&lt;li&gt;高效稳定：软件采用专业的录制技术，保证录制的视频质量稳定，减少录制过程中的卡顿或画面模糊等问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简洁易用：B站录播姬的界面简洁清晰，操作简单直观，即使对于没有使用过类似软件的用户也能够快速上手。&lt;/li&gt;
+&lt;li&gt;兼容性强：软件支持多种常见的操作系统，包括Windows、Mac和Linux，适用于不同用户的平台需求。&lt;/li&gt;
+&lt;li&gt;功能全面：除了基本的录制功能外，软件还提供了一些额外的功能，例如自动切割、预约录制等，满足不同用户的个性化需求。&lt;/li&gt;
+&lt;li&gt;更新及时：软件的开发团队会根据用户的反馈和需求不断进行更新和优化，确保B站录播姬始终处于良好的运行状态。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;通用：
+优化弹幕合并工具的报错信息，显示出错的来源文件名
+命令行版：
+为 &amp;ndash;config-override 参数添加了传入文件夹路径的支持。原来只支持完整文件路径
+调整了无密码公网访问检测逻辑 by @komori-flag in #601
+给 docker 镜像添加了通过环境变量设置 UMASK, PUID, PGID 的功能 by @mouyase in #588 #600
+禁用了 aspnetcore/dotnet 的 distributed context propagation 功能
+更新了 webui&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCMQRdXS4iu4xk2rPgjEe8iA1?pwd=7xym&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCMQRdXS4iu4xk2rPgjEe8iA1?pwd=7xym&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>JRiver Media Center(媒体管理软件) v33.0.43 多语便携版</title>
         <link>https://www.danlong360.com/post/47421/</link>
         <pubDate>Thu, 21 Nov 2024 12:30:32 +0800</pubDate>
