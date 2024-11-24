@@ -7,7 +7,243 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 23 Nov 2024 12:52:13 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 24 Nov 2024 20:36:16 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>XDown|专业的文件下载与分享工具 v2.0.9.4 中文绿色版</title>
+        <link>https://www.danlong360.com/post/28490/</link>
+        <pubDate>Sun, 24 Nov 2024 20:36:16 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/28490/</guid>
+        <description>&lt;p&gt;XDown 是一款专业的文件下载与分享工具，支持http，BT，磁力等下载方式，并且支持制作种子文件，另外软件没有广告，推荐试试。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/24/Ynz2DcOAdXomi4W.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;功能特性&#34;&gt;功能特性
+&lt;/h3&gt;&lt;p&gt;支持浏览器(Chrome/FireFox/Edge Chromium/百分浏览器)接管下载
+支持torrent下载文件与做种
+支持断线重连
+支持标准FTP/HTTP/HTTPS/HTTP2协议下载
+支持http header自定义字段
+支持手动设置并发数(最大128)
+支持多IP轮询节点下载
+支持BitTorrent 内置tracker list设置
+支持tls1.0/1.1/1.2/1.3-sni
+支持磁力链接
+支持DHT ipv4+ipv6
+支持全局限速
+支持自定义全局代理设置&lt;/p&gt;
+&lt;h3 id=&#34;更新历史&#34;&gt;更新历史
+&lt;/h3&gt;&lt;p&gt;2.0.9.4 （2024-11-24）[windows]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;增加http设置参数, 完全接管浏览器下载.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;- 取消下载任务后,浏览器则不再弹出下载对话框.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;传输http清单,活动时间则不显示上传做种时间&lt;/li&gt;
+&lt;li&gt;优化dht默认服务器列表&lt;/li&gt;
+&lt;li&gt;移除启动画面功能.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCTD48X_r0RMX-gdb-NmuMfA1?pwd=68w8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCTD48X_r0RMX-gdb-NmuMfA1?pwd=68w8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Extreme Picture Finder(图片下载工具) v3.66.13.0 多语便携版</title>
+        <link>https://www.danlong360.com/post/81994/</link>
+        <pubDate>Sun, 24 Nov 2024 20:32:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/81994/</guid>
+        <description>&lt;p&gt;Extreme Picture Finder是一款功能丰富的图像下载工具，可以在软件上添加你需要搜索图像的网址，随后自动软件自动抓取该网址的图像，让用户可以轻松采集网页上的图像，无论是漫画网站还是图像素材分享网站都可以通过这款软件快速搜索图像并执行下载，软件提供详细的新项目引导流程，进入软件以后创建新的项目并添加地址就可以按照引导流程配置搜索计划，计划编辑完毕就可以开始按照你配置的条件搜索图像，全部图像都可以在软件界面预览，搜索的图像自动保存在此电脑-下载界面，如果你需要就下载吧！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/24/w2SQ4rJeTsgLq8f.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;功能介绍&#34;&gt;功能介绍
+&lt;/h3&gt;&lt;p&gt;1、支持自动从网站下载您选择的图像、音乐、视频或者其他任何文件;
+2、支持从TGP和受密码保护的网站下载;
+3、支持的网站有imagefap.com，imgsrc.ru，imgchili.net，imgur.com，tum blr.com和其他流行的图像主机;
+4、支持下载URL列表;
+5、内置网络图像搜索器;
+6、支持最多可同时下载30个文件，文件速度非常快;
+7、在线项目数据库包含数百个即用型项目;
+8、在线项目模板库，为大多数热门网站提供最佳下载设置;
+9、内置带缩略图和幻灯片放映模式的图片浏览器。&lt;/p&gt;
+&lt;h3 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h3&gt;&lt;p&gt;1.下载您选择的图像，音乐，视频或任何其他文件从网站自动
+2.下载来自网络的网站
+3.下载网址列表
+4.内置网络图片搜索
+5.多达30个同时下载-你会有你的文件非常快
+6.内置数千个网址的数据库
+7.内置缩略图和幻灯片放映模式图片浏览器
+8.用户友好的界面被翻译成多种语言
+9.类似NeoDownloader这款工具包括功能方面和界面都有点类似。
+10.Extreme Picture Finder是一款在线图片下载工具，只要指定一个网址设置一下相关文件类型它就会把整站的图片都下载回来，并且除了下载图片，该软件还可下载音频及视频文件，功能齐全。
+11.Extreme Picture Finder针对下载回来的图像通过它可以非常方便的进行预览和设置。
+12.运行多环境支持
+13.您只要输入一个网址,它就可以自动帮您搜寻网页中的图片,并立即下载到您的预设文件夹,
+14.支持图片预览、续传下载,支持多线程同时下载,支持Plug-In插件技术,
+15.内置十几种图片网址,可以帮助你轻松获取需要的图片!&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCTCr1UeLr6LO-Q6mNTkbQTA1?pwd=shbd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCTCr1UeLr6LO-Q6mNTkbQTA1?pwd=shbd&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>uTorrent(BT下载工具) Pro v3.6.0.47168 去广告绿色版</title>
+        <link>https://www.danlong360.com/post/46179/</link>
+        <pubDate>Sun, 24 Nov 2024 19:27:00 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/46179/</guid>
+        <description>&lt;p&gt;µTorrent(uTorrent中文版)是一款俄罗斯号称全球排名第一的免费BT下载工具,海外最受欢迎的BT下载客户端软件.uTorrent最新版支持BitTorrent(BT扩展协议),Magnet(磁力链接),可以制作BT种子文件,支持DHT网络及UPnP端口映射,支持RSS订阅自动下载做种上传,专业版下载BT文件支持调用本地第三方播放器边下边播.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/24/as6wjuZ24SB5cVX.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Release Notes | The Official µTorrent Blog
+&lt;a class=&#34;link&#34; href=&#34;https://blog.utorrent.com/releases/windows&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://blog.utorrent.com/releases/windows&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;bt下载工具utorrent专业版
+√ 解压UPX壳解决原版部分杀毒软件报毒
+√ 反汇编破解无广告专业版，并修补DHT网络
+√ 界面无广告：无左侧矩形广告、无顶部横幅广告
+√ 去界面左侧TronTV推广页项， 默认隐藏Dlive栏
+√ 去界面底部状态栏无用按钮：分享到脸书、推特
+√ 无升级提示，切断并阻止强制下载升级包数据及推广文件update,apps
+√ 调优配置：禁发送匿名信息、关检测更新、不开机启动、不关联文件等&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编辑原因：11.24 更新 uTorrent Pro v3.6.0.47168 elchupacabra 去广告绿色版&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCT6uEGeLr6LO-Q6mNThWN5A1?pwd=8wx7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCT6uEGeLr6LO-Q6mNThWN5A1?pwd=8wx7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>iTubeGo(多媒体下载转换软件) v9.2.1 多语便携版</title>
+        <link>https://www.danlong360.com/post/4166/</link>
+        <pubDate>Sun, 24 Nov 2024 19:22:29 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4166/</guid>
+        <description>&lt;p&gt;iTubeGo是一款功能强大的多媒体下载和转换软件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/24/L59h1gBajwCN4TV.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持下载各种视频格式：iTubeGo 支持下载高清和超高清视频，包括4K、8K、1080P、720P等多种视频格式。
+批量下载视频和音乐：可以批量下载视频和音乐，方便快捷。
+转换视频格式：支持将下载的视频和音乐转换为不同的音频和视频格式，如MP4、MP3、AVI、MOV等。
+提供浏览器插件：提供浏览器插件，方便用户直接在浏览器上下载在线视频。
+内置视频编辑工具：内置视频编辑工具，可以裁剪、剪辑和调整视频效果。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观：iTubeGo 的界面设计简洁直观，操作方便易上手。
+高速下载：支持多线程下载，下载速度快，节省用户时间。
+高质量输出：下载的视频和音乐质量高，保证用户观看和听歌体验。
+兼容性强：支持多种视频和音频格式，适用于不同设备和平台。
+安全可靠：软件安全可靠，无广告插件，用户可以放心使用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCT6akfYSdXJngLZB9ywLoxA1?pwd=b5rx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCT6akfYSdXJngLZB9ywLoxA1?pwd=b5rx&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AB Download Manager(下载管理工具) v1.4.3 中文绿色版</title>
+        <link>https://www.danlong360.com/post/68885/</link>
+        <pubDate>Sun, 24 Nov 2024 19:15:29 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/68885/</guid>
+        <description>&lt;p&gt;AB Download Manager 是一款功能强大且用户友好的下载管理工具，它提供了丰富的下载管理和优化功能，帮助用户高效地下载和管理互联网资源。AB Download Manager 特别适合需要频繁下载文件的用户，如学生、研究人员和下载爱好者。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/24/ZebAO6fgT1Pkzsi.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载管理：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;多任务下载：支持同时下载多个文件，提高下载效率。
+暂停和恢复：支持暂停和恢复下载功能，用户可以在需要时停止下载并在稍后继续。
+断点续传：支持断点续传功能，如果下载中断，可以从断点处继续下载，避免重新开始。
+下载队列：支持下载队列管理，用户可以安排多个下载任务按顺序执行。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;下载优化：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;多线程下载：支持多线程下载功能，利用多线程技术提高下载速度。
+带宽控制：支持带宽控制功能，用户可以设置下载速度上限，避免影响其他网络活动。
+文件校验：支持文件校验功能，确保下载文件的完整性和准确性。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;文件管理：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文件分类：支持文件分类功能，用户可以将下载的文件按类别进行管理。
+文件预览：支持文件预览功能，用户可以快速查看下载文件的内容。
+文件搜索：支持文件搜索功能，用户可以快速查找已下载的文件。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;下载调度：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;定时下载：支持定时下载功能，用户可以设置在特定时间自动开始下载任务。
+计划任务：支持计划任务功能，用户可以安排定期下载任务，如每天或每周下载特定文件。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;浏览器集成：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;浏览器插件：提供浏览器插件，支持 Chrome、Firefox 等主流浏览器，用户可以一键将下载链接发送到 AB Download Manager。
+下载链接捕获：支持下载链接捕获功能，自动检测网页中的下载链接并添加到下载列表。&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;其他工具：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文件转换：支持文件转换功能，用户可以将下载的文件转换为其他格式。
+文件修复：支持文件修复功能，用户可以尝试修复损坏的下载文件。
+日志记录：支持日志记录功能，用户可以查看和记录下载任务的历史记录。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多功能集成：集成了下载管理、优化、文件管理和调度等多种功能，用户无需在多个工具之间切换。
+高效下载：采用多线程技术和断点续传功能，确保高效的下载速度和可靠性。
+带宽控制：支持带宽控制功能，用户可以设置下载速度上限，避免影响其他网络活动。
+文件分类：支持文件分类功能，用户可以将下载的文件按类别进行管理。
+定时任务：支持定时下载和计划任务功能，用户可以安排定期下载任务。
+浏览器集成：提供浏览器插件，支持主流浏览器，方便用户一键添加下载链接。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCT5sVLbuB5DdkNAEb9tOWDA1?pwd=g763&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCT5sVLbuB5DdkNAEb9tOWDA1?pwd=g763&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>4K Downloader(高清4K视频下载软件) v5.12.0 便携版</title>
         <link>https://www.danlong360.com/post/57104/</link>
         <pubDate>Sat, 23 Nov 2024 12:52:13 +0800</pubDate>

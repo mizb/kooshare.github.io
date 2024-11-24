@@ -7,7 +7,103 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 22 Nov 2024 20:40:32 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 24 Nov 2024 20:31:32 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows 11 24H2 Build 26100.2454 RTM</title>
+        <link>https://www.danlong360.com/post/426/</link>
+        <pubDate>Sun, 24 Nov 2024 20:31:32 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/426/</guid>
+        <description>&lt;p&gt;微软Win11系统下载,微软Win11 24H2正式版,微软Win11 Build 26100正式版,微软Windows 11 24H2正式版,Windows 11 24H2官方正式版首个初始版的微软原版ISO镜像于2024年10月推出,系统版本为24H2,OS内部版本为26100&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/24/E2KwC9Hd8VAmaZP.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Windows 11 - 版本信息 | Microsoft Docs
+&lt;a class=&#34;link&#34; href=&#34;https://docs.microsoft.com/zh-cn/windows/release-health/windows11-release-information&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.microsoft.com/zh-cn/windows/release-health/windows11-release-information&lt;/a&gt;
+2024年11月累积更新(KB5046740) Windows 11 version 24H2(OS build 26100.2454) Update
+&lt;a class=&#34;link&#34; href=&#34;https://support.microsoft.com/zh-cn/help/5046740&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/zh-cn/help/5046740&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;[Windows 11 GE-24H2]26100.2454 原版集成映像 24年11月第2次更新 - ananhaid&lt;/p&gt;
+&lt;p&gt;● 14合1：直接选取所需版本即可安装，也支持安装之后使用其他密钥转换版本，包含版本为：
+﹂家庭版、专业版、企业版、教育版、专业工作站版、专业教育版、家庭单语言版、家庭中文版
+﹂企业版多会话、IoT 企业版、IoT 企业版订阅、SE版、专业单语言版、专业中文版(总共14个版)&lt;/p&gt;
+&lt;p&gt;- 这里发布的是官方MSVS渠道版前面8个版+转换后的6个版，总共14个集成发布
+- 没有添加任何三方数据，母盘选用的GE-24H2（26100.1742)官方ISO镜像制作
+- 使用工具只有DISM，没有删减任何内容，完全原版。系统镜像ESD格式生成ISO&lt;/p&gt;
+&lt;p&gt;● 集成功能：
+.net framework 3.5&lt;/p&gt;
+&lt;p&gt;● 集成补丁：
+KB5043080（24年9月检查点累积更新 26100.1742）
+KB5046740（24年11月累积更新 26100.2454）（11月22日）
+KB5048162（24年11月 .net 累积更新）（11月22日）&lt;/p&gt;
+&lt;p&gt;集成库文件（微软修复映像错误之前会一直提供）：
+官方 VP9VideoExtensions 库文件，修复设置-&amp;gt;应用-&amp;gt;视频播放中的预览错误。&lt;/p&gt;
+&lt;p&gt;原版 ISO 内置的密钥无改动，有数字权利的安装之后记得改成公共密钥（\sources\product.ini）
+关于品牌机，为了跳过读取板载随机附送操作系统版本从而没有版本选择，已在 sources 目录内添加 ei.cfg 文件，比如机器默认为家庭中文版，全新安装会时会有选择版本菜单。如有其他需求请网络搜索。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCTCUyJkJydtcdDJ2F5awUvA1?pwd=f27d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCTCUyJkJydtcdDJ2F5awUvA1?pwd=f27d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows 11 LTSC 2024 Build 26100.2454</title>
+        <link>https://www.danlong360.com/post/60248/</link>
+        <pubDate>Sun, 24 Nov 2024 20:30:11 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/60248/</guid>
+        <description>&lt;p&gt;微软Win11LTSC2024最新版,微软Win11 LTSC 24H2下载,Windows 11 LTSC 24H2系统Win11 Build 26100累积更新.Windows 11企业版LTSC版堪称官方Win11精简版,相对普通企业版,不会获得新增功能仅提供安全更新,可以控制升级.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/24/tmfhFQAPIHVWdRv.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Windows 11 - 版本信息 | Microsoft Docs
+&lt;a class=&#34;link&#34; href=&#34;https://learn.microsoft.com/zh-cn/windows/release-health/windows11-release-information&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://learn.microsoft.com/zh-cn/windows/release-health/windows11-release-information&lt;/a&gt;
+2024年11月累积更新(KB5046740) Windows 11 version 24H2(OS build 26100.2454) Update
+&lt;a class=&#34;link&#34; href=&#34;https://support.microsoft.com/zh-cn/help/5046740&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/zh-cn/help/5046740&lt;/a&gt;
+Win11企业版2024长期服务版 (Windows 11 IoT Enterprise 2024 LTSC) 提供长期支持至2038年
+它相当于就是官方Win11精简版，稳定流畅，对电脑硬件配置要求较低，可以用数字权利永久激活。
+LTSC版本无应用商店、无微软小娜，无OneDriver、Windows更新提供高级设置可选安装更新方式。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;[Windows 11 LTSC 2024]26100.2454 原版集成映像 24年11月第2次更新 - ananhaid&lt;/p&gt;
+&lt;p&gt;3合1（官方“1个”加转换“2个”）：直接选取所需版本即可安装，也支持安装之后使用其他密钥转换版本，
+包含版本：Windows 11 企业版 LTSC/ Windows 11 IoT 企业版 LTSC/ Windows 11 IoT 企业版订阅 LTSC&lt;/p&gt;
+&lt;p&gt;- 这里发布的是官方MSVS渠道版前面1个版+转换后的2个版，总共3个集成发布！
+- 没有添加任何三方数据，母盘选用的LTSC 2024(26100.1742)官方ISO镜像制作
+- 使用工具只有DISM，没有删减任何内容，完全原版。系统镜像ESD格式生成ISO&lt;/p&gt;
+&lt;p&gt;● 集成功能：
+.net framework 3.5&lt;/p&gt;
+&lt;p&gt;● 集成补丁：
+KB5043080（24年9月检查点累积更新 26100.1742）
+KB5046740（24年11月累积更新 26100.2454）（11月22日）
+KB5048162（24年11月 .net 累积更新）（11月22日）&lt;/p&gt;
+&lt;p&gt;集成库文件（微软修复映像错误之前会一直提供）：
+官方 VP9VideoExtensions 库文件，修复设置-&amp;gt;应用-&amp;gt;视频播放中的预览错误。&lt;/p&gt;
+&lt;p&gt;原版 ISO 内置的密钥无改动，有数字权利的安装之后记得改成公共密钥（\sources\product.ini）
+关于品牌机，为了跳过读取板载随机附送操作系统版本从而没有版本选择，已在 sources 目录内添加 ei.cfg 文件，比如机器默认为家庭中文版，全新安装会时会有选择版本菜单。如有其他需求请网络搜索。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCTCSADFJhfoovIPrJD2jxPA1?pwd=gini&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCTCSADFJhfoovIPrJD2jxPA1?pwd=gini&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>不忘初心 Windows11 LTSC2024 24H2 (26100.2314) x64 精简 游戏版 无更新 (2024.11.19) 正式版，推荐用于 游戏、办公、直播</title>
         <link>https://www.danlong360.com/post/45295/</link>
         <pubDate>Fri, 22 Nov 2024 20:40:32 +0800</pubDate>
