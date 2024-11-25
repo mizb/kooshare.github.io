@@ -7,7 +7,545 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 25 Nov 2024 18:15:31 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%AF%BE%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 25 Nov 2024 21:29:51 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%AF%BE%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>新版Linux C C&#43;&#43;高级全栈开发（后端/游戏-/嵌入式/高性能网络/存储/基础架构</title>
+        <link>https://www.danlong360.com/post/44138/</link>
+        <pubDate>Mon, 25 Nov 2024 21:29:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/44138/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/25/VvnrhbZMTzS5foP.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Linux C C&amp;#43;&amp;#43;高级全栈开发（后端-游戏-嵌入式-高性能网络-存储-基础架构）&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;本套课程Linux C/C++高级全栈开发（后端/游戏/嵌入式/高性能网络/存储/基础架构），课程官方售价8580元，内容共118节，仅包含视频暂无资料，共计70.29G。文章底部附下载地址。&lt;/p&gt;
+&lt;h3 id=&#34;课程文件目录&#34;&gt;课程文件目录
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;1 60分钟全面分析linuxcc++ 学习路线（含就业岗位，工作场景，详细技术）.mp4&lt;/p&gt;
+&lt;p&gt;2 2.2.2 posix api与网络协议栈(1).mp4&lt;/p&gt;
+&lt;p&gt;3 2.2.2 posix api与网络协议栈(2).mp4&lt;/p&gt;
+&lt;p&gt;4 1.1.1随处可见的红黑树.mp4&lt;/p&gt;
+&lt;p&gt;5 1.1.2磁盘存储链式的b树与b+树.mp4&lt;/p&gt;
+&lt;p&gt;6 1.1.3海量数据去重的hash与bloomfilter.mp4&lt;/p&gt;
+&lt;p&gt;7 1.2.1创建型设计模式.mp4&lt;/p&gt;
+&lt;p&gt;8 1.2.2结构型设计模式.mp4&lt;/p&gt;
+&lt;p&gt;9 1.3.1stl容器，智能指针，正则表达式.mp4&lt;/p&gt;
+&lt;p&gt;10 1.3.2新特性的线程协程.mp4&lt;/p&gt;
+&lt;p&gt;11 1.4.1makefile_cmake_configure.mp4&lt;/p&gt;
+&lt;p&gt;12 1.4.2分布式版本控制 git.mp4&lt;/p&gt;
+&lt;p&gt;13 1.4.3linux系统运行时参数命令.mp4&lt;/p&gt;
+&lt;p&gt;14 2.1.1 网络io与io多路复用selectpollepoll.mp4&lt;/p&gt;
+&lt;p&gt;15 2.1.2 事件驱动reactor的原理与实现.mp4&lt;/p&gt;
+&lt;p&gt;16 2.1.3 http服务器的实现.mp4&lt;/p&gt;
+&lt;p&gt;17 2.2.1 服务器百万并发实现.mp4&lt;/p&gt;
+&lt;p&gt;18 2.2.2 posix api与网络协议栈.mp4&lt;/p&gt;
+&lt;p&gt;19 2.2.3 udp的可靠传输协议quic.mp4&lt;/p&gt;
+&lt;p&gt;20 2.3.1 协程设计原理与汇编实现.mp4&lt;/p&gt;
+&lt;p&gt;21 2.3.2 协程调度器实现与性能测试.mp4&lt;/p&gt;
+&lt;p&gt;22 2.4.1 用户态协议栈设计实现.mp4&lt;/p&gt;
+&lt;p&gt;23 2.4.2 应用层posix api的具体实现.mp4&lt;/p&gt;
+&lt;p&gt;24 2.4.3 手把手设计实现epoll.mp4&lt;/p&gt;
+&lt;p&gt;25 2.5.1 与epoll媲美的io_uring_.mp4&lt;/p&gt;
+&lt;p&gt;26 2.5.2 io_uring的使用场景.mp4&lt;/p&gt;
+&lt;p&gt;27 9.1.1 kv存储的架构设计.mp4&lt;/p&gt;
+&lt;p&gt;28 9.1.2 网络同步与事务序列化.mp4&lt;/p&gt;
+&lt;p&gt;29 9.1.3 内存池的使用与lru的实现.mp4&lt;/p&gt;
+&lt;p&gt;30 9.1.4 kv存储的性能测试.mp4&lt;/p&gt;
+&lt;p&gt;31 3.1.1 手写线程池与性能分析.mp4&lt;/p&gt;
+&lt;p&gt;32 3.1.2 内存池的实现与场景分析.mp4&lt;/p&gt;
+&lt;p&gt;33 3.1.3 mysql连接池的实现.mp4&lt;/p&gt;
+&lt;p&gt;34 3.2.1 原子操作cas与锁实现.mp4&lt;/p&gt;
+&lt;p&gt;35 3.2.2 无锁消息队列实现（项目）.mp4&lt;/p&gt;
+&lt;p&gt;36 3.2.3 网络缓冲区设计.mp4&lt;/p&gt;
+&lt;p&gt;37 3.2.4 定时器方案红黑树，时间轮，最小堆.mp4&lt;/p&gt;
+&lt;p&gt;38 3.2.5 手写死锁检测组件.mp4&lt;/p&gt;
+&lt;p&gt;39 3.2.6 手写内存泄漏检测组件.mp4&lt;/p&gt;
+&lt;p&gt;40 3.2.7 手把手实现分布式锁.mp4&lt;/p&gt;
+&lt;p&gt;41 3.3.1 异步日志方案spdlog.mp4&lt;/p&gt;
+&lt;p&gt;42 3.3.2 应用层协议设计protobuf.mp4&lt;/p&gt;
+&lt;p&gt;43 9.5.1 网络模块实现.mp4&lt;/p&gt;
+&lt;p&gt;44 9.5.2 地图模块实现.mp4&lt;/p&gt;
+&lt;p&gt;45 9.5.3 战斗模块实现.mp4&lt;/p&gt;
+&lt;p&gt;46 9.5.4 trinitycore 玩法实现.mp4&lt;/p&gt;
+&lt;p&gt;47 4.1.1 redis相关命令详解及其原理.mp4&lt;/p&gt;
+&lt;p&gt;48 4.1.2 redis协议与异步方式.mp4&lt;/p&gt;
+&lt;p&gt;49 4.1.3 存储原理与数据模型.mp4&lt;/p&gt;
+&lt;p&gt;50 4.1.4 主从同步与对象模型.mp4&lt;/p&gt;
+&lt;p&gt;51 4.2.1 sql语句，索引，视图，存储过程，触发器.mp4&lt;/p&gt;
+&lt;p&gt;52 4.2.2 mysql索引原理以及sql优化.mp4&lt;/p&gt;
+&lt;p&gt;53 4.2.3 mysql事务原理分析.mp4&lt;/p&gt;
+&lt;p&gt;54 4.2.4 mysql缓存策略.mp4&lt;/p&gt;
+&lt;p&gt;55 9.2.1 fastdfs架构分析和配置.mp4&lt;/p&gt;
+&lt;p&gt;56 9.2.2 文件传输和接口设计.mp4&lt;/p&gt;
+&lt;p&gt;57 9.2.3 容器化docker部署.mp4&lt;/p&gt;
+&lt;p&gt;58 9.2.4 产品上云公网发布测试用例.mp4&lt;/p&gt;
+&lt;p&gt;59 4.3.1kafka使用场景与设计原理.mp4&lt;/p&gt;
+&lt;p&gt;60 4.3.2kafka存储机制.mp4&lt;/p&gt;
+&lt;p&gt;61 4.4.1grpc的内部组件关联.mp4&lt;/p&gt;
+&lt;p&gt;62 4.4.2基于http2的grpc通信协议.mp4&lt;/p&gt;
+&lt;p&gt;63 grpc1-服务器编写.mp4&lt;/p&gt;
+&lt;p&gt;64 grpc2-客户端编写.mp4&lt;/p&gt;
+&lt;p&gt;65 grpc3-异步服务器编写.mp4&lt;/p&gt;
+&lt;p&gt;66 4.5.1nginx反向代理与系统参数配置conf原理.mp4&lt;/p&gt;
+&lt;p&gt;67 4.5.2 nginx过滤器模块实现(1).mp4&lt;/p&gt;
+&lt;p&gt;68 4.5.2 nginx过滤器模块实现(2).mp4&lt;/p&gt;
+&lt;p&gt;69 4.5.3 nginx handler模块实现(1).mp4&lt;/p&gt;
+&lt;p&gt;70 4.5.3 nginx handler模块实现(2).mp4&lt;/p&gt;
+&lt;p&gt;71 5.1.1skynet设计原理.mp4&lt;/p&gt;
+&lt;p&gt;72 5.1.2 skynet网络层封装以及luac.mp4&lt;/p&gt;
+&lt;p&gt;73 5.1.3 skynet重要组件以及手撕游戏项目.mp4&lt;/p&gt;
+&lt;p&gt;74 5.2.1 高性能web网关 openresty.mp4&lt;/p&gt;
+&lt;p&gt;75 5.2.2 kong 动态负载均衡与服务发现.mp4&lt;/p&gt;
+&lt;p&gt;76 5.3.1 spdk文件系统设计与实现.mp4&lt;/p&gt;
+&lt;p&gt;77 5.3.2 文件系统的posix api实现.mp4&lt;/p&gt;
+&lt;p&gt;78 5.3.3 文件系统的性能测试与承接mysql业务.mp4&lt;/p&gt;
+&lt;p&gt;79 5.4.1gpu并行计算cuda的开发流程.mp4&lt;/p&gt;
+&lt;p&gt;80 5.4.2音视频编解码中的并行计算.mp4&lt;/p&gt;
+&lt;p&gt;81 5.5.1 workflow的应用场景.mp4&lt;/p&gt;
+&lt;p&gt;82 5.5.2 workflow的组件实现.mp4&lt;/p&gt;
+&lt;p&gt;83 5.6.1 mqtt的高效使用场景.mp4&lt;/p&gt;
+&lt;p&gt;84 5.6.2 mqtt的broker.mp4&lt;/p&gt;
+&lt;p&gt;85 6.1.1 docker风光下的内核功能.mp4&lt;/p&gt;
+&lt;p&gt;86 6.1.2 docker容器管理与镜像操作.mp4&lt;/p&gt;
+&lt;p&gt;87 6.1.3. docker网络管理.mp4&lt;/p&gt;
+&lt;p&gt;88 6.1.4. docker云与容器编排.mp4&lt;/p&gt;
+&lt;p&gt;89 6.2.1k8s环境搭建.mp4&lt;/p&gt;
+&lt;p&gt;90 6.2.2pod与service的用法.mp4&lt;/p&gt;
+&lt;p&gt;91 6.2.3 k8s集群管理的那些事儿.mp4&lt;/p&gt;
+&lt;p&gt;92 6.2.4 k8s二次开发与k8s api.mp4&lt;/p&gt;
+&lt;p&gt;93 7.1.1测试框架gtest以及内存泄露检测.mp4&lt;/p&gt;
+&lt;p&gt;94 7.1.2 性能工具与性能分析.mp4&lt;/p&gt;
+&lt;p&gt;95 7.1.3 火焰图的生成原理与构建方式.mp4&lt;/p&gt;
+&lt;p&gt;96 9.3.1 im即时通讯项目框架分析和部署.mp4&lt;/p&gt;
+&lt;p&gt;97 9.3.2 im消息服务器文件传输服务器.mp4&lt;/p&gt;
+&lt;p&gt;98 9.3.3 消息服务器路由服务器.mp4&lt;/p&gt;
+&lt;p&gt;99 9.3.4 数据库代理服务器设计.mp4&lt;/p&gt;
+&lt;p&gt;100 9.3.5 文件服务器和docker部署.mp4&lt;/p&gt;
+&lt;p&gt;101 9.3.6 产品上云公网发布公网测试上线.mp4&lt;/p&gt;
+&lt;p&gt;102 7.2.1 内核bpf的实现原理.mp4&lt;/p&gt;
+&lt;p&gt;103 7.2.2 bpf对内核功能的观测.mp4&lt;/p&gt;
+&lt;p&gt;104 7.3.1 进程调度机制哪些事儿.mp4&lt;/p&gt;
+&lt;p&gt;105 7.3.2 内核内存管理运行机制.mp4&lt;/p&gt;
+&lt;p&gt;106 7.3.3 文件系统组件.mp4&lt;/p&gt;
+&lt;p&gt;107 8.1.1 不一样的kv存储rocksdb的使用场景.mp4&lt;/p&gt;
+&lt;p&gt;108 8.1.2 tidb存储引擎的原理.mp4&lt;/p&gt;
+&lt;p&gt;109 8.1.3tidb集群方案与replication原理.mp4&lt;/p&gt;
+&lt;p&gt;110 8.2.1 内核级支持的分布式存储ceph.mp4&lt;/p&gt;
+&lt;p&gt;111 8.2.2-1 docker安装ceph分布式存储系统(高可用).mp4&lt;/p&gt;
+&lt;p&gt;112 8.2.2-2 分布式ceph存储集群部署.mp4&lt;/p&gt;
+&lt;p&gt;113 8.3.1 注册服务中心etcd.mp4&lt;/p&gt;
+&lt;p&gt;114 8.3.2 协同事件 用户态文件系统 fuse.mp4&lt;/p&gt;
+&lt;p&gt;115 8.3.3快播核心技术揭秘 p2p框架的实现.mp4&lt;/p&gt;
+&lt;p&gt;116 9.4.1 ai助手架构设计与需求分析.mp4&lt;/p&gt;
+&lt;p&gt;117 还认为简历不重要么，6个简历书写的关键点，让你面试准备有方向.mp4&lt;/p&gt;
+&lt;p&gt;118 c++后端简历如何写？还在纠结业务太多，没有技术含量么？.mp4&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;课程下载&#34;&gt;课程下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/82e70934f56a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/82e70934f56a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>稳定器商业拍摄从0到1【基础&#43;进阶&#43;实战案例】</title>
+        <link>https://www.danlong360.com/post/14306/</link>
+        <pubDate>Mon, 25 Nov 2024 21:21:42 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/14306/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/25/N7wYFWfsZR5CmBr.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;课程简介&#34;&gt;课程简介
+&lt;/h3&gt;&lt;p&gt;基础操作+实战案例（花絮+成片）技术+经验+思维+1对1指导&lt;/p&gt;
+&lt;h3 id=&#34;课程下载&#34;&gt;课程下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6508eeb8698f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6508eeb8698f&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>鲁迅人生哲学：助年轻人摆脱迷茫与困顿</title>
+        <link>https://www.danlong360.com/post/95411/</link>
+        <pubDate>Mon, 25 Nov 2024 21:20:55 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/95411/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/25/7oOMr45jPaKngJx.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;课程简介&#34;&gt;课程简介
+&lt;/h3&gt;&lt;p&gt;鲁迅的哲学锦囊，给年轻人的实用指南。&lt;/p&gt;
+&lt;h3 id=&#34;课程下载&#34;&gt;课程下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/ed7812dc2801&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/ed7812dc2801&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>CMake构建大型c&#43;&#43;项目，视频&#43;课件资料</title>
+        <link>https://www.danlong360.com/post/60955/</link>
+        <pubDate>Mon, 25 Nov 2024 19:53:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/60955/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/25/M16NQjB7UXnGIDs.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;CMake构建大型c&amp;#43;&amp;#43;项目 &#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;本套课程CMake构建大型c++项目，课程官方售价799元，由夏曹俊老师主讲，共10章，包含课程课件资料，共计7.93G。文章底部附下载地址。&lt;/p&gt;
+&lt;h3 id=&#34;课程文件目录&#34;&gt;课程文件目录
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;第1章 cmake快速入门篇&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1-1 cmake课程介绍 .mp4&lt;/p&gt;
+&lt;p&gt;1-10 macos_cmake安装源码编译 .mp4&lt;/p&gt;
+&lt;p&gt;1-11 fist_cmake第一个cmakelists.txt示例 .mp4&lt;/p&gt;
+&lt;p&gt;1-12 windows下用vs2022编译第一个cmakelis .mp4&lt;/p&gt;
+&lt;p&gt;1-13 windwos下用cmake生成nmake的项目并编译 .mp4&lt;/p&gt;
+&lt;p&gt;1-14 linux和macos下编译第一个cmake c++项目 .mp4&lt;/p&gt;
+&lt;p&gt;1-15 编译cmake库的前置准备和静态库的实战原理分析 .mp4&lt;/p&gt;
+&lt;p&gt;1-16 动态库原理和头文件作用 .mp4&lt;/p&gt;
+&lt;p&gt;1-17 cmake静态库xlog跨平台编译windows、lin .mp4&lt;/p&gt;
+&lt;p&gt;1-18 cmake 链接静态库 .mp4&lt;/p&gt;
+&lt;p&gt;1-19 cmake 动态库编译和链接linux .mp4&lt;/p&gt;
+&lt;p&gt;1-2 第一章介绍 .mp4&lt;/p&gt;
+&lt;p&gt;1-20 cmake动态库windows和mac测试 .mp4&lt;/p&gt;
+&lt;p&gt;1-3 cmake是什么为什么要好的构建工具 .mp4&lt;/p&gt;
+&lt;p&gt;1-4 什么是持续集成 .mp4&lt;/p&gt;
+&lt;p&gt;1-5 为什么用cmake及它的特性 .mp4&lt;/p&gt;
+&lt;p&gt;1-6 cmake工作原理图解分析 .mp4&lt;/p&gt;
+&lt;p&gt;1-7 cmake源码linux_ubuntu_编译安装 .mp4&lt;/p&gt;
+&lt;p&gt;1-8 cmake windows安装二进制版本 .mp4&lt;/p&gt;
+&lt;p&gt;1-9 windows下使用cmake编译cmake源码并安装 .mp4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第2章 cmake常用功能&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2-1 第二章介绍 .mp4&lt;/p&gt;
+&lt;p&gt;2-10 cmake自动载入项目源码文件 .mp4&lt;/p&gt;
+&lt;p&gt;2-11 cmake file自动导入头文件到项目 .mp4&lt;/p&gt;
+&lt;p&gt;2-12 cmake分步编译和清理指定target目标 .mp4&lt;/p&gt;
+&lt;p&gt;2-13 cmake调试打印生成的具体指令 .mp4&lt;/p&gt;
+&lt;p&gt;2-14 cmake设置输出路径跨平台演示分析 .mp4&lt;/p&gt;
+&lt;p&gt;2-15 cmake add_subdirectory .mp4&lt;/p&gt;
+&lt;p&gt;2-2 cmake注释和message基础 .mp4&lt;/p&gt;
+&lt;p&gt;2-3 cmake message高级使用-指定日志级别 .mp4&lt;/p&gt;
+&lt;p&gt;2-4 cmake message日志级别代码演示和重定到文件 .mp4&lt;/p&gt;
+&lt;p&gt;2-5 cmake message 模块查找日志和显示缩进 .mp4&lt;/p&gt;
+&lt;p&gt;2-6 cmake set变量入门和示例 .mp4&lt;/p&gt;
+&lt;p&gt;2-7 cmake 变量示例设置message消息颜色 .mp4&lt;/p&gt;
+&lt;p&gt;2-8 cmake自带的四种变量和给c++传递变量演示 .mp4&lt;/p&gt;
+&lt;p&gt;2-9 cmake include分析和示例 .mp4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第3章 cmake主要语法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;3-1 第三章介绍 .mp4&lt;/p&gt;
+&lt;p&gt;3-10 cache覆盖策略设置cmake_policy .mp4&lt;/p&gt;
+&lt;p&gt;3-11 cmake命令 传递缓存变量 .mp4&lt;/p&gt;
+&lt;p&gt;3-12 cmake 属性说明set_property .mp4&lt;/p&gt;
+&lt;p&gt;3-13 cmake全局属性和append_string get_ .mp4&lt;/p&gt;
+&lt;p&gt;3-14 cmake define_property属性说明设置和 .mp4&lt;/p&gt;
+&lt;p&gt;3-15 cmake文件属性和给c++传递预处理变量示例 .mp4&lt;/p&gt;
+&lt;p&gt;3-16 cmake目标属性设置给c++传递多个宏 .mp4&lt;/p&gt;
+&lt;p&gt;3-17 cmake属性调试cmake_print_propert .mp4&lt;/p&gt;
+&lt;p&gt;3-18 cmake env环境变量实战 .mp4&lt;/p&gt;
+&lt;p&gt;3-19 cmake math数学计算 .mp4&lt;/p&gt;
+&lt;p&gt;3-2 cmake if语法说明与常量判断代码演示 .mp4&lt;/p&gt;
+&lt;p&gt;3-20 cmake string查找和字串相关处理 .mp4&lt;/p&gt;
+&lt;p&gt;3-22 cmake string json增删改 .mp4&lt;/p&gt;
+&lt;p&gt;3-23 cmake list追加、读取和拼接 .mp4&lt;/p&gt;
+&lt;p&gt;3-24 cmake list子数组和查找删除插入修改 .mp4&lt;/p&gt;
+&lt;p&gt;3-25 cmake list双向队列操作和排序 .mp4&lt;/p&gt;
+&lt;p&gt;3-26 cmake foreach遍历range .mp4&lt;/p&gt;
+&lt;p&gt;3-27 cmake foreach遍历list和break() .mp4&lt;/p&gt;
+&lt;p&gt;3-28 cmake while循环 .mp4&lt;/p&gt;
+&lt;p&gt;3-29 cmake macro宏原理接口分析 .mp4&lt;/p&gt;
+&lt;p&gt;3-3 cmake if 变量和字符串判断代码演示 .mp4&lt;/p&gt;
+&lt;p&gt;3-30 cmake macro参数传递 .mp4&lt;/p&gt;
+&lt;p&gt;3-31 cmake_parse_arguments宏传递属性类 .mp4&lt;/p&gt;
+&lt;p&gt;3-32 cmake function函数演示 .mp4&lt;/p&gt;
+&lt;p&gt;3-33 cmake函数和变量的作用域演示 .mp4&lt;/p&gt;
+&lt;p&gt;3-4 cmake if逻辑运算符 .mp4&lt;/p&gt;
+&lt;p&gt;3-5 cmake if一元、二元比较和正则匹配 .mp4&lt;/p&gt;
+&lt;p&gt;3-6 cmake cache缓存变量设置 .mp4&lt;/p&gt;
+&lt;p&gt;3-7 cmake普通变量和全局cache变量作用域测试 .mp4&lt;/p&gt;
+&lt;p&gt;3-8 cmake-gui与cache缓存变量的各种类型 .mp4&lt;/p&gt;
+&lt;p&gt;3-9 ccmake用户修改配置和option .mp4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第4章 cmake生成表达式和文件操作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;4-1 第四章介绍 .mp4&lt;/p&gt;
+&lt;p&gt;4-2 cmake 生成表达式讲解和应用场景分析 .mp4&lt;/p&gt;
+&lt;p&gt;4-3 cmake条件表达式和逻辑表达式示例 .mp4&lt;/p&gt;
+&lt;p&gt;4-4 cmake生成表达式的两种调试方法（重要） .mp4&lt;/p&gt;
+&lt;p&gt;4-5 cmake字符串比较表达式和条件表达式 .mp4&lt;/p&gt;
+&lt;p&gt;4-6 cmakes生成表达式目标相关查询 .mp4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第5章 cmake跨平台c++编译特性设置&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;5-1 第五章介绍 .mp4&lt;/p&gt;
+&lt;p&gt;5-10 cmake linux下配置debug和release .mp4&lt;/p&gt;
+&lt;p&gt;5-11 cmake windows下配置debug和releas .mp4&lt;/p&gt;
+&lt;p&gt;5-12 cmake动态库跨平台debug和release不同输出 .mp4&lt;/p&gt;
+&lt;p&gt;5-13 cmake_vs_pdb文件输出配置 .mp4&lt;/p&gt;
+&lt;p&gt;5-14 vs的debug和release设置不同的调试工作路径 .mp4&lt;/p&gt;
+&lt;p&gt;5-15 cmake vs设置运行时库md_mtd .mp4&lt;/p&gt;
+&lt;p&gt;5-16 vs的souce_group代码分组显示 .mp4&lt;/p&gt;
+&lt;p&gt;5-2 target_include_directories包含 .mp4&lt;/p&gt;
+&lt;p&gt;5-3 public_interface依赖传递头文件引用路径 .mp4&lt;/p&gt;
+&lt;p&gt;5-4 target_link_libraries和属性的原生调 .mp4&lt;/p&gt;
+&lt;p&gt;5-5 target_compile_definitions演示 .mp4&lt;/p&gt;
+&lt;p&gt;5-6 target_compile_features .mp4&lt;/p&gt;
+&lt;p&gt;5-7 cmake编译和链接object文件 .mp4&lt;/p&gt;
+&lt;p&gt;5-8 cmake动态库的生成版本号符号链接 .mp4&lt;/p&gt;
+&lt;p&gt;5-9 cmake_debug_release配置说明 .mp4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第6章 cmake install部署项目&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;6-1 第六章介绍 .mp4&lt;/p&gt;
+&lt;p&gt;6-10 cmake find_package 分析 .mp4&lt;/p&gt;
+&lt;p&gt;6-11 cmake install export自定义pack .mp4&lt;/p&gt;
+&lt;p&gt;6-12 find_package自定义package .mp4&lt;/p&gt;
+&lt;p&gt;6-13 多版本自定义package共存 .mp4&lt;/p&gt;
+&lt;p&gt;6-2 cmake install功能说明和测试项目代码准备 .mp4&lt;/p&gt;
+&lt;p&gt;6-3 cmake 第一个install示例多平台演示部署 .mp4&lt;/p&gt;
+&lt;p&gt;6-4 cmake install动态静态库和头文件安装路径设置 .mp4&lt;/p&gt;
+&lt;p&gt;6-5 cmake install debug和release版 .mp4&lt;/p&gt;
+&lt;p&gt;6-6 cmake install 文件按类型发布和权限设置 .mp4&lt;/p&gt;
+&lt;p&gt;6-7 cmake install目录过滤git和指定后缀文件 .mp4&lt;/p&gt;
+&lt;p&gt;6-8 cmake install code安装期间执行代码 .mp4&lt;/p&gt;
+&lt;p&gt;6-9 cmake install分组安装 .mp4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第7章 cmake 交叉编译&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;7-1 第七章介绍 .mp4&lt;/p&gt;
+&lt;p&gt;7-2 cmake 交叉编译分析和测试代码准备 .mp4&lt;/p&gt;
+&lt;p&gt;7-3 cmake交叉编译linux arm开发板程序 .mp4&lt;/p&gt;
+&lt;p&gt;7-4 cmake交叉使用ndk交叉编译安卓静态库 .mp4&lt;/p&gt;
+&lt;p&gt;7-5 导入cmake编译的库到安卓项目并支持多abi .mp4&lt;/p&gt;
+&lt;p&gt;7-6 创建并分析鸿蒙ets的c++native项目 .mp4&lt;/p&gt;
+&lt;p&gt;7-7 cmake编译鸿蒙hap应用的c++库 .mp4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第8章 cmake单元测试&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;8-1 第八章介绍 .mp4&lt;/p&gt;
+&lt;p&gt;8-2 cmake_ctest单元测试分析和测试示例 .mp4&lt;/p&gt;
+&lt;p&gt;8-3 使用cmake的fetch自动下载编译googlete .mp4&lt;/p&gt;
+&lt;p&gt;8-4 建立第一个cmake调用googletest的示例 .mp4&lt;/p&gt;
+&lt;p&gt;8-5 cmake解压编译安装gtest并测试 .mp4&lt;/p&gt;
+&lt;p&gt;8-6 googletest完整单元测试test_f .mp4&lt;/p&gt;
+&lt;p&gt;8-7 解决googletest在vs上运行时库不一致问题 .mp4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第9章 cmake实战开源项目xcpp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;9-1 第九章介绍 .mp4&lt;/p&gt;
+&lt;p&gt;9-10 xthread_pool库和样例加入项目配置 .mp4&lt;/p&gt;
+&lt;p&gt;9-11 cmake同时编译四个项目并添加依赖关系 .mp4&lt;/p&gt;
+&lt;p&gt;9-12 完成xlog和xthread_pool单元测试 .mp4&lt;/p&gt;
+&lt;p&gt;9-2 cmake实战开源项目cmake配置需求分析 .mp4&lt;/p&gt;
+&lt;p&gt;9-3 xlog库项目配置项目源码头文件和静态库宏传递 .mp4&lt;/p&gt;
+&lt;p&gt;9-4 配置xlog输出路径设置debug release输出 .mp4&lt;/p&gt;
+&lt;p&gt;9-5 xlog的install配置并支持find_packa .mp4&lt;/p&gt;
+&lt;p&gt;9-6 xlog生成c++代码并支持用户配置动态库 .mp4&lt;/p&gt;
+&lt;p&gt;9-7 重构xlog的cmake完成cpp_libaray函数 .mp4&lt;/p&gt;
+&lt;p&gt;9-8 配置test_xlog项目完成linux上测试 .mp4&lt;/p&gt;
+&lt;p&gt;9-9 配置test_xlog可配置在vs上读取xlog静态库 .mp4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第10章 cmake补充章节&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;10-1cmake构建vs_qt项目示例程序完成 .mp4&lt;/p&gt;
+&lt;p&gt;10-2cmake设置qt的sdk路径加载qt库和头文件 .mp4&lt;/p&gt;
+&lt;p&gt;10-3qt程序执行的依赖库自动复制 .mp4&lt;/p&gt;
+&lt;p&gt;10-4cmake导入qt库完成qt界面示例代码-有资源找不到错误 .mp4&lt;/p&gt;
+&lt;p&gt;10-5生成qt资源、界面和信号槽c++代码 .mp4&lt;/p&gt;
+&lt;p&gt;10-6cmake编译qt项目输出x86和x64程序 .mp4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;课件资料&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;课件资料.zip&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;课程下载&#34;&gt;课程下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/fa74925e95b6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/fa74925e95b6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>上外顾悦教授：终极英语口语课，152节完整版</title>
+        <link>https://www.danlong360.com/post/63993/</link>
+        <pubDate>Mon, 25 Nov 2024 19:27:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/63993/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/25/gCwXNrGADzpdflY.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;上外顾悦教授：终极英语口语课&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;本套课程上外顾悦教授：终极英语口语课，课程官方售价299元，内容共152节完整版，详见下方目录，内容共10.90G。文章底部附下载地址。&lt;/p&gt;
+&lt;h3 id=&#34;课程文件目录&#34;&gt;课程文件目录
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;001_【先导片】用科学训练法，开口说地道英语.mp4&lt;/p&gt;
+&lt;p&gt;002_【第0课】轻松突破英语口语的科学方法论.mp4&lt;/p&gt;
+&lt;p&gt;003_【生存必备口语】1.如何购物（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;004_【生存必备口语】1.如何购物（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;005_【生存必备口语】2.如何问路（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;006_【生存必备口语】2.如何问路（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;007_【生存必备口语】3.如何坐飞机（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;008_【生存必备口语】3.如何坐飞机（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;009_【生存必备口语】4.如何办签证、过海关（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;010_【生存必备口语】4.如何办签证、过海关（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;011_【生存必备口语】5.如何入住酒店（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;012_【生存必备口语】5.如何入住酒店（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;013_【生存必备口语】6.如何打车（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;014_【生存必备口语】6.如何打车（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;015_【生存必备口语】7.如何点餐（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;016_【生存必备口语】7.如何点餐（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;017_【生存必备口语】8.如何看病（讲解版）_.mp4&lt;/p&gt;
+&lt;p&gt;018_【生存必备口语】8.如何看病（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;019_【生存必备口语】9.如何办理银行业务（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;020_【生存必备口语】9.如何办理银行业务（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;021_【生存必备口语】10.如何处理突发状况（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;022_【生存必备口语】10.如何处理突发状况（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;023_【日常交流口语】1.如何自我介绍（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;024_【日常交流口语】1.如何自我介绍（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;025_【日常交流口语】2.如何打招呼（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;026_【日常交流口语】2.如何打招呼（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;027_【日常交流口语】3.如何告别（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;028_【日常交流口语】3.如何告别（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;029_【日常交流口语】4.如何打电话（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;030_【日常交流口语】4.如何打电话（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;031_【日常交流口语】5.如何与陌生人搭讪（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;032_【日常交流口语】5.如何与陌生人搭讪（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;033_【日常交流口语】6.如何介绍他人（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;034_【日常交流口语】6.如何介绍他人（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;035_【日常交流口语】7.如何表达赞美（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;036_【日常交流口语】7.如何表达赞美（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;037_【日常交流口语】8.如何聊天（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;038_【日常交流口语】8.如何聊天（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;039_【日常交流口语】9.如何与朋友交往（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;040_【日常交流口语】9.如何与朋友交往（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;041_【日常交流口语】10.如何表达感谢（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;042_【日常交流口语】10.如何表达感谢（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;043_【日常交流口语】11.如何道歉（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;044_【日常交流口语】11.如何道歉（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;045_【日常交流口语】12.如何表达喜好（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;046_【日常交流口语】12.如何表达喜好（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;047_【日常交流口语】13.如何邀请他人（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;048_【日常交流口语】13.如何邀请他人（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;049_【日常交流口语】14.如何表达请求（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;050_【日常交流口语】14.如何表达请求（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;051_【日常交流口语】15.如何庆祝节日（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;052_【日常交流口语】15.如何庆祝节日（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;053_【日常交流口语】16.如何提出建议（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;054_【日常交流口语】16.如何提出建议（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;055_【日常交流口语】17.如何表达安慰（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;056_【日常交流口语】17.如何表达安慰（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;057_【日常交流口语】18.如何鼓励别人（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;058_【日常交流口语】18.如何鼓励别人（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;059_【日常交流口语】19.如何猜测（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;060_【日常交流口语】19.如何猜测（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;061_【日常交流口语】20.如何解释原因（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;062_【日常交流口语】20.如何解释原因（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;063_【日常交流口语】21.如何确定对方想法（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;064_【日常交流口语】21.如何确定对方想法（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;065_【日常交流口语】22.如何表达愿望（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;066_【日常交流口语】22.如何表达愿望（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;067_【日常交流口语】23.如何做出选择（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;068_【日常交流口语】23.如何做出选择（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;069_【日常交流口语】24.如何表达感受（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;070_【日常交流口语】24.如何表达感受（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;071-【日常交流口语】25.如何表达遗憾（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;072-【日常交流口语】25.如何表达遗憾（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;073-【日常交流口语】26.如何表达祝贺（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;074-【日常交流口语】26.如何表达祝贺（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;075-【日常交流口语】27.如何分享喜悦（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;076-【日常交流口语】27.如何分享喜悦（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;077-【日常交流口语】28.如何说出困境（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;078-【日常交流口语】28.如何说出困境（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;079-【日常交流口语】29.如何表达失望（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;080-【日常交流口语】29.如何表达失望（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;081-【日常交流口语】30.如何表达震惊（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;082-【日常交流口语】30.如何表达震惊（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;083-【职场与留学口语】1.如何搞定求职面试（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;084-【职场与留学口语】1.如何搞定求职面试（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;085-【职场与留学口语】2.如何熟悉经典面试题（讲解版.mp4&lt;/p&gt;
+&lt;p&gt;086-【职场与留学口语】2.如何熟悉经典面试题（练习版.mp4&lt;/p&gt;
+&lt;p&gt;087-【职场与留学口语】3.如何谈论工作（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;088-【职场与留学口语】3.如何谈论工作（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;089-【职场与留学口语】4.如何在会议上发言（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;090-【职场与留学口语】4.如何在会议上发言（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;091-【职场与留学口语】5.如何做演讲和present.mp4&lt;/p&gt;
+&lt;p&gt;092-【职场与留学口语】5.如何做演讲和present.mp4&lt;/p&gt;
+&lt;p&gt;093-【职场与留学口语】6.如何熟悉工作环境（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;094-【职场与留学口语】6.如何熟悉工作环境（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;095-【职场与留学口语】7.如何处理日常事务（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;096-【职场与留学口语】7.如何处理日常事务（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;097-【职场与留学口语】8.如何与同事沟通（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;098-【职场与留学口语】8.如何与同事沟通（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;099-【职场与留学口语】9.如何发邮件（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;100-【职场与留学口语】9.如何发邮件（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;101-【职场与留学口语】10.如何打商务电话（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;102-【职场与留学口语】10.如何打商务电话（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;103-【职场与留学口语】11.如何商务谈判（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;104-【职场与留学口语】11.如何商务谈判（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;105-【职场与留学口语】12.如何召开会议（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;106-【职场与留学口语】12.如何召开会议（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;107-【职场与留学口语】13.如何签订合同（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;108-【职场与留学口语】13.如何签订合同（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;109-【职场与留学口语】14.如何与同事聊天（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;110-【职场与留学口语】14.如何与同事聊天（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;111-【职场与留学口语】15.如何确保沟通顺畅（讲解版.mp4&lt;/p&gt;
+&lt;p&gt;112-【职场与留学口语】15.如何确保沟通顺畅（练习版.mp4&lt;/p&gt;
+&lt;p&gt;113-【职场与留学口语】16.如何询问他人想法（讲解版.mp4&lt;/p&gt;
+&lt;p&gt;114-【职场与留学口语】16.如何询问他人想法（练习版.mp4&lt;/p&gt;
+&lt;p&gt;115-【职场与留学口语】17.如何打断别人（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;116-【职场与留学口语】17.如何打断别人（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;117-【职场与留学口语】18.如何表达赞同（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;118-【职场与留学口语】18.如何表达赞同（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;119-【职场与留学口语】19.如何表达反对（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;120-【职场与留学口语】19.如何表达反对（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;121-【职场与留学口语】20.如何掌控谈话（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;122-【职场与留学口语】20.如何掌控谈话（练习版）(1).mp4&lt;/p&gt;
+&lt;p&gt;122-【职场与留学口语】20.如何掌控谈话（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;123-【职场与留学口语】21.如何表达不满（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;124-【职场与留学口语】21.如何表达不满（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;125-【职场与留学口语】22.如何询问信息（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;126-【职场与留学口语】22.如何询问信息（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;127-【职场与留学口语】23.如何提供思路（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;128-【职场与留学口语】23.如何提供思路（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;129-【职场与留学口语】24.如何谈论升职加薪（讲解版.mp4&lt;/p&gt;
+&lt;p&gt;130-【职场与留学口语】24.如何谈论升职加薪（练习版.mp4&lt;/p&gt;
+&lt;p&gt;131-【职场与留学口语】25.如何请假（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;132-【职场与留学口语】25.如何请假（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;133-【职场与留学口语】26.如何申请学校（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;134-【职场与留学口语】26.如何申请学校（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;135-【职场与留学口语】27.如何课堂交流（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;136-【职场与留学口语】27.如何课堂交流（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;137-【职场与留学口语】28.如何演讲和辩论（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;138-【职场与留学口语】28.如何演讲和辩论（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;139-【职场与留学口语】29.如何租房（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;140-【职场与留学口语】29.如何租房（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;141-【职场与留学口语】30.如何与同学聊天（讲解版）.mp4&lt;/p&gt;
+&lt;p&gt;142-【职场与留学口语】30.如何与同学聊天（练习版）.mp4&lt;/p&gt;
+&lt;p&gt;143-英语口语必备单词强化训练 1.mp4&lt;/p&gt;
+&lt;p&gt;144-英语口语必备单词强化训练 2.mp4&lt;/p&gt;
+&lt;p&gt;145-英语口语必备单词强化训练 3.mp4&lt;/p&gt;
+&lt;p&gt;146-英语口语必备单词强化训练 4.mp4&lt;/p&gt;
+&lt;p&gt;147-英语口语必备单词强化训练 5.mp4&lt;/p&gt;
+&lt;p&gt;148-英语口语必备单词强化训练 6.mp4&lt;/p&gt;
+&lt;p&gt;149-英语口语必备单词强化训练 7.mp4&lt;/p&gt;
+&lt;p&gt;150-英语口语必备单词强化训练 8.mp4&lt;/p&gt;
+&lt;p&gt;151-英语口语必备单词强化训练 9.mp4&lt;/p&gt;
+&lt;p&gt;152-英语口语必备单词强化训练 10.mp4&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;课程下载&#34;&gt;课程下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a9b372fc333e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a9b372fc333e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>殷亚敏一学就会的演讲视频课</title>
         <link>https://www.danlong360.com/post/41715/</link>
         <pubDate>Mon, 25 Nov 2024 18:15:31 +0800</pubDate>
