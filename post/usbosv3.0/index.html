@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+	<head><meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="增强版介绍 ISO 版与 UD 版合体，总体积 1.62GB&ndash;3.0GB（视是否拓展）！ USBOS V3 是计算机超级维护工具，此话怎讲？ 若仅从内存需求这方面来说：从只有 96MB 物理内存的工控机，到市场上你可以卖得到且能插上你的主板的任意 GB 数内存的 IBM PC 兼容计算机，均在以下 2-6 号 WIN PE（RamOS）强力组合的支持之列！PE 仍未覆盖到？那就只能用以下第 1 项：DOS 了。此 DOS 不支持，你那还是可用的 IBM PC 兼容计算机否？！ 1、DOS 2、Native Windows 2003 03PE 3、Windows 2003 PE 4、Windows 8.0 RTM 32 位简体中文专业版 PE 5、Windows 8.1 With Updat3 64 位简体中文企业版 RamOS（多能版） 6、Windows 10 创意者更新版（1703）64 位简体中文专业版 PE（网络版） 【注：以下关于 PE 体积或外置程序的定量指标，会随着版本变化而有出入，仅供参考】 第 1 项 含一些 DOS IMG 镜像，源自无忧论坛，历经本人多次 YY。总体积不到 12MB。 第 2 项与第 3 项，最初版本源自无忧论坛，历经本人无数次 YY。仅含基本功能 Windows 2003 PE，核心大约 33MB，Native Windows 2003 03PE 在只有 96MB 物理内存 64MB+32MB）的计算机上不需设置页面文件即可顺利完成 DISKGENUS 或傲梅分区助手的最基本功能（可完成格式分区等、但不能完成无损调整分区大小等高级功能），常规 03PE 在只有 128MB 物理内存时能启动到桌面，拥有 256MB 物理内存时可无需设置页面文件顺利脱盘挂载及运行全体外置。 第 4 项：基于二 O 一二年十月二十六日发布的 Windows 8 专业版自制而成，核心大约 120MB，是带 DISM，MSI、Bitlocker、常用 VC 运行库、网络支持的 PE。支持 IA32 UEFI 及 BIOS，内存在 1GB 以上的机器即可启动，也支持 4GB 以上内存。 第 5 项：基于二 O 一四年十二月十六日发布的 Windows 8.1 X64 With Updat 3 企业版自制而成，核心大约 700MB。是带 DISM，MSI、Bitlocker、MS 拼音输入法，MS 触屏键盘，常用 VC 运行库、打印、网络、声卡、显卡支持，提供各种格式高清音视频播放能力（已外置安装 K-lite Mega codec）的 U 盘操作系统，支持 AMD64 UEFI 及 BIOS，支持海量内存。自 20170521 版起，至少需要 4GB 内存方能启动，支持外置拓展 Amd、Intel、Nvidia 显卡驱动及 HD Audio 音频驱动。 第 6 项：基于二 O 一七年三月发布的 Windows 10 创意者更新专业版自制而成，核心大约 200MB。是带 DISM，MSI、Bitlocker、MS 触屏键盘，常用 VC 运行库的维护用的 PE，启动速度大大高于 5，支持 AMD64 UEFI 及 BIOS，内存在 3GB 以上的机器即可启动。\n"> <title>USBOS V3.0 标准版/增强版(更新到2024.08.25)</title>
+
+<link rel="canonical" href="https://www.danlong360.com/post/usbosv3.0/" />  <link rel="stylesheet" href="/scss/style.min.f64c625c251f23e1a0ba7b106e4b729477ac4af61ade03fb25c749edb86be194.css" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
+     crossorigin="anonymous">
+</script><meta property='og:title' content="USBOS V3.0 标准版/增强版(更新到2024.08.25)">
+<meta property='og:description' content="增强版介绍 ISO 版与 UD 版合体，总体积 1.62GB&ndash;3.0GB（视是否拓展）！ USBOS V3 是计算机超级维护工具，此话怎讲？ 若仅从内存需求这方面来说：从只有 96MB 物理内存的工控机，到市场上你可以卖得到且能插上你的主板的任意 GB 数内存的 IBM PC 兼容计算机，均在以下 2-6 号 WIN PE（RamOS）强力组合的支持之列！PE 仍未覆盖到？那就只能用以下第 1 项：DOS 了。此 DOS 不支持，你那还是可用的 IBM PC 兼容计算机否？！ 1、DOS 2、Native Windows 2003 03PE 3、Windows 2003 PE 4、Windows 8.0 RTM 32 位简体中文专业版 PE 5、Windows 8.1 With Updat3 64 位简体中文企业版 RamOS（多能版） 6、Windows 10 创意者更新版（1703）64 位简体中文专业版 PE（网络版） 【注：以下关于 PE 体积或外置程序的定量指标，会随着版本变化而有出入，仅供参考】 第 1 项 含一些 DOS IMG 镜像，源自无忧论坛，历经本人多次 YY。总体积不到 12MB。 第 2 项与第 3 项，最初版本源自无忧论坛，历经本人无数次 YY。仅含基本功能 Windows 2003 PE，核心大约 33MB，Native Windows 2003 03PE 在只有 96MB 物理内存 64MB+32MB）的计算机上不需设置页面文件即可顺利完成 DISKGENUS 或傲梅分区助手的最基本功能（可完成格式分区等、但不能完成无损调整分区大小等高级功能），常规 03PE 在只有 128MB 物理内存时能启动到桌面，拥有 256MB 物理内存时可无需设置页面文件顺利脱盘挂载及运行全体外置。 第 4 项：基于二 O 一二年十月二十六日发布的 Windows 8 专业版自制而成，核心大约 120MB，是带 DISM，MSI、Bitlocker、常用 VC 运行库、网络支持的 PE。支持 IA32 UEFI 及 BIOS，内存在 1GB 以上的机器即可启动，也支持 4GB 以上内存。 第 5 项：基于二 O 一四年十二月十六日发布的 Windows 8.1 X64 With Updat 3 企业版自制而成，核心大约 700MB。是带 DISM，MSI、Bitlocker、MS 拼音输入法，MS 触屏键盘，常用 VC 运行库、打印、网络、声卡、显卡支持，提供各种格式高清音视频播放能力（已外置安装 K-lite Mega codec）的 U 盘操作系统，支持 AMD64 UEFI 及 BIOS，支持海量内存。自 20170521 版起，至少需要 4GB 内存方能启动，支持外置拓展 Amd、Intel、Nvidia 显卡驱动及 HD Audio 音频驱动。 第 6 项：基于二 O 一七年三月发布的 Windows 10 创意者更新专业版自制而成，核心大约 200MB。是带 DISM，MSI、Bitlocker、MS 触屏键盘，常用 VC 运行库的维护用的 PE，启动速度大大高于 5，支持 AMD64 UEFI 及 BIOS，内存在 3GB 以上的机器即可启动。\n">
+<meta property='og:url' content='https://www.danlong360.com/post/usbosv3.0/'>
+<meta property='og:site_name' content='KUL藏宝库'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-08-29T09:00:09&#43;08:00'/><meta property='article:modified_time' content='2024-08-29T09:00:09&#43;08:00'/>
+<meta name="twitter:title" content="USBOS V3.0 标准版/增强版(更新到2024.08.25)">
+<meta name="twitter:description" content="增强版介绍 ISO 版与 UD 版合体，总体积 1.62GB&ndash;3.0GB（视是否拓展）！ USBOS V3 是计算机超级维护工具，此话怎讲？ 若仅从内存需求这方面来说：从只有 96MB 物理内存的工控机，到市场上你可以卖得到且能插上你的主板的任意 GB 数内存的 IBM PC 兼容计算机，均在以下 2-6 号 WIN PE（RamOS）强力组合的支持之列！PE 仍未覆盖到？那就只能用以下第 1 项：DOS 了。此 DOS 不支持，你那还是可用的 IBM PC 兼容计算机否？！ 1、DOS 2、Native Windows 2003 03PE 3、Windows 2003 PE 4、Windows 8.0 RTM 32 位简体中文专业版 PE 5、Windows 8.1 With Updat3 64 位简体中文企业版 RamOS（多能版） 6、Windows 10 创意者更新版（1703）64 位简体中文专业版 PE（网络版） 【注：以下关于 PE 体积或外置程序的定量指标，会随着版本变化而有出入，仅供参考】 第 1 项 含一些 DOS IMG 镜像，源自无忧论坛，历经本人多次 YY。总体积不到 12MB。 第 2 项与第 3 项，最初版本源自无忧论坛，历经本人无数次 YY。仅含基本功能 Windows 2003 PE，核心大约 33MB，Native Windows 2003 03PE 在只有 96MB 物理内存 64MB+32MB）的计算机上不需设置页面文件即可顺利完成 DISKGENUS 或傲梅分区助手的最基本功能（可完成格式分区等、但不能完成无损调整分区大小等高级功能），常规 03PE 在只有 128MB 物理内存时能启动到桌面，拥有 256MB 物理内存时可无需设置页面文件顺利脱盘挂载及运行全体外置。 第 4 项：基于二 O 一二年十月二十六日发布的 Windows 8 专业版自制而成，核心大约 120MB，是带 DISM，MSI、Bitlocker、常用 VC 运行库、网络支持的 PE。支持 IA32 UEFI 及 BIOS，内存在 1GB 以上的机器即可启动，也支持 4GB 以上内存。 第 5 项：基于二 O 一四年十二月十六日发布的 Windows 8.1 X64 With Updat 3 企业版自制而成，核心大约 700MB。是带 DISM，MSI、Bitlocker、MS 拼音输入法，MS 触屏键盘，常用 VC 运行库、打印、网络、声卡、显卡支持，提供各种格式高清音视频播放能力（已外置安装 K-lite Mega codec）的 U 盘操作系统，支持 AMD64 UEFI 及 BIOS，支持海量内存。自 20170521 版起，至少需要 4GB 内存方能启动，支持外置拓展 Amd、Intel、Nvidia 显卡驱动及 HD Audio 音频驱动。 第 6 项：基于二 O 一七年三月发布的 Windows 10 创意者更新专业版自制而成，核心大约 200MB。是带 DISM，MSI、Bitlocker、MS 触屏键盘，常用 VC 运行库的维护用的 PE，启动速度大大高于 5，支持 AMD64 UEFI 及 BIOS，内存在 3GB 以上的机器即可启动。\n">
+<link rel="shortcut icon" href="/favicon.ico" />
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-K19J3P52BR"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-K19J3P52BR');
+        }
+      </script>
+
+	</head>
+	<body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu12742395681378621043.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">KUL藏宝库</a></h1>
+            <h2 class="site-description">纯净软件爱好者</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>存档</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#增强版介绍">增强版介绍</a></li>
+        <li><a href="#标准版介绍">标准版介绍</a></li>
+        <li><a href="#usbos-v3-特色">USBOS V3 特色</a></li>
+        <li><a href="#更新日志">更新日志</a>
+          <ol>
+            <li><a href="#增强版">增强版</a></li>
+            <li><a href="#标准版">标准版</a></li>
+          </ol>
+        </li>
+        <li><a href="#下载地址">下载地址</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+			<main class="main full-width">
+    <article class="main-article">
+	<header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/" >
+                操作系统
+            </a>
+        
+            <a href="/categories/win-pe/" >
+                Win PE
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/usbosv3.0/">USBOS V3.0 标准版/增强版(更新到2024.08.25)</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024-08-29</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header> <section class="article-content">
+    
+    
+    <h3 id="增强版介绍">增强版介绍
+</h3><p>ISO 版与 UD 版合体，总体积 1.62GB&ndash;3.0GB（视是否拓展）！
+USBOS V3 是计算机超级维护工具，此话怎讲？
+若仅从内存需求这方面来说：从只有 96MB 物理内存的工控机，到市场上你可以卖得到且能插上你的主板的任意 GB 数内存的 IBM PC 兼容计算机，均在以下 2-6 号 WIN PE（RamOS）强力组合的支持之列！PE 仍未覆盖到？那就只能用以下第 1 项：DOS 了。此 DOS 不支持，你那还是可用的 IBM PC 兼容计算机否？！
+1、DOS
+2、Native Windows 2003 03PE
+3、Windows 2003 PE
+4、Windows 8.0 RTM 32 位简体中文专业版 PE
+5、Windows 8.1 With Updat3 64 位简体中文企业版 RamOS（多能版）
+6、Windows 10 创意者更新版（1703）64 位简体中文专业版 PE（网络版）
+【注：以下关于 PE 体积或外置程序的定量指标，会随着版本变化而有出入，仅供参考】
+第 1 项 含一些 DOS IMG 镜像，源自无忧论坛，历经本人多次 YY。总体积不到 12MB。
+第 2 项与第 3 项，最初版本源自无忧论坛，历经本人无数次 YY。仅含基本功能 Windows 2003 PE，核心大约 33MB，Native Windows 2003 03PE 在只有 96MB 物理内存 64MB+32MB）的计算机上不需设置页面文件即可顺利完成 DISKGENUS 或傲梅分区助手的最基本功能（可完成格式分区等、但不能完成无损调整分区大小等高级功能），常规 03PE 在只有 128MB 物理内存时能启动到桌面，拥有 256MB 物理内存时可无需设置页面文件顺利脱盘挂载及运行全体外置。
+第 4 项：基于二 O 一二年十月二十六日发布的 Windows 8 专业版自制而成，核心大约 120MB，是带 DISM，MSI、Bitlocker、常用 VC 运行库、网络支持的 PE。支持 IA32 UEFI 及 BIOS，内存在 1GB 以上的机器即可启动，也支持 4GB 以上内存。
+第 5 项：基于二 O 一四年十二月十六日发布的 Windows 8.1 X64 With Updat 3 企业版自制而成，核心大约 700MB。是带 DISM，MSI、Bitlocker、MS 拼音输入法，MS 触屏键盘，常用 VC 运行库、打印、网络、声卡、显卡支持，提供各种格式高清音视频播放能力（已外置安装 K-lite Mega codec）的 U 盘操作系统，支持 AMD64 UEFI 及 BIOS，支持海量内存。自 20170521 版起，至少需要 4GB 内存方能启动，支持外置拓展 Amd、Intel、Nvidia 显卡驱动及 HD Audio 音频驱动。
+第 6 项：基于二 O 一七年三月发布的 Windows 10 创意者更新专业版自制而成，核心大约 200MB。是带 DISM，MSI、Bitlocker、MS 触屏键盘，常用 VC 运行库的维护用的 PE，启动速度大大高于 5，支持 AMD64 UEFI 及 BIOS，内存在 3GB 以上的机器即可启动。</p>
+<h3 id="标准版介绍">标准版介绍
+</h3><p>在增强版的 USBOS 的基础上简化而来：
+1、去 X86 Win 8PE 网络组件。
+2、去 X64 Win 8.1 多能版 RAMOS。
+3、去 MS Office 2007，Acronis True Image、Disk Director 等软件（精简列表不一一罗列）。
+4、无论采用附带的安装程序、或量产、B+、U+、UDM 等程序部署本产品到 U 盘、移动硬盘、存储卡等可移动设备，还是刻录为光盘，本标准版各 PE 均不保留可拔盘模式。也就是说当 PE 从可移动设备启动运行时，不允许从计算机移除存放 PE 外置程序的那个设备。
+5 用附带的安装程序安装此产品到本地硬盘使用时：
+(a) X86 Win 8 PE 及 X64 Win 10 采用可脱盘模式运行（即在 NT6 类 PE 下不影响直接对本地硬盘重分区、格式化操作）；
+(b) Win 2003 PE 由于采用了带盘运行方式，可能不能直接对外置程序的所在的那个本地硬盘进行重分区、格式化等操作。</p>
+<h3 id="usbos-v3-特色">USBOS V3 特色
+</h3><p><strong>A</strong>、 免进 PE 直接安装 ISO 格式的原版 Win（2000、XP、2003、Vista、2008、7、2008R2、2012、8、8.1、2012R2、10、2016）；</p>
+<p><img src="https://s2.loli.net/2024/08/29/snj2uHNLk5qZoAX.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="img"
+	
+	
+></p>
+<p><img src="https://s2.loli.net/2024/08/29/bCoPsp6MOx4zYhk.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="img"
+	
+	
+></p>
+<p><strong>B</strong>、 BIOS UEFI 双持；
+<strong>C</strong>、 64 位 UEFI 与 32 位 UEFI 双持。
+很多人认为 64 位 PE 能运行 32 位应用程序，所以 32 位 NT6 类 PE 无需集成，弄进来也是徒占空间。丢出此观点的人，肯定是从未听说过 32 位 Intel atom CPU，这类 CPU 是 intel 企图与众 ARM CPU 在平板领域拼杀的武器，被广泛（几乎是专门）用于 X86 Win 8.0/8.1 平板机，使用了此 CPU 的平板机通常不支持 BIOS 启动、必须以 IA32 EFI 启动。目前，支持 IA32 EFI 的，有且仅有 X86 Win 8/8.1/10 及其 PE 或 RAMOS。
+此外在 USBOS 里的 32 位 Win 8 PE，相对 X64 Win 10 来说，虽然存在某些驱动缺失（例如 apple SSD 等、这是厂商未推出 32 位 Win 驱动）的劣势、但是其启动速度快，并且它的兼容性比 Win 2003 PE 要好，所以可以作为 BIOS 启动维护计算机主流 PE 用。</p>
+<p><strong>D</strong>、 比较完整的 VC、VB 运行库支持；
+<strong>E</strong>、 非常简单方便 DIY：无需对内核修改，就能扩充驱动程序与应用程序；
+<strong>F</strong>、 NT6 类 PE 均支持 Bitlocker、触摸屏；
+<strong>G</strong>、 极完整的磁盘控制器（SRS）支撑、包括三星、Intel 的 Nvme 驱动、Apple SSD &amp; HFS 驱动等等。
+<strong>H</strong>、原则上建议使用 WinntSetup 来安装原版各 Windows，可不区分 PE 版本，不区分 Windows 版本无差别对待。
+鉴于某些人喜欢用 Win 的 SETUP.EXE 来安装，USBOS 3.0 各 PE 下对原版 WIN 使用 SETUP.EXE 支持情况如下表：</p>
+<p><img src="https://s2.loli.net/2024/08/29/wDU6PHZ12uqdYav.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="img"
+	
+	
+></p>
+<p><strong>I</strong>、USBOS V3.0 启动速度不会是 No.1，但可以肯定的是：
+a、同体积的的同类产品，USBOS 是其中功能最强的：
+①、硬件支持广泛：从最低 64MB 的老掉牙机型到第八代酷睿或 AMD Zen 架构主板主机、SurfaceBook、苹果 MAC、主流民用、工业服务器 RAID、三星 980/981 Pro 、Intel(R) SSD Pro 7600p/760p/E 6100p Series Nvme 固态硬盘等新潮机型、新型硬件都予以支持。
+②、文件关联好，进入 PE 后，你会发现文件关联杠杠的、各式鼠标右键操作异常方便实用。
+③、即便本身已提供非常新颖、丰富、实用的外置程序了，还是提供非常丰富的 DIY 接口，这些接口涉及 PE 外观、驱动、应用程序各个方面。</p>
+<p>b、而同功能的 U 启动产品，USBOS 却是其中体积最小的：
+①、各 PE 尽最大可能共享外置程序。
+②、不对 PE 核心文件做野蛮精简，保持相对姣好的兼容性才是最重要的。</p>
+<h3 id="更新日志">更新日志
+</h3><h4 id="增强版">增强版
+</h4><p>【2024-8-25】
+A、驱动程序：
+64 位 10PE：
+Broadcom MEGASAS35 7.730.02.00、ItSas35 2.61.69.00、MPI3DRV 8.09.06.00；
+Microsemi Adaptec Smart x200 v1010.108.0.1015；
+RealTek PCIE 网卡 10.072.0522.2024、USB 网卡 10.61.20.0327、无线网卡 6101.19.117.0；
+Intel Serial IO 30.100.2351.81、RST-VMD 20.1.0.1015.1 WHQL。</p>
+<h4 id="标准版">标准版
+</h4><p>【2024-8-25】
+A、驱动程序：
+64 位 10PE：
+Broadcom MEGASAS35 7.730.02.00、ItSas35 2.61.69.00、MPI3DRV 8.09.06.00；
+Microchip smartpqi_x200_v1010.108.0.1015；
+Intel Serial IO 30.100.2351.81、RST-VMD 20.1.0.1015.1 WHQL。</p>
+<h3 id="下载地址">下载地址
+</h3><p><a class="link" href="https://pan.quark.cn/s/ae8767c8e233"  target="_blank" rel="noopener"
+    >https://pan.quark.cn/s/ae8767c8e233</a></p>
+<p><a class="link" href="https://pan.xunlei.com/s/VO9A6kvJhJRTi4-W5G0JdxucA1?pwd=5q3u"  target="_blank" rel="noopener"
+    >https://pan.xunlei.com/s/VO9A6kvJhJRTi4-W5G0JdxucA1?pwd=5q3u</a></p>
+
+</section>
+ <footer class="article-footer">
+    
+
+    </footer>
+ 
+</article>
+
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/94391/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">优启通VIP版(U盘启动盘制作工具) v3.7.2024.1025</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/youqitong/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">优启通VIP版 3.7.2024.0720 (启动盘制作) 绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/xingyuliyun/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">杏雨梨云启动维护系统2024端午版v4 (杏雨梨云PE) 绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/fengniaope/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">蜂鸟PE 2.4.1 (PE系统) 绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/weipegongjuxiang/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">微PE工具箱 2.3 官方版</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+	<section class="copyright">
+		&copy;  2024 KUL藏宝库
+	</section>
+	
+	<section class="running-time">
+		本博客已稳定运行
+		<span id="runningdays" class="running-days"></span>
+	</section>
+	<section class="powerby">
+		 <br />
+		
+	</section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+</main>
+		</div>
+		<script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+<script>
+	let s1 = "2023-3-18"; 
+	s1 = new Date(s1.replace(/-/g, "/"));
+	let s2 = new Date();
+	let timeDifference = s2.getTime() - s1.getTime();
+
+	let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+	let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+	let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+	let result = days + "天" + hours + "小时" + minutes + "分钟";
+	document.getElementById("runningdays").innerHTML = result;
+</script>
+
+	</body>
+</html>
