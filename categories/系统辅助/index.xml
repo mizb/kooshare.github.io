@@ -7,7 +7,295 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 25 Nov 2024 20:50:24 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 26 Nov 2024 12:40:44 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>搜狗拼音输入法PC版 v14.11.0.1351 BEIKING绿色精简版</title>
+        <link>https://www.danlong360.com/post/8480/</link>
+        <pubDate>Tue, 26 Nov 2024 12:40:44 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8480/</guid>
+        <description>&lt;p&gt;搜狗输入法电脑版是装机必备软件,其打字准,词库全,功能强大,使得输入更高效.搜狗拼音输入法最新版,AI打字准确高效.搜狗输入法去广告绿色精简版,移除广告程序精简优化后的用着还不错,至少比官方版用着安心些.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/26/ZCiV1fqSJLKjWby.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;升级日志 - 搜狗输入法
+&lt;a class=&#34;link&#34; href=&#34;https://pinyin.sogou.com/changelog.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pinyin.sogou.com/changelog.php&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;By: BEIKING
+– 试图打造不联网的搜狗拼音输入法精简版；
+– 修改 SogouPY.ime 和 SogouPY64.ime 去损坏弹窗；
+– 用 0 填充 SGTool.exe 中的 sogou.com 试图阻止联网；
+– 精简 Resource.dll 资源库文件
+– 皮肤和词库放入压缩包内对应文件夹也能自动安装；
+– 细胞词库正常，你下载的 scel 先放到 Scd 文件夹会自动导入；
+– 默认将属性设置、输入法管理器和符号大全快捷方式创建到根目录；
+(需通过快捷方式，才能打开“属性设置”、“输入法管理器”、“符号大全”等窗口)
+√ 免安装批处理精简绿化，仅保留核心功能！
+√ 替换默认皮肤为：简约五彩键盘；
+(修改默认皮肤：_Green\SogouPY\env.ini，ActiveSkinName=简约五彩键盘)
+√ 去联网、去弹窗、去调用，精简了所有的额外功能组件；
+√ 不支持：云计算候选、账户登陆、词库同步，已全部阉割；
+√ 支持安装皮肤和词库、保留符号大全、提供各类本地词库；
+静默安装版安装路径：C:\Program Files\搜狗拼音&lt;/p&gt;
+&lt;p&gt;2024.11.26
+跟进 BEIKING v14.11a(1351) 去广告精简优化版
+[2024/11/26]
+1）修复启用默认皮肤深色模式无效bug
+启用深色模式方法：
+方法一：绿化前修改配置文件 _Green\SogouPY\Env.ini，搜 OpenColorScheme 值改为 2
+方法二：补充文件“账户登录与词库同步”绿化，通过“我的输入法”-&amp;gt;“属性设置”-&amp;gt;“外观”-&amp;gt; 模式选择）
+2）更新版本：v14.11a(1351)&lt;/p&gt;
+&lt;h3 id=&#34;版本区别&#34;&gt;版本区别
+&lt;/h3&gt;&lt;p&gt;① exe单文件，没带词库文件，双击选择路径安装 (自动安装参数: -ai)，输入法配置保存在系统默认路径，在开始菜单创建快捷方式，SGTool.exe 允许常驻进程，响应快捷键可通过 Ctrl+Shift+Z 调出符号大全；
+② 7z 压缩包，带词库文件，需解压通过脚本安装，输入法配置保存在当前文件夹，在当前文件夹创建快捷方式，SGTool.exe 不允许常驻进程，不响应快捷键；&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCap5HOHED0NLBCt9MWj2UqA1?pwd=f2n9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCap5HOHED0NLBCt9MWj2UqA1?pwd=f2n9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Notepad3(开源文本编辑器) v6.24.1125.1 rc3 断剑留痕版</title>
+        <link>https://www.danlong360.com/post/3794/</link>
+        <pubDate>Tue, 26 Nov 2024 12:40:07 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/3794/</guid>
+        <description>&lt;p&gt;Notepad3 是一款免费的开源文本编辑器，旨在为用户提供更加高效的编辑体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/26/wyLiINTrnKeEpSd.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种编码格式，包括 ANSI、UTF-8、UTF-16 和 UTF-32 等。&lt;/li&gt;
+&lt;li&gt;支持多种语言环境，包括英语、中文等，用户可以根据需要进行切换。&lt;/li&gt;
+&lt;li&gt;支持自定义语法高亮，用户可以根据自己的需要添加或修改语法规则。&lt;/li&gt;
+&lt;li&gt;支持多个文档同时打开，用户可以轻松进行文本的复制和粘贴等操作。&lt;/li&gt;
+&lt;li&gt;支持拼写检查和自动完成功能，提高编辑效率。&lt;/li&gt;
+&lt;li&gt;支持自动保存功能，防止误操作导致的丢失文本。&lt;/li&gt;
+&lt;li&gt;支持搜索和替换功能，用户可以快速查找和替换文本内容。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2024年11月26日9 : 00更新：New
++ 跟进官方的 Notepad3_6.24.1125.1_rc3 多国语言版
++ 汉化了官方遗漏的俩个地方&lt;/p&gt;
+&lt;p&gt;Mod（安装版）：
++ 基于官方2023年02月03日的 Notepad3_6.23.203.2 多国语言版制作
++ 精简多余的语言文件，只保留简体中文。
+此版本不需要加载外置 lng 里的语言文件，运行即是简体中文（断剑留痕原创）
++ 保留 Themes、grepWinNP3.exe、minipath.exe 。
++ 汉化了 grepWinNP3.exe
++ 已选定的文本右键添加【使用 百度 搜索】【使用 必应 搜索】（断剑留痕原创）
++ 支持 Win11 记事本替换。
++ 32位/64位二合一，根据你的系统位数，智能进行不同的安装。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCap28RFJV-ACGaJWMCbzwBA1?pwd=a8xx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCap28RFJV-ACGaJWMCbzwBA1?pwd=a8xx&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>SoftPerfect Network Scanner(网络扫描管理工具) v8.2.3 中文绿色版</title>
+        <link>https://www.danlong360.com/post/6285/</link>
+        <pubDate>Tue, 26 Nov 2024 12:39:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6285/</guid>
+        <description>&lt;p&gt;SoftPerfect Network Scanner 是一款功能强大的网络扫描和管理工具，专为网络管理员和 IT 专业人员设计。它能够快速扫描局域网内的设备，收集详细的网络信息，并提供多种管理和诊断功能。SoftPerfect Network Scanner 操作简单，功能全面，适用于企业和个人网络环境，帮助用户高效管理和维护网络设备。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/26/1qKi47RBPbDysh2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;网络扫描：快速扫描局域网内的设备，收集 IP 地址、MAC 地址、主机名、操作系统等信息。
+端口扫描：扫描设备的开放端口，检测潜在的安全漏洞和服务。
+远程控制：支持远程控制和管理网络设备，包括远程登录、文件传输等功能。
+网络监控：实时监控网络设备的状态，检测网络连接和设备活动。
+报告生成：生成详细的网络扫描报告，包括设备列表、端口状态、网络流量等信息。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁：提供直观的用户界面，操作简单，即使是初学者也能快速上手。
+网络扫描：快速扫描局域网内的设备，收集 IP 地址、MAC 地址、主机名、操作系统等信息，帮助用户全面了解网络状况。
+端口扫描：扫描设备的开放端口，检测潜在的安全漏洞和服务，提升网络安全。
+远程控制：支持远程控制和管理网络设备，包括远程登录、文件传输等功能，提高管理效率。
+网络监控：实时监控网络设备的状态，检测网络连接和设备活动，及时发现和解决网络问题。
+报告生成：生成详细的网络扫描报告，包括设备列表、端口状态、网络流量等信息，方便用户进行分析和管理。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCap-qArrJPWhCLryvfT0oGA1?pwd=e6iz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCap-qArrJPWhCLryvfT0oGA1?pwd=e6iz&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>zTasker(一键式效率倍增器定时任务) v1.99.8 中文绿色版</title>
+        <link>https://www.danlong360.com/post/98880/</link>
+        <pubDate>Tue, 26 Nov 2024 12:31:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/98880/</guid>
+        <description>&lt;p&gt;zTasker是一款全面的任务管理软件，可以帮助用户更好地管理和组织自己的任务和日程安排。它具有易于使用的界面和丰富的功能，适用于个人和商业用户。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/26/AepFfYMHlW83GTB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;任务管理：用户可以创建、编辑、删除和标记任务。任务可以按类型、优先级、截止日期等进行分类和排序。
+日历视图：zTasker提供了便捷的日历视图，用户可以在日历上查看和计划任务。
+提醒和提醒：用户可以设置任务的提醒和提醒，确保不会错过重要的事情。
+子任务和检查清单：zTasker支持创建子任务和检查清单，方便用户分解和管理复杂的任务。
+自定义标签和筛选：用户可以为任务添加自定义标签，并根据标签进行筛选和查找任务。
+任务共享：用户可以与其他zTasker用户共享任务，方便协作和分工合作。
+数据备份和恢复：zTasker支持将任务数据备份到云端，并在需要时进行恢复。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：zTasker具有直观的用户界面和简洁的操作流程，使任务管理变得简单和高效。
+强大的功能：软件提供了丰富的功能和灵活的设置选项，满足不同用户的个性化需求。
+安全可靠：zTasker采用了安全的数据传输和存储技术，确保用户的任务数据安全可靠。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;V1.99.8 2024-11-26
+改进：
+任务列表新建项目时，自动滚动到新建项
+UI上添加了更多说明，比如关于管理员权限，关于自动启动
+修复：
+所有已知问题&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCao8Z3K7KL9Ipi66d7sZTCA1?pwd=2jkf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCao8Z3K7KL9Ipi66d7sZTCA1?pwd=2jkf&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Process Lasso(进程优化工具) Pro v15.0.3.22 多语便携版</title>
+        <link>https://www.danlong360.com/post/58809/</link>
+        <pubDate>Tue, 26 Nov 2024 12:29:49 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/58809/</guid>
+        <description>&lt;p&gt;Process Lasso 是一款用于管理和优化计算机进程的软件。它可以帮助用户最大程度地提高计算机的性能，并提供了一系列功能和特点来优化系统的运行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/26/FDQ8gh4wUIJ3lO5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;进程优先级管理：Process Lasso可以根据用户设定的规则和条件调整进程的优先级，确保重要进程的优先级更高，从而提高系统的响应速度。
+自动优化：软件会动态分配计算资源，通过自动调整进程优先级，提高CPU利用率和响应速度。
+进程控制：用户可以选择暂停、结束或恢复特定的进程，并设定进程的启动规则。
+能耗优化：软件可以根据电源状态自动调整进程的优先级和CPU使用率，以最大程度地节省电池电量。
+系统稳定性：通过限制某些进程的CPU使用率，软件可以帮助避免系统崩溃和死机现象。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高级优化算法：Process Lasso使用先进的算法来自动调整进程优先级，确保系统的稳定性和性能。
+图形化界面：软件提供了直观的图形界面，让用户轻松管理和优化进程。
+低系统资源占用：软件运行时占用的系统资源较少，对计算机性能的影响非常小。
+可自定义规则：用户可以根据自己的需求和喜好设定进程的优先级规则。
+支持多语言：软件支持多种语言界面，方便用户在不同地区使用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCao-xu93moLfKsrMeFALKsA1?pwd=kmsh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCao-xu93moLfKsrMeFALKsA1?pwd=kmsh&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>XYplorer(多标签文件管理器) v26.70.0000 多语便携版</title>
+        <link>https://www.danlong360.com/post/20313/</link>
+        <pubDate>Tue, 26 Nov 2024 12:29:06 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/20313/</guid>
+        <description>&lt;p&gt;XYplorer中文版是一款多标签文件管理器及增强资源管理器的工具,XYplorer文件管理器支持多标签页栏,管理文件时跟使用Chrome之类浏览器一样,从浏览方便性,和切换滑顺程度,要比Windows系统自带的Explorer资源管理器便捷得多.可以大部分程度上替代系统自带的文件管理器.同时,有浏览器快捷键和鼠标快捷.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/26/mUcFK7l15etA2PL.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;双窗口浏览：支持双窗口浏览，可以同时浏览两个文件夹，方便文件的复制、移动和比较。
+高级搜索：支持高级搜索功能，可以根据文件名、大小、日期、属性等多种条件进行搜索。
+标签和书签：支持标签和书签功能，可以方便地管理和访问常用文件和文件夹。
+自定义命令：支持自定义命令功能，可以自定义快捷键和命令，方便快速访问常用功能。
+文件预览：支持文件预览功能，可以在文件管理器中直接预览图片、音频、视频等文件。
+批量重命名：支持批量重命名功能，可以根据规则批量重命名文件和文件夹。
+文件比较：支持文件比较功能，可以比较两个文件或文件夹的差异。
+自动化操作：支持自动化操作功能，可以通过脚本实现自动化操作。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;XYplorer - What’s New
+&lt;a class=&#34;link&#34; href=&#34;https://www.xyplorer.com/whatsnew.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.xyplorer.com/whatsnew.php&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCany6wyFL02CtcpbFng5oeA1?pwd=jkkt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCany6wyFL02CtcpbFng5oeA1?pwd=jkkt&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Qalculate!(开源跨平台专业计算器) v5.4.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/79801/</link>
+        <pubDate>Tue, 26 Nov 2024 12:21:36 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/79801/</guid>
+        <description>&lt;p&gt;Qalculate! 是一款免费、开源的计算器软件，它能够进行各种数学计算、单位转换、货币换算等操作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/26/D76g4kt58OoJKcX.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持基本算术运算、三角函数、指数函数、对数函数等数学运算；&lt;/li&gt;
+&lt;li&gt;支持向量、矩阵、复数和多项式计算；&lt;/li&gt;
+&lt;li&gt;支持各种单位的转换，如长度、面积、体积、温度、时间、速度、压力等；&lt;/li&gt;
+&lt;li&gt;支持货币换算，可以根据实时汇率进行换算；&lt;/li&gt;
+&lt;li&gt;支持自定义函数和变量；&lt;/li&gt;
+&lt;li&gt;支持绘制函数图像和数据图表；&lt;/li&gt;
+&lt;li&gt;支持导入和导出数据，包括文本文件、电子表格和 LaTeX 格式等；&lt;/li&gt;
+&lt;li&gt;支持多种界面语言。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;免费、开源，无广告、无捆绑；&lt;/li&gt;
+&lt;li&gt;支持多种操作系统，包括 Windows、macOS、Linux、FreeBSD 等；&lt;/li&gt;
+&lt;li&gt;界面简洁、易用，支持键盘快捷键；&lt;/li&gt;
+&lt;li&gt;支持高精度计算和科学计数法；&lt;/li&gt;
+&lt;li&gt;支持自动补全和语法高亮；&lt;/li&gt;
+&lt;li&gt;支持多种输入和输出格式，包括纯文本、LaTeX 等；&lt;/li&gt;
+&lt;li&gt;支持自动保存和恢复上次计算结果；&lt;/li&gt;
+&lt;li&gt;支持插件扩展，可以增加更多的功能。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCanHforrJPWhCLryvfSKdTA1?pwd=uw5e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCanHforrJPWhCLryvfSKdTA1?pwd=uw5e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>XnView(图像查看和编辑软件) v2.52.0 中文绿色版</title>
         <link>https://www.danlong360.com/post/94413/</link>
         <pubDate>Mon, 25 Nov 2024 20:50:24 +0800</pubDate>
