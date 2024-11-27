@@ -7,7 +7,81 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 27 Nov 2024 18:31:49 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 27 Nov 2024 21:59:47 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>simplewall(开源Windows防火墙) v3.8.5 中文绿色版</title>
+        <link>https://www.danlong360.com/post/84627/</link>
+        <pubDate>Wed, 27 Nov 2024 21:59:47 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/84627/</guid>
+        <description>&lt;p&gt;simplewall 是一款免费、开源的 Windows 防火墙软件，它可以帮助用户管理和控制计算机上的网络连接，防止恶意软件和网络攻击。simplewall 是一款轻量级的防火墙软件，它不会占用太多系统资源，同时也不需要太多的配置和设置。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/27/drnS3bMPTX9iJmQ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;管理网络连接：simplewall 可以管理计算机上的所有网络连接，并且可以监控和控制这些连接的流量和行为。&lt;/li&gt;
+&lt;li&gt;防止网络攻击：simplewall 可以防止各种类型的网络攻击，例如 DDoS 攻击、端口扫描、恶意软件下载等。&lt;/li&gt;
+&lt;li&gt;自定义规则：simplewall 允许用户创建自定义规则，以控制特定应用程序或进程的网络访问权限。&lt;/li&gt;
+&lt;li&gt;日志记录：simplewall 可以记录所有网络连接和阻止的事件，并且可以导出日志文件以供分析和审计。&lt;/li&gt;
+&lt;li&gt;防止隐私泄露：simplewall 可以防止应用程序和进程泄露用户隐私信息，例如 IP 地址、浏览历史记录等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;开源免费：simplewall 是一款开源免费软件，用户可以自由修改和分发软件代码。&lt;/li&gt;
+&lt;li&gt;轻量级：simplewall 是一款轻量级的防火墙软件，它不会占用太多系统资源，同时也不需要太多的配置和设置。&lt;/li&gt;
+&lt;li&gt;简单易用：simplewall 的界面简单直观，用户可以轻松地配置和管理网络连接和规则。&lt;/li&gt;
+&lt;li&gt;支持 IPv6：simplewall 支持 IPv6 网络连接，以适应不断发展的网络技术。&lt;/li&gt;
+&lt;li&gt;可移植性：simplewall 可以作为便携式应用程序使用，用户可以将它放在 USB 驱动器或移动硬盘上，以在多台计算机上使用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOChw9cacGa_qmsb1gp2RgBQA1?pwd=s9bq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOChw9cacGa_qmsb1gp2RgBQA1?pwd=s9bq&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>WinMerge(文件比较工具) v2.16.44 / 2.16.45.0 Pre-release 中文绿色版</title>
+        <link>https://www.danlong360.com/post/64339/</link>
+        <pubDate>Wed, 27 Nov 2024 21:57:54 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/64339/</guid>
+        <description>&lt;p&gt;WinMerge是一款Windows平台免费开源的文件比较工具的文件差异对比工具,对比文件和文件夹的差异,内置各种解包器插件,支持内容提取,格式美化,编辑器脚本,反编译等,文件筛选器和规则表达式及生成差异补丁.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/27/wyzbVI7fQAqXTkj.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持文件(Windows，Unix和Mac文本文件格式)及文件夹的比较;
+对文本文档的可视化编辑以及合并;
+灵活的编辑器，支持语法高亮、显示行号和自动换行，差异窗口显示;
+在文件比较中检测移动过的段落;
+基于正则表达式的文件过滤器，允许排除和包含项目;
+支持比较文件夹内所有子文件夹;
+以树状形式显示文件夹比较结果;
+支持Windows 7 X64位系统;
+便携式程序，无需安装，有效免费。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Releases · WinMerge/winmerge - GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/WinMerge/winmerge/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/WinMerge/winmerge/releases&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOChw5lSoLv1NhTXx_PIlEcJA1?pwd=22pu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOChw5lSoLv1NhTXx_PIlEcJA1?pwd=22pu&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>WindowTop(窗口置顶工具) Pro v5.25.2 中文绿色版</title>
         <link>https://www.danlong360.com/post/70346/</link>
         <pubDate>Wed, 27 Nov 2024 18:31:49 +0800</pubDate>
