@@ -7,7 +7,208 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 26 Nov 2024 18:53:36 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 27 Nov 2024 11:48:44 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Notepad&#43;&#43;(功能强大的代码编辑器) v8.7.2 中文绿色版</title>
+        <link>https://www.danlong360.com/post/20951/</link>
+        <pubDate>Wed, 27 Nov 2024 11:48:44 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/20951/</guid>
+        <description>&lt;p&gt;Notepad++是一套非常有特色的自由软件的纯文字编辑器(许可证:GPL)，有完整的中文化接口及支援多国语言撰写的功能(UTF8 技术)。它的功能比 Windows 中的 Notepad(记事簿)强大，除了可以用来制作一般的纯文字说明文件，也十分适合当作撰写电脑程序的编辑器。Notepad++ 不仅有语法高亮度显示，也有语法折叠功能，并且支援宏以及扩充基本功能的外挂模组。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/27/42ZaxmtOJeiIqdU.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;① 内置支持多达 27 种语法高亮度显示(囊括各种常见的源代码、脚本，值得一提的是，完美支持 .nfo 文件查看)，也支持自定义语言；
+② 可自动检测文件类型，根据关键字显示节点，节点可自由折叠/打开，代码显示得非常有层次感！这是此软件最具特色的体现之一；
+③ 可打开双窗口，在分窗口中又可打开多个子窗口，允许快捷切换全屏显示模式(f11)，支持鼠标滚轮改变文档显示比例，等等；
+④ 提供数个特色东东，如 邻行互换位置、宏功能，等等…现在网上有很多文件编辑器，这个却是不可多得的一款，不论是日常使用还是手写编程代码，都能让你体会到它独有的优势和方便。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;修复 Unicode 字符上的宏记录回归。
+修复通过资源管理器删除文件只读属性的缺陷检测回归。
+修复在多实例模式回归时打开多文件。
+更新：Scintilla 5.3.5 Lexilla 5.2.5。
+修复 Notepad++ 挂起运行宏到 EOF 的问题。
+修复更改编码时 EOL 符号颜色/外观被重置的问题。
+在程序集源文件中启用代码折叠。 （修复 #13758、#9888）
+修复通过会话问题未记住的文档语言。
+添加 SHA-1 哈希功能。
+添加“启动时另外打开新的空白文档”功能。
+修复 lexer 插件在语言菜单问题中非常规排序
+添加消息 NPPM_DARKMODESUBCLASSANDTHEME 以允许插件使用通用暗模式。
+添加关闭多个文件而不保存在文档列表中的功能。
+几个 GUI 增强功能。
+修复卸载时的错误消息。
+修复卸载时未删除 tabContextMenu_example.xml 的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCflFu7xDDjDiXO655ANgeGA1?pwd=n49t&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCflFu7xDDjDiXO655ANgeGA1?pwd=n49t&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Office Installer Plus(Office安装工具) v1.20 by Ratiborus 汉化版</title>
+        <link>https://www.danlong360.com/post/98439/</link>
+        <pubDate>Wed, 27 Nov 2024 11:46:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/98439/</guid>
+        <description>&lt;p&gt;Office Installer v1.17 by Ratiborus 是一个由 Ratiborus 开发的办公软件安装工具，旨在帮助用户快速方便地安装 Microsoft Office 套件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/27/t5YJfVh7cxZFykr.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;# 静默参数：
+/install - 以隐身模式运行程序并使用之前配置的设置安装 Office。
+该程序旁边应该有一个带有配置参数的Office Installer.ini文件。
+安装可以在在线和离线下执行（Office文件夹应位于程序旁边）
+与之前下载的发行版）静默安装参数在图形界面的初始配置运行设置的。
+/ini:&amp;ldquo;ini 文件名&amp;rdquo; - 使用自定义设置文件。安装时可使用带有命令行参数
+/activate - 使用之前保存的设置文件仅激活 Office软件后然后退出程序
+# 其它问题：
+使用标准方法删除Office软件后，其许可证和密钥仍保留在系统。例如，如果以前有安装过，
+Office 2016，您卸载了它并安装了 Office 2024 - 可能会在 Office 应用程序的属性中看到
+不是Office 2024，而是Office 2016。为防止这种情况发生，建议在程序部分删除旧的office
+“Office Licenses” 查看系统剩余许可证并删除不需要的许可证。如果在启用开关的情况下
+删除了许可证 “删除密钥” - 安装旧 Office 时使用的密钥将从系统中删除。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Office Installer+ | MSFree Soft
+&lt;a class=&#34;link&#34; href=&#34;https://msfree.su/index.php?threads/705/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://msfree.su/index.php?threads/705/&lt;/a&gt;
+Office Installer &amp;amp; Office Installer+ 1.20
+Office Installer中文版 -&amp;gt; 汉化作者: &amp;ldquo;W&amp;rdquo;
+注：增强版(名称标题带+号)支持激活系统&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCfl8AL9_ObPo8izTpPfIMbA1?pwd=s3bk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCfl8AL9_ObPo8izTpPfIMbA1?pwd=s3bk&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Mailbird(全功能电子邮件客户端) v3.0.27 多语便携版</title>
+        <link>https://www.danlong360.com/post/24411/</link>
+        <pubDate>Wed, 27 Nov 2024 11:42:00 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/24411/</guid>
+        <description>&lt;p&gt;Mailbird是一款全功能的电子邮件客户端，旨在提供一个简洁，直观且高效的电子邮件体验。它支持多种电子邮件提供商，如Gmail，Outlook，Yahoo等，可帮助用户集中管理多个电子邮件帐户。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/27/24l6e9SZBsCvtPu.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;多邮箱管理：可以同时连接和管理多个电子邮件帐户，将所有收件箱集中在一个界面上，并通过拖放和标签管理来整理邮件。
+快速搜索：内置的搜索功能可以帮助用户快速找到特定的邮件，提供过滤器和高级搜索选项。
+智能通知：Mailbird会在桌面上方显示通知，提醒用户有新邮件到达，避免错过重要信息。
+拖放功能：用户可以通过拖放附件来快速附加文件，也可以将邮件拖动到其他文件夹或标签中进行整理。
+快捷键支持：Mailbird支持多种快捷键，可以加快用户的操作速度和效率。
+统一的通讯录：用户可以在Mailbird中管理所有的联系人，从而快速查找和发送电子邮件。
+电子邮件模板：用户可以创建电子邮件模板来加快撰写重复性的邮件的速度。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;可定制性：用户可以自定义Mailbird的外观和布局，包括主题，颜色，字体等，以满足个人喜好。
+第三方集成：Mailbird支持与其他应用程序和服务的集成，如日历，任务管理工具，聊天应用等。
+快速操作：Mailbird提供快速回复和转发邮件的选项，用户可以通过简单的点击来完成操作，提高工作效率。
+多语言支持：Mailbird支持多种语言，方便用户在自己习惯的语言环境下使用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCfkud6U4kPvye-v7NvPlKqA1?pwd=jde9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCfkud6U4kPvye-v7NvPlKqA1?pwd=jde9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>QOwnNotes(跨平台笔记应用程序) v24.11.4 中文绿色版</title>
+        <link>https://www.danlong360.com/post/20235/</link>
+        <pubDate>Wed, 27 Nov 2024 11:40:39 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/20235/</guid>
+        <description>&lt;p&gt;QOwnNotes是一款功能强大的跨平台笔记应用程序，可以帮助用户轻松管理笔记、任务和清单。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/27/Vfu6ByeLSDiFtIr.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.支持多种编辑器：支持Markdown、Html、和其它多种文本编辑器；
+2.易于搜索：可设置快捷键进行搜索，支持正则表达式搜索；
+3.多个账户：可以管理多个账户，并可以自定义设置；
+4.可定义笔记标签：可以使用标签来组织笔记，方便查找；
+5.全文搜索：支持全文搜索，可以在整个笔记库中搜索文本；
+6.数据同步：可以通过多种方式进行数据同步，包括Dropbox、Nextcloud等；
+7.导出功能：可以通过PDF、HTML等格式导出笔记。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;24.11.4
+There now is a new script function script.textDiffDialog that opens a dialog
+to show the differences between two texts and lets the user edit the result
+(for #3163)
+There is an example at
+ai-text-tool.qml
+For more information please take a look at the
+scripting documentation
+Added more Dutch, Korean, Spanish, Brazilian Portuguese, French, Swedish translation
+(thank you, stephanp, venusgirl, alejandromoc, camemb3rt, jd-develop, dzenan)&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCfkpNo8jlSRVXLquHjeEl4A1?pwd=757j&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCfkpNo8jlSRVXLquHjeEl4A1?pwd=757j&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Thunderbird(开源电子邮件客户端) v133.0</title>
+        <link>https://www.danlong360.com/post/51608/</link>
+        <pubDate>Wed, 27 Nov 2024 11:38:04 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/51608/</guid>
+        <description>&lt;p&gt;Thunderbird 是一款免费开源的电子邮件客户端，由 Mozilla Foundation 开发，支持多种平台，包括 Windows、MacOS 和 Linux。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/27/8vqnjPryc6VMd1J.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;电子邮件收发：支持 POP3、IMAP 和 SMTP 协议，可收发电子邮件。&lt;/li&gt;
+&lt;li&gt;电子邮件管理：支持创建、删除、编辑、归档和搜索邮件。&lt;/li&gt;
+&lt;li&gt;安全防护：支持加密传输和数字签名，可保护电子邮件安全性。&lt;/li&gt;
+&lt;li&gt;联系人管理：支持创建、删除、编辑和搜索联系人，可导出和导入联系人列表。&lt;/li&gt;
+&lt;li&gt;日历管理：支持创建、编辑和管理日历，可添加日程安排和提醒。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;电子邮件客户端：提供了完整的邮件功能，包括收发邮件、邮件筛选、垃圾邮件过滤等。&lt;/li&gt;
+&lt;li&gt;可扩展性：支持大量插件和主题，可定制 Thunderbird 的外观和功能。&lt;/li&gt;
+&lt;li&gt;多账户支持：可同时管理多个邮件账户和日历，方便用户集中管理。&lt;/li&gt;
+&lt;li&gt;开源免费： Thunderbird 是一款自由软件，用户可以免费使用、拷贝、分发和修改。&lt;/li&gt;
+&lt;li&gt;跨平台：支持 Windows、MacOS 和 Linux 等多个平台，用户可以在不同的设备上使用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCfkegNOWftZ_VLiC-O6UIcA1?pwd=ukdm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCfkegNOWftZ_VLiC-O6UIcA1?pwd=ukdm&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>uyou ToDo(待办事项管理软件) v3.1.0 中文绿色版</title>
         <link>https://www.danlong360.com/post/32905/</link>
         <pubDate>Tue, 26 Nov 2024 18:53:36 +0800</pubDate>
