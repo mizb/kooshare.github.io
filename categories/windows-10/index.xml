@@ -7,7 +7,58 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 24 Nov 2024 20:28:55 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-10/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 28 Nov 2024 17:30:52 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-10/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows 10 22H2 Build 19045.5198 RTM</title>
+        <link>https://www.danlong360.com/post/79351/</link>
+        <pubDate>Thu, 28 Nov 2024 17:30:52 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/79351/</guid>
+        <description>&lt;p&gt;微软Win10系统下载,微软Win10 22H2下载,微软Win10 22H2正式版,Windows 10 22H2系统Win10 Build 19045累积更新正式版.Windows 10 22H2正式版首个初始版官方ISO镜像2022年10月推出,大版本命名22H2,内部版19045&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/28/UZ1xL8bRkqjGgzW.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Windows 10 版本22H2更新历史记录 - Microsoft 支持
+&lt;a class=&#34;link&#34; href=&#34;https://support.microsoft.com/en-us/help/5018682&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/en-us/help/5018682&lt;/a&gt;
+2024年11月累积更新(KB5046714) Windows 10 version 22H2(OS build 19045.5198) Update
+&lt;a class=&#34;link&#34; href=&#34;https://support.microsoft.com/zh-cn/help/5046714&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/zh-cn/help/5046714&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;[简体中文] Windows 10 22H2 19045.5198 22in1镜像(2024年11月) - fch1993&lt;/p&gt;
+&lt;p&gt;- 包含8大基准版和转制转制得到的14个版本
+(家庭版/家庭中文版/家庭版N,专业版/专业版N,企业版 LTSC 2021/企业版 N LTSC 2021/企业版G)&lt;/p&gt;
+&lt;p&gt;- 集成功能和更新如下：
+.NET Framewrok 3.5（含简体中文语言包）
+KB5046823（2024年10月服务堆栈更新 19041.5071.1.1）
+KB5046714（2024年11月累积更新 19041.5198.1.18）
+KB5011048（.NET Framework 4.8.1 10.0.1.8028）
+KB5011050（.NET Framework 4.8.1 简体中文语言包）
+KB5048161（2024年11月.NET Framewrok 4.8.1 累积更新 10.0.9290.1）
+KB5046913（2024年11月Safe OS更新）
+KB5045523（2024年10月安装镜像文件更新）
+KB5015684（22H2启用补丁，仅用于SAC版本）
+KB5019180（2023年03月Intel 微码更新）&lt;/p&gt;
+&lt;p&gt;- 基于微软官方下载的原版文件自制的简体中文版和多国语言版RTM镜像
+- 转制版本后转换为install.esd节省体积, 制作过程严格参考微软集成说明&lt;/p&gt;
+&lt;p&gt;注：根据微软目前的推荐推荐方案，对于winre.wim只需集成Safe OS更新
+无需集成累计更新。(而 boot.wim 则是集成累计更新而不是Safe OS更新)&lt;/p&gt;
+&lt;p&gt;19045.5198.241117-1424.22H2_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_ZH-CN.iso
+SHA1: 5036988e7146f2d60d925b38d4754e216ca59f61
+MD5: de204ef90a1569830c02c7c9ac921f68&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCm7n0hBwl9VSiepj5qJabrA1?pwd=44kd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCm7n0hBwl9VSiepj5qJabrA1?pwd=44kd&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows 10 LTSC 2021 Build 19044.5198</title>
         <link>https://www.danlong360.com/post/33349/</link>
         <pubDate>Sun, 24 Nov 2024 20:28:55 +0800</pubDate>
