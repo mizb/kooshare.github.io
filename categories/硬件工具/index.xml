@@ -7,7 +7,78 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 27 Nov 2024 18:28:49 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 28 Nov 2024 12:51:34 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ASUS GPU Tweak III(华硕显卡超频工具) v1.8.1.2</title>
+        <link>https://www.danlong360.com/post/56101/</link>
+        <pubDate>Thu, 28 Nov 2024 12:51:34 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/56101/</guid>
+        <description>&lt;p&gt;GPU Tweak III 是一款能够优化显卡性能的软件，主要以调整显卡的频率、电压、风扇速度为主要功能，以求提升游戏体验、提高显卡性能为宗旨。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/28/R5t9MgofWchK2qn.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1.显卡超频：可自定义GPU和内存频率、电压，以达到更快的显卡速度。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;显卡监控：可实时监测显卡温度、占用率、频率等，保证显卡安全、稳定运行。&lt;/li&gt;
+&lt;li&gt;风扇曲线：可自定义风扇速度曲线，以使显卡散热更为有效。&lt;/li&gt;
+&lt;li&gt;充电保护：可在电量低于特定电量时，显卡自动停止超频，以保证充电安全。&lt;/li&gt;
+&lt;li&gt;光效调节：可调节显卡的RGB灯效，以使显卡更为炫酷。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持几乎所有品牌的显卡，使用范围广泛。&lt;/li&gt;
+&lt;li&gt;界面简洁、易操作，适合各种用户。&lt;/li&gt;
+&lt;li&gt;支持一键超频功能，入门级用户也能轻松完成显卡超频。&lt;/li&gt;
+&lt;li&gt;可存储用户自定义的参数配置，以便下次使用。&lt;/li&gt;
+&lt;li&gt;资源占用小，对系统影响较小。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOClC62YI8cp7PVkq3ZkJKahA1?pwd=ejha&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOClC62YI8cp7PVkq3ZkJKahA1?pwd=ejha&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>StressTheGPU(显卡性能测试工具) v1.11 中文绿色版</title>
+        <link>https://www.danlong360.com/post/76949/</link>
+        <pubDate>Thu, 28 Nov 2024 12:45:20 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/76949/</guid>
+        <description>&lt;p&gt;StressTheGPU 是一款专为测试和压力测试图形处理单元（GPU）而设计的工具。它通过运行高强度的图形计算任务，帮助用户检测和评估GPU的性能和稳定性。StressTheGPU 适用于个人用户、硬件爱好者和专业技术人员，帮助他们确保GPU在高负载下的表现和可靠性。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/28/PzrZqeCLp6aMAiR.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;GPU 测试：运行高强度的图形计算任务，测试GPU的性能和稳定性。
+温度监测：实时监测GPU的温度变化，确保测试过程中GPU不会过热。
+性能记录：记录测试过程中的性能数据，包括帧率、温度和功耗等，生成详细的测试报告。
+自定义测试：允许用户自定义测试时间和强度，满足不同测试需求。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁：提供直观的用户界面，操作简单，即使是初学者也能快速上手。
+实时监测：在测试过程中实时显示GPU的温度变化，确保测试安全。
+性能记录：记录测试过程中的性能数据，生成详细的测试报告，帮助用户分析和评估GPU性能。
+自定义测试：允许用户自定义测试时间和强度，满足不同测试需求，提升测试灵活性。
+低资源消耗：软件运行轻量，占用系统资源少，不会影响其他应用程序的正常运行。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOClBgQI-HlFzLgpux5BxGdgA1?pwd=hfcv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOClBgQI-HlFzLgpux5BxGdgA1?pwd=hfcv&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>AIDA64安卓版(手机硬件检测工具) v2.05 解锁内购去广告版</title>
         <link>https://www.danlong360.com/post/3792/</link>
         <pubDate>Wed, 27 Nov 2024 18:28:49 +0800</pubDate>
