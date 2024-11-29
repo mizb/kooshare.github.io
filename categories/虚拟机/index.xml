@@ -7,7 +7,66 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 20 Nov 2024 23:55:56 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 29 Nov 2024 12:37:05 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>沙盘SandBoxie Classic_v5.70.3 / Plus 1.15.3</title>
+        <link>https://www.danlong360.com/post/1745/</link>
+        <pubDate>Fri, 29 Nov 2024 12:37:05 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/1745/</guid>
+        <description>&lt;p&gt;沙盘Sandboxie中文版是一款知名的系统安全工具的菜鸟高手裸奔工具,它可以让选定程序在安全的隔离系统环境下运行,只要在此环境中运行的软件,浏览器或注册表信息等都可以完整的进行清空,不留一点痕迹.同时可以防御些带有木马或者病毒的恶意网站,对于经常测试软件或者不放心的软件,可放心在沙盘里面运行.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/29/YHsmk4zdnwWuxBv.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;沙盒环境：
+创建沙盒：用户可以创建多个沙盒环境，每个沙盒都是一个独立的虚拟环境。
+隔离运行：应用程序在沙盒中运行时，其所有操作（如文件写入、注册表更改等）都会被隔离，不会影响主系统。
+浏览和下载：
+安全浏览：用户可以在沙盒中安全地浏览网页，即使访问了恶意网站也不会影响主系统。
+安全下载：用户可以在沙盒中下载文件，测试文件的安全性后再决定是否将其转移到主系统。
+系统保护：
+文件和注册表保护：沙盒中的所有文件和注册表更改都会被隔离，不会影响主系统的文件和注册表。
+临时文件清理：沙盒关闭时，所有临时文件和更改都会被自动清除，确保系统干净。
+应用程序隔离：
+隔离运行：用户可以将任何应用程序隔离在沙盒中运行，包括浏览器、邮件客户端、下载工具等。
+自动隔离：支持自动将特定应用程序隔离到沙盒中运行，无需每次都手动操作。
+管理工具：
+沙盒管理器：提供沙盒管理器，用户可以方便地管理多个沙盒，查看沙盒中的文件和操作记录。
+沙盒设置：支持自定义沙盒设置，如沙盒名称、颜色标识、存储位置等。
+日志和报告：
+操作日志：记录沙盒中的所有操作日志，方便用户查看和审计。
+报告生成：生成详细的报告，帮助用户了解沙盒中的活动。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高效隔离：使用高效的隔离技术，确保应用程序在沙盒中的所有操作都不会影响主系统。
+用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多沙盒支持：支持创建多个沙盒环境，每个沙盒都可以独立配置和管理。
+自动清理：沙盒关闭时自动清理所有临时文件和更改，确保系统干净。
+兼容性强：支持多种操作系统和应用程序，包括 Windows XP 到 Windows 11。
+轻量级：占用系统资源少，不会显著影响系统性能。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;sandboxie-plus/Sandboxie - GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/sandboxie-plus/Sandboxie/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/sandboxie-plus/Sandboxie/releases&lt;/a&gt;
+官方论坛2020年3月份公布免费开源Sandboxie源码
+最后一个官方数字签名的免费版的版本号为 v5.33.6
+现由开发者@DavidXanatos个人接盘持续更新维护
+Sandboxie Classic ：沙盘经典版，安全更新!
+Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCqIzE-3WkC80yAKFUjPqLOA1?pwd=a38r&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCqIzE-3WkC80yAKFUjPqLOA1?pwd=a38r&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>雷电模拟器9 v9.1.30.0 去广告绿色纯净版</title>
         <link>https://www.danlong360.com/post/20388/</link>
         <pubDate>Wed, 20 Nov 2024 23:55:56 +0800</pubDate>
