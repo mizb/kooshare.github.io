@@ -7,7 +7,48 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 12 Nov 2024 18:10:37 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%A7%A3%E5%8E%8B%E5%B0%81%E8%A3%85/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 01 Dec 2024 00:26:58 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%A7%A3%E5%8E%8B%E5%B0%81%E8%A3%85/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>7-Zip解压缩软件 v24.09 官方简体中文版</title>
+        <link>https://www.danlong360.com/post/97822/</link>
+        <pubDate>Sun, 01 Dec 2024 00:26:58 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/97822/</guid>
+        <description>&lt;p&gt;7-Zip是一款免费的开源压缩软件，支持30多种压缩格式，包括ZIP、RAR、7Z等常见的压缩格式，以及一些较为特殊的格式，如CPIO、TAR、ISO等。除了压缩和解压缩的功能外，7-Zip还提供了强大的加密和加密文件夹的功能，以及压缩文件的分卷、自解压等实用功能。该软件还具有较高的压缩率，因此备受压缩爱好者的青睐。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/97822/20241201_122712.png&#34;
+	width=&#34;587&#34;
+	height=&#34;430&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;136&#34;
+		data-flex-basis=&#34;327px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h3&gt;&lt;p&gt;1.支持多种格式：7-Zip支持30多种压缩格式，包括ZIP、RAR、7Z等常见格式以及一些较为特殊的格式，如CPIO、TAR、ISO等。
+2.高压缩率：7-Zip具有较高的压缩率，可以有效地减少文件的大小，使其更易于传输和存储。
+3.加密功能：该软件提供了强大的加密和加密文件夹的功能，可以保护您的私人文件不被他人看到。
+4.支持多种解压方式：除了支持常规的解压方式外，7-Zip还支持压缩文件的分卷、自解压等实用功能。
+5.免费开源：7-Zip是一款完全免费的开源软件，可以自由使用和分发。同时，它也具有较为友好的用户界面，易于操作。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;24.09 2024-11-30
+-&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
+增加LZMA/LZMA2 压缩方法的默认字典大小值
+7-Zip 现在可以计算以下哈希校验和：SHA-512、SHA-384、SHA3-256 和 MD5。
+APM 和 HFS 支持得到了改进。
+如果存档更新操作使用临时存档文件夹并且存档被移动到目标文件夹，则 7-Zip 将显示移动存档文件的进度，因为如果存档很大，此操作可能需要很长时间。
+错误已修复：7-Zip 文件管理器没有传播从嵌套档案中提取的文件的 Zone.Identifier 流（如果在另一个打开的档案内有一个打开的档案）。
+修正了一些错误。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCxu7GAmRb_1ET6m0bAnhRnA1?pwd=kbzr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCxu7GAmRb_1ET6m0bAnhRnA1?pwd=kbzr&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>PeaZip(免费压缩文档管理工具) v10.1.0 中文绿色版</title>
         <link>https://www.danlong360.com/post/7477/</link>
         <pubDate>Tue, 12 Nov 2024 18:10:37 +0800</pubDate>

@@ -7,7 +7,155 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 30 Nov 2024 19:12:08 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 01 Dec 2024 00:38:06 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%94%B5%E8%84%91%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>《Victoria 3 维多利亚3》v1.8.2 中文版</title>
+        <link>https://www.danlong360.com/post/64489/</link>
+        <pubDate>Sun, 01 Dec 2024 00:38:06 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/64489/</guid>
+        <description>&lt;p&gt;Paradox Development Studio 邀请您到精彩刺激且充满变革的 19 世纪打造理想的社会。在 Paradox 史上最受期待的游戏之一《Victoria 3》中，平衡社会上存在的利益冲突，并称霸天下。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/64489/20241130224140052934.webp&#34;
+	width=&#34;1500&#34;
+	height=&#34;843&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;包含dlc&#34;&gt;包含DLC
+&lt;/h3&gt;&lt;p&gt;- Victoria 3: Victoria II Remastered Songs&lt;/p&gt;
+&lt;p&gt;- Victoria 3: American Buildings Pack&lt;/p&gt;
+&lt;p&gt;- Victoria 3: Expansion Pass&lt;/p&gt;
+&lt;p&gt;- Victoria 3: Voice of the People&lt;/p&gt;
+&lt;p&gt;- Victoria 3: Melodies for the Masses Music Pack&lt;/p&gt;
+&lt;p&gt;- Victoria 3: French Agitators Bonus Pack&lt;/p&gt;
+&lt;p&gt;- Victoria 3: Dawn of Wonder&lt;/p&gt;
+&lt;p&gt;- Victoria 3: Colossus of the South（新增）&lt;/p&gt;
+&lt;h3 id=&#34;中文设置&#34;&gt;中文设置
+&lt;/h3&gt;&lt;p&gt;Settings-Game-Language-中文-OK-重启游戏生效&lt;/p&gt;
+&lt;p&gt;如果无效打开我的文档找到\Paradox Interactive\Victoria 3里的pdx_settings.json用记事本打开把内容改为以下并保存&lt;/p&gt;
+&lt;p&gt;{&amp;ldquo;Graphics&amp;rdquo;:{&amp;ldquo;display_mode&amp;rdquo;:&amp;ldquo;fullscreen&amp;rdquo;,&amp;ldquo;display_index&amp;rdquo;:&amp;ldquo;0&amp;rdquo;,&amp;ldquo;vsync&amp;rdquo;:true,&amp;ldquo;fullscreen_resolution&amp;rdquo;:&amp;ldquo;2560x1440&amp;rdquo;},&amp;ldquo;System&amp;rdquo;:{&amp;ldquo;language&amp;rdquo;:&amp;ldquo;l_simp_chinese&amp;rdquo;}}&lt;/p&gt;
+&lt;p&gt;然后把该文件右键-属性-设置为只读&lt;/p&gt;
+&lt;h3 id=&#34;版本介绍&#34;&gt;版本介绍
+&lt;/h3&gt;&lt;p&gt;v1.8.2|容量13.2GB|官方简体中文|支持键盘.鼠标|赠多项修改器&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/84b39f1fbbe2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/84b39f1fbbe2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>《地狱之刃2：塞娜的献祭》中文版</title>
+        <link>https://www.danlong360.com/post/81823/</link>
+        <pubDate>Sun, 01 Dec 2024 00:37:09 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/81823/</guid>
+        <description>&lt;p&gt;在這款獲獎無數的《Senua&amp;rsquo;s Saga：Hellblade》系列作之中，賽努雅再次踏上了殘酷的生存之旅，而這次來到了維京冰島的神話和折磨之中。為了拯救那些飽受暴政恐怖殘害的人，賽努雅面臨著一場必須克服內在與外在黑暗的戰鬥。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/81823/20240522040159059715.webp&#34;
+	width=&#34;1500&#34;
+	height=&#34;843&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本介绍&#34;&gt;版本介绍
+&lt;/h3&gt;&lt;p&gt;v1.0.0|容量49.5GB|官方简体中文|支持键盘.鼠标.手柄&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f134c527e789&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f134c527e789&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>《极限竞速：地平线4 终极版》v1.478.564.0 全DLC 官方中文版</title>
+        <link>https://www.danlong360.com/post/57655/</link>
+        <pubDate>Sun, 01 Dec 2024 00:34:33 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/57655/</guid>
+        <description>&lt;p&gt;《极限竞速：地平线4》是由微软发行的一款赛车竞速游戏，也是地平线系列的最新作品。不同于正传Foza系列，地平线系列的拟真元素要少了许多，重心更加偏向于街车与自由度方面。操作手感上也更轻量化，更加的爽快和刺激&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/57655/20241130211005863913.webp&#34;
+	width=&#34;1500&#34;
+	height=&#34;843&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;游戏下载&#34;&gt;游戏下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7043d63ca82e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/7043d63ca82e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>《生化变种 豪华版》v1.7.0 整合DLC 官方中文版</title>
+        <link>https://www.danlong360.com/post/94162/</link>
+        <pubDate>Sun, 01 Dec 2024 00:33:36 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/94162/</guid>
+        <description>&lt;p&gt;《生化变种》是由Experiment 101制作，THQ Nordic发行的一款开放世界的动作冒险类游戏。本作有着独特的宇宙设定，并讲述了一部后启示录风格的带有功夫元素的传奇故事。主角像是一只独眼浣熊（有点《银护》里火箭浣熊的感觉），手握大剑，身上还背着子弹，可爱又不失威严。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/94162/20241130210648233597.webp&#34;
+	width=&#34;1500&#34;
+	height=&#34;843&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;游戏下载&#34;&gt;游戏下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f48440af9478&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f48440af9478&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>《最终幻想15 豪华中文收藏版》 v1261414 全DLC&#43;满级全通关存档&#43;修改器</title>
+        <link>https://www.danlong360.com/post/52509/</link>
+        <pubDate>Sun, 01 Dec 2024 00:32:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/52509/</guid>
+        <description>&lt;p&gt;《最终幻想15》以系列共通的新水晶神话为基础，同时展开独立的世界观、使用不同的视觉设计以及角色。游戏主人公诺克提斯·路西斯·凯拉姆是路西斯王国的王子，这个王族保护世界仅存的一颗水晶，并支配一个技术先进的城邦。游戏采用场景可无缝切入战斗的定制系统，玩家可以使用跳跃和短跳跃键发动连续攻击、与伙伴合作攻击动作，有很大自由来选择偏爱的战斗方式。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/52509/20241130210238059098.webp&#34;
+	width=&#34;1400&#34;
+	height=&#34;787&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;游戏下载&#34;&gt;游戏下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/45309dc20f01&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/45309dc20f01&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>《死亡岛2》v1.1062983.0.1 联机版</title>
         <link>https://www.danlong360.com/post/79729/</link>
         <pubDate>Sat, 30 Nov 2024 19:12:08 +0800</pubDate>
