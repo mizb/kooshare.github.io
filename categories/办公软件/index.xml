@@ -7,7 +7,98 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 30 Nov 2024 18:48:35 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 01 Dec 2024 11:51:45 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PDF补丁丁(修改PDF工具) v1.0.4.4514 / 1.1.0.4584 Beta 中文绿色版</title>
+        <link>https://www.danlong360.com/post/92861/</link>
+        <pubDate>Sun, 01 Dec 2024 11:51:45 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/92861/</guid>
+        <description>&lt;p&gt;PDFPatcher 是一款专门用于编辑 PDF 文件的软件，其主要功能包括添加、删除、修改、替换和提取 PDF 文件中的文本、图像、页面等内容，以及支持密码保护、数字签名等安全性功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/92861/20241201_115157.png&#34;
+	width=&#34;606&#34;
+	height=&#34;507&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;119&#34;
+		data-flex-basis=&#34;286px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;功能特点&#34;&gt;功能特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;文本编辑：支持添加、删除、修改 PDF 文件中的文本内容，包括字体、颜色、大小、对齐方式等属性。&lt;/li&gt;
+&lt;li&gt;图像编辑：支持添加、删除、替换 PDF 文件中的图片和图形，包括清晰度、显示优化、旋转、缩放等功能。&lt;/li&gt;
+&lt;li&gt;页面编辑：支持调整 PDF 文件中的页面大小、方向、边距，以及添加或删除 PDF 文件中的页面。&lt;/li&gt;
+&lt;li&gt;安全保护：支持将 PDF 文件进行密码保护、数字签名等安全性处理，保证文档的完整性和安全性。&lt;/li&gt;
+&lt;li&gt;批量处理：支持对多个 PDF 文件进行批量处理，减少操作时间和手动干预。&lt;/li&gt;
+&lt;li&gt;兼容性强：支持几乎所有版本的 PDF 文件，包括 PDF 1.0 到 PDF 2.0 版本的文档。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;总之，PDFPatcher 是一款功能强大、易于操作的 PDF 编辑软件，可以满足用户对 PDF 文件的各种编辑需求。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;1.1.0.4583
+新增功能：
+可以按首页统一文档页面尺寸。
+修改功能：
+新的 MuPDF 库。
+修复问题：
+使用探查器分析内容流遇到异常内容将导致程序崩溃。
+提取图片过程中可能会出现堆栈溢出错误。
+打开未嵌入字体的文档可能会崩溃。
+某些情况下没有正确设置输出图像的分辨率。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOD-N4Xklqm1IfRRL4WjhL27A1?pwd=qcs8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOD-N4Xklqm1IfRRL4WjhL27A1?pwd=qcs8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Balabolka(文本转语音工具) v2.15.0.883 中文绿色版</title>
+        <link>https://www.danlong360.com/post/45445/</link>
+        <pubDate>Sun, 01 Dec 2024 11:43:19 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/45445/</guid>
+        <description>&lt;p&gt;Balabolka是一款免费的TTS（文字转语音）软件，它能够将文本转换成语音，支持多种语言和声音，包括英语、西班牙语、法语、德语、俄语等。Balabolka还支持将文本转换成音频文件，支持多种格式，如MP3、WAV、OGG等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/45445/20241201_114330.png&#34;
+	width=&#34;632&#34;
+	height=&#34;492&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;128&#34;
+		data-flex-basis=&#34;308px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;文本转语音：将文本转换成语音，支持多种语言和声音。&lt;/li&gt;
+&lt;li&gt;批量处理：支持批量处理文本文件，可以一次性将多个文本文件转换成语音或音频文件。&lt;/li&gt;
+&lt;li&gt;自定义设置：支持自定义语音设置，可以调整语速、音调、音量等参数。&lt;/li&gt;
+&lt;li&gt;支持多种格式：支持将文本转换成多种音频格式，包括MP3、WAV、OGG等。&lt;/li&gt;
+&lt;li&gt;支持剪切板：支持从剪切板中读取文本并转换成语音或音频文件。&lt;/li&gt;
+&lt;li&gt;支持多种界面语言：支持多种界面语言，包括中文、英文、法语、德语等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;免费：Balabolka是一款完全免费的软件，无需付费或注册。&lt;/li&gt;
+&lt;li&gt;界面简洁：软件界面简洁明了，易于操作。&lt;/li&gt;
+&lt;li&gt;支持多种语言：Balabolka支持多种语言和声音，方便用户选择最适合自己的语音。&lt;/li&gt;
+&lt;li&gt;转换速度快：Balabolka转换速度快，可以快速将文本转换成语音或音频文件。&lt;/li&gt;
+&lt;li&gt;自定义设置：Balabolka支持自定义语音设置，可以根据个人喜好调整语速、音调、音量等参数。&lt;/li&gt;
+&lt;li&gt;多种输出格式：Balabolka支持将文本转换成多种音频格式，方便用户选择最适合自己的格式。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOD-MQ8WoV4Dm0Q1D-6Y2aEXA1?pwd=52qc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOD-MQ8WoV4Dm0Q1D-6Y2aEXA1?pwd=52qc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Office Tab(Office多标签页增强插件) v16.00.001 中文破解版</title>
         <link>https://www.danlong360.com/post/65856/</link>
         <pubDate>Sat, 30 Nov 2024 18:48:35 +0800</pubDate>
