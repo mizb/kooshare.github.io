@@ -7,7 +7,54 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 01 Dec 2024 19:08:12 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%A7%A3%E5%8E%8B%E5%B0%81%E8%A3%85/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 02 Dec 2024 17:16:11 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%A7%A3%E5%8E%8B%E5%B0%81%E8%A3%85/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>7-Zip解压软件(美化版、解NSIS脚本版) v24.09 美化增强版</title>
+        <link>https://www.danlong360.com/post/2384/</link>
+        <pubDate>Mon, 02 Dec 2024 17:16:11 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/2384/</guid>
+        <description>&lt;p&gt;7-Zip 是一款免费的文件压缩/解压软件，拥有极高的压缩率。它特有的高解压速率，是其它的压缩软件难以相比的。它源自 LZ77 的优化改进的 LZMA 算法，具有高压缩率、可变的字典大小、高解压速率、低解压内存消耗等优点，现已被很多脚本安装程序作为默认的压缩算法。
+安装包中附带 7-Zip 官方简体中文作者 Sparanoid 和 Muou 制作的美化图标组。如果之前关联使用的是 7-Zip 原作者 (Igor Pavlov) 的图标，则美化图标将在系统重启后才能生效；反之亦需重启系统方可生效。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/2384/20241202_051627.png&#34;
+	width=&#34;499&#34;
+	height=&#34;360&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;138&#34;
+		data-flex-basis=&#34;332px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特别鸣谢&#34;&gt;特别鸣谢
+&lt;/h3&gt;&lt;p&gt;感谢【7－Zip】Igor Pavlov 发布如此优秀的免费压缩软件；
+感谢【汉化新世纪】提供优秀的汉化发布平台；
+加入 7-Zip 美化图标组，向 Sparanoid 和 Muou 致谢；
+右键菜单项翻译参照 WinRAR 官方简体中文版，向 周明波 致谢；
+模仿 zhfi 的安装包界面，在此感谢他的付出；
+制作安装包的过程中得到了贾可的无私帮助，非常感谢。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;汉化 SFX 文件
+使用了 Sparanoid 美化图标并补全格式
+使用了 Muou 美化图标
+右键菜单图标修改
+右键菜单参照 WinRAR 翻译
+32 位 &amp;amp; 64 位二合一
+可解压NSIS脚本（下载带有UnNSIS字样版本，使用了myfreeer大佬开源文件修改，致谢）&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2024.12.02
+跟进 24.09 版
+格式关联完善
+更新解NSIS脚本版&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOD5jdm3VhLzpOdLAqdgeV6cA1?pwd=uc99&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOD5jdm3VhLzpOdLAqdgeV6cA1?pwd=uc99&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>7-Zip解压软件(美化版、解NSIS脚本版) v24.09 美化增强版</title>
         <link>https://www.danlong360.com/post/73212/</link>
         <pubDate>Sun, 01 Dec 2024 19:08:12 +0800</pubDate>
