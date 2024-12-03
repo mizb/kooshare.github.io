@@ -7,7 +7,143 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 01 Dec 2024 11:51:07 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 03 Dec 2024 07:03:29 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>QuickMemoryTestOK(内存测试工具) v4.88 中文绿色版</title>
+        <link>https://www.danlong360.com/post/39382/</link>
+        <pubDate>Tue, 03 Dec 2024 07:03:29 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/39382/</guid>
+        <description>&lt;p&gt;QuickMemoryTestOK 是一款专门用于测试计算机内存（RAM）可靠性的软件。它通过执行一系列复杂的算法来检测内存模块是否存在错误或故障，从而帮助用户确保系统的稳定性和可靠性。这款软件广泛应用于个人电脑用户、IT专业人士以及企业环境中，特别是在需要长时间稳定运行的服务器和工作站上。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/39382/20241203_070340.png&#34;
+	width=&#34;623&#34;
+	height=&#34;552&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;112&#34;
+		data-flex-basis=&#34;270px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;内存测试：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;基本测试：执行基础的内存读写测试，检查内存的基本功能是否正常。
+高级测试：执行更复杂的测试模式，包括地址测试、位翻转测试、随机数据测试等，以检测潜在的内存错误。
+自定义测试：允许用户选择特定的测试模式和测试范围，满足不同的测试需求。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;错误检测与报告：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;实时监控：在测试过程中实时监控内存状态，显示当前的测试进度和结果。
+错误报告：测试完成后生成详细的错误报告，列出所有检测到的错误类型和位置。
+日志记录：支持日志记录功能，用户可以保存测试结果以便后续分析和参考。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;系统兼容性：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;多平台支持：支持 Windows、Linux 和 macOS 操作系统，确保在不同平台上都能正常使用。
+多内存类型支持：支持 DDR、DDR2、DDR3、DDR4 和 DDR5 等多种内存类型，适用于不同配置的计算机。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;用户界面：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;图形界面：提供直观的图形用户界面，用户可以通过简单的点击操作完成测试设置和启动。
+命令行模式：支持命令行模式，适合高级用户和自动化脚本使用。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;其他功能：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;多语言支持：提供多种语言版本，包括英语、中文、日语等，满足不同用户的语言需求。
+轻量级设计：占用系统资源少，启动速度快，运行流畅。
+自动更新：支持自动更新功能，确保用户始终使用最新版本的软件。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;- 高精度测试：采用先进的测试算法，能够准确检测内存中的微小错误，确保测试结果的可靠性。
+- 易用性：提供简单直观的用户界面，即使是非专业用户也能轻松上手。
+- 全面的测试模式：支持多种测试模式，满足不同场景下的测试需求。
+- 详细的错误报告：生成详细的错误报告，帮助用户快速定位和解决问题。
+- 多平台兼容：支持多种操作系统和内存类型，适用范围广。
+- 轻量级设计：占用系统资源少，不会影响其他应用程序的运行。
+- 多语言支持：提供多种语言版本，方便全球用户使用。
+- 免费开源：部分版本免费提供，源代码开放，用户可以根据需要进行定制和扩展。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOD8hzWQmRb_1ET6m0bFJo9JA1?pwd=ahdc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOD8hzWQmRb_1ET6m0bFJo9JA1?pwd=ahdc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>万能驱动VIP版(万能驱动8 EasyDrv) v24v6</title>
+        <link>https://www.danlong360.com/post/2971/</link>
+        <pubDate>Tue, 03 Dec 2024 07:00:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/2971/</guid>
+        <description>&lt;p&gt;万能驱动7自2017年发布至今已6年有余，今天将画上最终版的句号，继任者万能驱动8已蓄势待发（VIP抢先体验）。相较万能驱动7，万能驱动8使用了全新的设计理念，硬件检索、驱动安装等方面皆有新技术加持，驱动库、软件库可全面自定义。沉浸技术十余载，只为与诸君分享更加完善的驱动安装体验，感谢大家的支持与厚爱！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/2971/20241203_070114.png&#34;
+	width=&#34;640&#34;
+	height=&#34;437&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;146&#34;
+		data-flex-basis=&#34;351px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;[VIP] 万能驱动 8 (24v4) EDrv8详细版本号：8.1.2408.10312 (2024/08/26)
+万能驱动8全新UI设计使交互更直观，进一步优化了硬件识别和驱动检索能力，
+提高了驱动搭配的自由度，新增驱动包自定义功能，令操作变得更加得心应手。&lt;/p&gt;
+&lt;p&gt;# 更新日志 - 驱动
+万能驱动 v8.1 （64位 Win10专版） 2024-05【Windows 10/11 x64】
+1、【显卡】更新 AMD Radeon R2/R3/R4/R6/R5/R7/R9/RX系列显卡驱动v24.3.1版
+2、【显卡】更新 Intel TGL/RKL/RPL/ADL/Arc系列显卡驱动v31.0.101.5382版
+3、【显卡】更新 NVIDIA GeForce600-GeForce4000系列桌面/移动显卡驱动v552.12-DCH版
+4、【网卡】新增 Motorcomm YT6801网卡驱动v1.0.1.37版
+5、【无线网卡】更新 Intel Wireless 无线网卡驱动v23.40.0.4版
+6、【无线网卡】更新 Realtek瑞昱 8852AU USB无线网卡驱动v5001.19.105.1版
+7、【无线网卡】更新 Realtek瑞昱 8851BE Wireless无线网卡驱动v6101.19.117.0版
+8、【无线网卡】更新 Realtek瑞昱 8852AE Wireless无线网卡驱动v6001.10.356.0版
+9、【无线网卡】更新 Realtek瑞昱 8852BE Wireless无线网卡驱动V6001.15.150.100版
+10、【无线网卡】更新 Realtek瑞昱 8852CE Wireless无线网卡驱动v6001.16.154.0版
+11、【芯片组】更新 Intel DTT芯片组驱动v9.0.11405.42569版
+12、【芯片组】更新 Intel IPF芯片组驱动v1.0.11405.42038版
+13、【芯片组】更新 Intel LMS芯片组驱动v2316.5.1.10版
+14、【芯片组】更新 Intel MEI芯片组驱动v2406.5.5.0版
+15、【芯片组】更新 Intel Serial-IO Driver v30.100.2351.81版
+16、【芯片组】更新 Intel Software Guard Extensions驱动v2.22.100.2版
+17、【磁盘驱动器】更新 Intel英特尔RST VMD Controller驱动v20.0.0.1038版
+18、【其他设备】更新 Intel 蓝牙芯片驱动v23.40.0.2版
+19、【其他设备】更新 Realtek 0139读卡器驱动v10.0.22631.31285版
+20、【其他设备】更新 Realtek 5227读卡器驱动v10.0.22631.21370版
+21、【其他设备】更新 Realtek 8852C蓝牙芯片驱动v1.10.1066.3000版&lt;/p&gt;
+&lt;p&gt;万能驱动 v8.1 （32位 Win10专版） 2024-05【Windows 10/11 x86】
+1、【无线网卡】更新 Realtek瑞昱 8852AU USB无线网卡驱动v5001.19.105.1版
+2、【其他设备】更新 Realtek 0139读卡器驱动v10.0.22631.31285版
+3、【其他设备】更新 Realtek 5227读卡器驱动v10.0.22631.21370版&lt;/p&gt;
+&lt;h3 id=&#34;关于广告&#34;&gt;关于广告
+&lt;/h3&gt;&lt;p&gt;首先就是万能驱动7的推广，在softext文件夹下有1-3个(视版本而定)2345联盟的推广安装包，以及万能驱动主程序会修改你的主页为2345，不过这些推广在官方条件下完全可以去除。
+首先说桌面条件下直接安装，softext文件夹不可以动，在下方软件推荐页面把推广软件去掉勾选即可，主页推广在右上角小三角处，一样取消勾选后，放心安装，不会有任何推广。
+然后说PE条件下为目标系统注入，需要使用优启通3.3及以上的PE，此时softext文件夹内的几个安装包是可删的(但e7e文件不可删)，无论是否删除，只要是在优启通3.3及以上版本注入驱动，默认都不会安装推广软件和设置主页。
+最后说封装环境，这时候需要ES4.5或者ES5版本，在部署中调用(专用接口/通用接口均可，也可以写批处理调用)这时候是不会有任何推广的(不过要考虑ES的推广主页和软件)，而且softext下的几个安装包一样可删(仍然需要保留e7e文件)。&lt;/p&gt;
+&lt;h3 id=&#34;运行参数&#34;&gt;运行参数
+&lt;/h3&gt;&lt;p&gt;（1）/r 或 /reboot
+自动重启（部署中无效）
+（2）/u 或 /unzip
+只解压不安装（PE下无效）
+（3）/c 或 /clean
+安装后删除已解压驱动
+（4）/a 或 /auto
+自动执行（兼容fa/forceAuto旧参数），部署中无需设置此参数亦自动
+可以组合使用，例如安装完成后自动删除已解压的驱动再重启，/a /c /r&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOD8hpnIq7w7kWIpEbRqA4LpA1?pwd=qeth&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOD8hpnIq7w7kWIpEbRqA4LpA1?pwd=qeth&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Macrorit Disk Scanner(修复磁盘坏道) v7.0.0 多语便携版</title>
         <link>https://www.danlong360.com/post/90345/</link>
         <pubDate>Sun, 01 Dec 2024 11:51:07 +0800</pubDate>
