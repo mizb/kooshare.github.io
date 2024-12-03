@@ -7,7 +7,178 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 03 Dec 2024 07:11:22 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 03 Dec 2024 11:53:50 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>WizTree(磁盘空间分析软件) v4.23 中文绿色版</title>
+        <link>https://www.danlong360.com/post/32707/</link>
+        <pubDate>Tue, 03 Dec 2024 11:53:50 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/32707/</guid>
+        <description>&lt;p&gt;WizTree是一款快速可靠的磁盘空间管理工具，它可以帮助用户快速找到并删除磁盘中不必要的文件和文件夹。该软件提供了多种功能，包括支持多种磁盘类型、快速扫描磁盘、提供详细的文件分析报告等，使得用户可以轻松地管理自己的磁盘空间。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/32707/20241203_115400.png&#34;
+	width=&#34;640&#34;
+	height=&#34;411&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;155&#34;
+		data-flex-basis=&#34;373px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;快速扫描硬盘：WizTree可以快速扫描并分析硬盘上的文件和文件夹，展示出各个文件夹占用的空间大小，方便用户查找大文件和大文件夹。
+按大小排序：软件可以按文件大小进行排序，方便用户找出占用空间较大的文件或文件夹。
+导出扫描结果：用户可以将扫描结果导出为CSV文件或图片文件，方便日后查看或备份。
+快速过滤文件：支持根据文件名、路径、大小等进行快速过滤，帮助用户快速定位目标文件。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高速扫描：WizTree采用了高效的文件扫描算法，可以在几秒内快速扫描硬盘，展示出详细的扫描结果。
+直观界面：软件界面简洁直观，用户可以快速找到需要的功能和操作。
+可定制性强：软件支持用户自定义设置扫描目录、排除目录、显示选项等，可以根据实际需求进行个性化设置。
+免费使用：WizTree是免费软件，用户可以免费使用并享受软件带来的便利。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOD9n0n8lfbgM-NUlLCg8jeVA1?pwd=saus&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOD9n0n8lfbgM-NUlLCg8jeVA1?pwd=saus&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>DirPrintOK(文件夹目录打印工具) v7.21 中文绿色版</title>
+        <link>https://www.danlong360.com/post/24169/</link>
+        <pubDate>Tue, 03 Dec 2024 11:52:55 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/24169/</guid>
+        <description>&lt;p&gt;DirPrintOK 是一款专为打印目录和文件列表设计的实用工具，旨在帮助用户快速生成并打印文件夹内容的详细列表。它支持多种输出格式，包括文本、HTML 和 CSV，适用于需要定期备份、存档或共享文件夹内容的个人和企业用户。DirPrintOK 操作简单，功能强大，能够节省大量手动整理文件的时间，提升工作效率。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/24169/20241203_115306.png&#34;
+	width=&#34;640&#34;
+	height=&#34;483&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;132&#34;
+		data-flex-basis=&#34;318px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;生成文件列表：可以扫描指定文件夹及其子文件夹，生成详细的文件列表，包含文件名、路径、大小、创建日期等信息。
+自定义列选择：用户可以根据需要选择要显示的列，如文件名、扩展名、大小、修改日期等，定制输出内容。
+多格式输出：支持将文件列表导出为多种格式，如文本、HTML 和 CSV，方便用户根据需求选择合适的格式进行查看或分享。
+批量处理：支持批量处理多个文件夹，用户可以选择多个文件夹一次性生成文件列表，提高工作效率。
+预览与打印：提供预览功能，用户可以在打印前查看文件列表的格式和内容，确保输出效果符合预期。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高效生成：快速扫描文件夹并生成详细的文件列表，减少等待时间，提升工作效率。
+灵活定制：允许用户根据具体需求选择要显示的列，确保输出内容精确满足使用场景。
+多样化输出：支持多种常见的输出格式，满足不同用户的查看和分享需求，提升灵活性。
+批量操作：简化多文件夹处理流程，用户可以一次性选择多个文件夹生成列表，减少重复劳动。
+直观预览：提供预览功能，让用户在打印前确认文件列表的格式和内容，避免不必要的重新生成。
+界面简洁：提供直观易用的用户界面，即使是初学者也能快速上手，轻松完成任务。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOD9mzScJBfPet7FQ8cpD_OxA1?pwd=z5xf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOD9mzScJBfPet7FQ8cpD_OxA1?pwd=z5xf&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>StartAllBack(Win11开始菜单增强工具) v3.9.0.5208 Beta 破解版</title>
+        <link>https://www.danlong360.com/post/25457/</link>
+        <pubDate>Tue, 03 Dec 2024 11:47:34 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/25457/</guid>
+        <description>&lt;p&gt;StartAllBack中文版(StartIsBack++)是一款Win11开始菜单增强工具,可以为Windows11恢复经典样式的Windows7主题风格开始菜单和任务栏,功能包括了:自定义开始菜单样式和操作,个性化任务栏及资源管理器等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/25457/20241203_114745.png&#34;
+	width=&#34;640&#34;
+	height=&#34;431&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;148&#34;
+		data-flex-basis=&#34;356px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;StartAllBack for Windows 11 - StartIsBack+ - MSFN
+&lt;a class=&#34;link&#34; href=&#34;https://msfn.org/board/topic/183013-startallback-for-windows-11/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://msfn.org/board/topic/183013-startallback-for-windows-11/&lt;/a&gt;
+StartIsBack for Windows 11
+&lt;a class=&#34;link&#34; href=&#34;https://www.startallback.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.startallback.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近更新：
+- 支持 Dev, Beta 最新预览版;全新经典资源管理器样式界面
+- 支持 Win11 22H2正式版 Windows 11 22H2 Build 22621
+- 资源管理器功能区, 命令栏, 其他元素现代化改造和重新设计&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;√ 破解免激活，无30天试用期，无哭脸表情水印!
+√ 全面更新中文语言翻译，简体中文字串优化对齐
+√ 剥离升级程序，无升级提示弹窗，去关于项检查更新
+√ 采用原版7zSFX自解压形式重新打包，支持静默安装
+静默安装参数：/ai /gm2
+无人值守安装示例：
+StartAllBack_Repack.exe /ai /gm2
+或右键解压后执行：
+StartAllBackCfg.exe /install /elevated /silent&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;StartAllBack 3.8.13.5197 (stable) all changes:
+Large icons option for start menu search / flyouts
+Replaced &amp;lsquo;Hide selected&amp;rsquo; with &amp;lsquo;Compact view&amp;rsquo; for Win10 ribbon
+Restored Win7 explorer menu
+Win+number hotkey always switches to first task
+Fixes for high contrast
+Fixes for task thumbnail toolbars
+Fix Explorer title incorrectly stripped
+Fix jumplist showing duplicates in recent/pinned Office docs&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOD9lZ5B6WEi1V9f_0OUs6ADA1?pwd=d9uv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOD9lZ5B6WEi1V9f_0OUs6ADA1?pwd=d9uv&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Abelssoft PC Fresh(系统优化工具) 2025 v11.02.58380 多语便携版</title>
+        <link>https://www.danlong360.com/post/69906/</link>
+        <pubDate>Tue, 03 Dec 2024 11:42:07 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/69906/</guid>
+        <description>&lt;p&gt;Abelssoft PC Fresh 是一款专业的系统优化工具，旨在帮助用户轻松地优化和加快其计算机的性能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/69906/20241203_114218.png&#34;
+	width=&#34;640&#34;
+	height=&#34;473&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;135&#34;
+		data-flex-basis=&#34;324px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;自动优化：Abelssoft PC Fresh 可以自动检测并优化计算机的性能，包括内存、优化网络设置、加快启动速度等。
+硬件监控：软件可以监控计算机的硬件状况，包括温度、电压、风扇转速等，让用户可以及时了解计算机的健康状况。
+软件管理：Abelssoft PC Fresh 可以帮助用户管理已安装的软件，包括卸载不需要的程序、禁用自启动程序等，以提高系统的运行速度。
+隐私保护：软件可以帮助用户保护其隐私，包括清理浏览器历史记录、删除临时文件等，以保护个人信息不被泄露。
+网络优化：Abelssoft PC Fresh 可以优化网络设置，加快网页加载速度，提高网络连接的稳定性。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁友好，操作简单方便。
+支持自动优化和定时优化功能，让用户无需手动操作即可保持系统最佳状态。
+提供硬件监控功能，让用户可以实时监控计算机的状态。
+能够快速清理系统垃圾文件，释放磁盘空间，提高系统性能。
+提供强大的隐私保护功能，保护用户个人信息不被窥探。
+支持一键优化功能，让用户快速优化系统，提高计算机性能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOD9l2ugxCmGoaeOrihnjhGjA1?pwd=tcbc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOD9l2ugxCmGoaeOrihnjhGjA1?pwd=tcbc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Glarysoft Registry Repair(注册表修复) v6.0.1.11 多语便携版</title>
         <link>https://www.danlong360.com/post/42882/</link>
         <pubDate>Tue, 03 Dec 2024 07:11:22 +0800</pubDate>
