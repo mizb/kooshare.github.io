@@ -7,7 +7,324 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 03 Dec 2024 21:29:56 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 04 Dec 2024 12:31:53 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>搜狗拼音输入法PC版 v14.11.0.1351 BEIKING绿色精简版</title>
+        <link>https://www.danlong360.com/post/47488/</link>
+        <pubDate>Wed, 04 Dec 2024 12:31:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/47488/</guid>
+        <description>&lt;p&gt;搜狗输入法电脑版是装机必备软件,其打字准,词库全,功能强大,使得输入更高效.搜狗拼音输入法最新版,AI打字准确高效.搜狗输入法去广告绿色精简版,移除广告程序精简优化后的用着还不错,至少比官方版用着安心些.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/47488/20241204_123203.png&#34;
+	width=&#34;359&#34;
+	height=&#34;218&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;164&#34;
+		data-flex-basis=&#34;395px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;升级日志 - 搜狗输入法
+&lt;a class=&#34;link&#34; href=&#34;https://pinyin.sogou.com/changelog.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pinyin.sogou.com/changelog.php&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;By: BEIKING
+– 试图打造不联网的搜狗拼音输入法精简版；
+– 修改 SogouPY.ime 和 SogouPY64.ime 去损坏弹窗；
+– 用 0 填充 SGTool.exe 中的 sogou.com 试图阻止联网；
+– 精简 Resource.dll 资源库文件
+– 皮肤和词库放入压缩包内对应文件夹也能自动安装；
+– 细胞词库正常，你下载的 scel 先放到 Scd 文件夹会自动导入；
+– 默认将属性设置、输入法管理器和符号大全快捷方式创建到根目录；
+(需通过快捷方式，才能打开“属性设置”、“输入法管理器”、“符号大全”等窗口)
+√ 免安装批处理精简绿化，仅保留核心功能！
+√ 替换默认皮肤为：简约五彩键盘；
+(修改默认皮肤：_Green\SogouPY\env.ini，ActiveSkinName=简约五彩键盘)
+√ 去联网、去弹窗、去调用，精简了所有的额外功能组件；
+√ 不支持：云计算候选、账户登陆、词库同步，已全部阉割；
+√ 支持安装皮肤和词库、保留符号大全、提供各类本地词库；
+静默安装版安装路径：C:\Program Files\搜狗拼音&lt;/p&gt;
+&lt;p&gt;2024.12.03
+跟进 BEIKING v14.11a(1351) 去广告精简优化版
+[2024/12/3]
+1）调整 Win7 环境两处脚本：
+调用官方安装参数后，删除不兼容的输入法项
+纠正在先安装搜狗五笔时后安装搜狗拼音，可能会误删先安装的搜狗五笔
+2）新增控制，是否隐藏系统输入法指示器 (仅 Win10 以后系统有效，隐藏后会导致任务栏搜索框不能出候选字)：
+方法一：绿化前修改脚本文件 _绿化.bat，搜 HideIMI= 值改为：1 隐藏，0 显示
+方法二：通过命令行传参 /HideIMI 调用执行：
+该控制适用于有特殊需求的人群：
+比如通过设置已开启显示搜狗输入法指示器，但不需要重复显示系统输入法指示器；
+PE环境下，用于解决 A 用户安装搜狗拼音后系统输入法指示器显示空白&lt;/p&gt;
+&lt;h3 id=&#34;版本区别&#34;&gt;版本区别
+&lt;/h3&gt;&lt;p&gt;① exe单文件，没带词库文件，双击选择路径安装 (自动安装参数: -ai)，输入法配置保存在系统默认路径，在开始菜单创建快捷方式，SGTool.exe 允许常驻进程，响应快捷键可通过 Ctrl+Shift+Z 调出符号大全；
+② 7z 压缩包，带词库文件，需解压通过脚本安装，输入法配置保存在当前文件夹，在当前文件夹创建快捷方式，SGTool.exe 不允许常驻进程，不响应快捷键；&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODExn_uYmNnfMMziQ6r4QWyA1?pwd=kvye&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODExn_uYmNnfMMziQ6r4QWyA1?pwd=kvye&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Twinkle Tray(多显示器屏幕亮度调节工具) v1.16.4</title>
+        <link>https://www.danlong360.com/post/25117/</link>
+        <pubDate>Wed, 04 Dec 2024 12:31:13 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/25117/</guid>
+        <description>&lt;p&gt;Twinkle Tray是一款针对Windows操作系统的轻量级工具，主要功能是提供快速访问和控制系统设置和常用功能的托盘菜单。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/25117/20241204_123124.png&#34;
+	width=&#34;650&#34;
+	height=&#34;485&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;134&#34;
+		data-flex-basis=&#34;321px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;隐藏图标：可以隐藏不需要显示在系统托盘中的图标，使任务栏更加干净。
+图标管理：提供一个统一的界面来管理所有系统托盘图标，方便查看和访问。
+自定义设置：允许用户根据自己的需求定制哪些图标应该显示或隐藏，以及如何组织这些图标。
+快速访问：通过右键点击系统托盘中的 Twinkle Tray 图标，可以快速访问所有被隐藏的图标。
+自动启动：支持随系统启动自动运行，确保每次开机后都能立即生效。
+通知中心：整合了 Windows 通知中心的功能，让用户可以更方便地管理通知。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;轻量级：Twinkle Tray 占用系统资源非常少，不会影响计算机的性能。
+用户友好：界面简洁明了，操作直观，即便是计算机新手也能快速上手。
+高度可配置：提供了丰富的设置选项，用户可以根据个人喜好调整软件的行为。
+兼容性好：与各种版本的 Windows 操作系统兼容，包括最新的 Windows 11。
+实时更新：软件开发者会定期发布更新，修复已知的问题并增加新功能。
+多语言支持：支持多种语言，包括英语、中文等，满足不同地区用户的需求。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODExsFmuMcYuE5BO4daULFSA1?pwd=fve8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODExsFmuMcYuE5BO4daULFSA1?pwd=fve8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Multi Commander(文件管理器) v14.4.0.3047 中文绿色版</title>
+        <link>https://www.danlong360.com/post/22392/</link>
+        <pubDate>Wed, 04 Dec 2024 11:54:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/22392/</guid>
+        <description>&lt;p&gt;Multi Commander 是一款功能强大的文件管理器，它结合了 Windows 资源管理器的简单易用性和 Norton Commander 的高级功能，提供了快速、高效、可定制的文件管理体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/22392/20241204_115440.png&#34;
+	width=&#34;640&#34;
+	height=&#34;416&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;153&#34;
+		data-flex-basis=&#34;369px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;双面板文件管理器：支持多标签、文件夹同步、多窗口拖放等功能；&lt;/li&gt;
+&lt;li&gt;高级文件搜索：支持正则表达式、模糊搜索、快速搜索等；&lt;/li&gt;
+&lt;li&gt;文件浏览器：支持图标、列表、详细信息等多种显示模式；&lt;/li&gt;
+&lt;li&gt;文件操作：支持复制、移动、删除、重命名、压缩、解压缩等多种操作；&lt;/li&gt;
+&lt;li&gt;文件预览：支持多种文件格式的预览，如图片、音频、视频等；&lt;/li&gt;
+&lt;li&gt;批量文件操作：支持批量重命名、批量修改属性、批量修改文件夹等；&lt;/li&gt;
+&lt;li&gt;自定义快捷键：用户可以自定义快捷键，提高操作效率；&lt;/li&gt;
+&lt;li&gt;插件支持：支持多种插件，如 FTP、压缩、解压缩、图像处理等；&lt;/li&gt;
+&lt;li&gt;多语言支持：支持多国语言。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简洁清晰：使用者可以根据自己的需求，自定义工具栏、文件夹树、文件列表等；&lt;/li&gt;
+&lt;li&gt;功能丰富强大：支持多种文件操作、高级文件搜索、文件预览等；&lt;/li&gt;
+&lt;li&gt;高度可定制：支持自定义快捷键、插件等；&lt;/li&gt;
+&lt;li&gt;免费开源：Multi Commander 是一款免费开源软件，用户可以自由使用、分享、修改。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODEz44RwDHIQKAC7awbPxmAA1?pwd=xuaj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODEz44RwDHIQKAC7awbPxmAA1?pwd=xuaj&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VueScan(扫描仪增强软件) Pro v9.8.40.07 多语便携版</title>
+        <link>https://www.danlong360.com/post/61529/</link>
+        <pubDate>Wed, 04 Dec 2024 11:53:44 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/61529/</guid>
+        <description>&lt;p&gt;VueScan是一款功能强大的扫描仪软件，可用于扫描、拍摄和打印高质量的图片和文档。它支持大量的扫描仪品牌和型号，包括HP、Canon、Epson、Nikon、Brother等，而且可以在Windows、Mac OS X和Linux等各种操作系统上运行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/61529/20241204_115356.png&#34;
+	width=&#34;640&#34;
+	height=&#34;501&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;127&#34;
+		data-flex-basis=&#34;306px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种扫描仪型号，包括扫描仪、相机和文件夹。&lt;/li&gt;
+&lt;li&gt;支持多种文件格式，包括JPEG、TIFF、PDF和RAW格式。&lt;/li&gt;
+&lt;li&gt;可以进行自动校正、色彩校正和曝光校正等操作，以获得最佳的扫描效果。&lt;/li&gt;
+&lt;li&gt;支持扫描多页文档并将其保存为单个PDF文件。&lt;/li&gt;
+&lt;li&gt;可以进行扫描预览、裁剪和旋转等常见操作。&lt;/li&gt;
+&lt;li&gt;支持OCR（光学字符识别）功能，可以将扫描的文本转换为可编辑的文本格式。&lt;/li&gt;
+&lt;li&gt;可以进行高级图像处理，包括去除噪点、调整色彩和对比度等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简单直观，易于操作。&lt;/li&gt;
+&lt;li&gt;支持多种语言，包括英语、法语、德语、意大利语、西班牙语等。&lt;/li&gt;
+&lt;li&gt;更新频繁，可以及时支持最新的扫描仪型号和操作系统。&lt;/li&gt;
+&lt;li&gt;支持扫描多种类型的文档，包括照片、书籍、报纸和信件等。&lt;/li&gt;
+&lt;li&gt;可以进行批量扫描和批量处理，提高工作效率。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;vuescan pro中文破解版,vuescan pro免激活绿色便携版
+- 免注册激活，32位+64位，集成OCR语言中文/俄/英语
+- 9.8.37，支持 32 位 系统&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODEzCHjYmNnfMMziQ6r4tFOA1?pwd=xd5v&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODEzCHjYmNnfMMziQ6r4tFOA1?pwd=xd5v&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>O&amp;O Defrag(磁盘碎片整理) Professional v29.1.11203 便携版</title>
+        <link>https://www.danlong360.com/post/11775/</link>
+        <pubDate>Wed, 04 Dec 2024 11:49:44 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/11775/</guid>
+        <description>&lt;p&gt;O&amp;amp;O Defrag是一款强大的磁盘碎片整理软件。它可以将散乱的文件碎片重新排列，并将它们存储在连续的磁盘区域中，从而提高计算机的性能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/11775/20241204_114955.png&#34;
+	width=&#34;650&#34;
+	height=&#34;485&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;134&#34;
+		data-flex-basis=&#34;321px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;磁盘碎片整理：自动整理磁盘碎片，提高磁盘读写速度。
+磁盘优化：优化磁盘布局，提高系统性能。
+文件整理：对文件进行整理和优化，提高访问速度。
+系统加速：提升系统启动速度和运行效率。
+自动化任务：支持预定的自动化任务，方便用户定期整理磁盘。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高效稳定：采用先进的碎片整理技术，高效稳定地整理磁盘碎片。
+友好界面：简洁直观的界面设计，操作简单易懂。
+自定义设置：支持用户自定义设置碎片整理和优化方式。
+资源占用低：占用系统资源较低，不影响系统正常运行。
+兼容性强：支持多种Windows操作系统版本，兼容性强。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODEz__sHG7F9wAUMQtqZG2hA1?pwd=bedw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODEz__sHG7F9wAUMQtqZG2hA1?pwd=bedw&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Don t Sleep(防止计算机进入睡眠) v9.61 中文绿色版</title>
+        <link>https://www.danlong360.com/post/6340/</link>
+        <pubDate>Wed, 04 Dec 2024 11:47:33 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6340/</guid>
+        <description>&lt;p&gt;Don&amp;rsquo;t Sleep 是一款免费的小巧实用工具，它可以帮助用户防止计算机进入睡眠或待机状态，保持计算机的唤醒状态，以便用户可以在不间断地下载文件，备份数据或执行其他任务。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/6340/20241204_114750.png&#34;
+	width=&#34;548&#34;
+	height=&#34;440&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;124&#34;
+		data-flex-basis=&#34;298px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;防止计算机进入睡眠或待机状态。&lt;/li&gt;
+&lt;li&gt;保持计算机的唤醒状态，以便用户可以在不间断地下载文件，备份数据或执行其他任务。&lt;/li&gt;
+&lt;li&gt;支持设置倒计时，让计算机在指定时间后自动进入睡眠或待机状态。&lt;/li&gt;
+&lt;li&gt;支持设置唤醒计算机的时间和日期，让计算机在指定时间自动唤醒。&lt;/li&gt;
+&lt;li&gt;支持设置唤醒计算机的事件，例如网络连接，网络断开，电源状态改变等。&lt;/li&gt;
+&lt;li&gt;支持命令行操作，方便用户集成到自己的脚本中使用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;小巧实用，不需要安装，直接运行即可使用。&lt;/li&gt;
+&lt;li&gt;界面简洁直观，易于操作。&lt;/li&gt;
+&lt;li&gt;支持多种语言，包括中文。&lt;/li&gt;
+&lt;li&gt;免费软件，无广告，无插件，无病毒，安全可靠。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODF-DM7ejnrK91Z58ZkWFPKA1?pwd=dn6s&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODF-DM7ejnrK91Z58ZkWFPKA1?pwd=dn6s&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>NTLite(操作系统定制工具) v2024.12.10200</title>
+        <link>https://www.danlong360.com/post/13900/</link>
+        <pubDate>Wed, 04 Dec 2024 11:45:23 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/13900/</guid>
+        <description>&lt;p&gt;NTLite是一款Windows操作系统定制工具，它可以帮助用户自定义Windows安装程序，从而使安装过程更快、更稳定、更安全。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/13900/20241204_114535.png&#34;
+	width=&#34;661&#34;
+	height=&#34;506&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;130&#34;
+		data-flex-basis=&#34;313px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;可以删除Windows中不需要的组件，如语言包、驱动程序、服务、程序等。&lt;/li&gt;
+&lt;li&gt;可以添加第三方驱动程序、更新、程序等。&lt;/li&gt;
+&lt;li&gt;可以更改Windows默认设置，如主题、壁纸、登录画面等。&lt;/li&gt;
+&lt;li&gt;可以自动化Windows安装过程，如自动输入序列号、自动安装程序等。&lt;/li&gt;
+&lt;li&gt;可以制作自定义的Windows安装程序，包括ISO镜像、USB安装盘等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简洁明了，易于使用。&lt;/li&gt;
+&lt;li&gt;支持Windows 7、8、8.1、10等多个版本。&lt;/li&gt;
+&lt;li&gt;支持32位和64位系统。&lt;/li&gt;
+&lt;li&gt;可以进行在线更新，保持最新功能。&lt;/li&gt;
+&lt;li&gt;提供详细的日志和错误报告，方便用户定位问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODF-TbHZhNZv9dKMW27G7waA1?pwd=tvsg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODF-TbHZhNZv9dKMW27G7waA1?pwd=tvsg&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>WinTune(win10/win11系统优化工具软件) v2.6.1 中文绿色版</title>
         <link>https://www.danlong360.com/post/35596/</link>
         <pubDate>Tue, 03 Dec 2024 21:29:56 +0800</pubDate>
