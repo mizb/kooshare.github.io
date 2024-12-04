@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>虚拟机 on KUL藏宝库</title>
+        <link>https://www.danlong360.com/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/</link>
+        <description>Recent content in 虚拟机 on KUL藏宝库</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>KUL藏宝库</copyright>
+        <lastBuildDate>Fri, 29 Nov 2024 12:37:05 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>沙盘SandBoxie Classic_v5.70.3 / Plus 1.15.3</title>
+        <link>https://www.danlong360.com/post/1745/</link>
+        <pubDate>Fri, 29 Nov 2024 12:37:05 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/1745/</guid>
+        <description>&lt;p&gt;沙盘Sandboxie中文版是一款知名的系统安全工具的菜鸟高手裸奔工具,它可以让选定程序在安全的隔离系统环境下运行,只要在此环境中运行的软件,浏览器或注册表信息等都可以完整的进行清空,不留一点痕迹.同时可以防御些带有木马或者病毒的恶意网站,对于经常测试软件或者不放心的软件,可放心在沙盘里面运行.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/29/YHsmk4zdnwWuxBv.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;沙盒环境：
+创建沙盒：用户可以创建多个沙盒环境，每个沙盒都是一个独立的虚拟环境。
+隔离运行：应用程序在沙盒中运行时，其所有操作（如文件写入、注册表更改等）都会被隔离，不会影响主系统。
+浏览和下载：
+安全浏览：用户可以在沙盒中安全地浏览网页，即使访问了恶意网站也不会影响主系统。
+安全下载：用户可以在沙盒中下载文件，测试文件的安全性后再决定是否将其转移到主系统。
+系统保护：
+文件和注册表保护：沙盒中的所有文件和注册表更改都会被隔离，不会影响主系统的文件和注册表。
+临时文件清理：沙盒关闭时，所有临时文件和更改都会被自动清除，确保系统干净。
+应用程序隔离：
+隔离运行：用户可以将任何应用程序隔离在沙盒中运行，包括浏览器、邮件客户端、下载工具等。
+自动隔离：支持自动将特定应用程序隔离到沙盒中运行，无需每次都手动操作。
+管理工具：
+沙盒管理器：提供沙盒管理器，用户可以方便地管理多个沙盒，查看沙盒中的文件和操作记录。
+沙盒设置：支持自定义沙盒设置，如沙盒名称、颜色标识、存储位置等。
+日志和报告：
+操作日志：记录沙盒中的所有操作日志，方便用户查看和审计。
+报告生成：生成详细的报告，帮助用户了解沙盒中的活动。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高效隔离：使用高效的隔离技术，确保应用程序在沙盒中的所有操作都不会影响主系统。
+用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多沙盒支持：支持创建多个沙盒环境，每个沙盒都可以独立配置和管理。
+自动清理：沙盒关闭时自动清理所有临时文件和更改，确保系统干净。
+兼容性强：支持多种操作系统和应用程序，包括 Windows XP 到 Windows 11。
+轻量级：占用系统资源少，不会显著影响系统性能。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;sandboxie-plus/Sandboxie - GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/sandboxie-plus/Sandboxie/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/sandboxie-plus/Sandboxie/releases&lt;/a&gt;
+官方论坛2020年3月份公布免费开源Sandboxie源码
+最后一个官方数字签名的免费版的版本号为 v5.33.6
+现由开发者@DavidXanatos个人接盘持续更新维护
+Sandboxie Classic ：沙盘经典版，安全更新!
+Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOCqIzE-3WkC80yAKFUjPqLOA1?pwd=a38r&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOCqIzE-3WkC80yAKFUjPqLOA1?pwd=a38r&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>雷电模拟器9 v9.1.30.0 去广告绿色纯净版</title>
+        <link>https://www.danlong360.com/post/20388/</link>
+        <pubDate>Wed, 20 Nov 2024 23:55:56 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/20388/</guid>
+        <description>&lt;p&gt;雷电模拟器9 是一款可以让手机应用及游戏在电脑上运行的软件，采用虚拟安卓手机操作界面，玩家可以通过雷电模拟器在电脑上玩手机游戏。在电脑上模拟安卓手机系统，实现安卓应用的安装、使用、卸载。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/20/7A3ElIaOs5JBNTz.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h3&gt;&lt;p&gt;- 免安装净化处理，删除资讯广告程序、上传组件、错误报告文件
+- 拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为
+- 去启动界面广告、去任务栏右下角通知区域游戏弹窗
+- 去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为）
+- 去桌面底部广告（桌面主屏幕内下方5个内置游戏推广应用）
+- 拒绝后台广告数据下载请求 %AppData%\Leidian64\Cache
+- 解锁游戏多开（解除了官方版不能同时运行超过5个APP的限制）
+- 删除系统镜像内置短信app，提供面具(Magisk)及LSPosed框架&lt;/p&gt;
+&lt;h3 id=&#34;使用说明&#34;&gt;使用说明
+&lt;/h3&gt;&lt;p&gt;# 如何更新去广告后的雷电模拟器系统镜像？
+- 保留目录下的vms文件夹，删除其它文件
+- 下载新版压缩包解压全部文件到目录即可&lt;/p&gt;
+&lt;p&gt;# 如何启用ROOT权限？
+- 雷电模拟器9.0默认没开ROOT权限
+- 界面-设置-其它-ROOT权限-启用即可&lt;/p&gt;
+&lt;p&gt;# 所有版本都兼容ARM库，可共存使用支持各版无限多开运行。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOC9ILWuXIxuS8HlsHxhnTh-A1?pwd=5ax8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOC9ILWuXIxuS8HlsHxhnTh-A1?pwd=5ax8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>沙盘SandBoxie Classic_v5.70.2 / Plus 1.15.2</title>
+        <link>https://www.danlong360.com/post/75817/</link>
+        <pubDate>Tue, 19 Nov 2024 12:53:50 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/75817/</guid>
+        <description>&lt;p&gt;沙盘Sandboxie中文版是一款知名的系统安全工具的菜鸟高手裸奔工具,它可以让选定程序在安全的隔离系统环境下运行,只要在此环境中运行的软件,浏览器或注册表信息等都可以完整的进行清空,不留一点痕迹.同时可以防御些带有木马或者病毒的恶意网站,对于经常测试软件或者不放心的软件,可放心在沙盘里面运行.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/19/rkzbcExjw1mOsGV.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;沙盒环境：
+创建沙盒：用户可以创建多个沙盒环境，每个沙盒都是一个独立的虚拟环境。
+隔离运行：应用程序在沙盒中运行时，其所有操作（如文件写入、注册表更改等）都会被隔离，不会影响主系统。
+浏览和下载：
+安全浏览：用户可以在沙盒中安全地浏览网页，即使访问了恶意网站也不会影响主系统。
+安全下载：用户可以在沙盒中下载文件，测试文件的安全性后再决定是否将其转移到主系统。
+系统保护：
+文件和注册表保护：沙盒中的所有文件和注册表更改都会被隔离，不会影响主系统的文件和注册表。
+临时文件清理：沙盒关闭时，所有临时文件和更改都会被自动清除，确保系统干净。
+应用程序隔离：
+隔离运行：用户可以将任何应用程序隔离在沙盒中运行，包括浏览器、邮件客户端、下载工具等。
+自动隔离：支持自动将特定应用程序隔离到沙盒中运行，无需每次都手动操作。
+管理工具：
+沙盒管理器：提供沙盒管理器，用户可以方便地管理多个沙盒，查看沙盒中的文件和操作记录。
+沙盒设置：支持自定义沙盒设置，如沙盒名称、颜色标识、存储位置等。
+日志和报告：
+操作日志：记录沙盒中的所有操作日志，方便用户查看和审计。
+报告生成：生成详细的报告，帮助用户了解沙盒中的活动。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高效隔离：使用高效的隔离技术，确保应用程序在沙盒中的所有操作都不会影响主系统。
+用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多沙盒支持：支持创建多个沙盒环境，每个沙盒都可以独立配置和管理。
+自动清理：沙盒关闭时自动清理所有临时文件和更改，确保系统干净。
+兼容性强：支持多种操作系统和应用程序，包括 Windows XP 到 Windows 11。
+轻量级：占用系统资源少，不会显著影响系统性能。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;sandboxie-plus/Sandboxie - GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/sandboxie-plus/Sandboxie/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/sandboxie-plus/Sandboxie/releases&lt;/a&gt;
+官方论坛2020年3月份公布免费开源Sandboxie源码
+最后一个官方数字签名的免费版的版本号为 v5.33.6
+现由开发者@DavidXanatos个人接盘持续更新维护
+Sandboxie Classic ：沙盘经典版，安全更新!
+Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOC1sTtHdUiQsULcESj41TF3A1?pwd=3qwg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOC1sTtHdUiQsULcESj41TF3A1?pwd=3qwg&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>雷电模拟器 9.1.29.0 去广告绿色版</title>
+        <link>https://www.danlong360.com/post/92956/</link>
+        <pubDate>Mon, 11 Nov 2024 21:29:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/92956/</guid>
+        <description>&lt;p&gt;雷电模拟器 (LDPlayer) 是一款高性能的安卓模拟器，专为在Windows系统上运行安卓应用和游戏而设计。它以其稳定性、兼容性和高效能著称，支持多开、键盘映射等功能，能够为用户提供流畅的安卓体验。通过高度优化的引擎，支持高清画质和高帧率，让用户在大屏上获得更优质的视觉效果。这使得雷电模拟器成为游戏玩家和应用测试人员的理想选择。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/11/YSrzxGoanPOycXe.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;雷电模拟器 去广告绿色版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;多开管理
+&lt;ul&gt;
+&lt;li&gt;支持多开功能，允许用户在同一台电脑上同时运行多个安卓应用或游戏，满足游戏多开、测试等需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;键盘和手柄映射
+&lt;ul&gt;
+&lt;li&gt;提供自定义键盘映射和手柄支持，使用户可以自由配置操作方式，提升游戏体验。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;高性能支持
+&lt;ul&gt;
+&lt;li&gt;采用高效能引擎，优化安卓应用的运行速度和稳定性，确保在电脑上流畅运行大型手游和应用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;高清画质与高帧率
+&lt;ul&gt;
+&lt;li&gt;支持高清分辨率和高帧率模式，带来清晰流畅的视觉效果，适合大型游戏的画面呈现。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;自定义分辨率和配置
+&lt;ul&gt;
+&lt;li&gt;支持用户根据硬件性能自定义分辨率和内存配置，以适应不同游戏和应用的性能需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;安卓版本兼容性
+&lt;ul&gt;
+&lt;li&gt;兼容多种安卓系统版本，适配市面上热门的安卓应用和游戏，覆盖广泛的应用场景。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;截图与录屏功能
+&lt;ul&gt;
+&lt;li&gt;提供内置截图和录屏功能，便于用户分享游戏精彩瞬间或记录操作过程。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;虚拟定位与模拟设备
+&lt;ul&gt;
+&lt;li&gt;支持虚拟定位？和模拟多种安卓设备类型，适用于特殊应用的测试需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;去大量广告接口，无启动广告，无右下角弹窗广告、免升级！
+精简内置系统内核镜像，删除了大量推广应用和自带的应用；
+﹂删除了雷电游戏中心、谷歌框架、Play商店、Play游戏等；
+﹂删除了内置游戏广告弹窗，安装应用时不弹雷电游戏中心；
+﹂移除了桌面底部五个游戏应用、加入冷桌面应用替为默认；
+绿化处理，删除雷电资讯广告程序、错误报告程序无用文件；&lt;/p&gt;
+&lt;p&gt;# 如何升级？
+保留目录下的vms文件夹，删除其它文件
+下载新版压缩包解压全部文件到目录即可
+VirtualBox内核 Android 系统镜像位置；
+﹂LDPlayer\system.vmdk , data.vmdk
+vms\leidian0（当前系统镜像及数据文件）
+vms\config\leidian0.config (软件的配置)&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOBQQXz69yRDhg5MMqGJFNEfA1?pwd=jup6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOBQQXz69yRDhg5MMqGJFNEfA1?pwd=jup6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>沙盘SandBoxie Classic_v5.70.1 / Plus 1.15.1</title>
+        <link>https://www.danlong360.com/post/36226/</link>
+        <pubDate>Tue, 29 Oct 2024 22:22:28 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/36226/</guid>
+        <description>&lt;p&gt;沙盘Sandboxie中文版是一款知名的系统安全工具的菜鸟高手裸奔工具,它可以让选定程序在安全的隔离系统环境下运行,只要在此环境中运行的软件,浏览器或注册表信息等都可以完整的进行清空,不留一点痕迹.同时可以防御些带有木马或者病毒的恶意网站,对于经常测试软件或者不放心的软件,可放心在沙盘里面运行.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/29/5aP1IRgjyM6GX8o.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;沙盒环境：
+创建沙盒：用户可以创建多个沙盒环境，每个沙盒都是一个独立的虚拟环境。
+隔离运行：应用程序在沙盒中运行时，其所有操作（如文件写入、注册表更改等）都会被隔离，不会影响主系统。
+浏览和下载：
+安全浏览：用户可以在沙盒中安全地浏览网页，即使访问了恶意网站也不会影响主系统。
+安全下载：用户可以在沙盒中下载文件，测试文件的安全性后再决定是否将其转移到主系统。
+系统保护：
+文件和注册表保护：沙盒中的所有文件和注册表更改都会被隔离，不会影响主系统的文件和注册表。
+临时文件清理：沙盒关闭时，所有临时文件和更改都会被自动清除，确保系统干净。
+应用程序隔离：
+隔离运行：用户可以将任何应用程序隔离在沙盒中运行，包括浏览器、邮件客户端、下载工具等。
+自动隔离：支持自动将特定应用程序隔离到沙盒中运行，无需每次都手动操作。
+管理工具：
+沙盒管理器：提供沙盒管理器，用户可以方便地管理多个沙盒，查看沙盒中的文件和操作记录。
+沙盒设置：支持自定义沙盒设置，如沙盒名称、颜色标识、存储位置等。
+日志和报告：
+操作日志：记录沙盒中的所有操作日志，方便用户查看和审计。
+报告生成：生成详细的报告，帮助用户了解沙盒中的活动。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高效隔离：使用高效的隔离技术，确保应用程序在沙盒中的所有操作都不会影响主系统。
+用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多沙盒支持：支持创建多个沙盒环境，每个沙盒都可以独立配置和管理。
+自动清理：沙盒关闭时自动清理所有临时文件和更改，确保系统干净。
+兼容性强：支持多种操作系统和应用程序，包括 Windows XP 到 Windows 11。
+轻量级：占用系统资源少，不会显著影响系统性能。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;sandboxie-plus/Sandboxie - GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/sandboxie-plus/Sandboxie/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/sandboxie-plus/Sandboxie/releases&lt;/a&gt;
+官方论坛2020年3月份公布免费开源Sandboxie源码
+最后一个官方数字签名的免费版的版本号为 v5.33.6
+现由开发者@DavidXanatos个人接盘持续更新维护
+Sandboxie Classic ：沙盘经典版，安全更新!
+Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOANokBqDuC-2j8_DBZnAhDzA1?pwd=3mdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOANokBqDuC-2j8_DBZnAhDzA1?pwd=3mdf&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>雷电模拟器 v9.1.28.0 去广告绿色纯净版</title>
+        <link>https://www.danlong360.com/post/850/</link>
+        <pubDate>Sun, 20 Oct 2024 21:35:01 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/850/</guid>
+        <description>&lt;p&gt;雷电模拟器 9.0 最新版采用 Android 9 版本内核.雷电安卓模拟器最新版,支持 OpenGL3.1 模式 3D 渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
+&lt;p&gt;雷电模拟器 5.0 稳定版采用 Android 7.1.2 版内核.雷电安卓模拟器 5.0 版,支持 OpenGL3.1 模式 3D 渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/20/tK28jRgPZrwUmlL.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;更新日志_雷电安卓模拟器&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.ldmnq.com/ld_update_log.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/ld_update_log.html&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;雷电模拟器绿色精简版,雷电安卓模拟器去广告绿色版&lt;/p&gt;
+&lt;p&gt;1.去启动界面广告、去任务栏右下角通知区域游戏弹窗&lt;/p&gt;
+&lt;p&gt;2.去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为）&lt;/p&gt;
+&lt;p&gt;3.去桌面底部广告（桌面主屏幕内下方 5 个内置游戏推广应用）&lt;/p&gt;
+&lt;p&gt;4.拒绝后台广告数据下载请求 %AppData%\Leidian64\Cache&lt;/p&gt;
+&lt;p&gt;5.破解游戏多开（解除了官方版不能同时运行超过 5 个 APP 的限制）&lt;/p&gt;
+&lt;p&gt;6.拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为&lt;/p&gt;
+&lt;p&gt;7.免安装净化处理，删除资讯广告程序、上传组件、错误报告文件&lt;/p&gt;
+&lt;p&gt;8.删除系统镜像内置短信 app，提供面具(Magisk)及 LSPosed 框架&lt;/p&gt;
+&lt;p&gt;● 如何启用 ROOT 权限？&lt;/p&gt;
+&lt;p&gt;雷电模拟器 9.0 默认没开 ROOT 权限&lt;/p&gt;
+&lt;p&gt;界面-设置-其它-root 权限-启用即可&lt;/p&gt;
+&lt;p&gt;● 如何只更新去广告后的系统镜像呢？&lt;/p&gt;
+&lt;p&gt;只需下载去广告版提取镜像文件替换到以下位置&lt;/p&gt;
+&lt;p&gt;├—LDPlayer9\system.vmdk, vms\system.vmdk&lt;/p&gt;
+&lt;p&gt;● 雷电模拟器 9.0、雷电模拟器 5.0/4.0 和 3.x 有什么区别？&lt;/p&gt;
+&lt;p&gt;# 主要指的安卓系统镜像 Android 版本不同(system.vmdk)：&lt;/p&gt;
+&lt;p&gt;﹂9.0：Android 9-x86_64 (64 位版，64 位指的安卓系统版本)&lt;/p&gt;
+&lt;p&gt;﹂5.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64 位版)&lt;/p&gt;
+&lt;p&gt;﹂3.x：Android 5.1.2-x86&lt;/p&gt;
+&lt;p&gt;# 所有版本都兼容 ARM 库，可共存使用支持各版无限多开运行&lt;/p&gt;
+&lt;h3 id=&#34;运行要求&#34;&gt;运行要求
+&lt;/h3&gt;&lt;p&gt;Windows 7、Windows 10 或更高版 64 位&lt;/p&gt;
+&lt;p&gt;需要开启虚拟化技术(VT)，电脑怎么开启 VT 教程&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.ldmnq.com/support/VTjiao/290.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/support/VTjiao/290.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其它的说明: &lt;a class=&#34;link&#34; href=&#34;https://ldmnq.com/forum/86495.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ldmnq.com/forum/86495.html&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9e89D_KhGzVEfrDVACCoHSA1?pwd=dkas&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9e89D_KhGzVEfrDVACCoHSA1?pwd=dkas&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>沙盘SandBoxie Classic_v5.70.0 / Plus 1.15.0</title>
+        <link>https://www.danlong360.com/post/9615/</link>
+        <pubDate>Sun, 20 Oct 2024 19:00:17 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/9615/</guid>
+        <description>&lt;p&gt;沙盘 Sandboxie 中文版是一款知名的系统安全工具的菜鸟高手裸奔工具,它可以让选定程序在安全的隔离系统环境下运行,只要在此环境中运行的软件,浏览器或注册表信息等都可以完整的进行清空,不留一点痕迹.同时可以防御些带有木马或者病毒的恶意网站,对于经常测试软件或者不放心的软件,可放心在沙盘里面运行.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/20/WDsvRzeKTodtSq4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;sandboxie-plus/Sandboxie - GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/sandboxie-plus/Sandboxie/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/sandboxie-plus/Sandboxie/releases&lt;/a&gt;
+官方论坛 2020 年 3 月份公布免费开源 Sandboxie 源码
+最后一个官方数字签名的免费版的版本号为 v5.33.6
+现由开发者@DavidXanatos 个人接盘持续更新维护
+Sandboxie Classic ：沙盘经典版，安全更新!
+Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9djIvqEOnOFANzn_nssIcIA1?pwd=u7bx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9djIvqEOnOFANzn_nssIcIA1?pwd=u7bx&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>雷电模拟器9 v9.0.79.0 去广告绿色纯净版</title>
+        <link>https://www.danlong360.com/post/4168/</link>
+        <pubDate>Wed, 16 Oct 2024 20:50:46 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4168/</guid>
+        <description>&lt;p&gt;雷电模拟器 9 是一款可以让手机应用及游戏在电脑上运行的软件，采用虚拟安卓手机操作界面，玩家可以通过雷电模拟器在电脑上玩手机游戏。在电脑上模拟安卓手机系统，实现安卓应用的安装、使用、卸载。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/16/3WJyAwHZ1uchoFi.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241016205224855&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;雷电安卓模拟器-更新日志
+&lt;a class=&#34;link&#34; href=&#34;https://www.ldmnq.com/ld_update_log.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/ld_update_log.html&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本区别&#34;&gt;版本区别
+&lt;/h3&gt;&lt;p&gt;雷电 3.x：Android 5.1.2-x86
+雷电 5.0：Android 7.1.2-x86 / x86_64 (64 位版)
+雷电 9.0：Android 9-x86_64 (64 位安卓系统版本)&lt;/p&gt;
+&lt;h3 id=&#34;本版介绍&#34;&gt;本版介绍
+&lt;/h3&gt;&lt;p&gt;- 免安装净化处理，删除资讯广告程序、上传组件、错误报告文件
+- 拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为
+- 去启动界面广告、去任务栏右下角通知区域游戏弹窗
+- 去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为）
+- 去桌面底部广告（桌面主屏幕内下方 5 个内置游戏推广应用）
+- 拒绝后台广告数据下载请求 %AppData%\Leidian64\Cache
+- 解锁游戏多开（解除了官方版不能同时运行超过 5 个 APP 的限制）
+- 删除系统镜像内置短信 app，提供面具(Magisk)及 LSPosed 框架&lt;/p&gt;
+&lt;h3 id=&#34;使用说明&#34;&gt;使用说明
+&lt;/h3&gt;&lt;p&gt;如何更新去广告后的雷电模拟器系统镜像？
+- 保留目录下的 vms 文件夹，删除其它文件
+- 下载新版压缩包解压全部文件到目录即可&lt;/p&gt;
+&lt;p&gt;如何启用 ROOT 权限？
+- 雷电模拟器 9.0 默认没开 ROOT 权限
+- 界面-设置-其它-ROOT 权限-启用即可&lt;/p&gt;
+&lt;p&gt;所有版本都兼容 ARM 库，可共存使用支持各版无限多开运行。&lt;/p&gt;
+&lt;h3 id=&#34;运行要求&#34;&gt;运行要求
+&lt;/h3&gt;&lt;p&gt;Windows 7、Windows 10 或更高版 64 位&lt;/p&gt;
+&lt;p&gt;需要开启虚拟化技术(VT)，电脑怎么开启 VT 教程
+&lt;a class=&#34;link&#34; href=&#34;https://www.ldmnq.com/support/VTjiao/290.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/support/VTjiao/290.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其它的说明: &lt;a class=&#34;link&#34; href=&#34;https://ldmnq.com/forum/86495.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ldmnq.com/forum/86495.html&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9KOlccv0AvWXG6PWgeW_SDA1?pwd=n3n5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9KOlccv0AvWXG6PWgeW_SDA1?pwd=n3n5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VirtualBox(虚拟机软件) v7.1.4 Build 165100 多语便携版</title>
+        <link>https://www.danlong360.com/post/4262/</link>
+        <pubDate>Wed, 16 Oct 2024 19:49:47 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4262/</guid>
+        <description>&lt;p&gt;VirtualBox 是由 Oracle 公司开发的一款虚拟化软件。它可以在一台物理计算机上构建多个虚拟计算机，每个虚拟计算机都可以运行独立的操作系统。VirtualBox 支持在 Windows、macOS、Linux 和 Solaris 等操作系统上进行安装和运行。它被广泛用于开发和测试环境中，同时也可以用于运行旧版操作系统、软件模拟和学习等需求。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/16/qnrHoXgLV9faKCW.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241016195005582&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;创建虚拟机：用户可以在 VirtualBox 中创建多个虚拟机，并为每个虚拟机分配不同的计算资源和存储空间。
+安装操作系统：用户可以在 VirtualBox 中安装并运行不同的操作系统，如 Windows、Linux、MacOS 等。
+共享文件：VirtualBox 支持在虚拟机和主机系统之间共享文件和文件夹，方便用户在不同系统之间传输数据。
+网络设置：用户可以配置虚拟机的网络设置，如连接方式、IP 地址等，以便虚拟机能够访问互联网或局域网。
+快照管理：用户可以为虚拟机创建快照，以便在虚拟机出现问题时可以恢复到先前的状态。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;免费开源：VirtualBox 是一款免费、开源的虚拟机软件，用户可以在不花费任何费用的情况下使用它。
+跨平台支持：VirtualBox 可以在多种操作系统上运行，并支持在虚拟机中安装多种不同的操作系统，具有良好的跨平台兼容性。
+界面友好：VirtualBox 拥有直观的用户界面，用户可以通过图形化界面轻松管理虚拟机的设置和操作。
+强大的功能：VirtualBox 提供了丰富的功能，如快照管理、网络设置、共享文件等，可以满足用户在虚拟化环境中的各种需求。
+社区支持：VirtualBox 拥有一个活跃的社区，用户可以在社区中获取到各种使用教程、问题解答等支持服务。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Changelog – Oracle VM VirtualBox
+&lt;a class=&#34;link&#34; href=&#34;https://www.virtualbox.org/wiki/Changelog&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.virtualbox.org/wiki/Changelog&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9f113b1cee96&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9f113b1cee96&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9K9q7iv0AvWXG6PWgeQDVFA1?pwd=vuk6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9K9q7iv0AvWXG6PWgeQDVFA1?pwd=vuk6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VirtualBox(轻量级虚拟机软件) v7.1.4 Build 165100</title>
+        <link>https://www.danlong360.com/post/4609/</link>
+        <pubDate>Wed, 16 Oct 2024 10:11:54 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4609/</guid>
+        <description>&lt;p&gt;VirtualBox 是由 Oracle 公司开发的一款开源的虚拟机软件，可以在一台物理机上运行多个虚拟的操作系统。用户可以在 VirtualBox 中安装不同的操作系统，如 Windows、Linux、MacOS 等，来进行软件开发、测试、教学等工作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/16/Md5foLQOe3hnyxg.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241016101210772&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持多种操作系统：VirtualBox 支持安装和运行多种操作系统，包括 Windows、Linux、Mac OS 等。
+虚拟硬件支持：VirtualBox 提供了虚拟 CPU、内存、硬盘、网络等硬件，可以模拟完整的计算机环境。
+快照功能：可以对虚拟机进行快照备份，方便用户在出错之后恢复到之前的状态。
+共享文件夹：可以设置虚拟机和主机之间的共享文件夹，方便文件的传输和共享。
+虚拟网络：可以设置虚拟网络环境，实现虚拟机之间的通讯和连接。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;免费开源：VirtualBox 是一款开源软件，可以免费下载和使用。
+跨平台支持：VirtualBox 可以在 Windows、Mac、Linux 等多个操作系统上安装和运行。
+灵活性：支持多种操作系统的安装和运行，可以为开发、测试、教学等提供灵活的虚拟化环境。
+易用性：VirtualBox 提供了直观的用户界面，操作简单方便，适合各种用户群体使用。
+社区支持：有一个活跃的社区支持 VirtualBox 软件的开发和更新，用户可以得到及时的帮助和反馈。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/79fc22e98ada&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/79fc22e98ada&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9I5SfXHpAubj-l5Xx56hFWA1?pwd=94ns&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9I5SfXHpAubj-l5Xx56hFWA1?pwd=94ns&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VMware Workstation虚拟机 v17.6.1 中文精简版</title>
+        <link>https://www.danlong360.com/post/6270/</link>
+        <pubDate>Fri, 11 Oct 2024 12:18:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6270/</guid>
+        <description>&lt;p&gt;VMware Workstation 中文版是一款功能强大的 VMware 虚拟机软件.最新 VMware 精简版集成许可密钥免激活,最大特色是已解锁支持安装 MAC OS X 客户操作系统,添加了微软 MSDM,DELL SLIC 的 BLOS 支持,号称世界史上第一位解决,VMwar 中文注册精简版相比原版体积小,功能实用性较强,安装方便深受部分用户喜爱.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/bEUakzlygiAJORm.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241011121852764&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;by cuiplay&lt;/p&gt;
+&lt;p&gt;• 精简列表：
+- VMware Tray（托盘程序）
+- VMware VIX（导出 OVF 支持）
+- Visual Studio（微软 VS 工具集）
+- VirtualPrinter（虚拟打印机驱动）
+- VC Runtimes Redist（VC++运行库）
+- 除英文、中文外的其它多国语言包文件
+- 除 Windows 外其它 VMware Tools ISO
+• 主要特色：
+- 修改添加 APPLE OSK，可以安装 MAC OS X（无需再使用 Unlocker MacOS 解锁补丁）
+- 解除 OSX Server 安装限制，修改添加 DELL SLIC2.7 + MSDM + SLP + Virtual PC XP
+- 直接在安装程序中集成 CDK，调整安装 UI，安装好即注册！&lt;/p&gt;
+&lt;p&gt;VMware Workstation 全系列合集 精简安装注册版 支持 SLIC2.6、MSDM、OSX&lt;/p&gt;
+&lt;p&gt;BIOS 支持 OEM 激活 Windows XP/7/Vista/Server 2003R2/2008R2, 2012R2, 2016, 2019, 2022, 2025(17.6 开始)；
+EFI BIOS 支持 OEM 激活 Windows Vista/Server 2008, 2008R2, 2012, 2012R2, 2016, 2019, 2022, 2025(17.6 开始)；
+VISTA~2025 对安装盘无要求，导入 OEM 证书和系统版本对应的 OEM-CDK 即可激活（证书网盘已提供、CDK 自找）&lt;/p&gt;
+&lt;p&gt;# 安装 Mac OS X，需编辑虚拟机设置 -&amp;gt; 选项 -&amp;gt; 高级 -&amp;gt; 勾选“通过 EFI 而非 BIOS 引导”&lt;/p&gt;
+&lt;p&gt;• 如何安装 VM MacOS 客户机？
+::官方版不支持安装，此精简版已解除限制，具体使用步骤： 1.新建虚拟机 -&amp;gt; 硬件兼容性选 VM10.x -&amp;gt; Apple Mac OS X 2.新建好虚拟机后，找到你新建的镜像名称文件“名称.vmx&amp;quot; 3.然后添加 1 行参数保存启动虚拟机即可：smc.version = &amp;ldquo;0&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;2024-10-11 更新 VMware Workstation Pro 17.6.1-24319023
+新增精简 Windows x86 Tools iso，仅保留 x64 。有需要可以从官网、网盘下载。&lt;/p&gt;
+&lt;p&gt;Windows x86 Tools iso 官网直链：&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly9zb2Z0d2FyZXVwZGF0ZS52bXdhcmUuY29tL2Nkcy92bXctZGVza3RvcC93cy8xNy42LjEvMjQzMTkwMjMvd2luZG93cy9wYWNrYWdlcy90b29scy13aW5kb3dzLXg4Ni50YXI=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.1/24319023/windows/packages/tools-windows-x86.tar&lt;/a&gt;
+CRC32: 23712B8A
+MD5: 374076468C7923495F8DFB63E679BEA8
+SHA-1: 7CDF8FFC28B1D5C541C044E04FEAE9AE58A49F03&lt;/p&gt;
+&lt;h3 id=&#34;系统要求&#34;&gt;系统要求
+&lt;/h3&gt;&lt;p&gt;VM16：硬件要求高，Windows 10 或更高版 64 位
+VM15：硬件要求中，Windows 7 或更高版 64 位
+VM12：硬件要求低，Windows 7 或更高版 64 位
+VM10：Windows XP 或更高版 32 位和 64 位旧版
+注意：VM14 版本开始不支持某些旧的电脑硬件，
+会提示不支持或安装失败, 如遇到请退回 12 版本。&lt;/p&gt;
+&lt;p&gt;注意，VM11 及后续版本 仅支持 X64 系统使用！X86 请用 10 版本系列！
+注意，VM16 不再支持 Win7 系统使用！Win7 请用 15.5 及以下版本系列！&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/031d4011f6b0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/031d4011f6b0&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VMware Workstation(VMware虚拟机) Pro v17.6.1.24319023</title>
+        <link>https://www.danlong360.com/post/407/</link>
+        <pubDate>Thu, 10 Oct 2024 19:07:36 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/407/</guid>
+        <description>&lt;p&gt;VMware Workstation（中文名“威睿工作站”）是一款功能强大的桌面虚拟计算机软件，提供用户可在单一的桌面上同时运行不同的操作系统，和进行开发、测试 、部署新的应用程序的最佳解决方案。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/ws3GpuJIkicjYaQ.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241010190802326&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;虚拟机创建与管理：可以创建、运行、暂停和关闭虚拟机，可以设置虚拟机的硬件配置和网络设置。
+快照管理：可以随时保存虚拟机的快照，以便在需要时恢复到某个特定的状态，方便进行实验或测试。
+虚拟机克隆和迁移：可以克隆现有的虚拟机，创建新的虚拟机，也可以将虚拟机迁移到其他物理机上。
+虚拟机共享和访问：可以将虚拟机共享给其他人，或者访问其他人共享的虚拟机，方便合作和交流。
+虚拟机和主机互联：可以设置虚拟机和主机之间的文件共享和剪贴板共享，方便在虚拟机和主机之间交换数据。
+虚拟机性能优化：可以调整虚拟机的性能参数，如 CPU 和内存分配，以获得更好的性能和稳定性。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;多平台支持：可以在 Windows、Linux 和 macOS 等多个操作系统上运行 VMware Workstation，实现跨平台虚拟化。
+高性能和稳定性：提供了优化的虚拟化引擎和硬件加速技术，保证虚拟机的高性能和稳定性。
+灵活的网络设置：可以设置虚拟机的网络连接方式，如桥接模式、NAT 模式和仅主机模式，实现虚拟机与外部网络的连接。
+强大的安全性：可以对虚拟机进行加密和密码保护，保障虚拟机中的数据安全。
+完整的虚拟机应用支持：可以在虚拟机中运行各种操作系统和应用程序，如 Windows、Linux、Android 和 iOS 等。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0057f7d6068a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0057f7d6068a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VMware Workstation Player(虚拟机平台) v17.6.1.24319023</title>
+        <link>https://www.danlong360.com/post/5545/</link>
+        <pubDate>Thu, 10 Oct 2024 19:06:03 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/5545/</guid>
+        <description>&lt;p&gt;VMware Workstation Player 是一款虚拟化软件，旨在为用户提供创建和运行虚拟机的平台。它可以在一台物理机上同时运行多个虚拟机，每个虚拟机都可以运行不同的操作系统。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/10/g9TKIGUJXL4nOf3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241010190621715&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;创建虚拟机：用户可以使用 VMware Workstation Player 创建多个虚拟机，选择不同的操作系统和配置选项。
+虚拟机管理：用户可以对所有虚拟机进行管理，包括启动、关闭、重启、暂停和删除虚拟机等操作。
+快照和复原：软件提供了创建虚拟机快照的功能，用户可以在虚拟机运行时保存快照，并在需要时还原到快照状态。
+分享虚拟机：用户可以将创建的虚拟机导出并分享给其他人使用，或导入其他人分享的虚拟机。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简易使用：VMware Workstation Player 提供了直观的图形界面，使用户可以轻松创建、配置和管理虚拟机。
+兼容性强：软件支持多种操作系统，包括 Windows、Linux 和 Mac OS 等，用户可以灵活选择使用的操作系统。
+高性能：VMware Workstation Player 提供了虚拟机的硬件加速和优化设置，使得虚拟机可以高效运行，并提供与物理机相似的性能。
+安全可靠：软件提供了虚拟机间的隔离环境，保护操作系统和应用程序免受恶意软件和网络攻击的影响。
+社区支持：VMware Workstation Player 有庞大的用户社区，用户可以在社区中获取帮助、分享经验和参与讨论。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/37a7f192faf8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/37a7f192faf8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>沙盘SandBoxie Classic_v5.69.10 / Plus 1.14.10</title>
+        <link>https://www.danlong360.com/post/138/</link>
+        <pubDate>Fri, 04 Oct 2024 22:21:56 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/138/</guid>
+        <description>&lt;p&gt;沙盘 Sandboxie 中文版是一款知名的系统安全工具的菜鸟高手裸奔工具,它可以让选定程序在安全的隔离系统环境下运行,只要在此环境中运行的软件,浏览器或注册表信息等都可以完整的进行清空,不留一点痕迹.同时可以防御些带有木马或者病毒的恶意网站,对于经常测试软件或者不放心的软件,可放心在沙盘里面运行.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/04/eqULPGOf4MsIBRh.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241004222216340&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;sandboxie-plus/Sandboxie - GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/sandboxie-plus/Sandboxie/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/sandboxie-plus/Sandboxie/releases&lt;/a&gt;
+官方论坛 2020 年 3 月份公布免费开源 Sandboxie 源码
+最后一个官方数字签名的免费版的版本号为 v5.33.6
+现由开发者@DavidXanatos 个人接盘持续更新维护
+Sandboxie Classic ：沙盘经典版，安全更新!
+Sandboxie Plus：沙盘增强版，全新开发版!&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/1f01d053086c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/1f01d053086c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VirtualBox(虚拟机软件) v7.1.2 Build 164945 多语便携版</title>
+        <link>https://www.danlong360.com/post/3804/</link>
+        <pubDate>Mon, 30 Sep 2024 23:30:22 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/3804/</guid>
+        <description>&lt;p&gt;VirtualBox 是由 Oracle 公司开发的一款虚拟化软件。它可以在一台物理计算机上构建多个虚拟计算机，每个虚拟计算机都可以运行独立的操作系统。VirtualBox 支持在 Windows、macOS、Linux 和 Solaris 等操作系统上进行安装和运行。它被广泛用于开发和测试环境中，同时也可以用于运行旧版操作系统、软件模拟和学习等需求。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/30/7rpRy8iwGPY5QuD.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240930233043535&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;创建虚拟机：用户可以在 VirtualBox 中创建多个虚拟机，并为每个虚拟机分配不同的计算资源和存储空间。
+安装操作系统：用户可以在 VirtualBox 中安装并运行不同的操作系统，如 Windows、Linux、MacOS 等。
+共享文件：VirtualBox 支持在虚拟机和主机系统之间共享文件和文件夹，方便用户在不同系统之间传输数据。
+网络设置：用户可以配置虚拟机的网络设置，如连接方式、IP 地址等，以便虚拟机能够访问互联网或局域网。
+快照管理：用户可以为虚拟机创建快照，以便在虚拟机出现问题时可以恢复到先前的状态。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;免费开源：VirtualBox 是一款免费、开源的虚拟机软件，用户可以在不花费任何费用的情况下使用它。
+跨平台支持：VirtualBox 可以在多种操作系统上运行，并支持在虚拟机中安装多种不同的操作系统，具有良好的跨平台兼容性。
+界面友好：VirtualBox 拥有直观的用户界面，用户可以通过图形化界面轻松管理虚拟机的设置和操作。
+强大的功能：VirtualBox 提供了丰富的功能，如快照管理、网络设置、共享文件等，可以满足用户在虚拟化环境中的各种需求。
+社区支持：VirtualBox 拥有一个活跃的社区，用户可以在社区中获取到各种使用教程、问题解答等支持服务。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Changelog – Oracle VM VirtualBox
+&lt;a class=&#34;link&#34; href=&#34;https://www.gndown.com/target/aHR0cHM6Ly93d3cudmlydHVhbGJveC5vcmcvd2lraS9DaGFuZ2Vsb2c=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.virtualbox.org/wiki/Changelog&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f63c63bd7a74&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f63c63bd7a74&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>雷电模拟器9(64) v9.0.78.0 去广告绿色纯净版</title>
+        <link>https://www.danlong360.com/post/leidianmoniqi9078/</link>
+        <pubDate>Sun, 22 Sep 2024 17:33:52 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/leidianmoniqi9078/</guid>
+        <description>&lt;p&gt;玩电脑手游模拟器安卓版首选雷电模拟器 9.0 最新版采用 Android 9 版本内核.雷电安卓模拟器最新版,支持 OpenGL3.1 模式 3D 渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/22/QjE39OvVXzwynie.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;雷电模拟器9(64) v9.0.38.0 去广告绿色纯净版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;更新日志_雷电安卓模拟器
+&lt;a class=&#34;link&#34; href=&#34;https://www.ldmnq.com/ld_update_log.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/ld_update_log.html&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;1.去启动界面广告、去任务栏右下角通知区域游戏弹窗 2.去雷电游戏中心(安装软件跳出主屏幕游戏推广弹窗行为) 3.去桌面底部广告(桌面主屏幕内下方 5 个内置游戏推广应用) 4.拒绝后台广告数据下载请求 %AppData%Leidian64Cache 5.破解游戏多开(解除了官方版不能同时运行超过 5 个 APP 的限制) 6.拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为 7.免安装净化处理，删除资讯广告程序、上传组件、错误报告文件 8.删除系统镜像内置短信 app，提供面具(Magisk)及 LSPosed 框架
+● 如何启用 ROOT 权限?
+雷电模拟器 9.0 默认没开 ROOT 权限
+界面-设置-其它-root 权限-启用即可
+● 如何只更新去广告后的系统镜像呢?
+只需下载去广告版提取镜像文件替换到以下位置
+├—LDPlayer9system.vmdk, vmssystem.vmdk
+● 雷电模拟器 9.0、雷电模拟器 5.0/4.0 和 3.x 有什么区别?
+# 主要指的安卓系统镜像 Android 版本不同(system.vmdk)：
+﹂9.0：Android 9-x86_64 (64 位版，64 位指的安卓系统版本)
+﹂5.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64 位版)
+﹂3.x：Android 5.1.2-x86
+# 所有版本都兼容 ARM 库，可共存使用支持各版无限多开运行&lt;/p&gt;
+&lt;h3 id=&#34;运行要求&#34;&gt;运行要求
+&lt;/h3&gt;&lt;p&gt;Windows 7、Windows 10 或更高版 64 位
+需要开启虚拟化技术(VT)，电脑怎么开启 VT 教程
+&lt;a class=&#34;link&#34; href=&#34;https://www.ldmnq.com/support/VTjiao/290.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/support/VTjiao/290.html&lt;/a&gt;
+其它的说明: &lt;a class=&#34;link&#34; href=&#34;https://ldmnq.com/forum/86495.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ldmnq.com/forum/86495.html&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/890eeacd6a37&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/890eeacd6a37&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO93l035Fle4EzNXFbyympVAA1?pwd=mbkw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO93l035Fle4EzNXFbyympVAA1?pwd=mbkw&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>雷电模拟器9.0 v9.0.77.4 去广告纯净版</title>
+        <link>https://www.danlong360.com/post/leidianmoniqi774/</link>
+        <pubDate>Fri, 20 Sep 2024 15:24:42 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/leidianmoniqi774/</guid>
+        <description>&lt;p&gt;雷电模拟器 9 是基于安卓 9 内核开发的全新版本模拟器，具备强大的游戏兼容性和系统兼容性，能够稳定运行市面上万款热门手游，带你感受更快的速度、更完美的操控体验！且全面升级了 Android 9 作业系统，将 32 位和 64 位元框架合并，有着比以往更快的启动速度，更低的电脑资源占用。&lt;/p&gt;
+&lt;p&gt;支持 OpenGL3.1 模式 3D 渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/20/YNC6RJpfK4Sqru1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240920152518181&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;@423down&lt;/p&gt;
+&lt;p&gt;1.去启动界面广告、去任务栏右下角通知区域游戏弹窗 2.去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为） 3.去桌面底部广告（桌面主屏幕内下方 5 个内置游戏推广应用） 4.拒绝后台广告数据下载请求 %AppData%\Leidian9\Cache 5.拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为 6.免安装净化处理，删除资讯广告程序、上传组件、错误报告文件 7.禁止点击主界面顶部的远程控制(无界趣连)按钮下载软件安装包 8.删除系统镜像内置短信 app，提供面具(Magisk)及 LSPosed 框架&lt;/p&gt;
+&lt;p&gt;**
+**&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;● 如何启用 ROOT 权限？&lt;/strong&gt;
+界面-设置-其它-root 权限-启用即可&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;● 如何只更新去广告后的系统镜像呢？&lt;/strong&gt;
+只需下载去广告版提取镜像文件替换到以下位置
+├—LDPlayer9\system.vmdk, vms\system.vmdk&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;● 雷电模拟器 9.0、雷电模拟器 4.0 和 3.x 有什么区别？&lt;/strong&gt;
+# 主要指的安卓系统镜像 Android 版本不同(system.vmdk)：
+﹂9.0：Android 9-x86_64 (64 位版，64 位指的安卓系统版本)
+﹂4.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64 位版)
+﹂3.x：Android 5.1.2-x86
+# 所有版本都兼容 ARM 库，可共存使用支持各版无限多开运行&lt;/p&gt;
+&lt;h4 id=&#34;v90770&#34;&gt;v9.0.77.0
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;优化了《明日方舟》“划火柴”的按键操作。&lt;/li&gt;
+&lt;li&gt;修复了《我的世界》无法进入游戏的问题。&lt;/li&gt;
+&lt;li&gt;修复了一些 bug，改进用户体验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;v90762&#34;&gt;v9.0.76.2
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;修复了近期的模拟器版本，部分游戏会闪退的问题。&lt;/li&gt;
+&lt;li&gt;修复了《冒险岛：枫之传说》有概率卡死的问题。&lt;/li&gt;
+&lt;li&gt;修复了《色块大作战》角色显示成黑影的问题。&lt;/li&gt;
+&lt;li&gt;修复了部分情况下模拟器启动失败的问题。&lt;/li&gt;
+&lt;li&gt;修复了“滑动轨迹”按键滑动速度过慢的问题。&lt;/li&gt;
+&lt;li&gt;修复了安装 APK 时，安装包扫描时间过长的问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;v90750&#34;&gt;v9.0.75.0
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;小游戏专区上线，一键秒玩无需下载。&lt;/li&gt;
+&lt;li&gt;修复了浏览器无法下载 QQ 的问题。&lt;/li&gt;
+&lt;li&gt;修复了荣耀渠道闪退的问题。&lt;/li&gt;
+&lt;li&gt;优化了 adb 可能连接不上的问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;v90734&#34;&gt;v9.0.73.4
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;新增了“安全守护”功能，安装 APK 时自动识别风险应用，保护个人信息安全与模拟器系统稳定。&lt;/li&gt;
+&lt;li&gt;修复了 APK 安装失败时，错误原因描述不准确的问题。&lt;/li&gt;
+&lt;li&gt;修复了部分情况下，模拟器启动会卡 30%的问题。&lt;/li&gt;
+&lt;li&gt;修复了部分游戏的 iOS 登录有概率失效的问题。&lt;/li&gt;
+&lt;li&gt;修复了一些 bug，改进用户体验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;v90731&#34;&gt;v9.0.73.1
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;修复了部分情况下，模拟器启动会卡 30%的问题。&lt;/li&gt;
+&lt;li&gt;进一步优化了部分游戏的 iOS 登录有概率失效的问题。&lt;/li&gt;
+&lt;li&gt;修复了一些 bug，改进用户体验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;v90725&#34;&gt;v9.0.72.5
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;优化了 App 同步手机功能，支持把模拟器上的游戏和应用传到手机使用。&lt;/li&gt;
+&lt;li&gt;优化了模拟器扫码下载游戏的提示。&lt;/li&gt;
+&lt;li&gt;优化了安装 APK 时的性能占用。&lt;/li&gt;
+&lt;li&gt;修复了一些 bug，改进用户体验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8d84ef7474d2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8d84ef7474d2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO99vM6q5L0RAMhnNq3mrcf-A1?pwd=kyy4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO99vM6q5L0RAMhnNq3mrcf-A1?pwd=kyy4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VirtualBox(轻量级虚拟机软件) v7.1.0 Build 164728</title>
+        <link>https://www.danlong360.com/post/virtualbox710/</link>
+        <pubDate>Thu, 12 Sep 2024 08:59:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/virtualbox710/</guid>
+        <description>&lt;p&gt;VirtualBox 是由 Oracle 公司开发的一款开源的虚拟机软件，可以在一台物理机上运行多个虚拟的操作系统。用户可以在 VirtualBox 中安装不同的操作系统，如 Windows、Linux、MacOS 等，来进行软件开发、测试、教学等工作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/12/sPcj3y28MhS6Ltd.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;VirtualBox(虚拟机软件) v7.0.18 Build 162988 多语便携版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持多种操作系统：VirtualBox 支持安装和运行多种操作系统，包括 Windows、Linux、Mac OS 等。
+虚拟硬件支持：VirtualBox 提供了虚拟 CPU、内存、硬盘、网络等硬件，可以模拟完整的计算机环境。
+快照功能：可以对虚拟机进行快照备份，方便用户在出错之后恢复到之前的状态。
+共享文件夹：可以设置虚拟机和主机之间的共享文件夹，方便文件的传输和共享。
+虚拟网络：可以设置虚拟网络环境，实现虚拟机之间的通讯和连接。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;免费开源：VirtualBox 是一款开源软件，可以免费下载和使用。
+跨平台支持：VirtualBox 可以在 Windows、Mac、Linux 等多个操作系统上安装和运行。
+灵活性：支持多种操作系统的安装和运行，可以为开发、测试、教学等提供灵活的虚拟化环境。
+易用性：VirtualBox 提供了直观的用户界面，操作简单方便，适合各种用户群体使用。
+社区支持：有一个活跃的社区支持 VirtualBox 软件的开发和更新，用户可以得到及时的帮助和反馈。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62785381-e4ac52?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62785381-e4ac52?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/9e1b3a1e1c62&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/9e1b3a1e1c62&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>雷电模拟器9(64) v9.0.77.0 去广告绿色纯净版</title>
+        <link>https://www.danlong360.com/post/leidianmoniqi770/</link>
+        <pubDate>Thu, 12 Sep 2024 08:38:52 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/leidianmoniqi770/</guid>
+        <description>&lt;p&gt;玩电脑手游模拟器安卓版首选雷电模拟器 9.0 最新版采用 Android 9 版本内核.雷电安卓模拟器最新版,支持 OpenGL3.1 模式 3D 渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/12/OA5xZCLuaPWEFpY.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;雷电模拟器9(64) v9.0.38.0 去广告绿色纯净版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;更新日志_雷电安卓模拟器
+&lt;a class=&#34;link&#34; href=&#34;https://www.ldmnq.com/ld_update_log.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/ld_update_log.html&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;1.去启动界面广告、去任务栏右下角通知区域游戏弹窗 2.去雷电游戏中心(安装软件跳出主屏幕游戏推广弹窗行为) 3.去桌面底部广告(桌面主屏幕内下方 5 个内置游戏推广应用) 4.拒绝后台广告数据下载请求 %AppData%Leidian64Cache 5.破解游戏多开(解除了官方版不能同时运行超过 5 个 APP 的限制) 6.拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为 7.免安装净化处理，删除资讯广告程序、上传组件、错误报告文件 8.删除系统镜像内置短信 app，提供面具(Magisk)及 LSPosed 框架
+● 如何启用 ROOT 权限?
+雷电模拟器 9.0 默认没开 ROOT 权限
+界面-设置-其它-root 权限-启用即可
+● 如何只更新去广告后的系统镜像呢?
+只需下载去广告版提取镜像文件替换到以下位置
+├—LDPlayer9system.vmdk, vmssystem.vmdk
+● 雷电模拟器 9.0、雷电模拟器 5.0/4.0 和 3.x 有什么区别?
+# 主要指的安卓系统镜像 Android 版本不同(system.vmdk)：
+﹂9.0：Android 9-x86_64 (64 位版，64 位指的安卓系统版本)
+﹂5.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64 位版)
+﹂3.x：Android 5.1.2-x86
+# 所有版本都兼容 ARM 库，可共存使用支持各版无限多开运行&lt;/p&gt;
+&lt;h3 id=&#34;运行要求&#34;&gt;运行要求
+&lt;/h3&gt;&lt;p&gt;Windows 7、Windows 10 或更高版 64 位
+需要开启虚拟化技术(VT)，电脑怎么开启 VT 教程
+&lt;a class=&#34;link&#34; href=&#34;https://www.ldmnq.com/support/VTjiao/290.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/support/VTjiao/290.html&lt;/a&gt;
+其它的说明: &lt;a class=&#34;link&#34; href=&#34;https://ldmnq.com/forum/86495.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ldmnq.com/forum/86495.html&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;诚通网盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62785363-e427d1?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62785363-e427d1?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/da468aa41db7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/da468aa41db7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VMware Workstation虚拟机 v17.6.0 中文精简版</title>
+        <link>https://www.danlong360.com/post/vmware1760jingjianban/</link>
+        <pubDate>Wed, 04 Sep 2024 22:37:03 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/vmware1760jingjianban/</guid>
+        <description>&lt;p&gt;VMware Workstation 中文版是一款功能强大的 VMware 虚拟机软件.最新 VMware 精简版集成许可密钥免激活,最大特色是已解锁支持安装 MAC OS X 客户操作系统,添加了微软 MSDM,DELL SLIC 的 BLOS 支持,号称世界史上第一位解决,VMware 中文注册精简版相比原版体积小,功能实用性较强,安装方便深受部分用户喜爱.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/04/QbnZRXuB7zr3KcH.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;VMware Workstation虚拟机 v17.5.2 中文精简版&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h5&gt;&lt;p&gt;by cuiplay&lt;/p&gt;
+&lt;p&gt;• 精简列表：
+- VMware Tray（托盘程序）
+- VMware VIX（导出 OVF 支持）
+- Visual Studio（微软 VS 工具集）
+- VirtualPrinter（虚拟打印机驱动）
+- VC Runtimes Redist（VC++运行库）
+- 除英文、中文外的其它多国语言包文件
+- 除 Windows 外其它 VMware Tools ISO
+• 主要特色：
+- 修改添加 APPLE OSK，可以安装 MAC OS X（无需再使用 Unlocker MacOS 解锁补丁）
+- 解除 OSX Server 安装限制，修改添加 DELL SLIC2.7 + MSDM + SLP + Virtual PC XP
+- 直接在安装程序中集成 CDK，调整安装 UI，安装好即注册！&lt;/p&gt;
+&lt;p&gt;VMware Workstation 全系列合集 精简安装注册版 支持 SLIC2.6、MSDM、OSX&lt;/p&gt;
+&lt;p&gt;BIOS 支持 OEM 激活 Windows XP/7/Vista/Server 2003R2/2008R2, 2012R2, 2016, 2019, 2022, 2025(17.6 开始)；
+EFI BIOS 支持 OEM 激活 Windows Vista/Server 2008, 2008R2, 2012, 2012R2, 2016, 2019, 2022, 2025(17.6 开始)；
+VISTA~2025 对安装盘无要求，导入 OEM 证书和系统版本对应的 OEM-CDK 即可激活（证书网盘已提供、CDK 自找）&lt;/p&gt;
+&lt;p&gt;# 安装 Mac OS X，需编辑虚拟机设置 -&amp;gt; 选项 -&amp;gt; 高级 -&amp;gt; 勾选“通过 EFI 而非 BIOS 引导”&lt;/p&gt;
+&lt;p&gt;• 如何安装 VM MacOS 客户机？
+::官方版不支持安装，此精简版已解除限制，具体使用步骤： 1.新建虚拟机 -&amp;gt; 硬件兼容性选 VM10.x -&amp;gt; Apple Mac OS X 2.新建好虚拟机后，找到你新建的镜像名称文件“名称.vmx&amp;quot; 3.然后添加 1 行参数保存启动虚拟机即可：smc.version = &amp;ldquo;0&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;2024-09-04 更新 VMware Workstation Pro 17.6.0-24238078
+更新 SLIC 2.7（Server2025）
+BIOS 集成 2025DC MSDM
+EFI BIOS 只有 SLIC 没有集成 MSDM（不会集成。。）&lt;/p&gt;
+&lt;p&gt;2024-05-15 更新 VMware Workstation Pro 17.5.2-23775571
+继续集成 CDK，商业用途许可版。。。
+MD5: 806DB309E704B2A12FF1621F9AB2AA12
+SHA-1: 5D95E64A4CB7FBDF28F095B8A8EB4E55D5840137&lt;/p&gt;
+&lt;h5 id=&#34;系统要求&#34;&gt;系统要求
+&lt;/h5&gt;&lt;p&gt;VM16：硬件要求高，Windows 10 或更高版 64 位
+VM15：硬件要求中，Windows 7 或更高版 64 位
+VM12：硬件要求低，Windows 7 或更高版 64 位
+VM10：Windows XP 或更高版 32 位和 64 位旧版
+注意：VM14 版本开始不支持某些旧的电脑硬件，
+会提示不支持或安装失败, 如遇到请退回 12 版本。&lt;/p&gt;
+&lt;p&gt;注意，VM11 及后续版本 仅支持 X64 系统使用！X86 请用 10 版本系列！
+注意，VM16 不再支持 Win7 系统使用！Win7 请用 15.5 及以下版本系列！&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;VMware Workstation 虚拟机 v17.6.0 中文精简版&lt;/p&gt;
+&lt;p&gt;高速盘: &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62695057-773d0f?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62695057-773d0f?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;百度盘: &lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1nvc5VEFQeLm572tLwtpOkQ?pwd=gmcr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.baidu.com/s/1nvc5VEFQeLm572tLwtpOkQ?pwd=gmcr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;123 盘 : &lt;a class=&#34;link&#34; href=&#34;https://www.123pan.com/s/PbbTjv-c1t4H&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.123pan.com/s/PbbTjv-c1t4H&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VMware Workstation Player(虚拟机平台) v17.6.0.24238078</title>
+        <link>https://www.danlong360.com/post/vmwareworkstationplayer/</link>
+        <pubDate>Tue, 03 Sep 2024 21:23:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/vmwareworkstationplayer/</guid>
+        <description>&lt;p&gt;VMware Workstation Player 是一款虚拟化软件，旨在为用户提供创建和运行虚拟机的平台。它可以在一台物理机上同时运行多个虚拟机，每个虚拟机都可以运行不同的操作系统。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/03/ParfDnvCS3Fc4Lp.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;VMware Workstation Player(虚拟机平台) v17.6.0.24238078&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;创建虚拟机：用户可以使用 VMware Workstation Player 创建多个虚拟机，选择不同的操作系统和配置选项。
+虚拟机管理：用户可以对所有虚拟机进行管理，包括启动、关闭、重启、暂停和删除虚拟机等操作。
+快照和复原：软件提供了创建虚拟机快照的功能，用户可以在虚拟机运行时保存快照，并在需要时还原到快照状态。
+分享虚拟机：用户可以将创建的虚拟机导出并分享给其他人使用，或导入其他人分享的虚拟机。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;简易使用：VMware Workstation Player 提供了直观的图形界面，使用户可以轻松创建、配置和管理虚拟机。
+兼容性强：软件支持多种操作系统，包括 Windows、Linux 和 Mac OS 等，用户可以灵活选择使用的操作系统。
+高性能：VMware Workstation Player 提供了虚拟机的硬件加速和优化设置，使得虚拟机可以高效运行，并提供与物理机相似的性能。
+安全可靠：软件提供了虚拟机间的隔离环境，保护操作系统和应用程序免受恶意软件和网络攻击的影响。
+社区支持：VMware Workstation Player 有庞大的用户社区，用户可以在社区中获取帮助、分享经验和参与讨论。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;VMware Workstation Player(虚拟机平台) v17.6.0.24238078&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/81477745f3ac&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/81477745f3ac&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VMware Workstation(VMware虚拟机) Pro v17.6.0.24238078</title>
+        <link>https://www.danlong360.com/post/vmware8078/</link>
+        <pubDate>Tue, 03 Sep 2024 21:18:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/vmware8078/</guid>
+        <description>&lt;p&gt;VMware Workstation（中文名“威睿工作站”）是一款功能强大的桌面虚拟计算机软件，提供用户可在单一的桌面上同时运行不同的操作系统，和进行开发、测试 、部署新的应用程序的最佳解决方案。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/09/03/QLGmiczaSKoXJVb.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;VMware Workstation(VMware虚拟机) Pro v17.5.2.23775571&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h5 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h5&gt;&lt;p&gt;虚拟机创建与管理：可以创建、运行、暂停和关闭虚拟机，可以设置虚拟机的硬件配置和网络设置。
+快照管理：可以随时保存虚拟机的快照，以便在需要时恢复到某个特定的状态，方便进行实验或测试。
+虚拟机克隆和迁移：可以克隆现有的虚拟机，创建新的虚拟机，也可以将虚拟机迁移到其他物理机上。
+虚拟机共享和访问：可以将虚拟机共享给其他人，或者访问其他人共享的虚拟机，方便合作和交流。
+虚拟机和主机互联：可以设置虚拟机和主机之间的文件共享和剪贴板共享，方便在虚拟机和主机之间交换数据。
+虚拟机性能优化：可以调整虚拟机的性能参数，如 CPU 和内存分配，以获得更好的性能和稳定性。&lt;/p&gt;
+&lt;h5 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h5&gt;&lt;p&gt;多平台支持：可以在 Windows、Linux 和 macOS 等多个操作系统上运行 VMware Workstation，实现跨平台虚拟化。
+高性能和稳定性：提供了优化的虚拟化引擎和硬件加速技术，保证虚拟机的高性能和稳定性。
+灵活的网络设置：可以设置虚拟机的网络连接方式，如桥接模式、NAT 模式和仅主机模式，实现虚拟机与外部网络的连接。
+强大的安全性：可以对虚拟机进行加密和密码保护，保障虚拟机中的数据安全。
+完整的虚拟机应用支持：可以在虚拟机中运行各种操作系统和应用程序，如 Windows、Linux、Android 和 iOS 等。&lt;/p&gt;
+&lt;h5 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h5&gt;&lt;hr&gt;
+&lt;p&gt;VMware Workstation(VMware 虚拟机) Pro v17.6.0.24238078&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0329139e16c4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0329139e16c4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Vmware虚拟机安装超低内存占用的Windows 10教程</title>
+        <link>https://www.danlong360.com/post/vmwarewin10/</link>
+        <pubDate>Fri, 23 Aug 2024 10:24:08 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/vmwarewin10/</guid>
+        <description>&lt;p&gt;这款 Windows 10 系统安装好后占用内存在 380M 左右,非常适合虚拟机和老古董机使用,运行流畅不卡顿.制作了配套的安装视频教程,按教程安装即可.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/08/23/G8QayMWksoOTZt2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240823102637191&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;诚通网盘 &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62683276-6371ec?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62683276-6371ec?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘 &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0bd6742c447d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0bd6742c447d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>雷电模拟器9(64) 9.0.75.1 (安卓模拟器) 去广告绿色版</title>
+        <link>https://www.danlong360.com/post/leidianmoniqi90751lvseban/</link>
+        <pubDate>Wed, 14 Aug 2024 11:03:40 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/leidianmoniqi90751lvseban/</guid>
+        <description>&lt;p&gt;玩电脑手游模拟器安卓版首选雷电模拟器 9.0 最新版采用 Android 9 版本内核.雷电安卓模拟器最新版,支持 OpenGL3.1 模式 3D 渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/VlrhP2s.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814110356354&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;更新日志_雷电安卓模拟器
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cubGRtbnEuY29tL2xkX3VwZGF0ZV9sb2cuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/ld_update_log.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;雷电模拟器绿色精简版,雷电安卓模拟器去广告绿色版 1.去启动界面广告、去任务栏右下角通知区域游戏弹窗 2.去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为） 3.去桌面底部广告（桌面主屏幕内下方 5 个内置游戏推广应用） 4.拒绝后台广告数据下载请求 %AppData%\Leidian64\Cache 5.破解游戏多开（解除了官方版不能同时运行超过 5 个 APP 的限制） 6.拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为 7.免安装净化处理，删除资讯广告程序、上传组件、错误报告文件 8.删除系统镜像内置短信 app，提供面具(Magisk)及 LSPosed 框架&lt;/p&gt;
+&lt;p&gt;● 如何启用 ROOT 权限？
+雷电模拟器 9.0 默认没开 ROOT 权限
+界面-设置-其它-root 权限-启用即可&lt;/p&gt;
+&lt;p&gt;● 如何只更新去广告后的系统镜像呢？
+只需下载去广告版提取镜像文件替换到以下位置
+├—LDPlayer9\system.vmdk, vms\system.vmdk&lt;/p&gt;
+&lt;p&gt;● 雷电模拟器 9.0、雷电模拟器 5.0/4.0 和 3.x 有什么区别？
+# 主要指的安卓系统镜像 Android 版本不同(system.vmdk)：
+﹂9.0：Android 9-x86_64 (64 位版，64 位指的安卓系统版本)
+﹂5.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64 位版)
+﹂3.x：Android 5.1.2-x86
+# 所有版本都兼容 ARM 库，可共存使用支持各版无限多开运行&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;运行要求&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Windows 7、Windows 10 或更高版 64 位&lt;/p&gt;
+&lt;p&gt;需要开启虚拟化技术(VT)，电脑怎么开启 VT 教程
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cubGRtbnEuY29tL3N1cHBvcnQvVlRqaWFvLzI5MC5odG1s&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/support/VTjiao/290.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其它的说明: &lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9sZG1ucS5jb20vZm9ydW0vODY0OTUuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ldmnq.com/forum/86495.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;雷电安卓模拟器 v9.0.75.1 (64) 去广告绿色纯净版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/0166a52086e0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/0166a52086e0&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>SandBoxie Classic 5.69.6 / Plus 1.14.6 (沙盘沙盒沙箱) 官方版</title>
+        <link>https://www.danlong360.com/post/sandboxie5696/</link>
+        <pubDate>Wed, 14 Aug 2024 11:02:28 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/sandboxie5696/</guid>
+        <description>&lt;p&gt;沙盘 Sandboxie 中文版是一款知名的系统安全工具的菜鸟高手裸奔工具,它可以让选定程序在安全的隔离系统环境下运行,只要在此环境中运行的软件,浏览器或注册表信息等都可以完整的进行清空,不留一点痕迹.同时可以防御些带有木马或者病毒的恶意网站,对于经常测试软件或者不放心的软件,可放心在沙盘里面运行.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/fStYwgh.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814110248815&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;sandboxie-plus/Sandboxie – GitHub
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9naXRodWIuY29tL3NhbmRib3hpZS1wbHVzL1NhbmRib3hpZS9yZWxlYXNlcw==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/sandboxie-plus/Sandboxie/releases&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;官方论坛 2020 年 3 月份公布免费开源 Sandboxie 源码&lt;/p&gt;
+&lt;p&gt;最后一个官方数字签名的免费版的版本号为 v5.33.6&lt;/p&gt;
+&lt;p&gt;现由开发者@DavidXanatos 个人接盘持续更新维护&lt;/p&gt;
+&lt;p&gt;Sandboxie Classic ：沙盘经典版，安全更新！&lt;/p&gt;
+&lt;p&gt;Sandboxie Plus：沙盘增强版，全新开发版！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sandboxie Classic 5.69.6 / Sandboxie Plus 1.14.6 (2024/07/31)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/a361aec07fcf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/a361aec07fcf&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VirtualBox 7.0.20 (虚拟机) 官方版</title>
+        <link>https://www.danlong360.com/post/virtualbox7020/</link>
+        <pubDate>Wed, 14 Aug 2024 11:01:09 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/virtualbox7020/</guid>
+        <description>&lt;p&gt;Oracle VM VirtualBox 中文版是一款甲骨文公司旗下的免费开源轻量级虚拟机软件.它主要优势是完全免费,性能稳定,可以在 Linux/Windows 平台运行,可以在主机上安装 Win,MacOS,Linux,BSD 等客户机操作系统.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/RKC8d3q.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814110127891&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Changelog – Oracle VM VirtualBox
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cudmlydHVhbGJveC5vcmcvd2lraS9DaGFuZ2Vsb2c=&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.virtualbox.org/wiki/Changelog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Oracle VM VirtualBox 7.0.20 for Windows (2024/07/16)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8b8d37ade549&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8b8d37ade549&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>雷电模拟器5 5.0.82 (安卓模拟器) 去广告绿色版</title>
+        <link>https://www.danlong360.com/post/leidianmoniqi55082/</link>
+        <pubDate>Wed, 14 Aug 2024 11:00:03 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/leidianmoniqi55082/</guid>
+        <description>&lt;p&gt;玩电脑手游模拟器安卓版首选雷电模拟器 5.0 稳定版采用 Android 7.1.2 版内核.雷电安卓模拟器 5.0 版,支持 OpenGL3.1 模式 3D 渲染,游戏稳定多开无压力,提供谷歌安装器,一键宏按键,脚本录制,多开分屏同步器等功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/85XgAKo.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814110022143&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;更新日志_雷电安卓模拟器
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly93d3cubGRtbnEuY29tL2xkX3VwZGF0ZV9sb2cuaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.ldmnq.com/ld_update_log.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;雷电模拟器绿色精简版,雷电安卓模拟器去广告绿色版 1.去启动界面广告、去任务栏右下角通知区域游戏弹窗 2.去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为） 3.去桌面底部广告（桌面主屏幕内下方 5 个内置游戏推广应用） 4.拒绝后台广告数据下载请求 %AppData%\Leidian64\Cache 5.破解游戏多开（解除了官方版不能同时运行超过 5 个 APP 的限制） 6.拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为 7.免安装净化处理，删除资讯广告程序、上传组件、错误报告文件&lt;/p&gt;
+&lt;p&gt;● 如何只更新去广告后的系统镜像呢？
+只需下载去广告版提取镜像文件替换到以下位置
+├—LDPlayer9\system.vmdk, vms\system.vmdk&lt;/p&gt;
+&lt;p&gt;● 雷电模拟器 9.0、雷电模拟器 5.0/4.0 和 3.x 有什么区别？
+# 主要指的安卓系统镜像 Android 版本不同(system.vmdk)：
+﹂9.0：Android 9-x86_64 (64 位版，64 位指的安卓系统版本)
+﹂5.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64 位版)
+﹂3.x：Android 5.1.2-x86
+# 所有版本都兼容 ARM 库，可共存使用支持各版无限多开运行&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;雷电模拟器 v5.0.82(64) / v5.0.82(32) 去广告绿色纯净版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8c5cab9fac01&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8c5cab9fac01&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VMware Workstation Pro 17.5.2 (虚拟机) 精简优化版</title>
+        <link>https://www.danlong360.com/post/vmware1752jingjianyouhua/</link>
+        <pubDate>Wed, 14 Aug 2024 10:58:45 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/vmware1752jingjianyouhua/</guid>
+        <description>&lt;p&gt;VMware Workstation 中文版是一款功能强大的 VMware 虚拟机软件.最新 VMware 精简版集成许可密钥免激活,最大特色是已解锁支持安装 MAC OS X 客户操作系统,添加了微软 MSDM,DELL SLIC 的 BLOS 支持,号称世界史上第一位解决,VMware 中文注册精简版相比原版体积小,功能实用性较强,安装方便深受部分用户喜爱.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/SYaUs2b.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814105903707&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特点描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;by cuiplay&lt;/p&gt;
+&lt;p&gt;• 精简列表：
+– VMware Tray（托盘程序）
+– VMware VIX（导出 OVF 支持）
+– Visual Studio（微软 VS 工具集）
+– VirtualPrinter（虚拟打印机驱动）
+– VC Runtimes Redist（VC++运行库）
+– 除英文、中文外的其它多国语言包文件
+– 除 Windows 外其它 VMware Tools ISO&lt;/p&gt;
+&lt;p&gt;• 主要特色：
+– 修改添加 APPLE OSK，已解锁可安装 MAC OS X 主机系统
+– 修改添加 DELL SLIC2.5 + MSDM + SLP + Virtual PC XP
+– 直接在安装程序中集成 CDK，调整安装 UI，安装好即注册！&lt;/p&gt;
+&lt;p&gt;VMware Workstation 全系列合集 精简安装注册版 支持 SLIC2.6、MSDM、OSX&lt;/p&gt;
+&lt;p&gt;BIOS 支持 OEM 激活 Windows XP/7/Vista/Server 2003R2/2008R2, 2012R2, 2016, 2019, 2022；
+EFI BIOS 支持 OEM 激活 Windows Vista/Server 2008, 2008R2, 2012, 2012R2, 2016, 2019, 2022；
+VISTA~2019 对安装盘无要求，导入 OEM 证书和系统版本对应的 OEM-CDK 即可激活（证书已提供）&lt;/p&gt;
+&lt;p&gt;已解除 OSX Server 安装限制，编辑虚拟机设置 -&amp;gt; 选项 -&amp;gt; 高级 -&amp;gt; 勾选“通过 EFI 而非 BIOS 引导”&lt;/p&gt;
+&lt;p&gt;• 如何安装 VM MacOS 客户机？
+::官方版不支持安装，此精简版已解除限制，具体使用步骤： 1.新建虚拟机 -&amp;gt; 硬件兼容性选 VM10.x -&amp;gt; Apple Mac OS X 2.新建好虚拟机后，找到你新建的镜像名称文件“名称.vmx” 3.然后添加 1 行参数保存启动虚拟机即可：smc.version = “0”&lt;/p&gt;
+&lt;p&gt;2024-05-15 更新 VMware Workstation Pro 17.5.2-23775571
+继续集成 CDK，商业用途许可版。。。
+MD5: 806DB309E704B2A12FF1621F9AB2AA12
+SHA-1: 5D95E64A4CB7FBDF28F095B8A8EB4E55D5840137&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;系统要求&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VM16：硬件要求高，Windows 10 或更高版 64 位
+VM15：硬件要求中，Windows 7 或更高版 64 位
+VM12：硬件要求低，Windows 7 或更高版 64 位
+VM10：Windows XP 或更高版 32 位和 64 位旧版
+注意：VM14 版本开始不支持某些旧的电脑硬件，
+会提示不支持或安装失败, 如遇到请退回 12 版本。&lt;/p&gt;
+&lt;p&gt;注意，VM11 及后续版本 仅支持 X64 系统使用！X86 请用 10 版本系列！
+注意，VM16 不再支持 Win7 系统使用！Win7 请用 15.5 及以下版本系列！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VMware Workstation Pro v17.5.2-23775571 中文精简安装注册版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/87f13f96c1b2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/87f13f96c1b2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VMware Workstation Pro 17.5.2 (虚拟机) 破解版</title>
+        <link>https://www.danlong360.com/post/vmware1752/</link>
+        <pubDate>Wed, 14 Aug 2024 10:57:29 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/vmware1752/</guid>
+        <description>&lt;p&gt;威睿虚拟机软件 VMware Workstation 17 PRO 正式版更新.VMware17 最新版增加了全新暗色界面,支持最新 Win 和 Linux 客户机系统版本,进了 WDDM 1.2 和 OpenGL 4.3 3D 硬件加速支持,12.0 版本之后专门为 Win10 兼容性和功能做了优化,新技术支持 DX10,4K 高分辨率显示屏,OpenGL 3.3,7.1 声道及兼容主流新硬件设备.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/quguNSl.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814105754981&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2024 年 5 月 14 日 VMware Workstation 17.5.2 Pro 发行说明
+&lt;a class=&#34;link&#34; href=&#34;https://www.rjcxb.com/wp-content/plugins/momgo/go.php?url=aHR0cHM6Ly9kb2NzLnZtd2FyZS5jb20vZW4vVk13YXJlLVdvcmtzdGF0aW9uLVByby8xNy41LjIvcm4vdm13YXJlLXdvcmtzdGF0aW9uLTE3NTItcHJvLXJlbGVhc2Utbm90ZXMvaW5kZXguaHRtbA==&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.vmware.com/en/VMware-Workstation-Pro/17.5.2/rn/vmware-workstation-1752-pro-release-notes/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;常见问题&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;# 碰到启动 VMware 客户机系统黑屏如何解决？
+经总结可能原因是 14 版之后注册了两个 LSP 协议（vSockets DGRAM、vSockets STREAM）导致异常！
+解决方法：使用 LSP 修复工具（例如：火绒安全里或 ARK 工具里的 LSP 工具）修复 LSP 网络协议，或者重置下网络链接 Winsock，即打开命令提示符 cmd.exe，输入命令 netsh winsock reset，重启系统即可解决！&lt;/p&gt;
+&lt;p&gt;# 碰到启动 VMware 软件后假死卡住如何解决？
+解决方法：可以尝试关闭系统防火墙！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;系统要求&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VM16：硬件要求高，Windows 10 或更高版 64 位
+VM15：硬件要求中，Windows 7 或更高版 64 位
+VM12：硬件要求低，Windows 7 或更高版 64 位
+VM10：Windows XP 或更高版 32 位和 64 位旧版
+注意：VM14 版本开始不支持某些旧的电脑硬件，
+会提示不支持或安装失败, 如遇到请退回 12 版本。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;激活密钥&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VMware 激活密钥（通用批量永久激活许可）
+17：JU090-6039P-08409-8J0QH-2YR7F
+16：ZF3R0-FHED2-M80TY-8QYGC-NPKYF
+15：FC7D0-D1YDL-M8DXZ-CYPZE-P2AY6
+12：ZC3TK-63GE6-481JY-WWW5T-Z7ATA
+10：1Z0G9-67285-FZG78-ZL3Q2-234JG&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;下载地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VMware v17.5.2 中文激活版 (官方版+注册机)&lt;/p&gt;
+&lt;p&gt;诚通网盘 &lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-62694154-cedfad?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-62694154-cedfad?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+&lt;p&gt;夸克网盘 &lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8b23f0aaf033&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8b23f0aaf033&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;迅雷网盘 &lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9AJmiNfltUnSuj0SusYHdpA1?pwd=wrb8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VO9AJmiNfltUnSuj0SusYHdpA1?pwd=wrb8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>WinKawaks 1.65 (街机模拟器) 绿色版</title>
+        <link>https://www.danlong360.com/post/winkawaks165/</link>
+        <pubDate>Wed, 14 Aug 2024 10:56:05 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/winkawaks165/</guid>
+        <description>&lt;p&gt;WinKawaks 是一款带有 NeoGeo、CP System 和 CP System II 板的街机模拟器。 这意味着可以享受 90 年代中后期街机游戏中一些最受欢迎的视频游戏，包括《街头霸王》、《拳皇》、《恐龙快打》和《三国志》等史诗系列游戏。WinKawaks 模拟器的特点在于其优秀的画面表现和流畅的运行速度。通过模拟器，可以体验到与原版游戏相差无几的画质，同时保证游戏的流畅运行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/4VfYYDB.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20240814105623522&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/59e76c856a43&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/59e76c856a43&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

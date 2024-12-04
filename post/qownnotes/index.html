@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+	<head><meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="QOwnNotes 是开源的记事本，具有 Markdown 支持 和针对 GNU / Linux，Mac OS X 和 Windows 的待办事项列表管理器，可与 Nextcloud Notes 和 ownCloud Notes 一起使用。\n您可以使用 QOwnNotes 写下您的想法，并 稍后在移动设备上进行编辑或搜索，例如使用 Android 的 Nextcloud Notes 或 Nextcloud / ownCloud 网络服务。\n"> <title>QOwnNotes(开源Markdown笔记本) v24.8.6 绿色版</title>
+
+<link rel="canonical" href="https://www.danlong360.com/post/qownnotes/" />  <link rel="stylesheet" href="/scss/style.min.22d29e275a5ae60d82d8e2994d797689c0d9c913f73af961ab29f88fb95f5419.css" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
+     crossorigin="anonymous">
+</script><meta property='og:title' content="QOwnNotes(开源Markdown笔记本) v24.8.6 绿色版">
+<meta property='og:description' content="QOwnNotes 是开源的记事本，具有 Markdown 支持 和针对 GNU / Linux，Mac OS X 和 Windows 的待办事项列表管理器，可与 Nextcloud Notes 和 ownCloud Notes 一起使用。\n您可以使用 QOwnNotes 写下您的想法，并 稍后在移动设备上进行编辑或搜索，例如使用 Android 的 Nextcloud Notes 或 Nextcloud / ownCloud 网络服务。\n">
+<meta property='og:url' content='https://www.danlong360.com/post/qownnotes/'>
+<meta property='og:site_name' content='KUL藏宝库'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-08-29T08:49:11&#43;08:00'/><meta property='article:modified_time' content='2024-08-29T08:49:11&#43;08:00'/>
+<meta name="twitter:title" content="QOwnNotes(开源Markdown笔记本) v24.8.6 绿色版">
+<meta name="twitter:description" content="QOwnNotes 是开源的记事本，具有 Markdown 支持 和针对 GNU / Linux，Mac OS X 和 Windows 的待办事项列表管理器，可与 Nextcloud Notes 和 ownCloud Notes 一起使用。\n您可以使用 QOwnNotes 写下您的想法，并 稍后在移动设备上进行编辑或搜索，例如使用 Android 的 Nextcloud Notes 或 Nextcloud / ownCloud 网络服务。\n">
+<link rel="shortcut icon" href="/favicon.ico" />
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-K19J3P52BR"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-K19J3P52BR');
+        }
+      </script>
+
+	</head>
+	<body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu12742395681378621043.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">KUL藏宝库</a></h1>
+            <h2 class="site-description">纯净软件爱好者</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>存档</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#软件特点">软件特点</a></li>
+        <li><a href="#更新日志">更新日志</a></li>
+        <li><a href="#2486">24.8.6</a></li>
+        <li><a href="#软件下载">软件下载</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+			<main class="main full-width">
+    <article class="main-article">
+	<header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/" >
+                电脑软件
+            </a>
+        
+            <a href="/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/" >
+                办公软件
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/qownnotes/">QOwnNotes(开源Markdown笔记本) v24.8.6 绿色版</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024-08-29</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header> <section class="article-content">
+    
+    
+    <p>QOwnNotes 是开源的记事本，具有 Markdown 支持 和针对 GNU / Linux，Mac OS X 和 Windows 的待办事项列表管理器，可与 Nextcloud Notes 和 ownCloud Notes 一起使用。</p>
+<p>您可以使用 QOwnNotes 写下您的想法，并 稍后在移动设备上进行编辑或搜索，例如使用 Android 的 Nextcloud Notes 或 Nextcloud / ownCloud 网络服务。</p>
+<p>注释存储为纯文本标记文件，并 与 Nextcloud / ownCloud 的文件同步功能同步。当然，也可以使用其他软件，例如 Syncthing 或 Dropbox。</p>
+<p>如果您喜欢在纯文本文件中访问便笺的概念，例如在 Nextcloud / ownCloud notes 应用程序中这样做，以获得最大的自由度， 那么 QOwnNotes 非常适合您。</p>
+<p><img src="https://s2.loli.net/2024/08/29/iDvm3TbMNEcwAka.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="img"
+	
+	
+></p>
+<h3 id="软件特点">软件特点
+</h3><p>可以使用多个便笺文件夹
+您可以使用现有的文本或 Markdown 文件，大多数情况下无需导入
+您可以从 Nextcloud / ownCloud 服务器还原旧版本的笔记（在服务器上安装 QOwnNotesAPI）
+可以从您的 Nextcloud / ownCloud 服务器上还原已删除的笔记（在服务器上安装 QOwnNotesAPI）
+还有一个当地的垃圾
+注释的子字符串搜索是可能的，并且搜索结果在注释中突出显示
+可以使用可自定义的键盘快捷方式来操作该应用程序
+观察注释文件的外部更改（重新加载注释或注释列表）
+对话框中显示当前便笺和外部更改的便笺之间的差异
+标记的降价突出显示和降价预览
+拼写检查支持
+标签支持编辑笔记
+脚本支持和在线脚本存储库 ，您可以在其中将脚本安装在应用程序中
+QOwnNotes Web Companion 浏览器扩展程序 可从所选文本和其他功能添加注释
+访问 Chrome 网上应用店 页面以在 Google Chrome 上安装该应用
+访问 Firefox 加载项页面 页面以在 Mozilla Firefox 上安装应用程序
+注释从注释文本的第一行获取名称（就像在 Nextcloud / ownCloud notes Web 应用程序中一样），并且如果第一行更改，注释文本文件将自动重命名
+此功能也可以关闭，您可以使用任何喜欢的文件名
+管理您的 Nextcloud / ownCloud 待办事项列表（ownCloud 任务或 Tasks Plus / Calendar Plus）
+笔记的加密（内置 AES-256，或者您可以使用自定义加密方法，例如 Keybase.io（encryption-keybase.qml）或 PGP（encryption-pgp.qml））
+暗模式主题支持
+所有面板都可以放置在您想要的任何地方，甚至可以浮动或堆叠（完全可停靠）
+工具栏是完全可定制的
+支持 freedesktop 主题图标，因此您可以将 QOwnNotes 与本机桌面图标以及您喜欢的深色桌面主题一起使用 QOwnNotes 支持 Freedesktop 图标主题
+支持分层注释标签和注释子文件夹
+支持在 Nextcloud / ownCloud 服务器上共享笔记
+可携式模式，可在 USB 随身碟上随身携带 QOwnNotes
+Vim 模式
+无干扰模式，全屏模式，打字机模式
+Evernote 导入
+QOwnNotes 支持 60 多种语言，例如英语，德语，法语，波兰语，中文，日语，俄语，葡萄牙语，匈牙利语，荷兰语和西班牙语</p>
+<h3 id="更新日志">更新日志
+</h3><h3 id="2486">24.8.6
+</h3><ul>
+<li>
+<p>Added a <strong>new editor color schema</strong> <em>Everforest Hard Dark</em></p>
+</li>
+<li>
+<p>Added a <strong>new editor color schema</strong> <em>Everforest Hard Light</em></p>
+</li>
+<li>
+<p>Added more Russian, Arabic, Korean translation (thank you, olesya_gerasimenko, noureddin, venusgirl)</p>
+</li>
+<li>
+<p>There was a new release of the</p>
+<p>QOwnNotes Web Companion browser extension</p>
+<p>2024.8.0</p>
+<ul>
+<li>Bookmarks can now be edited in the bookmarks list
+<ul>
+<li>This feature needs QOwnNotes 24.8.5 or higher</li>
+</ul>
+</li>
+<li>Update dependencies</li>
+<li>Add more translations</li>
+</ul>
+</li>
+</ul>
+<h3 id="软件下载">软件下载
+</h3><p><a class="link" href="https://pan.quark.cn/s/2563a3ea8d01"  target="_blank" rel="noopener"
+    >https://pan.quark.cn/s/2563a3ea8d01</a></p>
+
+</section>
+ <footer class="article-footer">
+    
+
+    </footer>
+ 
+</article>
+
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/55529/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">WPS Office 2023专业增强版 v12.8.2.18913 永久激活版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/70269/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">QOwnNotes(跨平台笔记应用程序) v24.12.0 中文绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/81147/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Adobe Acrobat Pro DC v2024.005.20307 破解版 32位 &amp; 64位</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/88682/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">坤_Tools(免费的文档转换工具) v0.4.5 中文绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/47924/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">draw.io(免费流程图制作工具) v25.0.2 中文绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+	<section class="copyright">
+		&copy;  2024 KUL藏宝库
+	</section>
+	
+	<section class="running-time">
+		本博客已稳定运行
+		<span id="runningdays" class="running-days"></span>
+	</section>
+	<section class="powerby">
+		 <br />
+		
+	</section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+</main>
+		</div>
+		<script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+<script>
+	let s1 = "2023-3-18"; 
+	s1 = new Date(s1.replace(/-/g, "/"));
+	let s2 = new Date();
+	let timeDifference = s2.getTime() - s1.getTime();
+
+	let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+	let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+	let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+	let result = days + "天" + hours + "小时" + minutes + "分钟";
+	document.getElementById("runningdays").innerHTML = result;
+</script>
+
+	</body>
+</html>

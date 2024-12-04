@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+	<head><meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="本套课程极客事纪：linux运维云计算SER架构师，课程高清无水印，目前仅有视频，暂无课件资料，详见下方目录\n课程目录 01_第一阶★第1章-linux学习环境搭建\n"> <title>极客事纪：Linux运维云计算SER架构师视频课程</title>
+
+<link rel="canonical" href="https://www.danlong360.com/post/96673/" />  <link rel="stylesheet" href="/scss/style.min.22d29e275a5ae60d82d8e2994d797689c0d9c913f73af961ab29f88fb95f5419.css" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
+     crossorigin="anonymous">
+</script><meta property='og:title' content="极客事纪：Linux运维云计算SER架构师视频课程">
+<meta property='og:description' content="本套课程极客事纪：linux运维云计算SER架构师，课程高清无水印，目前仅有视频，暂无课件资料，详见下方目录\n课程目录 01_第一阶★第1章-linux学习环境搭建\n">
+<meta property='og:url' content='https://www.danlong360.com/post/96673/'>
+<meta property='og:site_name' content='KUL藏宝库'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-11-12T23:23:30&#43;08:00'/><meta property='article:modified_time' content='2024-11-12T23:23:30&#43;08:00'/>
+<meta name="twitter:title" content="极客事纪：Linux运维云计算SER架构师视频课程">
+<meta name="twitter:description" content="本套课程极客事纪：linux运维云计算SER架构师，课程高清无水印，目前仅有视频，暂无课件资料，详见下方目录\n课程目录 01_第一阶★第1章-linux学习环境搭建\n">
+<link rel="shortcut icon" href="/favicon.ico" />
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-K19J3P52BR"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-K19J3P52BR');
+        }
+      </script>
+
+	</head>
+	<body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu12742395681378621043.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">KUL藏宝库</a></h1>
+            <h2 class="site-description">纯净软件爱好者</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>存档</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#课程目录">课程目录</a></li>
+        <li><a href="#课程下载">课程下载</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+			<main class="main full-width">
+    <article class="main-article">
+	<header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E8%AF%BE%E7%A8%8B/" >
+                课程
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/96673/">极客事纪：Linux运维云计算SER架构师视频课程</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024-11-12</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header> <section class="article-content">
+    
+    
+    <p>本套课程极客事纪：linux运维云计算SER架构师，课程高清无水印，目前仅有视频，暂无课件资料，详见下方目录</p>
+<p><img src="https://s2.loli.net/2024/11/12/ucdFHo3sLI1P8Aw.jpg"
+	
+	
+	
+	loading="lazy"
+	
+		alt="极客事纪：linux运维云计算SER架构师"
+	
+	
+></p>
+<h3 id="课程目录">课程目录
+</h3><blockquote>
+<p><strong>01_第一阶★第1章-linux学习环境搭建</strong></p>
+<p>1-1_开班典礼.mp4</p>
+<p>1-2_第1章-linux课程介绍-学习环境搭建.mp4</p>
+<p><strong>02_第一阶★第2章-linux基本命令操作</strong></p>
+<p>1-1_第2章-linux基本命令操作和文件管理.mp4</p>
+<p><strong>03_第一阶★第3章-文件的基本管理和vim编辑器</strong></p>
+<p>1-1_第3章-文件的基本管理和vim编辑器.mp4</p>
+<p><strong>04_第一阶★第4章-linux文件归档-压缩-系统进程管理</strong></p>
+<p>1-1_第4章-linux文件归档-压缩-系统进程管理.mp4</p>
+<p><strong>05_第一阶★第5章-linux基本操作和yum配置</strong></p>
+<p>1-1_第5章-linux基本操作和yum配置.mp4</p>
+<p><strong>06_第一阶★第6章-rockylinux用户管理</strong></p>
+<p>1-1_第6章-linux系统用户及组管理.mp4</p>
+<p><strong>07_第一阶★第7章-rockylinux-文件权限管理</strong></p>
+<p>1-1_第7章-文件系统基本权限和高级权限管理.mp4</p>
+<p><strong>08_第一阶★第8章-rockylinux软件包的管理与安装</strong></p>
+<p>1-1_第8章-rockylinux软件包的管理与安装.mp4</p>
+<p><strong>09_第一阶★第9章-硬盘介绍和磁盘管理</strong></p>
+<p>1-1_第9章-硬盘介绍和磁盘管理.mp4</p>
+<p><strong>10_第一阶★心灵沟通课</strong></p>
+<p>1-1_cd-vip学员利用在线教育高效学习的秘决.mp4</p>
+<p><strong>11_第一阶段★第10章-lvm管理和ssm存储管理器使用</strong></p>
+<p>1-1_第10章-lvm管理和ssm存储管理器使用.mp4</p>
+<p><strong>12_第一阶段★第11章-linux计划任务与日志的管理</strong></p>
+<p>1-1_第11章-linux计划任务与日志管理.mp4</p>
+<p><strong>13_第一阶段★第12章-重定向和文件的查找</strong></p>
+<p>1-1_第12章-重定向和文件的查找.mp4</p>
+<p><strong>14_第一阶段★第13章-shell脚本的基础</strong></p>
+<p>1-1_第13章-shell脚本基础.mp4</p>
+<p><strong>15_第一阶段★第14章-条件测试语句和if流程控制语句的使用</strong></p>
+<p>1-1_第14章-条件判断和流程控制语句if.mp4</p>
+<p><strong>16_第一阶★第15章-结构化命令case和for、while循环</strong></p>
+<p>1-1_第15章-结构化命令case-for-while.mp4</p>
+<p><strong>17_第一阶★第16章-知识竞赛</strong></p>
+<p>1-1_批改作业-知识竞赛.mp4</p>
+<p><strong>18_第一阶★第17章-一阶段总结-作业</strong></p>
+<p>1-1_阶段总结-作业.mp4</p>
+<p><strong>19_第二阶第一章-sshd服务搭建与管理-sshd服务防止暴力破</strong></p>
+<p>1-1_第1章-sshd服务搭建与管理-实战-sshd服务防止暴力破解.mp4</p>
+<p><strong>20_第2章-使用rsync+sersync实现服务器数据备份</strong></p>
+<p>1-1_第2章-使用rsync+sersync实现服务器数据备份.mp4</p>
+<p><strong>21_第3章-使用apache搭建web网站服务器</strong></p>
+<p>1-1_第3章-使用apache搭建web网站服务器.mp4</p>
+<p><strong>22_第4章-mysql初识和搭建lamp环境部署wordpres</strong></p>
+<p>1-1_第4章-mysql初识和搭建lamp环境部署wordpress博客网站.mp4</p>
+<p><strong>23_第5章-mysql8基础语句</strong></p>
+<p>1-1_第5章-mysql8基础语句.mp4</p>
+<p><strong>24_第6章-mysql数据类型-sql语句进阶</strong></p>
+<p>1-1_第6章-mysql数据类型-sql语句进阶.mp4</p>
+<p><strong>25_第7章-使用mysql主从复制技术实现数据库热备</strong></p>
+<p>1-1_第7章-使用mysql主从复制技术实现数据库热备.mp4</p>
+<p><strong>26_第8章-mysql8mgr集群搭建</strong></p>
+<p>1-1_第8章-mysql8mgr集群搭建.mp4</p>
+<p><strong>27_第9章-mysql数据库调优秘籍</strong></p>
+<p>1-1_第9章-mysql数据库调优秘籍.mp4</p>
+<p>1-2_常见问题排错.mp4</p>
+<p><strong>28_第10章-基于rocky88源码编译搭建lnmp架构</strong></p>
+<p>1-1_第10章-基于rocky88源码编译搭建lnmp架构.mp4</p>
+<p><strong>29_第11章-tomcat环境搭和管理及实现jsp</strong></p>
+<p>1-1_第11章-tomcat环境搭和管理及实现jsp通过tomcat连接mysql.mp4</p>
+<p><strong>30_第12章-使用zabbix6服务器监控数百台服务器</strong></p>
+<p>1-1_第12章-使用zabbix6服务器监控数百台服务器.mp4</p>
+<p><strong>31_第13章-使用zabbix监控apache及mysql实现邮</strong></p>
+<p>1-1_第13章-使用zabbix监控apache及mysql实现邮件报警.mp4</p>
+<p><strong>32_第14章-使用自动化运维工具ansible集中化管理服务器</strong></p>
+<p>1-1_第14章-使用自动化运维工具ansible集中化管理服务器.mp4</p>
+<p><strong>33_第15章-搭建prometheus+grafana的云平台监</strong></p>
+<p>1-1_第15章-搭建prometheus+grafana的云平台监控系统.mp4</p>
+<p><strong>34_alter告警-阶段总结作业</strong></p>
+<p>1-1_alter告警-阶段总结作业.mp4</p>
+<p><strong>35_第三阶段-lvs-dr集群</strong></p>
+<p>1-1_第三阶段lvs-dr集群.mp4</p>
+<p><strong>36_第2章-keepalived高可用+lvs-dr集群</strong></p>
+<p>1-1_第2章-keepalived高可用+lvs-dr集群.mp4</p>
+<p><strong>37_第3章-使用nginx-haproxy实现七层负载均衡</strong></p>
+<p>1-1_第3章-使用nginx-haproxy实现七层负载均衡.mp4</p>
+<p>1-2_第二阶段作业讲解-优秀作业分享.mp4</p>
+<p><strong>38_第4章-ceph分布式存储架构搭建</strong></p>
+<p>1-1_第4章-ceph分布式存储架构搭建.mp4</p>
+<p><strong>39_第5章-linux系统调优相关工具</strong></p>
+<p>1-1_第5章-linux系统调优相关工具.mp4</p>
+<p><strong>40_第6章-cpu-io-网络-内核参数的调优</strong></p>
+<p>1-1_第6章-cpu-io-网络-内核参数的调优.mp4</p>
+<p><strong>41_第7章-实战nginx调优上</strong></p>
+<p>1-1_第7章-实战nginx调优上.mp4</p>
+<p><strong>42_第8章-实战nginx调优下</strong></p>
+<p>1-1_第8章-实战nginx调优下.mp4</p>
+<p><strong>43_第9章-linux手动木马查杀过程</strong></p>
+<p>1-1_第9章-linux手动木马查杀过程.mp4</p>
+<p><strong>44_第10章-webshell-防止ddos-暴力破解-自动劫持</strong></p>
+<p>1-1_第10章-webshell-防止ddos-暴力破解-自动劫持密码.mp4</p>
+<p><strong>45_第11章-搭建jumperserver管理数万台游戏服务器</strong></p>
+<p>1-1_第11章-搭建jumperserver管理数万台游戏服务器.mp4</p>
+<p><strong>46_三阶段总结+作业+https</strong></p>
+<p>1-1_三阶段总结+作业+https.mp4</p>
+<p><strong>47_4-1-linux桌面虚拟化技术kvm</strong></p>
+<p>1-1_4-1-linux桌面虚拟化技术kvm.mp4</p>
+<p><strong>48_4-2-kvm虚拟机快照和自动安装</strong></p>
+<p>1-1_4-2-kvm虚拟机快照和自动安装.mp4</p>
+<p><strong>49_4-3-部署openstack-多节点云平台</strong></p>
+<p>1-1_4-3-部署openstack-多节点云平台.mp4</p>
+<p><strong>50_4-4-openstack及阿里云使用方法</strong></p>
+<p>1-1_4-4-openstack及阿里云使用方法.mp4</p>
+<p><strong>51_4-5-docker容器虚拟化平台的安装和配置-docker</strong></p>
+<p>1-1_4-5-docker容器虚拟化平台的安装和配置-dockerfile构建企业级镜像.mp4</p>
+<p><strong>52_4-6-docker实战-dockerfile构建企业级镜像</strong></p>
+<p>1-1_4-6-docker实战-dockerfile构建企业级镜像和资源配额.mp4</p>
+<p><strong>53_4-7-docker实战-创建私有镜像仓库和加密认证</strong></p>
+<p>1-1_4-7-docker实战-创建私有镜像仓库和加密认证.mp4</p>
+<p><strong>54_4-8-docker静态ip和数据持久化-container</strong></p>
+<p>1-1_4-8-docker静态ip和数据持久化-containerd和podman容器的安装和使.mp4</p>
+<p>1-2_综合项目讲解.mp4</p>
+<p><strong>55_4-9-kubernetes深度解读-架构-组件-资源对象</strong></p>
+<p>1-1_4-9-kubernetes深度解读-架构-组件-资源对象.mp4</p>
+<p><strong>56_4-10-使用kubeadm搭建生产环境的单master节点</strong></p>
+<p>1-1_4-10-使用kubeadm搭建生产环境的单master节点k8s集群.mp4</p>
+</blockquote>
+<h3 id="课程下载">课程下载
+</h3><p><a class="link" href="https://pan.quark.cn/s/6b624cf96c34"  target="_blank" rel="noopener"
+    >https://pan.quark.cn/s/6b624cf96c34</a></p>
+
+</section>
+ <footer class="article-footer">
+    
+
+    </footer>
+ 
+</article>
+
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/25603/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">埃里克：打造完美身材，健身房增肌减脂全方案</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/53555/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">埃里克：打造完美身材方案</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/70487/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Insanity 60 Day Total Body Workout 疯狂60天健身</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/69481/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">周六野28天减肥训练营</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/12645/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">18天体态矫正·黄金腰臀比雕刻</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+	<section class="copyright">
+		&copy;  2024 KUL藏宝库
+	</section>
+	
+	<section class="running-time">
+		本博客已稳定运行
+		<span id="runningdays" class="running-days"></span>
+	</section>
+	<section class="powerby">
+		 <br />
+		
+	</section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+</main>
+		</div>
+		<script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+<script>
+	let s1 = "2023-3-18"; 
+	s1 = new Date(s1.replace(/-/g, "/"));
+	let s2 = new Date();
+	let timeDifference = s2.getTime() - s1.getTime();
+
+	let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+	let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+	let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+	let result = days + "天" + hours + "小时" + minutes + "分钟";
+	document.getElementById("runningdays").innerHTML = result;
+</script>
+
+	</body>
+</html>

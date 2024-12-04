@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+	<head><meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="一款**支持全平台音乐无损下载与试听的软件，且支持 Windows+Mac——****落雪音乐助手；** 落雪音乐助手是一个基于 Electron + Vue 开发的音乐软件，包含 Windows 和 macOS 两大平台， 开发者是来自吾爱破解论坛的洛雪无痕；全网付费歌曲版权音乐下载软件。聚合大量音乐平台搜索接口，免费在线试听下载全网付费歌曲版权音乐。\n"> <title>洛雪音乐助手 v2.9.0 支持win&#43;Mac 全平台音乐</title>
+
+<link rel="canonical" href="https://www.danlong360.com/post/luoxueyinyuezhushou290/" />  <link rel="stylesheet" href="/scss/style.min.22d29e275a5ae60d82d8e2994d797689c0d9c913f73af961ab29f88fb95f5419.css" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
+     crossorigin="anonymous">
+</script><meta property='og:title' content="洛雪音乐助手 v2.9.0 支持win+Mac 全平台音乐">
+<meta property='og:description' content="一款**支持全平台音乐无损下载与试听的软件，且支持 Windows+Mac——****落雪音乐助手；** 落雪音乐助手是一个基于 Electron + Vue 开发的音乐软件，包含 Windows 和 macOS 两大平台， 开发者是来自吾爱破解论坛的洛雪无痕；全网付费歌曲版权音乐下载软件。聚合大量音乐平台搜索接口，免费在线试听下载全网付费歌曲版权音乐。\n">
+<meta property='og:url' content='https://www.danlong360.com/post/luoxueyinyuezhushou290/'>
+<meta property='og:site_name' content='KUL藏宝库'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-08-26T17:42:28&#43;08:00'/><meta property='article:modified_time' content='2024-08-26T17:42:28&#43;08:00'/>
+<meta name="twitter:title" content="洛雪音乐助手 v2.9.0 支持win+Mac 全平台音乐">
+<meta name="twitter:description" content="一款**支持全平台音乐无损下载与试听的软件，且支持 Windows+Mac——****落雪音乐助手；** 落雪音乐助手是一个基于 Electron + Vue 开发的音乐软件，包含 Windows 和 macOS 两大平台， 开发者是来自吾爱破解论坛的洛雪无痕；全网付费歌曲版权音乐下载软件。聚合大量音乐平台搜索接口，免费在线试听下载全网付费歌曲版权音乐。\n">
+<link rel="shortcut icon" href="/favicon.ico" />
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-K19J3P52BR"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-K19J3P52BR');
+        }
+      </script>
+
+	</head>
+	<body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu12742395681378621043.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">KUL藏宝库</a></h1>
+            <h2 class="site-description">纯净软件爱好者</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>存档</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li>
+          <ol>
+            <li><a href="#v290">v2.9.0</a></li>
+          </ol>
+        </li>
+        <li><a href="#新增">新增</a></li>
+        <li><a href="#优化">优化</a></li>
+        <li><a href="#修复">修复</a></li>
+        <li><a href="#变更">变更</a></li>
+        <li><a href="#其他">其他</a></li>
+        <li><a href="#自定义源的不兼容变更与新增内容源开发者需要看">自定义源的不兼容变更与新增内容（源开发者需要看）</a></li>
+        <li><a href="#下载地址">下载地址</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+			<main class="main full-width">
+    <article class="main-article">
+	<header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/" >
+                电脑软件
+            </a>
+        
+            <a href="/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/" >
+                媒体播放
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/luoxueyinyuezhushou290/">洛雪音乐助手 v2.9.0 支持win&#43;Mac 全平台音乐</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024-08-26</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header> <section class="article-content">
+    
+    
+    <p>一款**支持全平台音乐无损下载与试听的软件，且支持 Windows+Mac——****落雪音乐助手；**
+落雪音乐助手是一个基于 Electron + Vue 开发的音乐软件，包含 Windows 和 macOS 两大平台， 开发者是来自吾爱破解论坛的洛雪无痕；全网付费歌曲版权音乐下载软件。聚合大量音乐平台搜索接口，免费在线试听下载全网付费歌曲版权音乐。</p>
+<p><img src="https://s2.loli.net/2024/08/26/jpBtO2SEP9NXsI3.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20240826174315048"
+	
+	
+></p>
+<p>搜索是洛雪音乐助手的第一大功能，洛雪音乐助手整合了市场上主流音乐软件的搜索接口，也就是说在这里可以搜索到各大音乐库里的音乐。对于音乐迷来说，最令人开心的莫过于能下载无损音质音乐，所有下载的歌曲都保存在下载管理。</p>
+<p><img src="https://s2.loli.net/2024/08/26/zc9oAgULpdhYxkJ.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20240826174346610"
+	
+	
+></p>
+<p>并且落雪音乐助手还罗列出了各大音乐软件对应的各种榜单，比如热歌榜、飙升榜，方便用户根据自身喜好选择不同歌曲，告别选择恐惧；</p>
+<p><img src="https://s2.loli.net/2024/08/26/EbQiewGgRMJK8lk.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20240826174417127"
+	
+	
+></p>
+<h4 id="v290">v2.9.0
+</h4><h3 id="新增">新增
+</h3><ul>
+<li>新增 设置-播放设置-是否将歌词显示在状态栏 设置，默认关闭，该功能只在 MacOS 下可用（#1940）</li>
+<li>新增设置-播放详情页设置-延迟歌词滚动设置（#1985）</li>
+<li>新增鼠标在音量按钮使用滚轮时可以调整音量大小的功能（#2000）</li>
+<li>新增设置-下载设置-同时下载任务数设置（#1498）</li>
+<li>新增 我的列表-歌曲右击菜单-歌曲换源 功能，换源后下次再播放该列表的该歌曲时将优先尝试播放所选源的歌曲，该功能允许你手动指定来源以解决自动换源失败或者换源不准确的问题</li>
+</ul>
+<h3 id="优化">优化
+</h3><ul>
+<li>优化侧栏图标显示，修复图标可能被裁切的问题（#1960）</li>
+<li>托盘图标添加当前播放歌曲名字显示</li>
+<li>优化本地歌曲内嵌封面过大时的加载方式</li>
+<li>将下载歌曲的歌手信息中的分隔符从 <code>、</code> 替换为 <code>;</code> 以确保音乐元数据在写入时的兼容性和一致性（#1989 @qnnp-me）</li>
+</ul>
+<h3 id="修复">修复
+</h3><ul>
+<li>修复 MacOS 下点击 dock 右键菜单的退出按钮时，程序没有退出的问题（#1923）</li>
+<li>修复 OpenAPI 的 <code>lyricLineAllText</code> 在切换到无歌词的音乐时内容没有更新的问题（#1925）</li>
+<li>修复切换音源时可能出现切换死循环的问题</li>
+<li>尝试修复某些情况下播放音频时，处于播放状态但是进度条不走的问题</li>
+<li>修复程序目录路径存在 <code>#</code> 或 <code>%</code> 时，自定义源、托盘等图标异常的问题（#1997）</li>
+</ul>
+<h3 id="变更">变更
+</h3><ul>
+<li>简化了应用退出行为，据测试，现在 linux 下，若启用了托盘，dock 右键菜单的 退出、关闭所有 之类的功能将不再退出程序，需改用托盘的退出按钮退出程序</li>
+<li>现在如果在设置或者启动参数配置了代理服务，那么应用内的图片、音频加载，歌曲下载也将走代理</li>
+</ul>
+<h3 id="其他">其他
+</h3><ul>
+<li>更新 electron 到 v30.4.0</li>
+</ul>
+<h3 id="自定义源的不兼容变更与新增内容源开发者需要看">自定义源的不兼容变更与新增内容（源开发者需要看）
+</h3><p>自定义源的调用方式已改变：</p>
+<ul>
+<li>为了与移动端的调用方式统一，不再推荐使用 <code>window.lx</code> 对象（移动端无<code>window</code>对象），改用 <code>globalThis.lx</code></li>
+<li><code>inited</code> 事件不再需要传递 <code>status</code> 属性，脚本运行过程中，在成功调用 <code>inited</code> 事件之前的任何首次未捕获的错误都将视为初始化失败，所以现在若想人为让脚本初始化失败，直接抛出一个错误即可</li>
+<li>新增 <code>globalThis.lx.env</code> 属性，桌面端环境固定为 <code>desktop</code>，移动端环境固定为 <code>mobile</code></li>
+<li>新增 <code>globalThis.lx.currentScriptInfo</code> 对象，可以从这里获取解析后的脚本头部注释信息及脚本原始内容，具体可用属性看文档说明</li>
+<li><code>globalThis.lx.version</code> 属性更新到 <code>2.0.0</code></li>
+<li>自定义源不再使用<code>script</code>标签的形式执行，若要获取脚本原始代码字符串需从 <code>globalThis.lx.currentScriptInfo.rawScript</code> 属性获取</li>
+<li>自定义源新增支持<code>local</code>源的<code>musicUrl</code>、<code>pic</code>、<code>lyric</code>的获取操作详情看自定义源文档说明</li>
+</ul>
+<p>GitHub：https://github.com/lyswhut/lx-music-desktop/releases</p>
+<h3 id="下载地址">下载地址
+</h3><p><a class="link" href="https://pan.quark.cn/s/5ffba2e3048c"  target="_blank" rel="noopener"
+    >https://pan.quark.cn/s/5ffba2e3048c</a></p>
+<p><a class="link" href="https://pan.xunlei.com/s/VO9DDDliTbSWeiAL9Ar9i_qXA1?pwd=kmn6"  target="_blank" rel="noopener"
+    >https://pan.xunlei.com/s/VO9DDDliTbSWeiAL9Ar9i_qXA1?pwd=kmn6</a></p>
+
+</section>
+ <footer class="article-footer">
+    
+
+    </footer>
+ 
+</article>
+
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/8594/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">爱奇艺视频官方原版丨最新版下载丨版本号 12.11.5.8821</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/65281/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">PotPlayer 241127(1.7.22375) Beta 去广告增强绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/17166/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">MPC-HC视频播放器(便捷视频播放器) v2.3.8 中文绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/91443/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">MPC-BE视频播放器(强大视频播放器) v1.8.1.45 中文绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/93109/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Dashcam Viewer(行车记录仪查看工具) v4.0.5 多语便携版</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+	<section class="copyright">
+		&copy;  2024 KUL藏宝库
+	</section>
+	
+	<section class="running-time">
+		本博客已稳定运行
+		<span id="runningdays" class="running-days"></span>
+	</section>
+	<section class="powerby">
+		 <br />
+		
+	</section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+</main>
+		</div>
+		<script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+<script>
+	let s1 = "2023-3-18"; 
+	s1 = new Date(s1.replace(/-/g, "/"));
+	let s2 = new Date();
+	let timeDifference = s2.getTime() - s1.getTime();
+
+	let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+	let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+	let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+	let result = days + "天" + hours + "小时" + minutes + "分钟";
+	document.getElementById("runningdays").innerHTML = result;
+</script>
+
+	</body>
+</html>

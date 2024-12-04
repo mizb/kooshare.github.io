@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+	<head><meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="Notepad– 是一个支持 windows/linux/mac 的文本编辑器，目标是要替换 notepad++ ，来自中国。对比 Notepad++ 而言，Notepad– 的优势是可以跨平台，支持 linux mac 操作系统。鉴于 Notepad++ 作者的错误言论，Notepad– 的意义在于：减少一点错误言论，减少一点自以为是。\n"> <title>NotePad-- 2.18.0 (代码编辑) 官方版&#43;绿色版</title>
+
+<link rel="canonical" href="https://www.danlong360.com/post/notepad2180/" />  <link rel="stylesheet" href="/scss/style.min.22d29e275a5ae60d82d8e2994d797689c0d9c913f73af961ab29f88fb95f5419.css" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
+     crossorigin="anonymous">
+</script><meta property='og:title' content="NotePad-- 2.18.0 (代码编辑) 官方版+绿色版">
+<meta property='og:description' content="Notepad– 是一个支持 windows/linux/mac 的文本编辑器，目标是要替换 notepad++ ，来自中国。对比 Notepad++ 而言，Notepad– 的优势是可以跨平台，支持 linux mac 操作系统。鉴于 Notepad++ 作者的错误言论，Notepad– 的意义在于：减少一点错误言论，减少一点自以为是。\n">
+<meta property='og:url' content='https://www.danlong360.com/post/notepad2180/'>
+<meta property='og:site_name' content='KUL藏宝库'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-08-15T10:17:34&#43;08:00'/><meta property='article:modified_time' content='2024-08-15T10:17:34&#43;08:00'/>
+<meta name="twitter:title" content="NotePad-- 2.18.0 (代码编辑) 官方版+绿色版">
+<meta name="twitter:description" content="Notepad– 是一个支持 windows/linux/mac 的文本编辑器，目标是要替换 notepad++ ，来自中国。对比 Notepad++ 而言，Notepad– 的优势是可以跨平台，支持 linux mac 操作系统。鉴于 Notepad++ 作者的错误言论，Notepad– 的意义在于：减少一点错误言论，减少一点自以为是。\n">
+<link rel="shortcut icon" href="/favicon.ico" />
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-K19J3P52BR"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-K19J3P52BR');
+        }
+      </script>
+
+	</head>
+	<body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu12742395681378621043.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">KUL藏宝库</a></h1>
+            <h2 class="site-description">纯净软件爱好者</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>存档</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#作者的话">作者的话</a></li>
+    <li><a href="#问题说明">问题说明</a></li>
+    <li><a href="#版本区别">版本区别</a></li>
+    <li><a href="#官方更新">官方更新</a></li>
+    <li><a href="#下载地址">下载地址</a></li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+			<main class="main full-width">
+    <article class="main-article">
+	<header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/" >
+                电脑软件
+            </a>
+        
+            <a href="/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/" >
+                办公软件
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/notepad2180/">NotePad-- 2.18.0 (代码编辑) 官方版&#43;绿色版</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024-08-15</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header> <section class="article-content">
+    
+    
+    <p>Notepad– 是一个支持 windows/linux/mac 的文本编辑器，目标是要替换 notepad++ ，来自中国。对比 Notepad++ 而言，Notepad– 的优势是可以跨平台，支持 linux mac 操作系统。鉴于 Notepad++ 作者的错误言论，Notepad– 的意义在于：减少一点错误言论，减少一点自以为是。</p>
+<p><img src="/NTQlkUo.png"
+	
+	
+	
+	loading="lazy"
+	
+		alt="image-20240815101752705"
+	
+	
+></p>
+<h2 id="作者的话">作者的话
+</h2><p>相信越来越多的人已经认识到 notepad++作者的可恶了，我曾经也是 notepad++的使用者，当我看到它的作者一个台湾人，明目张胆的利用软件开始宣传他的错误观点后，便觉得要做些什么了。</p>
+<p>notepad++不过是一个小软件，但是我几乎每天都在用它。既然这样，我为何不来自己做一款呢？顺便做一个跨平台版本的。既然他叫 notepad++，那我就 notepad–吧，减少一些错误言论，减少一些自以为是，简称 ndd。我相信国内有大把的同行，都可以做出这种类似的小软件。不过恰好大公司瞧不上，小公司没技术，那就我来做吧。</p>
+<p>notepad++是挺好用的，但是它不支持 linux 和 mac 平台，而且基于政治方面的原因，notepad++的作者如果再这么继续作死下去，notepad++在国内下架是迟早的事情。目前已经在网络上有大量的言论，都在反对使用 notepad++。但是 notepad++的作者依然是我行我素，他以为我大陆没人可以治得了它，大家虽然嘴上讨厌，但是没有可以替换它的同类软件吧。</p>
+<p>在我编写对比软件 ccompare 的过程中，我发现其核心功能，已经具备一个文本编辑器的雏形了。只需要再多花一部分额外的精力，便可以成为一个功能基本可以替换 notepad++的简单文本编辑器。</p>
+<p>于是说干就干吧。一番研究后发现，notepad 其实只是一个外包装，其内部是大名鼎鼎的开源编辑器核心控件 scintilla，所以 notepad++作者的水平，其实也远远没有达到他自以为是的高度。只要解放了国内的 996 环境，给程序员更好的个人时间，可以想象，国内一定可以冒出一大批优秀的自由软件出来。</p>
+<p>我相信国内至少有百分之十的程序员，是具备编写操作系统、编译器、编辑器水平的。不过大家都被 996 和几两碎银压的踹不过气来。只要解放程序员，把他们从低水平的体力活中解放出来，中国的基础软件才能看到希望。</p>
+<p>不过要想短时间取代 notepad++的市场，也基本是不可能的。目前国内的应用软件，稍微偏底层的一些东西，比如文本编辑器，解析器、编译器，更不要提操作系统，几乎全部被国外所把持。我想作为一个老的程序员，虽然技术可能已经被潮流淘汰了，但是在底层基础建设方面，还是可以发挥一些余热。准备优先在国产统 uos 系上，发布并维护替换 Notepad++的同类软件，notepad–。</p>
+<p>至于有没有市场，会不会成功，能不能转换出市场效应，那就交给时间吧。</p>
+<h2 id="问题说明">问题说明
+</h2><p><strong>对于非安装版本，现在是个单文件，可以随意存放位置。关联文件右键打开菜单的操作如下：</strong></p>
+<p>1）你只需要把 Notepad– 放在一个固定位置，然后不要移动程序位置。
+2）找到 Notepad– 的位置，右键，以管理员权限运行，运行一次后，就会把当前右键位置注册到右键菜单中区。</p>
+<p>只需要这样执行一次后，windows 下就自动关联所有文件了。</p>
+<p>如果你移动了 Notepad–位置，都以管理员权限运行一次即可。</p>
+<p><strong>打开 yaml 后缀类型文件时显示看起来乱码，是以 16 进制打开的，怎么办？</strong></p>
+<p>这是因为 Notepad– 检测到该文件可能是二进制，以二进制只读打开，避免修改二进制文件而破坏文件。</p>
+<p>两个解决方式：</p>
+<p>1）右键文件标签，选择“重新以文本模式”打开，可以解决。
+2）永远解决办法：在选项 – 文件关联 中，把后缀 yaml 的自定义添加到关联中去。下次遇到 yaml 的文件，软件会自动识别为文本模式。</p>
+<h2 id="版本区别">版本区别
+</h2><p>• Notepad– plugin Installer.exe
+win10 下面的插件版安装包，会关联右键菜单等。</p>
+<p>• Notepad– win10 portable.7z
+绿色免安装版本，解压即用，不会关联右键菜单注册表。</p>
+<h2 id="官方更新">官方更新
+</h2><p>1）新增 MACOS-qt6-arm64 版本；进一步完善 window qt6 版本；本次发布 uos 2.11 版本。
+2）自动提示可以支持中文。不过权衡效率的问题，最多提示 10 条记录，而且每次最多查找 500K 的内容。
+3）undo redo 的可用/非可用状态的识别。
+4）完善折叠线显示：线段绘制时，直线没有对齐到方块下边。
+5）小于 1000K 的文件，外部修改后，自动更新，不询问用户。完善文件外部变化，重加载后的逻辑。
+6）查找框中英文实时切换。
+7）文件夹路径支持水平滚动条
+8）继续完善注册问题，提高网络注册成功率。
+9）更新 json 错误的前景颜色。
+10）linux mac 下面不再提供 tailf 功能，因为系统自带该命令行。
+11）超过 500 个文件对比时，关闭文件夹对比时，要询问一下，避免误关。 12)解决导入导出配置后，并没有完全恢复选项的问题。
+13）列编辑 MAC 下面崩溃问题，统一梳理 SCI_GETTEXTRANGE 长度处理逻辑。
+14）bugfix:#I8I0H6:【缺陷】查找到结果不能突出显示【缺陷】查找到结果有时不能突出显示；某些情况查找上一个，总是在原地打转的 bug。</p>
+<h2 id="下载地址">下载地址
+</h2><p><a class="link" href="https://pan.quark.cn/s/814a5b83a98c"  target="_blank" rel="noopener"
+    >https://pan.quark.cn/s/814a5b83a98c</a></p>
+
+</section>
+ <footer class="article-footer">
+    
+
+    </footer>
+ 
+</article>
+
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/55529/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">WPS Office 2023专业增强版 v12.8.2.18913 永久激活版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/70269/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">QOwnNotes(跨平台笔记应用程序) v24.12.0 中文绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/81147/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Adobe Acrobat Pro DC v2024.005.20307 破解版 32位 &amp; 64位</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/88682/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">坤_Tools(免费的文档转换工具) v0.4.5 中文绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/47924/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">draw.io(免费流程图制作工具) v25.0.2 中文绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+	<section class="copyright">
+		&copy;  2024 KUL藏宝库
+	</section>
+	
+	<section class="running-time">
+		本博客已稳定运行
+		<span id="runningdays" class="running-days"></span>
+	</section>
+	<section class="powerby">
+		 <br />
+		
+	</section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+</main>
+		</div>
+		<script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+<script>
+	let s1 = "2023-3-18"; 
+	s1 = new Date(s1.replace(/-/g, "/"));
+	let s2 = new Date();
+	let timeDifference = s2.getTime() - s1.getTime();
+
+	let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+	let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+	let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+	let result = days + "天" + hours + "小时" + minutes + "分钟";
+	document.getElementById("runningdays").innerHTML = result;
+</script>
+
+	</body>
+</html>
