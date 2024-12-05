@@ -7,7 +7,57 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 05 Dec 2024 12:00:48 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 05 Dec 2024 18:06:59 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Pale Moon(定制优化火狐浏览器) v33.5.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/19752/</link>
+        <pubDate>Thu, 05 Dec 2024 18:06:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/19752/</guid>
+        <description>&lt;p&gt;Pale Moon是一款定制的、速度优化的火狐浏览器。该项目使用贡献的开放源代码创建了一个基于Firefox浏览器的全功能、速度优化的浏览器。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/19752/20241205_060710.png&#34;
+	width=&#34;640&#34;
+	height=&#34;486&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;131&#34;
+		data-flex-basis=&#34;316px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;为现代处理器高度优化
+100% Firefox来源:和经过多年开发的浏览器一样安全。
+支持Firefox扩展、主题和角色
+能够使用这个迁移工具使用现有的Firefox配置文件、书签和设置
+由于禁用了冗余和可选代码，因此使用的内存略少
+显著提高了页面绘制和脚本处理的速度
+支持HTML5和WebGL (v4)
+稳定性:体验更少的浏览器崩溃。
+支持SVG和Canvas，以及包括WOFF在内的可下载字体
+支持OOPP(进程外插件执行)&lt;/p&gt;
+&lt;p&gt;在Pale Moon浏览器中，用户会发现稍微保守一点的用户界面变化。它虽然非常接近Firefox，但(现在比以前更明显了)是一个不同的产品。然而，这些布局上的差异并不会阻止任何人按照他们想要的方式配置他们的浏览器界面。如果他们愿意，还可以包括Mozilla Firefox的默认布局。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;Pale Moon(定制优化火狐浏览器) v33.5.0 中文绿色版
+&lt;a class=&#34;link&#34; href=&#34;https://rm-eu.palemoon.org/release/palemoon-33.5.0.win32.installer.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rm-eu.palemoon.org/release/palemoon-33.5.0.win32.installer.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://rm-eu.palemoon.org/release/palemoon-33.5.0.win64.installer.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rm-eu.palemoon.org/release/palemoon-33.5.0.win64.installer.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://rm-eu.palemoon.org/release/Palemoon-Portable-33.5.0.win32.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rm-eu.palemoon.org/release/Palemoon-Portable-33.5.0.win32.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://rm-eu.palemoon.org/release/Palemoon-Portable-33.5.0.win64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://rm-eu.palemoon.org/release/Palemoon-Portable-33.5.0.win64.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;官方下载（简体中文语言包 + 切换语言工具）
+&lt;a class=&#34;link&#34; href=&#34;https://addons.palemoon.org/addon/pm-langpack-zh-cn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://addons.palemoon.org/addon/pm-langpack-zh-cn/&lt;/a&gt;（简体中文语言包）
+&lt;a class=&#34;link&#34; href=&#34;https://addons.palemoon.org/addon/locale-switcher/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://addons.palemoon.org/addon/locale-switcher/&lt;/a&gt;（切换语言工具）&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Brave Browser(快速私密网页浏览器) v1.73.97 多语便携版</title>
         <link>https://www.danlong360.com/post/81113/</link>
         <pubDate>Thu, 05 Dec 2024 12:00:48 +0800</pubDate>
