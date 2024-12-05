@@ -7,7 +7,55 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 04 Dec 2024 21:32:28 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 05 Dec 2024 12:44:42 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Notepad&#43;&#43;(功能强大的代码编辑器) v8.7.4 中文绿色版</title>
+        <link>https://www.danlong360.com/post/18720/</link>
+        <pubDate>Thu, 05 Dec 2024 12:44:42 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/18720/</guid>
+        <description>&lt;p&gt;Notepad++是一套非常有特色的自由软件的纯文字编辑器(许可证:GPL)，有完整的中文化接口及支援多国语言撰写的功能(UTF8 技术)。它的功能比 Windows 中的 Notepad(记事簿)强大，除了可以用来制作一般的纯文字说明文件，也十分适合当作撰写电脑程序的编辑器。Notepad++ 不仅有语法高亮度显示，也有语法折叠功能，并且支援宏以及扩充基本功能的外挂模组。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/18720/20241205_124456.png&#34;
+	width=&#34;709&#34;
+	height=&#34;506&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;140&#34;
+		data-flex-basis=&#34;336px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;① 内置支持多达 27 种语法高亮度显示(囊括各种常见的源代码、脚本，值得一提的是，完美支持 .nfo 文件查看)，也支持自定义语言；
+② 可自动检测文件类型，根据关键字显示节点，节点可自由折叠/打开，代码显示得非常有层次感！这是此软件最具特色的体现之一；
+③ 可打开双窗口，在分窗口中又可打开多个子窗口，允许快捷切换全屏显示模式(f11)，支持鼠标滚轮改变文档显示比例，等等；
+④ 提供数个特色东东，如 邻行互换位置、宏功能，等等…现在网上有很多文件编辑器，这个却是不可多得的一款，不论是日常使用还是手写编程代码，都能让你体会到它独有的优势和方便。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;修复 Unicode 字符上的宏记录回归。
+修复通过资源管理器删除文件只读属性的缺陷检测回归。
+修复在多实例模式回归时打开多文件。
+更新：Scintilla 5.3.5 Lexilla 5.2.5。
+修复 Notepad++ 挂起运行宏到 EOF 的问题。
+修复更改编码时 EOL 符号颜色/外观被重置的问题。
+在程序集源文件中启用代码折叠。 （修复 #13758、#9888）
+修复通过会话问题未记住的文档语言。
+添加 SHA-1 哈希功能。
+添加“启动时另外打开新的空白文档”功能。
+修复 lexer 插件在语言菜单问题中非常规排序
+添加消息 NPPM_DARKMODESUBCLASSANDTHEME 以允许插件使用通用暗模式。
+添加关闭多个文件而不保存在文档列表中的功能。
+几个 GUI 增强功能。
+修复卸载时的错误消息。
+修复卸载时未删除 tabContextMenu_example.xml 的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODKB2qwVLHwAzMdtkBj7fZTA1?pwd=cjhn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODKB2qwVLHwAzMdtkBj7fZTA1?pwd=cjhn&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>WPS Office 2023专业增强版 v12.8.2.18913 永久激活版</title>
         <link>https://www.danlong360.com/post/55529/</link>
         <pubDate>Wed, 04 Dec 2024 21:32:28 +0800</pubDate>
