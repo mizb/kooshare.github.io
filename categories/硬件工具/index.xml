@@ -7,7 +7,77 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 07 Dec 2024 12:08:27 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 08 Dec 2024 20:15:58 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>NWinfo(硬件信息检测工具) v1.0.5.1 中文绿色版</title>
+        <link>https://www.danlong360.com/post/54240/</link>
+        <pubDate>Sun, 08 Dec 2024 20:15:58 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/54240/</guid>
+        <description>&lt;p&gt;NWinfo 是一款全面的硬件信息和诊断工具，旨在提供关于计算机硬件的细和准确的信息。它可以显示有关处理器、主板、内存、硬盘、显卡以及其他硬件组件的详细信息。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/54240/20241208_081608.png&#34;
+	width=&#34;512&#34;
+	height=&#34;682&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;75&#34;
+		data-flex-basis=&#34;180px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;获取有关 SMBIOS、CPUID、SMART、PCI、EDID 等的详细信息。
+支持以 JSON、YAML 和 LUA 表格式导出。
+与Windows XP兼容。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;Add PDF Readme document.
+Add PowerShell hardware reporting script.
+Get UAC and Fast-Startup status.&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODaNI3f7o7-OpUmmWYgG4T-A1?pwd=edzp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODaNI3f7o7-OpUmmWYgG4T-A1?pwd=edzp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HWiNFO(专业系统信息诊断工具) v8.17.5610 多语便携版</title>
+        <link>https://www.danlong360.com/post/24213/</link>
+        <pubDate>Sun, 08 Dec 2024 20:07:29 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/24213/</guid>
+        <description>&lt;p&gt;HWiNFO是一款系统信息和诊断工具，能够提供关于硬件组件和系统信息的详细报告。其功能包括监控硬件健康状况、实时系统监控、报告系统信息、诊断硬件问题等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/24213/20241208_080740.png&#34;
+	width=&#34;736&#34;
+	height=&#34;522&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;140&#34;
+		data-flex-basis=&#34;338px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;提供详细的硬件信息：HWiNFO可以查看系统硬件组件的详细信息，包括处理器、内存、主板、显卡、硬盘等。
+实时监控和报告：软件可以监控系统的硬件健康状况，并生成实时报告，帮助用户了解系统的运行状态。
+温度和风扇监控：HWiNFO可以监控硬件温度和风扇转速，及时发现潜在的散热问题。
+硬件诊断：软件可以诊断硬件问题并生成报告，帮助用户确认硬件是否出现故障。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;全面的硬件支持：HWiNFO支持多种硬件组件的监控和报告，可以覆盖大部分用户的需求。
+界面简洁易用：软件界面清晰简洁，易于操作和查看系统信息。
+多种报告选项：用户可以根据需要生成不同类型的报告，例如HTML报告、文本报告等。
+免费使用：HWiNFO是免费的软件，用户无需付费即可享受其强大的功能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODaMiLAp1RpwO2MmKjaLgw4A1?pwd=ix4k&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODaMiLAp1RpwO2MmKjaLgw4A1?pwd=ix4k&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>StressTheGPU(显卡性能测试工具) v1.12 中文绿色版</title>
         <link>https://www.danlong360.com/post/37339/</link>
         <pubDate>Sat, 07 Dec 2024 12:08:27 +0800</pubDate>

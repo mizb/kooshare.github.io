@@ -7,7 +7,132 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 07 Dec 2024 12:16:14 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 08 Dec 2024 20:11:18 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MPC-QT视频播放器(基于Qt框架播放器) v24.12 中文绿色版</title>
+        <link>https://www.danlong360.com/post/6745/</link>
+        <pubDate>Sun, 08 Dec 2024 20:11:18 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6745/</guid>
+        <description>&lt;p&gt;MPC-QT 是一款基于Qt框架开发的轻量级多媒体播放器，旨在为用户提供流畅的音频和视频播放体验。它继承了 Media Player Classic 的经典设计，同时融入了现代化的功能和界面，支持多种格式的媒体文件。MPC-QT 专注于简洁性和高效性，确保用户可以轻松播放各种类型的音视频内容，而不会受到复杂的设置或过多的功能干扰。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/6745/20241208_081128.png&#34;
+	width=&#34;640&#34;
+	height=&#34;324&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;197&#34;
+		data-flex-basis=&#34;474px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;播放多种格式：支持广泛的音频和视频格式，包括 MP4、AVI、MKV、MP3、AAC 等，确保用户可以播放几乎所有常见的媒体文件。
+内置解码器：集成了多种解码器，无需额外安装插件即可播放大多数媒体文件，简化了用户的使用流程。
+播放列表管理：支持创建和管理播放列表，用户可以轻松添加、删除和排序文件，方便连续播放多个媒体文件。
+截图功能：允许用户在播放过程中随时截取当前画面，保存为图像文件，方便分享和记录精彩瞬间。
+字幕支持：支持多种字幕格式，用户可以加载外部字幕文件，调整字幕位置和样式，提升观看体验。
+音频调节：提供均衡器和音频效果设置，用户可以根据个人喜好调整音效，获得更好的听觉享受。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简洁界面：提供直观易用的操作界面，用户可以快速找到所需功能，无需复杂的培训或技术支持。
+高效性能：优化的播放引擎和低资源占用使得 MPC-QT 运行流畅，即使在较老的计算机上也能保持良好的播放效果。
+现代化设计：基于 Qt 框架开发，界面美观且响应迅速，提供了现代化的用户体验。
+多功能集成：集成了播放、截图、字幕加载和音频调节等多种功能，满足用户在不同场景下的需求。
+跨平台支持：不仅适用于 Windows 操作系统，还支持 Linux 和 macOS，确保用户在不同平台上都能享受一致的播放体验。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODaMwv2HhD_f0Y7UGNqxjV8A1?pwd=3767&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODaMwv2HhD_f0Y7UGNqxjV8A1?pwd=3767&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MPC-BE视频播放器(强大视频播放器) v1.8.2 中文绿色版</title>
+        <link>https://www.danlong360.com/post/48560/</link>
+        <pubDate>Sun, 08 Dec 2024 19:51:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/48560/</guid>
+        <description>&lt;p&gt;MPC-BE（Media Player Classic - Black Edition）是一款功能强大的视频播放器，是Media Player Classic的一个分支，它支持多种视频和音频文件格式，并提供多种附加功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/48560/20241208_075144.png&#34;
+	width=&#34;507&#34;
+	height=&#34;426&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;119&#34;
+		data-flex-basis=&#34;285px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持广泛的视频文件格式，如AVI、FLV、MP4、MKV、MOV等，以及多种音频文件格式，如MP3、WAV、AAC等。
+具有广泛的解码器支持，包括内置的解码器和外部的第三方解码器，可以确保播放器能够兼容几乎所有的媒体文件。
+提供各种视频和音频调整选项，如亮度、对比度、饱和度调整，以及音量控制、均衡器等。
+支持多种字幕格式，如SRT、SSA、ASS等，并提供字幕的显示和调整选项。
+提供多种界面语言和主题，可以根据用户的偏好进行定制。
+支持快速和精确的搜索功能，可以轻松找到想要播放的视频或音频文件。
+启用硬件加速和多线程解码，提供流畅的播放体验。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;开源免费：MPC-BE是一个开源项目，用户可以免费使用和分发该软件。
+轻量化：软件的安装文件很小，占用较少的系统资源，不会影响计算机的性能。
+高度可定制：用户可以根据自己的需求进行界面和功能的定制，使软件符合个人使用习惯。
+易于使用：软件的界面简洁明了，功能布局合理，使用户可以轻松找到所需的功能和选项。
+稳定可靠：MPC-BE经过多次测试和改进，具有较高的稳定性和可靠性，可以长时间运行而不会崩溃或出错。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODaLeVZyy1z6q518Mu6p7-TA1?pwd=ath5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODaLeVZyy1z6q518Mu6p7-TA1?pwd=ath5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>foobox(基于foobar2000的CUI界面配置) v7.38 重制版</title>
+        <link>https://www.danlong360.com/post/70715/</link>
+        <pubDate>Sun, 08 Dec 2024 19:50:32 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/70715/</guid>
+        <description>&lt;p&gt;foobox 是一个 foobar2000 默认用户界面 (DUI) 的皮肤配置，基于 jsplitter (Spider Monkey Panel 版) 组件，符合主流软件的审美，扩展功能丰富并保持软件的流畅运行.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/70715/20241208_075047.png&#34;
+	width=&#34;692&#34;
+	height=&#34;450&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;153&#34;
+		data-flex-basis=&#34;369px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;制作和使用&#34;&gt;制作和使用
+&lt;/h3&gt;&lt;p&gt;foobox 中文版适用于 foobar2000 汉化版 by Asion ，使用以下第三方组件:
+ttsping 的歌词组件 ESLyric;
+基于 Spider Monkey Panel 的 JSplitter;
+foo_enhanced_spectrum_analyzer.&lt;/p&gt;
+&lt;p&gt;并修改使用以下优秀的代码部件:
+播放列表管理器，播放列表，封面浏览原作者 br3tt，汉化 always_beta;
+封面面板原作者 Jensen;
+搜索框原作者 Asion;
+简介面板作者 Wil-B;
+网络电台列表维护 范明明;&lt;/p&gt;
+&lt;p&gt;到最新 Releases (发行版) 页面下载安装包，从 7.24 起，安装包不再集成 foobar2000 汉化版，仅包含 foobox 主题及所需组件，绿色安装，自由便捷。
+从 7.26版开始增加 foobox 6 重制版，foobox 7 专注 64 位版，foobox 6 重制版为 32 位版，其实是在 foobox 7 的基础上添加 UI Hacks 并整合了两个版本的特点，适合喜欢隐藏菜单栏状态栏 UI 的朋友。
+额外的视频面板可选安装，它基于 foo-youtube 和 foo_input_ffmpeg 组件。
+完成后可以在 “主菜单&amp;ndash;视图&amp;ndash;布局&amp;ndash;快速设置”里切换各种 foobox 布局组合。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v7.38
+修正已知 bug，代码优化。
+更新歌词组件 ESLyric v1.0.1.1，要求不低于 Win10 1607，系统低于要求时会安装旧版 ESLyric。
+6重制版：foobox设置中的标题栏显示更多音轨信息，添加设置为推荐值的按钮。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODaLc5RMEaJmCiVS9ZOMYXLA1?pwd=i7z8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODaLc5RMEaJmCiVS9ZOMYXLA1?pwd=i7z8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>OBS Studio(开源录屏直播软件) v31.0.0 中文绿色版</title>
         <link>https://www.danlong360.com/post/74241/</link>
         <pubDate>Sat, 07 Dec 2024 12:16:14 +0800</pubDate>
