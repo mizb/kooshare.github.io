@@ -7,7 +7,172 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 09 Dec 2024 11:51:45 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 09 Dec 2024 18:11:53 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>SQLiteStudio(SQLite数据库管理工具) v3.4.9 中文绿色版</title>
+        <link>https://www.danlong360.com/post/82977/</link>
+        <pubDate>Mon, 09 Dec 2024 18:11:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/82977/</guid>
+        <description>&lt;p&gt;SQLiteStudio 是一款专为 SQLite 数据库设计的图形化管理工具，旨在提供简单易用的界面和强大的功能，帮助用户高效地创建、管理和查询 SQLite 数据库。它支持多种数据库操作，包括表结构设计、数据编辑、SQL 查询执行等，适用于开发人员、数据库管理员以及需要处理 SQLite 数据库的各类用户。SQLiteStudio 提供了直观的操作界面和丰富的功能，确保用户可以轻松完成复杂的数据库任务。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/82977/20241209_061715.png&#34;
+	width=&#34;568&#34;
+	height=&#34;444&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;127&#34;
+		data-flex-basis=&#34;307px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;数据库管理：支持创建、打开和管理多个 SQLite 数据库文件，方便用户集中管理和切换不同数据库。
+表结构设计：允许用户通过图形化界面设计和修改数据库表结构，包括添加、删除和编辑字段，设置主键、外键和索引等。
+数据编辑：提供表格视图和表单视图两种方式，用户可以直观地查看和编辑表中的数据，支持批量插入、更新和删除操作。
+SQL 查询：内置 SQL 编辑器，用户可以编写和执行复杂的 SQL 查询，支持语法高亮、自动补全和查询结果可视化。
+查询历史：保存用户的查询历史记录，方便用户快速查找和重复使用之前的查询语句。
+导入导出：支持将数据从外部文件（如 CSV、SQL 文件）导入到数据库中，也可以将查询结果导出为多种格式，如 CSV、HTML 和 JSON。
+备份与恢复：提供数据库备份和恢复功能，用户可以轻松创建数据库的备份文件，并在需要时恢复到指定版本。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;直观界面：提供简洁明了的操作界面，用户可以轻松上手，无需复杂的培训或技术支持，快速完成数据库管理任务。
+多功能集成：集成了数据库管理、表结构设计、数据编辑、SQL 查询等多种功能，满足用户在不同场景下的需求。
+高效性能：优化的算法和高效的处理能力，确保数据库操作的速度快且稳定，节省时间和资源。
+跨平台支持：适用于 Windows、macOS 和 Linux 操作系统，确保用户在不同平台上都能享受一致的使用体验。
+社区驱动：由活跃的开发者社区维护，定期更新和改进，确保软件始终保持最新和稳定。
+灵活扩展：支持插件机制，用户可以根据需要安装第三方插件，扩展软件的功能，满足个性化需求。
+实时同步：支持多窗口操作，用户可以在不同窗口中同时管理多个数据库，确保操作的便捷性和效率。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODevM3dO6a-Op5jkaPprrFAA1?pwd=pnb5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODevM3dO6a-Op5jkaPprrFAA1?pwd=pnb5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>WimTool(解包制作.wim文件) v1.6.2024.1111 中文绿色版</title>
+        <link>https://www.danlong360.com/post/7539/</link>
+        <pubDate>Mon, 09 Dec 2024 17:53:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/7539/</guid>
+        <description>&lt;p&gt;WimTool 是一款专为 Windows 操作系统设计的多功能磁盘映像管理工具，主要用于处理 Windows 映像文件（.wim）。它提供了简单易用的界面和强大的功能，帮助用户轻松创建、编辑、提取和应用 Windows 映像。WimTool 适用于系统管理员、IT 专业人员以及需要频繁管理和部署 Windows 系统的用户，确保高效、准确地完成各种映像操作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/7539/20241209_055352.png&#34;
+	width=&#34;640&#34;
+	height=&#34;399&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;创建映像：可以从现有 Windows 安装或文件夹创建 .wim 文件，方便备份和分发操作系统镜像。
+编辑映像：允许用户在不重新安装系统的情况下，直接修改 .wim 文件中的内容，如添加或删除文件、驱动程序和更新补丁。
+提取映像：可以将 .wim 文件中的内容提取到指定的文件夹，便于查看和使用其中的文件。
+应用映像：支持将 .wim 文件应用到目标分区或磁盘，快速部署 Windows 系统，特别适合批量部署场景。
+查看信息：提供详细的 .wim 文件信息，包括映像索引、版本、架构等，帮助用户了解映像的具体内容。
+压缩选项：支持不同级别的压缩设置，用户可以根据需求选择合适的压缩方式，平衡文件大小和处理速度。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;直观界面：提供简洁明了的操作界面，用户可以轻松上手，无需复杂的培训或技术支持，快速完成映像管理任务。
+高效处理：优化的算法和高效的处理能力，确保创建、编辑和应用映像的速度快且稳定，节省时间和资源。
+灵活操作：支持多种常见的映像操作，如创建、编辑、提取和应用，满足不同场景下的需求，特别适合系统管理员和 IT 专业人员。
+详细信息：提供详细的 .wim 文件信息，帮助用户全面了解映像的内容，确保操作的准确性和安全性。
+压缩选择：支持不同级别的压缩设置，用户可以根据实际需求选择合适的压缩方式，平衡文件大小和处理速度。
+多平台支持：适用于 Windows 操作系统，确保用户在不同环境下都能高效管理 Windows 映像文件。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODetLD9O6a-Op5jkaPprBsWA1?pwd=52rb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODetLD9O6a-Op5jkaPprBsWA1?pwd=52rb&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HDCleaner(系统清理优化工具) v2.084 中文绿色版</title>
+        <link>https://www.danlong360.com/post/15861/</link>
+        <pubDate>Mon, 09 Dec 2024 17:52:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/15861/</guid>
+        <description>&lt;p&gt;HDCleaner 是一款功能强大的系统清理和优化工具，可以清理Windows系统中的无用文件、无效的快捷方式和临时文件，并修复和优化Windows注册表和系统设置。它还可以管理启动项和程序，帮助用户控制计算机的性能和速度。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/15861/20241209_055247.png&#34;
+	width=&#34;640&#34;
+	height=&#34;417&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;153&#34;
+		data-flex-basis=&#34;368px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;清理功能：可以清理系统中的临时文件、无效快捷方式、cookie、浏览记录、垃圾文件等，释放磁盘空间。&lt;/li&gt;
+&lt;li&gt;优化功能：可以修复Windows注册表，优化系统设置，提高计算机的性能和响应速度。&lt;/li&gt;
+&lt;li&gt;系统维护功能：可以管理计算机的启动项、服务、任务计划等，帮助优化系统。&lt;/li&gt;
+&lt;li&gt;隐私保护功能：可以清除浏览器的历史记录、下载记录、表单数据、缓存等，保护用户的隐私。&lt;/li&gt;
+&lt;li&gt;数据安全功能：可以安全地删除文件和文件夹，确保数据不会被恢复。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简洁、易于使用，适合各种用户。&lt;/li&gt;
+&lt;li&gt;提供多种清理和优化选项，可根据需要进行选择。&lt;/li&gt;
+&lt;li&gt;可以对系统进行全面的扫描和检查，帮助找到并清理不必要的文件和设置。&lt;/li&gt;
+&lt;li&gt;支持多种语言，如英语、德语、法语、意大利语、西班牙语等。&lt;/li&gt;
+&lt;li&gt;可以便捷地备份和还原Windows注册表。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODetIT8cJvwk0ZoeiS-049HA1?pwd=pcvp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODetIT8cJvwk0ZoeiS-049HA1?pwd=pcvp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Apeaksoft Android Toolkit(安卓多功能工具集) v2.1.32 多语便携版</title>
+        <link>https://www.danlong360.com/post/91947/</link>
+        <pubDate>Mon, 09 Dec 2024 17:48:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/91947/</guid>
+        <description>&lt;p&gt;Apeaksoft Android Toolkit 是一款专为 Android 用户设计的多功能工具集，旨在简化和优化手机管理任务。它集成了多种实用功能，帮助用户轻松备份、恢复、传输数据，管理文件和应用程序，以及进行屏幕录制和截图等操作。Apeaksoft Android Toolkit 提供了直观的操作界面和强大的功能，确保用户可以高效地管理和维护他们的 Android 设备。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/91947/20241209_054911.png&#34;
+	width=&#34;640&#34;
+	height=&#34;433&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;147&#34;
+		data-flex-basis=&#34;354px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;数据备份与恢复：支持全面备份手机中的联系人、短信、通话记录、应用程序、照片、视频等数据，并可以将备份数据恢复到设备或新手机上。
+文件管理：允许用户在电脑上浏览、复制、删除和管理 Android 设备中的文件，方便进行文件传输和整理。
+应用管理：提供应用安装、卸载和批量管理功能，用户可以轻松管理和优化已安装的应用程序。
+屏幕录制与截图：支持录制手机屏幕并保存为视频文件，同时提供截图功能，方便用户捕捉重要画面。
+联系人和短信管理：允许用户导出和导入联系人及短信，确保数据的安全性和便捷性。
+系统优化：提供清理缓存、释放存储空间等功能，帮助用户保持设备的流畅运行。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;全方位数据保护：不仅支持备份和恢复各种类型的数据，还提供了详细的备份选项，确保用户不会遗漏任何重要信息。
+高效文件管理：通过直观的文件浏览器，用户可以在电脑上轻松管理 Android 设备中的文件，提升文件传输和整理的效率。
+简便应用控制：提供一键式应用管理功能，用户可以快速安装、卸载和批量处理应用程序，简化设备管理流程。
+高质量屏幕录制：支持高清屏幕录制，用户可以自由选择录制区域和分辨率，确保录制内容清晰流畅。
+便捷联系人和短信管理：允许用户轻松导出和导入联系人及短信，确保数据的安全性和便捷性，特别适合更换手机时使用。
+深度系统优化：通过清理缓存和释放存储空间，帮助用户保持设备的流畅运行，延长设备的使用寿命。
+跨平台支持：适用于 Windows 和 macOS 操作系统，确保用户在不同平台上都能享受一致的使用体验。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODet197dl_ivAZDIG6yW2vWA1?pwd=pzfq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODet197dl_ivAZDIG6yW2vWA1?pwd=pzfq&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>RAM Saver(优化内存软件) Pro v24.12.1 多语便携版</title>
         <link>https://www.danlong360.com/post/11805/</link>
         <pubDate>Mon, 09 Dec 2024 11:51:45 +0800</pubDate>
