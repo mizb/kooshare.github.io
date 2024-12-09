@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+	<head><meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="\n本套课程动力节点：专项爆破Java多线程与并发编程(吊打面试官），课程包括视频以及相关资料源码，内容共9.30G。文章底部附下载地址。\n课程文件目录 1-13 线程有哪些实现方式-用户线程.avi\n"> <title>动力节点：专项爆破Java多线程与并发编程(吊打面试官），视频&#43;源码</title>
+
+<link rel="canonical" href="https://www.danlong360.com/post/83245/" />  <link rel="stylesheet" href="/scss/style.min.22d29e275a5ae60d82d8e2994d797689c0d9c913f73af961ab29f88fb95f5419.css" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
+     crossorigin="anonymous">
+</script><meta property='og:title' content="动力节点：专项爆破Java多线程与并发编程(吊打面试官），视频+源码">
+<meta property='og:description' content="\n本套课程动力节点：专项爆破Java多线程与并发编程(吊打面试官），课程包括视频以及相关资料源码，内容共9.30G。文章底部附下载地址。\n课程文件目录 1-13 线程有哪些实现方式-用户线程.avi\n">
+<meta property='og:url' content='https://www.danlong360.com/post/83245/'>
+<meta property='og:site_name' content='KUL藏宝库'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-12-09T21:06:08&#43;08:00'/><meta property='article:modified_time' content='2024-12-09T21:06:08&#43;08:00'/>
+<meta name="twitter:title" content="动力节点：专项爆破Java多线程与并发编程(吊打面试官），视频+源码">
+<meta name="twitter:description" content="\n本套课程动力节点：专项爆破Java多线程与并发编程(吊打面试官），课程包括视频以及相关资料源码，内容共9.30G。文章底部附下载地址。\n课程文件目录 1-13 线程有哪些实现方式-用户线程.avi\n">
+<link rel="shortcut icon" href="/favicon.ico" />
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-K19J3P52BR"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-K19J3P52BR');
+        }
+      </script>
+
+	</head>
+	<body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu12742395681378621043.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">KUL藏宝库</a></h1>
+            <h2 class="site-description">纯净软件爱好者</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>存档</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#课程文件目录">课程文件目录</a></li>
+        <li><a href="#课程下载">课程下载</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+			<main class="main full-width">
+    <article class="main-article">
+	<header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E8%AF%BE%E7%A8%8B/" >
+                课程
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/83245/">动力节点：专项爆破Java多线程与并发编程(吊打面试官），视频&#43;源码</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024-12-09</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header> <section class="article-content">
+    
+    
+    <p><img src="/post/83245/59b514174bffe4a-9.jpg"
+	width="320"
+	height="225"
+	
+	loading="lazy"
+	
+		alt="动力节点"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="142"
+		data-flex-basis="341px"
+	
+></p>
+<p>本套课程动力节点：专项爆破Java多线程与并发编程(吊打面试官），课程包括视频以及相关资料源码，内容共9.30G。文章底部附下载地址。</p>
+<h3 id="课程文件目录">课程文件目录
+</h3><blockquote>
+<p>1-13 线程有哪些实现方式-用户线程.avi</p>
+<p>1-14 再认识一下java中的线程.avi</p>
+<p>1-15 在java中创建线程的方式继承thread.avi</p>
+<p>1-16 在java中创建线程的方式实现runnable.avi</p>
+<p>1-17 在java中创建线程的方式实现callable.avi</p>
+<p>1-18 在java中创建线程的方式executor.avi</p>
+<p>1-19 在java中创建线程的方式threadpooltaskexecutor.avi</p>
+<p>1-2 走进并发编程-认识一下cpu.avi</p>
+<p>1-20 循序渐进去认识java线程-一条新的执行路径.avi</p>
+<p>1-21 循序渐进去认识java线程-多线程执行创建几个虚拟机栈？.avi</p>
+<p>1-22 循序渐进去认识java线程-java多线程程序如何debug调试？.avi</p>
+<p>1-23 循序渐进去认识java线程-线程start与run方法.avi</p>
+<p>1-24 循序渐进去认识java线程-当前线程与休眠.avi</p>
+<p>1-25 main线程执行结束后，在main线程中创建的子线程是否也自动结束？.avi</p>
+<p>1-26 守护线程是怎么回事1？.avi</p>
+<p>1-27 守护线程是怎么回事2？.avi</p>
+<p>1-28 线程thread api-join方法1.avi</p>
+<p>1-29 线程thread api-join方法2.avi</p>
+<p>1-3 走进并发编程-摩尔定律.avi</p>
+<p>1-30 线程thread api-yield方法.avi</p>
+<p>1-31 线程thread api-getcontextclassloader.avi</p>
+<p>1-32 线程thread api-interrupt线程中断1.avi</p>
+<p>1-33 线程thread api-interrupt线程中断2.avi</p>
+<p>1-34 线程thread api-priority线程优先级.avi</p>
+<p>1-35 object wait()方法解读.avi</p>
+<p>1-36 object wait() notify()方法解读.avi</p>
+<p>1-37 object wait() interrupt()方法解读.avi</p>
+<p>1-38 object notifyall()方法解读.avi</p>
+<p>1-39 object wait() notify() notifyall()方法解读.avi</p>
+<p>1-4 走进并发编程-amdahl定律.avi</p>
+<p>1-40 手写实现生产者-消费者模式.avi</p>
+<p>1-41 手写实现生产者-消费者模式-代码骨架定义.avi</p>
+<p>1-42 手写实现生产者-消费者模式-生产消费基础代码骨架.avi</p>
+<p>1-43 手写实现生产者-消费者模式-生产消费代码实现.avi</p>
+<p>1-44 手写实现生产者-消费者模式-生产消费代码实现.avi</p>
+<p>1-45 手写实现生产者-消费者模式-生产消费测试.avi</p>
+<p>1-46 线程阻塞工具类locksupport.avi</p>
+<p>1-47 线程阻塞工具类locksupport-超时阻塞与唤醒.avi</p>
+<p>1-48 线程阻塞工具类locksupport-阻塞与唤醒的特点.avi</p>
+<p>1-49 线程阻塞工具类locksupport-阻塞与唤醒的特点.avi</p>
+<p>1-5 什么是并行什么是并发？.avi</p>
+<p>1-50 线程阻塞工具类locksupport-阻塞与唤醒的特点.avi</p>
+<p>1-51 java线程的6种状态-初始状态new.avi</p>
+<p>1-52 java线程的6种状态-终止状态terminated.avi</p>
+<p>1-53 java线程的6种状态-运行状态runnable.avi</p>
+<p>1-54 java线程的6种状态-等待状态waiting.avi</p>
+<p>1-55 java线程的6种状态-等待状态waiting转换到运行状态runnable.avi</p>
+<p>1-56 java线程的6种状态-超时等待状态timed_waiting.avi</p>
+<p>1-57 java线程的6种状态-阻塞状态blocked.avi</p>
+<p>1-58 java线程的6种状态-竞争lock锁的线程状态.avi</p>
+<p>1-59 通过jstack查看线程状态.avi</p>
+<p>1-6 进程与线程.avi</p>
+<p>1-7 如何查看进程下的线程及cpu占用率-windows.avi</p>
+<p>1-8 如何查看进程下的线程及cpu占用率-linux.avi</p>
+<p>1-9 如何下载jdk源码.avi</p>
+<p><strong>02</strong></p>
+<p>2-1 什么是线程池？.avi</p>
+<p>2-10 线程池内置的四种拒绝策略-丢弃最老和主线程执行策略.avi</p>
+<p>2-11 线程池自定义拒绝策略.avi</p>
+<p>2-12 线程池自定义拒绝策略应用场景案例-需求分析.avi</p>
+<p>2-13 线程池自定义拒绝策略应用场景案例-代码实现.avi</p>
+<p>2-14 线程池自定义拒绝策略应用场景案例-代码测试.avi</p>
+<p>2-15 一些开源项目实现的拒绝策略.avi</p>
+<p>2-16 线程池的核心工作原理.avi</p>
+<p>2-17 线程池底层源码实现分析-数字的进制.avi</p>
+<p>2-18 线程池底层源码实现分析-构造方法.avi</p>
+<p>2-19 线程池底层源码实现分析-控制变量.avi</p>
+<p>2-2 为什么要有线程池？.avi</p>
+<p>2-20 线程池底层源码实现分析-线程池状态值.avi</p>
+<p>2-21 线程池底层源码实现分析-线程池控制变量ctl.avi</p>
+<p>2-22 线程池底层源码实现分析-解包ctl获取线程池运行状态.avi</p>
+<p>2-23 线程池底层源码实现分析-解包ctl获取线程池工作线程个数.avi</p>
+<p>2-24 线程池底层源码实现分析-线程池状态和工作线程数为什么用一个变量而不用两个变量？.avi</p>
+<p>2-25 线程池底层源码实现分析-线程池状态和工作线程数控制变量？.avi</p>
+<p>2-26 线程池底层源码实现分析-线程池底层实现核心源码分析1？.avi</p>
+<p>2-27 线程池底层源码实现分析-线程池底层实现核心源码分析2？.avi</p>
+<p>2-28 线程池底层源码实现分析-线程池底层实现核心源码分析3？.avi</p>
+<p>2-29 线程池底层源码实现分析-线程池底层实现核心源码addworker分析1？.avi</p>
+<p>2-3 java线程池之executor框架.avi</p>
+<p>2-30 线程池底层源码实现分析-线程池底层实现核心源码addworker分析2？.avi</p>
+<p>2-31 线程池底层源码实现分析-线程池底层实现核心源码addworker分析3？.avi</p>
+<p>2-32 线程池底层源码实现分析-线程池底层实现核心源码runworker方法分析.avi</p>
+<p>2-33 线程池底层源码实现分析-线程池底层实现核心源码gettask方法分析.avi</p>
+<p>2-34 线程池底层源码实现分析-线程池底层实现核心源码线程复用分析.avi</p>
+<p>2-35 线程池底层源码实现分析-线程池底层实现核心源码线程个数动态变化分析.avi</p>
+<p>2-36 线程池底层源码实现分析-线程池底层实现核心源码流程画图总结.avi</p>
+<p>2-37 工作中线程池的应用1.avi</p>
+<p>2-38 工作中线程池的应用2.avi</p>
+<p>2-39 工作中线程池的应用3.avi</p>
+<p>2-4 executor框架的接口与类结构.avi</p>
+<p>2-40 工作中线程池的应用4.avi</p>
+<p>2-41 如何合理设置线程池大小1？.avi</p>
+<p>2-42 如何合理设置线程池大小2？.avi</p>
+<p>2-43 如何合理设置线程池大小3？.avi</p>
+<p>2-44 如何合理设置线程池大小4？.avi</p>
+<p>2-45 如何合理设置线程池大小5？.avi</p>
+<p>2-46 如何设计实现一个动态线程池？.avi</p>
+<p>2-47 如何设计实现一个动态线程池-环境准备？.avi</p>
+<p>2-48 如何设计实现一个动态线程池-集成配置中心？.avi</p>
+<p>2-49 如何设计实现一个动态线程池-代码实现？.avi</p>
+<p>2-5 线程池的7大参数解读-核心线程数.avi</p>
+<p>2-50 如何设计实现一个动态线程池-自动刷新1？.avi</p>
+<p>2-51 如何设计实现一个动态线程池-自动刷新2？.avi</p>
+<p>2-52 创建线程池的方式及阿里规范.avi</p>
+<p>2-53 线程池的扩展钩子方法.avi</p>
+<p>2-54 线程池的监控.avi</p>
+<p>2-55 线程池的监控-数据定时采集.avi</p>
+<p>2-56 线程池的监控-数据定时采集代码实现1.avi</p>
+<p>2-57 线程池的监控-数据定时采集代码实现2.avi</p>
+<p>2-58 线程池关闭shutdownnow().avi</p>
+<p>2-59 线程池关闭shutdown().avi</p>
+<p>2-6 线程池的7大参数解读-任务队列与最大线程数.avi</p>
+<p>2-60 线程池要不要关闭？.avi</p>
+<p>2-61 线程池要不要关闭，怎么关闭？.avi</p>
+<p>2-7 线程池的7大参数解读-空闲线程超时销毁.avi</p>
+<p>2-8 线程池的7大参数解读-线程工厂.avi</p>
+<p>2-9 线程池内置的四种拒绝策略-异常和丢弃策略.avi</p>
+<p><strong>03</strong></p>
+<p>3-1 什么是线程安全？.avi</p>
+<p>3-10 jol查看java对象内存布局.avi</p>
+<p>3-11 对象头mark word中value值解读.avi</p>
+<p>3-12 偏向锁.avi</p>
+<p>3-13 偏向锁加锁.avi</p>
+<p>3-14 偏向锁释放.avi</p>
+<p>3-15 偏向锁的设计思想.avi</p>
+<p>3-16 轻量级锁.avi</p>
+<p>3-17 轻量级锁加锁.avi</p>
+<p>3-18 轻量级锁释放.avi</p>
+<p>3-19 轻量级锁的设计思想.avi</p>
+<p>3-2 线程安全原子性问题.avi</p>
+<p>3-20 重量级锁.avi</p>
+<p>3-21 重量级锁底层实现原理.avi</p>
+<p>3-22 synchronized锁膨胀.avi</p>
+<p>3-23 重量级锁加锁.avi</p>
+<p>3-24 重量级锁释放.avi</p>
+<p>3-25 用户态和内核态.avi</p>
+<p>3-26 synchronized死锁问题.avi</p>
+<p>3-27 死锁案例分析.avi</p>
+<p>3-28 产生死锁的四个必要条件.avi</p>
+<p>3-29 死锁如何解决1？.avi</p>
+<p>3-3 线程上下文切换原子性问题.avi</p>
+<p>3-30 死锁如何解决2？.avi</p>
+<p>3-31 死锁如何解决3？.avi</p>
+<p>3-32 synchronized与脏读问题.avi</p>
+<p>3-33 内存不可见问题.avi</p>
+<p>3-34 聊聊cpu三级高速缓存.avi</p>
+<p>3-35 java内存模型.avi</p>
+<p>3-36 volatile关键字的应用.avi</p>
+<p>3-37 volatile可见性与原子性.avi</p>
+<p>3-38 volatile与有序性.avi</p>
+<p>3-39 volatile的使用场景.avi</p>
+<p>3-4 指令原子性问题的分析.avi</p>
+<p>3-40 多线程单例模式-饿汉式设计.avi</p>
+<p>3-41 多线程单例模式-懒汉式设计.avi</p>
+<p>3-42 多线程单例模式-懒汉式安全设计.avi</p>
+<p>3-43 多线程单例模式-dcl设计.avi</p>
+<p>3-44 多线程单例模式-dcl重排序设计.avi</p>
+<p>3-45 多线程单例模式-静态代码块设计.avi</p>
+<p>3-46 多线程单例模式-静态内部类设计.avi</p>
+<p>3-47 多线程单例模式-枚举类设计.mp4</p>
+<p>3-48 饿汉式单例防反射攻击.mp4</p>
+<p>3-49 饿汉式单例防反序列化攻击.mp4</p>
+<p>3-5 synchronized解决线程安全.avi</p>
+<p>3-50 懒汉式单例反射攻击.mp4</p>
+<p>3-51 懒汉式单例反序列化攻击.mp4</p>
+<p>3-52 懒汉式单例的攻击问题.mp4</p>
+<p>3-53 静态代码块反射与序列化攻击.mp4</p>
+<p>3-54 静态内部类反射与序列化攻击.mp4</p>
+<p>3-55 枚举类单例反射攻击剖析.mp4</p>
+<p>3-56 枚举类单例序列化攻击剖析.mp4</p>
+<p>3-57 单例设计模式性能比较.mp4</p>
+<p>3-58 开源项目中的单例设计模式.mp4</p>
+<p>3-6 synchronized对象锁.avi</p>
+<p>3-7 synchronized类锁.avi</p>
+<p>3-8 java对象头mark word结构分析.avi</p>
+<p>3-9 java对象内存布局.avi</p>
+<p><strong>04</strong></p>
+<p>4-1 runnable接口.avi</p>
+<p>4-2 callable接口.avi</p>
+<p>4-3 future接口.avi</p>
+<p>4-4 futuretask类1.avi</p>
+<p>4-5 futuretask类2.avi</p>
+<p><strong>05</strong></p>
+<p>5-1 threadlocal是什么？.avi</p>
+<p>5-10 hashmap链表节点过深时为什么选择使用红黑树2？.avi</p>
+<p>5-11 hashmap链表节点过深时为什么选择使用红黑树3？.avi</p>
+<p>5-12 什么是hash碰撞，发生hash碰撞怎么办？.avi</p>
+<p>5-13 concurrenthashmap的底层实现原理1？.avi</p>
+<p>5-14 concurrenthashmap的底层实现原理2？.avi</p>
+<p>5-15 threadlocal的实现原理？.avi</p>
+<p>5-16 threadlocal为什么会发生内存泄漏？.avi</p>
+<p>5-2 threadlocal应用.avi</p>
+<p>5-3 说说你对hashmap的理解和认识？.avi</p>
+<p>5-4 hashmap有哪些主要特征和注意事项？.avi</p>
+<p>5-5 说说hashmap的底层数据存储结构？.avi</p>
+<p>5-6 hashmap多线程条件下死循环是怎么回事？.avi</p>
+<p>5-7 多线程条件下hashmap数据丢失问题？.avi</p>
+<p>5-8 多线程条件下hashmap都存在什么问题？.avi</p>
+<p>5-9 hashmap链表节点过深时为什么选择使用红黑树1？.avi</p>
+<p><strong>bjpowernode.com.zip</strong></p>
+<p><strong>细说java多线程与并发编程.pdf</strong></p>
+<p><strong>细说java多线程与并发编程课程概述.mp4</strong></p>
+</blockquote>
+<h3 id="课程下载">课程下载
+</h3><p><a class="link" href="https://pan.quark.cn/s/2c28bf9b530b"  target="_blank" rel="noopener"
+    >https://pan.quark.cn/s/2c28bf9b530b</a></p>
+
+</section>
+ <footer class="article-footer">
+    
+
+    </footer>
+ 
+</article>
+
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/18810/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">小肩膀：反爬虫AST混淆JavaScript与还原实战，视频&#43;资料 价值299元</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/55405/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">谢公子：红队培训之内网渗透，视频&#43;课件资料</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/55855/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">零声教育：音视频流媒体高级开发课程，视频&#43;资料(132G) 价值千元</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/41270/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">2024最新易语言课程0基础入门课程【全流程实战】</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/52202/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">陈涛虚拟化KVM进阶实践，视频&#43;资料 价值199元</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+	<section class="copyright">
+		&copy;  2024 KUL藏宝库
+	</section>
+	
+	<section class="running-time">
+		本博客已稳定运行
+		<span id="runningdays" class="running-days"></span>
+	</section>
+	<section class="powerby">
+		 <br />
+		
+	</section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+</main>
+		</div>
+		<script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+<script>
+	let s1 = "2023-3-18"; 
+	s1 = new Date(s1.replace(/-/g, "/"));
+	let s2 = new Date();
+	let timeDifference = s2.getTime() - s1.getTime();
+
+	let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+	let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+	let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+	let result = days + "天" + hours + "小时" + minutes + "分钟";
+	document.getElementById("runningdays").innerHTML = result;
+</script>
+
+	</body>
+</html>

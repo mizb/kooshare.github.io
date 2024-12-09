@@ -7,7 +7,312 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 09 Dec 2024 18:11:53 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 10 Dec 2024 05:43:09 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Fiddler抓包工具 5.0.20245 绿色版</title>
+        <link>https://www.danlong360.com/post/82167/</link>
+        <pubDate>Tue, 10 Dec 2024 05:43:09 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/82167/</guid>
+        <description>&lt;p&gt;Fiddler 是一款功能强大的网络调试代理工具，广泛应用于开发人员、测试人员和网络安全专家的日常工作中。它能够捕获、分析和调试HTTP/HTTPS流量，帮助用户深入了解网络请求和响应的细节。凭借其直观的界面和丰富的功能，Fiddler 不仅适用于调试Web应用程序，还支持API测试、性能优化以及网络安全监测，是开发和维护网络应用时不可或缺的利器。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/82167/image-20241210054353145.png&#34;
+	width=&#34;865&#34;
+	height=&#34;490&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241210054353145&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;176&#34;
+		data-flex-basis=&#34;423px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;HTTP/HTTPS流量捕获与调试
+&lt;ul&gt;
+&lt;li&gt;能够自动捕获并显示所有经过计算机的HTTP/HTTPS请求和响应数据。用户可以实时查看和分析网络流量，轻松识别和解决潜在的性能瓶颈或错误。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;请求和响应修改
+&lt;ul&gt;
+&lt;li&gt;支持对网络请求和响应进行修改，用户可以更改请求头、请求体、响应头和响应内容，方便进行调试和测试不同的网络条件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Web性能分析与优化
+&lt;ul&gt;
+&lt;li&gt;提供强大的性能分析功能，能够显示Web请求的加载时间、响应时间以及资源占用情况，帮助开发者优化网站性能，减少延迟和提高用户体验。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;HTTPS解密与调试
+&lt;ul&gt;
+&lt;li&gt;支持HTTPS流量的解密，允许用户捕获并分析加密的HTTPS请求和响应。这对调试加密通信、API请求和安全测试非常有帮助。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;自动化脚本与自定义规则
+&lt;ul&gt;
+&lt;li&gt;提供Script功能，支持JavaScript编写自定义脚本和规则，用户可以通过脚本自动化特定的调试任务、流量修改或请求重放，提升工作效率。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;请求重放与模拟
+&lt;ul&gt;
+&lt;li&gt;支持重放捕获的网络请求，使开发者能够模拟相同的请求并重新评估其行为，尤其在调试API接口或测试不同的网络环境时尤为实用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Session保存与导出
+&lt;ul&gt;
+&lt;li&gt;用户可以将捕获到的网络流量会话保存为文件，并将其导出为HAR格式或其他格式，方便进行后续分析或与团队成员共享调试信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;网络安全测试与漏洞分析
+&lt;ul&gt;
+&lt;li&gt;Fiddler的高级功能使其成为渗透测试和安全审计的重要工具。用户可以检查HTTP请求中的安全漏洞、分析加密协议、进行中间人攻击模拟等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;流量过滤与搜索
+&lt;ul&gt;
+&lt;li&gt;提供强大的流量过滤与搜索功能，用户可以根据URL、请求类型、响应状态码等进行筛选，快速定位问题并高效分析复杂的流量数据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;可扩展性与插件支持
+&lt;ul&gt;
+&lt;li&gt;支持插件扩展，用户可以通过安装额外的插件来扩展其功能，如集成第三方工具、增加新的数据分析功能等，满足多样化的工作需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODhNLv0EKqQO88_QWNTw2jdA1?pwd=qqva&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODhNLv0EKqQO88_QWNTw2jdA1?pwd=qqva&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Seelen UI(个性化Win11/Win10桌面美化工具) v2.0.9</title>
+        <link>https://www.danlong360.com/post/25354/</link>
+        <pubDate>Tue, 10 Dec 2024 05:27:00 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/25354/</guid>
+        <description>&lt;p&gt;Seelen UI 是一款专注于用户界面设计和原型制作的工具，广泛应用于设计师、开发人员和产品经理中。它提供了一套强大的设计工具和资源，帮助用户快速创建和测试用户界面原型。Seelen UI 支持多种设计平台和框架，可以与现有的设计和开发工具无缝集成，为用户提供高效的设计解决方案。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/25354/20241210_052709.png&#34;
+	width=&#34;640&#34;
+	height=&#34;418&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;153&#34;
+		data-flex-basis=&#34;367px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面设计：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;拖拽组件：提供丰富的预设组件库，用户可以通过拖拽操作快速构建界面。
+自定义组件：支持自定义组件，用户可以创建和保存自己的组件库。
+响应式设计：支持响应式设计，用户可以轻松创建适应不同屏幕尺寸的界面。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;原型制作：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;交互设计：支持交互设计，用户可以添加点击、滑动、滚动等交互效果。
+页面链接：支持页面链接功能，用户可以创建多个页面并进行跳转。
+动画效果：支持动画效果，用户可以为界面元素添加过渡动画，增强用户体验。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;团队协作：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;多人协作：支持多人协作功能，团队成员可以实时编辑和评论同一个项目。
+版本控制：支持版本控制功能，用户可以保存和回滚不同版本的设计稿。
+评论和反馈：支持评论和反馈功能，团队成员可以互相交流和讨论设计细节。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;资源管理：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;样式库：提供丰富的样式库，用户可以快速应用和管理界面样式。
+图标库：提供大量的图标库，用户可以快速添加和使用图标。
+字体管理：支持字体管理功能，用户可以导入和使用自定义字体。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;导出和分享：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;多格式导出：支持多种格式导出，包括 PNG、JPEG、SVG、PDF 等。
+代码导出：支持代码导出功能，用户可以导出 HTML、CSS 和 JavaScript 代码。
+在线分享：支持在线分享功能，用户可以生成链接并分享给团队成员或客户。&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;集成和扩展：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;插件支持：支持插件扩展功能，用户可以安装和使用第三方插件，扩展工具的功能。
+API 接口：提供 API 接口，用户可以与其他设计和开发工具进行集成。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;用户友好的界面：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;直观的操作界面：提供直观易用的操作界面，适合不同水平的用户。
+自定义设置：支持自定义设置，用户可以根据自己的需求调整工具和面板的布局。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;强大的设计工具：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;拖拽组件：提供丰富的预设组件库，用户可以通过拖拽操作快速构建界面。
+自定义组件：支持自定义组件，用户可以创建和保存自己的组件库。
+响应式设计：支持响应式设计，用户可以轻松创建适应不同屏幕尺寸的界面。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;高效的原型制作：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;交互设计：支持交互设计，用户可以添加点击、滑动、滚动等交互效果。
+页面链接：支持页面链接功能，用户可以创建多个页面并进行跳转。
+动画效果：支持动画效果，用户可以为界面元素添加过渡动画，增强用户体验。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;强大的团队协作功能：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;多人协作：支持多人协作功能，团队成员可以实时编辑和评论同一个项目。
+版本控制：支持版本控制功能，用户可以保存和回滚不同版本的设计稿。
+评论和反馈：支持评论和反馈功能，团队成员可以互相交流和讨论设计细节。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;丰富的资源管理：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;样式库：提供丰富的样式库，用户可以快速应用和管理界面样式。
+图标库：提供大量的图标库，用户可以快速添加和使用图标。
+字体管理：支持字体管理功能，用户可以导入和使用自定义字体。&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;灵活的导出和分享选项：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;多格式导出：支持多种格式导出，满足不同需求。
+代码导出：支持代码导出功能，方便前端开发人员使用。
+在线分享：支持在线分享功能，方便团队成员和客户的审阅和反馈。&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;高度的集成和扩展性：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;插件支持：支持插件扩展功能，用户可以安装和使用第三方插件，扩展工具的功能。
+API 接口：提供 API 接口，用户可以与其他设计和开发工具进行集成。&lt;/p&gt;
+&lt;p&gt;退出软件的方法，在设置那个醒目的退出，是退出设置，在“信息”里的才是关闭软件的所有功能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODhLKoCO6a-Op5jkaPqvIOfA1?pwd=rhv3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODhLKoCO6a-Op5jkaPqvIOfA1?pwd=rhv3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>WinTools.net Premium(系统优化软件) v24.12.1 多语便携版</title>
+        <link>https://www.danlong360.com/post/80239/</link>
+        <pubDate>Tue, 10 Dec 2024 05:26:19 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/80239/</guid>
+        <description>&lt;p&gt;WinTools.net是一款功能强大的系统优化软件，主要用于修复Windows系统错误，加快电脑速度，保护个人隐私，例如清理无用的文件、注册表项、优化系统设置等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/80239/20241210_052629.png&#34;
+	width=&#34;640&#34;
+	height=&#34;415&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;154&#34;
+		data-flex-basis=&#34;370px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1.系统清理：可以帮助您删除系统中不需要的临时文件、无效注册表项、无用的快捷方式等，释放磁盘空间，提升系统运行速度。
+2.系统优化：可以对系统进行优化设置，提高系统性能，加快启动速度，提升软件运行效率。
+3.系统调整：可以对系统设置进行调整，优化系统配置，提高系统运行稳定性。
+4.隐私保护：可以帮助您保护个人隐私，清除浏览记录、Cookie等，防止个人信息泄露。
+5.文件工具：可以帮助您管理文件，查看文件属性、修改文件权限等。
+6.注册表工具：可以帮助您管理系统注册表，修复错误注册表项，提高系统稳定性。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.界面简洁直观：WinTools.net拥有简洁直观的用户界面，操作简单方便，适合各种用户使用。
+2.功能强大全面：WinTools.net集成了系统清理、系统优化、系统调整、隐私保护等多种功能，满足用户各种需求。
+3.操作安全可靠：WinTools.net具有严格的安全机制，操作过程安全可靠，不会损坏系统文件。
+4.定期更新升级：WinTools.net的开发团队定期更新软件版本，持续优化软件性能，提供更好的用户体验。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODhLHpHu-qa4-kWEruplxk1A1?pwd=yzyg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODhLHpHu-qa4-kWEruplxk1A1?pwd=yzyg&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>WindowTop(窗口置顶工具) Pro v5.25.2 / 5.26.0 Beta 中文绿色版</title>
+        <link>https://www.danlong360.com/post/17758/</link>
+        <pubDate>Tue, 10 Dec 2024 05:25:39 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/17758/</guid>
+        <description>&lt;p&gt;WindowTop是一款用于Windows操作系统的实用工具，它可以帮助用户对窗口进行管理和优化，提升工作效率。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/17758/20241210_052549.png&#34;
+	width=&#34;640&#34;
+	height=&#34;466&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;329px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;置顶窗口：可以将任意窗口置顶在屏幕最前方，以便随时查看并操作。
+窗口透明：可以调整窗口的透明度，方便在需要的时候快速查看其他窗口的内容。
+窗口缩放：可以通过鼠标滚轮或快捷键来调整窗口的大小，以适应屏幕空间。
+窗口保持：可以将某个窗口始终保持在屏幕上，不会被其他窗口遮挡。
+多窗口管理：可以在屏幕上同时显示多个窗口，方便进行多任务操作。
+自定义设置：可以根据个人喜好设置窗口管理的快捷键和缩放比例等。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简洁易用：WindowTop的操作界面简单直观，即使对电脑操作不熟悉的用户也可以轻松上手。
+功能丰富：除了基本的窗口管理功能外，WindowTop还支持窗口阴影、窗口布局等高级功能。
+资源占用低：WindowTop是一个轻量级的软件，不会占用太多的系统资源，对电脑的性能影响较小。
+兼容性强：WindowTop与Windows操作系统完美兼容，可以在Windows XP及更高版本上使用。
+持续更新：WindowTop的开发者团队定期更新软件，为用户带来更好的使用体验和新的功能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODhLBnK7o7-OpUmmWYj-CDXA1?pwd=pq3i&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODhLBnK7o7-OpUmmWYj-CDXA1?pwd=pq3i&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Tablacus Explorer(资源管理器替代品) v24.12.09 中文绿色版</title>
+        <link>https://www.danlong360.com/post/1269/</link>
+        <pubDate>Tue, 10 Dec 2024 05:24:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/1269/</guid>
+        <description>&lt;p&gt;Tablacus Explorer是一个免费的Windows资源管理器替代品，它提供了许多高级功能和自定义选项，使用户能够更轻松地管理文件和文件夹。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/1269/20241210_052506.png&#34;
+	width=&#34;569&#34;
+	height=&#34;454&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;125&#34;
+		data-flex-basis=&#34;300px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;多窗口浏览，方便同时管理多个文件夹和文件。&lt;/li&gt;
+&lt;li&gt;支持自定义命令，能够快速执行常用操作。&lt;/li&gt;
+&lt;li&gt;支持插件扩展，可以安装插件来增强功能。&lt;/li&gt;
+&lt;li&gt;支持快捷键操作，能够快速执行各种操作。&lt;/li&gt;
+&lt;li&gt;支持多种视图模式，包括图标、列表、详细信息等。&lt;/li&gt;
+&lt;li&gt;支持文件夹书签和历史记录，方便访问常用文件夹。&lt;/li&gt;
+&lt;li&gt;支持文件预览，能够快速浏览各种文件类型。&lt;/li&gt;
+&lt;li&gt;支持文件夹比较，能够比较两个文件夹的内容差异。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;轻量级：Tablacus Explorer 的安装包非常小，下载和安装都非常快速。&lt;/li&gt;
+&lt;li&gt;易用性：Tablacus Explorer 的界面简单直观，易于操作和使用。&lt;/li&gt;
+&lt;li&gt;可定制性：Tablacus Explorer 支持多种插件和自定义命令，能够根据个人需求进行定制。&lt;/li&gt;
+&lt;li&gt;多国语言支持：Tablacus Explorer 支持多种语言，包括英语、法语、日语、中文等。&lt;/li&gt;
+&lt;li&gt;免费开源：Tablacus Explorer 是一款完全免费，开源的软件，任何人都可以自由使用和修改。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODhL8VH7hWK82-AmJYlMJeTA1?pwd=896c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODhL8VH7hWK82-AmJYlMJeTA1?pwd=896c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>SQLiteStudio(SQLite数据库管理工具) v3.4.9 中文绿色版</title>
         <link>https://www.danlong360.com/post/82977/</link>
         <pubDate>Mon, 09 Dec 2024 18:11:53 +0800</pubDate>

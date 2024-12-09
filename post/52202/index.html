@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+	<head><meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="\n本套课程虚拟化KVM进阶实践，课程官方售价199元，由陈涛老师主讲，内容共13章89节完整版，包含视频以及相关资料，共5.68G。文章底部附下载地址。\n"> <title>陈涛虚拟化KVM进阶实践，视频&#43;资料 价值199元</title>
+
+<link rel="canonical" href="https://www.danlong360.com/post/52202/" />  <link rel="stylesheet" href="/scss/style.min.22d29e275a5ae60d82d8e2994d797689c0d9c913f73af961ab29f88fb95f5419.css" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
+     crossorigin="anonymous">
+</script><meta property='og:title' content="陈涛虚拟化KVM进阶实践，视频+资料 价值199元">
+<meta property='og:description' content="\n本套课程虚拟化KVM进阶实践，课程官方售价199元，由陈涛老师主讲，内容共13章89节完整版，包含视频以及相关资料，共5.68G。文章底部附下载地址。\n">
+<meta property='og:url' content='https://www.danlong360.com/post/52202/'>
+<meta property='og:site_name' content='KUL藏宝库'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-12-09T22:35:04&#43;08:00'/><meta property='article:modified_time' content='2024-12-09T22:35:04&#43;08:00'/>
+<meta name="twitter:title" content="陈涛虚拟化KVM进阶实践，视频+资料 价值199元">
+<meta name="twitter:description" content="\n本套课程虚拟化KVM进阶实践，课程官方售价199元，由陈涛老师主讲，内容共13章89节完整版，包含视频以及相关资料，共5.68G。文章底部附下载地址。\n">
+<link rel="shortcut icon" href="/favicon.ico" />
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-K19J3P52BR"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-K19J3P52BR');
+        }
+      </script>
+
+	</head>
+	<body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu12742395681378621043.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">KUL藏宝库</a></h1>
+            <h2 class="site-description">纯净软件爱好者</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>存档</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#课程文件目录">课程文件目录</a></li>
+        <li><a href="#课程下载">课程下载</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+			<main class="main full-width">
+    <article class="main-article">
+	<header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E8%AF%BE%E7%A8%8B/" >
+                课程
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/52202/">陈涛虚拟化KVM进阶实践，视频&#43;资料 价值199元</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024-12-09</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header> <section class="article-content">
+    
+    
+    <p><img src="/post/52202/3d13e67793ac861-142.jpg"
+	width="432"
+	height="284"
+	
+	loading="lazy"
+	
+		alt="陈涛•虚拟化KVM进阶实践"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="152"
+		data-flex-basis="365px"
+	
+></p>
+<p>本套课程虚拟化KVM进阶实践，课程官方售价199元，由陈涛老师主讲，内容共13章89节完整版，包含视频以及相关资料，共5.68G。文章底部附下载地址。</p>
+<h3 id="课程文件目录">课程文件目录
+</h3><blockquote>
+<p><strong>第01章 课程概述</strong></p>
+<p>1-1 课程概述.mp4</p>
+<p><strong>第02章 虚拟网络高级特性</strong></p>
+<p>2-1 配置网卡绑定1.mp4</p>
+<p>2-2 配置网卡绑定2.mp4</p>
+<p>2-3 配置vlan1.mp4</p>
+<p>2-4 配置vlan2.mp4</p>
+<p>2-5 配置vlan3.mp4</p>
+<p>2-6 配置网络过滤提高安全性1.mp4</p>
+<p>2-7 配置网络过滤提高安全性2.mp4</p>
+<p>2-8 配置网络过滤提高安全性3.mp4</p>
+<p><strong>第03章 虚拟机迁移</strong></p>
+<p>3-1 迁移概述1.mp4</p>
+<p>3-2 迁移概述2.mp4</p>
+<p>3-3 静态迁移.mp4</p>
+<p>3-4 基于共享存储的动态迁移1.mp4</p>
+<p>3-5 基于共享存储的动态迁移2.mp4</p>
+<p>3-6 基于共享存储的动态迁移3.mp4</p>
+<p>3-7 基于本地存储的动态迁移1.mp4</p>
+<p>3-8 基于本地存储的动态迁移2.mp4</p>
+<p><strong>第04章 linux ha群集体系结构</strong></p>
+<p>4-1 linux集群发展史.mp4</p>
+<p>4-2 pacemaker+corosync的ha体系结构.mp4</p>
+<p><strong>第05章 linux群集安装与配置</strong></p>
+<p>5-1 规划设计.mp4</p>
+<p>5-2 群集组件安装.mp4</p>
+<p>5-3 群集节点准备1.mp4</p>
+<p>5-4 群集节点准备2.mp4</p>
+<p>5-5 群集的创建.mp4</p>
+<p><strong>第06章 基于nfs的kvm群集构建</strong></p>
+<p>6-1 规划设计与节点准备.mp4</p>
+<p>6-2 nfs服务器配置与虚拟机迁移.mp4</p>
+<p>6-3 创建高可用虚拟机1.mp4</p>
+<p>6-4 创建高可用虚拟机2.mp4</p>
+<p>6-5 创建高可用虚拟机3.mp4</p>
+<p>6-6 配置stonth（ipmi).mp4</p>
+<p><strong>第07章 基于iscsi的kvm群集构建</strong></p>
+<p>7-1 规划设计与节点准备.mp4</p>
+<p>7-2 配置iscsi target1.mp4</p>
+<p>7-3 配置iscsi target2.mp4</p>
+<p>7-4 配置stonith（disk).mp4</p>
+<p>7-5 配置dlm.mp4</p>
+<p>7-6 配置clvm.mp4</p>
+<p>7-7 配置gfs2.mp4</p>
+<p>7-8 向群集添加虚拟机资源1.mp4</p>
+<p>7-9 向群集添加虚拟机资源2.mp4</p>
+<p><strong>第08章 基于drbd的kvm群集构建</strong></p>
+<p>8-1 规划设计与节点准备.mp4</p>
+<p>8-10 向群集添加虚拟机资源.mp4</p>
+<p>8-2 drbd概述.mp4</p>
+<p>8-3 drbd安装与配置.mp4</p>
+<p>8-4 双主drbd资源准备1.mp4</p>
+<p>8-5 双主drbd资源准备2.mp4</p>
+<p>8-6 配置stonith（virtd).mp4</p>
+<p>8-7 配置dlm和drbd资源.mp4</p>
+<p>8-8 配置clvm.mp4</p>
+<p>8-9 配置gfs2.mp4</p>
+<p><strong>第09章 p2v、v2v迁移</strong></p>
+<p>9-1 迁移方案概述.mp4</p>
+<p>9-2 准备宿主机.mp4</p>
+<p>9-3 物理机到虚拟机迁移1.mp4</p>
+<p>9-4 物理机到虚拟机迁移2.mp4</p>
+<p>9-5 虚拟机到虚拟机迁移.mp4</p>
+<p><strong>第10章 嵌套虚拟化</strong></p>
+<p>10-1 嵌套虚拟化原理.mp4</p>
+<p>10-2 在kvm上运行kvm与esxi.mp4</p>
+<p>10-3 在kvm上运行hyper-v的问题.mp4</p>
+<p><strong>第11章 备份与恢复</strong></p>
+<p>11-1 备份恢复概述.mp4</p>
+<p>11-2 guest agent与快照原理.mp4</p>
+<p>11-3 通过virt-manager管理快照1.mp4</p>
+<p>11-4 通过virt-manager管理快照2.mp4</p>
+<p>11-5 通过virsh管理快照.mp4</p>
+<p>11-6 kvm备份与恢复1.mp4</p>
+<p>11-7 kvm备份与恢复2.mp4</p>
+<p>11-8 备份脚本实现.mp4</p>
+<p><strong>第12章 性能监视与优化</strong></p>
+<p>12-1 性能监视与优化方法.mp4</p>
+<p>12-2 rhel-centos 7 kvm性能特性和改进.mp4</p>
+<p>12-3 virt-manager中的性能管理.mp4</p>
+<p>12-4 网络性能优化.mp4</p>
+<p>12-5 存储性能优化.mp4</p>
+<p>12-6 内存与cpu性能优化.mp4</p>
+<p><strong>第13章 ovirt安装与基本管理</strong></p>
+<p>13-1 ovirt概述.mp4</p>
+<p>13-10 配置网络.mp4</p>
+<p>13-11 创建windows虚拟机1.mp4</p>
+<p>13-12 创建windows虚拟机2.mp4</p>
+<p>13-13 创建linux虚拟机及配置ovirt agent.mp4</p>
+<p>13-14 上传已有kvm镜像.mp4</p>
+<p>13-15 创建及使用模板.mp4</p>
+<p>13-16 了解ovirt群集.mp4</p>
+<p>13-17 用户、角色及权限管理.mp4</p>
+<p>13-18 备份与恢复.mp4</p>
+<p>13-2 ovirt部署要求.mp4</p>
+<p>13-3 ovirt引擎安装1.mp4</p>
+<p>13-4 ovirt引擎安装2.mp4</p>
+<p>13-5 ovirt引擎安装3.mp4</p>
+<p>13-6 安装 centos 7节点.mp4</p>
+<p>13-7 安装ovirt node节点.mp4</p>
+<p>13-8 配置数据中心.mp4</p>
+<p>13-9 配置数据及iso域.mp4</p>
+<p><strong>资料</strong></p>
+<p>10-1、10嵌套虚拟化.pdf</p>
+<p>10-2、10嵌套虚拟化-实验手册.doc</p>
+<p>1-1、01课程概述.pdf</p>
+<p>11-1、11备份与恢复.pdf</p>
+<p>12-1、12性能监视与优化.pdf</p>
+<p>13-1、快速入门指南-quickstartguide.docx</p>
+<p>13-18、13ovirt安装与基本管理.pdf</p>
+<p>13-2、开源虚拟化平台ovirt管理手册v1.pdf</p>
+<p>2-1、02虚拟网络高级特性.pdf</p>
+<p>3-1、03虚拟机迁移.pdf</p>
+<p>3-2、03实时迁移v3-实验手册.doc</p>
+<p>4-1、04kvm群集概述.pdf</p>
+<p>5-1、05linux高可用群集安装.pdf</p>
+<p>6-1、06基于nfs的kvm群集构建.pdf</p>
+<p>6-2、06基于nfs的kvm群集v2-实验手册.doc</p>
+<p>7-1、07基于iscsi的kvm群集构建.pdf</p>
+<p>7-2、07基于iscsi的kvm群集v6-实验手册.doc</p>
+<p>8-1、08基于drbd的kvm群集构建.pdf</p>
+<p>8-2、08基于drbd的kvm群集v2-实验手册.doc</p>
+<p>9-1、09p2v、v2v迁移.pdf</p>
+<p>9-2、09p2v v2v实验手册.doc</p>
+</blockquote>
+<h3 id="课程下载">课程下载
+</h3><p><a class="link" href="https://pan.quark.cn/s/1d4c0a4d8d13"  target="_blank" rel="noopener"
+    >https://pan.quark.cn/s/1d4c0a4d8d13</a></p>
+
+</section>
+ <footer class="article-footer">
+    
+
+    </footer>
+ 
+</article>
+
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/18810/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">小肩膀：反爬虫AST混淆JavaScript与还原实战，视频&#43;资料 价值299元</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/55405/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">谢公子：红队培训之内网渗透，视频&#43;课件资料</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/55855/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">零声教育：音视频流媒体高级开发课程，视频&#43;资料(132G) 价值千元</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/41270/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">2024最新易语言课程0基础入门课程【全流程实战】</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/19737/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">数据结构严蔚敏C语言版，教你实现数据结构视频课程，视频 价值299元</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+	<section class="copyright">
+		&copy;  2024 KUL藏宝库
+	</section>
+	
+	<section class="running-time">
+		本博客已稳定运行
+		<span id="runningdays" class="running-days"></span>
+	</section>
+	<section class="powerby">
+		 <br />
+		
+	</section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+</main>
+		</div>
+		<script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+<script>
+	let s1 = "2023-3-18"; 
+	s1 = new Date(s1.replace(/-/g, "/"));
+	let s2 = new Date();
+	let timeDifference = s2.getTime() - s1.getTime();
+
+	let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+	let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+	let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+	let result = days + "天" + hours + "小时" + minutes + "分钟";
+	document.getElementById("runningdays").innerHTML = result;
+</script>
+
+	</body>
+</html>

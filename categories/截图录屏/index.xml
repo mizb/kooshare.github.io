@@ -7,7 +7,54 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 09 Dec 2024 11:48:59 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 10 Dec 2024 05:14:36 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PixPin截图工具(支持截长图截动图) v1.9.5.0 / 1.9.8.0 beta 中文绿色版</title>
+        <link>https://www.danlong360.com/post/16620/</link>
+        <pubDate>Tue, 10 Dec 2024 05:14:36 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/16620/</guid>
+        <description>&lt;p&gt;PixPin截图工具适用于Windows系统，它的主要功能是帮助用户轻松地截取屏幕上的任意区域，并将其保存为图片文件，用户可以自由地选择要截取的屏幕区域，无论是整个屏幕、某个窗口还是任意形状的区域，都可以轻松地被截取下来，还支持滚动截图和自动滚动截取长页面的功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/16620/20241210_051453.png&#34;
+	width=&#34;640&#34;
+	height=&#34;442&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;144&#34;
+		data-flex-basis=&#34;347px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h3&gt;&lt;p&gt;截图
+自动识别窗口元素，可使用滚轮切换父/子元素
+附带各种标注工具
+贴图
+把剪贴板的图片/文字贴到其他窗口最上层，方便参考查阅
+自动识别图片上的文字，离线识别引擎，无数据上传
+提供标注工具方便二次标注
+截长图
+智能图像识别算法自动捕捉滚动的图片
+截动图
+把操作过程保存为 Gif/Png/Webp 动图
+提供标注过程，可以在录制过程中方便地标注&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v1.9.5 更新日志
+2024年11月07日
+1.9.5版本对录制动图功能做了大更新，支持保存为MP4格式，增加了播放进度条的控制，可以调节播放速度。
+在截图的时候可以设置阴影和边框，标注方面增加了聚光灯，可以在截图上增加聚光灯效果，突出显示某个区域。
+会员功能增加了裁剪动图和表格识别，优化了动图录制的按键显示，可以设置按键的字体颜色和背景颜色。&lt;/p&gt;
+&lt;p&gt;2024年12月09日
+此版本主要是优化和修复BUG，增强软件的稳定性&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODhKrsdUaMf0noeAimp0psyA1?pwd=s9z8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODhKrsdUaMf0noeAimp0psyA1?pwd=s9z8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Fast Screen Recorder(屏幕录制软件) v2.1.0.9 多语便携版</title>
         <link>https://www.danlong360.com/post/4252/</link>
         <pubDate>Mon, 09 Dec 2024 11:48:59 +0800</pubDate>
