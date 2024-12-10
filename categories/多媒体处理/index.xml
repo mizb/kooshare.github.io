@@ -7,7 +7,155 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 10 Dec 2024 18:36:38 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Dec 2024 07:07:35 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ACDSee Ultimate(ACDSee2025旗舰版) v18.0.0.3996 精简版</title>
+        <link>https://www.danlong360.com/post/31774/</link>
+        <pubDate>Wed, 11 Dec 2024 07:07:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/31774/</guid>
+        <description>&lt;p&gt;ACDSee Ultimate是ACD Systems公司推出的一款综合性数字资产管理软件，提供了完整的数字照片管理，浏览，编辑，组织及发布解决方案。它能够处理多种不同格式的图像，视频和音频文件，拥有许多高级编辑功能和效果，能够满足专业摄影师和高级用户的需求。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/31774/20241211_070747.png&#34;
+	width=&#34;640&#34;
+	height=&#34;407&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;157&#34;
+		data-flex-basis=&#34;377px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;图片管理：能够管理成千上万张图片，并支持批量重命名、分类、关键词标注、打标记等操作。&lt;/li&gt;
+&lt;li&gt;高级编辑：提供了丰富的编辑功能，包括去除杂色、色差校正、色调、正片叠底、高光阴影，以及饱和度和清晰度的调整等。&lt;/li&gt;
+&lt;li&gt;图像处理：支持批量调整大小和缩放图片，调整图像曝光度、亮度以及对比度，以及直方图方面的处理。&lt;/li&gt;
+&lt;li&gt;视频处理：支持多种视频格式，可以对视频进行剪切、分割、调整速度、添加滤镜等。&lt;/li&gt;
+&lt;li&gt;音频处理：支持多种音频格式，可以对音频进行剪切、录制、合并、混音等操作。&lt;/li&gt;
+&lt;li&gt;云存储：支持将图片、视频和音频文件上传到云端进行存储，并与其他设备同步，可以随时随地进行访问。&lt;/li&gt;
+&lt;li&gt;发布：可以快速地将图片和视频发布到社交媒体网站，例如Facebook、Flickr和500px等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;常见问题&#34;&gt;常见问题
+&lt;/h3&gt;&lt;p&gt;Q：这软件越来越特么的大，到底更新了什么
+A：请看官网https://www.acdsee.cn/support/technical#acdseeultimate2023
+Q：XP系统不能用怎么办
+A：请使用Pro 7.1.163，上面网盘里有下载，该版本是最后一个支持XP的版本
+Q：32位系统不能用怎么办
+A：请使用Pro 9.3.0.546，上面网盘里有下载，该版本是本人推荐的支持32位的较新版本
+Q：启动时提示找不到api-ms-win-crt-runtime-l1-1-0.dll，无法运行
+A：请安装Visual C++ 2015 Redistributable (x64)
+Q：启动时提示找不到d3dx9_XX.dll，无法运行
+A：请安装DirectX 9.0c
+Q：编辑图片时提示本应用必需的功能在您的电脑上不支持
+A：请安装NET Framework 4.5或更高版本
+Q：以前用10.0编辑分辨率大于600dpi的TIF图像时经常崩溃，之后再打开就提示来源数据无法识别，是不是文件损坏了
+A：这是10.0的一个高发bug，尚未测试后来的版本是否存在。用PS打开损坏的文件，另存为一遍即可。如果你重复遇到此问题，请用9.x版本
+Q：为什么把媒体支持精简了，我想预览文件夹里的视频
+A：实测该插件对各种新编码方案支持很差，预览动画文件夹时经常崩溃，实用性基本为零&lt;/p&gt;
+&lt;h3 id=&#34;该版特色&#34;&gt;该版特色
+&lt;/h3&gt;&lt;p&gt;本软件只支持64位系统，需要DirectX 9.0c、Visual C++ 2019 Redistributable (x64)、NET Framework 4.5或更高版本才能运行，建议使用IE11
+如果启动时提示“ACDSee遇到系统错误并将立即关闭”，删除C:\Users\用户名\AppData\Local\ACD Systems\Catalogs目录即可
+安装此版本前，如果安装过其他任何版本的ACDSee，必须先卸载，并用管理员权限运行压缩包中的“!清除旧版本残留.bat”进行清理。由于原版安装方式本身的bug，如果忽略此步，安装时写入注册表的某些信息可能不正确，导致程序出错&lt;/p&gt;
+&lt;p&gt;该软件由卡饭 jason_jiang 大佬制作。
+基于18.0.0.3996官方中文版制作，使用原版安装方式，安装包大小约为原版的三分之二
+去除三个无用的后台进程
+去除快速上手指南、陈列室、私人文件夹、压缩包创建插件、媒体支持插件、邮件插件、FTP插件、PDF和Office预览插件、字体支持插件、屏幕保护、自述文件、购买提示
+保留主要功能和图像格式支持
+保留ZIP支持、RAR支持
+直接破甲主程序，无需序列号，屏蔽联网验证
+将主界面风格由专业版的黑色调整为家庭版的银灰（一大堆功能罗列在黑色界面上会很伤眼）
+禁止图片批处理向导备份原文件（否则批处理几百张图时会占用大量空间）
+禁止安装卸载后自动打开官网
+禁止提示备份数据库
+禁止界面动画效果
+时间使用24小时制
+浏览界面默认只显示图片和压缩包&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODmq1zRGz-dTukKwyunFSfdA1?pwd=xnsq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODmq1zRGz-dTukKwyunFSfdA1?pwd=xnsq&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Blender(免费开源3D建模工具) v4.3.1 中文绿色版</title>
+        <link>https://www.danlong360.com/post/99915/</link>
+        <pubDate>Wed, 11 Dec 2024 07:06:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/99915/</guid>
+        <description>&lt;p&gt;Blender 支持整个 3D 管道建模，装配，动画，模拟，渲染，合成和运动跟踪，甚至视频编辑和游戏创建。高级用户使用 Blender 的 Python 脚本来定制应用程序并编写专用工具；通常这些都包含在 Blender 的未来版本中。Blender 非常适合从统一管道和响应式开发过程中受益的个人和小型工作室。展示中提供了许多基于 Blender 的项目的示例。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/99915/20241211_070710.png&#34;
+	width=&#34;640&#34;
+	height=&#34;472&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;135&#34;
+		data-flex-basis=&#34;325px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1.3D建模：Blender提供强大的多边形建模工具，可以创建各种形状和物体。
+2.动画制作：用户可以使用Blender创建复杂的动画，包括角色动画、物体运动和摄影机移动。
+3.渲染：Blender内置了先进的渲染引擎，可以生成逼真的渲染效果，并支持光线跟踪和全局照明技术。
+4.视频编辑：用户可以在Blender中进行视频编辑和剪辑，并添加特效和过渡效果。
+5.模拟和动力学：Blender具有模拟和动力学引擎，可以模拟布料、液体、水、粒子等物理效果。
+6.游戏开发：Blender可以用于游戏开发，包括角色建模、场景设计和动画导出。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.开源免费：Blender是一款开源软件，用户可以免费下载和使用。
+2.跨平台：Blender可在多个操作系统上运行，包括Windows、Mac和Linux。
+3.强大的社区支持：Blender拥有活跃的用户社区，用户可以在社区中分享作品、学习和获取支持。
+4.可扩展性：Blender支持插件和脚本，用户可以根据自己的需求扩展功能。
+5.高度自定义：用户可以通过调整界面布局和设置快捷键等方式来个性化定制Blender的工作环境。
+6.直观的用户界面：Blender的用户界面经过精心设计，使其易于学习和使用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODmq-kByqL2SODIR3Zj5uxpA1?pwd=6chj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODmq-kByqL2SODIR3Zj5uxpA1?pwd=6chj&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>FontCreator(专业字体编辑软件) v15.0.0.3013 多语便携版</title>
+        <link>https://www.danlong360.com/post/13572/</link>
+        <pubDate>Tue, 10 Dec 2024 21:10:14 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/13572/</guid>
+        <description>&lt;p&gt;FontCreator是一款专业的字体编辑软件，可以帮助用户设计、制作和编辑自己的字体。它提供了全面的字体编辑工具，使用户能够定制字体的外观和特性，包括字母形状、大小、间距和粗细等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/13572/20241210_091036.png&#34;
+	width=&#34;640&#34;
+	height=&#34;515&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;124&#34;
+		data-flex-basis=&#34;298px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;制作字体：用户可以使用软件中的绘图工具绘制和编辑字母、数字和符号，并创建自定义的字体。
+编辑字体属性：可以调整字母的大小、形状、粗细、间距和对齐等属性，以使字体符合自己的需求。
+导入和导出字体：支持导入和导出常见的字体文件格式，如TrueType、OpenType和PostScript等，方便与其他字体软件或字体库进行兼容和共享。
+自动优化字体：软件提供了字体优化工具，可以自动修复轮廓和路径中的错误，确保字体在不同平台和应用中保持一致的显示效果。
+Unicode支持：支持Unicode字符集，用户可以添加并编辑各种语言和特殊字符。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;直观的用户界面：软件界面简洁清晰，易于使用，适合所有用户，无论是初学者还是专业设计师。
+强大的编辑工具：提供了多种绘图、修改和变换工具，让用户可以灵活地设计和调整字体的外观。
+高度可定制性：用户可以根据自己的需求自定义字体的每个细节，包括字母形状、间距、曲线和颜色等。
+高质量输出：软件支持向常用的设计软件和操作系统中导出字体文件，并保证字体在不同平台和应用中的显示效果一致。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODkghvL2IeyyESY9U4qNHQiA1?pwd=sd5g&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODkghvL2IeyyESY9U4qNHQiA1?pwd=sd5g&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>FireAlpaca(免费数字绘图软件) v2.13.5 多语便携版</title>
         <link>https://www.danlong360.com/post/24815/</link>
         <pubDate>Tue, 10 Dec 2024 18:36:38 +0800</pubDate>

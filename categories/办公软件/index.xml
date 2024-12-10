@@ -7,7 +7,71 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 10 Dec 2024 18:39:42 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Dec 2024 07:08:21 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PDF Guru Anki(PDF文件处理软件) v1.1.25.1</title>
+        <link>https://www.danlong360.com/post/34452/</link>
+        <pubDate>Wed, 11 Dec 2024 07:08:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/34452/</guid>
+        <description>&lt;p&gt;PDF Guru是一款功能强大的PDF处理软件，它提供了多种实用的功能和特点。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/34452/20241211_070837.png&#34;
+	width=&#34;640&#34;
+	height=&#34;452&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;141&#34;
+		data-flex-basis=&#34;339px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;PDF编辑：允许用户编辑PDF文件，包括修改文本、插入和删除页面、合并和拆分文件等。&lt;/li&gt;
+&lt;li&gt;PDF导出：可以将PDF文件转换为其他格式文件，如Word、Excel、PowerPoint和图像文件。&lt;/li&gt;
+&lt;li&gt;PDF批注和标记：提供各种批注和标记工具，如高亮、下划线、划掉、插入注释等，方便用户进行文件标记和共享。&lt;/li&gt;
+&lt;li&gt;PDF安全性：支持设置密码保护PDF文件以防止未授权访问，还可以添加数字签名来确保文档的完整性和可信度。&lt;/li&gt;
+&lt;li&gt;PDF表单填写：允许用户在PDF表单中输入和编辑内容，方便用户填写表格和调查问卷。&lt;/li&gt;
+&lt;li&gt;OCR识别：内置OCR（光学字符识别）技术，可以将扫描的图片或非可编辑PDF转换为可编辑的文本。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;PDF 工具箱功能完全免费，Anki 制卡功能需要付费(亦可免费试用24h)
+完全本地化：无需联网，不必担心隐私泄露
+功能丰富：支持包括PDF批量合并、拆分、添加水印、加密/解密、提取、OCR识别在内的20余项功能
+跨平台：支持在Windows、Mac、Linux设备上使用
+开源免费
+界面简洁，使用简单
+体积小巧(~30M)，绿色免安装，随用随开
+插件化：根据需要选择是否安装额外组件，减小安装包体积&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v1.1.25
+更新内容；&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;视频笔记新增内置播放器，可直接软件内播放视频，无需安装第三方播放器&lt;/li&gt;
+&lt;li&gt;新增PPT制卡菜单，PPT页面作为正面，备注内容作为背面，支持导出PPT备注为docx格式&lt;/li&gt;
+&lt;li&gt;新增支持退出软件到系统托盘(仅限windows)&lt;/li&gt;
+&lt;li&gt;思维导图制卡支持更新卡片&lt;/li&gt;
+&lt;li&gt;思维导图制卡支持自由切换导图模式或大纲模式&lt;/li&gt;
+&lt;li&gt;PDF批量批注支持识别文字颜色批量挖空&lt;/li&gt;
+&lt;li&gt;Excel制卡支持指定sheet&lt;/li&gt;
+&lt;li&gt;Excel判断题制卡支持导入解析&lt;/li&gt;
+&lt;li&gt;PDF合并支持奇偶页合并&lt;/li&gt;
+&lt;li&gt;选择题制卡“答案选项后”模式支持解析位置在前，答案在后&lt;/li&gt;
+&lt;li&gt;MD笔记菜单界面优化&lt;/li&gt;
+&lt;li&gt;卡片朗读增加葡萄牙语&lt;/li&gt;
+&lt;li&gt;修复卡片朗读生成音频失效问题&lt;/li&gt;
+&lt;li&gt;anki编辑栏添加文字挖空工具和图片遮罩修改工具&lt;/li&gt;
+&lt;li&gt;修复一些其他已知问题&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODmu11s943tptcuBPlSdfnkA1?pwd=ecsv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODmu11s943tptcuBPlSdfnkA1?pwd=ecsv&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Adobe Acrobat Pro DC v2024.005.20320 便携版 32位 &amp; 64位</title>
         <link>https://www.danlong360.com/post/22444/</link>
         <pubDate>Tue, 10 Dec 2024 18:39:42 +0800</pubDate>
