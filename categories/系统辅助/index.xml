@@ -7,7 +7,454 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 10 Dec 2024 18:43:03 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Dec 2024 11:46:22 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Custom Resolution Utility(自定义分辨率工具) v1.5.2 汉化绿色版</title>
+        <link>https://www.danlong360.com/post/33133/</link>
+        <pubDate>Wed, 11 Dec 2024 11:46:22 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/33133/</guid>
+        <description>&lt;p&gt;Custom Resolution Utility (CRU) 是一款专为用户设计的高级显示分辨率管理工具，旨在帮助用户自定义和管理显示器的分辨率设置。它允许用户创建、编辑和删除自定义分辨率，确保在不同应用场景下都能获得最佳的视觉体验。CRU 支持多种显示设备，包括笔记本电脑、台式机和多显示器设置，适用于需要精确控制显示分辨率的专业人士和普通用户。软件提供了直观的操作界面和强大的功能，确保用户可以轻松管理和优化显示设置。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/33133/20241211_114631.png&#34;
+	width=&#34;498&#34;
+	height=&#34;535&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;93&#34;
+		data-flex-basis=&#34;223px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;自定义分辨率：用户可以创建新的分辨率设置，指定宽度、高度、刷新率等参数，满足特定应用或设备的需求。
+编辑现有分辨率：允许用户修改现有的分辨率设置，调整参数以优化显示效果，确保在不同应用场景下都能获得最佳视觉体验。
+删除不需要的分辨率：用户可以删除不再使用的分辨率设置，清理系统中的冗余选项，简化选择过程。
+多显示器支持：支持多显示器设置，用户可以在不同的显示器上应用不同的分辨率，确保每个显示器都能发挥最佳性能。
+EDID 管理：提供对扩展显示识别数据（EDID）的管理功能，用户可以查看、编辑和备份 EDID 信息，解决显示兼容性问题。
+实时预览：用户可以在应用新分辨率之前进行实时预览，确保设置符合预期，避免不必要的调整。
+日志记录：记录每次分辨率更改的日志，方便用户跟踪和恢复之前的设置，确保系统的稳定性和可追溯性。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;精确控制：用户可以精确设置分辨率的各项参数，包括宽度、高度和刷新率，确保在不同应用场景下都能获得最佳的视觉体验。
+直观界面：提供简洁明了的操作界面，用户可以轻松找到所需功能，无需复杂的培训或技术支持，快速上手。
+多显示器优化：支持多显示器设置，用户可以在不同的显示器上应用不同的分辨率，确保每个显示器都能发挥最佳性能。
+EDID 管理：提供对 EDID 的管理功能，用户可以查看、编辑和备份 EDID 信息，解决显示兼容性问题，确保设备之间的良好配合。
+实时预览：用户可以在应用新分辨率之前进行实时预览，确保设置符合预期，避免不必要的调整，提高工作效率。
+日志记录：记录每次分辨率更改的日志，方便用户跟踪和恢复之前的设置，确保系统的稳定性和可追溯性。
+跨平台支持：适用于 Windows 操作系统，确保用户在不同环境下都能高效管理显示分辨率。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODns0cJX8ggVsJBiJspupsXA1?pwd=6cfp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODns0cJX8ggVsJBiJspupsXA1?pwd=6cfp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MyLanViewer(局域网IP扫描软件) v6.2.1 便携版</title>
+        <link>https://www.danlong360.com/post/79668/</link>
+        <pubDate>Wed, 11 Dec 2024 11:44:25 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/79668/</guid>
+        <description>&lt;p&gt;MyLanViewer是一款实用的局域网IP扫描工具，可以帮助用户快速扫描局域网内的所有设备，并显示设备的IP地址、主机名、MAC地址等信息。同时，MyLanViewer还提供了远程关机、远程唤醒、远程执行命令等功能，方便用户管理局域网内的设备。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/79668/20241211_114434.png&#34;
+	width=&#34;563&#34;
+	height=&#34;438&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;128&#34;
+		data-flex-basis=&#34;308px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;IP扫描：快速扫描局域网内的所有设备，显示设备的IP地址、主机名、MAC地址等信息。
+远程关机：支持远程关机局域网内的计算机，方便远程管理。
+远程唤醒：支持远程唤醒局域网内的计算机，方便远程管理。
+远程执行命令：支持远程在局域网内的计算机上执行命令，方便管理设备。
+录像监控：支持录像监控局域网内的设备，查看实时视频。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁：MyLanViewer界面简洁直观，操作简单方便。
+功能强大：除了IP扫描外，还支持远程管理局域网内的设备，功能强大实用。
+兼容性好：MyLanViewer兼容Windows操作系统，支持多种网络协议。
+安全保障：MyLanViewer采用安全加密技术，保障用户数据安全。
+更新及时：MyLanViewer定期更新，增加新功能，提升用户体验。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODnrntgPh34cmY4iTl1_nfYA1?pwd=zs3z&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODnrntgPh34cmY4iTl1_nfYA1?pwd=zs3z&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HashCalculator(哈希值批量计算器) v5.28.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/2173/</link>
+        <pubDate>Wed, 11 Dec 2024 11:41:20 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/2173/</guid>
+        <description>&lt;p&gt;本软件主要是为了批量计算、批量校验文件的哈希值而设计，减少批量计算、校验、统计的麻烦。用来计算单个文件的哈希值也很方便。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/2173/20241211_114129.png&#34;
+	width=&#34;595&#34;
+	height=&#34;411&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;144&#34;
+		data-flex-basis=&#34;347px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;功能特点&#34;&gt;功能特点
+&lt;/h3&gt;&lt;p&gt;支持的哈希算法有：SHA1、SHA224、SHA256、SHA384、SHA512、SHA3 系列、MD5、Blake2b 系列、Blake2s 系列、Blake3 系列、Whirlpool。
+计算所得哈希值的输出方式可选择 Base64 或十六进制大/小写。
+支持导出计算结果到文件。
+支持同时运行多个计算文件哈希值的任务 (1 ~ 8 个)。
+每个计算任务可以同时计算一个文件的多个算法的哈希值。
+支持直接拖拽文件/文件夹到主界面表格中计算文件哈希值。
+支持在计算过程中暂停、继续、取消所有正在进行的任务或单个正在进行的任务。
+支持将 HashCalculator 的快捷菜单集成到系统右键菜单，可以在设置面板中打开或关闭。快捷菜单有：计算所选对象的哈希值、执行指定的哈希算法、作为哈希校验依据打开。(校验依据：内容包含哈希值和文件名的文本文件)
+支持把计算所得的结果导出为文本文件，可选 .txt 扩展名或 .hcb 扩展名，其中 .hcb 扩展名的文件支持直接双击自动打开 HashCalculator 进行校验(在设置中打开了文件关联后)。
+其他未列出的功能…&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v5.28.0
+修改内存映射文件的初始化逻辑
+遇到未知异常时发出通知后退出
+增加可用于获取文件大小的占位符：$filesize$&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODnrgULPh34cmY4iTl1_loYA1?pwd=v6sf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODnrgULPh34cmY4iTl1_loYA1?pwd=v6sf&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Q-Dir(免费的文件管理器) v11.94 中文绿色版</title>
+        <link>https://www.danlong360.com/post/9365/</link>
+        <pubDate>Wed, 11 Dec 2024 11:40:42 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/9365/</guid>
+        <description>&lt;p&gt;Q-Dir是一款免费的文件管理器，具有多窗口浏览、拖放功能、自定义布局等特点，可以快速方便地浏览和管理文件和文件夹。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/9365/20241211_114051.png&#34;
+	width=&#34;710&#34;
+	height=&#34;539&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;131&#34;
+		data-flex-basis=&#34;316px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;多窗口浏览：可以同时在一个界面中打开多个文件夹，方便对文件和文件夹进行管理。&lt;/li&gt;
+&lt;li&gt;拖放功能：支持拖放文件和文件夹，可以方便地进行复制、移动、删除等操作。&lt;/li&gt;
+&lt;li&gt;自定义布局：可以自定义窗口布局，包括窗口大小、位置、颜色等，让用户更加舒适地使用软件。&lt;/li&gt;
+&lt;li&gt;支持多种文件类型：支持浏览和管理多种文件类型，包括文本文件、图像文件、音频文件、视频文件等。&lt;/li&gt;
+&lt;li&gt;快速访问：支持快速访问常用文件和文件夹，可以将它们添加到收藏夹中，方便快速打开。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;免费：Q-Dir是一款完全免费的软件，用户无需支付任何费用即可使用全部功能。&lt;/li&gt;
+&lt;li&gt;轻巧：Q-Dir的安装包非常小，只有几百KB，安装后占用的系统资源也非常少，不会影响计算机的性能。&lt;/li&gt;
+&lt;li&gt;界面友好：Q-Dir的界面简洁、直观，易于操作，即使是初次使用的用户也可以轻松上手。&lt;/li&gt;
+&lt;li&gt;支持多语言：Q-Dir支持多种语言，包括英语、中文、德语、法语等，用户可以选择自己熟悉的语言来使用软件。&lt;/li&gt;
+&lt;li&gt;持续更新：Q-Dir的开发者会持续更新软件，修复bug、增加新功能，保证软件的稳定性和可靠性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODnrdBkHDu4mqfWHp-m_MDcA1?pwd=hx2e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODnrdBkHDu4mqfWHp-m_MDcA1?pwd=hx2e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Process Lasso(进程优化工具) Pro v15.0.4.11 多语便携版</title>
+        <link>https://www.danlong360.com/post/36104/</link>
+        <pubDate>Wed, 11 Dec 2024 11:40:06 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/36104/</guid>
+        <description>&lt;p&gt;Process Lasso 是一款用于管理和优化计算机进程的软件。它可以帮助用户最大程度地提高计算机的性能，并提供了一系列功能和特点来优化系统的运行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/36104/20241211_114016.png&#34;
+	width=&#34;703&#34;
+	height=&#34;516&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;136&#34;
+		data-flex-basis=&#34;326px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;进程优先级管理：Process Lasso可以根据用户设定的规则和条件调整进程的优先级，确保重要进程的优先级更高，从而提高系统的响应速度。
+自动优化：软件会动态分配计算资源，通过自动调整进程优先级，提高CPU利用率和响应速度。
+进程控制：用户可以选择暂停、结束或恢复特定的进程，并设定进程的启动规则。
+能耗优化：软件可以根据电源状态自动调整进程的优先级和CPU使用率，以最大程度地节省电池电量。
+系统稳定性：通过限制某些进程的CPU使用率，软件可以帮助避免系统崩溃和死机现象。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高级优化算法：Process Lasso使用先进的算法来自动调整进程优先级，确保系统的稳定性和性能。
+图形化界面：软件提供了直观的图形界面，让用户轻松管理和优化进程。
+低系统资源占用：软件运行时占用的系统资源较少，对计算机性能的影响非常小。
+可自定义规则：用户可以根据自己的需求和喜好设定进程的优先级规则。
+支持多语言：软件支持多种语言界面，方便用户在不同地区使用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODnrakXJFJUlFtJqNsgQT35A1?pwd=eisg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODnrakXJFJUlFtJqNsgQT35A1?pwd=eisg&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VueScan(扫描仪增强软件) Pro v9.8.40.16 多语便携版</title>
+        <link>https://www.danlong360.com/post/37732/</link>
+        <pubDate>Wed, 11 Dec 2024 11:39:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/37732/</guid>
+        <description>&lt;p&gt;VueScan是一款功能强大的扫描仪软件，可用于扫描、拍摄和打印高质量的图片和文档。它支持大量的扫描仪品牌和型号，包括HP、Canon、Epson、Nikon、Brother等，而且可以在Windows、Mac OS X和Linux等各种操作系统上运行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/37732/20241211_113934.png&#34;
+	width=&#34;640&#34;
+	height=&#34;501&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;127&#34;
+		data-flex-basis=&#34;306px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种扫描仪型号，包括扫描仪、相机和文件夹。&lt;/li&gt;
+&lt;li&gt;支持多种文件格式，包括JPEG、TIFF、PDF和RAW格式。&lt;/li&gt;
+&lt;li&gt;可以进行自动校正、色彩校正和曝光校正等操作，以获得最佳的扫描效果。&lt;/li&gt;
+&lt;li&gt;支持扫描多页文档并将其保存为单个PDF文件。&lt;/li&gt;
+&lt;li&gt;可以进行扫描预览、裁剪和旋转等常见操作。&lt;/li&gt;
+&lt;li&gt;支持OCR（光学字符识别）功能，可以将扫描的文本转换为可编辑的文本格式。&lt;/li&gt;
+&lt;li&gt;可以进行高级图像处理，包括去除噪点、调整色彩和对比度等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简单直观，易于操作。&lt;/li&gt;
+&lt;li&gt;支持多种语言，包括英语、法语、德语、意大利语、西班牙语等。&lt;/li&gt;
+&lt;li&gt;更新频繁，可以及时支持最新的扫描仪型号和操作系统。&lt;/li&gt;
+&lt;li&gt;支持扫描多种类型的文档，包括照片、书籍、报纸和信件等。&lt;/li&gt;
+&lt;li&gt;可以进行批量扫描和批量处理，提高工作效率。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;vuescan pro中文破解版,vuescan pro免激活绿色便携版
+- 免注册激活，32位+64位，集成OCR语言中文/俄/英语
+- 9.8.37，支持 32 位 系统&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODnrZ3AJFJUlFtJqNsgQSDXA1?pwd=jppw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODnrZ3AJFJUlFtJqNsgQSDXA1?pwd=jppw&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Vim(支持多种编程语言编辑器) v9.1.0918 中文绿色版</title>
+        <link>https://www.danlong360.com/post/891/</link>
+        <pubDate>Wed, 11 Dec 2024 11:36:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/891/</guid>
+        <description>&lt;p&gt;Vim是Vi编辑器的增强版，它提供了更多的功能和快捷键。Vim是一款自由软件，它是由Bram Moolenaar在1991年创建的。Vim支持多种编程语言，包括C、C++、Java、Python、Perl等等。它是一款轻量级的编辑器，可以快速打开和编辑大型文件。Vim可以在终端中使用，也可以在图形界面中使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/891/20241211_113708.png&#34;
+	width=&#34;579&#34;
+	height=&#34;457&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;126&#34;
+		data-flex-basis=&#34;304px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种编程语言。&lt;/li&gt;
+&lt;li&gt;支持多窗口编辑。&lt;/li&gt;
+&lt;li&gt;支持复制、剪切和粘贴文本。&lt;/li&gt;
+&lt;li&gt;支持搜索和替换。&lt;/li&gt;
+&lt;li&gt;支持自动完成和自动缩进。&lt;/li&gt;
+&lt;li&gt;支持宏录制和回放。&lt;/li&gt;
+&lt;li&gt;支持插件扩展。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;快捷键丰富：Vim有很多快捷键，可以让用户快速完成操作。&lt;/li&gt;
+&lt;li&gt;可定制性强：用户可以通过修改配置文件来定制自己的Vim。&lt;/li&gt;
+&lt;li&gt;高效性：Vim可以快速打开和编辑大型文件。&lt;/li&gt;
+&lt;li&gt;跨平台：Vim可以在多个操作系统中使用。&lt;/li&gt;
+&lt;li&gt;插件扩展：Vim支持插件扩展，可以增加更多的功能。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODnrPH0vuvHlWNH5Q4L0vRqA1?pwd=hus8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODnrPH0vuvHlWNH5Q4L0vRqA1?pwd=hus8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Auslogics SSD Optimizer(固态硬盘优化工具) v2.0.0.1 便携版</title>
+        <link>https://www.danlong360.com/post/998/</link>
+        <pubDate>Wed, 11 Dec 2024 11:33:24 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/998/</guid>
+        <description>&lt;p&gt;Auslogics SSD Optimizer 是一款专为固态硬盘（SSD）设计的优化工具，它提供了多种优化功能，帮助用户提高 SSD 的性能、延长使用寿命并确保系统的稳定性和可靠性。Auslogics SSD Optimizer 特别适合需要保持 SSD 最佳状态的个人用户、企业和 IT 专业人士。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/998/20241211_113332.png&#34;
+	width=&#34;640&#34;
+	height=&#34;434&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;147&#34;
+		data-flex-basis=&#34;353px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;TRIM 命令优化：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;自动 TRIM：支持自动执行 TRIM 命令，帮助释放未使用的块，提高 SSD 的读写速度。
+手动 TRIM：支持手动执行 TRIM 命令，用户可以随时优化 SSD 性能。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;垃圾回收：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;垃圾回收：支持垃圾回收功能，自动清理未使用的数据块，提高 SSD 的可用空间。
+深度垃圾回收：支持深度垃圾回收功能，更彻底地清理未使用的数据块。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;文件碎片整理：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文件碎片整理：支持文件碎片整理功能，优化文件的存储位置，提高读写速度。
+智能碎片整理：支持智能碎片整理功能，自动识别和优化关键文件。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;性能监控：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;实时监控：支持实时监控 SSD 的性能指标，如读写速度、温度等。
+性能报告：支持生成性能报告，用户可以查看和分析 SSD 的性能数据。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;系统优化：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;启动项管理：支持启动项管理功能，用户可以管理开机启动项，提高系统启动速度。
+注册表优化：支持注册表优化功能，自动清理无效的注册表项，提高系统性能。
+临时文件清理：支持临时文件清理功能，自动删除临时文件，释放磁盘空间。&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;备份和恢复：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;系统备份：支持系统备份功能，用户可以创建系统备份，防止数据丢失。
+系统恢复：支持系统恢复功能，用户可以恢复系统备份，恢复系统到备份时的状态。&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;其他工具：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文件恢复：支持文件恢复功能，用户可以恢复误删除的文件。
+日志记录：支持日志记录功能，用户可以查看和记录优化任务的历史记录。
+命令行支持：支持命令行操作，用户可以通过脚本自动化优化任务。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多功能集成：集成了 TRIM 命令优化、垃圾回收、文件碎片整理和系统优化等多种功能，用户无需在多个工具之间切换。
+高效优化：采用高效的优化算法，确保快速准确的优化效果。
+实时监控：支持实时监控 SSD 的性能指标，帮助用户及时了解和优化 SSD 状态。
+系统兼容：支持多种 Windows 操作系统，包括 Windows 10、Windows 8.1 和 Windows 7。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODnrKECafcP4Itt6Rz9pcpGA1?pwd=jnv9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODnrKECafcP4Itt6Rz9pcpGA1?pwd=jnv9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Auslogics Disk Defrag(磁盘碎片整理) Pro v12.0.0.1 便携版</title>
+        <link>https://www.danlong360.com/post/82526/</link>
+        <pubDate>Wed, 11 Dec 2024 11:31:38 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/82526/</guid>
+        <description>&lt;p&gt;Auslogics Disk Defrag 是一款强大的磁盘碎片整理工具，它可以帮助用户整理硬盘上的碎片文件，提高硬盘的读写速度，让计算机运行更加流畅。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/82526/20241211_113151.png&#34;
+	width=&#34;600&#34;
+	height=&#34;407&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;147&#34;
+		data-flex-basis=&#34;353px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;快速整理硬盘碎片：Auslogics Disk Defrag 能够快速扫描硬盘上的碎片文件，并进行整理，提高硬盘的访问速度。
+自定义整理选项：用户可以根据自己的需求选择快速优化、完整整理或定时整理等不同的整理选项。
+定时自动整理：软件支持定时自动整理功能，用户可以设置软件在计算机空闲时自动进行碎片整理。
+可视化报告：软件提供可视化报告，展示硬盘的整理情况和效果，帮助用户了解磁盘碎片整理的效果。
+磁盘健康检测：软件可以检测硬盘的健康状况，并提供相关建议，帮助用户及时发现和解决硬盘问题。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观：Auslogics Disk Defrag 的界面简洁直观，操作简单易懂，适合普通用户和初学者使用。
+整理速度快：软件整理硬盘碎片的速度快，能够在短时间内将硬盘整理好，提高计算机的运行速度。
+支持多种硬盘类型：软件支持机械硬盘、固态硬盘和混合硬盘等多种硬盘类型，适用范围广泛。
+资源占用低：Auslogics Disk Defrag 资源占用低，不会占用过多的计算机资源，保证系统的稳定性和流畅运行。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODnrEZ1HDu4mqfWHp-m_EXRA1?pwd=k5vz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODnrEZ1HDu4mqfWHp-m_EXRA1?pwd=k5vz&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>联想电脑管家官方原版丨最新版下载丨版本号 5.1.90.12092</title>
+        <link>https://www.danlong360.com/post/35500/</link>
+        <pubDate>Wed, 11 Dec 2024 11:30:04 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/35500/</guid>
+        <description>&lt;p&gt;联想电脑管家是联想推出的一款电脑安全管理软件，主要功能包括系统加速、软件管理、病毒查杀、垃圾清理、硬件检测等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/35500/20241211_113017.png&#34;
+	width=&#34;640&#34;
+	height=&#34;441&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;145&#34;
+		data-flex-basis=&#34;348px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;系统加速：帮助用户优化系统资源、降低CPU和内存占用率，提高系统运行速度。&lt;/li&gt;
+&lt;li&gt;软件管理：提供软件安装、卸载、升级等功能，用户可以方便地管理自己的软件。&lt;/li&gt;
+&lt;li&gt;病毒查杀：提供病毒查杀功能，帮助用户防范和清除各种病毒、木马和恶意软件。&lt;/li&gt;
+&lt;li&gt;垃圾清理：帮助用户清理系统中的垃圾文件和临时文件，提高系统运行效率。&lt;/li&gt;
+&lt;li&gt;硬件检测：提供硬件检测功能，帮助用户了解自己电脑的硬件配置和性能状况，从而更好地维护和优化电脑。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;联想官方出品，保障软件安全稳定。&lt;/li&gt;
+&lt;li&gt;操作简单易用，用户体验好。&lt;/li&gt;
+&lt;li&gt;多合一软件，功能全面。&lt;/li&gt;
+&lt;li&gt;免费使用，无广告弹窗。&lt;/li&gt;
+&lt;li&gt;提供多种常用工具，方便用户对电脑进行全面管理和优化。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;官方网站：https://guanjia.lenovo.com.cn/&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;联想电脑管家官方原版丨最新版下载丨版本号 5.1.90.12092
+官方下载：https://guanjia.lenovo.com.cn/download/lenovopcmanager_apps.exe&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>TreeSize(磁盘空间管理工具) Pro v9.3.0.1954 中文绿色版</title>
         <link>https://www.danlong360.com/post/59950/</link>
         <pubDate>Tue, 10 Dec 2024 18:43:03 +0800</pubDate>
