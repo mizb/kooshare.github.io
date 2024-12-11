@@ -7,7 +7,222 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 11 Dec 2024 11:46:22 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Dec 2024 18:52:56 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>44136</title>
+        <link>https://www.danlong360.com/post/44136/</link>
+        <pubDate>Wed, 11 Dec 2024 18:52:56 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/44136/</guid>
+        <description>&lt;p&gt;Drive SnapShot中文版是一款小巧强大的系统热备份软件,硬盘备份软件SnapShot最新版支持磁盘卷热备份还原,差异备份,增量备份,异机还原,远程备份,RAID磁盘阵列,挂载映像文件映射虚拟驱动器,生成哈希文件,命令行操作等,备份速度快,备份的镜像文件体积较小.该工具短小精悍,原生绿色单执行文件,无额外临时数据生成.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/44136/20241211_065316.png&#34;
+	width=&#34;407&#34;
+	height=&#34;311&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;130&#34;
+		data-flex-basis=&#34;314px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;创建快照: Drive SnapShot可以快速创建硬盘的快照，包括系统盘和数据盘。
+备份数据: 用户可以将创建的快照保存为镜像文件，以便日后恢复数据。
+定时备份: 支持定时自动备份功能，可以设置备份策略和时间来保证数据的安全性。
+恢复数据: 用户可以随时使用Drive SnapShot恢复备份数据，无需重新安装系统。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高效快速: Drive SnapShot使用独特的快照技术，可以在几分钟内完成磁盘快照的创建和备份过程。
+灵活性强: 用户可以选择备份整个硬盘或者部分分区，灵活性高。
+安全可靠: Drive SnapShot备份数据时使用强大的数据压缩和加密技术，确保备份数据的安全性。
+兼容性强: 支持Windows系统的所有版本，包括Windows XP、Windows 7、Windows 8和Windows 10等。
+可靠稳定: Drive SnapShot是一款经过多年发展和优化的备份工具，结合了稳定性和可靠性。&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Drive Snapshot - What&amp;rsquo;s new
+&lt;a class=&#34;link&#34; href=&#34;http://drivesnapshot.de/en/news.htm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://drivesnapshot.de/en/news.htm&lt;/a&gt;
+● 支持DOS, WinPE, Windows 所有版本备份和还原硬盘
+● 绿色小巧原生单文件，仅几百KB，麻雀虽小，五脏俱全
+● 短小精悍，功能强大，并且支持各种的命令行参数操作
+● 完全备份指定硬盘镜像到映像文件而无需重新启动系统
+● 备份不中断方式进行，系统多分区备份也无需中断工作
+● 支持备份成虚拟硬盘，以方便直接恢复单个文件或目录
+● 完整恢复急救系统，恢复非系统分区可在系统直接完成
+● 恢复系统分区将在下一次启动 Windows 过程进行恢复
+● 兼容FAT16/FAT32/NTFS、Linux EXT2/3/4/Reiser
+● 兼容所有 Windows 硬盘磁盘阵列(RAID)
+● 支持增量备份，支持恢复迁移到不同的硬件
+● 支持加密备份文件和分隔成指定大小的文件
+● 备份速度快，备份的镜像文件体积相对较小
+● 超高备份压缩比(比ATI备份的文件还要小)&lt;/p&gt;
+&lt;p&gt;v1.50
+- 支持Windows 11、Windows Server 2022
+- 支持备份到SFTP服务器功能
+- 免费更新期从2年延长至5年
+v1.49主要更新：
+- 新的加密方式
+- 改进了与服务版系统的统一写过滤器(UWF)功能的兼容性
+- 兼容Windows Server 2019, Windows 10 20H2 以上版&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODpLzhkgrXCX95HjKuzPV5UA1?pwd=776h&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODpLzhkgrXCX95HjKuzPV5UA1?pwd=776h&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PECMD/7zSFX单文件制作工具 v7.0.2.3854 中文绿色版</title>
+        <link>https://www.danlong360.com/post/99414/</link>
+        <pubDate>Wed, 11 Dec 2024 18:17:23 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/99414/</guid>
+        <description>&lt;p&gt;一个小巧强大的PECMD/7zSFX单文件制作工具,简化单文件制作程序步骤,采用PECMD内核和7zSFX内核自解压模块打包,创建的单文件体积小,支持传递参数,文件防修改,打包解压加密,程序运行无需额外PECMD.exe.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/99414/20241211_061732.png&#34;
+	width=&#34;553&#34;
+	height=&#34;601&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;92&#34;
+		data-flex-basis=&#34;220px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;功能描述&#34;&gt;功能描述
+&lt;/h3&gt;&lt;p&gt;作者：JexChan(老五)
+—全新的自解压内核，非现有的7zSFX、WinRAR、ZLIB自解压模块；
+—采用先进的打包方式（堪称黑科技&amp;mdash;&amp;gt;内核默认PECMD自解压模块）
+—7zSFX模块，创建的单文件支持传递参数（包含内置参数和外置参数）
+—7zSFX模块也可插入程序，创建快捷方式，界面比其它同类工具更加操作方便；
+—7zSFX制作的单文件也可以解压前手动选择解压路径了 (勾选解压路径进行设置)
+—7zSFX提取页面支持修改创建、编辑7zSFX配置文件、单独替换SFX、配置、压缩包；
+—PECMD模块可将单个WCS打包成单文件(直接拖入)可不释放临时文件在内存中运行。
+—可传递参数，内置参数、外置参数均支持，这是其它单文件制作程序无法达到的高度；
+—支持打包exe、bat、cmd、vbs、wcs，并且运行WCS时无需额外准备PECMD.exe。
+—可选保护模式，即“防修改补丁”，防止7z、Winrar等软件右键打开；
+—7zSFX模块也可以对程序位数x86、x64自适应；
+—支持加壳UPX压缩、mpress压缩，以减小体积；
+—压缩包可加密码；可带解压密码运行，免输入；
+—可设置开机启动；&lt;/p&gt;
+&lt;p&gt;# 何为传递外置参数？&lt;/p&gt;
+&lt;p&gt;举个例子，假如打包UltraISO，打包后单文件名为&amp;quot;UI单文件.exe&amp;quot;,
+那么这个&amp;quot;UI单文件.exe&amp;quot;就支持UltraISO的所有命令行参数，比如：
+1、打开ISO: UI单文件.exe C:ABC.ISO
+2、注册资源管理器右键菜单就可以这样：
+reg add HKCR.ISOshellopen /f /ve /d &amp;ldquo;用 UltraISO 打开&amp;rdquo;
+reg add HKCR.ISOshellopencommand /f /ve /d &amp;ldquo;&amp;ldquo;D:UI单文件.exe&amp;rdquo; &amp;ldquo;%%L&amp;rdquo;&amp;rdquo;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;7.0.2.3854(20241201)
+更换7Z压缩内核为24.9版本
+7.0.2.3853(20240813)
+更换7Z压缩内核为24.8版本&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODpEOhR3bbQr9aHReg4_LK2A1?pwd=zbuf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODpEOhR3bbQr9aHReg4_LK2A1?pwd=zbuf&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>O&amp;O ShutUp10(Win10隐私工具) v1.9.1440 多语便携版</title>
+        <link>https://www.danlong360.com/post/7197/</link>
+        <pubDate>Wed, 11 Dec 2024 18:13:48 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/7197/</guid>
+        <description>&lt;p&gt;O&amp;amp;O ShutUp10是一款免费的Windows 10隐私工具，帮助用户更好地控制自己的操作系统。&lt;/p&gt;
+&lt;p&gt;O&amp;amp;O ShutUp10旨在使用户更好地控制其Windows 10操作系统中的隐私设置，防止Windows 10收集过多的用户数据，保障用户的隐私和安全。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/7197/20241211_061359.png&#34;
+	width=&#34;755&#34;
+	height=&#34;517&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;146&#34;
+		data-flex-basis=&#34;350px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;- 已安装的Windows 10系统中的所有可用设置的详细解释和列表。
+- 分类显示所需的隐私设置和启用/禁用它们。
+- 允许用户使某些设置无效，以便Windows 10不会收集有关用户的个人数据。
+- 完全控制Windows 10数据共享和独立的应用程序隐私设置。
+- 帮助用户创建系统还原点以便在必要时进行恢复。
+- 界面简单易用，用户很容易就能进行设置。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;- 可完全控制Windows 10的隐私设置，保护用户的隐私。
+- 免费下载和使用，方便快捷。
+- 提供了易于阅读的所有已知设置的列表，简化了用户的操作。
+- 帮助用户创建系统还原点以便在必要时进行恢复，较为安全可靠。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODpEHWJgsXrEFh1SpAnL8vIA1?pwd=queh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODpEHWJgsXrEFh1SpAnL8vIA1?pwd=queh&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MemoryCleaner(内存清理工具) v1.7.8 中文绿色版</title>
+        <link>https://www.danlong360.com/post/61421/</link>
+        <pubDate>Wed, 11 Dec 2024 16:57:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/61421/</guid>
+        <description>&lt;p&gt;MemoryCleaner 是一款专为优化计算机内存而设计的工具，它提供了多种内存管理和清理功能，帮助用户释放系统内存，提高计算机的运行速度和性能。MemoryCleaner 的设计注重用户体验和效率，适合需要保持系统高性能的用户。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/61421/20241211_045803.png&#34;
+	width=&#34;516&#34;
+	height=&#34;465&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;110&#34;
+		data-flex-basis=&#34;266px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;内存清理：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;一键清理：支持一键清理功能，用户可以快速释放系统内存。
+定时清理：支持定时清理功能，用户可以设置定期自动清理内存。
+手动清理：支持手动清理功能，用户可以根据需要随时清理内存。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;内存管理：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;内存监控：提供实时内存监控功能，用户可以随时查看内存使用情况。
+进程管理：支持进程管理功能，用户可以查看和管理正在运行的进程，释放不必要的内存占用。
+内存报告：生成内存使用报告，用户可以详细了解内存使用情况和清理效果。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;系统优化：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;启动项管理：支持启动项管理功能，用户可以管理开机启动项，减少系统启动时的内存占用。
+服务管理：支持服务管理功能，用户可以管理系统服务，优化系统性能。
+垃圾清理：支持系统垃圾清理功能，用户可以清理临时文件、缓存文件等，释放磁盘空间。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;其他工具：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;注册表优化：支持注册表优化功能，用户可以修复和优化注册表，提高系统稳定性。
+磁盘碎片整理：支持磁盘碎片整理功能，用户可以优化磁盘性能，提高文件读写速度。
+系统诊断：支持系统诊断功能，用户可以检查和修复系统问题，确保系统健康。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多功能集成：集成了内存清理、内存管理、系统优化和系统诊断等多种功能，用户无需在多个工具之间切换。
+高效清理：采用先进的内存清理算法，确保高效释放系统内存。
+实时监控：支持实时内存监控功能，用户可以随时查看内存使用情况。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODp7TwvtKuEV_L9s8DpqtGbA1?pwd=y5m6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODp7TwvtKuEV_L9s8DpqtGbA1?pwd=y5m6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Custom Resolution Utility(自定义分辨率工具) v1.5.2 汉化绿色版</title>
         <link>https://www.danlong360.com/post/33133/</link>
         <pubDate>Wed, 11 Dec 2024 11:46:22 +0800</pubDate>
