@@ -7,7 +7,260 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 12 Dec 2024 12:06:03 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 12 Dec 2024 17:53:26 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>UpdatePack7R2(WIN7更新补丁包) 24.12.12</title>
+        <link>https://www.danlong360.com/post/6663/</link>
+        <pubDate>Thu, 12 Dec 2024 17:53:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6663/</guid>
+        <description>&lt;p&gt;UpdatePack7R2是一个Windows 7更新集成软件，它可以帮助用户将最新的安全更新和修复程序整合到Windows 7系统中。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/6663/20241212_055340.png&#34;
+	width=&#34;541&#34;
+	height=&#34;358&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;151&#34;
+		data-flex-basis=&#34;362px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;自动整合更新：UpdatePack7R2可以自动检测并整合系统中缺失的最新更新和修复程序，使得Windows 7系统保持最新和安全的状态。&lt;/li&gt;
+&lt;li&gt;可选更新包：软件提供了一些可选更新包，用户可以根据个人需求选择安装。&lt;/li&gt;
+&lt;li&gt;支持自定义：用户可以通过编辑软件提供的配置文件，自定义需要安装的更新和忽略的更新。&lt;/li&gt;
+&lt;li&gt;增强功能：软件还提供了一些增强功能，如升级Internet Explorer和Windows Media Player等。同时，软件支持多语言，适用于全球不同地区的用户。&lt;/li&gt;
+&lt;li&gt;稳定可靠：UpdatePack7R2拥有良好的稳定性和可靠性，在运行过程中不会影响系统的正常运行。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;24.12.12
+添加了 KB5048695-x64，禁用遥测和处理器检查（替换 KB5044356-x64）
+证书续订类似于 2024 年 12 月的 KB931125 和 KB2917500&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODuLXts9K7JKXU8Z6AYnw8sA1?pwd=ya7n&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODuLXts9K7JKXU8Z6AYnw8sA1?pwd=ya7n&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>SyncBackPro(强大备份和同步软件) v11.3.72.0 多语便携版</title>
+        <link>https://www.danlong360.com/post/51376/</link>
+        <pubDate>Thu, 12 Dec 2024 17:47:18 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/51376/</guid>
+        <description>&lt;p&gt;SyncBackPro 是一款强大的备份和同步软件，能够帮助用户轻松地备份和同步文件和文件夹，保护用户的数据安全。该软件具有丰富的功能和用户友好的界面，非常适合个人用户和企业用户使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/51376/20241212_054727.png&#34;
+	width=&#34;640&#34;
+	height=&#34;408&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;156&#34;
+		data-flex-basis=&#34;376px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;备份和同步功能：可以轻松地备份文件和文件夹到本地硬盘、外部硬盘、网络驱动器或FTP服务器，并且可以自动同步文件夹之间的内容。
+自动备份和计划任务：支持自动备份和计划任务功能，用户可以设置备份任务的频率和时间，让备份过程更加方便和自动化。
+高级过滤功能：支持文件过滤功能，用户可以根据文件类型、大小、修改日期等条件来设置备份规则，可以更精确地选择需要备份的文件。
+版本控制和增量备份：支持版本控制和增量备份功能，用户可以恢复之前版本的文件，也可以节省备份空间和时间。
+加密和压缩功能：支持文件加密和压缩功能，可以保护用户的数据安全，并且节省备份空间。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;灵活性和可定制性：SyncBackPro 提供了丰富的备份和同步选项，用户可以根据自己的需求定制备份规则，让备份过程更加灵活和高效。
+高效性和稳定性：SyncBackPro 使用先进的备份和同步算法，能够高效地完成备份和同步任务，并且具有很高的稳定性，不容易出现故障。
+用户友好的界面：SyncBackPro 的界面简单直观，操作简单易懂，用户可以快速上手并进行备份和同步操作。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODuLAtlLnTzYsXkooHIhtByA1?pwd=iqmn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODuLAtlLnTzYsXkooHIhtByA1?pwd=iqmn&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Total Commander(文件管理器) v11.50 RC2 多语便携版</title>
+        <link>https://www.danlong360.com/post/95304/</link>
+        <pubDate>Thu, 12 Dec 2024 17:46:45 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/95304/</guid>
+        <description>&lt;p&gt;Total Commander 是一款功能强大的文件管理器，它采用了经典的双面板界面设计，提供了丰富的文件管理和操作功能，极大地提升了用户的文件管理效率。Total Commander 支持多种文件系统和网络协议，是专业用户和高级用户的理想选择。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/95304/20241212_054654.png&#34;
+	width=&#34;640&#34;
+	height=&#34;436&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;146&#34;
+		data-flex-basis=&#34;352px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文件浏览和管理：使用双面板界面，方便用户同时查看和管理两个不同的文件夹或驱动器。支持拖放操作，方便文件的复制、移动和删除。
+文件搜索：快速搜索文件和文件夹，支持关键字搜索和过滤条件，帮助用户快速找到所需文件。
+文件比较：比较两个文件夹或文件的内容，显示差异部分，方便用户进行同步或备份操作。
+文件传输：支持 FTP、SFTP、WebDAV 等多种网络协议，方便用户在本地和远程服务器之间传输文件。
+文件压缩和解压：支持 ZIP、RAR、7Z 等多种压缩格式，方便用户压缩和解压文件。
+文件预览：支持多种文件类型的预览，包括文本文件、图片、视频等，无需打开外部应用程序。
+文件重命名：批量重命名文件，支持多种重命名规则，提高工作效率。
+文件同步：同步两个文件夹的内容，确保数据的一致性和完整性。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁：采用经典的双面板设计，界面清晰，操作直观，方便用户快速上手。
+高度可定制：支持自定义工具栏、快捷键和菜单，用户可以根据自己的需求进行个性化设置。
+高效管理：提供丰富的文件管理和操作功能，提升用户的文件管理效率，节省时间。
+网络支持：支持多种网络协议，方便用户在本地和远程服务器之间传输文件，满足不同场景的需求。
+多语言支持：提供多种语言版本，包括简体中文，方便全球用户使用。
+插件支持：支持丰富的插件，扩展软件的功能，满足用户的各种需求。
+兼容性强：支持多种版本的 Windows 操作系统，确保在不同环境下都能正常使用。
+安全性高：提供文件权限管理和加密功能，保护用户的数据安全。
+如果您有任何具体的问题或需要进一步的帮助，欢迎随时提问！&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODuL84_l8JLyjNaHPvmmwndA1?pwd=z6bm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODuL84_l8JLyjNaHPvmmwndA1?pwd=z6bm&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>EF File Catalog(文件目录管理工具) v25.00 中文绿色版</title>
+        <link>https://www.danlong360.com/post/71163/</link>
+        <pubDate>Thu, 12 Dec 2024 17:45:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/71163/</guid>
+        <description>&lt;p&gt;EF File Catalog 是一款文件目录管理工具，可以帮助用户快速浏览、检索和管理计算机硬盘上的文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/71163/20241212_054610.png&#34;
+	width=&#34;698&#34;
+	height=&#34;519&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;134&#34;
+		data-flex-basis=&#34;322px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;提供直观的界面，用户可以通过树形结构浏览文件目录，快速定位所需文件。
+支持多种文件格式的预览，包括文档、图像、音频和视频等。
+可以对文件进行分类和标记，方便用户进行文件管理和整理。
+支持文件搜索功能，用户可以根据文件名、类型、大小等条件快速找到目标文件。
+提供导出文件列表的功能，用户可以将文件列表保存为文本或HTML格式。
+支持Windows资源管理器上下文菜单，方便用户直接在资源管理器中打开文件或文件夹。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁清晰，操作简便易懂，适合各种用户群体使用。
+支持多国语言界面，满足不同用户的需求。
+快速扫描硬盘上的文件并生成文件目录，节省用户的时间和精力。
+支持自定义文件过滤规则，用户可以根据需要排除某些文件类型或目录。
+软件体积小，不占用过多系统资源，运行稳定，不易出现崩溃或卡顿现象。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODuL4qUVAH4F9lyFR_2EVrtA1?pwd=jpmx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODuL4qUVAH4F9lyFR_2EVrtA1?pwd=jpmx&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>EF Commander(强大文件管理器) v25.00 中文绿色版</title>
+        <link>https://www.danlong360.com/post/88554/</link>
+        <pubDate>Thu, 12 Dec 2024 17:45:16 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/88554/</guid>
+        <description>&lt;p&gt;EF Commander 是一款功能强大且用户友好的文件管理器，它提供了丰富的文件管理和操作功能，帮助用户高效地管理和操作文件。EF Commander 特别适合需要频繁处理文件的用户，如程序员、系统管理员和高级用户。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/88554/20241212_054527.png&#34;
+	width=&#34;640&#34;
+	height=&#34;465&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;330px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;文件浏览：使用标签页浏览文件和文件夹，支持文件预览和缩略图显示。&lt;/li&gt;
+&lt;li&gt;文件搜索：可以按文件名、文件类型、修改日期等条件进行文件搜索，支持通配符和正则表达式。&lt;/li&gt;
+&lt;li&gt;批量重命名：可以对多个文件进行快速批量重命名操作，支持添加前缀、后缀、替换字符等功能。&lt;/li&gt;
+&lt;li&gt;文件压缩和解压缩：支持常见的压缩格式，如ZIP、RAR、7Z等，可以快速创建、提取、分割和合并压缩文件。&lt;/li&gt;
+&lt;li&gt;多标签页浏览：可以同时打开多个标签页，方便在不同文件夹之间切换和浏览。&lt;/li&gt;
+&lt;li&gt;文件比较：可以比较两个文件的差异，支持逐行比较和合并差异。&lt;/li&gt;
+&lt;li&gt;文件加密：可以对文件进行加密，保护文件安全性。&lt;/li&gt;
+&lt;li&gt;文件传输：可以快速将文件从电脑传输到手机或其他设备。&lt;/li&gt;
+&lt;li&gt;文件打包和解包：可以将文件打包成单个文件，方便传输和备份。&lt;/li&gt;
+&lt;li&gt;文件管理器扩展：可以安装和使用第三方文件管理器扩展，扩展功能和操作方式。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多功能集成：集成了文件管理、搜索、传输、编辑和归档等多种功能，用户无需在多个工具之间切换。
+高效操作：支持批量操作和拖放操作，提高文件管理的效率。
+双面板布局：采用经典的双面板布局，用户可以同时查看和操作两个不同的文件夹。
+网络支持：支持多种网络协议，方便用户进行远程文件管理。
+文件预览：支持多种文件格式的预览，用户可以快速查看文件内容。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODuL1M2CH-tZlh71SIpJOehA1?pwd=x27r&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODuL1M2CH-tZlh71SIpJOehA1?pwd=x27r&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>EmEditor(Windows文本编辑器) v24.5.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/45532/</link>
+        <pubDate>Thu, 12 Dec 2024 17:42:52 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/45532/</guid>
+        <description>&lt;p&gt;EmEditor中文版是一款支持大文件和Unicode的最佳Windows文本编辑器.号称世界上最快的文本编辑器!EmEditor中文破解版是一款快速,轻巧,可扩展,使用方便的Windows代码编辑器.支持宏,Unicode编码,代码段插件,还能处理大数据以及CSV文件,无需 Excel,堪称最强CSV编辑器.软件自带简体中文,支持32位和64位版.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/45532/20241212_054306.png&#34;
+	width=&#34;645&#34;
+	height=&#34;473&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;136&#34;
+		data-flex-basis=&#34;327px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;强大的查找功能
+Windows系统自带的“记事本”的查找替换功能很弱，但这款软件弥补了这一点，它支持的查找替换规则更加详细实用，对查找出的结果可以突出显示，并可以批量查找替换未打开的TXT、HTML、DOC等格式的文件中的内容：选择“搜索”菜单下的“在文件中查找”或“在文件中替换”命令，打开查相应对话框，输入自己想要替换的内容即可。
+提示：批量替换的操作将无法撤消或恢复，因此最终替换之前请务必慎重，或者事先做好源文件的备份工作。
+编写程序更轻松
+给学习网页及程序设计的朋友提供了许多贴心的功能，它可以为HTML、CSS、PHP、ASP、Perl、PerlScript、C#、C/C++、Java、JavaScript等语言提供一些基本框架，并能将特殊的语句突出显示，让人一目了然，这为编程人员免去了不少工作，也可以为编程初学者提供一些帮助。
+自定义与宏功能
+软件的强大还表它提供强大的自定义功能，可以在“工具”菜单设置文件关联、自定义菜单和工具栏、管理常用工具和插件等(如图2)，点击“工具/自定义”可以打开自定义窗口(如图2)，这里提供了众多选项，我们能够通过设置让EmEditor更加符合自己的使用习惯。
+此外，宏功能也是一大亮点，比如需要书写相同的签名信息时，就可以在程序中先录制一个签名信息的录入过程的宏，点击菜单栏中的“宏/开始停止录制”皆可开始录制，进行完录制动作后，点击同一按钮即可完成录制。当需要调用签名时，点击工具栏上的运行宏按钮便可以轻松完成。
+细节人性化
+软件在许多细节上也非常人性化，比如Word中方便的拖曳操作被保留了下来，这样在进行文字编辑的时候就再也不用反复的“剪切”和“粘贴”了，轻轻一拖就能搞定。对于编辑好的文字还可进行打印预览，这能方便我们排版打印文本。同时它有丰富的实用工具栏，并能根据自己的需要进行定制，我们只要把常用的工具放在工具栏上，操作就会更加简便。流行的浏览器一样，软件也支持标签浏览，你可以在同一个软件中打开多个标签页，切换起来非常方便。
+使用插件更精彩
+同TC和firefox一样，软件的插件非常丰富，插件安装后都可以“Tools/Plug-ins”进行快速调用。这里，笔者向朋友们推荐几个比较实用的插件：
+MnzkOpenFolder：安装后可以在EmEditor调用资源管理器直接打开某个文件夹，但前提是必须对这些文件夹进行注册，注册的方法是打开“Tools/Plug-ins/Customize Plug-ins”对话框，对MnzkOpenFolder插件的属性进行设置就可以了。
+ToSimplifiedChinese：可以将繁体中文字符快速转换为简体中文，这样在阅读某些特殊字符格式的电子小说或者繁体文档时，将非常方便。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;轻量级：EmEditor 是一款轻量级的文本编辑器软件，占用系统资源少，启动速度快。
+支持扩展：EmEditor 支持通过插件进行功能扩展，用户可以根据需要安装各种插件来增强编辑器的功能。
+可定制性高：EmEditor 提供了丰富的设置选项，用户可以根据自己的需求自定义编辑器的外观和功能。
+高性能：EmEditor 具有出色的性能，可以处理大型文件和复杂的编程语言文件。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODuKsMRhHL3O79yYGTxqzPlA1?pwd=8prn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODuKsMRhHL3O79yYGTxqzPlA1?pwd=8prn&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>CCleaner(系统优化工具) Pro v6.31.11415 中文绿色增强版</title>
         <link>https://www.danlong360.com/post/41148/</link>
         <pubDate>Thu, 12 Dec 2024 12:06:03 +0800</pubDate>
