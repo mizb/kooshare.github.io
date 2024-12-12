@@ -7,7 +7,114 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 11 Dec 2024 17:03:10 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 12 Dec 2024 23:38:31 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>小修 Windows 11 IoT LTSC2024 (26100.2605) 极限精简 二合一 (2024.12.12)</title>
+        <link>https://www.danlong360.com/post/33286/</link>
+        <pubDate>Thu, 12 Dec 2024 23:38:31 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/33286/</guid>
+        <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原
+2024-12-12 更新至 26100.2605 修复了 4GLTE 网络无法选择 SIM 卡选项，恢复了跟踪记录。支持了更多语言选项添加；优化了系统的响应能力
+此版本为 WIN11 LTSC2024的极限版，删除了 WinSxS 不支持 window 功能关闭开启。
+保留了打印，笔记本指纹等常用功能，若使用 hyper-v、IIS 推荐26100 轻度精简版本&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;仅供参考&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;LTSC&lt;/th&gt;
+          &lt;th&gt;IoT LTSC&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;硬件要求&lt;/td&gt;
+          &lt;td&gt;TPM/UEFI/CPU 等要求&lt;/td&gt;
+          &lt;td&gt;CPU 要求&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;生命周期&lt;/td&gt;
+          &lt;td&gt;5 年&lt;/td&gt;
+          &lt;td&gt;10 年&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;保留的存储功能&lt;/td&gt;
+          &lt;td&gt;启用&lt;/td&gt;
+          &lt;td&gt;禁用&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;自动设备加密&lt;/td&gt;
+          &lt;td&gt;启用&lt;/td&gt;
+          &lt;td&gt;禁用&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Copilot&lt;/td&gt;
+          &lt;td&gt;启用&lt;/td&gt;
+          &lt;td&gt;禁用&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Edge&lt;/td&gt;
+          &lt;td&gt;可卸载&lt;/td&gt;
+          &lt;td&gt;不可卸载&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2 个 RDP 同步会话&lt;/td&gt;
+          &lt;td&gt;否&lt;/td&gt;
+          &lt;td&gt;是&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;语言&lt;/td&gt;
+          &lt;td&gt;多语言&lt;/td&gt;
+          &lt;td&gt;英语（可以安装 LTSC 中文版，然后安装密钥切换成 IoT LTSC）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;数字激活&lt;/td&gt;
+          &lt;td&gt;不支持&lt;/td&gt;
+          &lt;td&gt;支持&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/33286/XXWin11LTSC2024JXJJ1.jpg&#34;
+	width=&#34;1024&#34;
+	height=&#34;768&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;小修 Windows 11 IoT LTSC2024 (26100.2605) 极限精简 二合一 (2024.12.12)&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本特点&#34;&gt;版本特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;纯净、无广告、流畅、右键设置、响应速度、适合办公娱乐/集成微软常用运行库合集、DX&lt;/li&gt;
+&lt;li&gt;关闭windows更新不包括驱动 更新不包括恶意软件删除工具&lt;/li&gt;
+&lt;li&gt;集成.NET Framework 3.5(仅限Windows转换程序)旧版制作&lt;/li&gt;
+&lt;li&gt;集成更新后运行清理 (仅限Windows转换程序) 后期封装制作&lt;/li&gt;
+&lt;li&gt;默认经典右键菜单界面, 可在桌面便捷工具设置里打开还原设置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;主要保留&#34;&gt;主要保留
+&lt;/h3&gt;&lt;p&gt;• User 版本 5.43G / [自建账户]
+共享、计算器、打印、空间音效、WMP、截图、Net3.5 – 4.8、光学、搜索、指纹、剪贴板
+IE、ODBC、简体输入法、蓝牙、wifi、bitlocker、远程桌面、Mstsc、触摸、人脸、平板
+User 安装完毕 C 盘占用 5G 左右 首次进入桌面进程优化控制在 55 左右浮动&lt;/p&gt;
+&lt;p&gt;• Admin 版本 5.43G / [快速安装]
+相比User一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名称: H:\Windows 11 IoT LTSC 2024 26100.2605 2in1 小修.esd
+文件大小: 1646448244 字节
+修改时间: 2024 年 12 月 12 日, 15:01:50
+MD5: A64DA0B5119FC1D5480B1EA6B8E99CC8
+SHA1: D752CB1A33900CC2010A689A5452F57AB7E16425
+CRC32: 3C97FCBC&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODvZXAtCH-tZlh71SIpyvOcA1?pwd=pbpe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODvZXAtCH-tZlh71SIpyvOcA1?pwd=pbpe&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows 11 24H2 Build 26100.2605 RTM</title>
         <link>https://www.danlong360.com/post/86960/</link>
         <pubDate>Wed, 11 Dec 2024 17:03:10 +0800</pubDate>
