@@ -7,7 +7,83 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 13 Dec 2024 12:31:54 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 13 Dec 2024 19:45:52 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>DownKyiCore 哔哩下载姬 v1.0.16，跨平台B站视频下载工具</title>
+        <link>https://www.danlong360.com/post/16282/</link>
+        <pubDate>Fri, 13 Dec 2024 19:45:52 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/16282/</guid>
+        <description>&lt;p&gt;哔哩下载姬（跨平台版）downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/16282/20240807093311003035.webp&#34;
+	width=&#34;1589&#34;
+	height=&#34;786&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;202&#34;
+		data-flex-basis=&#34;485px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Bug Fixes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;修复视频发布时间错误问题&lt;/p&gt;
+&lt;p&gt;使用webpage解析失败回退api方式&lt;/p&gt;
+&lt;p&gt;修复解析选中项失败的问题&lt;/p&gt;
+&lt;p&gt;加入使用webpage无法解析会回退到api解析解决webpage覆盖面的问题&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;升级Avalonia到11.1版本&lt;/p&gt;
+&lt;p&gt;替换内建下载器&lt;/p&gt;
+&lt;p&gt;加入已下载列表按下载时间倒序&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODzqctRZA_oijEsYUJ3BJzFA1?pwd=n4eq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODzqctRZA_oijEsYUJ3BJzFA1?pwd=n4eq&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Tixati(免费群组BitTorrent客户端) v3.31 多语便携版</title>
+        <link>https://www.danlong360.com/post/80485/</link>
+        <pubDate>Fri, 13 Dec 2024 18:42:27 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/80485/</guid>
+        <description>&lt;p&gt;Tixati 是一款专为 BitTorrent 下载设计的高效、轻量级客户端，旨在提供快速、稳定的下载体验。它结合了先进的 P2P 技术和用户友好的界面，帮助用户轻松管理种子文件，优化下载速度，并确保资源的有效利用。Tixati 适用于需要频繁使用 BitTorrent 协议进行文件共享和下载的用户，无论是个人用户还是专业人士，都能从中受益。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/80485/20241213_064244.png&#34;
+	width=&#34;640&#34;
+	height=&#34;458&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;139&#34;
+		data-flex-basis=&#34;335px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;快速下载：采用先进的 P2P 技术，优化下载算法，确保用户能够以最快速度获取文件，同时保持网络连接的稳定性。
+智能带宽管理：内置智能带宽管理器，用户可以根据需要设置上传和下载速度限制，确保其他网络活动不受影响。
+磁力链接支持：直接支持磁力链接（Magnet Links），用户无需下载 .torrent 文件即可开始下载，简化了操作流程。
+种子管理：提供详细的种子信息和统计，用户可以查看每个任务的进度、连接数、上传和下载速度等，方便监控和管理下载任务。
+自动更新：定期检查并自动下载最新的软件更新，确保用户始终使用最新版本，享受最佳性能和安全性。
+隐私保护：内置加密和匿名功能，用户可以选择启用加密连接，保护隐私并减少被追踪的风险。
+RSS 订阅：支持 RSS 订阅功能，用户可以订阅喜欢的站点，自动发现和下载新发布的种子文件。
+调度任务：允许用户设置定时任务，如在特定时间段内暂停或恢复下载，合理安排网络资源。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;轻量级运行：占用系统资源少，即使在老旧设备上也能保持流畅运行，不影响其他应用程序的性能。
+直观界面：提供简洁明了的操作界面，用户可以轻松找到所需功能，无需复杂的培训或技术支持，快速上手。
+高级定制：支持高度自定义，用户可以根据个人需求调整界面布局、设置偏好选项，满足不同用户的使用习惯。
+稳定可靠：经过多次优化和测试，Tixati 在处理大量并发下载时表现出色，确保下载任务的稳定性和可靠性。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VODzf1n0J7mq1UOGYsh3NSCtA1?pwd=crqe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VODzf1n0J7mq1UOGYsh3NSCtA1?pwd=crqe&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>闪豆视频下载器(视频批量下载器) v4.0.0.0-2024.12.12 去升级绿色版</title>
         <link>https://www.danlong360.com/post/89462/</link>
         <pubDate>Fri, 13 Dec 2024 12:31:54 +0800</pubDate>
