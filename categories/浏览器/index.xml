@@ -7,7 +7,124 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 14 Dec 2024 09:11:01 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 14 Dec 2024 10:32:13 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Ungoogled-Chromium v131.0.6778.139-1.1 中文绿色版</title>
+        <link>https://www.danlong360.com/post/31944/</link>
+        <pubDate>Sat, 14 Dec 2024 10:32:13 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/31944/</guid>
+        <description>&lt;p&gt;Ungoogled-Chromium 是一个基于 Chromium 开源项目的浏览器，旨在移除所有与 Google 相关的功能和服务，以提高隐私保护和用户控制。与传统的 Chromium 或 Chrome 浏览器相比，Ungoogled-Chromium 更加注重用户隐私和数据安全。它是开源项目，由社区维护，适合那些希望避免数据收集和广告跟踪的用户。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/31944/20241214_103223.png&#34;
+	width=&#34;640&#34;
+	height=&#34;480&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;隐私保护：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;移除 Google 服务：移除了所有与 Google 相关的服务和功能，如 Google Analytics、Crash Reporter 和 Safe Browsing。
+禁用遥测：禁用了所有遥测和数据收集功能，确保用户的浏览行为不会被记录和分析。
+增强隐私设置：提供了增强的隐私设置选项，用户可以进一步控制浏览器的行为和数据收集。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;扩展支持：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;第三方扩展：支持第三方扩展和插件，用户可以安装和使用各种扩展来增强浏览器功能。
+自定义扩展：支持自定义扩展，用户可以编写和安装自己的扩展来满足特定需求。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;同步功能：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;自托管同步：支持自托管同步功能，用户可以使用自己的服务器进行书签、密码和设置的同步，避免依赖第三方服务。
+加密同步：支持加密同步功能，确保同步数据的安全性和隐私性。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;安全性和稳定性：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;定期更新：开发团队定期发布更新，修复已知的安全漏洞和稳定性问题。
+沙箱技术：采用沙箱技术，隔离浏览器进程，提高安全性。
+安全浏览：虽然移除了 Google 的 Safe Browsing 功能，但用户可以通过其他方式（如第三方服务）实现类似功能。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;用户界面：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;自定义主题：支持自定义主题和皮肤，用户可以个性化浏览器界面。
+多标签管理：支持多标签管理功能，用户可以同时打开和管理多个网页标签。
+书签管理：支持书签管理功能，用户可以方便地保存和管理常用网站。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;隐私优先：移除了所有与 Google 相关的服务和功能，确保用户隐私不受侵犯。
+开源项目：开源项目，由社区维护，用户可以查看和修改源代码，确保透明度和安全性。
+自托管同步：支持自托管同步功能，用户可以使用自己的服务器进行数据同步，避免依赖第三方服务。
+扩展支持：支持第三方扩展和插件，用户可以增强浏览器功能，满足个性化需求。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+多平台支持：支持 Windows、macOS 和 Linux 操作系统，适用于不同平台的用户。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOE21ij4zysGh1Rv8iUq9qFdA1?pwd=x5y2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOE21ij4zysGh1Rv8iUq9qFdA1?pwd=x5y2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>LibreWolf(Firefox浏览器修改版) v133.0.3-1 官方便携版</title>
+        <link>https://www.danlong360.com/post/27250/</link>
+        <pubDate>Sat, 14 Dec 2024 10:30:46 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/27250/</guid>
+        <description>&lt;p&gt;LibreWolf 是一个基于 Firefox 的自由和隐私导向的网络浏览器。它旨在提供与 Firefox 相似的功能，同时加强用户隐私和安全性。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/27250/20241214_103057.png&#34;
+	width=&#34;640&#34;
+	height=&#34;447&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;143&#34;
+		data-flex-basis=&#34;343px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;隐私保护：
+无跟踪：默认禁用所有形式的跟踪，包括 Google Analytics、Facebook Connect 和其他第三方跟踪器。
+禁止遥测：禁用所有遥测和数据收集功能，确保用户数据不被收集和分析。
+增强隐私保护：启用增强隐私保护功能，防止跨站点跟踪和指纹识别。
+安全浏览：
+安全连接：优先使用 HTTPS 连接，确保数据传输的安全性。
+防钓鱼和恶意软件：集成防钓鱼和恶意软件保护功能，防止用户访问有害网站。
+证书检查：支持证书检查，确保网站的身份验证和安全性。
+扩展支持：
+隐私扩展：支持多种隐私保护扩展，如 uBlock Origin、Privacy Badger 和 HTTPS Everywhere。
+自定义扩展：允许用户安装和管理自定义扩展，扩展浏览器功能。
+用户控制：
+偏好设置：提供丰富的偏好设置选项，用户可以自定义浏览器的行为和功能。
+用户代理切换：支持用户代理切换，用户可以更改浏览器标识符，避免被识别。
+开源和透明：
+开源代码：完全开源，用户可以查看和修改源代码。
+透明开发：开发过程透明，用户可以参与讨论和贡献。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;隐私优先：专注于用户隐私保护，禁用所有形式的跟踪和数据收集。
+安全可靠：提供多种安全功能，确保用户在浏览互联网时的安全性。
+高度可定制：提供丰富的设置选项，用户可以根据需要自定义浏览器的行为和功能。
+开源和透明：完全开源，开发过程透明，用户可以参与和贡献。
+社区驱动：由社区驱动的开发团队维护，用户可以提出建议和反馈。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+多平台支持：支持 Windows、macOS 和 Linux 操作系统，确保跨平台的兼容性和灵活性。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOE21dfToQGQqGyRAKGK3DIEA1?pwd=g9ig&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOE21dfToQGQqGyRAKGK3DIEA1?pwd=g9ig&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>猫眼浏览器(Chrome内核增强版浏览器) v4.11.4 绿色版</title>
         <link>https://www.danlong360.com/post/81924/</link>
         <pubDate>Sat, 14 Dec 2024 09:11:01 +0800</pubDate>
