@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+	<head><meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="\n本套课程知识星球 Java达摩院（redis+新版 Spring Boot），由江南一点雨主讲，本次更新包含redis教程和新版 Spring Boot，文件大小共计61.67G。课程为零基础的系统教程，适合初级及零基础的学员学习，如果你在工作中初涉该技术或者想完善自己Java基础技能的小伙伴可以学习本套教程，文章底部附下载地址。\n"> <title>知识星球 Java达摩院（redis&#43;新版 Spring Boot）视频教程</title>
+
+<link rel="canonical" href="https://www.danlong360.com/post/87973/" />  <link rel="stylesheet" href="/scss/style.min.c45680511353826e5953e7964c1b787ab0fce262a22a8dc616850bae40ce26c8.css" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
+     crossorigin="anonymous">
+</script><meta property='og:title' content="知识星球 Java达摩院（redis+新版 Spring Boot）视频教程">
+<meta property='og:description' content="\n本套课程知识星球 Java达摩院（redis+新版 Spring Boot），由江南一点雨主讲，本次更新包含redis教程和新版 Spring Boot，文件大小共计61.67G。课程为零基础的系统教程，适合初级及零基础的学员学习，如果你在工作中初涉该技术或者想完善自己Java基础技能的小伙伴可以学习本套教程，文章底部附下载地址。\n">
+<meta property='og:url' content='https://www.danlong360.com/post/87973/'>
+<meta property='og:site_name' content='KUL藏宝库'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-12-14T22:24:52&#43;08:00'/><meta property='article:modified_time' content='2024-12-14T22:24:52&#43;08:00'/>
+<meta name="twitter:title" content="知识星球 Java达摩院（redis+新版 Spring Boot）视频教程">
+<meta name="twitter:description" content="\n本套课程知识星球 Java达摩院（redis+新版 Spring Boot），由江南一点雨主讲，本次更新包含redis教程和新版 Spring Boot，文件大小共计61.67G。课程为零基础的系统教程，适合初级及零基础的学员学习，如果你在工作中初涉该技术或者想完善自己Java基础技能的小伙伴可以学习本套教程，文章底部附下载地址。\n">
+<link rel="shortcut icon" href="/favicon.ico" />
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-K19J3P52BR"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-K19J3P52BR');
+        }
+      </script>
+	</head>
+	<body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu12742395681378621043.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">KUL藏宝库</a></h1>
+            <h2 class="site-description">纯净软件爱好者</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>分类</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#课程文件目录">课程文件目录</a></li>
+        <li><a href="#课程下载">课程下载</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+			<main class="main full-width">
+    <article class="main-article">
+	<header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E8%AF%BE%E7%A8%8B/" >
+                课程
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/87973/">知识星球 Java达摩院（redis&#43;新版 Spring Boot）视频教程</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024-12-14</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header> <section class="article-content">
+    
+    
+    <p><img src="/post/87973/b3149ecea4628ef-143.jpg"
+	width="940"
+	height="520"
+	
+	loading="lazy"
+	
+		alt="知识星球 Java达摩院（redis&#43;新版 Spring Boot）"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="180"
+		data-flex-basis="433px"
+	
+></p>
+<p>本套课程知识星球 Java达摩院（redis+新版 Spring Boot），由江南一点雨主讲，本次更新包含redis教程和新版 Spring Boot，文件大小共计61.67G。课程为零基础的系统教程，适合初级及零基础的学员学习，如果你在工作中初涉该技术或者想完善自己Java基础技能的小伙伴可以学习本套教程，文章底部附下载地址。</p>
+<h3 id="课程文件目录">课程文件目录
+</h3><blockquote>
+<p>002.redis 介绍.mp4</p>
+<p>003.redis 安装.mp4</p>
+<p>第 02 章 基本数据类型</p>
+<p>02.基本数据类型-string.mp4</p>
+<p>03.基本数据类型-string(bit).mp4</p>
+<p>04.基本数据类型-list.mp4</p>
+<p>05.基本数据类型-set.mp4</p>
+<p>06.基本数据类型-hash.mp4</p>
+<p>07.基本数据类型-zset.mp4</p>
+<p>08.和 key 相关的操作.mp4</p>
+<p>09.补充.mp4</p>
+<p>第 03 章 java 客户端</p>
+<p>01.开启远程连接.mp4</p>
+<p>02.jedis 连接 redis.mp4</p>
+<p>03.jedis 连接池优化.mp4</p>
+<p>04.lettuce 简单介绍.mp4</p>
+<p>第 04 章 redis 基本应用</p>
+<p>01.redis 做分布式锁-1.mp4</p>
+<p>02.redis 做分布式锁-2.mp4</p>
+<p>03.redis 做分布式锁-3.mp4</p>
+<p>04.redis 做消息队列-1.mp4</p>
+<p>05.redis 做消息队列-2.mp4</p>
+<p>06.redis 操作位图-1.mp4</p>
+<p>07.redis 操作位图-2.mp4</p>
+<p>08.redis 操作位图-3.mp4</p>
+<p>09.redis 操作位图-4.mp4</p>
+<p>10.redis 中的 hyperloglog.mp4</p>
+<p>11.布隆过滤器[问题场景].mp4</p>
+<p>12.布隆过滤器[概念介绍].mp4</p>
+<p>13.布隆过滤器[原理介绍].mp4</p>
+<p>14.布隆过滤器[安装与启动].mp4</p>
+<p>15.布隆过滤器[基本用法].mp4</p>
+<p>16.布隆过滤器[参数配置].mp4</p>
+<p>17.布隆过滤器[缓存击穿].mp4</p>
+<p>18.限流[pipeline 介绍].mp4</p>
+<p>19.限流[简单限流].mp4</p>
+<p>20.限流[redis-cell].mp4</p>
+<p>21.限流[扩展客户端操作命令].mp4</p>
+<p>22.geohash算法介绍.mp4</p>
+<p>23.redis 中使用 geohash.mp4</p>
+<p>24.redis 之 scan[简单介绍].mp4</p>
+<p>25.redis 之 scan[基本用法].mp4</p>
+<p>26.redis 之 scan[基本原理].mp4</p>
+<p>27.redis 之 scan[其他命令].mp4</p>
+<p>第 05 章 深入理解 redis</p>
+<p>01.阻塞 io 与非阻塞 io.mp4</p>
+<p>02.redis 线程模型.mp4</p>
+<p>03.redis 通信协议[简介].mp4</p>
+<p>04.redis 通信协议[实战].mp4</p>
+<p>05.两种持久化方式简介.mp4</p>
+<p>06.redis 持久化之快照.mp4</p>
+<p>07.redis 持久化之 aof.mp4</p>
+<p>08.redis 事务[简介].mp4</p>
+<p>09.redis 事务[简单实现].mp4</p>
+<p>10.redis 事务[java 实现].mp4</p>
+<p>11.redis 主从同步[cap].mp4</p>
+<p>12.redis 主从同步[基本环境搭建].mp4</p>
+<p>13.redis 主从同步[复制流程].mp4</p>
+<p>14.redis 主从同步[接力赛].mp4</p>
+<p>15.redis 主从同步[哨兵模式].mp4</p>
+<p>16.redis 主从同步[jedis 操作哨兵模式].mp4</p>
+<p>17.redis 主从同步[spring boot 操作哨兵模式].mp4</p>
+<p>18.rediscluster[集群介绍].mp4</p>
+<p>19.rediscluster[集群搭建].mp4</p>
+<p>20.rediscluster[主从+密码].mp4</p>
+<p>21.rediscluster[动态添加节点].mp4</p>
+<p>22.rediscluster[jedis操作].mp4</p>
+<p>23.redis stream[基本介绍].mp4</p>
+<p>24.redis stream[基本操作].mp4</p>
+<p>25.redis stream[消息消费].mp4</p>
+<p>26.info 命令.mp4</p>
+<p>27.redis 过期策略.mp4</p>
+<p>28.redis 淘汰策略.mp4</p>
+<p>29.异步删除.mp4</p>
+<p>30.加密通信.mp4</p>
+<p>redis 笔记.epub</p>
+<p>redis 笔记.pdf</p>
+<p><strong>新版 spring boot</strong></p>
+<p>补充视频（原版内容）</p>
+<p>01.新版微人事部署问题汇总.mp4</p>
+<p>03.前端添加验证码.mp4</p>
+<p>04.[fastdfs]基本介绍.mp4</p>
+<p>05.[fastdfs]tracker 和 storage 安装.mp4</p>
+<p>06.[fastdfs]安装 nginx 模块.mp4</p>
+<p>07.[fastdfs]添加访问令牌，防止盗链.mp4</p>
+<p>08.个人中心数据展示.mp4</p>
+<p>09.个人中心数据修改.mp4</p>
+<p>10.密码更新.mp4</p>
+<p>11.fastdfs 文件上传-服务端.mp4</p>
+<p>11.fastdfs 文件上传-前端.mp4</p>
+<p>12.国际化.mp4</p>
+<p>13.spring boot+rabbitmq 保证消息可靠性(一).mp4</p>
+<p>14.spring boot+rabbitmq 保证消息可靠性(二).mp4</p>
+<p>15.spring boot+rabbitmq 保证消息可靠性(三).mp4</p>
+<p>第 01 章 初识 spring boot</p>
+<p>01-01.springboot 升级计划.mp4</p>
+<p>01-02.xml 文件配置 ssm.mp4</p>
+<p>01-03.java 配置 ssm【1】.mp4</p>
+<p>01-03.java 配置 ssm【2】.mp4</p>
+<p>01-04.spring boot 介绍.mp4</p>
+<p>01-05.spring boot 创建.mp4</p>
+<p>01-06.@configuration 注解详解.mp4</p>
+<p>01-07.springboot 项目启动类.mp4</p>
+<p>01-08.@springbootapplication 详解.mp4</p>
+<p>01-09.maven 工程结构问题.mp4</p>
+<p>01-10.maven 工程 resource 节点.mp4</p>
+<p>01-11.spring boot 的 parent.mp4</p>
+<p>第 02 章 spring boot 基本配置</p>
+<p>02-01.banner 技能.mp4</p>
+<p>02-02.web 容器基本配置.mp4</p>
+<p>02-03.tomcat 日志配置.mp4</p>
+<p>02-04.tomcat https 证书配置.mp4</p>
+<p>02-05.配置文件名称和路径.mp4</p>
+<p>02-06.属性普通注入方式.mp4</p>
+<p>02-07.类型安全的属性注入.mp4</p>
+<p>02-08.配置文件中引用 maven 配置.mp4</p>
+<p>02-09.使用短命令行参数.mp4</p>
+<p>02-10.yaml 配置.mp4</p>
+<p>02-11.profile 问题.mp4</p>
+<p>02-12.java 日志体系.mp4</p>
+<p>02-13.spring boot 日志配置.mp4</p>
+<p>第 03 章 spring boot 整合视图层</p>
+<p>03-01.thymeleaf 介绍.mp4</p>
+<p>03-02.spring boot+thymeleaf.mp4</p>
+<p>03-03.thymeleaf 模版手动渲染.mp4</p>
+<p>03-04.thymeleaf 简单表达式.mp4</p>
+<p>03-05.thymeleaf 各种表达式.mp4</p>
+<p>03-06.thymeleaf 内置对象.mp4</p>
+<p>03-07.thymeleaf 设置属性值.mp4</p>
+<p>03-08.thymeleaf 遍历.mp4</p>
+<p>03-09.thymeleaf 分支语句.mp4</p>
+<p>03-10.thymeleaf 内联.mp4</p>
+<p>03-11.freemarker 介绍.mp4</p>
+<p>03-12.freemarker 整合 spring boot.mp4</p>
+<p>03-14.freemarker 输出变量.mp4</p>
+<p>03-15.freemarker 其他常见表达式.mp4</p>
+<p>03-16.freemarker 常见内置函数.mp4</p>
+<p>03-18.freemarker 宏.mp4</p>
+<p>03-19.freemarker 项目实践.mp4</p>
+<p>03-20.【代码自动生成】项目介绍.mp4</p>
+<p>03-21.【代码自动生成】数据库连接.mp4</p>
+<p>03-22.【代码自动生成】加载数据表信息.mp4</p>
+<p>03-23.【代码自动生成】生成 model.mp4</p>
+<p>03-24.【代码自动生成】生成其他类.mp4</p>
+<p>03-25.spring boot 整合 jsp.mp4</p>
+<p>03-26.springmvc 视图解析器源码分析.mp4</p>
+<p>03-27.freemarker+thymeleaf 同时存在.mp4</p>
+<p>03-28.freemarker+jsp 同时存在.mp4</p>
+<p>03-29.thymeleaf+jsp 同时存在.mp4</p>
+<p>03-30.freemarker+thymeleaf+jsp 同时存在.mp4</p>
+<p>第 04 章 spring boot 整合 web 开发</p>
+<p>04-01.认识主流 json 框架.mp4</p>
+<p>04-02.spring boot 整合 jackson.mp4</p>
+<p>04-03.spring boot 整合 gson.mp4</p>
+<p>04-04.spring boot 整合 fastjson.mp4</p>
+<p>04-05.spring boot 处理静态资源.mp4</p>
+<p>04-06.spring boot 静态资源位置两种配置方式.mp4</p>
+<p>04-07.spring boot 单文件上传.mp4</p>
+<p>04-08.spring boot 多文件上传.mp4</p>
+<p>04-09.spring boot +ajax 上传文件.mp4</p>
+<p>04-10.spring boot + @controlleradvice 处理全局异常.mp4</p>
+<p>04-11.spring boot + @controlleradvice 定义全局数据.mp4</p>
+<p>04-13.spring boot 异常页面定义.mp4</p>
+<p>04-14.spring boot 异常处理原理解析.mp4</p>
+<p>04-15.spring boot 自定义异常处理.mp4</p>
+<p>04-16.spring boot 三种跨域方式梳理.mp4</p>
+<p>04-17.spring boot 导入 xml 配置.mp4</p>
+<p>04-18.spring boot 配置拦截器.mp4</p>
+<p>04-19.commandlinerunner 系统启动任务.mp4</p>
+<p>04-20.applicationrunner 系统启动任务.mp4</p>
+<p>04-21.spring boot 整合 web 基础组件.mp4</p>
+<p>04-22.spring boot 注册过滤器的 n 种方式.mp4</p>
+<p>04-23.spring boot 路径映射.mp4</p>
+<p>04-24.spring boot 参数类型转换.mp4</p>
+<p>04-25.spring boot 自定义首页与浏览器角标.mp4</p>
+<p>04-26.spring boot 整合 aop.mp4</p>
+<p>第 05 章 spring boot 整合数据持久层</p>
+<p>05-01.spring boot 整合 jdbctemplate.mp4</p>
+<p>05-02.spring boot 整合 jdbctemplate 多数据源.mp4</p>
+<p>05-03.spring boot 整合 mybatis【注解版】.mp4</p>
+<p>05-04.spring boot 整合 mybatis【xml版】.mp4</p>
+<p>05-05.spring boot 整合 mybatis 多数据源.mp4</p>
+<p>05-06.搭建 mysql 主从复制.mp4</p>
+<p>05-07.spring boot 动态切换数据源.mp4</p>
+<p>05-08.spring data jpa 介绍.mp4</p>
+<p>05-09.spring boot 整合 spring data jpa.mp4</p>
+<p>05-10.spring data jpa 方法命名规范.mp4</p>
+<p>05-11.spring data jpa 自定义查询、更新操作.mp4</p>
+<p>05-12.spring data jpa 多数据源.mp4</p>
+<p>第 06 章 spring boot 整合 nosql</p>
+<p>06-01.spring boot 整合 nosql.mp4</p>
+<p>06-02.spring boot 整合 redis.mp4</p>
+<p>06-03.spring boot 整合 session 共享.mp4</p>
+<p>06-04.nginx 实现 spring boot 请求负载均衡.mp4</p>
+<p>06-05.redis 处理 spring boot 接口幂等性【拦截器版】.mp4</p>
+<p>06-06.redis 处理 spring boot 接口幂等性【aop版】.mp4</p>
+<p>06-07.docker 安装 mongodb.mp4</p>
+<p>06-08.spring boot 整合 mongodb.mp4</p>
+<p>第 07 章 spring boot 构建 restful 风格接口</p>
+<p>07-01.restful 简介.mp4</p>
+<p>07-02.快速构建 restful 应用.mp4</p>
+<p>07-03.spring data rest 各种定制操作.mp4</p>
+<p>07-04.快速构建 restful 应用【mongodb版】.mp4</p>
+<p>07-05.快速构建 restful 应用【elasticsearch版】.mp4</p>
+<p>第 08 章 devtools 与单元测试</p>
+<p>08-01.体验一把 devtools.mp4</p>
+<p>08-02.静态资源修改为什么没有必要重启.mp4</p>
+<p>08-03.livereload 初体验.mp4</p>
+<p>08-04.禁用自动重启.mp4</p>
+<p>08-05.devtools 全局配置.mp4</p>
+<p>08-06.trigger-file 控制重启行为.mp4</p>
+<p>08-07.spring boot 单元测试简介.mp4</p>
+<p>08-08.spring boot mock 测试.mp4</p>
+<p>08-09.spring boot @mockbean 模拟数据.mp4</p>
+<p>第 09 章 spring boot 与 spring cache</p>
+<p>09-01.spring boot 缓存介绍.mp4</p>
+<p>09-02.spring cache 基本用法.mp4</p>
+<p>09-03.spring cache 自定义缓存 key.mp4</p>
+<p>09-04.spring cache 更新缓存.mp4</p>
+<p>09-05.spring cache 清空缓存.mp4</p>
+<p>09-06.spring cache 其他用法.mp4</p>
+<p>09-07.spring cache 缓存【ehcache版】.mp4</p>
+<p>第 10 章 spring boot 安全管理（原版内容）</p>
+<p>oauth2相关</p>
+<p>springsecurity补充（20200531）</p>
+<p>1.安全管理介绍.mp4</p>
+<p>10.基于数据库的认证.mp4</p>
+<p>11.角色继承.mp4</p>
+<p>13.oauth2 简介.mp4</p>
+<p>14.spring security 结合 oauth2.mp4</p>
+<p>15.整合 shiro 方式一.mp4</p>
+<p>16.整合 shiro 方式二.mp4</p>
+<p>17.spring security 使用 json 登录.mp4</p>
+<p>18.spring security 整合 jwt .mp4</p>
+<p>2.spring security 初体验.mp4</p>
+<p>3.手工配置用户名密码.mp4</p>
+<p>4.httpsecurity 配置.mp4</p>
+<p>5.登录表单详细配置.mp4</p>
+<p>6.注销登录配置.mp4</p>
+<p>7.多个 httpsecurity.mp4</p>
+<p>9.方法安全.mp4</p>
+<p>第 11 章 spring boot 与 websocket</p>
+<p>11-01.websocket 介绍.mp4</p>
+<p>11-02.spring boot+websocket 实现聊天室.mp4</p>
+<p>11-03.spring boot+websocket 实现在线私聊.mp4</p>
+<p>第 12 章 spring boot 与消息中间件</p>
+<p>12-01.消息中间件介绍.mp4</p>
+<p>12-02.安装 activemq.mp4</p>
+<p>12-03.spring boot 整合 activemq.mp4</p>
+<p>12-04.使用 docker 安装 rabbitmq.mp4</p>
+<p>12-05.rabbitmq 之 direct 模式.mp4</p>
+<p>12-06.rabbitmq 之 fanout 模式.mp4</p>
+<p>12-07.rabbitmq 之 topic 模式.mp4</p>
+<p>12-08.rabbitmq 之 header 模式.mp4</p>
+<p>第 13 章 spring boot 企业级开发</p>
+<p>13-01.邮件发送基础知识.mp4</p>
+<p>13-02.发送 qq 邮件准备工作.mp4</p>
+<p>13-03.发送简单邮件.mp4</p>
+<p>13-04.发送带附件的邮件.mp4</p>
+<p>13-05.发送带图片资源的邮件.mp4</p>
+<p>13-06.使用 freemarker 做邮件模版.mp4</p>
+<p>13-08.通过 @scheduled 注解配置定时任务.mp4</p>
+<p>13-09.通过 quartz 注解配置定时任务.mp4</p>
+<p>13-10.swagger 基本介绍.mp4</p>
+<p>13-11.swagger2 与 swagger3 的区别.mp4</p>
+<p>13-12.swagger3 之 helloworld.mp4</p>
+<p>13-13.swagger 各种注解.mp4</p>
+<p>13-14.spring boot 数据校验.mp4</p>
+<p>13-15.spring boot 数据分组校验.mp4</p>
+<p>第 14 章 spring boot 应用监控</p>
+<p>14-01.spring boot actuator 端点.mp4</p>
+<p>14-02.spring security 保护 actuator 端点.mp4</p>
+<p>14-03.配置 actuator 路径映射.mp4</p>
+<p>14-04.actuator 跨域支持.mp4</p>
+<p>14-05.actuator 健康指示器.mp4</p>
+<p>14-07.actuator 自定义应用信息.mp4</p>
+<p>14-08.actuator info 端点查看 git 提交信息.mp4</p>
+<p>14-09.actuator info 端点查看项目构建信息.mp4</p>
+<p>14-10.actuator 监控信息可视化.mp4</p>
+<p>14-11.actuator 邮件报警.mp4</p>
+<p>第 15 章 spring boot 编译打包</p>
+<p>15-01.spring boot 打包插件分析.mp4</p>
+<p>15-02.spring boot 可执行 jar 与 可依赖 jar 同时存在.mp4</p>
+<p>15-03.spring boot 依赖 jar 分离打包.mp4</p>
+<p>15-04.spring boot 打成 war 包.mp4</p>
+<p>第 16 章 微人事项目实战（原版内容）</p>
+<p>001.项目介绍.mp4</p>
+<p>002.项目技术架构.mp4</p>
+<p>003.vue 学习规划.mp4</p>
+<p>004.vue 初体验.mp4</p>
+<p>005.vue 条件指令.mp4</p>
+<p>006.vue 循环指令.mp4</p>
+<p>008.vue 处理用户输入.mp4</p>
+<p>009.vue 组件初体验.mp4</p>
+<p>010.vue 实例.mp4</p>
+<p>011.vue 模板语法.mp4</p>
+<p>012.vue 计算属性.mp4</p>
+<p>013.vue 侦听器.mp4</p>
+<p>014.vue class 绑定.mp4</p>
+<p>015.vue style 绑定.mp4</p>
+<p>016.vue 条件渲染.mp4</p>
+<p>017.vue 列表渲染.mp4</p>
+<p>018.vue 事件处理.mp4</p>
+<p>019.vue 表单输入绑定.mp4</p>
+<p>020.vue 组件基础.mp4</p>
+<p>021.vue 总结.mp4</p>
+<p>022.spa 单页面应用介绍.mp4</p>
+<p>023.node 和 npm.mp4</p>
+<p>024.创建一个单页面应用.mp4</p>
+<p>025.vue 工程目录介绍.mp4</p>
+<p>026.vue 单页面项目运行.mp4</p>
+<p>027.vue 工程代码解析.mp4</p>
+<p>028.vue-cli3 构建 vue 项目.mp4</p>
+<p>029.vue-cli3 项目结构介绍.mp4</p>
+<p>030.微人事登录页面制作.mp4</p>
+<p>031.处理前端登录事件.mp4</p>
+<p>032.服务端环境搭建.mp4</p>
+<p>033.服务端登录接口制作(一).mp4</p>
+<p>034.服务端登录接口制作(二).mp4</p>
+<p>036.登录页面跳转.mp4</p>
+<p>037.前端请求方法封装.mp4</p>
+<p>038.home 页 title 制作.mp4</p>
+<p>039.左边导航菜单制作.mp4</p>
+<p>040.菜单项接口介绍.mp4</p>
+<p>041.服务端菜单接口设计.mp4</p>
+<p>042.vuex 介绍与安装.mp4</p>
+<p>043.vuex 配置.mp4</p>
+<p>044.菜单请求工具类封装.mp4</p>
+<p>045.前端页面添加并完善菜单请求.mp4</p>
+<p>046.左边导航菜单加载.mp4</p>
+<p>047.页面加载问题解决.mp4</p>
+<p>048.微人事首页完善.mp4</p>
+<p>049.前后端分离权限管理思路探讨.mp4</p>
+<p>050.后端接口权限设计.mp4</p>
+<p>051.权限问题解决.mp4</p>
+<p>052.权限管理继续完善.mp4</p>
+<p>053.基础信息设置.mp4</p>
+<p>054.职位管理前端页面设计.mp4</p>
+<p>055.职位管理后端接口设计.mp4</p>
+<p>056.职位管理前后端接口对接.mp4</p>
+<p>057.职位管理前后端对接问题解决.mp4</p>
+<p>058.职位修改操作.mp4</p>
+<p>059.职位批量删除实现.mp4</p>
+<p>060.职称管理前端页面设计.mp4</p>
+<p>061.职称管理后端接口设计.mp4</p>
+<p>062.职称管理前后端接口对接.mp4</p>
+<p>063.职称批量删除实现.mp4</p>
+<p>064.解决职位管理中的一个小问题.mp4</p>
+<p>065.权限组前端页面制作.mp4</p>
+<p>066.权限组用户角色前后端接口对接.mp4</p>
+<p>067.权限组菜单树展示.mp4</p>
+<p>068.菜单角色关系修改.mp4</p>
+<p>069.权限组角色添加.mp4</p>
+<p>070.权限组角色删除.mp4</p>
+<p>071.[补充]登录问题完善.mp4</p>
+<p>072.部门管理数据展示和搜索.mp4</p>
+<p>073.部门树展示添加与删除.mp4</p>
+<p>074.部门树的动态修改[添加].mp4</p>
+<p>075.部门树的动态修改[删除].mp4</p>
+<p>076.操作员管理接口设计.mp4</p>
+<p>077.操作员管理页面展示.mp4</p>
+<p>079.操作员角色更新.mp4</p>
+<p>080.操作员搜索.mp4</p>
+<p>081.操作员删除.mp4</p>
+<p>082.[补充]增加数据加载进度条.mp4</p>
+<p>084.员工管理工具栏展示.mp4</p>
+<p>085.员工管理员工数据展示.mp4</p>
+<p>086.员工管理员工数据分页.mp4</p>
+<p>087.员工管理之员工搜索.mp4</p>
+<p>088.员工添加接口设计.mp4</p>
+<p>089.员工添加页面绘制.mp4</p>
+<p>090.员工添加页面下拉框数据加载.mp4</p>
+<p>091.员工添加页面工号加载.mp4</p>
+<p>092.员工添加页面部门列表展示.mp4</p>
+<p>093.员工添加.mp4</p>
+<p>094.员工添加数据校验.mp4</p>
+<p>095.[问题处理]部门管理问题处理.mp4</p>
+<p>096.员工删除.mp4</p>
+<p>097.员工信息更新.mp4</p>
+<p>098.[问题处理]自动计算合同期限问题.mp4</p>
+<p>099.[问题处理]权限组取消角色的所有权限.mp4</p>
+<p>100.员工数据导出(excel 导出).mp4</p>
+<p>101.员工数据导入(excel 上传).mp4</p>
+<p>102.员工数据导入(excel 解析).mp4</p>
+<p>103.员工数据导入(插入数据库).mp4</p>
+<p>104.员工高级搜索页面设计.mp4</p>
+<p>105.员工高级搜索页面动画.mp4</p>
+<p>106.禁用普通搜索.mp4</p>
+<p>107.员工高级搜索功能.mp4</p>
+<p>108.项目模块化改造 .mp4</p>
+<p>109.准备 rabbitmq 消息中间件 .mp4</p>
+<p>110.搭建邮件服务 .mp4</p>
+<p>111.自动发送员工入职欢迎邮件 .mp4</p>
+<p>112.[号外]开发环境的变化 .mp4</p>
+<p>113.工资账套服务端接口设计 .mp4</p>
+<p>114.工资账套前端页面设计 .mp4</p>
+<p>115.添加工资账套页面设计 .mp4</p>
+<p>116.工资账套添加页面设计 .mp4</p>
+<p>117.工资账套添加前后端接口对接 .mp4</p>
+<p>118.工资账套删除 .mp4</p>
+<p>119.工资账套编辑与刷新 .mp4</p>
+<p>120.员工账套数据展示 .mp4</p>
+<p>121.员工工资账套调整页面设计 .mp4</p>
+<p>122.员工工资账套更新 .mp4</p>
+<p>123.员工工资账套设置分页 .mp4</p>
+<p>124.修改工资账套问题解决 .mp4</p>
+<p>125.聊天页面方案介绍.mp4</p>
+<p>126.项目首页增加聊天入口.mp4</p>
+<p>127.聊天页面绘制.mp4</p>
+<p>128.调整聊天页面个人信息.mp4</p>
+<p>129.用户列表展示.mp4</p>
+<p>130.服务端消息处理配置.mp4</p>
+<p>131.前端的聊天配置.mp4</p>
+<p>132.消息首发测试.mp4</p>
+<p>133.用户列表优化.mp4</p>
+<p>134.消息发送处理.mp4</p>
+<p>135.消息接收处理.mp4</p>
+<p>136.聊天数据展示.mp4</p>
+<p>137.聊天消息自动刷新.mp4</p>
+<p>138.聊天完善.mp4</p>
+<p>139.聊天消息提示.mp4</p>
+<p>140.新消息提示红点.mp4</p>
+<p>141.聊天消息动态提示.mp4</p>
+</blockquote>
+<h3 id="课程下载">课程下载
+</h3><p><a class="link" href="https://pan.quark.cn/s/751d1f034291"  target="_blank" rel="noopener"
+    >https://pan.quark.cn/s/751d1f034291</a></p>
+
+</section>
+ <footer class="article-footer">
+    
+
+    </footer>
+ 
+</article>
+
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/5376/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">老男孩百亿PV大厂DBA专家实战直通班，视频&#43;源码资料</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/97585/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Python爬虫开发&#43;APP逆向超级大神班(9-10期)，(更新第10期)</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/69183/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">小红书电商笔记带货红利课</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/54842/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">头像插画基础&#43;小动物插画课</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/65768/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">李建伟-2024公司法新规逐条精讲</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+	<section class="copyright">
+		&copy;  2024 KUL藏宝库
+	</section>
+	
+	<section class="running-time">
+		本博客已稳定运行
+		<span id="runningdays" class="running-days"></span>
+	</section>
+	<section class="powerby">
+		 <br />
+		
+	</section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+</main>
+		</div>
+		<script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+<script>
+	let s1 = "2023-3-18"; 
+	s1 = new Date(s1.replace(/-/g, "/"));
+	let s2 = new Date();
+	let timeDifference = s2.getTime() - s1.getTime();
+
+	let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+	let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+	let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+	let result = days + "天" + hours + "小时" + minutes + "分钟";
+	document.getElementById("runningdays").innerHTML = result;
+</script>
+
+	</body>
+</html>

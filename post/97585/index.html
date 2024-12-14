@@ -1,0 +1,1473 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+	<head><meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="\n本套课程爬虫开发+APP逆向超级大神班(路飞)，Python爬虫从零基础小白到实战精通，课程官方售价5899元，路飞学城Python教学总监前汽车之家资深开发武sir银角大王主讲，本次更新包含爬虫开发以及APP逆向超级大神班1-3班的内容。这是一套系统的培训教程，适合零基础小白进阶提升，同时也适合缺少实战经验的应届大学生学习，文章底部附下载地址。\n"> <title>Python爬虫开发&#43;APP逆向超级大神班(9-10期)，(更新第10期)</title>
+
+<link rel="canonical" href="https://www.danlong360.com/post/97585/" />  <link rel="stylesheet" href="/scss/style.min.c45680511353826e5953e7964c1b787ab0fce262a22a8dc616850bae40ce26c8.css" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
+     crossorigin="anonymous">
+</script><meta property='og:title' content="Python爬虫开发+APP逆向超级大神班(9-10期)，(更新第10期)">
+<meta property='og:description' content="\n本套课程爬虫开发+APP逆向超级大神班(路飞)，Python爬虫从零基础小白到实战精通，课程官方售价5899元，路飞学城Python教学总监前汽车之家资深开发武sir银角大王主讲，本次更新包含爬虫开发以及APP逆向超级大神班1-3班的内容。这是一套系统的培训教程，适合零基础小白进阶提升，同时也适合缺少实战经验的应届大学生学习，文章底部附下载地址。\n">
+<meta property='og:url' content='https://www.danlong360.com/post/97585/'>
+<meta property='og:site_name' content='KUL藏宝库'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-12-14T19:04:40&#43;08:00'/><meta property='article:modified_time' content='2024-12-14T19:04:40&#43;08:00'/>
+<meta name="twitter:title" content="Python爬虫开发+APP逆向超级大神班(9-10期)，(更新第10期)">
+<meta name="twitter:description" content="\n本套课程爬虫开发+APP逆向超级大神班(路飞)，Python爬虫从零基础小白到实战精通，课程官方售价5899元，路飞学城Python教学总监前汽车之家资深开发武sir银角大王主讲，本次更新包含爬虫开发以及APP逆向超级大神班1-3班的内容。这是一套系统的培训教程，适合零基础小白进阶提升，同时也适合缺少实战经验的应届大学生学习，文章底部附下载地址。\n">
+<link rel="shortcut icon" href="/favicon.ico" />
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-K19J3P52BR"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-K19J3P52BR');
+        }
+      </script>
+	</head>
+	<body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu12742395681378621043.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">KUL藏宝库</a></h1>
+            <h2 class="site-description">纯净软件爱好者</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>分类</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#课程文件目录">课程文件目录</a></li>
+        <li><a href="#课程下载">课程下载</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+			<main class="main full-width">
+    <article class="main-article">
+	<header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E8%AF%BE%E7%A8%8B/" >
+                课程
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/97585/">Python爬虫开发&#43;APP逆向超级大神班(9-10期)，(更新第10期)</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024-12-14</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header> <section class="article-content">
+    
+    
+    <p><img src="/post/97585/3d13e67793ac861-76-600x515.jpg"
+	width="600"
+	height="515"
+	
+	loading="lazy"
+	
+		alt="爬虫开发&#43;APP逆向超级大神班"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="116"
+		data-flex-basis="279px"
+	
+></p>
+<p>本套课程爬虫开发+APP逆向超级大神班(路飞)，Python爬虫从零基础小白到实战精通，课程官方售价5899元，路飞学城Python教学总监前汽车之家资深开发武sir银角大王主讲，本次更新包含爬虫开发以及APP逆向超级大神班1-3班的内容。这是一套系统的培训教程，适合零基础小白进阶提升，同时也适合缺少实战经验的应届大学生学习，文章底部附下载地址。</p>
+<h3 id="课程文件目录">课程文件目录
+</h3><blockquote>
+<p>10 访问控制修饰符.mp4</p>
+<p>11 静态属性和静态方法.mp4</p>
+<p>12 继承的格式.mp4</p>
+<p>13 继承关系下的构造函数.mp4</p>
+<p>14 this和super.mp4</p>
+<p>15 重写和重载.mp4</p>
+<p>16 接口概念.mp4</p>
+<p>17 接口声明.mp4</p>
+<p>18 接口继承.mp4</p>
+<p>19 接口的实现.mp4</p>
+<p>2 类与对象.mp4</p>
+<p>20 抽象类.mp4</p>
+<p>21 面向对象之封装.mp4</p>
+<p>22 多态.mp4</p>
+<p>23 枚举类型.mp4</p>
+<p>24 包的定义和使用.mp4</p>
+<p>3 类的定义规范.mp4</p>
+<p>4 java类中的属性.mp4</p>
+<p>5 创建类实例化得到对象.mp4</p>
+<p>6 类中方法定义格式.mp4</p>
+<p>7 构造方法.mp4</p>
+<p>8 this关键字解释.mp4</p>
+<p>9 this关键字解释.mp4</p>
+<p>第11章 day08-安卓开发入门</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 开发一个点击换美女的app.mp4</p>
+<p>11 加载网络图片.mp4</p>
+<p>12 反编译自己的app.mp4</p>
+<p>13 今日内容总结.mp4</p>
+<p>2 安卓开发环境介绍.mp4</p>
+<p>3 androidstudio介绍.mp4</p>
+<p>4 androidstudio安装-配置-创建项目.mp4</p>
+<p>5 创建第一个安卓项目.mp4</p>
+<p>6 真机运行app.mp4</p>
+<p>7 模拟器运行app.mp4</p>
+<p>8 安卓开发流程.mp4</p>
+<p>9 安卓项目目录结构.mp4</p>
+<p>第12章 day09-安卓基础2</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 小电影案例后端打通.mp4</p>
+<p>11 xml持久化.mp4</p>
+<p>2 登录xml页面构建.mp4</p>
+<p>3 登录功能java代码.mp4</p>
+<p>4 okhttp介绍和发送http请求.mp4</p>
+<p>5 登录发送请求.mp4</p>
+<p>6 python编写后端-前后打通.mp4</p>
+<p>7 前端请求加密.mp4</p>
+<p>8 序列化和反序列化的使用.mp4</p>
+<p>9 小电影案例app端.mp4</p>
+<p>第13章 day10-安卓-c语言基础</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 编辑器安装.mp4</p>
+<p>11 乱码问题.mp4</p>
+<p>12 c语言之整形.mp4</p>
+<p>13 c语言之浮点型.mp4</p>
+<p>14 运算符.mp4</p>
+<p>15 if判断-循环-函数-字符-数组.mp4</p>
+<p>2 okhttp拦截器的使用.mp4</p>
+<p>3 拦截器总结.mp4</p>
+<p>4 拦截器逆向重点.mp4</p>
+<p>5 retrofit的使用.mp4</p>
+<p>6 retrofit逆向重点.mp4</p>
+<p>7 逆向自己app.mp4</p>
+<p>8 c语言介绍.mp4</p>
+<p>9 第一个c的helloworld.mp4</p>
+<p>第14章 day11-c语言和jni开发</p>
+<p>1 今日内容概要.mp4</p>
+<p>10 字符串格式.mp4</p>
+<p>11 字符串拼接和包含关系.mp4</p>
+<p>12 字符串的方法.mp4</p>
+<p>13 结构体和结构体指针.mp4</p>
+<p>14 使用结构体实现单向链表.mp4</p>
+<p>15 结构体实现双向链表和双向循环链表.mp4</p>
+<p>16 预处理.mp4</p>
+<p>17 头文件.mp4</p>
+<p>18 jni介绍.mp4</p>
+<p>19 ndk安装.mp4</p>
+<p>2 指针的定义和使用.mp4</p>
+<p>20 jni项目创建.mp4</p>
+<p>21 快速开发jni项目.mp4</p>
+<p>22 反编译自己的jni项目.mp4</p>
+<p>3 指针类型变量解引用.mp4</p>
+<p>4 修改变量的值和通过指针修改变量的值.mp4</p>
+<p>5 指针变量执行另一个变量地址.mp4</p>
+<p>6 指针零值和长度.mp4</p>
+<p>7 指针类型参数.mp4</p>
+<p>8 数组的指针.mp4</p>
+<p>9 指针的指针.mp4</p>
+<p>第15章 day12-jni高级</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 jni中c调用java案例之静态方法.mp4</p>
+<p>11 c调用java的成员方法.mp4</p>
+<p>12 调用成员方法总结.mp4</p>
+<p>13 动态注册和静态注册.mp4</p>
+<p>14 反编译自己的app-静态注册和动态注册.mp4</p>
+<p>2 jni开发流程.mp4</p>
+<p>3 jni类型签名.mp4</p>
+<p>4 java调用c之数字处理和指针修改字符串.mp4</p>
+<p>5 通过数组修改字符串.mp4</p>
+<p>6 字符串拼接v.mp4</p>
+<p>7 字符处理-把字符串转成16进制.mp4</p>
+<p>8 字节处理.mp4</p>
+<p>9 jni中c调用java案例解释.mp4</p>
+<p>第16章 day13-车智赢</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 hook-des加密和自己写的对比.mp4</p>
+<p>11 python实现_sign加密.mp4</p>
+<p>12 代码整合.mp4</p>
+<p>13 so文件简单分析.mp4</p>
+<p>2 今日目标和app安装.mp4</p>
+<p>3 抓包分析.mp4</p>
+<p>4 反编译-破解密码加密.mp4</p>
+<p>5 hook确认密码加密位置.mp4</p>
+<p>6 逆向_sign.mp4</p>
+<p>7 为什么要先破udid.mp4</p>
+<p>8 破解udid待加密的字符串.mp4</p>
+<p>9 破解des加密的iv和key.mp4</p>
+<p>第17章 day14-识货app</p>
+<p>1 今日内容.mp4</p>
+<p>10 各种hook及代码整合.mp4</p>
+<p>11 总结.mp4</p>
+<p>12 答疑.mp4</p>
+<p>2 今日爬取目标.mp4</p>
+<p>3 关于版本的选择.mp4</p>
+<p>4 绕过app强制更新.mp4</p>
+<p>5 绕过frida反调试.mp4</p>
+<p>6 绕过app代理检测.mp4</p>
+<p>7 搜索商品接口破解.mp4</p>
+<p>8 商品详情接口直接破解.mp4</p>
+<p>9 破解加密思路.mp4</p>
+<p>第18章 day15-得物</p>
+<p>1 今日内容.mp4</p>
+<p>10 newsign最终生成.mp4</p>
+<p>11 x-auth-token生成和代码整合.mp4</p>
+<p>2 绕过强制更新.mp4</p>
+<p>3 抓包分析-破解目标.mp4</p>
+<p>4 反编译搜索-hook确认位置.mp4</p>
+<p>5 分析requestutils–c方法逻辑.mp4</p>
+<p>6 分析a源码.mp4</p>
+<p>7 aesencrypt的encode核心逻辑.mp4</p>
+<p>8 encodebyte的so代码核心分析.mp4</p>
+<p>9 猜想加验证加密方式.mp4</p>
+<p>第19章 day16-b站播放量</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 aid和cid获取.mp4</p>
+<p>11 did破解.mp4</p>
+<p>12 代码整合.mp4</p>
+<p>2 抓包分析.mp4</p>
+<p>3 老版本jadx调大内存.mp4</p>
+<p>4 反编译-查找请求体位置.mp4</p>
+<p>5 hook确认请求体位置是否正确.mp4</p>
+<p>6 sign加密的破解.mp4</p>
+<p>7 python重写sign加密过程.mp4</p>
+<p>8 请求体加密-python实现.mp4</p>
+<p>9 上述流程总结.mp4</p>
+<p>第1章 爬虫&amp;逆向9期</p>
+<p>九期-10-requests实战案例_下.mp4</p>
+<p>九期-1-python基础回顾_上.mp4</p>
+<p>九期-2-python基础回顾_下.mp4</p>
+<p>九期-3-html+css.mp4</p>
+<p>九期-4-正则re解析.mp4</p>
+<p>九期-5-bs4解析.mp4</p>
+<p>九期-6-xpath解析.mp4</p>
+<p>九期-7-动态爬取数据requests 上.mp4</p>
+<p>九期-8-动态爬取数据requests_下.mp4</p>
+<p>九期-9-requests实战案例_上.mp4</p>
+<p>第20章 day17-b站2</p>
+<p>1 今日内容概述.mp4</p>
+<p>2 抓包分析.mp4</p>
+<p>3 buvid的生成.mp4</p>
+<p>4 如何确定是去xml中取值.mp4</p>
+<p>5 buvid总结.mp4</p>
+<p>6 session_id破解.mp4</p>
+<p>7 fp_local的破解1.mp4</p>
+<p>8 fp_local实现过程.mp4</p>
+<p>第21章 day18-b站3</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 代码整合.mp4</p>
+<p>11 总结.mp4</p>
+<p>2 网页端完播率和app端完播率对比.mp4</p>
+<p>3 抓包分析.mp4</p>
+<p>4 session的破解.mp4</p>
+<p>5 同学问题.mp4</p>
+<p>6 sign的破解之搜索找到.mp4</p>
+<p>7 通用hook-newstringutf.mp4</p>
+<p>8 通用方案找动态注册的函数.mp4</p>
+<p>9 sign破解.mp4</p>
+<p>第22章 day19-唯品会01</p>
+<p>1 今日内容概述.mp4</p>
+<p>2 抓包分析–找出需要破解的接口.mp4</p>
+<p>3 注册设备接口逆向目标.mp4</p>
+<p>4 破解device_token-uuid.mp4</p>
+<p>5 破解skey.mp4</p>
+<p>6 破解authorization.mp4</p>
+<p>7 authorization代码实现.mp4</p>
+<p>8 注册设备接口代码整合.mp4</p>
+<p>第23章 day20-唯品会02</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 破解aes的key值2.mp4</p>
+<p>11 破解aes的iv.mp4</p>
+<p>12 破解generate_token.mp4</p>
+<p>13 搜索代码整合总结.mp4</p>
+<p>2 gettokenbyfp破解目标.mp4</p>
+<p>3 vcspkey破解.mp4</p>
+<p>4 vcspsign破解.mp4</p>
+<p>5 代码实现gettokenbyfp.mp4</p>
+<p>6 generate_token接口破解目标.mp4</p>
+<p>7 搜索edata-hook分析.mp4</p>
+<p>8 反编译so分析逻辑.mp4</p>
+<p>9 破解aes的key值1.mp4</p>
+<p>第24章 day21-dym</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 password破解.mp4</p>
+<p>11 hook去掉安全提示.mp4</p>
+<p>12 sign的破解.mp4</p>
+<p>13 frida-rpc介绍.mp4</p>
+<p>14 通过rpc得到sign.mp4</p>
+<p>15 自己写应用调用别人的so.mp4</p>
+<p>2 root检测原理.mp4</p>
+<p>3 root绕过原理.mp4</p>
+<p>4 通用脚本方案.mp4</p>
+<p>5 面具-shamiko方案.mp4</p>
+<p>6 反编译-hook方案.mp4</p>
+<p>7 aosp方案.mp4</p>
+<p>8 抓包分析.mp4</p>
+<p>9 device破解.mp4</p>
+<p>第25章 day22-酒仙网</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 脱壳.mp4</p>
+<p>2 酒仙网登录.mp4</p>
+<p>3 酒仙网验证码登录分析.mp4</p>
+<p>4 使用ddddocr识别验证码.mp4</p>
+<p>5 使用pytesseract识别验证码.mp4</p>
+<p>6 使用麻瓜破解验证码.mp4</p>
+<p>7 代码实现验证码登录.mp4</p>
+<p>8 登录-预约.mp4</p>
+<p>9 frida反调试绕过.mp4</p>
+<p>第26章 day23-司小宝</p>
+<p>1 今日内容.mp4</p>
+<p>10 mitmproxy介绍.mp4</p>
+<p>11 mitmproxy安装.mp4</p>
+<p>12 mitmproxy使用和配置手机代理.mp4</p>
+<p>13 mitmproxy和ptyhon示例.mp4</p>
+<p>14 使用代理.mp4</p>
+<p>2 抓包分析.mp4</p>
+<p>3 逆向分析sign.mp4</p>
+<p>4 逆向sign-hook代码失败.mp4</p>
+<p>5 ptrace占坑及解决.mp4</p>
+<p>6 hook成功-破解sign.mp4</p>
+<p>7 手机号和密码加密破解.mp4</p>
+<p>8 代码整合.mp4</p>
+<p>9 免费代理池搭建.mp4</p>
+<p>第27章 day24-unidbg上</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 大姨妈案例.mp4</p>
+<p>11 得物案例.mp4</p>
+<p>12 海南航空案例.mp4</p>
+<p>2 unidbg是什么.mp4</p>
+<p>3 unidbg环境搭建和测试.mp4</p>
+<p>4 unidbg补环境.mp4</p>
+<p>5 unidbg补环境补充.mp4</p>
+<p>6 车智赢app回顾.mp4</p>
+<p>7 unidbg初始化手机设备.mp4</p>
+<p>8 unidbg运行sign得到结果.mp4</p>
+<p>9 关于传参和返回值.mp4</p>
+<p>第28章 day25-unidbg中篇</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 unidbg运行.mp4</p>
+<p>11 补环境.mp4</p>
+<p>12 关于系统对象.mp4</p>
+<p>13 安卓系统源码.mp4</p>
+<p>14 补充安卓系统对象.mp4</p>
+<p>2 唯品会skey回顾.mp4</p>
+<p>3 unidbg运行得到skey.mp4</p>
+<p>4 唯品会api_sign回顾和分析.mp4</p>
+<p>5 答疑.mp4</p>
+<p>6 unidbg运行.mp4</p>
+<p>7 唯品会的api_sign补环境.mp4</p>
+<p>8 唯品会总结.mp4</p>
+<p>9 识货回顾.mp4</p>
+<p>第29章 day26-unidbg下</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 pdd补环境.mp4</p>
+<p>11 主动调用so中的方法.mp4</p>
+<p>12 unidbg打包之车智赢.mp4</p>
+<p>13 打包b站.mp4</p>
+<p>14 打包识货.mp4</p>
+<p>2 b站sign回顾.mp4</p>
+<p>3 分析.mp4</p>
+<p>4 unidbg运行.mp4</p>
+<p>5 补环境之map的isempty方法.mp4</p>
+<p>6 补环境完成sign获取.mp4</p>
+<p>7 拼多多抓包-反编译-定位so.mp4</p>
+<p>8 hook确定找的位置是否正确.mp4</p>
+<p>9 unidbg运行.mp4</p>
+<p>第2章 day01-预备课-刷b站视频播放量</p>
+<p>1 预备课解释.mp4</p>
+<p>10 _uuid的生成.mp4</p>
+<p>11 获取buvid4和sid.mp4</p>
+<p>12 代码整合-无代理.mp4</p>
+<p>13 总结.mp4</p>
+<p>2 讲课资料.mp4</p>
+<p>2 今日目标-课程概要.mp4</p>
+<p>3 抓包分析视频播放量增长接口.mp4</p>
+<p>4 请求体分析.mp4</p>
+<p>5 python编写视频播放时间和打开时间.mp4</p>
+<p>6 分析并拿到aid和cid.mp4</p>
+<p>7 获取cookie中的buvid3和b_nut.mp4</p>
+<p>8 破解b_lsid-python重写l.b函数.mp4</p>
+<p>9 使用python还原b_lsid过程.mp4</p>
+<p>第30章 day27-xhs-上篇</p>
+<p>01 后续课程概述.mp4</p>
+<p>02 知识点概要.mp4</p>
+<p>03 抓包.mp4</p>
+<p>04 反编译和搜索定位.mp4</p>
+<p>05 分析-关于拦截器.mp4</p>
+<p>06 分析-requests对象.mp4</p>
+<p>07 分析-拦截器.mp4</p>
+<p>08 分析-xhshttpinterceptor.mp4</p>
+<p>09 答疑.mp4</p>
+<p>10 下节预告.mp4</p>
+<p>第31章 day28-xhs-下篇</p>
+<p>01 上节位置.mp4</p>
+<p>02 initializenative环境.mp4</p>
+<p>03 initialize环境.mp4</p>
+<p>04 intercept.mp4</p>
+<p>05 参数化和打包.mp4</p>
+<p>06 post的问题和解决.mp4</p>
+<p>07 测试.mp4</p>
+<p>第32章 day29-jm和天狗</p>
+<p>01 今日概要.mp4</p>
+<p>02 jm-流程.mp4</p>
+<p>03 jm-图片资源替换.mp4</p>
+<p>04 jm-修改代码.mp4</p>
+<p>05 天狗-背景.mp4</p>
+<p>06 天狗-任务.mp4</p>
+<p>07 天狗-脱壳.mp4</p>
+<p>08 天狗-app自动登录.mp4</p>
+<p>09 天狗-小程序验证码.mp4</p>
+<p>10 天狗-wx_code.mp4</p>
+<p>11 天狗-小程序登录.mp4</p>
+<p>12 天狗-小结.mp4</p>
+<p>第33章 day30-web服务</p>
+<p>01 web交付方式.mp4</p>
+<p>02 web专题概述.mp4</p>
+<p>03 快速上手.mp4</p>
+<p>04 请求相关.mp4</p>
+<p>05 响应相关.mp4</p>
+<p>06 前置请求.mp4</p>
+<p>07 mysql数据库.mp4</p>
+<p>08 redis.mp4</p>
+<p>09 案例-json存储.mp4</p>
+<p>10 案例-账户登录.mp4</p>
+<p>11 案例-同步请求.mp4</p>
+<p>第34章 day31-web服务</p>
+<p>01 今日概要.mp4</p>
+<p>02 耗时非io-任务队列.mp4</p>
+<p>03 耗时非io-结果队列.mp4</p>
+<p>04 耗时非io-api端.mp4</p>
+<p>05 耗时非io-客户端.mp4</p>
+<p>06 耗时非io-worker.mp4</p>
+<p>07 耗时请求名称更正.mp4</p>
+<p>08 fastapi-概述.mp4</p>
+<p>09 fastapi-创建项目.mp4</p>
+<p>10 答疑-postman.mp4</p>
+<p>11 fastapi-请求参数.mp4</p>
+<p>12 fastapi-请求体.mp4</p>
+<p>13 fastapi-请求中间件.mp4</p>
+<p>14 fastapi-异步.mp4</p>
+<p>15 fastapi-异步和网络请求.mp4</p>
+<p>16 fastapi-异步和缓存数据库.mp4</p>
+<p>17 fastapi-模版和静态资源.mp4</p>
+<p>18 fastapi-应用框架.mp4</p>
+<p>第35章 day32-web部署</p>
+<p>35.01 今日概要.mp4</p>
+<p>35.02 整体概览.mp4</p>
+<p>35.03 购买服务器和防火墙配置.mp4</p>
+<p>35.04 ssh-xshell和iterm2.mp4</p>
+<p>35.05 ssh-tabby.mp4</p>
+<p>35.06 centos入门命令.mp4</p>
+<p>35.07 git-本地.mp4</p>
+<p>35.08 git-托管平台.mp4</p>
+<p>35.09 git-服务器.mp4</p>
+<p>35.10 git-gitignore文件.mp4</p>
+<p>35.11 案例-系统解释器.mp4</p>
+<p>35.12 案例-环境和运行.mp4</p>
+<p>35.13 小结.mp4</p>
+<p>第36章 day33-web部署</p>
+<p>36.01 今日概要.mp4</p>
+<p>36.02 flask部署-流程.mp4</p>
+<p>36.03 flask步骤-提交代码.mp4</p>
+<p>36.04 flask步骤-获取代码.mp4</p>
+<p>36.05 flask步骤-虚拟环境.mp4</p>
+<p>36.06 flask步骤-uwsgi.mp4</p>
+<p>36.07 flask步骤-nginx.mp4</p>
+<p>36.08 fastapi部署.mp4</p>
+<p>36.09 域名解析.mp4</p>
+<p>36.10 其他补充.mp4</p>
+<p>36.11 小结.mp4</p>
+<p>第37章 day34-数美</p>
+<p>37.01 课程说明.mp4</p>
+<p>37.02 今日概要.mp4</p>
+<p>37.03 知识点-动态js无法调试.mp4</p>
+<p>37.04 知识点-charles替换.mp4</p>
+<p>37.05 知识点-mitmproxy替换.mp4</p>
+<p>37.06 知识点-代码混淆.mp4</p>
+<p>37.07 请求分析.mp4</p>
+<p>37.08 conf请求分析.mp4</p>
+<p>37.09 conf还原和实现.mp4</p>
+<p>37.10 register请求.mp4</p>
+<p>37.11 预告.mp4</p>
+<p>第38章 day35-数美</p>
+<p>01 本节概述.mp4</p>
+<p>02 请求参数分析.mp4</p>
+<p>03 寻找和定位.mp4</p>
+<p>04 代码混淆处理.mp4</p>
+<p>05 核心代码分析.mp4</p>
+<p>06 encrypt函数分析.mp4</p>
+<p>07 encrypt逆向实现.mp4</p>
+<p>08 其他参数分析.mp4</p>
+<p>09 坐标数据加密.mp4</p>
+<p>10 调试和关键代码定位.mp4</p>
+<p>11 坐标算法.mp4</p>
+<p>12 识别和等比例缩放.mp4</p>
+<p>13 注意顺序.mp4</p>
+<p>14 示例代码和演示.mp4</p>
+<p>15 结课啦.mp4</p>
+<p>第3章 day02-预备课-今日头条</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 补浏览器环境.mp4</p>
+<p>11 补环境小案例.mp4</p>
+<p>12 js文件执行问题.mp4</p>
+<p>13 真正补环境跟浏览器一样.mp4</p>
+<p>14 补环境总结.mp4</p>
+<p>15 抓包分析.mp4</p>
+<p>16 破解_signature.mp4</p>
+<p>17 补环境和代码整合.mp4</p>
+<p>2 今日目标.mp4</p>
+<p>3 前端基础.mp4</p>
+<p>4 前端基础之函数.mp4</p>
+<p>5 前端基础之object.assign.mp4</p>
+<p>6 搭建node环境.mp4</p>
+<p>7 node环境配置.mp4</p>
+<p>8 使用node执行js.mp4</p>
+<p>9 使用execjs执行js.mp4</p>
+<p>第4章 day01-开班</p>
+<p>1 今日内容概要.mp4</p>
+<p>10 关于设备和电脑选择.mp4</p>
+<p>11 oem锁和bl锁是什么.mp4</p>
+<p>12 关于谷歌手机.mp4</p>
+<p>13 关于root解释.mp4</p>
+<p>14 root谷歌手机步骤.mp4</p>
+<p>15 小米手机root步骤.mp4</p>
+<p>16 虚拟环境解释和创建.mp4</p>
+<p>17 导出项目依赖和切换虚拟环境.mp4</p>
+<p>2 个人介绍.mp4</p>
+<p>3 课程介绍.mp4</p>
+<p>4 关于直播.mp4</p>
+<p>5 关于课件和视频.mp4</p>
+<p>6 逆向原理.mp4</p>
+<p>7 什么是反编译.mp4</p>
+<p>8 关于jdk和jadx不同平台解释.mp4</p>
+<p>9 hook是什么.mp4</p>
+<p>第5章 day02-adb和抓包</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 adb其他命令.mp4</p>
+<p>11 关于投屏软件.mp4</p>
+<p>12 recovery介绍.mp4</p>
+<p>13 twrp-root手机.mp4</p>
+<p>14 谷歌手机刷机.mp4</p>
+<p>15 刷机方式root.mp4</p>
+<p>16 root总结.mp4</p>
+<p>17 抓包软件选择和原理.mp4</p>
+<p>18 mac和win安装charles.mp4</p>
+<p>19 配置真机抓包.mp4</p>
+<p>2 逆向基本流程.mp4</p>
+<p>20 配置模拟器抓包.mp4</p>
+<p>21 破解爱学生app登录接口.mp4</p>
+<p>3 adb介绍.mp4</p>
+<p>4 adb版本选择.mp4</p>
+<p>5 win平台安装adb.mp4</p>
+<p>6 mac平台安装adb.mp4</p>
+<p>7 环境变量的作用.mp4</p>
+<p>8 adb链接手机.mp4</p>
+<p>9 adb常用命令.mp4</p>
+<p>第6章 day03-反编译工具和hook</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 反编译apk，定位代码位置.mp4</p>
+<p>11 什么是hook框架.mp4</p>
+<p>12 frida的手机和电脑端配置.mp4</p>
+<p>13 通过frida打印手机所有进程和前台进程.mp4</p>
+<p>14 frida-hook密码加密方法.mp4</p>
+<p>15 python还原pwd加密算法.mp4</p>
+<p>16 frida的两种方案.mp4</p>
+<p>17 js编写两种hook方案.mp4</p>
+<p>2 配置模拟器抓取https的包.mp4</p>
+<p>3 配置真机抓取https包.mp4</p>
+<p>4 系统证书和用户证书区别-用户证书做成系统证书.mp4</p>
+<p>5 抓https包乱码问题.mp4</p>
+<p>6 模拟登录今日南川.mp4</p>
+<p>7 反编译工具介绍.mp4</p>
+<p>8 jdk环境安装.mp4</p>
+<p>9 jadx安装.mp4</p>
+<p>第7章 day04-逆向案例和java</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 charles修改请求包重新发送请求.mp4</p>
+<p>11 金树林搜索商品.mp4</p>
+<p>12 最新版爱安丘自动登录.mp4</p>
+<p>13 关于秘钥的解释.mp4</p>
+<p>14 java介绍.mp4</p>
+<p>2 加密的分类.mp4</p>
+<p>3 md5-sha1-des-rsa-base64加密.mp4</p>
+<p>4 爱安丘发送短信验证码破解.mp4</p>
+<p>4 金树林抓包–被封ip.mp4</p>
+<p>5 自动登录爱安丘.mp4</p>
+<p>6 接码平台.mp4</p>
+<p>7 金树林发送验证码.mp4</p>
+<p>8 自动注册.mp4</p>
+<p>9 自动登录金树林.mp4</p>
+<p>第8章 day05-java基础1</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 java项目的入口.mp4</p>
+<p>11 文件名命名规范.mp4</p>
+<p>12 类的规范.mp4</p>
+<p>13 java的注释.mp4</p>
+<p>14 变量和常量.mp4</p>
+<p>15 输入输出.mp4</p>
+<p>16 条件语句.mp4</p>
+<p>17 switch的使用.mp4</p>
+<p>18 3中循环方式.mp4</p>
+<p>19 java中基础数据类型.mp4</p>
+<p>2 破解x代码登录接口.mp4</p>
+<p>20 字节类型.mp4</p>
+<p>21 整数类型.mp4</p>
+<p>22 补充字节类型对应的ascii码.mp4</p>
+<p>23 小数类型.mp4</p>
+<p>24 字符串-数组-布尔.mp4</p>
+<p>3 登录总结.mp4</p>
+<p>4 java开发环境搭建和配置环境变量.mp4</p>
+<p>5 java_home解释mp4.mp4</p>
+<p>6 第一个helloworld.mp4</p>
+<p>7 java编辑器的选择.mp4</p>
+<p>8 idea的安装和破解.mp4</p>
+<p>9 创建项目编写第一个helloworld.mp4</p>
+<p>第9章 day06-java基础2</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 object类的方法.mp4</p>
+<p>11 object对象的具体类型.mp4</p>
+<p>12 arraylist和linkedlist基本使用.mp4</p>
+<p>13 list常用方法.mp4</p>
+<p>14 set基本使用.mp4</p>
+<p>15 交差并集.mp4</p>
+<p>16 迭代取值.mp4</p>
+<p>17 map基本使用.mp4</p>
+<p>18 map常用方法.mp4</p>
+<p>19 map的循环.mp4</p>
+<p>2 字符串常用方法.mp4</p>
+<p>20 类与对象和构造函数.mp4</p>
+<p>21 静态成员.mp4</p>
+<p>22 面向对象继承.mp4</p>
+<p>3 字符串拼接.mp4</p>
+<p>4 字节数组和字符串相互转换.mp4</p>
+<p>5 关于编码.mp4</p>
+<p>6 字符数组和字符串相互转换.mp4</p>
+<p>7 python中的字节和字符.mp4</p>
+<p>8 java字节数组转python字符串.mp4</p>
+<p>9 object的对象可以接收任意类型.mp4</p>
+<p><strong>路飞-app逆向超级大神班第10期</strong></p>
+<p>app课件</p>
+<p>day01-开班.zip</p>
+<p>day02-adb和刷机-root.zip</p>
+<p>day03-抓包和fan编译.zip</p>
+<p>day04-hook和常用加密和案例.zip</p>
+<p>day05-向案例和java.zip</p>
+<p>day06-java基础.zip</p>
+<p>day07-java基础2.zip</p>
+<p>day08-java基础03.zip</p>
+<p>day09-安卓基础.zip</p>
+<p>day10-安卓基础.zip</p>
+<p>day11-安卓和c基础.zip</p>
+<p>day12-c语言.zip</p>
+<p>day13-jni开发.zip</p>
+<p>day14-车智赢案例.zip</p>
+<p>day15-识货app.zip</p>
+<p>day16-得物app.zip</p>
+<p>day17-b站播放量01.zip</p>
+<p>day18-b站02.zip</p>
+<p>day19-b站03.zip</p>
+<p>day20-唯品会01.zip</p>
+<p>day21-唯品会02.zip</p>
+<p>day22-dym.zip</p>
+<p>day23-酒仙网.zip</p>
+<p>第10章 day10-安卓基础</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 gson实现序列化和反序列化.mp4</p>
+<p>11 安卓新页面跳转.mp4</p>
+<p>12 登录显示电影案例.mp4</p>
+<p>2 登录案例介绍.mp4</p>
+<p>3 登录案例xml编写.mp4</p>
+<p>4 登录案例java编写.mp4</p>
+<p>5 配置安卓发送http请求.mp4</p>
+<p>6 python编写后端.mp4</p>
+<p>7 转码问题.mp4</p>
+<p>8 安卓端java发送http请求.mp4</p>
+<p>9 请求带sign加密.mp4</p>
+<p>第11章 day11-安卓和c基础</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 学习c的目的.mp4</p>
+<p>11 c编译环境搭建.mp4</p>
+<p>12 第一个helloworld.mp4</p>
+<p>13 编辑器安装和配置.mp4</p>
+<p>2 小电影案例回顾.mp4</p>
+<p>3 xml持久化.mp4</p>
+<p>4 拦截器使用.mp4</p>
+<p>5 拦截器使用习惯.mp4</p>
+<p>6 逆向重点.mp4</p>
+<p>7 retrofit介绍和使用.mp4</p>
+<p>8 retrofit逆向重点.mp4</p>
+<p>9 逆向自己的app.mp4</p>
+<p>第12章 day12-c语言</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 字符串末尾结束符.mp4</p>
+<p>11 数组的使用.mp4</p>
+<p>12 定义指针类型-取变量地址-指针解引用.mp4</p>
+<p>13 修改变量的值.mp4</p>
+<p>14 结构体 的零值和长度.mp4</p>
+<p>15 通过指针修改变量的值.mp4</p>
+<p>16 指针类型参数.mp4</p>
+<p>17 数组的指针-指针运算.mp4</p>
+<p>18 指针的指针.mp4</p>
+<p>19 字符串格式.mp4</p>
+<p>2 整形.mp4</p>
+<p>20 字符串包含关系.mp4</p>
+<p>21 字符复制和相加.mp4</p>
+<p>22 结构体.mp4</p>
+<p>23 单向链表-双向链表-双向循环链表.mp4</p>
+<p>24 预处理.mp4</p>
+<p>25 头文件.mp4</p>
+<p>3 浮点型.mp4</p>
+<p>4 常量.mp4</p>
+<p>5 运算符.mp4</p>
+<p>6 if判断.mp4</p>
+<p>7 循环.mp4</p>
+<p>8 函数.mp4</p>
+<p>9 c语言入口函数和字符串.mp4</p>
+<p>第13章 day13-jni开发</p>
+<p>1 今日内容概要.mp4</p>
+<p>10 字符串拼接.mp4</p>
+<p>11 字符处理.mp4</p>
+<p>12 字节处理案例.mp4</p>
+<p>13 指针移动2解释.mp4</p>
+<p>14 c调用java案例静态方法.mp4</p>
+<p>15 c调用java案例成员方法.mp4</p>
+<p>16 静态注册.mp4</p>
+<p>17 动态注册.mp4</p>
+<p>18 反编译自己app之动态和静态注册.mp4</p>
+<p>2 jni介绍.mp4</p>
+<p>3 ndk安装.mp4</p>
+<p>4 创建jni项目.mp4</p>
+<p>5 快速开发.mp4</p>
+<p>6 jni类型.mp4</p>
+<p>7 java调用c案例之数字处理.mp4</p>
+<p>8 java调用c案例之指针修改字符串.mp4</p>
+<p>9 通过数组修改字符串.mp4</p>
+<p>第14章 day14-车智赢案例</p>
+<p>1 今日内容.mp4</p>
+<p>10 硬核破解des的key值.mp4</p>
+<p>11 关于头文件.mp4</p>
+<p>2 目标和app安装.mp4</p>
+<p>3 抓包分析.mp4</p>
+<p>4 破解密码加密方式.mp4</p>
+<p>5 hook确认密码位置.mp4</p>
+<p>6 定位_sign的加密位置.mp4</p>
+<p>7 udid生成方案.mp4</p>
+<p>8 代码实现udid.mp4</p>
+<p>9 最终破解_sign和代码整合.mp4</p>
+<p>第15章 day15-识货app</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 hook拦截器-找到位置.mp4</p>
+<p>11 老版本获取商品详情接口.mp4</p>
+<p>12 新版本识货代码整合.mp4</p>
+<p>13 模拟器测试-失败.mp4</p>
+<p>14 总结.mp4</p>
+<p>15 charles关闭抓取电脑数据包.mp4</p>
+<p>2 今日目标和版本选择.mp4</p>
+<p>3 app强制更新绕过.mp4</p>
+<p>4 绕过frida反调试.mp4</p>
+<p>5 绕过app代理检测.mp4</p>
+<p>6 搜索功能代码实现.mp4</p>
+<p>7 商品详情抓包分析.mp4</p>
+<p>8 尝试hook-map操作.mp4</p>
+<p>9 尝试hook-stringbuilder操作.mp4</p>
+<p>第16章 day16-得物app</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 反编译so文件.mp4</p>
+<p>11 so文件逻辑阅读.mp4</p>
+<p>12 python重现native方法.mp4</p>
+<p>13 代码生成newsign.mp4</p>
+<p>14 破解x-auth-token和代码整合.mp4</p>
+<p>15 总结.mp4</p>
+<p>2 绕过强制更新.mp4</p>
+<p>3 抓包分析.mp4</p>
+<p>4 反编译查找.mp4</p>
+<p>5 hook确认newsign位置.mp4</p>
+<p>6 requestutils.c代码分析.mp4</p>
+<p>7 aesencrypt.encode代码分析.mp4</p>
+<p>8 hook确认位置.mp4</p>
+<p>9 确认getbytevalues返回值固定.mp4</p>
+<p>第17章 day17-b站播放量01</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 请求体要破解参数.mp4</p>
+<p>11 aid和cid的获取.mp4</p>
+<p>12 did的生成.mp4</p>
+<p>13 代码整合.mp4</p>
+<p>14 总结.mp4</p>
+<p>2 抓包分析.mp4</p>
+<p>3 反编译-调大jadx内存.mp4</p>
+<p>4 反编译分析请求体构成.mp4</p>
+<p>5 hook–h7查看返回值-就是请求体.mp4</p>
+<p>6 把hook的字节数组转成16进制字符串.mp4</p>
+<p>7 破解sigin加密.mp4</p>
+<p>8 破解请求体加密的aes加密.mp4</p>
+<p>9 流程总结.mp4</p>
+<p>第18章 day18-b站02</p>
+<p>1 今日内容概述.mp4</p>
+<p>2 抓包分析-破解目标.mp4</p>
+<p>3 buvid破解和python生成.mp4</p>
+<p>4 session_id破解及python生成.mp4</p>
+<p>5 破解fp_local和fp_remote和python实现.mp4</p>
+<p>第19章 day19-b站03</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 代码整合.mp4</p>
+<p>2 今日目标.mp4</p>
+<p>3 抓包分析破解目标.mp4</p>
+<p>4 破解session加密.mp4</p>
+<p>5 sign的破解思路分析.mp4</p>
+<p>5 搜索方案找到sign的位置.mp4</p>
+<p>6 通用hook-newstringutf脚本.mp4</p>
+<p>7 继续分析后续破解.mp4</p>
+<p>8 搜索破解动态注册位置.mp4</p>
+<p>9 破解sign.mp4</p>
+<p>第1章 day01-开班</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 关于安卓设备.mp4</p>
+<p>11 关于购买手机解释.mp4</p>
+<p>12 关于root.mp4</p>
+<p>13 虚拟环境.mp4</p>
+<p>2 老师介绍.mp4</p>
+<p>3 课程介绍.mp4</p>
+<p>4 关于直播课.mp4</p>
+<p>5 关于视频和课件.mp4</p>
+<p>6 逆向原理.mp4</p>
+<p>7 反编译工具介绍.mp4</p>
+<p>8 hook是什么.mp4</p>
+<p>9 关于电脑设备.mp4</p>
+<p>第2章 day02-adb和刷机-root</p>
+<p>1 今日内容.mp4</p>
+<p>10 adb掌握的命令.mp4</p>
+<p>11 adb其他命令.mp4</p>
+<p>12 2xl刷机.mp4</p>
+<p>13 root手机.mp4</p>
+<p>14 root补充.mp4</p>
+<p>15 同学问题.mp4</p>
+<p>2 逆向基本流程.mp4</p>
+<p>3 adb是什么.mp4</p>
+<p>4 adb版本的选择.mp4</p>
+<p>5 win安装adb.mp4</p>
+<p>6 mac安卓adb.mp4</p>
+<p>7 环境变量作用.mp4</p>
+<p>8 用户环境变量和系统环境变量.mp4</p>
+<p>9 手机开启usb调试.mp4</p>
+<p>第3章 day03-抓包和反编译</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 配置包含和排除可以抓取的地址.mp4</p>
+<p>11 模拟器抓https包.mp4</p>
+<p>12 反编译工具和jdk介绍.mp4</p>
+<p>13 安装jdk.mp4</p>
+<p>14 jdax新旧版本安装.mp4</p>
+<p>15 jadx打不开解决.mp4</p>
+<p>16 抓包-反编译定位代码.mp4</p>
+<p>2 抓包工具介绍和选择.mp4</p>
+<p>3 charles安装和配置.mp4</p>
+<p>4 配置手机代理.mp4</p>
+<p>5 抓包-模拟登录某app.mp4</p>
+<p>6 配置模拟器抓取http包.mp4</p>
+<p>7 手机安装用户证书.mp4</p>
+<p>8 用户证书做成系统证书.mp4</p>
+<p>9 模拟登录今日南川.mp4</p>
+<p>第4章 day04-hook-常见加密-逆向案例</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 同学问题2.mp4</p>
+<p>11 js的attach和spawn方案.mp4</p>
+<p>12 常见加密算法.mp4</p>
+<p>13 金树林发送短信验证码.mp4</p>
+<p>14 注册功能.mp4</p>
+<p>15 登录功能.mp4</p>
+<p>16 搜索功能.mp4</p>
+<p>2 hook和hook框架.mp4</p>
+<p>3 frida手机和电脑端安装.mp4</p>
+<p>4 frida端口转发.mp4</p>
+<p>5 打印手机所有进程和前台进程代码.mp4</p>
+<p>6 hook车智赢密码案例.mp4</p>
+<p>7 spawn和attach方案hook.mp4</p>
+<p>8 使用attach和spawn方案hook车智赢.mp4</p>
+<p>9 同学问题.mp4</p>
+<p>第5章 day05-逆向案例和java</p>
+<p>1 今日目标.mp4</p>
+<p>10 新版爱安丘用户名密码登录.mp4</p>
+<p>11 抓包反编译x大夫的sign.mp4</p>
+<p>12 x代码登录代码整合.mp4</p>
+<p>13 合伙人自动登录.mp4</p>
+<p>14 java介绍.mp4</p>
+<p>2 爱安丘发送短信.mp4</p>
+<p>3 如何修改请求包再发送.mp4</p>
+<p>4 为什么要改包再发送.mp4</p>
+<p>5 爱安丘短信登录.mp4</p>
+<p>6 如何自动生成imei.mp4</p>
+<p>7 接码平台相关.mp4</p>
+<p>8 新版本爱安丘登录抓包.mp4</p>
+<p>9 新版爱安丘反编译查找密码加密.mp4</p>
+<p>第6章 day06-java基础</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 java类规范.mp4</p>
+<p>11 java和python绑定方法比较.mp4</p>
+<p>12 java中的注释.mp4</p>
+<p>13 变量和常量.mp4</p>
+<p>14 java的输入和输出.mp4</p>
+<p>15 条件语句.mp4</p>
+<p>16 java的循环.mp4</p>
+<p>17 基础数据类型介绍.mp4</p>
+<p>18 java字节类型.mp4</p>
+<p>19 python中的字符串和字节.mp4</p>
+<p>2 jdk安装和配置环境变量.mp4</p>
+<p>20 整数-小数-数组-布尔.mp4</p>
+<p>3 第一个java程序.mp4</p>
+<p>4 java编辑器的选择.mp4</p>
+<p>5 安装破解idea.mp4</p>
+<p>6 jetbrains全家桶解释.mp4</p>
+<p>7 idea下第一个helloworld.mp4</p>
+<p>8 java程序入口.mp4</p>
+<p>9 java文件名命名规范mp4.mp4</p>
+<p>第7章 day07-java基础2</p>
+<p>1 今日内容.mp4</p>
+<p>10 list基本使用.mp4</p>
+<p>11 arraylist和linkedlist常用方法.mp4</p>
+<p>12 list的迭代.mp4</p>
+<p>13 set介绍和基本使用.mp4</p>
+<p>14 集合的交叉并补.mp4</p>
+<p>15 迭代取值.mp4</p>
+<p>16 map使用-基本操作-循环.mp4</p>
+<p>17 类与对象-构造函数.mp4</p>
+<p>18 普通方法和静态方法.mp4</p>
+<p>19 面向对象继承-重载和重写.mp4</p>
+<p>2 字符串常用操作.mp4</p>
+<p>3 字符串拼接.mp4</p>
+<p>4 字节数组和字符串转换.mp4</p>
+<p>5 字符数组和字符串相互转换.mp4</p>
+<p>6 java字节数组和python字符串转换.mp4</p>
+<p>7 object类型讲解.mp4</p>
+<p>8 object类的方法.mp4</p>
+<p>9 关于tostring解释.mp4</p>
+<p>第8章 day08-java基础03</p>
+<p>1 今日内容.mp4</p>
+<p>10 静态成员和方法.mp4</p>
+<p>11 反编译apk代码比较.mp4</p>
+<p>12 类继承格式.mp4</p>
+<p>13 继承关系下的构造方法.mp4</p>
+<p>14 super和this关键字.mp4</p>
+<p>15 重写和重载.mp4</p>
+<p>16 接口概念和声明规范.mp4</p>
+<p>17 接口的继承和实现.mp4</p>
+<p>18 接口补充.mp4</p>
+<p>19 抽象类.mp4</p>
+<p>2 类与对象的概念.mp4</p>
+<p>20 封装.mp4</p>
+<p>21 多态.mp4</p>
+<p>22 包的使用.mp4</p>
+<p>23 包答疑.mp4</p>
+<p>3 类的定义规范.mp4</p>
+<p>4 类中的属性.mp4</p>
+<p>5 创建和使用类案例.mp4</p>
+<p>6 成员方法定义规范.mp4</p>
+<p>7 构造方法.mp4</p>
+<p>8 this关键字.mp4</p>
+<p>9 访问控制修饰符.mp4</p>
+<p>第9章 day09-安卓基础</p>
+<p>1 今日内容概述.mp4</p>
+<p>10 第一个app之java编写.mp4</p>
+<p>11 加载网络图片.mp4</p>
+<p>12 反编译自己app.mp4</p>
+<p>2 java中常用加密方式.mp4</p>
+<p>3 环境介绍.mp4</p>
+<p>4 androidstudio介绍.mp4</p>
+<p>5 androids安装-配置-创建项目.mp4</p>
+<p>6 安卓app运行在真机或虚拟机上.mp4</p>
+<p>7 安卓项目两种视图的目录结构.mp4</p>
+<p>8 安卓正向和逆向流程.mp4</p>
+<p>9 第一个app之xml编写.mp4</p>
+</blockquote>
+<h3 id="课程下载">课程下载
+</h3><p><a class="link" href="https://pan.quark.cn/s/0c43712044ab"  target="_blank" rel="noopener"
+    >https://pan.quark.cn/s/0c43712044ab</a></p>
+
+</section>
+ <footer class="article-footer">
+    
+
+    </footer>
+ 
+</article>
+
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/87973/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">知识星球 Java达摩院（redis&#43;新版 Spring Boot）视频教程</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/5376/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">老男孩百亿PV大厂DBA专家实战直通班，视频&#43;源码资料</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/69183/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">小红书电商笔记带货红利课</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/54842/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">头像插画基础&#43;小动物插画课</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/65768/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">李建伟-2024公司法新规逐条精讲</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+	<section class="copyright">
+		&copy;  2024 KUL藏宝库
+	</section>
+	
+	<section class="running-time">
+		本博客已稳定运行
+		<span id="runningdays" class="running-days"></span>
+	</section>
+	<section class="powerby">
+		 <br />
+		
+	</section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+</main>
+		</div>
+		<script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+<script>
+	let s1 = "2023-3-18"; 
+	s1 = new Date(s1.replace(/-/g, "/"));
+	let s2 = new Date();
+	let timeDifference = s2.getTime() - s1.getTime();
+
+	let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+	let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+	let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+	let result = days + "天" + hours + "小时" + minutes + "分钟";
+	document.getElementById("runningdays").innerHTML = result;
+</script>
+
+	</body>
+</html>
