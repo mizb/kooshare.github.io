@@ -7,7 +7,55 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 12 Dec 2024 23:38:31 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 14 Dec 2024 16:34:59 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>优启通VIP版(U盘启动盘制作工具) v3.7.2024.1204</title>
+        <link>https://www.danlong360.com/post/43989/</link>
+        <pubDate>Sat, 14 Dec 2024 16:34:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/43989/</guid>
+        <description>&lt;p&gt;优启通VIP版(EasyU,简称EU)是IT天空打造的一款专业U盘启动盘制作工具,优启通工具采用U盘三分区方案,支持BIOS(Legacy)与UEFI双启动模式,在支持主流硬件基础上,同时兼容早期多数旧硬件.整合各种装机必备工具,并结合IT天空数款自研软件,有效提高系统安装效率.U盘PE所在分区于系统下自动隐藏,PE区与数据区分别独立,便于使用者对数据的各项操作.优启通WinPE系统定位于一线装机技术员,系统工程师和系统维护人员.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/43989/20241214_043528.png&#34;
+	width=&#34;582&#34;
+	height=&#34;400&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;145&#34;
+		data-flex-basis=&#34;349px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;功能特点&#34;&gt;功能特点
+&lt;/h3&gt;&lt;p&gt;1）U盘模式：一键全新制作, 支持免格升级, UD/EFI分区, 个性化启动菜单, 模拟测试
+2）本地模式：将PE写入当前系统盘符, 支持BLOS/UEFI引导, 安装PETools/Dlc扩展包
+3）生成ISO：生成PE的ISO镜像,可用于量产,虚拟机;可选UDF/PETools/Dlc扩展包,可选引导菜单样式
+4）分区管理：这辅助功能,用于检查及修复U盘,创建磁盘分区操作,文件信息, 如:UD区信息,安装信息等
+5）高级选项：UD/EFI分区,本地模式,ISO-BLOS/EFI,2003PE/Win10PE,各种加载命令,磁盘检测模式等&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;该版本已包含DLC组件
+v3.7.2024.1204
+调整 – 11PE 限制加载模式，不再加载用户DIY修改内核文件的行为
+调整 – 11PE 默认输入法
+修复 – 11PE 文本文件（.txt）默认程序
+修复 – 11PE 声音驱动
+修复 – 11PE 桌面 CTRL+A 全选功能
+更新 – FastCopy 5.8 汉化版&lt;/p&gt;
+&lt;h3 id=&#34;特别提醒&#34;&gt;特别提醒
+&lt;/h3&gt;&lt;p&gt;1.下载解压后，请运行EasyU主程序进行制作；
+2.请预先准备好U盘或者移动硬盘，推荐标配16G或以上；
+3.请尽可能选择速度和性能好的U盘，某些较差的控制芯片的U盘可能导致制作失败；
+4.请在制作前备份U盘内重要数据，避免出现不必要的问题；
+5.个别杀软会将主程序或PE内工具软件报毒，还请理性判断；
+6.移动硬盘USB转接芯片的优劣，将导致制作成功与否或可否正常启动。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOE3KeeaieRs1_BCmzYZdxjiA1?pwd=tu7g&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOE3KeeaieRs1_BCmzYZdxjiA1?pwd=tu7g&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>小修 Windows 11 IoT LTSC2024 (26100.2605) 极限精简 二合一 (2024.12.12)</title>
         <link>https://www.danlong360.com/post/33286/</link>
         <pubDate>Thu, 12 Dec 2024 23:38:31 +0800</pubDate>
