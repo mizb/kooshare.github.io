@@ -7,7 +7,110 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 14 Dec 2024 16:50:42 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 15 Dec 2024 10:54:24 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>迅雷 v11.2.2.1716 去广告VIP绿色精简版</title>
+        <link>https://www.danlong360.com/post/19265/</link>
+        <pubDate>Sun, 15 Dec 2024 10:54:24 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/19265/</guid>
+        <description>&lt;p&gt;迅雷11最新版(Thunder)于2020年8月推出,是继迅雷X之后的换代版PC迅雷客户端.迅雷11重新设计了主界面框架,将下载与云盘合二为一,在迅雷云盘里可以流畅的观看视频,从云盘取回文件的速度,号称将前所未有的快!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/19265/20241215_105440.png&#34;
+	width=&#34;640&#34;
+	height=&#34;523&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;293px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://yangtai.xunlei.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://yangtai.xunlei.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;迅雷11主要特点：
+迅雷云盘加持，将【下载】与【云盘】合二为一！支持【迅雷快鸟】功能
+得益于迅雷领先的下载技术，从云盘取回文件的速度，也将前所未有的快！
+现在登录迅雷云盘，即使是非会员用户也将免费获得2TB网盘空间！试下？
+- 全新主界面框架，结构清晰易上手
+- 全新下载详情页，播放视频更快捷
+- 全新”迅雷云盘”，空间大！看得爽！速度快！
+- -PC、Android、iOS、Web 全平台云盘内容互通！
+- 全新新建任务面板，化繁为简！更可直通云盘！&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;2021.07.08 去广告VIP最终版！
+- 去近期出现的右下角VIP促销弹窗
+- 去边下边播弹出扫码极速播放弹窗
+- 去播放器右下方手机扫码播放按钮&lt;/p&gt;
+&lt;p&gt;//参考@落尘之木的过去修改更新而来并增加以下修改：
+* 解锁本地云盘极速下载特权，无开通会员提示（New）
+* 禁止非会员点击下载任务的超级加速弹出VIP过期弹窗（New）
+* 去云盘界面和传输文件界面顶部&amp;quot;服务协议&amp;quot;黄色提示条（New）
+* 去登陆VIP会员过期弹窗，去菜单开机启动、关于界面检查更新
+* 禁止首次退出软件弹出烦人的 &amp;ldquo;是否创建桌面快捷方式&amp;quot;提示弹窗
+* 禁止下载任务时点退出弹出烦人的 &amp;ldquo;当前任务正在下载&amp;quot;提示弹窗
+* 修改实现了可以左键按住主界面 [新建下载]按钮右侧空白区域拖动
+* 禁止后台下载迅雷影音安装包、禁播放组件自动创建桌面快捷方式&lt;/p&gt;
+&lt;p&gt;1、本地SVIP10会员，VIP标识和悬浮窗，解除主界面大小限制
+2、去右下角广告弹窗、去头像会员推广提示、去抱团下载滚动提示
+3、去主界面的：浏览器搜索框、用户消息按钮、登陆送2T空间按钮
+4、去侧边栏按钮：发现栏(浏览器)、消息、会员中心、下载手机迅雷
+5、去菜单无用项：下载诊断工具、开机启动、检查更新、意见反馈等
+6、禁止功能调用内置浏览器加载、禁止下载插件升级、禁止下载广告场景包
+7、删除大堆不必要的垃圾程序：迅雷基础服务、诊断工具、升级程序组件等
+8、此精简版支持接管浏览器下载、影音播放边下边看、抱团下载、字幕搜索&lt;/p&gt;
+&lt;p&gt;「关于非IE内核浏览器如何关联迅雷下载」
+Chrom/Edge：装[迅雷下载支持]扩展Thunder Download Extension.crx
+Firefox：安装扩展组件 xThunder.api 即可（可根据需要对扩展进行配置）
+百分浏览器, 360极速浏览器：无需扩展，运行绿化.bat后可直接调用迅雷
+ThunderBHO有[迅雷下载支持]扩展CRX，当然也可在Chrome商店安装&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/5d4019dc8565&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/5d4019dc8565&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>YT Downloader(下载YouTube视频工具) v9.11.6 便携版</title>
+        <link>https://www.danlong360.com/post/83425/</link>
+        <pubDate>Sun, 15 Dec 2024 10:45:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/83425/</guid>
+        <description>&lt;p&gt;YT Downloader是一款用于下载YouTube视频的工具。它提供了一种简单快捷的方式，让用户能够将自己喜欢的视频保存到本地，并随时观看，无需依赖网络连接。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/83425/20241215_104609.png&#34;
+	width=&#34;640&#34;
+	height=&#34;430&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;148&#34;
+		data-flex-basis=&#34;357px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;下载YouTube视频：YT Downloader能够将YouTube上的视频以各种格式下载到计算机上，包括MP4、AVI、WMV等常见格式。
+转换音频文件：除了视频下载，该软件还提供了将视频转换为音频文件的功能，支持MP3、WAV、AAC等格式。
+批量下载：用户可以将多个YouTube视频链接复制到软件中，一次性下载多个视频，提高下载效率。
+提供多种视频质量选择：YT Downloader可以根据用户的需求，提供多种视频质量供选择。用户可以选择高清、标清等不同画质，以适应不同设备和网络环境。
+音频提取：软件还支持从视频中提取音频部分，用户可以将喜欢的音乐保存到本地，并添加到自己的音乐播放列表中。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观：YT Downloader拥有简单易用的用户界面，用户只需复制YouTube视频链接，选择下载格式和质量即可完成下载。
+高速稳定的下载：该软件使用先进的下载技术，能够以更快的速度下载视频，并且保持下载过程的稳定性。
+多种格式支持：YT Downloader支持多种视频和音频格式的下载和转换，满足用户不同的需求。
+无广告：该软件没有任何弹窗广告或其他干扰用户体验的广告内容，提供纯净的下载服务。
+免费使用：YT Downloader是一款免费的工具，用户可以自由下载和使用，无需支付任何费用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOE7Fs-jRRl4nAlU3a4-BqbyA1?pwd=kuky&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOE7Fs-jRRl4nAlU3a4-BqbyA1?pwd=kuky&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>MediaGO 视频嗅探工具 v3.0.0 绿色便携版</title>
         <link>https://www.danlong360.com/post/57728/</link>
         <pubDate>Sat, 14 Dec 2024 16:50:42 +0800</pubDate>

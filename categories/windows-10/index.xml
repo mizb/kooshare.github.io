@@ -7,7 +7,107 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 12 Dec 2024 23:33:46 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-10/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 15 Dec 2024 11:14:48 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-10/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>小修 Windows 10 Pro 22H2 (19045.5247) 深度精简 二合一 (2024.12.14)</title>
+        <link>https://www.danlong360.com/post/38478/</link>
+        <pubDate>Sun, 15 Dec 2024 11:14:48 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/38478/</guid>
+        <description>&lt;p&gt;温馨提示: 测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
+&lt;p&gt;2024-12-14 更新至补丁 19045.5247 移除了 linux 子系统；修复了打印到 pdf 输出不是 pdf 格式；优化系统大小、图像加载速度&lt;/p&gt;
+&lt;p&gt;申明：版本每次更新 修系统并不是只迭代更新，会把一些累计的优化调整加入 不会一一全部例举。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/38478/XXWindows10SDJJ1904502.png&#34;
+	width=&#34;1024&#34;
+	height=&#34;768&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;小修 Windows 10 Pro 22H2 (19045.5247) 深度精简 二合一 (2024.12.14)&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本特点&#34;&gt;版本特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;纯净、无广告、流畅、右键设置、响应速度、适合办公娱乐/集成微软常用运行库合集、DX&lt;/li&gt;
+&lt;li&gt;关闭windows更新不包括驱动 更新不包括恶意软件删除工具&lt;/li&gt;
+&lt;li&gt;集成.NET Framework 3.5(仅限Windows转换程序)旧版制作&lt;/li&gt;
+&lt;li&gt;集成更新后运行清理 (仅限Windows转换程序) 后期封装制作&lt;/li&gt;
+&lt;li&gt;此版本为WIN10的深度精简，不支持window功能关闭开启。&lt;/li&gt;
+&lt;li&gt;保留了打印，笔记本指纹等功能，若使用hyper-v、平板推荐轻度精简windows版本&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;主要保留&#34;&gt;主要保留
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;• User版本 4.67G / [自建账户]&lt;/strong&gt;
+共享、计算器、打印、空间音效、看图、WMP、截图、Net3.5 – 4.8、光学、搜索、指纹、剪贴板、Heic
+IE、ODBC、简体输入法、蓝牙、wifi、xbox驱动、、防火墙、画图、Mstsc、注册表、语音识别、VP9、远程桌面
+User安装完毕 C盘占用4.0G左右 首次进入桌面进程优化控制在45左右浮动&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;• Admin版本 4.67G / [快速安装]&lt;/strong&gt;
+相比User&lt;del&gt;一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/del&gt;&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名称: H:\Windows 10 Pro 19045.5247 2in1 深度精简版 小修.esd
+文件大小: 1451690624 字节
+修改时间: 2024 年 12 月 14 日, 1:33:09
+MD5: 90491DE6F0C512AB026507FF35983823
+SHA1: B1CC4B64FA3860CD7A9BAD44BB5BD608F17D2CE0
+CRC32: 7489C46A&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOE7Kn_o3TYKFnm5V8T12O3zA1?pwd=f62w&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOE7Kn_o3TYKFnm5V8T12O3zA1?pwd=f62w&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小修 Windows 10 Pro 22H2 (19045.5247) 轻度精简 二合一 (2024.12.14)</title>
+        <link>https://www.danlong360.com/post/46312/</link>
+        <pubDate>Sun, 15 Dec 2024 11:13:12 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/46312/</guid>
+        <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
+&lt;p&gt;2024-12-14 更新至补丁 19045.5247 禁用相关广告的 ID；改善延迟宽容度(减少蓝屏概率)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/46312/XXWindows10QDJJ2023081001.png&#34;
+	width=&#34;1024&#34;
+	height=&#34;768&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;小修 Windows 10 Pro 22H2 (19045.5247) 轻度精简 二合一 (2024.12.14)&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本特点&#34;&gt;版本特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;纯净、无广告、流畅、右键设置、响应速度、适合办公娱乐/集成微软常用运行库合集、DX&lt;/li&gt;
+&lt;li&gt;关闭windows更新不包括驱动 更新不包括恶意软件删除工具&lt;/li&gt;
+&lt;li&gt;集成.NET Framework 3.5(仅限Windows转换程序)旧版制作&lt;/li&gt;
+&lt;li&gt;集成更新后运行清理 (仅限Windows转换程序) 后期封装制作&lt;/li&gt;
+&lt;li&gt;使用微软商店记得打开服务 window up 默认关闭 [此版本不支持更新]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;主要保留&#34;&gt;主要保留
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;• U版本 5.16G / [自建账户]&lt;/strong&gt;
+共享、计算器、打印、空间音效、看图、WMP、截图、Net3.5 – 4.8、光学、IIS、搜索、指纹、剪贴板
+ODBC、简体输入法、蓝牙、wifi、xbox驱动、bitlocker、防火墙、画图、Mstsc、触摸、人脸、平板、IE
+User安装完毕 C盘占用4.5G左右 首次进入桌面进程优化控制在45左右浮动&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;• A版本 5.16G / [快速安装]&lt;/strong&gt;
+相比User&lt;del&gt;一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/del&gt;&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名称: H:\Windows 10 Pro 19045.5247 2in1 小修.esd
+文件大小: 1654552708 字节
+修改时间: 2024 年 12 月 13 日, 22:51:24
+MD5: D34DE5EB63616AEE5387A9D69C344F8A
+SHA1: 75E31D18A06CAA8E9E1A3901AC63ED07EC0F1F88
+CRC32: B342CF31&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOE7Kn_o3TYKFnm5V8T12O3zA1?pwd=f62w&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOE7Kn_o3TYKFnm5V8T12O3zA1?pwd=f62w&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows 10 LTSC 2021 (19044.5247) 集成镜像 (2024年12月)</title>
         <link>https://www.danlong360.com/post/4994/</link>
         <pubDate>Thu, 12 Dec 2024 23:33:46 +0800</pubDate>
