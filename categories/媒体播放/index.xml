@@ -7,7 +7,45 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 14 Dec 2024 16:49:59 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Dec 2024 08:59:48 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>FreeTube(开源的YouTube客户端) v0.22.1 多语便携版</title>
+        <link>https://www.danlong360.com/post/3634/</link>
+        <pubDate>Mon, 16 Dec 2024 08:59:48 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/3634/</guid>
+        <description>&lt;p&gt;FreeTube 是一个开源的 YouTube 客户端，通过它可以在不使用 YouTube 官方应用或网站的情况下，浏览和观看 YouTube 视频。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/3634/20241216_085959.png&#34;
+	width=&#34;694&#34;
+	height=&#34;503&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;331px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;视频浏览：用户可以通过 FreeTube 浏览 YouTube 上的视频，并根据自己的喜好搜索、筛选和观看视频。
+隐私保护：FreeTube 不收集或存储用户的个人数据或用户行为数据，保护用户的隐私。
+订阅频道：用户可以使用 FreeTube 订阅自己喜欢的频道，以获取最新的视频更新。
+自定义设置：FreeTube 允许用户自定义界面主题、字体大小和其他显示设置，以满足个人喜好和需求。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;开源：FreeTube 是一个开源项目，任何人都可以查看、修改和分发它的源代码。这使得用户可以验证软件的安全性。
+跨平台支持：FreeTube 可在多个操作系统上运行，包括 Windows、macOS 和 Linux。用户可以根据自己的设备选择适合的版本。
+广告屏蔽：FreeTube 阻止 YouTube 上的广告显示，提供更流畅的观看体验。
+播放列表：用户可以创建和管理自己的播放列表，方便组织和观看视频。
+代理连接：FreeTube 允许用户通过代理服务器连接到 YouTube，以进一步增强隐私保护和访问限制。
+播放器选项：用户可以选择使用自己喜欢的播放器来播放 YouTube 视频，包括 VLC、MPC-HC 和 MPV 等。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEC-D-kieRs1_BCmzYc7Rw1A1?pwd=3nv2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEC-D-kieRs1_BCmzYc7Rw1A1?pwd=3nv2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Muffon 松饼播放器 v2.1.0</title>
         <link>https://www.danlong360.com/post/81827/</link>
         <pubDate>Sat, 14 Dec 2024 16:49:59 +0800</pubDate>
