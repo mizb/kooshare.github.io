@@ -7,7 +7,135 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 16 Dec 2024 08:59:48 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Dec 2024 22:17:21 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Bili.Copilot 哔哩助理 v2.2412.2.0 绿色版</title>
+        <link>https://www.danlong360.com/post/47352/</link>
+        <pubDate>Mon, 16 Dec 2024 22:17:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/47352/</guid>
+        <description>&lt;p&gt;Bili.Copilot（哔哩助理）是一款免费开源，适用于 Windows 11 的第三方桌面应用，专注于 B站用户 的视频播放与管理需求，并通过 MPV 嵌入式方案 提供高效流媒体播放。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/47352/20241028184325451385.webp&#34;
+	width=&#34;1219&#34;
+	height=&#34;776&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;157&#34;
+		data-flex-basis=&#34;377px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;视频播放：支持多种方案，包括嵌入式 MPV、多媒体框架（MediaFoundation）、外部播放器及网页播放器。&lt;/p&gt;
+&lt;p&gt;人工智能：集成 20 余种 AI 模型，实现字幕总结、内容评价及 AI 互动问答（需要自己填写APIKey）。&lt;/p&gt;
+&lt;p&gt;视频下载：内置 BBDown 及 ffmpeg，支持直接下载并自动混流，无需额外配置。&lt;/p&gt;
+&lt;p&gt;插件支持：通过 BewlyBewly 插件增强网页播放体验，使其与主题同步。&lt;/p&gt;
+&lt;h3 id=&#34;安装方法&#34;&gt;安装方法
+&lt;/h3&gt;&lt;p&gt;打开系统设置，依次选择 系统 -&amp;gt; 开发者选项，打开 开发人员模式。滚动到页面底部，展开 PowerShell 区块，开启 更改执行策略&amp;hellip; 选项&lt;/p&gt;
+&lt;p&gt;下载应用包后解压，右键单击文件夹中的 install.ps1 脚本，选择 使用 PowerShell 运行&lt;/p&gt;
+&lt;h3 id=&#34;软件下载&#34;&gt;软件下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEErVFbF-K-B2jYfXXfG_z_A1?pwd=eh4m&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEErVFbF-K-B2jYfXXfG_z_A1?pwd=eh4m&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PotPlayer 241216(1.7.22398) 去广告绿色版</title>
+        <link>https://www.danlong360.com/post/77351/</link>
+        <pubDate>Mon, 16 Dec 2024 22:07:57 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/77351/</guid>
+        <description>&lt;p&gt;Daum PotPlayer播放器是一款全能多媒体影音播放器,堪称Windows平台最强大的本地视频播放器.PotPlayer最新版拥有强劲播放引擎加速,支持DXVA,CUDA,QuickSync,多媒体播放器支持蓝光3D,其内置强大的编码器及滤镜/分离器,支持自定义添加解码器,对字幕的支持非常优秀,能兼容特效字幕及在线搜索字幕实时翻译.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/77351/20241216_100817.png&#34;
+	width=&#34;723&#34;
+	height=&#34;399&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;181&#34;
+		data-flex-basis=&#34;434px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;PotPlayer Version History - VideoHelp
+&lt;a class=&#34;link&#34; href=&#34;https://www.videohelp.com/software/PotPlayer/version-history&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.videohelp.com/software/PotPlayer/version-history&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;231220(1.7.22074)版本之后PotPlayer64.dll已被作者加壳防修改！&lt;/p&gt;
+&lt;p&gt;[241216] v241216(1.7.22398) 正式版
+-&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
++ 添加使用 Whisper 从语音生成字幕的功能
++ 添加使用命令行选项打开音频的功能
++ 添加为 HDR 2084 设置显示器亮度的功能
+- 修正 WEBP 图片文件无法播放的问题
+- 修正某些 MP3 歌词不出现的问题
+- 修正某些 MPEG TS 文件播放缓慢的问题
+- 修正播放某些文件时黑屏的问题&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;pot播放器,potplayer绿色精简版,potplayer绿色便携版
+1、去效验，去右下角空白广告弹窗！卸载可选备份设置
+2、禁止后台联网请求：境外广告、发送日志、检查升级
+3、集成额外的音频解码器及视频解码器组件：Open Codec for PotPlayer
+├—DTS, MLP, TrueHD编码器ModuleFFmpeg4FFmpegMininum64.dll
+├—S/W HEVC(H265)编码器PotPlayerModuleFFmpeg4FFmpeg64.dll
+├—Intel H.264 MVC 3D编解码器库 PotPlayerModulelibmfxsw(64).dll
+4、预设配置：常规设置 + 默认启用自定义解码器H.265/HEVC及硬件加速
+├—滤镜—视频解码器—内置解码器/DXVA设置—&amp;gt;使用硬件加速 (DXVA)
+├—滤镜—视频解码器—内置解码器/DXVA设置—解码器—&amp;gt;H.265/HEVC
+5、集成三款精选皮肤主题：简约暴风, ModernW10, Carefree (轻尘系列)
+6、删除TV直播列表, 登陆程序,日志管理, 消息通知, 多语言等不必要的文件&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEEoct7igvgvZnjNhQElcnxA1?pwd=i6r8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEEoct7igvgvZnjNhQElcnxA1?pwd=i6r8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>foobar2000(免费播放器软件) v2.24.1 绿色版</title>
+        <link>https://www.danlong360.com/post/5157/</link>
+        <pubDate>Mon, 16 Dec 2024 22:01:17 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/5157/</guid>
+        <description>&lt;p&gt;foobar2000是一个免费的音频播放器软件，它采用模块化设计，支持各种音频格式和高级特性，可以满足音乐爱好者和专业人士的需求。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/5157/20241216_100239.png&#34;
+	width=&#34;571&#34;
+	height=&#34;433&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;131&#34;
+		data-flex-basis=&#34;316px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种音频格式：foobar2000支持众多音频格式，包括MP3、M4A、AAC、WMA、FLAC等，同时通过插件还可以支持更多格式。&lt;/li&gt;
+&lt;li&gt;支持高级特性：foobar2000支持多种音频特性，如重播增益、音频调整、音频标签编辑等，使用户能够更加自由地管理和播放音频文件。&lt;/li&gt;
+&lt;li&gt;自由度高：foobar2000支持自定义外观和布局，用户可以根据自己的喜好对播放器进行调整，并可以通过插件扩展播放器的功能。&lt;/li&gt;
+&lt;li&gt;快速稳定：foobar2000采用了轻量级的设计和高效的代码结构，使得它的打开速度和响应速度非常快，同时也非常稳定。&lt;/li&gt;
+&lt;li&gt;支持音频处理和转换：foobar2000内置了一些音频处理和转换工具，用户可以通过它们进行音频处理和格式转换。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;绿色免费：foobar2000是完全免费的，而且它是一个绿色版软件，可以直接解压使用，没有复杂的安装步骤。&lt;/li&gt;
+&lt;li&gt;支持第三方插件：foobar2000的插件非常丰富，在官方网站上可以找到各种插件，比如均衡器、增强板、DSP、格式支持、主题等，这些插件可以更好地满足用户的需求。&lt;/li&gt;
+&lt;li&gt;支持多种平台：foobar2000支持多种操作系统，包括Windows、macOS、Linux等。这使得我们无论在哪个平台上都可以使用这一软件。&lt;/li&gt;
+&lt;li&gt;用户友好性：foobar2000非常易于使用和操作，提供了许多有用的功能，并且还有一个快速的搜索功能，帮助用户快速查找和播放他们需要的音频。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEEoV7_XO3pMou2o2a42k47A1?pwd=v434&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEEoV7_XO3pMou2o2a42k47A1?pwd=v434&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>FreeTube(开源的YouTube客户端) v0.22.1 多语便携版</title>
         <link>https://www.danlong360.com/post/3634/</link>
         <pubDate>Mon, 16 Dec 2024 08:59:48 +0800</pubDate>
