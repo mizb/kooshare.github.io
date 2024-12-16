@@ -7,7 +7,52 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 15 Dec 2024 10:50:22 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Dec 2024 12:49:59 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>TTime(输入/截图/划词翻译软件) v0.9.15 中文绿色版</title>
+        <link>https://www.danlong360.com/post/80759/</link>
+        <pubDate>Mon, 16 Dec 2024 12:49:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/80759/</guid>
+        <description>&lt;p&gt;TTime是一款翻译软件，主要功能为输入翻译、截图翻译、划词翻译。平时工作或学习中难免会有存在需要翻译的场景，但是又没有一款好用而又简单的翻译工具，TTime现在可以帮助我们更好的提高工作和学习效率。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/80759/20241216_125020.png&#34;
+	width=&#34;450&#34;
+	height=&#34;375&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;120&#34;
+		data-flex-basis=&#34;288px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h3&gt;&lt;p&gt;输入翻译 (Alt + Q)：通过按下默认快捷键 Alt + Q 方式调出翻译窗口，可以自行输入翻译
+截图翻译 (Alt + W)：通过按下默认快捷键 Alt + W 方式调出截图，截图完毕后软件会自动对图片进行识别并翻译
+划词翻译 (Alt + E)：通过按下默认快捷键 Alt + E 方式会对光标已选中的文字进行识别翻译&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;1.[新增] 优化内置DeepL服务可能无法翻译问题
+2.[新增] 支持翻译输入框在光标处换行，而不是在尾部换行
+3.[新增] 支持智谱AI、DeepLX翻译
+4.[新增] 支持第三方AI翻译服务(OpenAI、Ollama等) 创建自定义提示词
+5.[新增] 支持设置静默窗口显示（解决在全屏模式下，触发显示窗口时会跳出问题）
+6.[新增] 更新 Ollama、Gemini 模型列表，并支持填写自定义模型
+7.[新增] 支持快捷键截图到剪贴板
+8.[新增] 支持会员用户设置 -&amp;gt; 我的页支持自行设备解绑
+9.[新增] 支持托盘菜单开启 / 停用快捷键
+10.[新增] 优化开启文本处理时，当划词或截图等场景时，输入的内容也会被一并处理
+11.[新增] 优化设置页点击标题时也会触发开关问题
+12.[修复] 设置页翻译源/文字识别源列表拖拽排序时顺序错误问题&lt;/p&gt;
+&lt;p&gt;Windows安装版：TTime-0.9.15-setup.exe
+Windows便携版：TTime-0.9.15.exe&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOECoWkoNz58usCYR_fXGV6DA1?pwd=9xwi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOECoWkoNz58usCYR_fXGV6DA1?pwd=9xwi&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>PixPin截图工具(支持截长图截动图) v1.9.5.0 / 1.9.9.0 beta 中文绿色版</title>
         <link>https://www.danlong360.com/post/44233/</link>
         <pubDate>Sun, 15 Dec 2024 10:50:22 +0800</pubDate>
