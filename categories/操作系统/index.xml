@@ -7,7 +7,644 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 16 Dec 2024 22:07:20 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 17 Dec 2024 00:07:23 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>小修 Windows 10 Pro 22H2 (19045.5247) 深度精简 二合一 (2024.12.16)</title>
+        <link>https://www.danlong360.com/post/48399/</link>
+        <pubDate>Tue, 17 Dec 2024 00:07:23 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/48399/</guid>
+        <description>&lt;p&gt;温馨提示: 测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
+&lt;p&gt;2024-12-16 更新至补丁 19045.5247 修复版本号；移除了 linux 子系统；修复了打印到 pdf 输出不是 pdf 格式；优化系统大小、图像加载速度&lt;/p&gt;
+&lt;p&gt;申明：版本每次更新 修系统并不是只迭代更新，会把一些累计的优化调整加入 不会一一全部例举。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/48399/XXWindows10SDJJ1904501.png&#34;
+	width=&#34;1024&#34;
+	height=&#34;768&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;小修 Windows 10 Pro 22H2 (19045.5247) 深度精简 二合一 (2024.12.16)&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本特点&#34;&gt;版本特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;纯净、无广告、流畅、右键设置、响应速度、适合办公娱乐/集成微软常用运行库合集、DX&lt;/li&gt;
+&lt;li&gt;关闭windows更新不包括驱动 更新不包括恶意软件删除工具&lt;/li&gt;
+&lt;li&gt;集成.NET Framework 3.5(仅限Windows转换程序)旧版制作&lt;/li&gt;
+&lt;li&gt;集成更新后运行清理 (仅限Windows转换程序) 后期封装制作&lt;/li&gt;
+&lt;li&gt;此版本为WIN10的深度精简，不支持window功能关闭开启。&lt;/li&gt;
+&lt;li&gt;保留了打印，笔记本指纹等功能，若使用hyper-v、平板推荐轻度精简windows版本&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;主要保留&#34;&gt;主要保留
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;• User版本 4.67G / [自建账户]&lt;/strong&gt;
+共享、计算器、打印、空间音效、看图、WMP、截图、Net3.5 – 4.8、光学、搜索、指纹、剪贴板、Heic
+IE、ODBC、简体输入法、蓝牙、wifi、xbox驱动、、防火墙、画图、Mstsc、注册表、语音识别、VP9、远程桌面
+User安装完毕 C盘占用4.0G左右 首次进入桌面进程优化控制在45左右浮动&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;• Admin版本 4.67G / [快速安装]&lt;/strong&gt;
+相比User&lt;del&gt;一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/del&gt;&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名称: H:\Windows 10 Pro 19045.5247 2in1 深度精简版 小修.esd
+文件大小: 1449507764 字节
+修改时间: 2024 年 12 月 16 日, 11:37:05
+MD5: 42C30D2E99CCBC2EFEBC7CB228FE5894
+SHA1: 2487D834881086B07C90D76876E59A9AE6DA06BF
+CRC32: C2B4AD75&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEFKkrOimJ5xX98QGSZSL3_A1?pwd=cj5d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEFKkrOimJ5xX98QGSZSL3_A1?pwd=cj5d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小修 Windows 10 Pro 22H2 (19045.5247) 轻度精简 二合一 (2024.12.16)</title>
+        <link>https://www.danlong360.com/post/12412/</link>
+        <pubDate>Tue, 17 Dec 2024 00:05:27 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/12412/</guid>
+        <description>&lt;p&gt;温馨提示:测试新系统之前，请记得备份好文档数据，遇到问题可及时还原&lt;/p&gt;
+&lt;p&gt;2024-12-16 更新至补丁 19045.5247 修复版本号；禁用相关广告的 ID；改善延迟宽容度(减少蓝屏概率)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/12412/XXWindows10QDJJ2023081002.png&#34;
+	width=&#34;1024&#34;
+	height=&#34;768&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;小修 Windows 10 Pro 22H2 (19045.5247) 轻度精简 二合一 (2024.12.16)&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本特点&#34;&gt;版本特点
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;纯净、无广告、流畅、右键设置、响应速度、适合办公娱乐/集成微软常用运行库合集、DX&lt;/li&gt;
+&lt;li&gt;关闭windows更新不包括驱动 更新不包括恶意软件删除工具&lt;/li&gt;
+&lt;li&gt;集成.NET Framework 3.5(仅限Windows转换程序)旧版制作&lt;/li&gt;
+&lt;li&gt;集成更新后运行清理 (仅限Windows转换程序) 后期封装制作&lt;/li&gt;
+&lt;li&gt;使用微软商店记得打开服务 window up 默认关闭 [此版本不支持更新]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;主要保留&#34;&gt;主要保留
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;• U版本 5.16G / [自建账户]&lt;/strong&gt;
+共享、计算器、打印、空间音效、看图、WMP、截图、Net3.5 – 4.8、光学、IIS、搜索、指纹、剪贴板
+ODBC、简体输入法、蓝牙、wifi、xbox驱动、bitlocker、防火墙、画图、Mstsc、触摸、人脸、平板、IE
+User安装完毕 C盘占用4.5G左右 首次进入桌面进程优化控制在45左右浮动&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;• A版本 5.16G / [快速安装]&lt;/strong&gt;
+相比User&lt;del&gt;一个是自建用户名、一个是快速管理员账户、且可能不支持指纹&lt;/del&gt;&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名称: H:\Windows 10 Pro 19045.5247 2in1 小修.esd
+文件大小: 1655763546 字节
+修改时间: 2024 年 12 月 16 日, 10:06:37
+MD5: E0C7C09542C08CED0439DEF793572399
+SHA1: EA52A714CEDDF093EF56A4D90F59A76C6D66E1EA
+CRC32: A42E53B6&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEFKkrOimJ5xX98QGSZSL3_A1?pwd=cj5d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEFKkrOimJ5xX98QGSZSL3_A1?pwd=cj5d&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>不忘初心 Windows10 LTSC2021 (19044.5247) x64 精简 美化版 太阳谷 无更新 (20240.12.11) 建议3-11代CPU</title>
+        <link>https://www.danlong360.com/post/99328/</link>
+        <pubDate>Tue, 17 Dec 2024 00:02:57 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/99328/</guid>
+        <description>&lt;p&gt;注意此版不能更新补丁，而且非纯净版，爱之所及，心之所至，保留Hyper和linux并且替换了太阳谷图标，集成了任务栏透明工具、独家4K高清壁纸，新增鸿蒙HarmonyOS 字体，根据自己需要选择，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少，办公基本无影响&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/99328/BWCXWindow10LTSC2021MHB06.jpg&#34;
+	width=&#34;1200&#34;
+	height=&#34;675&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;不忘初心 Windows10 LTSC2021 (19044.5247) x64 精简 美化版 太阳谷 无更新 (20240.12.11) 建议3-11代CPU&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;windows-10-ltsc-2021的特性&#34;&gt;Windows 10 LTSC 2021的特性：‌‌
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;‌&lt;strong&gt;极简性&lt;/strong&gt;‌：该版本去除了大量非必要功能，提供了一个干净、高效的工作环境。这意味着用户将获得一个更加清爽、无干扰的系统界面，专注于核心功能，避免了冗余功能的干扰‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;低资源占用&lt;/strong&gt;‌：系统运行内存占用低，即使在配置较低的设备上也能流畅运行。这对于老旧设备来说是一个福音，能够显著提升系统的整体性能和响应速度‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;长期支持&lt;/strong&gt;‌：虽然更新频率较低，但LTSC提供了必要的安全更新和补丁，保证了系统的安全性。这对于需要长期稳定运行的企业环境来说尤为重要‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;稳定性&lt;/strong&gt;‌：作为面向企业用户的版本，LTSC的稳定性是其最大的卖点。它减少了不必要的更新频率，确保了系统的长期稳定运行，适合对稳定性要求极高的应用场景‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;可控更新&lt;/strong&gt;‌：不同于普通版本的频繁更新，LTSC版本允许用户自主控制更新频率，有效避免因系统更新导致的兼容性问题，确保企业环境的稳定与安全‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;集成驱动&lt;/strong&gt;‌：系统内置万能驱动，大幅简化了安装后的设备驱动配置过程，无论是新装机还是升级系统，都能快速投入使用‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;适用场景&lt;/strong&gt;‌：适合追求极致纯净体验、需要高度稳定性及可控性的企业用户或专业开发者。同时也适合那些希望在老旧设备上获得流畅体验的用户‌&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新记录&#34;&gt;更新记录
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;2024.12.11更新记录&lt;/strong&gt;
+#更换最新版 TranslucentTB 任务栏透明软件，中文版本可以设置透明度、颜色【查看图片】
+#更新安装包 Microsoft.HEIFImageExtension_1.2.3.0_HEIF图片扩展安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.HEVCVideoExtension_2.2.9.0_HEVC视频扩展安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.MicrosoftPCManager_3.14.10.0_微软电脑管家安装包_pc528.net_(20241114).zip
+#更新安装包 Microsoft.Windows.Photos_2024.11100.17007.0照片安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.WindowsCamera_2022.2408.1.0相机安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.WindowsStore_22410.1401.2.0商店安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.XboxApp_Xbox.TCUI_XboxGaming_XBOX游戏安装包_pc528.net_(20241112).zip
+#更新安装包 关闭或开启按流量计费_pc528.net_(20241002).zip
+#更新安装包 微软常用运行库合集2024.11.07.exe
+#更新安装包 禁止或开启系统自动安装驱动_pc528.net_(20241002).zip
+#更新安装包 MicrosoftEdgeX64_131.0.2903.86.msi
+#KB5048562（19044.5247）微软官方更新如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;此更新解决了 Windows 操作系统的安全问题。&lt;/li&gt;
+&lt;li&gt;**[Sysprep /generalize]**已修复：此命令失败，并出现错误 0x80073cf。当您在删除包的依赖项后尝试删除包时，会发生这种情况。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;美化版特色&#34;&gt;美化版特色
+&lt;/h3&gt;&lt;p&gt;离线更换太阳谷图标图标焕然一新，感受一下新图标带来的视觉感。
+桌面壁纸源文件在：C:\Windows\Web\4K\Wallpaper\Windows
+锁屏壁纸源文件在：C:\Windows\Web\Screen
+集成TranslucentTB非常好用的win10任务栏透明工具。轻量级(使用几MB的RAM,几乎没有CPU),可以根据自己的喜好来自定义设置任务栏的透明度，支持在不同的效果之间进行切换，你会发现自己的桌面任务栏很美观。
+TranslucentTB安装路径在：C:\ProgramData\TranslucentTB
+集成字体 雅痞-简体、腾祥爱情体简体、方正少儿_GBK、方正粗圆_GBK、造字工房朗倩常规体等5款字体，文章最后有字体预览图。
+集成右键在此处打开命令行，更加方便使用CMD命令。
+集成右键 用记事本打开文件，方便查看一些文件。
+集成右键 快捷设置 包含 注册表 组策略 计算器 桌面图标 控制面板 系统服务 重启桌面 系统版本。
+启用新的文件夹图标预览
+集成微软常用运行库&lt;/p&gt;
+&lt;h3 id=&#34;系统特色&#34;&gt;系统特色
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;此版不能正常更新补丁。&lt;/li&gt;
+&lt;li&gt;纯净 无任何第三方软件。&lt;/li&gt;
+&lt;li&gt;追求稳定、没有过度优化，可以正常办公。&lt;/li&gt;
+&lt;li&gt;总共优化150多项系统内容，系统流畅更胜一筹。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;优化后台进程首次开机大约50个进程左右；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;禁用后台40多项系统不常用服务&lt;/li&gt;
+&lt;li&gt;彻底阻止IE浏览器跳转Micosoft Edge。&lt;/li&gt;
+&lt;li&gt;需要用到指纹的，请用自建账户，Admin不支持;&lt;/li&gt;
+&lt;li&gt;提升自建账户权限，自建账户将拥有和 &amp;ldquo;Administrator&amp;quot;管理员账号一样的权限（首次安装重启后生效）。&lt;/li&gt;
+&lt;li&gt;防止自动更新补丁，设置Windows Update暂停更新到2099年5月28日。&lt;/li&gt;
+&lt;li&gt;避免以后升级到更高版本的系统，所有网络已经设置为按流量计费，检查更新后 下载补丁需经过你同意，但不影响系统给设备打驱动功能;&lt;/li&gt;
+&lt;li&gt;提供“禁止系统自动安装驱动.reg” ,不需要系统自动打驱动的 请安装系统后 立即导入即可;&lt;/li&gt;
+&lt;li&gt;#优化禁止自动安装 OCR、手写内容识别、文本转语音、语音识别
+#修复精简后常见的 “A字出现了问题,无法安装功能” 的问题。&lt;/li&gt;
+&lt;li&gt;优化共享打印服务，避免局域网共享打印错误。&lt;/li&gt;
+&lt;li&gt;系统恢复界面添加高级启动选项&lt;/li&gt;
+&lt;li&gt;使用Compact OS释放空间，C盘占用空间可减少2G左右&lt;/li&gt;
+&lt;li&gt;电源模式新增 卓越模式&lt;/li&gt;
+&lt;li&gt;高级电源设置USB选择性暂停 已禁用 避免有些USB设备断电&lt;/li&gt;
+&lt;li&gt;禁用休眠文件，可减少C盘体积，如需开启 请使用管理员运行CMD命令：powercfg /hibernate on&lt;/li&gt;
+&lt;li&gt;默认关闭7G预留空间;&lt;/li&gt;
+&lt;li&gt;恢复要 “使用此计算机必须输入用户密码”的勾选框，原版给隐藏了;&lt;/li&gt;
+&lt;li&gt;IE主页默认设置为百度，原版是先打开微软再跳转百度;&lt;/li&gt;
+&lt;li&gt;离线集成Microsoft.WindowsCalculator UWP版计算器，原版没有。&lt;/li&gt;
+&lt;li&gt;离线集成Microsoft.WebpImageExtension 可以打开 .web图片文件了，原版不可以打开。&lt;/li&gt;
+&lt;li&gt;离线集成Microsoft.DesktopAppInstaller 可以双击安装Appx离线包了，原版没有。&lt;/li&gt;
+&lt;li&gt;由于集成了补丁，DISM++ 不可以正常清理被取代的SXS组件;&lt;/li&gt;
+&lt;li&gt;提供Windows store 商店Appx安装包，可以随意安装卸载;&lt;/li&gt;
+&lt;li&gt;提供相机照片Appx安装包，可以随意安装卸载;&lt;/li&gt;
+&lt;li&gt;提供相机Appx安装包，可以随意安装卸载;&lt;/li&gt;
+&lt;li&gt;提供Microsoft Edge程序安装包;&lt;/li&gt;
+&lt;li&gt;提供 OneDrive程序安装包;&lt;/li&gt;
+&lt;li&gt;提供 WUB_1.7彻底关闭系统更新工具&lt;/li&gt;
+&lt;li&gt;右键添加 在此处打开命令行&lt;/li&gt;
+&lt;li&gt;右键添加 用记事本打开;&lt;/li&gt;
+&lt;li&gt;右键添加 管理员取得所有权&lt;/li&gt;
+&lt;li&gt;右键添加 复制文件路径;&lt;/li&gt;
+&lt;li&gt;右键添加 复制文件夹路径;&lt;/li&gt;
+&lt;li&gt;如需取消右键 管理员取得所有权 、复制文件路径 文件夹路径 请用CMD 运行以下命令即可删除：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\*\shell\runas&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\exefile\shell\runas2&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\Directory\shell\copypath&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\*\shell\copypath&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;如需取消右键 在此处打开命令行 请用CMD 运行以下命令即可删除：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\Directory\Background\shell\OpenCMDHere&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;如需取消右键 &amp;ldquo;快捷设置&amp;rdquo; 请用CMD 运行以下命令即可删除：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_LOCAL_MACHINE\SOFTWARE\Classes\DesktopBackground\Shell\App_KUAIJIE&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;系统集成&#34;&gt;系统集成
+&lt;/h3&gt;&lt;p&gt;1、Microsoft .NET Framework 3.5&lt;/p&gt;
+&lt;h3 id=&#34;保留列表&#34;&gt;保留列表
+&lt;/h3&gt;&lt;p&gt;保留组件：打印、蓝牙、指纹、共享、微软账户、搜索、计算器、屏幕投影、平板模式、BitLocker、远程桌面、IIS 、NFS 、IE浏览器、画图、截图、防火墙、WMP、旧版组件 、Linux、Telnet&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名: V:\【不忘初心美化版】Window10_LTSC2021_19044.5247_X64_无更新精简版(2024.12.11).iso
+文件大小: 2645786624 字节
+MD5: 2A6E180669CEA423BF7666421F659FEE
+SHA1: 3FAFC83C76A5C4E6030F314A6737A453B634D506
+CRC32: E11846CD&lt;/p&gt;
+&lt;h3 id=&#34;系统下载&#34;&gt;系统下载
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEFJjxyXO3pMou2o2a4NKOYA1?pwd=et85&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEFJjxyXO3pMou2o2a4NKOYA1?pwd=et85&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>不忘初心 Windows10 LTSC2021 (19044.5247) x64 纯净 深度精简 无更新 (2024.12.11) 建议3-11代CPU</title>
+        <link>https://www.danlong360.com/post/18227/</link>
+        <pubDate>Tue, 17 Dec 2024 00:00:16 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/18227/</guid>
+        <description>&lt;p&gt;注意此版不能更新补丁，支持人脸、指纹、可以安装商店、以及其他UWP Apxx程序，可以登录微软账号，此为深度精简版体积小、精简的比较多，注意不支持bitlocker，适合软件不多的以及轻办公的用户使用，如有第三方软件打不开，请自行安装资源包里的微软常用运行库，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/18227/BWCXWindow10LTSC2021KGX04.jpg&#34;
+	width=&#34;1024&#34;
+	height=&#34;768&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;不忘初心 Windows10 LTSC2021 (19044.5247) x64 纯净 深度精简 无更新 (2024.12.11) 建议3-11代CPU&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;windows-10-ltsc-2021的特性&#34;&gt;Windows 10 LTSC 2021的特性：‌‌
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;‌&lt;strong&gt;极简性&lt;/strong&gt;‌：该版本去除了大量非必要功能，提供了一个干净、高效的工作环境。这意味着用户将获得一个更加清爽、无干扰的系统界面，专注于核心功能，避免了冗余功能的干扰‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;低资源占用&lt;/strong&gt;‌：系统运行内存占用低，即使在配置较低的设备上也能流畅运行。这对于老旧设备来说是一个福音，能够显著提升系统的整体性能和响应速度‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;长期支持&lt;/strong&gt;‌：虽然更新频率较低，但LTSC提供了必要的安全更新和补丁，保证了系统的安全性。这对于需要长期稳定运行的企业环境来说尤为重要‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;稳定性&lt;/strong&gt;‌：作为面向企业用户的版本，LTSC的稳定性是其最大的卖点。它减少了不必要的更新频率，确保了系统的长期稳定运行，适合对稳定性要求极高的应用场景‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;可控更新&lt;/strong&gt;‌：不同于普通版本的频繁更新，LTSC版本允许用户自主控制更新频率，有效避免因系统更新导致的兼容性问题，确保企业环境的稳定与安全‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;集成驱动&lt;/strong&gt;‌：系统内置万能驱动，大幅简化了安装后的设备驱动配置过程，无论是新装机还是升级系统，都能快速投入使用‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;适用场景&lt;/strong&gt;‌：适合追求极致纯净体验、需要高度稳定性及可控性的企业用户或专业开发者。同时也适合那些希望在老旧设备上获得流畅体验的用户‌&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新记录&#34;&gt;更新记录
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;2024.12.11更新记录&lt;/strong&gt;
+#修复打印到PDF只有“.prn”格式的问题。
+#更新安装包 Microsoft.HEIFImageExtension_1.2.3.0_HEIF图片扩展安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.HEVCVideoExtension_2.2.9.0_HEVC视频扩展安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.MicrosoftPCManager_3.14.10.0_微软电脑管家安装包_pc528.net_(20241114).zip
+#更新安装包 Microsoft.Windows.Photos_2024.11100.17007.0照片安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.WindowsCamera_2022.2408.1.0相机安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.WindowsStore_22410.1401.2.0商店安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.XboxApp_Xbox.TCUI_XboxGaming_XBOX游戏安装包_pc528.net_(20241112).zip
+#更新安装包 关闭或开启按流量计费_pc528.net_(20241002).zip
+#更新安装包 微软常用运行库合集2024.11.07.exe
+#更新安装包 禁止或开启系统自动安装驱动_pc528.net_(20241002).zip
+#更新安装包 MicrosoftEdgeX64_131.0.2903.86.msi
+#KB5048562（19044.5247）微软官方更新如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;此更新解决了 Windows 操作系统的安全问题。&lt;/li&gt;
+&lt;li&gt;**[Sysprep /generalize]**已修复：此命令失败，并出现错误 0x80073cf。当您在删除包的依赖项后尝试删除包时，会发生这种情况。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;系统特色&#34;&gt;系统特色
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;此版不能正常更新补丁。&lt;/li&gt;
+&lt;li&gt;纯净 无任何第三方软件。&lt;/li&gt;
+&lt;li&gt;追求稳定、没有过度优化，可以正常办公。&lt;/li&gt;
+&lt;li&gt;总共优化150多项系统内容，系统流畅更胜一筹。&lt;/li&gt;
+&lt;li&gt;优化后台进程首次开机大约50个进程左右；&lt;/li&gt;
+&lt;li&gt;禁用后台40多项系统不常用服务&lt;/li&gt;
+&lt;li&gt;需要用到指纹的，请用自建账户，Admin不支持;&lt;/li&gt;
+&lt;li&gt;彻底阻止IE浏览器跳转Micosoft Edge。&lt;/li&gt;
+&lt;li&gt;修复精简后常见的 “A字出现了问题,无法安装功能” 的问题。&lt;/li&gt;
+&lt;li&gt;提升自建账户权限，自建账户将拥有和 &amp;ldquo;Administrator&amp;quot;管理员账号一样的权限。&lt;/li&gt;
+&lt;li&gt;离线集成Microsoft.WindowsCalculator UWP版计算器，原版没有。&lt;/li&gt;
+&lt;li&gt;离线集成Microsoft.WebpImageExtension 可以打开 .web图片文件了，原版不可以打开。&lt;/li&gt;
+&lt;li&gt;离线集成Microsoft.DesktopAppInstaller 可以双击安装Appx离线包了，原版没有。&lt;/li&gt;
+&lt;li&gt;避免以后升级到更高版本的系统，所有网络已经设置为按流量计费，检查更新后 下载补丁需经过你同意，但不影响系统给设备打驱动功能;&lt;/li&gt;
+&lt;li&gt;提供“禁止系统自动安装驱动.reg” ,不需要系统自动打驱动的 请安装系统后 立即导入即可;&lt;/li&gt;
+&lt;li&gt;优化共享打印服务，避免局域网共享打印错误。&lt;/li&gt;
+&lt;li&gt;系统恢复界面添加高级启动选项&lt;/li&gt;
+&lt;li&gt;使用Compact OS释放空间，C盘占用空间可减少2G左右&lt;/li&gt;
+&lt;li&gt;电源模式新增 卓越模式&lt;/li&gt;
+&lt;li&gt;高级电源设置USB选择性暂停 已禁用 避免有些USB设备断电&lt;/li&gt;
+&lt;li&gt;禁用休眠文件，可减少C盘体积，如需开启 请使用管理员运行CMD命令：powercfg /hibernate on&lt;/li&gt;
+&lt;li&gt;默认关闭7G预留空间;&lt;/li&gt;
+&lt;li&gt;恢复要 “使用此计算机必须输入用户密码”的勾选框，原版给隐藏了;&lt;/li&gt;
+&lt;li&gt;IE主页默认设置为百度，原版是先打开微软再跳转百度;&lt;/li&gt;
+&lt;li&gt;由于集成了补丁，DISM++ 不可以正常清理被取代的SXS组件;&lt;/li&gt;
+&lt;li&gt;提供 Windows store商店安装包，可以随意安装卸载;&lt;/li&gt;
+&lt;li&gt;提供 WindowsCamera相机APP安装包，可以随意安装卸载;&lt;/li&gt;
+&lt;li&gt;提供 Microsoft Edge程序安装包;&lt;/li&gt;
+&lt;li&gt;提供 Xbox完整安装包，可以随意安装卸载;&lt;/li&gt;
+&lt;li&gt;提供 OneDrive程序安装包;&lt;/li&gt;
+&lt;li&gt;右键添加 用记事本打开;&lt;/li&gt;
+&lt;li&gt;右键添加 管理员取得所有权&lt;/li&gt;
+&lt;li&gt;右键添加 复制文件路径;&lt;/li&gt;
+&lt;li&gt;右键添加 复制文件夹路径;&lt;/li&gt;
+&lt;li&gt;如需取消右键 管理员取得所有权 、复制文件路径 文件夹路径 请用CMD 运行以下命令即可删除：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\*\shell\runas&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\Directory\shell\copypath&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\*\shell\copypath&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;如需取消右键 在此处打开命令行 请用CMD 运行以下命令即可删除：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\Directory\Background\shell\OpenCMDHere&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;系统集成&#34;&gt;系统集成
+&lt;/h3&gt;&lt;p&gt;1、Microsoft .NET Framework 3.5&lt;/p&gt;
+&lt;h3 id=&#34;保留列表&#34;&gt;保留列表
+&lt;/h3&gt;&lt;p&gt;保留组件：打印、蓝牙、指纹、人脸、旧版组件、共享、微软账户、搜索、计算器、屏幕投影、平板模式、远程桌面、IE浏览器、画图、截图、防火墙、WMP&lt;/p&gt;
+&lt;p&gt;移除：Defender、bitlocker、安全中心、语音识别TTS、hyper、组件库(WinSxS)、linux、&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名: V:\【不忘初心】Window10_LTSC2021_19044.5247_X64_纯净深度精简版(2024.12.11).esd
+文件大小: 1381077024 字节
+MD5: BE937ED7FBBFE0B1A4ADFD5EECFCA433
+SHA1: 26742F99966ADC8C7172119A3E93317A8770570C
+CRC32: C6A60915&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEFJgZ2PcKdoIXafTI8Cn8VA1?pwd=ynvs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEFJgZ2PcKdoIXafTI8Cn8VA1?pwd=ynvs&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>不忘初心 Windows10 LTSC2021 (19044.5247) x64 纯净 精简 无更新 (2024.12.11) 建议3-11代CPU</title>
+        <link>https://www.danlong360.com/post/82734/</link>
+        <pubDate>Mon, 16 Dec 2024 23:57:45 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/82734/</guid>
+        <description>&lt;p&gt;此版不能更新补丁，为无更新版本，母版来自MSDN WIN10_LTSC2021，保留Hyper和linux，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/82734/BWCXWindow10LTSC2021KGX02.jpg&#34;
+	width=&#34;1024&#34;
+	height=&#34;768&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;不忘初心 Windows10 LTSC2021 (19044.5247) x64 纯净 精简 无更新 (2024.12.11) 建议3-11代CPU&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;windows-10-ltsc-2021的特性&#34;&gt;Windows 10 LTSC 2021的特性：‌‌
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;‌&lt;strong&gt;极简性&lt;/strong&gt;‌：该版本去除了大量非必要功能，提供了一个干净、高效的工作环境。这意味着用户将获得一个更加清爽、无干扰的系统界面，专注于核心功能，避免了冗余功能的干扰‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;低资源占用&lt;/strong&gt;‌：系统运行内存占用低，即使在配置较低的设备上也能流畅运行。这对于老旧设备来说是一个福音，能够显著提升系统的整体性能和响应速度‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;长期支持&lt;/strong&gt;‌：虽然更新频率较低，但LTSC提供了必要的安全更新和补丁，保证了系统的安全性。这对于需要长期稳定运行的企业环境来说尤为重要‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;稳定性&lt;/strong&gt;‌：作为面向企业用户的版本，LTSC的稳定性是其最大的卖点。它减少了不必要的更新频率，确保了系统的长期稳定运行，适合对稳定性要求极高的应用场景‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;可控更新&lt;/strong&gt;‌：不同于普通版本的频繁更新，LTSC版本允许用户自主控制更新频率，有效避免因系统更新导致的兼容性问题，确保企业环境的稳定与安全‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;集成驱动&lt;/strong&gt;‌：系统内置万能驱动，大幅简化了安装后的设备驱动配置过程，无论是新装机还是升级系统，都能快速投入使用‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;适用场景&lt;/strong&gt;‌：适合追求极致纯净体验、需要高度稳定性及可控性的企业用户或专业开发者。同时也适合那些希望在老旧设备上获得流畅体验的用户‌&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新记录&#34;&gt;&lt;strong&gt;更新记录&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;2024.12.11更新记录&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#更新安装包 Microsoft.HEIFImageExtension_1.2.3.0_HEIF图片扩展安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.HEVCVideoExtension_2.2.9.0_HEVC视频扩展安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.MicrosoftPCManager_3.14.10.0_微软电脑管家安装包_pc528.net_(20241114).zip
+#更新安装包 Microsoft.Windows.Photos_2024.11100.17007.0照片安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.WindowsCamera_2022.2408.1.0相机安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.WindowsStore_22410.1401.2.0商店安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.XboxApp_Xbox.TCUI_XboxGaming_XBOX游戏安装包_pc528.net_(20241112).zip
+#更新安装包 关闭或开启按流量计费_pc528.net_(20241002).zip
+#更新安装包 微软常用运行库合集2024.11.07.exe
+#更新安装包 禁止或开启系统自动安装驱动_pc528.net_(20241002).zip
+#更新安装包 MicrosoftEdgeX64_131.0.2903.86.msi
+#KB5048562（19044.5247）微软官方更新如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;此更新解决了 Windows 操作系统的安全问题。&lt;/li&gt;
+&lt;li&gt;**[Sysprep /generalize]**已修复：此命令失败，并出现错误 0x80073cf。当您在删除包的依赖项后尝试删除包时，会发生这种情况。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;系统特色&#34;&gt;系统特色
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;此版不能正常更新补丁。&lt;/li&gt;
+&lt;li&gt;纯净 无任何第三方软件。&lt;/li&gt;
+&lt;li&gt;追求稳定、没有过度优化，可以正常办公。&lt;/li&gt;
+&lt;li&gt;总共优化150多项系统内容，系统流畅更胜一筹。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;优化后台进程首次开机大约50个进程左右；&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;禁用后台40多项系统不常用服务&lt;/li&gt;
+&lt;li&gt;彻底阻止IE浏览器跳转Micosoft Edge。&lt;/li&gt;
+&lt;li&gt;需要用到指纹的，请用自建账户，Admin不支持;&lt;/li&gt;
+&lt;li&gt;由于WIN10的安全机制共享给其他电脑连接时，请给账号设置一个密码，或者添加重新一个账户并设置密码。&lt;/li&gt;
+&lt;li&gt;提升自建账户权限，自建账户将拥有和 &amp;ldquo;Administrator&amp;quot;管理员账号一样的权限（首次安装重启后生效）。&lt;/li&gt;
+&lt;li&gt;防止自动更新补丁，设置Windows Update暂停更新到2099年5月28日。&lt;/li&gt;
+&lt;li&gt;避免以后升级到更高版本的系统，所有网络已经设置为按流量计费，检查更新后 下载补丁需经过你同意，但不影响系统给设备打驱动功能;&lt;/li&gt;
+&lt;li&gt;提供“禁止系统自动安装驱动.reg” ,不需要系统自动打驱动的 请安装系统后 立即导入即可;&lt;/li&gt;
+&lt;li&gt;#优化禁止自动安装 OCR、手写内容识别、文本转语音、语音识别
+#修复精简后常见的 “A字出现了问题,无法安装功能” 的问题。&lt;/li&gt;
+&lt;li&gt;优化共享打印服务，避免局域网共享打印错误。&lt;/li&gt;
+&lt;li&gt;系统恢复界面添加高级启动选项&lt;/li&gt;
+&lt;li&gt;使用Compact OS释放空间，C盘占用空间可减少2G左右&lt;/li&gt;
+&lt;li&gt;电源模式新增 卓越模式&lt;/li&gt;
+&lt;li&gt;高级电源设置USB选择性暂停 已禁用 避免有些USB设备断电&lt;/li&gt;
+&lt;li&gt;禁用休眠文件，可减少C盘体积，如需开启 请使用管理员运行CMD命令：powercfg /hibernate on&lt;/li&gt;
+&lt;li&gt;默认关闭7G预留空间;&lt;/li&gt;
+&lt;li&gt;恢复要 “使用此计算机必须输入用户密码”的勾选框，原版给隐藏了;&lt;/li&gt;
+&lt;li&gt;IE主页默认设置为百度，原版是先打开微软再跳转百度;&lt;/li&gt;
+&lt;li&gt;离线集成Microsoft.WindowsCalculator UWP版计算器，原版没有。&lt;/li&gt;
+&lt;li&gt;离线集成Microsoft.WebpImageExtension 可以打开 .web图片文件了，原版不可以打开。&lt;/li&gt;
+&lt;li&gt;离线集成Microsoft.DesktopAppInstaller 可以双击安装Appx离线包了，原版没有。&lt;/li&gt;
+&lt;li&gt;由于集成了补丁，DISM++ 不可以正常清理被取代的SXS组件;&lt;/li&gt;
+&lt;li&gt;提供Windows store 商店Appx安装包，可以随意安装卸载;&lt;/li&gt;
+&lt;li&gt;提供相机照片Appx安装包，可以随意安装卸载;&lt;/li&gt;
+&lt;li&gt;提供相机Appx安装包，可以随意安装卸载;&lt;/li&gt;
+&lt;li&gt;提供Microsoft Edge程序安装包;&lt;/li&gt;
+&lt;li&gt;提供 OneDrive程序安装包;&lt;/li&gt;
+&lt;li&gt;提供 WUB_1.7彻底关闭系统更新工具&lt;/li&gt;
+&lt;li&gt;右键添加 在此处打开命令行&lt;/li&gt;
+&lt;li&gt;右键添加 用记事本打开;&lt;/li&gt;
+&lt;li&gt;右键添加 管理员取得所有权&lt;/li&gt;
+&lt;li&gt;右键添加 复制文件路径;&lt;/li&gt;
+&lt;li&gt;右键添加 复制文件夹路径;&lt;/li&gt;
+&lt;li&gt;如需取消右键 管理员取得所有权 、复制文件路径 文件夹路径 请用CMD 运行以下命令即可删除：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\*\shell\runas&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\Directory\shell\copypath&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\*\shell\copypath&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;如需取消右键 在此处打开命令行 请用CMD 运行以下命令即可删除：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\Directory\Background\shell\OpenCMDHere&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;系统集成&#34;&gt;系统集成
+&lt;/h3&gt;&lt;p&gt;1、Microsoft .NET Framework 3.5&lt;/p&gt;
+&lt;h3 id=&#34;保留列表&#34;&gt;保留列表
+&lt;/h3&gt;&lt;p&gt;保留组件：打印、蓝牙、指纹、人脸、共享、微软账户、搜索、计算器、屏幕投影、平板模式、BitLocker、远程桌面、IIS 、NFS 、IE浏览器、画图、截图、防火墙、WMP、旧版组件 、hyper、Linux、Telnet 、UWF&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名: V:\【不忘初心】Window10_LTSC2021_19044.5247_X64_无更新纯净精简版(2024.12.11).iso
+文件大小: 2416541696 字节
+MD5: 52D7C64789F15230E6A1688C64459CEB
+SHA1: 43B684AE32ED943B3466418269AD89A2FA1159A3
+CRC32: CB397562&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEFJ-rbObOUQFs_S8c88b3wA1?pwd=54yt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEFJ-rbObOUQFs_S8c88b3wA1?pwd=54yt&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>不忘初心 Windows10 LTSC2021 (19044.5247) x64 纯净 精简 可更新 (2024.12.11) 建议3-11代CPU</title>
+        <link>https://www.danlong360.com/post/75245/</link>
+        <pubDate>Mon, 16 Dec 2024 23:55:12 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/75245/</guid>
+        <description>&lt;p&gt;此版可正常更新补丁，适合3-11代CPU使用，此版本已经重新定义精简方案，比以前更稳定！母版本来自MSDN LTSC2021，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/75245/BWCXWindow10LTSC2021KGX03.jpg&#34;
+	width=&#34;1024&#34;
+	height=&#34;768&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;不忘初心 Windows10 LTSC2021 (19044.5247) x64 纯净 精简 可更新 (2024.12.11) 建议3-11代CPU&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;windows-10-ltsc-2021的特性&#34;&gt;Windows 10 LTSC 2021的特性：‌‌
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;‌&lt;strong&gt;极简性&lt;/strong&gt;‌：该版本去除了大量非必要功能，提供了一个干净、高效的工作环境。这意味着用户将获得一个更加清爽、无干扰的系统界面，专注于核心功能，避免了冗余功能的干扰‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;低资源占用&lt;/strong&gt;‌：系统运行内存占用低，即使在配置较低的设备上也能流畅运行。这对于老旧设备来说是一个福音，能够显著提升系统的整体性能和响应速度‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;长期支持&lt;/strong&gt;‌：虽然更新频率较低，但LTSC提供了必要的安全更新和补丁，保证了系统的安全性。这对于需要长期稳定运行的企业环境来说尤为重要‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;稳定性&lt;/strong&gt;‌：作为面向企业用户的版本，LTSC的稳定性是其最大的卖点。它减少了不必要的更新频率，确保了系统的长期稳定运行，适合对稳定性要求极高的应用场景‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;可控更新&lt;/strong&gt;‌：不同于普通版本的频繁更新，LTSC版本允许用户自主控制更新频率，有效避免因系统更新导致的兼容性问题，确保企业环境的稳定与安全‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;集成驱动&lt;/strong&gt;‌：系统内置万能驱动，大幅简化了安装后的设备驱动配置过程，无论是新装机还是升级系统，都能快速投入使用‌。&lt;/li&gt;
+&lt;li&gt;‌&lt;strong&gt;适用场景&lt;/strong&gt;‌：适合追求极致纯净体验、需要高度稳定性及可控性的企业用户或专业开发者。同时也适合那些希望在老旧设备上获得流畅体验的用户‌&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;更新记录&#34;&gt;更新记录
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;2024.12.11更新记录&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#更新安装包 Microsoft.HEIFImageExtension_1.2.3.0_HEIF图片扩展安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.HEVCVideoExtension_2.2.9.0_HEVC视频扩展安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.MicrosoftPCManager_3.14.10.0_微软电脑管家安装包_pc528.net_(20241114).zip
+#更新安装包 Microsoft.Windows.Photos_2024.11100.17007.0照片安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.WindowsCamera_2022.2408.1.0相机安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.WindowsStore_22410.1401.2.0商店安装包_pc528.net_(20241112).zip
+#更新安装包 Microsoft.XboxApp_Xbox.TCUI_XboxGaming_XBOX游戏安装包_pc528.net_(20241112).zip
+#更新安装包 关闭或开启按流量计费_pc528.net_(20241002).zip
+#更新安装包 微软常用运行库合集2024.11.07.exe
+#更新安装包 禁止或开启系统自动安装驱动_pc528.net_(20241002).zip
+#更新安装包 MicrosoftEdgeX64_131.0.2903.86.msi
+#KB5048562（19044.5247）微软官方更新如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;此更新解决了 Windows 操作系统的安全问题。&lt;/li&gt;
+&lt;li&gt;**[Sysprep /generalize]**已修复：此命令失败，并出现错误 0x80073cf。当您在删除包的依赖项后尝试删除包时，会发生这种情况。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;系统特色&#34;&gt;系统特色
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;此版可以正常更新补丁，但不是永久可以更新。&lt;/li&gt;
+&lt;li&gt;纯净 无任何第三方软件。&lt;/li&gt;
+&lt;li&gt;追求稳定、没有过度优化，可以正常办公。&lt;/li&gt;
+&lt;li&gt;总共优化150多项系统内容，系统流畅更胜一筹。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;优化后台进程首次开机大约50个进程左右，内存占用1G左右&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;禁用后台40多项系统不常用服务&lt;/li&gt;
+&lt;li&gt;需要用到指纹的，请用自建账户，Admin不支持;&lt;/li&gt;
+&lt;li&gt;彻底阻止IE浏览器跳转Micosoft Edge。&lt;/li&gt;
+&lt;li&gt;#提升自建账户权限，自建账户将拥有和 &amp;ldquo;Administrator&amp;quot;管理员账号一样的权限。（首次安装需重启后生效）&lt;/li&gt;
+&lt;li&gt;修复精简后常见的 “A字出现了问题,无法安装功能” 的问题。&lt;/li&gt;
+&lt;li&gt;提供“禁止系统自动安装驱动.reg” ,不需要系统自动打驱动的 请安装系统后 立即导入即可;&lt;/li&gt;
+&lt;li&gt;优化共享打印服务，避免局域网共享打印错误。&lt;/li&gt;
+&lt;li&gt;离线集成Microsoft.WindowsCalculator UWP版计算器。&lt;/li&gt;
+&lt;li&gt;离线集成Microsoft.WebpImageExtension 可以打开 .web图片文件了&lt;/li&gt;
+&lt;li&gt;离线集成Microsoft.DesktopAppInstaller 可以双击安装Appx离线包了&lt;/li&gt;
+&lt;li&gt;系统恢复界面添加高级启动选项&lt;/li&gt;
+&lt;li&gt;使用Compact OS释放空间，C盘占用空间可减少2G左右&lt;/li&gt;
+&lt;li&gt;电源模式新增 卓越模式&lt;/li&gt;
+&lt;li&gt;高级电源设置USB选择性暂停 已禁用 避免有些USB设备断电&lt;/li&gt;
+&lt;li&gt;禁用休眠文件，可减少C盘体积，如需开启 请使用管理员运行CMD命令：powercfg /hibernate on&lt;/li&gt;
+&lt;li&gt;默认关闭7G预留空间;&lt;/li&gt;
+&lt;li&gt;恢复要 “使用此计算机必须输入用户密码”的勾选框，原版给隐藏了;&lt;/li&gt;
+&lt;li&gt;IE主页默认设置为百度，原版是先打开微软再跳转百度;&lt;/li&gt;
+&lt;li&gt;由于集成了补丁，DISM++ 不可以正常清理被取代的SXS组件;&lt;/li&gt;
+&lt;li&gt;提供Windows store 商店Appx安装包，可以随意安装卸载;&lt;/li&gt;
+&lt;li&gt;提供相机照片Appx安装包，可以随意安装卸载;&lt;/li&gt;
+&lt;li&gt;提供相机Appx安装包，可以随意安装卸载;&lt;/li&gt;
+&lt;li&gt;提供 OneDrive程序安装包;&lt;/li&gt;
+&lt;li&gt;提供 WUB_1.7彻底关闭系统更新工具&lt;/li&gt;
+&lt;li&gt;右键添加 在此处打开命令行&lt;/li&gt;
+&lt;li&gt;右键添加 用记事本打开;&lt;/li&gt;
+&lt;li&gt;右键添加 管理员取得所有权&lt;/li&gt;
+&lt;li&gt;右键添加 复制文件路径;&lt;/li&gt;
+&lt;li&gt;右键添加 复制文件夹路径;&lt;/li&gt;
+&lt;li&gt;如需取消右键 管理员取得所有权 、复制文件路径 文件夹路径 请用CMD 运行以下命令即可删除：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\*\shell\runas&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\Directory\shell\copypath&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\*\shell\copypath&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;如需取消右键 在此处打开命令行 请用CMD 运行以下命令即可删除：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;reg delete &lt;span class=&#34;s2&#34;&gt;&amp;#34;HKEY_CLASSES_ROOT\Directory\Background\shell\OpenCMDHere&amp;#34;&lt;/span&gt; /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;系统集成&#34;&gt;系统集成
+&lt;/h3&gt;&lt;p&gt;1、Microsoft .NET Framework 3.5&lt;/p&gt;
+&lt;h3 id=&#34;保留列表&#34;&gt;保留列表
+&lt;/h3&gt;&lt;p&gt;保留组件：EDGE浏览器 、语言识别TTS、打印、蓝牙、指纹、语音识别TTS、共享、微软账户、搜索、计算器、屏幕投影、平板模式、BitLocker、远程桌面、IIS 、NFS 、IE浏览器、画图、截图、防火墙、WMP、旧版组件 、hyper、Linux、Telnet&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名: V:\【不忘初心】Window10_LTSC2021_19044.5247_X64_可更新纯净精简版(2024.12.11).iso
+文件大小: 3994550272 字节
+MD5: 833C0385623986086845C79242AEF181
+SHA1: 1C0743B1020AE99E465669AB95DF0A2E3CCBAF2D
+CRC32: 99EE7A14&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEFIYSiPDOau3HDssOcQr5GA1?pwd=7jm7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEFIYSiPDOau3HDssOcQr5GA1?pwd=7jm7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>xb21cn Win11 v24H2 Build 26120.2702.1 精简版</title>
         <link>https://www.danlong360.com/post/72672/</link>
         <pubDate>Mon, 16 Dec 2024 22:07:20 +0800</pubDate>
