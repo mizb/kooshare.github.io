@@ -7,7 +7,83 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 05 Dec 2024 18:33:08 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 17 Dec 2024 17:28:27 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%99%9A%E6%8B%9F%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>VMware Workstation(VMware虚拟机) Pro v17.6.2.24409262</title>
+        <link>https://www.danlong360.com/post/74517/</link>
+        <pubDate>Tue, 17 Dec 2024 17:28:27 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/74517/</guid>
+        <description>&lt;p&gt;VMware Workstation（中文名“威睿工作站”）是一款功能强大的桌面虚拟计算机软件，提供用户可在单一的桌面上同时运行不同的操作系统，和进行开发、测试 、部署新的应用程序的最佳解决方案。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/74517/20241217_052837.png&#34;
+	width=&#34;756&#34;
+	height=&#34;571&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;132&#34;
+		data-flex-basis=&#34;317px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;虚拟机创建与管理：可以创建、运行、暂停和关闭虚拟机，可以设置虚拟机的硬件配置和网络设置。
+快照管理：可以随时保存虚拟机的快照，以便在需要时恢复到某个特定的状态，方便进行实验或测试。
+虚拟机克隆和迁移：可以克隆现有的虚拟机，创建新的虚拟机，也可以将虚拟机迁移到其他物理机上。
+虚拟机共享和访问：可以将虚拟机共享给其他人，或者访问其他人共享的虚拟机，方便合作和交流。
+虚拟机和主机互联：可以设置虚拟机和主机之间的文件共享和剪贴板共享，方便在虚拟机和主机之间交换数据。
+虚拟机性能优化：可以调整虚拟机的性能参数，如CPU和内存分配，以获得更好的性能和稳定性。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;多平台支持：可以在Windows、Linux和macOS等多个操作系统上运行VMware Workstation，实现跨平台虚拟化。
+高性能和稳定性：提供了优化的虚拟化引擎和硬件加速技术，保证虚拟机的高性能和稳定性。
+灵活的网络设置：可以设置虚拟机的网络连接方式，如桥接模式、NAT模式和仅主机模式，实现虚拟机与外部网络的连接。
+强大的安全性：可以对虚拟机进行加密和密码保护，保障虚拟机中的数据安全。
+完整的虚拟机应用支持：可以在虚拟机中运行各种操作系统和应用程序，如Windows、Linux、Android和iOS等。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEIxsP11lSI7evBd1_jVSeLA1?pwd=8fqr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEIxsP11lSI7evBd1_jVSeLA1?pwd=8fqr&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VMware Workstation Player(虚拟机平台) v17.6.2.24409262</title>
+        <link>https://www.danlong360.com/post/18731/</link>
+        <pubDate>Tue, 17 Dec 2024 17:27:34 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/18731/</guid>
+        <description>&lt;p&gt;VMware Workstation Player是一款虚拟化软件，旨在为用户提供创建和运行虚拟机的平台。它可以在一台物理机上同时运行多个虚拟机，每个虚拟机都可以运行不同的操作系统。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/18731/20241217_052744.png&#34;
+	width=&#34;640&#34;
+	height=&#34;527&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;121&#34;
+		data-flex-basis=&#34;291px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;创建虚拟机：用户可以使用VMware Workstation Player创建多个虚拟机，选择不同的操作系统和配置选项。
+虚拟机管理：用户可以对所有虚拟机进行管理，包括启动、关闭、重启、暂停和删除虚拟机等操作。
+快照和复原：软件提供了创建虚拟机快照的功能，用户可以在虚拟机运行时保存快照，并在需要时还原到快照状态。
+分享虚拟机：用户可以将创建的虚拟机导出并分享给其他人使用，或导入其他人分享的虚拟机。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简易使用：VMware Workstation Player提供了直观的图形界面，使用户可以轻松创建、配置和管理虚拟机。
+兼容性强：软件支持多种操作系统，包括Windows、Linux和Mac OS等，用户可以灵活选择使用的操作系统。
+高性能：VMware Workstation Player提供了虚拟机的硬件加速和优化设置，使得虚拟机可以高效运行，并提供与物理机相似的性能。
+安全可靠：软件提供了虚拟机间的隔离环境，保护操作系统和应用程序免受恶意软件和网络攻击的影响。
+社区支持：VMware Workstation Player有庞大的用户社区，用户可以在社区中获取帮助、分享经验和参与讨论。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEIxpyOhhPtuR3NAlMCbkSoA1?pwd=v29y&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEIxpyOhhPtuR3NAlMCbkSoA1?pwd=v29y&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>雷电模拟器 v9.1.32.0 去广告绿色纯净版</title>
         <link>https://www.danlong360.com/post/84441/</link>
         <pubDate>Thu, 05 Dec 2024 18:33:08 +0800</pubDate>
