@@ -7,7 +7,56 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 16 Dec 2024 08:55:10 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 17 Dec 2024 11:16:35 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GPU-Z(专业显卡检测工具) v2.61.0 绿色版</title>
+        <link>https://www.danlong360.com/post/60765/</link>
+        <pubDate>Tue, 17 Dec 2024 11:16:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/60765/</guid>
+        <description>&lt;p&gt;知名显卡识别软件TechPowerUp GPU-Z中文版是一款专业显卡检测工具的GPU测试软件,GPU-Z最新版提供了关于GPU图形显卡和CPU处理器的硬件信息.GPU-Z单执行文件,绿色便携免安装,界面直观,自带启动向导,运行后显示GPU核心及运行频率,传感器等参数信息,如同CPU-Z一样,这也是款必备的电脑硬件检测工具.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/60765/20241217_111655.png&#34;
+	width=&#34;388&#34;
+	height=&#34;539&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;71&#34;
+		data-flex-basis=&#34;172px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;TechPowerUp GPU-Z Download | TechPowerUp
+&lt;a class=&#34;link&#34; href=&#34;https://www.techpowerup.com/download/techpowerup-gpu-z&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.techpowerup.com/download/techpowerup-gpu-z&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;v2.60.0 版本更新：2024年8月16日
+– 添加了对 Arm64 和 Qualcomm Snapdragon X Elite 以及其他 Arm64 GPU 的全面支持
+– 添加了对 AMD Zen 5 CPU 温度监控的支持
+– 修复了由于前导零（2015 年之前）导致的某些特定版本的 NVIDIA 驱动程序版本报告
+– 修复了安装程序无法关闭正在运行的 GPU-Z 实例的问题
+– 安装程序现在需要 Windows 7 及更高版本，在不支持时会显示适当的消息
+– 修复了小句柄泄漏
+– 修复了某些 AM RDNA GPU 上不支持超频的“0 MHz”内存时钟显示的问题
+– 添加了 Monster Notebook 子供应商 ID
+– 添加了对 NVIDIA RTX 4070 Ti Super（AD102）、RTX 4070（AD103）、RTX 4060 Ti（AD104）、RTX 4060（AD106）、A1000、A400、RTX 500 Ada Laptop、RTX A2000 Ada Embedded、Drive PG199、H100 NVL 的支持
+– 添加了对 AMD Zen 5（Strix Point 和 Granite Ridge）、Phoenix Radeon 740M 的支持
+– 添加了对 Intel Raptor Lake U SKU、Meteor Lake Intel Arc Graphics 的支持
+– 添加了对新的 VMWare 虚拟 GPU ID 的支持&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;&lt;strong&gt;特点描述&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;汉化作者：飞扬时空, th_sjy
+gpuz中文版,g-puz中文版,GPU-Z中文汉化版
+- 去原版内含的所有非简体中文提示字符串，减少程序大小
+- 调整了中文字符的显示效果，去检测升级提示和选项升级
++ 去安装向导询问界面、默认不最小化到托盘，并调整选项&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEHi0rrC5Po9lQ-dAwts1j6A1?pwd=ydsh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEHi0rrC5Po9lQ-dAwts1j6A1?pwd=ydsh&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>3DP Chip(驱动程序更新工具) v24.12 中文绿色版</title>
         <link>https://www.danlong360.com/post/49875/</link>
         <pubDate>Mon, 16 Dec 2024 08:55:10 +0800</pubDate>
