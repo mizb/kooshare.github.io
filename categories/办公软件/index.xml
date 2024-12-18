@@ -7,7 +7,88 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 18 Dec 2024 12:29:08 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 18 Dec 2024 17:22:33 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>不坑盒子(免费的Office插件下载) v2024.1218</title>
+        <link>https://www.danlong360.com/post/49146/</link>
+        <pubDate>Wed, 18 Dec 2024 17:22:33 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/49146/</guid>
+        <description>&lt;p&gt;不坑老师为大家制作的Office效率插件，拓展Office原有功能、简化操作流程，帮助大家提高工作效率。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/49146/20241218_052246.png&#34;
+	width=&#34;640&#34;
+	height=&#34;450&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;142&#34;
+		data-flex-basis=&#34;341px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v2024.1218
+紧急修复“部件”在WPS中不显示下边线的BUG
+v2024.1022
+修复了智能写作在部分电脑中一直不书写的BUG
+v2024.1019
+给插件的每个功能，新增了使用说明，按下键盘的Ctrl键再点击功能区的每个功能，即可打开该功能的使用说明书
+优化“进度”提示窗口，修复之前因程序执行太快，导致进度窗口无法关闭的BUG
+新增“拼音”功能，可以一键给长文字增加拼音、清除拼音，还可以一键把汉字转换成“看拼音写词语”
+新增“部件”功能，可以一键插入教师日常工作中用得上的部件，比如：田字格、米字格、四线三格等
+新增“清除Markdown标记”功能，用智能写作生成的文章、网上复制的文章可能带有Markdown标记，用这个功能可以把这些奇怪的符号删除掉，方便后期执行自动排版
+修复“替换”-“自动编号转手动”功能只能对全文生效，不能只对选中文本生效的BUG
+修复“导出图片”功能设置长边尺寸无效的BUG
+优化“一键删除”-“不可见字符”功能，从平台导出的身份证前面老是自带制表符，Excel中删除前面的制表符后身份证号码会变成科学计数法；现在使用这个功能将增加智能判断，如果被处理的单元格的内容超过10位则将会把单元格转为文本，防止变成科学计数法，未超过10位的将保持原样不变&lt;/p&gt;
+&lt;h3 id=&#34;支持版本&#34;&gt;支持版本
+&lt;/h3&gt;&lt;p&gt;Win7SP1以上，Office 2010 以上、WPS通用版，电脑必须要联网&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEO8VdgGlNHvwDAt7E8En1DA1?pwd=zdg5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEO8VdgGlNHvwDAt7E8En1DA1?pwd=zdg5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Atlantis Word Processor(文字处理软件) v4.4.3.3 便携版</title>
+        <link>https://www.danlong360.com/post/92169/</link>
+        <pubDate>Wed, 18 Dec 2024 16:59:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/92169/</guid>
+        <description>&lt;p&gt;Atlantis Word Processor 是一款功能强大的文字处理软件。它可以帮助用户创建、编辑、格式化和打印各种类型的文档，包括简单的文本文件、学术论文、技术手册、小说等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/92169/image-20241218165955948.png&#34;
+	width=&#34;666&#34;
+	height=&#34;558&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241218165955948&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;119&#34;
+		data-flex-basis=&#34;286px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文字处理：支持基本的文字编辑功能，如输入、删除、复制、黏贴等。
+格式化：提供一系列文本格式化选项，如字体、字号、颜色、加粗、斜体等。
+打印与预览：支持打印和打印预览功能，用户可以在打印之前进行页面设置和调整。
+表格编辑：支持创建和编辑表格，用户可以自由调整表格的列宽和行高，还可以进行合并、拆分等操作。
+图片插入：可以将图片插入到文档中，并进行调整和格式化。
+自动保存和恢复：支持自动保存和恢复功能，避免因意外断电或软件崩溃而丢失文档内容。
+文件转换：支持将文档保存为多种格式，包括TXT、RTF、DOC、PDF等。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户界面友好：软件界面简洁直观，使用户能够快速上手并轻松完成各种编辑任务。
+兼容性强：能够打开、编辑和保存多种文字格式的文档，与微软的Word文档兼容性良好。
+界面定制：可以根据用户的喜好调整软件界面的外观和布局，提供多种预设主题供用户选择。
+多语言支持：支持多种语言界面，包括英语、法语、德语、西班牙语等。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEO7UsMzHh1aGpYcKc88VWSA1?pwd=msw9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEO7UsMzHh1aGpYcKc88VWSA1?pwd=msw9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>GeoGebra(动态数学软件) v6.0.871.0 中文绿色版</title>
         <link>https://www.danlong360.com/post/4492/</link>
         <pubDate>Wed, 18 Dec 2024 12:29:08 +0800</pubDate>

@@ -7,7 +7,73 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 17 Dec 2024 21:45:19 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 18 Dec 2024 17:00:56 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>OCCT电脑硬件测试(烤鸡测试软件) v13.1.12.99 便携版</title>
+        <link>https://www.danlong360.com/post/37981/</link>
+        <pubDate>Wed, 18 Dec 2024 17:00:56 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/37981/</guid>
+        <description>&lt;p&gt;OCCT中文版(OverClock Checking Tool)是一款电脑稳定性及基准测试软件(烤鸡软件)的硬件测试软件.电源测试软件功能包括:硬件基准测试,温度监控,GPU测试,CPU频率测试,CPU性能测试,CPU显存测试,电源电压功耗测试.OCCT最新版具备类似Furmark超强压榨GPU的能力,支持生成结果图表,生成CSV数据文件及外部监控程序数据导入.它可以使CPU,显卡,电源等满负荷运行,同时监测电源各电压输出的波动,并以曲线图的方式输出电压波动图表,以便于诊断并图表查看计算机在高负载下的反应,可以判断被电源检测工具的大概品质.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/37981/20241218_050107.png&#34;
+	width=&#34;640&#34;
+	height=&#34;520&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;123&#34;
+		data-flex-basis=&#34;295px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;硬件检测：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;系统信息：提供详细的系统信息，包括处理器、内存、显卡、主板和操作系统等信息。
+传感器监测：支持实时监测系统的温度、电压和风扇速度等传感器数据。
+硬件识别：自动识别和列出系统中的硬件组件，帮助用户了解系统配置。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;压力测试：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;CPU 测试：支持 CPU 压力测试，通过高负载运算测试处理器的性能和稳定性。
+内存测试：支持内存压力测试，通过高负载读写操作测试内存的性能和稳定性。
+显卡测试：支持显卡压力测试，通过高负载图形运算测试显卡的性能和稳定性。
+电源测试：支持电源供应稳定性测试，通过高负载测试电源供应的稳定性和可靠性。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;日志记录：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;测试日志：支持记录测试过程中的各项数据，包括温度、电压、风扇速度和性能指标等。
+故障报告：支持生成故障报告，帮助用户分析和诊断硬件问题。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;图形界面：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;实时图表：提供实时图表显示，用户可以直观地查看测试过程中各项数据的变化。
+多窗口支持：支持多窗口显示，用户可以同时查看多个硬件组件的数据。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;自定义设置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;测试参数：支持自定义测试参数，用户可以根据需要调整测试时间和负载强度。
+报警设置：支持设置温度和电压的报警阈值，当超过设定值时发出警报。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多功能集成：集成了硬件检测、压力测试和日志记录等多种功能，用户无需在多个工具之间切换。
+实时监测：支持实时监测系统的温度、电压和风扇速度等传感器数据，帮助用户及时了解系统状态。
+高负载测试：支持高负载的压力测试，确保硬件在极限条件下的性能和稳定性。
+日志记录：支持记录测试过程中的各项数据，帮助用户分析和诊断硬件问题。
+图形界面：提供实时图表显示和多窗口支持，用户可以直观地查看测试结果。
+自定义设置：支持自定义测试参数和报警设置，用户可以根据需要进行调整。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEO7Xx5CNe6KsITfkziwOi4A1?pwd=afz5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEO7Xx5CNe6KsITfkziwOi4A1?pwd=afz5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>GPU-Z(专业显卡检测工具) v2.61.0 汉化绿色版</title>
         <link>https://www.danlong360.com/post/36401/</link>
         <pubDate>Tue, 17 Dec 2024 21:45:19 +0800</pubDate>
