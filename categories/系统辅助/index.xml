@@ -7,7 +7,485 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 20 Dec 2024 16:45:41 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Dec 2024 22:26:25 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Notepad3(开源文本编辑器) v6.24.1219.2 rc3 断剑留痕版</title>
+        <link>https://www.danlong360.com/post/23929/</link>
+        <pubDate>Fri, 20 Dec 2024 22:26:25 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/23929/</guid>
+        <description>&lt;p&gt;Notepad3 是一款免费的开源文本编辑器，旨在为用户提供更加高效的编辑体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/23929/20241220_102637.png&#34;
+	width=&#34;611&#34;
+	height=&#34;474&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;128&#34;
+		data-flex-basis=&#34;309px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种编码格式，包括 ANSI、UTF-8、UTF-16 和 UTF-32 等。&lt;/li&gt;
+&lt;li&gt;支持多种语言环境，包括英语、中文等，用户可以根据需要进行切换。&lt;/li&gt;
+&lt;li&gt;支持自定义语法高亮，用户可以根据自己的需要添加或修改语法规则。&lt;/li&gt;
+&lt;li&gt;支持多个文档同时打开，用户可以轻松进行文本的复制和粘贴等操作。&lt;/li&gt;
+&lt;li&gt;支持拼写检查和自动完成功能，提高编辑效率。&lt;/li&gt;
+&lt;li&gt;支持自动保存功能，防止误操作导致的丢失文本。&lt;/li&gt;
+&lt;li&gt;支持搜索和替换功能，用户可以快速查找和替换文本内容。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;+ 基于官方 Notepad3 (x64)_6.24.1219.2_rc3 多国语言版制作
++ 精简多余的语言文件，只保留简体中文。
+此版本不需要加载外置 lng 里的语言文件，运行即是简体中文（断剑留痕原创）
++ 保留 Themes 。
++ 已选定的文本右键添加【使用 百度 搜索】【使用 必应 搜索】（断剑留痕原创）&lt;/p&gt;
+&lt;p&gt;Mod（安装版）：
++ 基于官方2023年02月03日的 Notepad3_6.23.203.2 多国语言版制作
++ 精简多余的语言文件，只保留简体中文。
+此版本不需要加载外置 lng 里的语言文件，运行即是简体中文（断剑留痕原创）
++ 保留 Themes、grepWinNP3.exe、minipath.exe 。
++ 汉化了 grepWinNP3.exe
++ 已选定的文本右键添加【使用 百度 搜索】【使用 必应 搜索】（断剑留痕原创）
++ 支持 Win11 记事本替换。
++ 32位/64位二合一，根据你的系统位数，智能进行不同的安装。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Notepad3(开源文本编辑器) v6.24.1219.2 rc3 断剑留痕版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZWz-8FpJR3jja3inI4klFA1?pwd=8mzj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZWz-8FpJR3jja3inI4klFA1?pwd=8mzj&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>SoftPerfect RAM Disk(虚拟内存磁盘工具) v4.4.2 中文直装版</title>
+        <link>https://www.danlong360.com/post/984/</link>
+        <pubDate>Fri, 20 Dec 2024 19:48:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/984/</guid>
+        <description>&lt;p&gt;SoftPerfect RAM Disk是一款功能强大的虚拟内存磁盘工具，可以将计算机的一部分内存空间虚拟化为磁盘驱动器，用于临时存储和加速数据访问速度。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/984/20241220_074832.png&#34;
+	width=&#34;665&#34;
+	height=&#34;399&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;将计算机的一部分内存空间虚拟化为磁盘驱动器。
+可以创建多个虚拟内存磁盘，每个都具有独立的设置和容量。
+支持将虚拟内存磁盘设为固定大小或动态增长。
+可以设置虚拟内存磁盘的文件系统类型和格式化选项。
+支持在虚拟内存磁盘上存储临时文件、缓存数据等，提高访问速度。
+提供监控工具，可以实时查看虚拟内存磁盘的使用情况和性能数据。
+可以自动加载虚拟内存磁盘，也可以手动创建和启动。
+支持命令行控制和配置。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高性能：SoftPerfect RAM Disk利用计算机内存的快速读写速度，能够提供高性能的数据访问速度。
+灵活配置：用户可以根据自己的需求和计算机配置，灵活配置虚拟内存磁盘的大小、格式等参数。
+简单易用：软件界面简洁明了，操作简单易懂，适合各种用户使用。
+资源节约：使用内存作为磁盘驱动器，可以节约计算机硬盘空间，同时提高读写速度。
+多功能性：SoftPerfect RAM Disk不仅可以用于存储临时文件和缓存数据，还可以用于加速应用程序的运行和提高系统性能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;SoftPerfect RAM Disk(虚拟内存磁盘工具) v4.4.2 中文直装版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZ1Lm-W_67fEruMOOZnpM_A1?pwd=fedp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZ1Lm-W_67fEruMOOZnpM_A1?pwd=fedp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ESET Smart Security Premium 16.0.28.0(Last Win7)x86&#43;x64 特别版</title>
+        <link>https://www.danlong360.com/post/39395/</link>
+        <pubDate>Fri, 20 Dec 2024 19:35:27 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/39395/</guid>
+        <description>&lt;p&gt;ESET Smart Security Premium 是 ESET 公司推出的一款综合性安全软件，旨在提供强大的保护措施，保护用户免受各种威胁和攻击。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/39395/20241220_073537.png&#34;
+	width=&#34;650&#34;
+	height=&#34;448&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;145&#34;
+		data-flex-basis=&#34;348px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;杀毒防护：ESET Smart Security Premium 搭载了先进的反病毒引擎，能够及时发现和清除各种病毒、蠕虫、木马、间谍软件和广告软件。
+防火墙：该软件内置防火墙，能够监控网络连接，并捕获和阻止潜在的恶意数据包，保护用户的系统安全。
+网络攻击防护：ESET Smart Security Premium 能够实时监测和检测网络攻击，包括入侵、端口扫描、服务拒绝等，并采取措施保护用户的计算机不受这些攻击的影响。
+受限网站访问：该软件提供了对受限网站的访问控制功能，可以帮助用户过滤和屏蔽恶意或不适当的网站，保护用户的网络安全和隐私。
+垃圾邮件过滤：ESET Smart Security Premium 内置了垃圾邮件过滤功能，能够自动检测和筛选垃圾邮件，减少用户的骚扰。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面友好：该软件拥有简洁直观的用户界面，易于使用和操作。
+低系统资源消耗：ESET Smart Security Premium 设计精良，采用了先进的算法和优化技术，能够在保证安全的前提下最大限度减少对系统资源的消耗。
+定期更新：该软件会定期更新病毒库和引擎，以应对新出现的病毒和威胁。
+多平台支持：ESET Smart Security Premium 可以在多种操作系统上运行，包括 Windows、Mac 和 Linux。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;2023 年 4 月 6 日 – 修复了崩溃问题
+2023 年 7 月 12 日 – 固定许可证
+2023 年 12 月 18 日 – 禁用程序自动更新
+许可证2027-01–13
+可以运行 Windows 7 的最新版本
+（激活静默安装重新打包）&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;ESET Smart Security Premium 16.0.28.0(Last Win7)x86+x64 特别版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZJdENhr6W53jfBS8SJz5lA1?pwd=r6r5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZJdENhr6W53jfBS8SJz5lA1?pwd=r6r5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ESET Internet Security v16.0.28.0(Last Win7) x86 &amp; x64 特别版</title>
+        <link>https://www.danlong360.com/post/86872/</link>
+        <pubDate>Fri, 20 Dec 2024 19:34:36 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/86872/</guid>
+        <description>&lt;p&gt;ESET Internet Security是一款综合性的互联网安全软件，具有多项功能和特点，可以提供全方位的网络保护。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/86872/image-20241220193452496.png&#34;
+	width=&#34;647&#34;
+	height=&#34;418&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241220193452496&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;154&#34;
+		data-flex-basis=&#34;371px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;实时保护：自动监测和阻止病毒、间谍软件、恶意软件和网络攻击。
+防火墙：监控网络连接和通信，防止未经授权的访问和攻击。
+垃圾邮件过滤：自动过滤垃圾邮件，有效减少垃圾邮件带来的骚扰。
+家长控制：限制和监控孩子们在互联网上的活动，保护他们免受不适宜内容的影响。
+安全浏览器：提供安全的浏览环境，能够防止恶意网站和网络钓鱼攻击。
+银行和支付保护：保护您在网上进行银行和支付活动的安全，防止信息泄露和欺诈行为。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;强大的病毒和恶意软件防护：ESET Internet Security采用多层次的防御机制，可以及时捕捉和阻止各种病毒和恶意软件的攻击。
+低资源消耗：软件运行时对系统资源的消耗非常低，不会拖慢计算机的性能。
+用户友好的界面：软件界面简洁、直观，用户可以轻松地进行设置和管理。
+自动更新：软件会自动更新病毒库和防护引擎，及时获取最新的防护能力。
+定时扫描：可以设定定期扫描计算机，以便检测和清除潜在的威胁。
+多平台兼容：ESET Internet Security可在Windows和Mac操作系统上运行，为多平台用户提供保护。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;2023 年 4 月 6 日 – 修复了崩溃问题
+2023 年 7 月 12 日 – 固定许可证
+2023 年 12 月 18 日 – 禁用程序自动更新
+许可证2027-01–13
+可以运行 Windows 7 的最新版本
+（激活静默安装重新打包）&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;ESET Internet Security v16.0.28.0(Last Win7) x86 &amp;amp; x64 特别版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZJaOPjFSkxdAVmireIK_lA1?pwd=tawa&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZJaOPjFSkxdAVmireIK_lA1?pwd=tawa&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ESET NOD32 Antivirus v16.0.28.0(Last Win7) x86 &amp; x64 特别版</title>
+        <link>https://www.danlong360.com/post/25908/</link>
+        <pubDate>Fri, 20 Dec 2024 19:33:38 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/25908/</guid>
+        <description>&lt;p&gt;ESET NOD32 防病毒软件以“轻、快、狠、准”而闻名，全球唯一通过26次VB100%测试的权威防病毒软件，高据众产品之榜首！ESET NOD32 安全杀毒软件设计了一个高效的内核，作为单独的、高度优化的引擎，提供统一的安全保护，防止不断的更新病毒、蠕虫、间谍程序的恶意攻击。ESET安全防护软件采用先进的ThreatSense技术，通过对恶意代码进行分析，实时侦测未知的病毒，让您时刻走在病毒编写者的前面。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/25908/20241220_073348.png&#34;
+	width=&#34;650&#34;
+	height=&#34;448&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;145&#34;
+		data-flex-basis=&#34;348px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;ESET NOD32 Antivirus - ESET Security Forum
+&lt;a class=&#34;link&#34; href=&#34;https://forum.eset.com/forum/24-eset-nod32-antivirus/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://forum.eset.com/forum/24-eset-nod32-antivirus/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;2023 年 4 月 6 日 – 修复了崩溃问题
+2023 年 7 月 12 日 – 固定许可证
+2023 年 12 月 18 日 – 禁用程序自动更新
+许可证2027-01–13
+可以运行 Windows 7 的最新版本
+（激活静默安装重新打包）&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;ESET NOD32 Antivirus v16.0.28.0(Last Win7) x86 &amp;amp; x64 特别版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZJfPv66OdohAAe4Nh8PFoA1?pwd=u3qs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZJfPv66OdohAAe4Nh8PFoA1?pwd=u3qs&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows Manager 10/11(Win10/11优化大师) v2.0.4 中文直装版</title>
+        <link>https://www.danlong360.com/post/8344/</link>
+        <pubDate>Fri, 20 Dec 2024 19:26:09 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8344/</guid>
+        <description>&lt;p&gt;Windows Manager是一款功能强大的系统优化工具，可以帮助用户快速优化Windows系统，提升系统性能，保护用户隐私，修复系统问题，管理启动项等。该软件具有丰富的功能和简洁的界面，非常适合普通用户和专业用户使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/8344/20241220_072621.png&#34;
+	width=&#34;901&#34;
+	height=&#34;647&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;139&#34;
+		data-flex-basis=&#34;334px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;清理系统垃圾文件，释放磁盘空间。
+优化系统启动项，加快系统启动速度。
+修复系统错误和问题，提高系统稳定性。
+管理安装的软件和驱动程序，方便用户管理。
+隐藏敏感文件和文件夹，保护用户隐私安全。
+设置系统参数和调整系统设置，个性化定制系统。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观，操作方便快捷。
+功能丰富，涵盖系统优化的各个方面。
+支持一键优化和自定义优化，满足不同用户需求。
+软件稳定可靠，不会对系统造成任何损害。
+定期更新，支持最新的Windows系统版本。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Windows Manager 10/11(Win10/11优化大师) v2.0.4 中文直装版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZXhT2J-S-M_fGekxqjzpmA1?pwd=siwe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZXhT2J-S-M_fGekxqjzpmA1?pwd=siwe&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ESET Server Security for Windows Server v11.0.12012.0 特别版</title>
+        <link>https://www.danlong360.com/post/64493/</link>
+        <pubDate>Fri, 20 Dec 2024 19:23:14 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/64493/</guid>
+        <description>&lt;p&gt;ESET Server Security for Windows Server 是一款专为Windows服务器设计的安全软件，旨在保护企业服务器免受各种网络威胁的侵害。该软件提供了一系列强大的安全功能和特点，确保服务器系统的稳定和安全。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/64493/20241220_072324.png&#34;
+	width=&#34;495&#34;
+	height=&#34;387&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;127&#34;
+		data-flex-basis=&#34;306px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;实时保护：提供实时防病毒、防间谍软件和防黑客攻击的保护，确保服务器系统始终处于安全状态。
+高级威胁检测：采用先进的威胁检测技术，能够及时发现和阻止各种恶意软件和网络攻击。
+防火墙保护：内置防火墙功能，有效阻止未经授权的网络访问，保护服务器系统不受网络攻击。
+定时扫描：支持定时自动扫描和更新病毒库，确保服务器系统能够及时应对最新的威胁。
+远程管理：提供远程管理功能，管理员可以通过Web控制台轻松管理服务器的安全设置和监控。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;资源占用低：该软件采用轻量级的设计，占用系统资源极少，不会影响服务器的性能和稳定性。
+灵活性强：支持不同规模和环境的服务器部署，可以灵活配置和管理安全策略。
+持续更新：病毒库和软件引擎会定期更新，确保服务器系统能够及时应对最新的威胁。
+易于使用：界面简洁直观，易于上手和操作，即使没有安全经验的管理员也能轻松管理系统安全。&lt;/p&gt;
+&lt;h3 id=&#34;系统要求&#34;&gt;系统要求
+&lt;/h3&gt;&lt;p&gt;支持的操作系统：
+Microsoft Windows Server 2022（服务器核心和桌面体验）
+Microsoft Windows Server 2019（服务器核心和桌面体验）
+Microsoft Windows Server 2016（服务器核心和桌面体验）
+Microsoft Windows Server 2012 R2&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;禁用程序自动更新。
+许可证2006–11–10
+（已注册的静默安装重新打包）x64&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;ESET Server Security for Windows Server v11.0.12012.0 特别版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZYCn0Yvn22OfpqRRQtQoZA1?pwd=jn3j&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZYCn0Yvn22OfpqRRQtQoZA1?pwd=jn3j&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>cFosSpeed(网络优化加速器) v13.01.3001 直装破解版</title>
+        <link>https://www.danlong360.com/post/18892/</link>
+        <pubDate>Fri, 20 Dec 2024 18:14:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/18892/</guid>
+        <description>&lt;p&gt;cFosSpeed是一款由瑞典FOSSHELL公司开发的网络优化软件，它可以有效地提高网络传输速度，改善网络延迟，提升网络游戏体验，改善网络浏览体验，提高网络下载速度，改善网络视频流媒体体验，改善网络语音通话体验，改善网络聊天体验，改善网络文件传输体验，改善网络远程桌面体验等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/18892/20241220_061503.png&#34;
+	width=&#34;640&#34;
+	height=&#34;480&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;实时优化网络连接：cFosSpeed 可以实时优化您的网络连接，提高数据传输速度和稳定性。
+流量管理：您可以根据需要设置优先级和限制不同应用程序的网络流量，确保重要的任务始终优先使用网络资源。
+自动调整设置：cFosSpeed 可以根据当前网络状况自动调整设置，确保网络连接始终保持最佳状态。
+统计数据：软件可以提供详细的流量统计数据，让您了解网络使用情况，并进行有针对性的优化。
+低延迟游戏加速：cFosSpeed 提供专门的游戏加速功能，降低网络延迟，在在线游戏中获得更好的游戏体验。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：cFosSpeed 拥有直观的界面，易于操作，即使是没有网络技术知识的用户也可以轻松使用。
+高效稳定：软件采用先进的优化算法，能够有效提高网络连接速度和稳定性。
+多平台支持：cFosSpeed 支持多种操作系统，包括 Windows、Mac 和 Linux，满足不同用户的需求。
+安全可靠：软件经过多次测试和验证，安全可靠，不会对您的系统造成任何负面影响。
+多种优化选项：您可以根据自己的需求选择不同的网络优化选项，满足不同场景下的需求。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEYgrbhYUdaC_xsb12pjpdpA1?pwd=ksg6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEYgrbhYUdaC_xsb12pjpdpA1?pwd=ksg6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>UltraISO(ISO文件制作/编辑/转换工具) v9.7.6.3860 中文直装版</title>
+        <link>https://www.danlong360.com/post/8132/</link>
+        <pubDate>Fri, 20 Dec 2024 18:13:34 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8132/</guid>
+        <description>&lt;p&gt;UltraISO是一款功能强大的光盘映像文件制作/编辑/转换工具，可以帮助用户轻松地制作、编辑、转换和管理光盘映像文件。它支持ISO、BIN/CUE、IMG/CCD/NRG等多种光盘映像文件格式，可以直接编辑其中的内容，还可以将光盘映像文件直接写入CD/DVD。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/8132/20241220_061346.png&#34;
+	width=&#34;646&#34;
+	height=&#34;476&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;135&#34;
+		data-flex-basis=&#34;325px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持多种光盘映像文件格式，包括ISO、BIN/CUE、IMG/CCD/NRG等。
+可以直接编辑光盘映像文件中的内容，如添加、删除、重命名文件等。
+可以将光盘映像文件转换为其他格式，如转换ISO为BIN/CUE、IMG/CCD/NRG等。
+支持在Windows资源管理器中右键点击文件进行快速操作。
+可以将光盘映像文件直接写入CD/DVD，并支持在Windows系统中模拟虚拟光驱。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简单直观，操作简便，适用于不同水平的用户。
+提供强大的编辑功能，可以直接修改光盘映像文件中的内容。
+支持多种光盘映像文件格式，方便用户选择适合自己的文件格式。
+支持将光盘映像文件直接写入CD/DVD，方便用户备份和分享文件。
+软件体积小巧，运行速度快，占用系统资源少。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEYgvqoBx6IaCEYYOC-D7YqA1?pwd=kxfs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEYgvqoBx6IaCEYYOC-D7YqA1?pwd=kxfs&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>priPrinter Professional(虚拟打印机) v6.9.0.2541 中文直装版</title>
+        <link>https://www.danlong360.com/post/30332/</link>
+        <pubDate>Fri, 20 Dec 2024 18:12:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/30332/</guid>
+        <description>&lt;p&gt;priPrinter 是一款虚拟打印机，您可在其它应用程序内随时调用它。要开始打印作业，只需从您的应用程序内选择 priPrinter 作为打印机进行打印。软件随即生成的打印预览，可让您提前检查打印的观感效果。在此期间，您可使用 priPrinter 修改打印机作业，如，移除页面或重新排列页面、更改页面布局、进行文本修正，添加水印或标记。这样，打印作业就能按您所需，精确进行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/30332/20241220_061252.png&#34;
+	width=&#34;640&#34;
+	height=&#34;464&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;331px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;简约且时髦的用户界面，包含 3D 打印预览
+打印多页内容至单张纸上。priPrinter 可将任意数量的页面打印至一张纸上。有了页边距移除工具以及实时高品质打印预览的帮助，多页打印成为非常实用的功能，轻松避免大段留白的页边距
+页面重排序。通过鼠标拖放操作变更页面顺序或是其在纸上的位置。
+丰富且灵活的页面布局。没有必要再输入尺寸了，您只需轻松拖拽打印预览窗口内的页边距线和辅导线，以交互控制的方式按需调整打印布局和页面尺寸
+移除空页或不想要的页。选中它们，续而点按“Delete”键即可
+裁剪空页边框/广告/不想要的文本或图像。
+进行最终的文本修正，加亮重要信息或涂抹敏感数据*
+轻松添加水印、注释或页码。支持宏功能
+自动页面编号Profiles
+打印至物理打印机、保存为图像文件或是发布为 PDF 文档*
+合并多个打印作业
+撤销/重做。每个动作均可撤销
+将经常使用的设置保存为个性化打印机模版
+支持表单或抬头
+支持脚本&lt;/p&gt;
+&lt;h3 id=&#34;系统需求&#34;&gt;系统需求
+&lt;/h3&gt;&lt;p&gt;没有任何特殊需求，在任意安装有 MS logo Windows 11, 10, 8.1, 8, 7, Vista, XP, 2000 的办公计算机中均可使用
+priPrinter 支持 64-位 操作系统，可利用 64-位系统的优势
+无需附加组件或模块&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEYh-cACY0G0kzC0gaI_6PAA1?pwd=rpvv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEYh-cACY0G0kzC0gaI_6PAA1?pwd=rpvv&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>TeraCopy(文件复制工具) Pro v3.17.0.0 中文直装版</title>
+        <link>https://www.danlong360.com/post/43261/</link>
+        <pubDate>Fri, 20 Dec 2024 18:03:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/43261/</guid>
+        <description>&lt;p&gt;TeraCopy是一款Windows系统下的文件复制工具，其主要功能是在文件复制和移动过程中提供更快的速度和更多的控制选项。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/43261/20241220_060409.png&#34;
+	width=&#34;785&#34;
+	height=&#34;544&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;144&#34;
+		data-flex-basis=&#34;346px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;更快的文件复制速度：TeraCopy使用动态调整缓冲区的技术，可以显著提高文件的复制速度。
+中断恢复功能：支持对复制和移动过程进行中断操作，同时也可以随时恢复操作，而不需要重新开始。
+错误恢复功能：TeraCopy可以自动检测文件复制和移动过程中的错误，并尝试多次重复操作。
+可扩展性：支持第三方拓展，可以帮助用户进行更多的操作和功能拓展。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁：TeraCopy具有简洁直观的用户界面，易于操作和使用。
+支持多语言：TeraCopy支持多种语言，方便不同地区的用户使用。
+操作透明：TeraCopy会显示详细的复制和移动过程信息，让用户对操作有更直观的了解。
+资源占用低：TeraCopy在运行过程中占用的系统资源较低，不会影响其他操作的进行。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEYiD-mIDpU_wkHuDTFmAckA1?pwd=98rb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEYiD-mIDpU_wkHuDTFmAckA1?pwd=98rb&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>OncePower(文件重命名工具) v2.14.0 中文绿色版</title>
         <link>https://www.danlong360.com/post/89649/</link>
         <pubDate>Fri, 20 Dec 2024 16:45:41 +0800</pubDate>

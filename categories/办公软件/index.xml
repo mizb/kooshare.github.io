@@ -7,7 +7,680 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 20 Dec 2024 14:13:08 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Dec 2024 22:27:15 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Office Installer Plus(Office安装工具) v1.22 by Ratiborus 绿色版</title>
+        <link>https://www.danlong360.com/post/29270/</link>
+        <pubDate>Fri, 20 Dec 2024 22:27:15 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/29270/</guid>
+        <description>&lt;p&gt;Office Installer Plus是一款专为Windows操作系统用户设计的办公软件安装器，它可以帮助用户轻松安装Microsoft Office套件及其相关应用程序。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/29270/20241220_102725.png&#34;
+	width=&#34;640&#34;
+	height=&#34;443&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;144&#34;
+		data-flex-basis=&#34;346px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持一键安装Microsoft Office套件以及Word、Excel、PowerPoint等应用程序。
+提供多种版本选择，包括Office 2016、Office 2019、Office 365等。
+支持自定义安装选项，用户可以根据需求选择安装哪些应用程序。
+支持在线更新，及时获取最新版本的Office套件和应用程序。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观，操作简单易懂，适合各种用户群体使用。
+安装速度快，节省用户时间和精力。
+支持自动升级功能，保持软件始终是最新版本。
+提供多种安装选项，满足用户不同的需求。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v1.2.2
+- ODT 已从计划中删除。当启用“使用替代安装程序创建 ISO”开关时，
+将创建一个批处理文件来开始安装。
+- 添加了连接 Office 发行版的解压映像以进行安装的功能。
+- 以隐身模式安装 Office 时，安装结束时的消息将被抑制。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Office Installer Plus(Office安装工具) v1.22 by Ratiborus 绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZX2a0i1CtgNtrHebFb-UyA1?pwd=qmwh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZX2a0i1CtgNtrHebFb-UyA1?pwd=qmwh&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>SQLiteStudio(SQLite数据库管理工具) v3.4.11 中文绿色版</title>
+        <link>https://www.danlong360.com/post/77407/</link>
+        <pubDate>Fri, 20 Dec 2024 22:25:13 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/77407/</guid>
+        <description>&lt;p&gt;SQLiteStudio 是一款专为 SQLite 数据库设计的图形化管理工具，旨在提供简单易用的界面和强大的功能，帮助用户高效地创建、管理和查询 SQLite 数据库。它支持多种数据库操作，包括表结构设计、数据编辑、SQL 查询执行等，适用于开发人员、数据库管理员以及需要处理 SQLite 数据库的各类用户。SQLiteStudio 提供了直观的操作界面和丰富的功能，确保用户可以轻松完成复杂的数据库任务。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/77407/image-20241220222551332.png&#34;
+	width=&#34;568&#34;
+	height=&#34;444&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241220222551332&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;127&#34;
+		data-flex-basis=&#34;307px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;数据库管理：支持创建、打开和管理多个 SQLite 数据库文件，方便用户集中管理和切换不同数据库。
+表结构设计：允许用户通过图形化界面设计和修改数据库表结构，包括添加、删除和编辑字段，设置主键、外键和索引等。
+数据编辑：提供表格视图和表单视图两种方式，用户可以直观地查看和编辑表中的数据，支持批量插入、更新和删除操作。
+SQL 查询：内置 SQL 编辑器，用户可以编写和执行复杂的 SQL 查询，支持语法高亮、自动补全和查询结果可视化。
+查询历史：保存用户的查询历史记录，方便用户快速查找和重复使用之前的查询语句。
+导入导出：支持将数据从外部文件（如 CSV、SQL 文件）导入到数据库中，也可以将查询结果导出为多种格式，如 CSV、HTML 和 JSON。
+备份与恢复：提供数据库备份和恢复功能，用户可以轻松创建数据库的备份文件，并在需要时恢复到指定版本。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;直观界面：提供简洁明了的操作界面，用户可以轻松上手，无需复杂的培训或技术支持，快速完成数据库管理任务。
+多功能集成：集成了数据库管理、表结构设计、数据编辑、SQL 查询等多种功能，满足用户在不同场景下的需求。
+高效性能：优化的算法和高效的处理能力，确保数据库操作的速度快且稳定，节省时间和资源。
+跨平台支持：适用于 Windows、macOS 和 Linux 操作系统，确保用户在不同平台上都能享受一致的使用体验。
+社区驱动：由活跃的开发者社区维护，定期更新和改进，确保软件始终保持最新和稳定。
+灵活扩展：支持插件机制，用户可以根据需要安装第三方插件，扩展软件的功能，满足个性化需求。
+实时同步：支持多窗口操作，用户可以在不同窗口中同时管理多个数据库，确保操作的便捷性和效率。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;SQLiteStudio(SQLite数据库管理工具) v3.4.11 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZWuxhHTqVnGx-4AZi20QuA1?pwd=43g4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZWuxhHTqVnGx-4AZi20QuA1?pwd=43g4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Sublime Text(代码编辑器) v4.0 Build 4189 中文绿色版</title>
+        <link>https://www.danlong360.com/post/44490/</link>
+        <pubDate>Fri, 20 Dec 2024 22:21:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/44490/</guid>
+        <description>&lt;p&gt;Sublime Text 是一款非常流行的文本编辑器，它可以让用户方便地编写代码和文本，支持多种编程语言。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/44490/20241220_102209.png&#34;
+	width=&#34;672&#34;
+	height=&#34;539&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;124&#34;
+		data-flex-basis=&#34;299px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持多种编程语言：Sublime Text 支持多种编程语言，包括C++、Java、Python、HTML、CSS、JavaScript等，使其成为程序员和开发人员的首选编辑工具。
+多项功能丰富：Sublime Text 提供了丰富的功能，如快速导航、自动补全、代码片段、多选编辑、宏等，帮助用户提高编码效率。
+丰富的插件支持：Sublime Text 支持丰富的插件，用户可以根据自己的需求和喜好进行定制化设置，从而让编辑器更适合自己的工作方式。
+优秀的界面设计：Sublime Text 的界面简洁清晰，操作简单直观，用户可以自由调整布局和配色方案，使编辑体验更加舒适和高效。
+跨平台支持：Sublime Text 支持Windows、Mac和Linux等多个操作系统，使用户能够在不同平台上无缝切换和使用。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;快速启动速度：Sublime Text 启动速度非常快，能够在瞬间打开大型文件，并且在编辑过程中依然保持流畅的操作体验。
+强大的搜索和替换功能：Sublime Text 提供了强大的搜索和替换功能，支持正则表达式和批量替换，帮助用户快速准确地定位和修改代码。
+自定义设置和键绑定：Sublime Text 允许用户根据自己的需求和习惯进行各种自定义设置和键绑定，使编辑器更符合个人需求。
+多个窗口和分栏功能：Sublime Text 支持多个窗口和分栏功能，用户可以同时打开多个文件或者在一个窗口内分割多个编辑器，便于同时查看和编辑多个文件。
+高度可扩展性：Sublime Text 的插件和主题系统非常丰富和灵活，用户可以通过安装插件和主题来扩展编辑器的功能和外观，实现更加个性化的编辑体验。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;Sublime Text(代码编辑器) v4.0 Build 4189 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZWoViRi7Hps989ZgIfLY_A1?pwd=mszi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZWoViRi7Hps989ZgIfLY_A1?pwd=mszi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sublime Text 4 Build 4189 Stable + Portable (2024/12/20)
+&lt;a class=&#34;link&#34; href=&#34;https://download.sublimetext.com/sublime_text_build_4189.zip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.sublimetext.com/sublime_text_build_4189.zip&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://download.sublimetext.com/sublime_text_build_4189_x64.zip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.sublimetext.com/sublime_text_build_4189_x64.zip&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://download.sublimetext.com/sublime_text_build_4189_x32_setup.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.sublimetext.com/sublime_text_build_4189_x32_setup.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://download.sublimetext.com/sublime_text_build_4189_x64_setup.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.sublimetext.com/sublime_text_build_4189_x64_setup.exe&lt;/a&gt;
+SublimeText v4.0.4189+ Stable x32/x64 Pacth(2024/12/17)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZS9skhr6W53jfBS8SPGcaA1?pwd=ftre&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZS9skhr6W53jfBS8SPGcaA1?pwd=ftre&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sublime Text 第三方本地化菜单多语言化插件包
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/zam1024t/LocalizedMenu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/zam1024t/LocalizedMenu&lt;/a&gt;
+Sublime Text 第三方侧边栏右键增强插件中文版
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/52fisher/SideBarEnhancements&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/52fisher/SideBarEnhancements&lt;/a&gt;
+PackageControl: 插件安装控制管理器（必装的）
+&lt;a class=&#34;link&#34; href=&#34;https://packagecontrol.io/installation&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://packagecontrol.io/installation&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/wbond/package_control/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/wbond/package_control/releases&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Mailbird Premium(邮件客户端软件) v3.0.18.0 中文直装版</title>
+        <link>https://www.danlong360.com/post/23847/</link>
+        <pubDate>Fri, 20 Dec 2024 19:44:07 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/23847/</guid>
+        <description>&lt;p&gt;Mailbird是一款简洁、强大的邮件客户端软件，帮助用户更高效地管理和处理邮件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/23847/20241220_074419.png&#34;
+	width=&#34;640&#34;
+	height=&#34;512&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;125&#34;
+		data-flex-basis=&#34;300px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;多账户支持：可以同时管理多个邮件帐户，包括Gmail、Yahoo、Outlook等。
+无限标签：可以为不同邮件设置标签，帮助用户更轻松地分类和管理。
+快速搜索：支持快速搜索邮件内容，帮助用户快速找到需要的信息。
+自动回复：支持设置自动回复邮件功能，方便用户在繁忙时自动回复邮件。
+定时发送：支持定时发送邮件功能，可以提前设置好发送时间，让邮件在指定时间发送。
+折叠模式：支持邮件内容折叠模式，可以更快地浏览和筛选邮件。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁：Mailbird的界面简洁直观，易于上手。
+功能强大：除了基本的邮件功能外，Mailbird还提供了许多实用的功能，可以帮助用户更高效地处理邮件。
+高度定制化：用户可以根据自己的需求定制邮件客户端，包括自定义界面、设置快捷键等。
+跨平台：Mailbird支持跨平台使用，用户可以在不同设备上同步邮件信息。
+高安全性：采用SSL加密技术，确保用户的邮件信息安全。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;一般信息：
+类型：安装
+语言：多国语言
+补丁：MADARA
+命令行选项：
+静默安装：/S
+例如：installation_file.exe /S&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZ1UgHHTqVnGx-4AZhlkHvA1?pwd=qfm9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZ1UgHHTqVnGx-4AZhlkHvA1?pwd=qfm9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Mastercam 2025 v27.0.6723.0 简体中文“对不起”优化版</title>
+        <link>https://www.danlong360.com/post/67638/</link>
+        <pubDate>Fri, 20 Dec 2024 19:42:42 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/67638/</guid>
+        <description>&lt;p&gt;Mastercam是美国CNC Software Inc.公司开发的基于PC平台的CAD/CAM软件。它集二维绘图、三维实体造型、曲面设计、体素拼合、数控编程、刀具路径摸拟及真实感摸拟等多种功能于一身。它具有方便直观的几何造型。 Mastercam提供了设计零件外形所需的理想环境，其强大稳定的造型功能可设计出复杂的曲线、曲面零件。 Mastercam9.0以上版本还有支持中文环境，而且价位适中，对广大的中小企业来说是理想的选择，是经济有效的全方位的软件系统，是工业界及学校广泛采用的CAD/CAM系统。
+Mastercam不但具有强大稳定的造型功能，可设计出复杂的曲线、曲面零件，而且具有强大的曲面粗加工及灵活的曲面精加工功能。其可靠刀具路径效验功能使Mastercam可模拟零件加工的整个过程，模拟中不但能显示刀具和夹具，还能检查出刀具和夹具与被加工零件的干涉、碰撞情况，真实反映加工过程中的实际情况，不愧为一优秀的CAD/CAM软件。同时Mastercam对系统运行环境要求较低，使用户无论是在造型设计、CNC铣床、CNC车床或CNC线切割等加工操作中，都能获得最佳效果Mastercam软件已被广泛的应用于通用机械、航空、船舶、军工等行业的设计与NC加工，从80年代末起，我国就引进了这一款著名的CAD/CAM软件，为我国的制造业迅速崛起作出了巨大贡献。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/67638/20241220_074256.png&#34;
+	width=&#34;640&#34;
+	height=&#34;438&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;146&#34;
+		data-flex-basis=&#34;350px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本特点&#34;&gt;版本特点
+&lt;/h3&gt;&lt;p&gt;1、基于官方版本制作，硬修改安装文件，直接集成官方的简体中文语言包和Update1升级档。
+2、去除自动更新程序（占位符填充）。
+3、支持在不安装CodeMeter的情况下正常运行Mastercam。
+4、去除NetHASP服务器、NetHasp监视器。&lt;/p&gt;
+&lt;h3 id=&#34;注意事项&#34;&gt;注意事项
+&lt;/h3&gt;&lt;p&gt;1、~~安装包里不包含虚拟狗，请前往此处下载新版本 ~~。采用TeAM SolidSQUAD-SSQ 破解补丁
+2、&lt;del&gt;对于较新的Windows，请务必配合平行空间管理器（Parallel Space Manager）使用。该工具目前可以完美支持尚处于测试阶段的Windows 11（演示版本：build 26120.961，发布于2024年6月14日），且基本不受微软的驱动与签名黑名单影响，除非微软做出违背祖宗的决定。&lt;/del&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Mastercam 2025 v27.0.6723.0 简体中文“对不起”优化版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZ3VA_t9Ep_CXOFtefWzpyA1?pwd=fuvv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZ3VA_t9Ep_CXOFtefWzpyA1?pwd=fuvv&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>万兴PDF专家(PDF文档处理工具) v10.4.10.2780 中文破解版</title>
+        <link>https://www.danlong360.com/post/66482/</link>
+        <pubDate>Fri, 20 Dec 2024 19:39:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/66482/</guid>
+        <description>&lt;p&gt;万兴PDF专家(Wondershare PDFelement)是一款国产PDF文档全方位解决方案.万兴PDF编辑器软件万兴PDF中文版,专注于PDF的创建,编辑,转换,签名,压缩,合并,比较等功能.万兴PDF专业版PDF编辑软件,以简约风格及强大的功能在国外名声大噪,除了传统功能外,还提供OCR扫描,表格识别,创建笔记,翻译服务,云同步等功能.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/66482/20241220_074015.png&#34;
+	width=&#34;793&#34;
+	height=&#34;575&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;330px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;What&amp;rsquo;s New in Wondershare PDFelement for Windows
+&lt;a class=&#34;link&#34; href=&#34;https://pdf.wondershare.com/pdfelement/whats-new.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pdf.wondershare.com/pdfelement/whats-new.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;版本更新_发版记录 -万兴PDF编辑器（万兴PDF国内中文站）
+&lt;a class=&#34;link&#34; href=&#34;https://pdf.wondershare.cn/pdfelement/whats-new.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pdf.wondershare.cn/pdfelement/whats-new.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;万兴PDF专家V10 新增功能
+• 万兴PDF专家V10隆重推出 – 利用AI人工智能驱动的终极智能PDF解决方案！
+• 为您的PDF释放AI的力量！体验个性化帮助：与人工智能进行量身定制的交互，获得符合您独特偏好的定制支持和提示。
+• AI 支持的文档专业知识：利用 AI 的广泛知识来精确解决您所有与 PDF 相关的问题。无缝启动和访问会话，轻松跟踪您的会话历史记录。
+• 完美的PDF人工智能修饰：轻松获得完美文档 - 只需单击一下即可校对并接收有价值的增强建议。
+• 全球翻译变得简单：无缝翻译您的文档，增强全球受众的可读性。
+• 沉浸式人工智能阅读模式：沉浸在人工智能支持的阅读体验中，将参与度提升到新的高度。简化的人工智能摘要：享受简化且高效的内容摘要流程。
+• 揭开全面PDF功能的世界！高级电子签名：跨云、移动和桌面平台轻松请求、跟踪和应用电子签名。增强的PDF管理：快速访问最近使用的 PDF，简化最近使用的文件夹中的组织。
+• 优化压缩效率：最大化压缩功能，文档压缩效率提高 10%。
+• 无缝文档渲染：体验增强的文档渲染，以实现无缝且视觉上令人愉悦的查看。
+• 自动书签生成：自动检测并生成书签，实现轻松导航。
+• 定制页面尺寸选项：提供对特定页面范围的支持，标准化页面尺寸并提供快速预览效果。
+• 轻松的批量操作：减小 PDF 文件大小并轻松地从不同格式创建 PDF。
+• 现代体验的尖端 UI 卓越的视觉效果：让自己沉浸在最先进的 UI 设计中，重新定义您的视觉交互。
+• 统一视觉设计：新产品 UI 在 Windows 和 Mac 上无缝运行，确保跨设备视觉效果一致，并减少多设备用户的学习曲线。
+• 自适应导航栏：根据您的喜好，通过折叠左侧导航栏或固定右侧导航栏来自定义您的阅读区域。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZ4czHJmWs3zbXouHR9Y2yA1?pwd=xsh3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZ4czHJmWs3zbXouHR9Y2yA1?pwd=xsh3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>万兴PDF专家(PDF文档处理工具) v10.4.10.2780 绿色便携版</title>
+        <link>https://www.danlong360.com/post/5471/</link>
+        <pubDate>Fri, 20 Dec 2024 19:38:46 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/5471/</guid>
+        <description>&lt;p&gt;万兴PDF专家是一款专业的PDF处理软件。它具有多种功能和特点，方便用户进行PDF文件的编辑、转换、管理等操作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/5471/20241220_073857.png&#34;
+	width=&#34;793&#34;
+	height=&#34;575&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;330px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;文字编辑：修改、插入、删除、替换PDF中的文字内容。&lt;/li&gt;
+&lt;li&gt;图片编辑：添加、删除、调整、提取PDF中的图片。&lt;/li&gt;
+&lt;li&gt;批注和标记：高亮、划重点、添加批注、附加文件等。&lt;/li&gt;
+&lt;li&gt;转换格式：将PDF文件转换为Word、Excel、PPT、图像等格式。&lt;/li&gt;
+&lt;li&gt;合并和拆分：合并多个PDF文件，拆分一个PDF文件为多个文件。&lt;/li&gt;
+&lt;li&gt;加密和解密：为PDF文件加密和解密，保护文档安全。&lt;/li&gt;
+&lt;li&gt;表单处理：填写和编辑交互式和非交互式表单。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;用户友好：简洁直观的界面，容易上手和操作。&lt;/li&gt;
+&lt;li&gt;多功能：涵盖了PDF处理的各个方面，满足用户的各种需求。&lt;/li&gt;
+&lt;li&gt;高效性能：处理速度快，支持批量处理，节省用户时间和工作效率。&lt;/li&gt;
+&lt;li&gt;数据安全：支持密码保护和加密功能，确保文档的机密性和安全性。&lt;/li&gt;
+&lt;li&gt;跨平台：兼容多种操作系统，包括Windows、MacOS和Linux，适用于不同的用户需求。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;pdfelement破解版,pdfelement10中文破解版,万兴pdf破解版中文绿色便携版
+- 万兴pdf免激活中文绿色便携版，破解永久专业版，集成离线OCR完整数据包
+- 免激活，免安装第三方绿色便携化，已预设默认简体中文，取消自动检查更新
+- 删除了多国语言文件、消息中心程序、关联格式程序
+- 取消了首次启动消息弹窗、偏好向导、关闭评分弹窗&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;万兴PDF专家(PDF文档处理工具) v10.4.10.2780 绿色便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZ4czHJmWs3zbXouHR9Y2yA1?pwd=xsh3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZ4czHJmWs3zbXouHR9Y2yA1?pwd=xsh3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Rhinoceros 3D(犀牛3D建模软件) v8.10.24172.02001 中文破解版</title>
+        <link>https://www.danlong360.com/post/8998/</link>
+        <pubDate>Fri, 20 Dec 2024 19:32:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8998/</guid>
+        <description>&lt;p&gt;Rhinoceros 3D，又称为Rhino，是一款专业的三维建模软件，由美国Robert McNeel &amp;amp; Associates公司开发。它的主要功能是进行三维建模和设计，可用于建筑设计、工业设计、产品设计、珠宝设计、汽车设计等领域。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/8998/20241220_073248.png&#34;
+	width=&#34;640&#34;
+	height=&#34;453&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;141&#34;
+		data-flex-basis=&#34;339px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;三维建模：Rhino可以帮助用户轻松地创建复杂的三维模型，包括几何体、曲面、多边形等。
+渲染和动画：用户可以在Rhino中添加材质、光源等进行渲染，并创建动画来展示设计。
+分析和验证：Rhino提供了一系列的分析工具，可以帮助用户验证设计的准确性和可行性。
+文件导入和导出：Rhino支持导入和导出多种文件格式，如DWG、STEP、IGES等，方便与其他软件进行数据交换。
+二维绘图：除了三维建模，Rhino还提供了一系列的绘图工具，方便用户进行二维绘图。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面友好：Rhino的界面简单直观，易于上手，没有太多复杂的操作步骤。
+高度可定制性：用户可以根据自己的需求定制工具栏、快捷键等，以提高工作效率。
+强大的插件支持：Rhino拥有丰富的插件库，用户可以根据需要安装各种插件来扩展软件的功能。
+多平台支持：Rhino不仅支持Windows系统，还支持Mac系统，方便不同平台的用户使用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Rhinoceros 3D(犀牛3D建模软件) v8.10.24172.02001 中文破解版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZJi4GIDpU_wkHuDTG34_rA1?pwd=uieh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZJi4GIDpU_wkHuDTG34_rA1?pwd=uieh&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>中望3D 2025(国内版) 简体中文精简直装版</title>
+        <link>https://www.danlong360.com/post/26116/</link>
+        <pubDate>Fri, 20 Dec 2024 19:29:58 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/26116/</guid>
+        <description>&lt;p&gt;中望3D 2025是一款专业的数字设计和制造软件，主要用于工业设计、机械工程、汽车设计等领域。该软件具有先进的三维建模技术和强大的仿真分析功能，能帮助用户快速高效地进行产品设计和制造过程。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/26116/20241220_073009.png&#34;
+	width=&#34;658&#34;
+	height=&#34;485&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;135&#34;
+		data-flex-basis=&#34;325px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;直装版特点&#34;&gt;直装版特点
+&lt;/h3&gt;&lt;p&gt;1、本体文件更换为国内版。
+2、所有精简、修改项目与之前的国际版一致。
+3、整合了国际版直装版发布至今的所有补丁，原生支持使用“新建”页面下的“运动”功能。&lt;/p&gt;
+&lt;h3 id=&#34;已经装了国际版的需要换这个版本吗&#34;&gt;已经装了国际版的需要换这个版本吗？
+&lt;/h3&gt;&lt;p&gt;总的来说，这个版本相当于一次性安装国际版直装包+全模块修复补丁+0617升级档（站长自制）。
+如果您有下列情况，建议下载国内版直装包：
+1、不知道如何安装全模块修复补丁。
+2、强迫症患者，见到安装程序内的升级提示就给它点掉。
+3、全新安装中望3D 2025的人。
+4、安装包收藏控。&lt;/p&gt;
+&lt;h3 id=&#34;注意事项&#34;&gt;注意事项
+&lt;/h3&gt;&lt;p&gt;1、请运行压缩包内的“Setup.exe”安装，否则寄。
+2、英语语言包必须安装，否则寄。
+3、文件名开头是win10的，代表支持Windows 10及以上系统；开头是win7的，代表支持Windows 7/8。下载时请务必确认下载的版本和当前操作系统是否一致，不一致则寄。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;中望3D 2025(国际版) 简体中文精简直装版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZK8ib9WExOYsEE_pi_oeoA1?pwd=rid9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZK8ib9WExOYsEE_pi_oeoA1?pwd=rid9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>中望3D 2025(国际版) 简体中文精简直装版</title>
+        <link>https://www.danlong360.com/post/13136/</link>
+        <pubDate>Fri, 20 Dec 2024 19:29:05 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/13136/</guid>
+        <description>&lt;p&gt;中望3D是中望公司拥有全球自主知识产权的高性价比的高端三维CAD/CAM一体化软件产品，为客户提供了从入门级的产品设计、模具设计、CAM加工的一体化解决方案。拥有独特的Overdrive混合建模内核，支持A级曲面，支持2-5轴CAM加工。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/13136/20241220_072917.png&#34;
+	width=&#34;658&#34;
+	height=&#34;485&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;135&#34;
+		data-flex-basis=&#34;325px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新内容&#34;&gt;更新内容
+&lt;/h3&gt;&lt;p&gt;重新加载文件
+用于重新加载模型信息，如切换文件权限。
+新增系列值属性
+通过预设列表系列值，实现属性对应的“数据/表达式”优先下拉选择的目的。
+草图过约束处理改进
+用户只需点击解决方案，软件会给出可行的解决过约束方案。
+拉伸功能新增“到下一个”
+此功能可以自动找到并选取距离草图最近的实体/曲面的表面，作为拉伸的终止面。
+装配动画的重构
+重构了装配动画模块，内容包含：引入时间线、柔性子装创建动画、增加外观关键帧、支持导入爆炸动画、增加运动分析。
+离散投影
+离散投影能大幅提升工程图视图投影效率和视图剖切效率。
+扭转凸缘
+在设计中，支持扭转起始宽度、终止宽度、长度、扭转角度的自定义。
+投影面积
+支持产品在开模方向的投影面积查询。
+钉板图
+钉板图支持设定图纸模板，可选择自动生成表格的类型。
+实体仿真功能整体革新
+实体仿真功能进行了整体革新，重新设计了整个用户界面，优化了用户体验。
+运动学仿真
+新增运动仿真功能，可基于零件或装配文件进行的运动仿真模拟。&lt;/p&gt;
+&lt;h3 id=&#34;直装版特点&#34;&gt;直装版特点
+&lt;/h3&gt;&lt;p&gt;1、基于官方版6月5日发布的国际版制作。采用BDGroup Install Services 2作为安装引导核心。即装即用，无需手动激活。
+2、BDGroup Install Services 2更新到2.0.0.21。引入独家的许可权限修复功能。
+3、精简官方版安装文件中的广告和其他无用文件。
+4、移除除简体中文和英语之外的所有语言文件。
+5、默认精简Teamworks，但可以通过恢复包(网盘中也有提供)恢复。
+（6月19日更新内容）
+修复了win10版进入软件后没有仿真模块的bug。（win7不存在此bug）
+（7月6日更新内容）
+修复了win10和win7版中点击“新建”页面下的“运动”功能时显示未授权的bug。&lt;/p&gt;
+&lt;h3 id=&#34;注意事项&#34;&gt;注意事项
+&lt;/h3&gt;&lt;p&gt;1、请运行压缩包内的“Setup.exe”安装，否则寄。
+2、英语语言包不可精简，精简就寄。
+3、文件名开头是win10的，代表支持Windows 10及以上系统；开头是win7的，代表支持Windows 7/8。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;中望3D 2025(国际版) 简体中文精简直装版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEZLQdg-IMQk2enoy0vn16PA1?pwd=8f93&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEZLQdg-IMQk2enoy0vn16PA1?pwd=8f93&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Mastercam 2024 with Update 6 简体中文轻度优化版</title>
+        <link>https://www.danlong360.com/post/17658/</link>
+        <pubDate>Fri, 20 Dec 2024 18:20:18 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/17658/</guid>
+        <description>&lt;p&gt;Mastercam是美国CNC Software Inc.公司开发的基于PC平台的CAD/CAM软件。它集二维绘图、三维实体造型、曲面设计、体素拼合、数控编程、刀具路径摸拟及真实感摸拟等多种功能于一身。它具有方便直观的几何造型。 Mastercam提供了设计零件外形所需的理想环境，其强大稳定的造型功能可设计出复杂的曲线、曲面零件。 Mastercam9.0以上版本还有支持中文环境，而且价位适中，对广大的中小企业来说是理想的选择，是经济有效的全方位的软件系统，是工业界及学校广泛采用的CAD/CAM系统。
+Mastercam不但具有强大稳定的造型功能，可设计出复杂的曲线、曲面零件，而且具有强大的曲面粗加工及灵活的曲面精加工功能。其可靠刀具路径效验功能使Mastercam可模拟零件加工的整个过程，模拟中不但能显示刀具和夹具，还能检查出刀具和夹具与被加工零件的干涉、碰撞情况，真实反映加工过程中的实际情况，不愧为一优秀的CAD/CAM软件。同时Mastercam对系统运行环境要求较低，使用户无论是在造型设计、CNC铣床、CNC车床或CNC线切割等加工操作中，都能获得最佳效果Mastercam软件已被广泛的应用于通用机械、航空、船舶、军工等行业的设计与NC加工，从80年代末起，我国就引进了这一款著名的CAD/CAM软件，为我国的制造业迅速崛起作出了巨大贡献。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/17658/20241220_062030.png&#34;
+	width=&#34;640&#34;
+	height=&#34;436&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;146&#34;
+		data-flex-basis=&#34;352px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本特点&#34;&gt;版本特点
+&lt;/h3&gt;&lt;p&gt;1、基于《Mastercam 2024 “先辈”轻度优化版》制作，并集成官方Update3-Update6升级档。
+2、BDIS2内核更新，适配最新签名规则。注意：该版本setup.ini和之前版本的setup.ini不互通，不可互相替换！
+3、机床库支持自定义安装路径（取决于Mastercam本体安装时设置）。
+注意：安装包里不包含虚拟狗，网盘中单独提供。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEYbQjdL06S0oFzxAj22WWPA1?pwd=z5rz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEYbQjdL06S0oFzxAj22WWPA1?pwd=z5rz&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>中望CAD标准版/机械版/建筑版 2023 SP2简体中文精简直装版</title>
+        <link>https://www.danlong360.com/post/32776/</link>
+        <pubDate>Fri, 20 Dec 2024 18:19:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/32776/</guid>
+        <description>&lt;p&gt;中望CAD是中望自主研发的第三代二维CAD平台软件，助力零成本切换和高效应用。为了顺应各种行业使用，中望CAD也提供了机械版、建筑版。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/32776/20241220_061941.png&#34;
+	width=&#34;640&#34;
+	height=&#34;494&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;129&#34;
+		data-flex-basis=&#34;310px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;sp2标准版机械版更新说明&#34;&gt;SP2标准版、机械版更新说明
+&lt;/h3&gt;&lt;p&gt;套索选择
+套索选择是使用光标选择图纸上多个对象的一种新模式。相较于传统的框选对象方式，使用套索选择可以创建不规则的框选范围，从而更加灵活地选择多个对象。
+增强坐标标注
+很多行业企业在绘制图纸时都需要用到坐标标注，平台现有的坐标标注的功能样式单一、坐标布局不合理，实用性比较弱。而通过增强坐标标注功能创建的坐标标注在样式的设计上更加合理，大大节省了标注在图纸上所占的空间，让图纸看起来更加整洁，设计师在阅读数据时也更加清晰。
+为了满足坐标标注在不同设计场景下使用的需求，我们还提供了丰富的样式供设计师选择，设计师可以修改坐标的箭头样式、文字样式、前缀样式等等。除此以外，还提供了在不同的坐标系下创建标注的功能。
+面对需要添加大量坐标标注的设计场景，我们还提供了批量创建坐标标注的功能，目前支持对“块参照”、“圆”、“多段线”三种对象进行批量标注。图纸上的标注数据也支持导出到记事本文件，方便数据的存储与复用。
+文件对比功能优化
+设计师在绘制图纸时经常需要迭代图纸的版本，在频繁的图纸迭代过程中可能会忘记两个版本之间图纸的差异，使用文件对比功能可以自动快速定位图纸之间的差异点，帮助设计师定位问题。&lt;/p&gt;
+&lt;h3 id=&#34;sp2建筑版更新说明&#34;&gt;SP2建筑版更新说明
+&lt;/h3&gt;&lt;p&gt;除了上述标准版更新内容外，建筑版还有以下额外更新项目：
+· 新增图纸集
+· 表格功能优化
+· 三维实体编辑优化
+· 支持3D鼠标
+· 支持Adobe® PostScript打印机
+· 优化了工具提示信息
+· 优化了计算器命令
+· 对象捕捉开关增加了快捷菜单
+· 字体替换增加预览窗口&lt;/p&gt;
+&lt;h3 id=&#34;精简直装版特点&#34;&gt;精简直装版特点
+&lt;/h3&gt;&lt;p&gt;1、基于官方原版制作（官网版本是20221117/SP2），整合站长独家制作的引导程序，实现装好即用。
+2、精简网络展开功能（含安装程序对应选项）。
+3、删除安装包内过时的资源文件。
+4、去除安装完成后的“激活”按钮。
+5、去除安装程序左下角的链接。
+6、精简许可证管理器、加密锁驱动、更新程序、崩溃上报程序。
+7、快捷方式改名为“中望CAD 2023”、“中望CAD 机械版 2023”和“中望CAD 建筑版 2023”。&lt;/p&gt;
+&lt;h3 id=&#34;注意事项&#34;&gt;注意事项
+&lt;/h3&gt;&lt;p&gt;解压后请运行Setup.exe来进行安装，否则会出现无法激活的情况！&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEYbUY0lRQsP37Bn7xl7TsmA1?pwd=wbny&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEYbUY0lRQsP37Bn7xl7TsmA1?pwd=wbny&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>中望CAD标准版/机械版/建筑版 2024 SP1.3 简体中文精简直装版</title>
+        <link>https://www.danlong360.com/post/1964/</link>
+        <pubDate>Fri, 20 Dec 2024 18:18:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/1964/</guid>
+        <description>&lt;p&gt;中望CAD是一款基于自主内核的国产二维CAD平台。它完美兼容DWG格式，广泛支持主流行业应用和用户个性化功能定制开发。自2002年推出市场以来，已帮助建筑、勘察、市政规划、机械制造、电子电器、能源电力等多行业用户实现高效设计、国产化创新应用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/1964/20241220_061848.png&#34;
+	width=&#34;640&#34;
+	height=&#34;473&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;135&#34;
+		data-flex-basis=&#34;324px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2024-sp13版本新功能与改进点&#34;&gt;2024 SP1.3版本新功能与改进点
+&lt;/h3&gt;&lt;p&gt;由于官方没有写更新说明。因此只能记为：
+修复了一些已知问题。&lt;/p&gt;
+&lt;h3 id=&#34;精简直装版特点&#34;&gt;精简直装版特点
+&lt;/h3&gt;&lt;p&gt;1、基于官方原版制作（标准版和建筑版均为20240314，机械版20240319），采用BDGroup Install Services 2（2.0.0.19）作为安装引导核心。
+2、精简网络展开功能（含安装程序对应选项）。
+3、删除安装包内过时的资源文件。
+4、去除安装程序左下角的链接。
+5、精简许可证管理器、加密锁驱动、更新程序、崩溃上报程序、Visual Studio Code、许可证借用（含开始菜单中对应的快捷方式）。
+6、快捷方式改名为“中望CAD 2024”、“中望CAD机械版 2024”和“中望CAD建筑版 2024”。
+7、（仅限建筑版）删除安装包内的某集团订阅服务程序。（打包的那位员工这个月的奖金应该要减少了2333333333）
+8、（仅限标准版）开始菜单中的文件夹改名为“中望CAD 2024”。&lt;/p&gt;
+&lt;h3 id=&#34;bdgroup-install-services-2更新说明&#34;&gt;BDGroup Install Services 2更新说明
+&lt;/h3&gt;&lt;p&gt;1、整合中望3D权限修复补丁。
+2、大幅度提高了检测速度。
+3、新增一些错误代码。
+4、编译流程标准化，提高稳定性。
+5、支持32位操作系统（需下载独立版本，且该版本不可在64位操作系统下使用）。&lt;/p&gt;
+&lt;h3 id=&#34;注意事项&#34;&gt;注意事项
+&lt;/h3&gt;&lt;p&gt;解压后请运行Setup.exe来进行安装，否则会出现无法激活的情况！&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEYclxcHbXbQuTEPQflGZNXA1?pwd=8nkz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEYclxcHbXbQuTEPQflGZNXA1?pwd=8nkz&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>中望CAD标准版/机械版/建筑版 2022 SP2.2 简体中文精简直装版</title>
+        <link>https://www.danlong360.com/post/69316/</link>
+        <pubDate>Fri, 20 Dec 2024 18:17:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/69316/</guid>
+        <description>&lt;p&gt;中望CAD是一款基于自主内核的国产二维CAD平台。它完美兼容DWG格式，广泛支持主流行业应用和用户个性化功能定制开发。自2002年推出市场以来，已帮助建筑、勘察、市政规划、机械制造、电子电器、能源电力等多行业用户实现高效设计、国产化创新应用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/69316/20241220_061755.png&#34;
+	width=&#34;640&#34;
+	height=&#34;443&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;144&#34;
+		data-flex-basis=&#34;346px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2022-sp22标准版机械版更新说明&#34;&gt;2022 SP2.2标准版、机械版更新说明
+&lt;/h3&gt;&lt;p&gt;官方只提供了SP2更新说明，故推测SP2.2是在SP2基础上修复了一些bug。
+· 智能打印功能增强
+增加自定义文件名集打印不同尺寸纸张功能。
+· 智能语音转换文字
+可以将智能语音工具创建的声音转换为文字。
+· 表格单元格数据格式补全
+补齐了表格中单元格的数据格式种类，并优化了相关功能。
+· 动态输入模式支持透明调用命令
+支持在动态输入模式下使用透明调用功能。
+· 支持样条曲线炸开
+可对样条曲线使用“炸开”（Explode）命令。
+· 消隐显示&amp;amp;消隐打印正确性改进
+消隐显示和消隐打印正确性改进。
+· 悬停高亮机制优化
+优化了光标悬停高亮机制。&lt;/p&gt;
+&lt;h3 id=&#34;2022-sp22建筑版更新说明&#34;&gt;2022 SP2.2建筑版更新说明
+&lt;/h3&gt;&lt;p&gt;精简直装版特点
+1、基于官方原版制作（标准版20231012，机械版20231211，建筑版20231017），采用BDGroup Install Services 2（2.0.0.19）作为安装引导核心。
+2、精简网络展开功能（含安装程序对应选项）。
+3、删除安装包内过时的资源文件。
+4、去除安装程序左下角的链接。
+5、精简许可证管理器、加密锁驱动、更新程序、崩溃上报程序、Visual Studio Code、许可证借用（含开始菜单中对应的快捷方式）。
+6、精简软件内的APP+推广（需要全新安装，不支持卸载官方版后重装）。
+7、快捷方式改名为“中望CAD 2022”、“中望CAD机械版 2022”和“中望CAD建筑版 2022”。
+8、（仅限标准版）开始菜单中的文件夹改名为“中望CAD 2022”。
+9、（仅限建筑版）开始菜单中的文件夹改名为“中望CAD建筑版 2022”。&lt;/p&gt;
+&lt;h3 id=&#34;注意事项&#34;&gt;注意事项
+&lt;/h3&gt;&lt;p&gt;解压后请运行Setup.exe来进行安装，否则会出现无法激活的情况！
+机械版和建筑版中已经包含了标准版的相关文件，无需重复下载标准版。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEYfIkmIDpU_wkHuDTFl4F3A1?pwd=rxbh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEYfIkmIDpU_wkHuDTFl4F3A1?pwd=rxbh&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>MathType(数学公式编辑器) v7.8.0.0 中文破解版</title>
         <link>https://www.danlong360.com/post/96283/</link>
         <pubDate>Fri, 20 Dec 2024 14:13:08 +0800</pubDate>
