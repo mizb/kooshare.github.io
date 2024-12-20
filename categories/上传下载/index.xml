@@ -7,7 +7,92 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 19 Dec 2024 09:30:26 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Dec 2024 09:17:02 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PuTTY(linux远程工具SSH客户端) v0.82 中文绿色版</title>
+        <link>https://www.danlong360.com/post/9671/</link>
+        <pubDate>Fri, 20 Dec 2024 09:17:02 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/9671/</guid>
+        <description>&lt;p&gt;PuTTY是一个免费、开源的SSH和Telnet客户端软件，用于远程登录和控制Linux服务器和网络设备。除了SSH和Telnet协议，PuTTY还支持串口连接、IPv6、代理设置等多种功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/9671/20241220_091723.png&#34;
+	width=&#34;452&#34;
+	height=&#34;442&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;102&#34;
+		data-flex-basis=&#34;245px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持SSH、Telnet、Rlogin、Raw等多种远程登录协议。
+支持Unicode和UTF-8字符编码。
+支持X11转发和端口转发。
+支持多种加密算法，包括AES、Blowfish、3DES等。
+支持公共秘钥验证和密码认证。
+支持会话保存和多个会话管理。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种协议：支持Telnet、SSH、rlogin等多种协议，可以满足用户不同的远程连接需求。&lt;/li&gt;
+&lt;li&gt;稳定可靠：使用C语言编写，具有稳定可靠的特点，即使在网络环境比较差的情况下也可以保持连接稳定。&lt;/li&gt;
+&lt;li&gt;支持多种操作系统：支持Windows、Linux、Mac等多种操作系统，便于用户在不同设备上使用。&lt;/li&gt;
+&lt;li&gt;支持各种加密算法：支持AES、Blowfish、3DES等多种加密算法，保障用户的安全连接。&lt;/li&gt;
+&lt;li&gt;支持远程文件传输：支持SCP、SFTP等协议，可以方便地进行远程文件传输和管理。&lt;/li&gt;
+&lt;li&gt;支持X11转发：支持X11转发功能，可以在远程主机上运行图形界面应用程序。&lt;/li&gt;
+&lt;li&gt;免费开源：PuTTY是一款免费开源软件，用户可以免费下载和使用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEWgQOaeARqy741ZvgXx1-4A1?pwd=fxpw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEWgQOaeARqy741ZvgXx1-4A1?pwd=fxpw&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Cyberduck(免费FTP/SFTP客户端) v9.1.1.42639</title>
+        <link>https://www.danlong360.com/post/81558/</link>
+        <pubDate>Fri, 20 Dec 2024 09:11:08 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/81558/</guid>
+        <description>&lt;p&gt;Cyberduck 是一款免费开源的 FTP/SFTP/WebDAV/iCloud 等协议的客户端软件。它有一个直观的用户界面，支持文本编辑器、外部工具编辑器等实用功能。在协议支持方面，Cyberduck 特别强调对 Amazon S3 和 WebDAV 的支持，其支持该协议接口，甚至还支持 Google 地址的云端硬盘、Google Docs 等云存储服务。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/81558/20241220_091118.png&#34;
+	width=&#34;640&#34;
+	height=&#34;511&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;125&#34;
+		data-flex-basis=&#34;300px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种文件传输协议：FTP、SFTP、WebDAV、Amazon S3 等；&lt;/li&gt;
+&lt;li&gt;支持 Google Drive 、Google Docs 云存储服务；&lt;/li&gt;
+&lt;li&gt;支持作者设定项；&lt;/li&gt;
+&lt;li&gt;集成基本的文件编辑器和外部编辑器；&lt;/li&gt;
+&lt;li&gt;支持多语言界面。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;简洁易用：Cyberduck 的操作界面简洁易用，便于用户快速上手；&lt;/li&gt;
+&lt;li&gt;支持多种文件传输协议：利用 Cyberduck ，用户可以方便地进行多种文件传输；&lt;/li&gt;
+&lt;li&gt;强大的文件管理功能：Cyberduck 支持文件拖拽、复制、粘贴、删除、重命名等基本管理操作；&lt;/li&gt;
+&lt;li&gt;可扩展性强：Cyberduck 支持外部工具编辑器，用户可以根据自己的需求自由扩展功能；&lt;/li&gt;
+&lt;li&gt;多语言支持：Cyberduck 支持多种语言界面。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEWgn9msSs0sunbMym-i0NhA1?pwd=qknp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEWgn9msSs0sunbMym-i0NhA1?pwd=qknp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>iDownerGo(流媒体网络视频下载工具) v9.2.4 多语便携版</title>
         <link>https://www.danlong360.com/post/86307/</link>
         <pubDate>Thu, 19 Dec 2024 09:30:26 +0800</pubDate>

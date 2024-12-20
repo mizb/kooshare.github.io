@@ -7,7 +7,86 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 19 Dec 2024 18:18:35 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Dec 2024 09:17:54 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>微软Edge浏览器 v131.0.2903.112 官方正式版</title>
+        <link>https://www.danlong360.com/post/99311/</link>
+        <pubDate>Fri, 20 Dec 2024 09:17:54 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/99311/</guid>
+        <description>&lt;p&gt;微软Edge浏览器2023最新版,Microsoft Edge浏览器稳定版,微软edge浏览器最新版下载.微软Edge浏览器官方正式版基于谷歌Chromium内核,全新现代化界面,支持全局翻译,PDF阅读模式,第三方扩展插件及语音朗读等系列功能.此外,内存占用大幅优化,相对来说更省电流畅,比较适合笔记本用户,并且全面支持兼容所有平台.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/99311/20241220_091806.png&#34;
+	width=&#34;600&#34;
+	height=&#34;396&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;151&#34;
+		data-flex-basis=&#34;363px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Microsoft Edge Stable 渠道发行说明 | Microsoft Docs
+&lt;a class=&#34;link&#34; href=&#34;https://docs.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;最近更新&#34;&gt;最近更新
+&lt;/h3&gt;&lt;p&gt;- 例行跟进最新谷歌Chromium内核
+- 新增：加入全新彩色颜色主题外观
+- 新增：密码管理工具、自动填充建议
+- 改进：现自动阻止网页视频自动播放
+- 改进：睡眠标签页面、启动加载速度
+- 优化：字体渲染清晰度、沉浸式阅读&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;微软Edge浏览器 v131.0.2903.112 官方正式版
+官方远程下载 x64：https://go.microsoft.com/fwlink/?LinkID=2093437
+官方远程下载 x86：https://go.microsoft.com/fwlink/?LinkID=2093505&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>RSS Guard(跨平台RSS阅读器) v4.8.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/8595/</link>
+        <pubDate>Fri, 20 Dec 2024 09:10:24 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8595/</guid>
+        <description>&lt;p&gt;RSS Guard 是一款开源的跨平台 RSS 阅读器和聚合器软件。它可以让用户订阅和阅读来自不同网站的内容，将这些内容统一显示在一个界面上。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/8595/20241220_091041.png&#34;
+	width=&#34;619&#34;
+	height=&#34;461&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;134&#34;
+		data-flex-basis=&#34;322px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;多账号管理：RSS Guard 允许用户通过一个界面管理多个 RSS 订阅账号，无需切换不同的应用程序。
+分类和标签：用户可以将订阅的内容根据自己的需求进行分类和标记，便于查找和整理。
+全文搜索：软件内置了全文搜索功能，可以快速找到关键词或短语在订阅的内容中的匹配结果。
+增量更新：RSS Guard 使用增量更新技术，只下载和更新已更改和新增的内容，提高了更新效率。
+通知和提醒：软件可以通过弹出通知或声音提醒用户有新内容可供阅读。
+支持代理服务器：RSS Guard 支持使用代理服务器来访问被封锁或限制的网站内容。
+读取离线内容：用户可以将订阅的内容保存在本地，并在没有网络连接时进行阅读。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;开源自由：RSS Guard 是开源软件，用户可以自由使用、复制、分发和修改其源代码。
+跨平台：支持多个操作系统，用户可以在不同的设备上使用 RSS Guard。
+多语言支持：软件提供多国语言界面，满足不同国家和地区用户的需求。
+高度可定制化：用户可以根据自己的喜好和需求对界面和功能进行个性化定制。
+快速高效：使用 C++ 开发，具有较快的加载速度和低资源占用。
+强大的扩展性：用户可以通过插件来扩展软件的功能，增加新的特性和服务。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEWgsxmFpJR3jja3inGvaGjA1?pwd=437q&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEWgsxmFpJR3jja3inGvaGjA1?pwd=437q&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>猫眼浏览器(Chrome内核增强版浏览器) v4.12.2 绿色版</title>
         <link>https://www.danlong360.com/post/6936/</link>
         <pubDate>Thu, 19 Dec 2024 18:18:35 +0800</pubDate>
