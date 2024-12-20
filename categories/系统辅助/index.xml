@@ -7,7 +7,413 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 20 Dec 2024 09:18:34 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Dec 2024 16:45:41 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>OncePower(文件重命名工具) v2.14.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/89649/</link>
+        <pubDate>Fri, 20 Dec 2024 16:45:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/89649/</guid>
+        <description>&lt;p&gt;OncePower 是一款功能强大且用户友好的文件重命名工具，它提供了多种文件重命名功能，帮助用户高效地管理和组织文件。OncePower 特别适合需要频繁重命名文件的个人用户、摄影师、设计师和企业用户。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/89649/20241220_044554.png&#34;
+	width=&#34;640&#34;
+	height=&#34;388&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;164&#34;
+		data-flex-basis=&#34;395px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;批量重命名：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文本替换：支持文本替换功能，用户可以替换文件名中的特定文本。
+前缀和后缀：支持添加前缀和后缀，用户可以在文件名前或后添加特定的文本。
+序列号：支持添加序列号，用户可以为文件名添加递增的数字序列。
+日期和时间：支持添加日期和时间戳，用户可以在文件名中添加当前的日期和时间。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;文件选择：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文件筛选：支持文件筛选功能，用户可以根据文件类型、大小、修改日期等条件筛选文件。
+文件夹选择：支持选择文件夹中的所有文件或部分文件进行重命名。
+拖放支持：支持拖放文件到软件界面，方便用户快速选择文件。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;预览和撤销：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;预览功能：支持预览重命名结果，用户可以在实际重命名之前查看文件名的变化。
+撤销功能：支持撤销重命名操作，用户可以在重命名后恢复原始文件名。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;规则设置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;自定义规则：支持自定义重命名规则，用户可以创建和保存多种重命名规则，方便重复使用。
+规则导入导出：支持规则导入导出功能，用户可以共享和导入其他用户的重命名规则。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;其他功能：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文件类型支持：支持多种文件类型，包括图片、文档、音频和视频等。
+日志记录：支持日志记录功能，用户可以查看和记录重命名操作的历史记录。
+多语言支持：支持多种语言界面，方便不同地区的用户使用。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多功能集成：集成了文本替换、前缀和后缀、序列号和日期时间等多种重命名功能，用户无需在多个工具之间切换。
+高效重命名：采用高效的重命名算法，确保快速准确的重命名效果。
+预览和撤销：支持预览和撤销功能，用户可以在实际重命名之前查看和确认结果。
+自定义规则：支持自定义重命名规则，用户可以根据需要创建和保存多种规则。
+文件筛选：支持文件筛选功能，用户可以根据文件类型、大小、修改日期等条件筛选文件。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;更改了排序切换的显示效果
+优化了删除扩展重命名后的显示效果
+Changed the display effect of sorting switching
+Optimized the display effect after deleting and renaming extensions&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEYILUyirIEOBhcTbzPUs1CA1?pwd=wpeq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEYILUyirIEOBhcTbzPUs1CA1?pwd=wpeq&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>小鹤音形-小鹤双拼输入法 v10.11.4 最新版</title>
+        <link>https://www.danlong360.com/post/89348/</link>
+        <pubDate>Fri, 20 Dec 2024 16:41:58 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/89348/</guid>
+        <description>&lt;p&gt;小鹤音形是一款基于小鹤双拼输入法理论的输入法软件，为用户提供了一种更高效准确的中文输入方式。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/89348/20241220_044209.png&#34;
+	width=&#34;640&#34;
+	height=&#34;291&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;219&#34;
+		data-flex-basis=&#34;527px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持小鹤双拼、小鹤音形双拼、小鹤笔画、小鹤音形笔画等输入法模式；&lt;/li&gt;
+&lt;li&gt;可以自定义词库，方便用户对自己常用的词语进行添加；&lt;/li&gt;
+&lt;li&gt;支持使用拼音加机械码的方式快速添加生僻字；&lt;/li&gt;
+&lt;li&gt;提供了集成的词典和成语库，方便用户查找生词和成语；&lt;/li&gt;
+&lt;li&gt;支持繁体字的输入与转换，方便用户输入和查看繁体字；&lt;/li&gt;
+&lt;li&gt;支持通过快捷键进行输入法的切换和切换输入法模式；&lt;/li&gt;
+&lt;li&gt;提供了多种输入法皮肤选择和自定义皮肤功能，用户可以按照自己的喜好来选择适合自己的皮肤；&lt;/li&gt;
+&lt;li&gt;提供了更多的设置选项，可以让用户根据自己的习惯来配置输入法功能。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;综合来看，小鹤音形是一款功能强大、操作简单、易于使用的输入法软件，可以大提高用户的输入效率和输入准确性。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;win_ 10.11.1&amp;amp;9.31.1 —— 2024年11月6日
+1.增加二简词：窗口、当然、前天&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEYH87ztIhYpjAA6xBbH_QnA1?pwd=8gjz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEYH87ztIhYpjAA6xBbH_QnA1?pwd=8gjz&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Daemon Tools Ultra(虚拟光驱高级版) v5.5.1.1072 直装破解版</title>
+        <link>https://www.danlong360.com/post/11323/</link>
+        <pubDate>Fri, 20 Dec 2024 14:19:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/11323/</guid>
+        <description>&lt;p&gt;Daemon Tools Ultra是一个虚拟光驱软件，能够模拟CD/DVD/Blu-ray光盘的操作，方便用户在计算机上进行光盘图像的创建、编辑、加密等操作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/11323/20241220_022220.png&#34;
+	width=&#34;600&#34;
+	height=&#34;413&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;145&#34;
+		data-flex-basis=&#34;348px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;虚拟光驱：Daemon Tools Ultra可以帮助用户创建虚拟光驱，模拟光盘的操作，用户可以方便地进行光盘数据的读取和写入。&lt;/li&gt;
+&lt;li&gt;光盘图像编辑：用户可以使用Daemon Tools Ultra对光盘图像进行编辑，支持增加、删除和修改光盘中的文件和文件夹。&lt;/li&gt;
+&lt;li&gt;光盘图像创建：用户可以使用Daemon Tools Ultra创建ISO、MDS、MDX等多种格式的光盘图像，并可以对其进行压缩和加密处理。&lt;/li&gt;
+&lt;li&gt;加密保护：Daemon Tools Ultra支持对光盘图像进行加密处理，可以使用密码保护光盘中的数据，防止数据泄露。&lt;/li&gt;
+&lt;li&gt;虚拟磁盘：除了支持虚拟光驱，Daemon Tools Ultra还支持创建虚拟磁盘，帮助用户方便地安装和使用需要的程序和工具。&lt;/li&gt;
+&lt;li&gt;光盘备份：用户可以使用Daemon Tools Ultra对光盘进行备份，提高数据的安全性和稳定性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简洁：Daemon Tools Ultra提供了简洁、易于操作的用户界面，用户可以快速了解并掌握所有功能。&lt;/li&gt;
+&lt;li&gt;多种文件格式支持：Daemon Tools Ultra支持多种光盘和磁盘图像的格式，包括ISO、MDS、MDX、nrg、CUE/BIN等。&lt;/li&gt;
+&lt;li&gt;支持高清影音：Daemon Tools Ultra支持模拟Blu-ray光盘，用户可以方便地播放高清影音资源。&lt;/li&gt;
+&lt;li&gt;多语言支持：Daemon Tools Ultra支持多种语言，可以帮助用户更好地使用软件。&lt;/li&gt;
+&lt;li&gt;多重挂载：Daemon Tools Ultra支持多个光盘图像的挂载，用户可以同时访问多个光盘资源。&lt;/li&gt;
+&lt;li&gt;高级功能：除了基本功能外，Daemon Tools Ultra还提供了多种高级功能，包括RAM磁盘、VHD文件支持、iSCSI客户端等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEYAUHC-IMQk2enoy0vJ0FsA1?pwd=tmub&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEYAUHC-IMQk2enoy0vJ0FsA1?pwd=tmub&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ESET Endpoint Antivirus/Security v9.1.2071.0 中文特别版</title>
+        <link>https://www.danlong360.com/post/52386/</link>
+        <pubDate>Fri, 20 Dec 2024 14:09:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/52386/</guid>
+        <description>&lt;p&gt;ESET工作站防护版最新版ESET Endpoint Antivirus破解版(ESET防病毒软件企业版标准防护版)ESET Endpoint Security破解版(ESET防病毒软件企业版高级防护版)NOD32杀毒软件提供ESET企业版和ESET个人家庭版.&lt;/p&gt;
+&lt;p&gt;ESET NOD32 防病毒软件以“轻、快、狠、准”而闻名，全球唯一通过26次VB100%测试的权威防病毒软件，高据众产品之榜首！ESET NOD32 安全杀毒软件设计了一个高效的内核，作为单独的、高度优化的引擎，提供统一的安全保护，防止不断的更新病毒、蠕虫、间谍程序的恶意攻击。ESET安全防护软件采用先进的ThreatSense技术，通过对恶意代码进行分析，实时侦测未知的病毒，让您时刻走在病毒编写者的前面。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/52386/20241220_020953.png&#34;
+	width=&#34;650&#34;
+	height=&#34;448&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;145&#34;
+		data-flex-basis=&#34;348px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;ESET Endpoint Antivirus Changelog | ESET
+&lt;a class=&#34;link&#34; href=&#34;https://eset.com/us/business/download/endpoint-antivirus-windows&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://eset.com/us/business/download/endpoint-antivirus-windows&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ESET Endpoint Products - ESET Security Forum
+&lt;a class=&#34;link&#34; href=&#34;https://forum.eset.com/forum/34-eset-endpoint-products&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://forum.eset.com/forum/34-eset-endpoint-products&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ESET Endpoint（企业版也称商业版）原名称ESET NOD32 for Business
+ESET企业版既能安装于个人系统，也能安装于服务器系统，即长期服务版
+相比ESET个人版多了网络防护, HIPS防御, RSA, IP6优化, 远程管理等功能。&lt;/p&gt;
+&lt;h3 id=&#34;系统要求&#34;&gt;系统要求
+&lt;/h3&gt;&lt;p&gt;Windows 7 SP1 with KB4474419, KB4490628, Windows 10+
+Win7如果安装提示当前系统版本过旧，就需要安装上面两个补丁&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEXrLtpYUdaC_xsb12pQfYwA1?pwd=p4nm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEXrLtpYUdaC_xsb12pQfYwA1?pwd=p4nm&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Alcohol 120%(ISO生成刻录和管理工具) v2.1.1.2201 中文直装版</title>
+        <link>https://www.danlong360.com/post/91527/</link>
+        <pubDate>Fri, 20 Dec 2024 13:29:15 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/91527/</guid>
+        <description>&lt;p&gt;Alcohol 120% 是一个功能强大的光盘映像生成、刻录和管理工具，可以帮助用户快速方便地创建光盘映像文件并将它们刻录到空白光盘上。除了光盘刻录，Alcohol 120% 还支持虚拟光驱功能，用户可以在计算机上创建虚拟光驱，将光盘映像文件挂载到虚拟光驱上，就好像是在使用真实光盘一样。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/91527/20241220_012950.png&#34;
+	width=&#34;678&#34;
+	height=&#34;493&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;330px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;光盘映像生成：支持将光盘内容转换为映像文件，如ISO、MDS、NRG 等格式。
+光盘刻录：支持将光盘映像文件刻录到空白光盘上。
+虚拟光驱功能：支持创建虚拟光驱，将光盘映像文件挂载到虚拟光驱上进行读取。
+数据备份：支持光盘内容的备份和恢复。
+多种刻录模式：支持数据光盘、音频光盘、视频光盘等多种刻录模式。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;强大的兼容性：Alcohol 120% 支持各种光盘格式的刻录和读取，具有很好的兼容性。
+简单易用：软件界面友好，操作简单，适合新手用户使用。
+高效稳定：Alcohol 120% 刻录过程稳定高效，不易出现错误。
+多功能性：除了光盘刻录功能外，还支持虚拟光驱功能，方便用户管理光盘映像文件。
+丰富的选项设置：用户可以根据需要调整各种刻录和生成设置，满足不同需求。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEXemQHy4gOxWn5uYzTYQf9A1?pwd=m7s8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEXemQHy4gOxWn5uYzTYQf9A1?pwd=m7s8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Escrcpy(安卓手机投屏软件) v1.28.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/169/</link>
+        <pubDate>Fri, 20 Dec 2024 13:13:03 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/169/</guid>
+        <description>&lt;p&gt;Escrcpy 是一款强大的工具，它允许用户通过图形化的 Scrcpy 界面来显示和控制他们的 Android 设备。这款应用程序由 Electron 作为其底层框架驱动。Escrcpy 无需任何账户就可以使用，无需担心隐私或安全问题。Escrcpy没有广告，完全免费开源。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/169/20241220_011313.png&#34;
+	width=&#34;640&#34;
+	height=&#34;428&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;149&#34;
+		data-flex-basis=&#34;358px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h3&gt;&lt;p&gt;同步：得益于 Web 技术，将更快速的与 Scrcpy 保持同步
+轻巧度：本机支持，仅显示设备屏幕
+性能：30&lt;del&gt;120 帧每秒，取决于设备
+质量：1920×1080 或更高
+低延迟：35&lt;/del&gt;70 毫秒
+快速启动：显示第一张图片仅需约1秒钟
+非侵入性：不会在安卓设备上留下任何安装文件
+用户收益：无需账户、无广告、无需互联网连接
+自由：免费且开源软件&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;1.28.0 (2024-12-20)
+Features
+Support pairing and connecting to devices via QR code (14306b2)
+Supports connecting historical devices via device list (e0687e8)
+Bug Fixes
+Solve the problem of Windows disabling video forwarding and crashing (10b902a)
+Performance Improvements
+Update mirror icon (c214e5a)
+A new method is adopted to solve the problem of IP type configuration storage (5488a1e)
+Optimize device connection experience (0690f2d)
+Supports display of offline devices (dcf817f)&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEXUsjqHbXbQuTEPQfkpBMOA1?pwd=x94c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEXUsjqHbXbQuTEPQfkpBMOA1?pwd=x94c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Calibre(开源电子书管理软件) v7.23.0 多语便携版</title>
+        <link>https://www.danlong360.com/post/77982/</link>
+        <pubDate>Fri, 20 Dec 2024 13:11:56 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/77982/</guid>
+        <description>&lt;p&gt;Calibre 是一款开源的电子书管理软件，可以使用户管理、转换和阅读各种格式的电子书。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/77982/20241220_011220.png&#34;
+	width=&#34;647&#34;
+	height=&#34;478&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;135&#34;
+		data-flex-basis=&#34;324px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;电子书转换：Calibre 可以将电子书从一种格式转换为另一种格式，例如从 EPUB 转换为 MOBI 或 PDF。它支持广泛的格式，包括 EPUB, MOBI, AZW3, PDF, HTML, RTF, LIT, LRF, CHM, PDB, TXT 等。
+图书馆管理：用户可以轻松地组织和搜索大量的电子书集合。Calibre 提供了分类、标签、作者、标题等多种方式来整理电子书。
+元数据编辑：Calibre 允许用户编辑电子书的元数据信息，如书名、作者、出版日期、封面图片等。
+新闻下载与转换：Calibre 支持从互联网下载新闻或杂志，并将其转换成电子书格式，方便用户在电子阅读器上阅读。
+同步支持：可以将电子书同步到多种设备上，如 Kindle、Nook、iPad 等，确保无论使用何种设备都能访问自己的电子书库。
+插件扩展：Calibre 拥有丰富的插件生态系统，用户可以通过安装插件来扩展软件的功能，满足特定需求。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好界面：Calibre 提供了一个直观易用的图形用户界面，使得即使是技术新手也能轻松管理电子书。
+跨平台兼容性：Calibre 支持 Windows、macOS 和 Linux 等多个操作系统，确保了软件的广泛适用性。
+强大的社区支持：由于是开源项目，Calibre 拥有一个活跃的开发者和用户社区，提供了大量的帮助和支持资源。
+定期更新：开发团队经常发布新版本，增加新功能并修复已知的问题，确保软件始终处于最佳状态。
+多语言支持：Calibre 支持多种语言界面，包括简体中文，这使得非英语国家的用户也可以方便地使用该软件。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEXUpwmW_67fEruMOOZBvWwA1?pwd=tkkv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEXUpwmW_67fEruMOOZBvWwA1?pwd=tkkv&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>GoodSync(数据同步备份软件) v12.8.0.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/88235/</link>
+        <pubDate>Fri, 20 Dec 2024 11:44:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/88235/</guid>
+        <description>&lt;p&gt;GoodSync中文版是一款数据同步备份软件及文件实时同步及网盘管理工具.这款独特同步算法的文件同步和备份软件,能实现多台电脑,电脑与云端网盘,电脑和远程FTP服务器,电脑与U盘之间的数据和文件同步转换.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/88235/20241220_114448.png&#34;
+	width=&#34;773&#34;
+	height=&#34;537&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;143&#34;
+		data-flex-basis=&#34;345px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;GoodSync Version News - Windows
+&lt;a class=&#34;link&#34; href=&#34;https://www.goodsync.com/news-windows&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.goodsync.com/news-windows&lt;/a&gt;
+此破解版提供额外命令行批处理绑定磁盘实现免登陆，并禁止升级!
+转移到新磁盘时(自动绑定磁盘注册许可)，请先运行actGsync.bat。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEXANdaFpJR3jja3inH4GaVA1?pwd=3qx4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEXANdaFpJR3jja3inH4GaVA1?pwd=3qx4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GoodSync 12.8.0.0 Multilingual x86/x64 + Portable (2024/12/20)
+&lt;a class=&#34;link&#34; href=&#34;https://www.goodsync.com/download/GoodSync-v11-Setup.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.goodsync.com/download/GoodSync-v11-Setup.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.goodsync.com/download/GoodSync-v11-Setup.msi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.goodsync.com/download/GoodSync-v11-Setup.msi&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.goodsync.com/download/GoodSync-v11-2Go-Setup.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.goodsync.com/download/GoodSync-v11-2Go-Setup.exe&lt;/a&gt;
+GoodSync v11.x Patch Update 4 x86/x64 - Soda120 (2021/03/25)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEXA7unIDpU_wkHuDTFAt35A1?pwd=8jfh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEXA7unIDpU_wkHuDTFAt35A1?pwd=8jfh&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>NETworkManager(网络管理工具) v2024.12.20.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/11466/</link>
+        <pubDate>Fri, 20 Dec 2024 11:19:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/11466/</guid>
+        <description>&lt;p&gt;NETworkManager是一个网络管理工具，用于管理、监控和配置计算机的网络连接。该软件提供了一系列功能，使用户能够更方便地管理他们的网络连接。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/11466/20241220_111937.png&#34;
+	width=&#34;640&#34;
+	height=&#34;480&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;管理网络连接：NETworkManager允许用户添加、编辑和删除网络连接。用户可以添加无线网络、以太网连接、VPN连接等，并对其进行配置和管理。
+监控网络连接：该软件提供了实时监控网络连接的功能。用户可以查看当前网络连接的状态、速度和流量使用情况，以便快速定位网络问题并采取适当的措施。
+自动连接：用户可以配置NETworkManager自动连接到特定的网络或VPN连接。这将节省用户手动连接的时间和精力，并确保他们的计算机始终连接到所需的网络。
+网络优化：NETworkManager提供了一些网络优化工具，帮助用户优化他们的网络连接。这包括网络速度测试、网络故障排除和网络连接调优等功能。
+安全管理：该软件还提供了网络安全管理功能，使用户能够设置网络防火墙、访问控制和安全策略等，以保护他们的计算机免受网络攻击和威胁。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好的界面：NETworkManager具有直观的用户界面，使用户能够轻松地浏览和操作各种网络连接选项和设置。
+多种网络连接选项：该软件支持多种类型的网络连接，包括无线网络、以太网连接、VPN连接等。这使用户能够根据自己的需要灵活地配置和管理网络连接。
+强大的监控功能：NETworkManager提供了实时监控网络连接的功能，使用户能够及时了解网络连接的状态和性能。这有助于快速解决任何与网络连接相关的问题。
+自动化功能：该软件具有自动连接和自动配置的功能，可以减少用户的手动干预并提高工作效率。
+网络安全功能：NETworkManager提供了网络安全管理功能，使用户能够设置和管理网络防火墙、访问控制和安全策略等，以保护他们的计算机和数据安全。
+兼容性：该软件兼容多种操作系统，包括Windows、Mac和Linux等，使用户能够在不同的平台上使用该软件。&lt;/p&gt;
+&lt;h3 id=&#34;系统要求&#34;&gt;系统要求
+&lt;/h3&gt;&lt;p&gt;Windows 10 / Server x64 (1809 或更高版本)
+.NET Desktop 8.0 (LTS) – x64
+Microsoft Edge – WebView2 Runtime&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEX5D8fW_67fEruMOOZ2fOHA1?pwd=rq36&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEX5D8fW_67fEruMOOZ2fOHA1?pwd=rq36&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>PowerToys微软免费工具集(自定义系统工具) v0.87.1</title>
         <link>https://www.danlong360.com/post/5512/</link>
         <pubDate>Fri, 20 Dec 2024 09:18:34 +0800</pubDate>
