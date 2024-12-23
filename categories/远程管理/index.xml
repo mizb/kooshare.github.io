@@ -7,7 +7,45 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 21 Dec 2024 15:19:21 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 23 Dec 2024 19:33:06 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%9C%E7%A8%8B%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>RustDesk(跨平台远程桌面软件) v1.3.6 中文绿色版</title>
+        <link>https://www.danlong360.com/post/81279/</link>
+        <pubDate>Mon, 23 Dec 2024 19:33:06 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/81279/</guid>
+        <description>&lt;p&gt;RustDesk 是一款跨平台远程桌面控制软件。它支持 Windows、macOS 和 Linux 平台，并提供了方便易用的用户界面，用户可以远程连接到目标计算机，进行远程控制，文件传输等操作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/81279/20241223_074044.png&#34;
+	width=&#34;640&#34;
+	height=&#34;483&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;132&#34;
+		data-flex-basis=&#34;318px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1.远程控制：用户可以在本地电脑上远程控制连接到的远程电脑。
+2.文件传输：用户可以将本地文件传输到远程计算机，或者将远程计算机上的文件传输到本地电脑。
+3.多人协作：多个用户可以连接到同一台远程计算机进行协作，可以同时进行操作。
+4.屏幕录制：用户可以录制远程计算机的屏幕操作并保存为视频。
+5.剪贴板共享：用户可以在远程计算机和本地计算机之间复制和粘贴文本、图片等内容。
+6.安全可靠：使用加密技术保证连接过程中的数据传输安全可靠。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.跨平台：RustDesk 支持 Windows、macOS 和 Linux 平台，用户可以在不同的操作系统上使用相同的界面和功能。
+2.易用性：RustDesk 的用户界面简单易用，用户无需专业知识就可以使用。
+3.高性能：RustDesk 使用 Rust 编程语言开发，具有高效、可靠和快速执行的特点。
+4.免费：RustDesk 是免费软件，用户无需支付任何费用即可使用全部功能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEnQuWOHrf1rP1INNRsgWcvA1?pwd=9g8j&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEnQuWOHrf1rP1INNRsgWcvA1?pwd=9g8j&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Electerm(跨平台SSH桌面终端) v1.51.3 中文绿色版</title>
         <link>https://www.danlong360.com/post/73216/</link>
         <pubDate>Sat, 21 Dec 2024 15:19:21 +0800</pubDate>
