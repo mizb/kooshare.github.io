@@ -7,7 +7,881 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 22 Dec 2024 17:49:31 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 23 Dec 2024 08:14:34 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>STranslate(翻译工具/OCR工具) v1.2.12.1222 中文绿色版</title>
+        <link>https://www.danlong360.com/post/31635/</link>
+        <pubDate>Mon, 23 Dec 2024 08:14:34 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/31635/</guid>
+        <description>&lt;p&gt;STranslate 是一款功能强大且用户友好的翻译工具，它支持多种语言的即时翻译，提供丰富的翻译功能和便捷的使用体验。STranslate 特别适合需要频繁进行多语言交流的个人用户、商务人士和翻译工作者。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/31635/image-20241223082944408.png&#34;
+	width=&#34;460&#34;
+	height=&#34;381&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241223082944408&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;120&#34;
+		data-flex-basis=&#34;289px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;即时翻译：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文本翻译：支持输入文本的即时翻译，用户可以快速翻译各种文本内容。
+网页翻译：支持网页内容的即时翻译，用户可以直接在浏览器中翻译网页内容。
+图片翻译：支持图片中文字的即时翻译，用户可以上传图片并翻译其中的文字。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;语音翻译：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;语音输入：支持语音输入功能，用户可以通过语音输入需要翻译的文本。
+语音输出：支持语音输出功能，用户可以听到翻译结果的语音朗读。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;历史记录：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;翻译记录：支持保存翻译记录，用户可以查看和管理历史翻译内容。
+收藏夹：支持将常用的翻译内容添加到收藏夹，方便后续使用。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;多语言支持：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;多种语言：支持多种语言的翻译，包括但不限于英语、中文、日语、韩语、法语、德语等。
+自定义语言：支持自定义语言设置，用户可以选择常用的语言组合。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;词典和短语库：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;内置词典：提供内置词典功能，用户可以查询单词和短语的详细解释。
+短语库：提供短语库功能，用户可以查找和使用常见的翻译短语。&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;界面定制：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;主题设置：支持主题设置功能，用户可以自定义软件的界面风格。
+快捷键设置：支持快捷键设置功能，用户可以自定义常用操作的快捷键。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多功能集成：集成了文本翻译、语音翻译、图片翻译和词典查询等多种功能，用户无需在多个工具之间切换。
+即时翻译：支持即时翻译功能，用户可以快速翻译各种文本内容，提高工作效率。
+多语言支持：支持多种语言的翻译，满足用户的多语言交流需求。
+语音输入和输出：支持语音输入和输出功能，方便用户进行口语交流和学习。
+历史记录管理：支持翻译记录和收藏夹功能，方便用户管理和查找历史翻译内容。
+词典和短语库：提供内置词典和短语库功能，帮助用户更好地理解和使用翻译内容。
+界面定制：支持主题设置和快捷键设置，用户可以根据个人喜好定制界面和操作方式。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v1.2.12.1222
+新增: 输入框高度可配置
+优化: 优化常规配置保存卡顿的现象, 提高软件流畅性
+优化: 切换自动翻译资源释放, 优化软件内存占用
+优化: 主窗口在AltTab页面的显示隐藏
+优化: LLM服务API路径为空时才使用默认路径
+修复: 部分软件取词缺失的问题, 感谢 @asural
+修复: 修复了添加服务与服务列表不同步的问题 #283&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEkvpXMJ-S-M_fGekxvflC-A1?pwd=aptp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEkvpXMJ-S-M_fGekxvflC-A1?pwd=aptp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>JetBrains DataSpell(集成开发环境) 2024.3 直装激活版</title>
+        <link>https://www.danlong360.com/post/97612/</link>
+        <pubDate>Sun, 22 Dec 2024 22:21:55 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/97612/</guid>
+        <description>&lt;p&gt;JetBrains DataSpell是一款专为数据科学家和数据分析师设计的集成开发环境（IDE），旨在提供高效、灵活和友好的工作环境，在数据分析和机器学习任务中发挥优势。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/97612/20241222_102206.png&#34;
+	width=&#34;640&#34;
+	height=&#34;524&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;293px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;代码编辑器：支持多种编程语言，包括Python、R、SQL等，提供代码自动完成、语法高亮、代码折叠等功能，帮助用户提高编程效率。
+数据可视化：提供多种数据可视化工具，如图表、图形等，帮助用户直观地理解和分析数据。
+机器学习工具：集成了常用的机器学习库和工具，如Scikit-learn、TensorFlow等，方便用户进行机器学习任务。
+模型训练和评估：提供模型训练和评估的工具和功能，帮助用户快速建立和评估模型。
+数据处理工具：提供数据清洗、转换、处理等功能，帮助用户更好地管理和分析数据。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;集成开发环境：集成了多种数据科学和机器学习工具，提供全方位的开发环境，方便用户进行数据分析和机器学习任务。
+灵活性：支持多种编程语言和数据处理工具，满足用户不同的需求和偏好。
+用户友好：界面简洁清晰，操作简单直观，易于上手和使用。
+高效性：提供丰富的功能和工具，帮助用户高效地进行数据分析和机器学习任务，节省时间和精力。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;基于官方版制作，没有任何内容删除、更改或添加，程序安装成功后自动激活。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEimAyqvwLSLdLN4BG4cgMIA1?pwd=8htm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEimAyqvwLSLdLN4BG4cgMIA1?pwd=8htm&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>微软Office LTSC 2024(KpoJIuK直装版)x64 v16.0.17932.20190 12月版</title>
+        <link>https://www.danlong360.com/post/14391/</link>
+        <pubDate>Sun, 22 Dec 2024 22:20:54 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/14391/</guid>
+        <description>&lt;p&gt;微软Office LTSC 2024是微软推出的一款专业版办公软件套件，适用于企业和组织用户。该软件集成了Word、Excel、PowerPoint、Outlook等经典办公工具，提供文档处理、数据分析、演示展示、邮件管理等功能，帮助用户提高工作效率。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/14391/20241222_102104.png&#34;
+	width=&#34;640&#34;
+	height=&#34;497&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;128&#34;
+		data-flex-basis=&#34;309px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;Word：提供文字处理功能，支持创建、编辑和格式化各种类型的文档。
+Excel：提供数据分析和处理功能，支持创建、编辑和分析复杂的数据表格和图表。
+PowerPoint：提供演示展示功能，支持创建、编辑和设计精美的幻灯片展示。
+Outlook：提供邮件管理和日程安排功能，支持收发邮件、日程管理和联系人管理等操作。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;长期支持：LTSC版本为长期支持版本，提供更长时间的更新和支持，保证软件的稳定性和安全性。
+专业功能：集成丰富的办公工具，满足企业和组织的各种办公需求，提高工作效率和质量。
+安全可靠：提供各种安全功能和防护机制，确保用户数据和隐私信息的安全性。
+灵活部署：支持灵活的部署方式，适应不同环境和需求，提供更好的用户体验。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;一般信息：
+语言：简体中文、繁体中文、英语 + Office LP Integrator
+激活：Microsoft 激活脚本
+扩展：Office Tab Enterprise&lt;/p&gt;
+&lt;p&gt;如程序安装完成后，显示未激活，可能是激活工具被杀毒软件误杀！&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEimugBt9Ep_CXOFtejxSEgA1?pwd=i3a8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEimugBt9Ep_CXOFtejxSEgA1?pwd=i3a8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>微软Office LTSC 2024(直装破解版)x86 v16.0.17932.20190 12月更新版</title>
+        <link>https://www.danlong360.com/post/11660/</link>
+        <pubDate>Sun, 22 Dec 2024 22:19:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/11660/</guid>
+        <description>&lt;p&gt;Microsoft Office 2024 最新版为用户提供了一系列办公应用程序，包括Microsoft Word、Excel、PowerPoint、Outlook、OneNote、Access等。每个应用程序都经过了优化和改进，以提供更好的用户体验和功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/11660/20241222_102004.png&#34;
+	width=&#34;640&#34;
+	height=&#34;464&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;331px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;Microsoft Word：用于创建、编辑和格式化文档。用户可以利用丰富的字体、图像和样式选项来设计专业的文档。
+Microsoft Excel：用于创建、编辑和分析数据表格。用户可以利用各种功能和公式来进行数据分析和可视化。
+Microsoft PowerPoint：用于创建演示文稿和幻灯片。用户可以利用多种设计工具和动画效果来制作吸引人的演示文稿。
+Microsoft Outlook：用于管理电子邮件、日历、联系人和任务。用户可以方便地组织和安排自己的工作和日程安排。
+Microsoft OneNote：用于创建和管理笔记。用户可以在笔记本中创建文本、图像和多媒体内容，并进行分类和搜索。
+Microsoft Access：用于创建和管理数据库。用户可以利用Access的功能来存储、查询和分析大量数据。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好性：Microsoft Office 2024具有直观的界面和易于使用的功能，使用户可以轻松地学习和使用各种应用程序。
+高度兼容性：Office 2024可以与其他版本的Office套件和文件格式进行兼容，使用户可以与他人轻松地共享和协作。
+丰富的功能和工具：Office 2024为用户提供了众多高级功能和工具，以提高效率和工作质量。
+多平台支持：Office 2024可在Windows、macOS和移动设备上运行，使用户能够随时随地访问和编辑文件。
+数据安全性：Office 2024具有完善的安全性功能，包括数据加密、权限控制和防病毒保护，以保护用户的数据安全。&lt;/p&gt;
+&lt;h3 id=&#34;注意事项&#34;&gt;注意事项
+&lt;/h3&gt;&lt;p&gt;如程序安装完成后，显示未激活，可能是激活工具被杀毒软件误杀！&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEimugBt9Ep_CXOFtejxSEgA1?pwd=i3a8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEimugBt9Ep_CXOFtejxSEgA1?pwd=i3a8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>微软Office2016-2024x64(直装破解版) v16.0.18227.20162 12月更新版</title>
+        <link>https://www.danlong360.com/post/43850/</link>
+        <pubDate>Sun, 22 Dec 2024 22:19:02 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/43850/</guid>
+        <description>&lt;p&gt;微软Office是一款由微软公司开发的广泛使用的办公套件，它包含多个组件，每个组件都针对不同的办公需求设计。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/43850/20241222_101915.png&#34;
+	width=&#34;600&#34;
+	height=&#34;408&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;147&#34;
+		data-flex-basis=&#34;352px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;Word
+文字处理：用于创建、编辑和格式化各种类型的文档，如报告、信函、简历和书籍。
+页面布局：提供丰富的排版工具，包括字体样式、段落格式、页面边距调整等。
+图片与图形：轻松插入图片、图表、形状和SmartArt图形，增强文档视觉效果。
+审阅与协作：支持文档审阅、批注、跟踪修订和多人实时协作。&lt;/p&gt;
+&lt;p&gt;Excel
+数据管理：用于组织、分析和管理数据，支持表格制作、排序、筛选。
+公式与函数：内置大量数学、财务、统计等公式，支持复杂的数据计算。
+图表与可视化：可将数据转换为图表、图形，便于数据分析和展示。
+宏与VBA编程：高级用户可编写宏指令或使用Visual Basic for Applications进行自动化操作。&lt;/p&gt;
+&lt;p&gt;PowerPoint
+演示文稿制作：用于创建演示文稿，适用于会议、教学、演讲等场合。
+幻灯片设计：提供多种模板、主题、动画和过渡效果，增强演示吸引力。
+多媒体集成：可嵌入图片、音频、视频和交互元素，使演示更加生动。
+演示模式与远程分享：支持现场演示和在线分享，便于远程协作。&lt;/p&gt;
+&lt;p&gt;Outlook
+邮件管理：作为电子邮件客户端，支持接收、发送和管理邮件。
+日历与计划：集成日历功能，帮助用户安排会议、设定提醒。
+联系人管理：存储和管理联系人信息，支持同步。
+任务与笔记：可用于创建任务列表和记事本，提高个人生产力。&lt;/p&gt;
+&lt;p&gt;其他组件与特点：
+OneNote：数字笔记应用，用于收集、整理和分享笔记。
+Access：数据库管理系统，适合创建和管理小型数据库。
+Publisher：桌面出版软件，用于设计和制作传单、海报、新闻简报等。&lt;/p&gt;
+&lt;h3 id=&#34;版本列表&#34;&gt;版本列表
+&lt;/h3&gt;&lt;p&gt;– Microsoft Office Mondo 2016
+– Microsoft Office Professional Plus 2016
+– Microsoft Office Professional Plus 2019
+– Microsoft Office Professional Plus 2021
+– Microsoft Office Professional 2016
+– Microsoft Office Professional 2019
+– Microsoft Office Professional 2021
+– Microsoft Office Professional Premium
+– Microsoft Office Standard 2016
+– Microsoft Office Standard 2019
+– Microsoft Office Standard 2021
+– Microsoft Project Professional 2016
+– Microsoft Project Professional 2019
+– Microsoft Project Professional 2021
+– Microsoft Project Standard 2016
+– Microsoft Project Standard 2019
+– Microsoft Project Standard 2021
+– Microsoft Visio Professional 2016
+– Microsoft Visio Professional 2019
+– Microsoft Visio Professional 2021
+– Microsoft Visio Standard 2016
+– Microsoft Visio Standard 2019
+– Microsoft Visio Standard 2021
+– Microsoft Office Home Business 2016
+– Microsoft Office Home Business 2019
+– Microsoft Office Home Business 2021
+– Microsoft Office Home Business Premium
+– Microsoft Office Home Student 2016
+– Microsoft Office Home Student 2019
+– Microsoft Office Home Student 2021
+– Microsoft Office 365 (Home Premium)
+– Microsoft Office 365 (Education Cloud)
+– Microsoft Office 365 Apps for Business
+– Microsoft Office 365 Apps for Enterprise
+– Microsoft Office 365 Small Business Premium
+– More…&lt;/p&gt;
+&lt;p&gt;Office 版本中的新增功能：
+&lt;a class=&#34;link&#34; href=&#34;https://learn.microsoft.com/zh-cn/officeupdates/current-channel&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://learn.microsoft.com/zh-cn/officeupdates/current-channel&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEinaLwkG-dYWcP5i6CSoCAA1?pwd=ndkx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEinaLwkG-dYWcP5i6CSoCAA1?pwd=ndkx&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>微软Office2016-2024x86(直装破解版) v16.0.18227.20162 12月更新版</title>
+        <link>https://www.danlong360.com/post/54958/</link>
+        <pubDate>Sun, 22 Dec 2024 22:17:50 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/54958/</guid>
+        <description>&lt;p&gt;微软Office是一款由微软公司开发的办公软件套装，旨在满足各种办公需求。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/54958/20241222_101801.png&#34;
+	width=&#34;600&#34;
+	height=&#34;408&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;147&#34;
+		data-flex-basis=&#34;352px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;Word：Word是Office系列软件中最为常见和使用广泛的软件之一。它具备强大的文档编辑功能，可以处理文字、图片、表格等多种元素。用户可以进行版面设计、排版、插入索引、目录、脚注、尾注等操作，以及进行拼写和语法检查。此外，Word还支持多人协作编辑，方便团队协作。
+Excel：Excel是一款强大的数据处理和分析软件。它提供了丰富的函数和工具，可以帮助用户处理和分析大量数据。用户可以使用Excel进行表格制作、数据排序、筛选、汇总等操作，还可以创建图表和图形来展示数据。Excel还支持宏编程和自动化操作，提高工作效率。
+PowerPoint：PowerPoint是用于制作演示文稿的软件。它提供了丰富的模板和主题，可以帮助用户快速创建专业的演示文稿。用户可以在PowerPoint中插入图片、音频、视频等元素，还可以使用动画和过渡效果来增强演示效果。PowerPoint还支持幻灯片放映和远程控制，方便用户进行演示和讲解。
+Outlook：Outlook是一款邮件和日程管理程序。它可以帮助用户更有效地管理电子邮件和日程安排。用户可以在Outlook中发送、接收和管理电子邮件，还可以设置提醒和日历事件。Outlook还支持多种邮件协议和邮箱接入，方便用户管理多个邮箱账户。
+OneNote：OneNote是一款笔记应用程序。它可以帮助用户记录和管理思想和想法。用户可以在OneNote中创建、编辑和格式化笔记，还可以插入图片、音频和其他媒体元素。OneNote还支持跨设备同步，用户可以在任何设备上访问他们的笔记。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高效性：Office系列软件提供了丰富的功能和工具，可以帮助用户高效地完成各种办公任务。无论是文档编辑、数据处理、演示文稿制作还是邮件管理，Office都能提供高效的解决方案。
+易用性：Office界面简洁明了，操作简便易懂。即使是初学者也能快速上手，并且可以通过学习掌握更多高级功能。
+兼容性：Office支持多种文件格式和操作系统平台，可以与各种设备和软件无缝集成。用户可以轻松地将Office文件与其他软件或设备进行共享和传输。
+安全性：Office注重用户数据的安全性和隐私保护。它提供了多种安全功能和选项，如密码保护、加密存储等，确保用户数据的安全性和保密性。
+团队协作：Office支持多人协作编辑和共享功能，方便团队成员之间共享和编辑文件。这不仅可以提高工作效率，还可以促进团队成员之间的沟通和协作。&lt;/p&gt;
+&lt;h3 id=&#34;版本列表&#34;&gt;版本列表
+&lt;/h3&gt;&lt;p&gt;– Microsoft Office Mondo 2016
+– Microsoft Office Professional Plus 2016
+– Microsoft Office Professional Plus 2019
+– Microsoft Office Professional Plus 2021
+– Microsoft Office Professional 2016
+– Microsoft Office Professional 2019
+– Microsoft Office Professional 2021
+– Microsoft Office Professional Premium
+– Microsoft Office Standard 2016
+– Microsoft Office Standard 2019
+– Microsoft Office Standard 2021
+– Microsoft Project Professional 2016
+– Microsoft Project Professional 2019
+– Microsoft Project Professional 2021
+– Microsoft Project Standard 2016
+– Microsoft Project Standard 2019
+– Microsoft Project Standard 2021
+– Microsoft Visio Professional 2016
+– Microsoft Visio Professional 2019
+– Microsoft Visio Professional 2021
+– Microsoft Visio Standard 2016
+– Microsoft Visio Standard 2019
+– Microsoft Visio Standard 2021
+– Microsoft Office Home Business 2016
+– Microsoft Office Home Business 2019
+– Microsoft Office Home Business 2021
+– Microsoft Office Home Business Premium
+– Microsoft Office Home Student 2016
+– Microsoft Office Home Student 2019
+– Microsoft Office Home Student 2021
+– Microsoft Office 365 (Home Premium)
+– Microsoft Office 365 (Education Cloud)
+– Microsoft Office 365 Apps for Business
+– Microsoft Office 365 Apps for Enterprise
+– Microsoft Office 365 Small Business Premium
+– More…&lt;/p&gt;
+&lt;p&gt;Office 版本中的新增功能：
+&lt;a class=&#34;link&#34; href=&#34;https://learn.microsoft.com/zh-cn/officeupdates/current-channel&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://learn.microsoft.com/zh-cn/officeupdates/current-channel&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEinaLwkG-dYWcP5i6CSoCAA1?pwd=ndkx&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEinaLwkG-dYWcP5i6CSoCAA1?pwd=ndkx&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Bootstrap Studio(专业网页设计软件) v7.0.0 直装破解版</title>
+        <link>https://www.danlong360.com/post/42907/</link>
+        <pubDate>Sun, 22 Dec 2024 22:10:46 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/42907/</guid>
+        <description>&lt;p&gt;Bootstrap Studio 是一个专为开发响应式网站和网络应用而设计的桌面应用程序。它提供了一种简单而直观的方式来创建和编辑前端界面，无需编写代码。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/42907/20241222_101056.png&#34;
+	width=&#34;640&#34;
+	height=&#34;430&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;148&#34;
+		data-flex-basis=&#34;357px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;响应式设计：Bootstrap Studio 在创建界面时会自动处理响应式布局，以适应不同的屏幕尺寸和设备。
+开发工具：它提供了一系列工具来帮助开发人员设计和构建网站，包括网格系统、CSS编辑器、组件库等。
+预览功能：用户可以通过内置的预览功能实时查看界面在不同设备上的效果，从而快速调整和优化设计。
+导出代码：软件可以将用户创建的界面导出为纯HTML、CSS和JavaScript代码，以便在其他编辑器或开发环境中使用。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;直观易用：Bootstrap Studio 提供了一个直观的用户界面，使用户可以轻松地拖放组件、编辑属性和样式，并通过预览功能查看实时效果。
+模板库：软件内置了许多响应式模板，用户可以根据自己的需求选择适合的模板，并进行个性化修改。
+内置组件：软件提供了一个丰富的预定义组件库，用户可以通过拖放方式将组件添加到界面中，无需手动编写代码。
+团队协作：Bootstrap Studio 支持多人协作，多个开发人员可以同时编辑同一个项目，实时更新和同步修改。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEipKsqkbk5Y4zs1mFyLazTA1?pwd=b87a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEipKsqkbk5Y4zs1mFyLazTA1?pwd=b87a&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>JetBrains CLion(C&#43;&#43;语言集成开发环境) 2024.3 直装激活版</title>
+        <link>https://www.danlong360.com/post/29124/</link>
+        <pubDate>Sun, 22 Dec 2024 20:27:48 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/29124/</guid>
+        <description>&lt;p&gt;JetBrains CLion是一款针对C和C++开发者的集成开发环境（IDE）。它提供了丰富的功能和工具，帮助开发者更高效地编写、调试和测试C和C++代码。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/29124/20241222_082759.png&#34;
+	width=&#34;640&#34;
+	height=&#34;524&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;293px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;智能代码编辑器：CLion具有强大的代码编辑功能，包括代码补全、语法高亮、错误检查和自动格式化等。它能够识别代码中的问题并提供修复建议。
+调试器：CLion集成了强大的调试器，可以帮助开发者快速定位和解决代码中的问题。它支持设置断点、单步调试、观察变量值等常见的调试操作。
+单元测试：CLion支持单元测试框架，可以方便地编写和运行单元测试。开发者可以使用内置的测试工具或集成第三方测试框架。
+代码导航：CLion提供了多种代码导航功能，帮助开发者快速浏览和定位代码。它支持快速跳转到函数定义、查找引用、重命名变量等操作。
+版本控制：CLion集成了常见的版本控制工具，如Git和SVN，方便开发者进行代码版本管理和协作开发。
+插件支持：CLion支持丰富的插件，可以根据个人需求扩展和定制功能。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;跨平台支持：CLion可以在Windows、macOS和Linux操作系统上运行，支持开发者在不同平台上进行开发和调试。
+高级代码分析：CLion具有强大的代码分析能力，可以帮助开发者发现和修复潜在的代码问题，提高代码质量。
+项目管理：CLion支持对多个项目进行管理和切换，可以方便地在不同的项目之间切换和共享代码。
+快速重构：CLion提供了快速重构代码的功能，可以帮助开发者更改代码结构、重命名变量、提取方法等，提高代码的可读性和可维护性。
+内存和性能分析：CLion集成了内存和性能分析工具，可以帮助开发者识别性能瓶颈和内存泄漏问题，并提供相应的优化建议。&lt;/p&gt;
+&lt;h5 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h5&gt;&lt;p&gt;基于官方版制作，没有任何内容删除、更改或添加，程序安装成功后自动激活。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiR4q1vB4s18bM2TsueDErA1?pwd=ra9v&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiR4q1vB4s18bM2TsueDErA1?pwd=ra9v&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Office Tab(Office多标签页增强插件) v16.00 中文直装版</title>
+        <link>https://www.danlong360.com/post/36467/</link>
+        <pubDate>Sun, 22 Dec 2024 20:25:40 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/36467/</guid>
+        <description>&lt;p&gt;Office Tab 是一款专为Microsoft Office设计的增强插件，由Detong Technology开发。它显著改善了Office套件（特别是Word、Excel、PowerPoint，有时也包括Project和Visio）的多任务处理能力，通过引入类似网页浏览器的多标签界面，使得在同一窗口内管理多个文档变得更加便捷高效。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/36467/20241222_082551.png&#34;
+	width=&#34;640&#34;
+	height=&#34;590&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;108&#34;
+		data-flex-basis=&#34;260px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;多标签浏览：允许用户在一个应用程序窗口内通过标签页同时打开、浏览和编辑多个文档、工作簿或演示文稿，无需在多个窗口间切换。
+标签自定义：用户可以自定义标签的颜色、样式和位置，以便于区分不同类型的文档或根据个人偏好进行调整。
+标签指示：用特殊标记（如星号）来标识已修改但未保存的文档，便于用户跟踪哪些文件需要保存。
+右键菜单功能：在标签上右击会弹出菜单，提供快速访问常用操作，如关闭所有标签、关闭非活动文档、保存所有文档等。
+快捷键支持：提供了快捷键来快速切换标签或控制标签显示，如默认的Win+Q快捷键（可自定义），提高了工作效率。
+文档分组与管理：支持将相关文档分组到一起，便于项目管理和协作，可以通过拖放标签来重新排序或分组。
+文档预览：在标签上悬停时显示文档的缩略图或信息提示，帮助用户快速识别各个文档的内容。
+收藏与重命名：可以直接在标签上重命名文档标题，或将其添加到收藏夹中，便于快速访问常用文件。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;兼容性广泛：支持Office 2003至2019版本以及Office 365，确保广泛的用户基础能够受益于其功能。
+界面集成自然：无缝集成到Office界面中，如同原生功能一般，不改变用户原有的操作习惯。
+提升工作效率：极大减少了窗口切换的时间，使得文档处理流程更为流畅，适合需要频繁处理多文档的办公环境。
+易于安装与使用：提供简单的安装过程和直观的操作指南，即使是初学者也能快速上手。
+个性化设置：丰富的自定义选项满足不同用户的个性化需求，增强了软件的适用性和用户体验。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;一般信息：
+类型：安装 - 官方安装程序
+语言：英语、多语
+处理：patch + key&lt;/p&gt;
+&lt;p&gt;命令行选项：
+静默安装：/S&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiRKWOkbk5Y4zs1mFy6XRQA1?pwd=ug4x&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiRKWOkbk5Y4zs1mFy6XRQA1?pwd=ug4x&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>JetBrains DataGrip(数据库集成开发环境) 2024.3.1 直装激活版</title>
+        <link>https://www.danlong360.com/post/69311/</link>
+        <pubDate>Sun, 22 Dec 2024 20:22:18 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/69311/</guid>
+        <description>&lt;p&gt;JetBrains DataGrip是一款全功能的数据库集成开发环境（IDE），可以帮助开发人员更轻松地管理和查询各种数据库。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/69311/20241222_082501.png&#34;
+	width=&#34;640&#34;
+	height=&#34;524&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;293px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持多种数据库管理系统，包括MySQL、PostgreSQL、SQLite、Oracle、SQL Server等。
+提供直观的数据库连接工具，方便用户连接和管理数据库。
+提供强大的SQL编辑器，支持语法高亮、代码提示和自动补全等功能。
+提供可视化的查询工具，帮助用户轻松编写和执行复杂的数据库查询。
+支持数据导入和导出，方便用户在不同数据库系统之间迁移数据。
+提供数据库对象浏览器，方便用户查看和管理数据库表、视图、存储过程等对象。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;跨平台支持：JetBrains DataGrip可以在Windows、macOS和Linux等操作系统上运行。
+集成开发环境：DataGrip集成了数据库连接、查询、编辑和导入导出等功能，提供一站式的数据库管理解决方案。
+可定制性强：用户可以根据自己的需求定制界面主题、快捷键和插件等设置。
+智能提示：DataGrip具有智能代码提示功能，可以提高用户编写SQL代码的效率。
+安全性保障：DataGrip提供了数据加密和安全连接功能，保障数据库的数据安全性。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;基于官方版制作，没有任何内容删除、更改或添加，程序安装成功后自动激活。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiRV-RirIEOBhcTbzU0EMLA1?pwd=5mmz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiRV-RirIEOBhcTbzU0EMLA1?pwd=5mmz&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>JetBrains RustRover(Rust语言集成开发环境) 2024.3 直装激活版</title>
+        <link>https://www.danlong360.com/post/22315/</link>
+        <pubDate>Sun, 22 Dec 2024 20:05:27 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/22315/</guid>
+        <description>&lt;p&gt;JetBrains RustRover是由JetBrains开发的一款功能强大的Rust语言插件，旨在提供更好的Rust语言支持和开发体验。它集成于IntelliJ IDEA、CLion和其他JetBrains IDE中，使得开发者能够在熟悉的开发环境中轻松使用Rust语言。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/22315/20241222_080538.png&#34;
+	width=&#34;640&#34;
+	height=&#34;524&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;293px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;代码智能提示：提供准确的代码补全和建议，帮助开发者快速编写代码。
+语法高亮：支持Rust语言的语法高亮显示，让代码更加清晰易读。
+自动导入：自动导入所需的模块和库，简化代码编写过程。
+代码重构：提供代码重构功能，帮助开发者优化代码结构。
+代码检查：实时检查代码错误和潜在问题，帮助开发者提前发现并修复bug。
+调试支持：集成调试功能，方便开发者调试Rust程序。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;集成化开发环境：RustRover集成于JetBrains IDE中，使得开发者能够在熟悉的开发环境中使用Rust语言，提高开发效率。
+智能代码提示：RustRover提供准确的代码补全和建议，帮助开发者快速编写代码，减少错误。
+高效调试支持：RustRover集成调试功能，方便开发者进行程序调试，快速定位问题。
+强大的代码检查：RustRover可以实时检查代码错误和潜在问题，帮助开发者提前发现bug并进行修正。
+支持代码重构：RustRover提供代码重构功能，帮助开发者优化代码结构，提高代码质量。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;基于官方版制作，没有任何内容删除、更改或添加，程序安装成功后自动激活。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiYpfni1CtgNtrHebJfFsUA1?pwd=s5fk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiYpfni1CtgNtrHebJfFsUA1?pwd=s5fk&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>JetBrains GoLand(Go语言集成开发环境) 2024.3 直装激活版</title>
+        <link>https://www.danlong360.com/post/85450/</link>
+        <pubDate>Sun, 22 Dec 2024 20:00:04 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/85450/</guid>
+        <description>&lt;p&gt;JetBrains GoLand 是一款专为 Go 语言开发者设计的集成开发环境（IDE）。它由 JetBrains 开发，这个公司以生产高质量的开发工具而闻名，GoLand 继承了这一传统，提供了丰富的功能来增强 Go 语言的开发体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/85450/20241222_080015.png&#34;
+	width=&#34;640&#34;
+	height=&#34;480&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;智能代码编辑与补全：
+提供智能代码完成，基于上下文给出建议。
+实时语法检查，帮助开发者避免编写错误代码。
+自动导入包管理，确保引用的包自动添加到 import 列表中。
+强大的代码导航：
+支持在类型、函数、变量等符号间快速跳转。
+查找符号的声明、调用和实现。
+代码结构视图，帮助理解代码架构。
+重构工具：
+提供安全的代码重构选项，如重命名、移动、提取方法等。
+支持一键撤销，便于实验性修改。
+调试与测试：
+集成调试器，支持设置断点、步进执行、查看变量值等。
+集成 Go 测试框架，支持运行和调试单元测试。
+版本控制集成：
+与 Git、Mercurial 等版本控制系统深度集成。
+提供图形化的差异查看器和合并工具。
+构建与运行：
+支持直接从 IDE 构建和运行应用程序。
+可以配置不同的构建目标和运行参数。
+Web 开发支持：
+支持 HTML、CSS、JavaScript 和 TypeScript 的开发。
+集成了前端框架和库的开发支持。
+插件生态系统：
+可以通过插件扩展功能，包括数据库工具、代码样式检查等。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高度定制化：允许用户根据自己的喜好调整界面布局、快捷键和代码样式。
+多平台支持：可在 Windows、macOS 和 Linux 上运行。
+性能优化：针对 Go 语言进行了优化，提供流畅的编辑体验。
+社区和专业支持：有活跃的用户社区和官方技术支持。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;基于官方版制作，没有任何内容删除、更改或添加，程序安装成功后自动激活。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiZh_4lRQsP37Bn7xpdnQhA1?pwd=bg4q&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiZh_4lRQsP37Bn7xpdnQhA1?pwd=bg4q&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Jetbrains WebStorm(JavaScript集成开发环境) 2024.3 直装激活版</title>
+        <link>https://www.danlong360.com/post/13845/</link>
+        <pubDate>Sun, 22 Dec 2024 19:59:24 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/13845/</guid>
+        <description>&lt;p&gt;JetBrains WebStorm是一款由JetBrains公司开发的JavaScript IDE（集成开发环境）。它是专门针对JavaScript开发的，提供了一个功能强大且灵活的开发环境。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/13845/20241222_075934.png&#34;
+	width=&#34;640&#34;
+	height=&#34;524&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;293px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;智能代码编辑：WebStorm具有智能代码补全、语法高亮、代码导航和重构等功能，能够帮助开发者更高效地编写代码。
+内置调试器：WebStorm内置了JavaScript调试器，可以帮助开发者快速定位和解决问题。
+版本控制集成：WebStorm提供了对主流版本控制系统（如Git、SVN等）的集成支持，方便开发者管理代码版本。
+自动代码检查：WebStorm可以检测并提示代码中的错误和潜在问题，并提供相应的修复建议。
+前端开发支持：WebStorm支持React、Angular、Vue.js等前端框架，并提供了对相关工具和库的集成支持。
+浏览器兼容性测试：WebStorm提供了内置的浏览器预览功能，并支持多个浏览器之间的快速切换和测试。
+代码模板和自动完成：WebStorm提供了丰富的代码模板和自动完成功能，可以帮助开发者更快速地编写代码。
+多语言支持：除了JavaScript，WebStorm还支持HTML、CSS、TypeScript、CoffeeScript等多种前端开发相关语言。
+插件扩展：WebStorm支持插件扩展，开发者可以通过安装相应的插件来增加额外的功能和工具。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;基于官方版制作，没有任何内容删除、更改或添加，程序安装成功后自动激活。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiZnN4t9Ep_CXOFtejofWtA1?pwd=n6gt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiZnN4t9Ep_CXOFtejofWtA1?pwd=n6gt&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>JetBrains RubyMine(Ruby集成开发环境) 2024.3 直装激活版</title>
+        <link>https://www.danlong360.com/post/87908/</link>
+        <pubDate>Sun, 22 Dec 2024 19:58:40 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/87908/</guid>
+        <description>&lt;p&gt;JetBrains RubyMine是一款专业的Ruby开发工具，旨在帮助开发人员提高工作效率并简化Ruby编程体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/87908/20241222_075851.png&#34;
+	width=&#34;640&#34;
+	height=&#34;524&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;293px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;代码编辑器：支持语法高亮、代码折叠、代码补全、代码重构等功能，提供了丰富的代码编辑功能，方便开发人员编写和修改代码。
+调试工具：可实时调试和测试Ruby代码，支持断点、单步调试、变量监视等功能，帮助开发人员快速定位和解决代码问题。
+集成开发环境：集成了Git、SVN等版本控制工具，方便开发人员管理项目代码，跟踪代码修改历史。
+智能代码提示：根据代码上下文自动提示代码，提高开发效率。
+代码重构：支持快速重构代码，例如重命名变量、提取方法、优化代码结构等，帮助开发人员提高代码质量。
+支持Ruby on Rails：提供了对Ruby on Rails框架的全面支持，包括快速创建Rails应用程序、自动生成代码、集成Rails命令行工具等功能。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;强大的代码分析能力：支持代码高亮显示、代码智能提示、代码补全等功能，帮助开发人员编写高效的Ruby代码。
+可视化界面：提供直观的界面和工具栏，方便开发人员快速定位和操作代码。
+丰富的插件支持：支持丰富的插件扩展，可以根据个人需求自定义功能和工具。
+多平台支持：支持Windows、Mac OS和Linux等多个操作系统，灵活适用于不同的开发环境。
+完善的技术支持：JetBrains是一家专业的开发工具提供商，拥有丰富的技术经验和优质的技术支持团队，为用户提供全面的技术支持和帮助。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;基于官方版制作，没有任何内容删除、更改或添加，程序安装成功后自动激活。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiZsawJmWs3zbXouHVVjsJA1?pwd=z2ba&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiZsawJmWs3zbXouHVVjsJA1?pwd=z2ba&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>JetBrains Rider(.NET集成开发环境) 2024.3 直装激活版</title>
+        <link>https://www.danlong360.com/post/67575/</link>
+        <pubDate>Sun, 22 Dec 2024 19:57:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/67575/</guid>
+        <description>&lt;p&gt;JetBrains Rider是一款跨平台的.NET集成开发环境，具有快速、稳定、和强大的功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/67575/20241222_075809.png&#34;
+	width=&#34;640&#34;
+	height=&#34;524&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;293px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持多种语言：JetBrains Rider支持C#、VB.NET、F#、JavaScript、HTML、CSS、SQL等多种语言。
+强大的代码编辑器：JetBrains Rider提供了智能代码补全、代码导航、代码重构、语法高亮等功能，帮助开发者提高编码效率。
+调试工具：JetBrains Rider集成了强大的调试工具，支持单步调试、断点调试、条件断点等功能，帮助开发者快速定位和解决问题。
+版本控制：JetBrains Rider集成了Git、SVN等版本控制工具，帮助开发者管理代码版本，方便团队协作开发。
+自动化测试：JetBrains Rider支持自动化单元测试、集成测试等功能，帮助开发者保证代码质量。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;跨平台：JetBrains Rider支持Windows、macOS、Linux等多个操作系统，方便开发者在不同平台上使用。
+集成开发环境：JetBrains Rider集成了多种开发工具，包括代码编辑器、调试工具、版本控制工具等，帮助开发者提高开发效率。
+强大的插件支持：JetBrains Rider支持丰富的插件，开发者可以根据自己的需求安装插件扩展功能。
+智能代码分析：JetBrains Rider提供了智能代码分析和代码提示功能，帮助开发者编写更加规范和高效的代码。
+高性能：JetBrains Rider采用了高性能的底层技术，保证了软件的稳定性和效率。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;基于官方版制作，没有任何内容删除、更改或添加，程序安装成功后自动激活。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEi_0IsHbXbQuTEPQfpoM-vA1?pwd=q3df&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEi_0IsHbXbQuTEPQfpoM-vA1?pwd=q3df&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>JetBrains PhpStorm(PHP集成开发工具) 2024.3 直装激活版</title>
+        <link>https://www.danlong360.com/post/78439/</link>
+        <pubDate>Sun, 22 Dec 2024 19:57:16 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/78439/</guid>
+        <description>&lt;p&gt;JetBrains PhpStorm 是一款集成开发环境（IDE），专门用于 PHP 编程语言。它为开发者提供了丰富的功能和工具，使他们能够更高效地编写、调试和部署 PHP 应用程序。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/78439/20241222_075727.png&#34;
+	width=&#34;640&#34;
+	height=&#34;524&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;293px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;代码自动完成：PhpStorm 提供了智能代码补全功能，能够根据上下文和已有代码提示可能的选项。这大大提高了编写代码的速度和准确性。
+代码分析和错误检查：PhpStorm 内置了强大的静态代码分析工具，可以检测出潜在的错误和代码缺陷，并提供相应的建议和修复。
+调试和测试工具：PhpStorm 支持集成调试器，允许开发者在代码中设置断点、跟踪变量和表达式，并在运行时进行调试。此外，它还支持单元测试框架，并提供了相应的运行和分析工具。
+版本控制集成：PhpStorm 集成了流行的版本控制系统，如 Git、SVN 和 Mercurial，使开发者能够方便地管理和跟踪代码的变化。
+Web 开发功能：PhpStorm 提供了丰富的 Web 开发功能，包括 HTML、CSS 和 JavaScript 的代码编辑、调试和分析。它还支持流行的前端框架、库和工具，如 Angular、React 和 Vue.js。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;强大的性能：PhpStorm 拥有出色的性能，能够处理大型项目和复杂的代码。它的代码解析和补全速度很快，没有明显的卡顿和延迟。
+可定制性：PhpStorm 允许用户根据自己的需求进行定制，从快捷键和外观到工具和插件，都可以根据个人喜好进行调整。
+丰富的插件生态系统：PhpStorm 支持众多的插件，可以扩展其功能和集成其他开发工具。开发者可以根据需要选择和安装适合自己的插件。
+灵活的代码编辑器：PhpStorm 提供了强大的代码编辑器，支持多种编码风格、代码折叠、语法高亮、多光标编辑等功能，使编写代码更加简单和便捷。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;基于官方版制作，没有任何内容删除、更改或添加，程序安装成功后自动激活。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEi_7joYUdaC_xsb12uDg-AA1?pwd=nkge&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEi_7joYUdaC_xsb12uDg-AA1?pwd=nkge&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Jetbrains IntelliJ IDEA(Java集成开发环境) 2024.3 直装激活版</title>
+        <link>https://www.danlong360.com/post/96202/</link>
+        <pubDate>Sun, 22 Dec 2024 19:56:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/96202/</guid>
+        <description>&lt;p&gt;JetBrains IntelliJ IDEA是一款面向Java开发的集成开发环境（Integrated Development Environment，IDE）。它提供了一系列丰富的功能和特点，帮助开发者更高效地进行编码和调试。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/96202/20241222_075641.png&#34;
+	width=&#34;640&#34;
+	height=&#34;524&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;293px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;智能代码完成：IntelliJ IDEA具有智能代码完成功能，根据上下文和代码语法，推断出可能的变量、方法和类，并快速生成代码片段。
+强大的调试器：IntelliJ IDEA内置了强大的调试器，可以方便地跟踪和调试代码，包括断点设置、变量监视和表达式评估等功能。
+版本控制集成：IntelliJ IDEA支持主流的版本控制系统，如Git、Subversion等，可以轻松地进行版本控制和代码管理。
+代码重构：IntelliJ IDEA提供了多种代码重构工具，可以帮助开发者重构代码，提高代码质量和可维护性。
+代码质量分析：IntelliJ IDEA可以自动检测和修复代码中的潜在问题和错误，并提供代码重构建议，帮助开发者改进代码质量。
+代码模板和片段：IntelliJ IDEA支持自定义代码模板和片段，可以快速生成常用的代码结构和代码片段，提高开发效率。
+内置插件和工具：IntelliJ IDEA提供了许多内置的插件和工具，如数据库管理工具、Web开发工具、代码分析工具等，可以满足各种开发需求。
+支持多种语言和框架：IntelliJ IDEA不仅支持Java开发，还支持多种其他语言和框架，如JavaScript、HTML、CSS、Python等，可以满足不同开发项目的需求。
+高度可定制化：IntelliJ IDEA支持丰富的配置选项和插件机制，可以根据个人喜好和项目需求进行定制，提供更好的开发体验。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;基于官方版制作，没有任何内容删除、更改或添加，程序安装成功后自动激活。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEi_DAlsSs0sunbMym56qzNA1?pwd=3x6u&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEi_DAlsSs0sunbMym56qzNA1?pwd=3x6u&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>JetBrains PyCharm(Python集成开发环境) 2024.3 直装激活版</title>
+        <link>https://www.danlong360.com/post/77305/</link>
+        <pubDate>Sun, 22 Dec 2024 19:55:48 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/77305/</guid>
+        <description>&lt;p&gt;JetBrains PyCharm 是一款Python集成开发环境（IDE），被广泛用于Python开发。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/77305/20241222_075601.png&#34;
+	width=&#34;640&#34;
+	height=&#34;524&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;293px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;智能代码编辑：提供代码自动提示、语法高亮和错误检查等功能，让编写代码更加轻松。
+代码导航：能够快速跳转到变量、函数、类和模块的定义处，并支持查看调用关系。
+代码重构：可以快速重命名变量、函数和类，提取函数和变量以提高代码的可读性。
+调试支持：可以在PyCharm中进行代码调试，设置断点、观察变量值和执行表达式等。
+版本控制：集成了Git、Mercurial、Subversion等版本控制工具，方便代码的管理和团队协作。
+数据库支持：支持与各种数据库交互，并提供SQL编辑器和数据库浏览器等功能。
+Web开发支持：提供对Django、Flask和其他Web框架的支持，可以方便地进行Web应用开发。
+科学计算支持：提供对NumPy、SciPy、Matplotlib等科学计算库的支持，方便进行数据分析和可视化。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;跨平台：PyCharm 可在 Windows、macOS 和 Linux 上运行，适合不同操作系统的开发者使用。
+高度可定制：可以根据个人喜好和需求进行界面、编码风格和插件的定制。
+强大的插件生态系统：PyCharm提供了大量的插件，丰富了其功能和扩展性。
+集成开发环境：PyCharm 提供了一体化的开发环境，包含代码编辑、调试、测试和部署等所有工具，方便开发人员进行全面的开发工作。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;基于官方版制作，没有任何内容删除、更改或添加，程序安装成功后自动激活。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEi_PVexbGbhJitRez4wqXwA1?pwd=26mj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEi_PVexbGbhJitRez4wqXwA1?pwd=26mj&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Notepad3(开源文本编辑器) v6.24.1221.1 断剑留痕版</title>
         <link>https://www.danlong360.com/post/7054/</link>
         <pubDate>Sun, 22 Dec 2024 17:49:31 +0800</pubDate>

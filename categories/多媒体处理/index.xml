@@ -7,7 +7,1068 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 22 Dec 2024 17:44:53 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 23 Dec 2024 08:30:12 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Imagine(轻量级图像浏览器) v1.7.2 中文绿色版</title>
+        <link>https://www.danlong360.com/post/458/</link>
+        <pubDate>Mon, 23 Dec 2024 08:30:12 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/458/</guid>
+        <description>&lt;p&gt;Imagine 中文版是一款免费图像浏览器应用程序，可让您查看各种格式的图片和动画，包括 JPG，BMP，PNG 和 GIF。该程序的界面带有简单的元素。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/458/20241223_083022.png&#34;
+	width=&#34;765&#34;
+	height=&#34;506&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;151&#34;
+		data-flex-basis=&#34;362px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;快速查看和保存图像/动画文件
+支持多种图像/动画文件格式：PNG，JPG，GIF，BMP，PCX，TGA，TIFF，ICO，CUR，LBM，ANI，FLI，WMF，EMF 等。
+从动画文件中提取单个/所有帧
+显示图像/动画文件的详细信息
+显示 Exif/IPTC 信息
+显示或隐藏透明度
+支持数码相机原始图像文件格式：3FR，ARW，CR2，CRW，DNG，ERF，KDC，MRW，NEF，ORF，RAF，RAW，SRW，SR2 等。
+支持多种存档文件格式：ZIP，RAR，7Z，ALZ，HV3，CBZ，CBR，CB7，ARJ，LZH，EGG，TAR，ISO，CAB 等。
+支持高动态范围图像文件格式：HDR，EXR，SXR，MXR 等。
+提供 64 位版本
+提供 Unicode 版本
+多语言支持：英语，德语，西班牙语，俄语，丹麦语，韩语，日语，中文等。
+缩略图浏览器
+批量转换
+幻灯片放映
+批量重命名
+拍摄画面
+平铺视图（检查纹理以进行无缝平铺，对游戏开发者/改装者非常有用）
+创建动画
+创建多个页面图像
+操纵和编辑图像
+键盘和鼠标的可定制快捷方式
+命令行参数支持
+Shell扩展支持
+附加插件支持
+Total Commander Lister 和 Packer 插件
+不写不必要的注册表（基于ini的配置）
+完全优化的二进制文件（微小，纯净，快速，整洁）&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v1.7.2, Dec 22 2024
+- Fixed: Error installing 32-bit unicode version of Content plugin
+- Fixed: Some PNG errors&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEkviBuyAhQHJcxqJoQnpsZA1?pwd=34up&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEkviBuyAhQHJcxqJoQnpsZA1?pwd=34up&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>FFmpeg Batch AV Converter(音视频转换软件) v3.2.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/636/</link>
+        <pubDate>Mon, 23 Dec 2024 08:13:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/636/</guid>
+        <description>&lt;p&gt;FFmpeg Batch AV Converter是一款批量音视频转换软件。它使用了FFmpeg的命令行工具，可以快速、高效地转换多种音视频格式。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/636/20241223_081404.png&#34;
+	width=&#34;640&#34;
+	height=&#34;301&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;212&#34;
+		data-flex-basis=&#34;510px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持批量转换多种音视频格式，包括MP4、AVI、MKV、FLV、WMV等。
+可以同时转换多个音视频文件，提高工作效率。
+支持设置转换的输出文件格式、编码、分辨率、帧率等参数。
+支持自定义输出文件名，方便对转换后的文件进行管理。
+提供转换进度和剩余时间等信息的实时显示。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观，操作简单方便，适合初学者使用。
+支持通过拖拽方式添加需要转换的音视频文件，操作更加便捷。
+高性能转换引擎，可以快速处理大量的音视频文件。
+提供了丰富的转换选项，可以根据用户需求进行个性化设置。
+转换过程中的错误提示和日志输出，方便用户了解转换情况。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEkvvsqHOlVD9uHyIm6ApyiA1?pwd=9cv3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEkvvsqHOlVD9uHyIm6ApyiA1?pwd=9cv3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Ableton Live Suite(专业音乐制作软件) v12.1.5 中文破解版</title>
+        <link>https://www.danlong360.com/post/3499/</link>
+        <pubDate>Sun, 22 Dec 2024 22:23:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/3499/</guid>
+        <description>&lt;p&gt;Ableton Live Suite 是一款专业的音乐制作软件，拥有丰富的音频处理和合成工具，适用于电子音乐制作、混音和现场演出。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/3499/20241222_102332.png&#34;
+	width=&#34;640&#34;
+	height=&#34;541&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;118&#34;
+		data-flex-basis=&#34;283px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;强大的音频录制和编辑功能，支持实时录制音频、MIDI和各种虚拟乐器。
+多轨道和多通道录音功能，可对不同音轨进行独立处理和混音。
+丰富的音频效果器和虚拟乐器库，包括合成器、采样器、均衡器、压缩器等。
+实时时间拉伸和音高调整功能，方便处理不同节奏和音高的音频素材。
+支持 VST、AU 和 AAX 插件，可以扩展软件的功能和效果选项。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;直观的界面设计，用户友好，易于操作。
+集成了丰富的音频处理工具，满足用户对音乐制作的各种需求。
+强大的实时表演功能，支持 MIDI 映射和控制器绑定，适用于舞台演出和 DJ 混音。
+多平台支持，可在 Windows 和 macOS 系统上运行。
+更新频繁，保持软件功能和性能的不断改进和升级。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEim5cCkbk5Y4zs1mFyJWfaA1?pwd=fywh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEim5cCkbk5Y4zs1mFyJWfaA1?pwd=fywh&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Capture One 23(RAW图像处理软件) v16.5.2.2623 中文直装版</title>
+        <link>https://www.danlong360.com/post/7424/</link>
+        <pubDate>Sun, 22 Dec 2024 22:15:34 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/7424/</guid>
+        <description>&lt;p&gt;Capture One是由Phase One开发的一款专业的RAW图像处理软件。它不仅可以用于RAW文件的编辑和调整，还可以用于图像的管理和导出。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/7424/20241222_101653.png&#34;
+	width=&#34;640&#34;
+	height=&#34;480&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;RAW文件编辑和调整：Capture One支持对RAW文件进行高质量的编辑和调整，包括白平衡、曝光、对比度、饱和度、色彩平衡等参数的调整，以及防抖、降噪、锐化等图像优化工具。
+多种工具和调整选项：Capture One提供了多种工具和调整选项，包括逐像素编辑、无损裁剪、局部调整、曲线编辑、色彩平衡、阴影和高光恢复等功能，以满足专业摄影师对图像编辑的各种需求。
+高速图像处理引擎：Capture One的图像处理引擎采用了高速和高质量的算法，可以快速地处理和呈现RAW图像，同时保留细节和色彩的丰富度。
+自动调整和批量处理：Capture One提供了自动调整功能，可以根据图像内容和光照条件，自动优化图像的曝光、色彩和对比度等参数。此外，还可以进行批量处理，快速应用相同的调整和效果到多张图像上。
+灵活的图像管理和导出：Capture One具有强大的图像管理功能，可以对图像进行组织、标记和筛选。同时，它支持多种图像导出格式和参数设置，包括JPEG、TIFF、PSD等格式的输出，并可以选择分辨率、颜色空间、压缩等设置。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;类型：安装 - 官方安装程序
+语言：多语言
+处理：补丁 MADARA
+命令行选项：
+静默安装：/S
+选择安装位置：/D=PATH
+最后指定/D=PATH 参数&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEinhnAkG-dYWcP5i6CSs2BA1?pwd=ihg8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEinhnAkG-dYWcP5i6CSs2BA1?pwd=ihg8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Capture One 23(RAW文件处理软件) v16.5.2.2623 中文破解版</title>
+        <link>https://www.danlong360.com/post/44648/</link>
+        <pubDate>Sun, 22 Dec 2024 22:13:55 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/44648/</guid>
+        <description>&lt;p&gt;Capture One是由Phase One公司开发的一款RAW文件处理软件。它提供了一系列高效的工具和功能，帮助用户优化和提升照片的质量和效果。它提供了直观的界面和自定义工作区，使用户能够更轻松地进行照片管理和编辑。Capture One还支持多种相机品牌和型号的原始文件，并提供了灵活的文件导入和导出选项。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/44648/20241222_101406.png&#34;
+	width=&#34;640&#34;
+	height=&#34;480&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;RAW文件处理：Capture One支持多种相机品牌和型号的RAW文件，提供了高质量的RAW文件转换和处理工具，使用户能够从原始文件中提取更多的细节和色彩。
+照片管理：Capture One提供了强大的照片管理功能，包括文件夹和标签的组织、搜索和过滤、图库的创建和管理等，帮助用户更好地管理和组织大量照片。
+色彩和曝光调整：Capture One提供了丰富的色彩和曝光调整工具，包括白平衡、色调曲线、色彩平衡、亮度和对比度调整等，使用户能够精确控制照片的色彩和明暗。
+镜头校正：Capture One支持自动和手动的镜头校正功能，帮助用户去除镜头畸变、色差和亮度不均匀等问题，提升照片的清晰度和质量。
+局部调整：Capture One提供了精确的局部调整工具，使用户能够对照片的特定区域进行调整，如局部曝光、对比度、锐化等，实现更精细的照片编辑效果。
+批处理和自动化：Capture One支持批处理和自动化功能，使用户能够快速处理大量照片，并应用相同的调整和效果，提高工作效率。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高质量的RAW文件处理：Capture One使用先进的算法和技术，提供高质量的RAW文件转换和处理，保留更多的细节和色彩，实现更真实和细腻的照片效果。
+丰富的调整工具和选项：Capture One提供了丰富的色彩、曝光、镜头校正等调整工具和选项，使用户能够实现精确和自定义的照片编辑效果。
+相机和镜头支持广泛：Capture One支持多种相机品牌和型号的原始文件，也支持多种镜头的校正和优化，使用户能够灵活使用各种设备进行拍摄和处理。
+快速和高效的工作流程：Capture One具有快速和高效的功能和界面设计，使用户能够更轻松地进行照片管理、编辑和导出，提高工作效率。
+可定制的工作区和界面：Capture One支持自定义工作区和界面，使用户能够根据自己的偏好和工作流程进行个性化设置，提供更好的用户体验。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEioxQ0t9Ep_CXOFtejygKlA1?pwd=fupj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEioxQ0t9Ep_CXOFtejygKlA1?pwd=fupj&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Waves Ultimate 2024.11.29(Waves音频混音效果插件) 破解版</title>
+        <link>https://www.danlong360.com/post/60954/</link>
+        <pubDate>Sun, 22 Dec 2024 22:09:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/60954/</guid>
+        <description>&lt;p&gt;Waves Ultimate是一款音频处理软件套装，提供了一系列功能和特点，使用户能够在音频录制和音频混音过程中获得专业的声音效果。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/60954/20241222_101010.png&#34;
+	width=&#34;503&#34;
+	height=&#34;381&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;132&#34;
+		data-flex-basis=&#34;316px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;包含了多个音频处理插件，如均衡器、压缩机、混响、失真、延迟等，可以对音频进行全面的处理和调整。
+支持实时处理和非实时处理两种工作模式，用户可以根据需要选择合适的模式进行音频处理。
+提供了丰富的预设模式，用户可以根据不同的音频类型选择合适的预设，快速达到所需的音频效果。
+支持多轨道处理，可以对多个音轨同时进行处理和混音，实现更加复杂的音频效果。
+集成了高质量的算法和处理引擎，可以实现低延迟和高保真的音频处理，保证最高的音质。
+提供了直观的界面和易于使用的操作，使用户可以轻松地进行音频处理和混音。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;强大的音频处理能力：Waves Ultimate提供了一系列高质量的音频处理插件，使用户可以对音频进行各种复杂的处理和调整，实现专业级的音效效果。
+广泛的应用领域：Waves Ultimate适用于音频录制、音频混音、音频编辑等多个领域，可以满足不同类型音频处理的需求。
+高度可定制性：用户可以根据自己的需求对插件进行自定义设置，并保存自己的设置为预设，方便以后的使用。
+完善的技术支持和更新：Waves Ultimate定期提供软件更新和技术支持，保证用户能够始终使用最新版本和获得帮助。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiqaWDIDpU_wkHuDTKSahkA1?pwd=9tz8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiqaWDIDpU_wkHuDTKSahkA1?pwd=9tz8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Topaz Video AI(AI图像处理软件) v5.5.1 直装破解版</title>
+        <link>https://www.danlong360.com/post/92125/</link>
+        <pubDate>Sun, 22 Dec 2024 22:08:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/92125/</guid>
+        <description>&lt;p&gt;Topaz Video AI 是一款专门针对视频处理和编辑的人工智能软件。它可以通过智能算法对视频进行高效处理和优化，提高视频的质量和清晰度，同时也可以实现视频的降噪、稳定、颜色校正等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/92125/20241222_100902.png&#34;
+	width=&#34;640&#34;
+	height=&#34;412&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;155&#34;
+		data-flex-basis=&#34;372px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;视频增强：通过 AI 技术改善视频画质，提高视频清晰度和细节。
+视频修复：修复视频中的噪点、模糊和抖动，使得画面更加平滑和清晰。
+视频转换：将视频转换为不同的格式、分辨率和比特率，以满足不同的需求。
+视频缩放：将视频放大或缩小，保持画质的同时调整大小。
+视频剪辑：对视频进行剪辑、合并、裁剪等操作，实现个性化的视频制作。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;AI 技术：采用先进的人工智能技术，提供更快速、更高效的视频处理效果。
+高清清晰度：通过增强视频画质，提升视频的清晰度和细节，使得观感更加出色。
+简单易用：操作界面友好，操作简单，即使是初学者也能轻松上手。
+快速处理：支持批量处理，快速完成视频处理任务，节省时间和精力。
+多种输出格式：支持输出多种常见视频格式，满足用户的不同需求和用途。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;一般信息：
+类型：安装
+语言：英语
+激活：破解&lt;/p&gt;
+&lt;p&gt;命令行选项：
+静默安装：/qn
+选择安装位置：INSTALLDIR=PATH
+示例：Topaz.Video.AI.v3.0.5.exe /qn INSTALLDIR=C:\MyProgram&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiqgZQwn7kwp16TSQEuRd5A1?pwd=vz4k&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiqgZQwn7kwp16TSQEuRd5A1?pwd=vz4k&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ACDSee2025旗舰版_18.0.0(3996) 官方简体中文破解版</title>
+        <link>https://www.danlong360.com/post/18774/</link>
+        <pubDate>Sun, 22 Dec 2024 22:07:49 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/18774/</guid>
+        <description>&lt;p&gt;ACDSee2025旗舰版ACDSee Photo Studio 2025 Ultimate是面向摄影室工作室用的专业图像管理软件,ACDSee最新版包含标准版,专业版,旗舰版.ACDSee旗舰版配备HDR,焦点堆栈,混合克隆,自定义色彩调整创建功能,经改进的人脸识别功能,可针对文本和图层提供更多控制选项以及更多功能,以便您灵活地创建合成图像,操作和创新图像,达成您想要的效果.此外,旗舰版内置500多个相机型号支持功能,因此可以充分编辑RAW文件.&lt;/p&gt;
+&lt;p&gt;ACDSee 专业看图软件 – 图片管理、图片编辑器、数码摄影、数字资产管理 (DAM)。ACDSee 是目前最强大的专业数字图像管理软件，支持多种模式，如查看、编辑、管理、冲印、以及开发，身兼多职！使用 ACDSee，可以从数码相机和扫描仪高效获取图片，超过几十种常用多媒体格式被一网打尽。作为最重量级的看图软件，它能快速、高质量显示您的图片，再配以内置的音频播放器，可畅享用它播放出来的精彩幻灯片。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/18774/20241222_100801.png&#34;
+	width=&#34;640&#34;
+	height=&#34;370&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;172&#34;
+		data-flex-basis=&#34;415px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;数字影像管理：可通过ACDSee 2025旗舰版轻松管理数千张照片，包括导入、组织和查找照片等功能。
+照片编辑：提供了一系列先进的编辑工具，如裁剪、调整颜色和对比度、修复图像缺陷等，帮助用户优化照片。
+批量处理：可快速对多个照片进行批量处理，如批量重命名、调整大小、转换格式等，提高工作效率。
+高级搜索和筛选：具有强大的搜索和筛选功能，帮助用户快速找到所需的照片，并可根据不同的条件进行精确筛选。
+共享和输出：支持将照片分享到社交媒体平台上，也可以将照片输出为不同的格式，以满足用户的需求。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;版本号 18.0.0.3996（2024-12-04）
++ 新增了对以下相机RAW格式的支持。
+佳能 EOS R1
+佳能 EOS R5 II
+富士胶片 GFX 100S II
+富士胶片 X-T50
+徕卡 D-Lux 8
+徕卡 SL3
+尼康 Z6III
+奥之心 OM-1 Mark II
+松下 LUMIX DC-S9
+索尼 ZV-E10 II
++ 性能提升： 现在，“冲印”和“编辑”模式中的许多人工智能功能都可利用电脑的 GPU 进行更流畅、更快速的处理。
++ ACDSee标签，通过轻松导航文件、搜索等简化数字资产管理。
++ ACDSee 活动管理器，随时关注重要的背景任务，如导入图像、AI 人脸检测和扫描 AI 关键字。
++ ACDSee AI 超分辨率，可在管理模式和查看模式下使用，让您增强图像并将其放大到不可思议的尺寸。
++ 冲印模式中的蒙版羽化和移位。
++ 人工智能对象蒙版工具，在“冲印”模式下，即使是最复杂的对象也能轻松蒙版。
++ 颜色范围蒙版，在“冲印”模式下应用取决于颜色值的蒙版。
++ 亮度范围蒙版，在“冲印”模式下应用取决于亮度/灯光值的蒙版。
++ 新的文件格式支持： 新增对导入和编辑 AVIF 文件的支持。
++ 使用“另存为路径”即时复制文件路径。
++ 人物模式中添加了自动前进功能，简化了人脸与姓名的匹配过程。
++ 在管理和查看模式中添加了启用/禁用自动命名的选项。
++ 增加了一次删除多个类别或关键字的功能。
++ 增加了删除未分配资产的类别或关键字的功能。
++ 为详细信息视图、排序、信息调色板等添加了人工智能和 AI 关键字元数据选项。
++ 为天空替换添加了 32 种新天空预设模板，包括两个新类别： 阴天和烟花。
++ 新增了为上次使用的“显影” 设置设置自定义键盘快捷键的功能。
++ 为“冲印”和“编辑”模式下的画笔添加了创建直线和斜线的功能。
++ 在编辑模式的右键菜单中添加了“应用图层蒙版”选项。
++ 为“编辑”模式下的“液化过滤器”添加了重置按钮。
++ 在编辑模式中为形状绘制工具添加了等边绘制功能。
+o 在“镜头校正”功能中添加或更新了 150 多款相机和镜头。
+o 改进了自动迁移性能，以包括自定义键盘快捷键和外部编辑器设置。
+o 改进了在“冲印”模式下显示画笔蒙版预览时对像素定位的支持。
+o 改进了 ISO 低于 200 的奥林巴斯 OM-D E-M1 Mark II RAW 文件的外观。
+o 改进了 AI 操作中的模糊背景和黑白背景，现在可作为蒙版调整图层添加。
+o 改进图层菜单的清晰度，在编辑模式下提供单独的图层和蒙版上下文菜单选项。
+o 改进了在编辑模式下使用添加/减去选择工具时鼠标光标的外观。
+o 改进了手动绘制人脸的性能，完成后会自动开始编辑人脸的名称。
+o 改进了人物模式中的“姓名视图”，可更准确地显示分配给每个姓名的面孔数量，最高可达 9999+。
+!! 修正了一些带有 HDR 的 H.265/HEVC 视频被隔离并拒绝播放的问题。
+!! 修正了一个问题，即从“目录”窗格中搜索的人工智能关键字在再次浏览或搜索后无法正确显示为选择性浏览，然后单击后退返回。
+!! 修正了一个问题，即启用“删除原始文件”时，批量转换文件格式会绕过回收站。
+!! 修正了在特定配置下媒体模式中缺少左右箭头的问题。
+!! 修正了在全屏模式下进入“查看”模式时任务栏闪烁的问题。
+!! 修正了“冲印”模式中涉及撤销和重做预设和快照组合的崩溃问题。
+!! 修正了“冲印”模式下在带蒙版和不带蒙版的图像之间切换时出现的若干外观问题。
+!! 修复了“冲印”模式“历史记录”窗格中涉及修复工具的文本问题。
+!! 修正了在“冲印”和“编辑”模式之间切换后，“冲印”模式中的某些操作没有记录在“历史记录”窗格中的问题。
+!! 修正了“天空替换”中的反射和输出为图层设置会忘记上次使用的状态的问题。
+!! 修正了“编辑”模式中一个会导致“亮度/颜色范围”和“通道选择”窗口忘记位置的问题。
+!! 修复了“编辑”模式下“形状选择”工具崩溃的问题。
+!! 修正了编辑模式下涉及文本图层、蒙版和某些滤镜的崩溃问题。
+!! 修正了“编辑”模式中涉及在某些情况下按下鼠标侧键时崩溃的问题。
+!! 修正了“人物”模式在某些情况下无法为相似面添加建议的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiqxtExKGV22fl6_6ggEqQA1?pwd=g9tk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiqxtExKGV22fl6_6ggEqQA1?pwd=g9tk&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ACDSee2025专业版_18.0.0(3055) 官方简体中文破解版</title>
+        <link>https://www.danlong360.com/post/9296/</link>
+        <pubDate>Sun, 22 Dec 2024 22:06:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/9296/</guid>
+        <description>&lt;p&gt;ACDSee Photo Studio 是面向摄影室工作室用的专业图像管理软件, ACDSee 最新版包含标准版,专业版,旗舰版. ACDSee 旗舰版配备 HDR,焦点堆栈,混合克隆,自定义色彩调整创建功能,经改进的人脸识别功能,可针对文本和图层提供更多控制选项以及更多功能,以便您灵活地创建合成图像,操作和创新图像,达成您想要的效果.此外,旗舰版内置 500 多个相机型号支持功能,因此可以充分编辑 RAW 文件.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/9296/20241222_100639.png&#34;
+	width=&#34;640&#34;
+	height=&#34;384&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;图片管理：可以快速浏览、分类和管理您的照片，方便查找和处理。
+图片编辑：提供丰富的编辑工具，包括修复、调整、剪裁、旋转、添加滤镜等功能，帮助用户让照片更加完美。
+批量处理：支持批量处理照片，节省时间和精力。
+RAW格式支持：支持处理RAW格式的照片，保留更多的图像细节。
+输出和分享：可以方便地导出和分享您的照片，包括打印、在线分享、社交媒体等。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观，操作简单易懂，适合各类用户使用。
+提供丰富的滤镜和特效，让用户轻松调整照片风格。
+支持非破坏性编辑，保留原始照片数据，方便后期修改和处理。
+内置批量重命名、批量调整大小、批量转换格式等实用工具，方便用户批量处理照片。
+提供快速预览功能，方便用户快速浏览和选择照片。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;版本号 18.0.0.3055（2024-12-04）
+在管理和查看模式中添加了启用/禁用自动命名的选项。
+增加了一次删除多个类别或关键字的功能。
+增加了删除未分配资产的类别或关键字的功能。
+为详细信息视图、排序、信息调色板等添加了人工智能和 AI 关键字元数据选项。
+为天空替换添加了 32 种新天空预设模板，包括两个新类别： 阴天和烟花。
+新增了为上次使用的“显影” 设置设置自定义键盘快捷键的功能。
+为“冲印”和“编辑”模式下的画笔添加了创建直线和斜线的功能。
+在编辑模式的右键菜单中添加了“应用图层蒙版”选项。
+为“编辑”模式下的“液化过滤器”添加了重置按钮。
+在编辑模式中为形状绘制工具添加了等边绘制功能。
+在“镜头校正”功能中添加或更新了 150 多款相机和镜头。
+改进了自动迁移性能，以包括自定义键盘快捷键和外部编辑器设置。
+改进了在“冲印”模式下显示画笔蒙版预览时对像素定位的支持。
+改进了 ISO 低于 200 的奥林巴斯 OM-D E-M1 Mark II RAW 文件的外观。
+改进了 AI 操作中的模糊背景和黑白背景，现在可作为蒙版调整图层添加。
+改进图层菜单的清晰度，在编辑模式下提供单独的图层和蒙版上下文菜单选项。
+改进了在编辑模式下使用添加/减去选择工具时鼠标光标的外观。
+改进了手动绘制人脸的性能，完成后会自动开始编辑人脸的名称。
+改进了人物模式中的“姓名视图”，可更准确地显示分配给每个姓名的面孔数量，最高可达 9999+。
+修正了一些带有 HDR 的 H.265/HEVC 视频被隔离并拒绝播放的问题。
+修正了一个问题，即从“目录”窗格中搜索的人工智能关键字在再次浏览或搜索后无法正确显示为选择性浏览，然后单击后退返回。
+修正了一个问题，即启用“删除原始文件”时，批量转换文件格式会绕过回收站。
+修正了在特定配置下媒体模式中缺少左右箭头的问题。
+修正了在全屏模式下进入“查看”模式时任务栏闪烁的问题。
+修正了“冲印”模式中涉及撤销和重做预设和快照组合的崩溃问题。
+修正了“冲印”模式下在带蒙版和不带蒙版的图像之间切换时出现的若干外观问题。
+修复了“冲印”模式“历史记录”窗格中涉及修复工具的文本问题。
+修正了在“冲印”和“编辑”模式之间切换后，“冲印”模式中的某些操作没有记录在“历史记录”窗格中的问题。
+修正了“天空替换”中的反射和输出为图层设置会忘记上次使用的状态的问题。
+修正了“编辑”模式中一个会导致“亮度/颜色范围”和“通道选择”窗口忘记位置的问题。
+修复了“编辑”模式下“形状选择”工具崩溃的问题。
+修正了编辑模式下涉及文本图层、蒙版和某些滤镜的崩溃问题。
+修正了“编辑”模式中涉及在某些情况下按下鼠标侧键时崩溃的问题。
+修正了“人物”模式在某些情况下无法为相似面添加建议的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEirFn8y4gOxWn5uYzYazkxA1?pwd=kq45&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEirFn8y4gOxWn5uYzYazkxA1?pwd=kq45&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ZBrush(3D数字雕刻和绘画软件) v2025.1.0 中文破解版</title>
+        <link>https://www.danlong360.com/post/38722/</link>
+        <pubDate>Sun, 22 Dec 2024 20:36:42 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/38722/</guid>
+        <description>&lt;p&gt;ZBrush是一款专业的数字雕刻和绘画软件，由Pixologic公司于1999年推出。它具有强大的造型和绘画工具，可以在计算机上创建高度细腻和逼真的三维模型和插图。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/38722/20241222_083655.png&#34;
+	width=&#34;640&#34;
+	height=&#34;463&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;138&#34;
+		data-flex-basis=&#34;331px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;数字雕刻：ZBrush提供了各种雕刻工具，可以对模型进行细致的雕刻和塑造。用户可以通过使用笔刷和拉伸等工具来创造复杂的几何形状和细节，使模型更加真实。
+多边形建模：ZBrush支持多种多边形建模工具，可以创建和编辑模型的几何结构。用户可以使用全局细分、变形、剪切和挤压等工具来实现复杂的几何操作。
+纹理绘制：ZBrush可以在模型上绘制纹理和细节，为模型添加颜色和纹理。用户可以使用涂鸦、绘画和贴图工具，在模型的表面上绘制纹理和细节。
+材质和渲染：ZBrush提供了多种材质和渲染选项，可以为模型添加逼真的材质和光照效果。用户可以调整光源、材质属性和渲染设置，以达到理想的渲染效果。
+形状变形：ZBrush提供了各种形状变形工具，可以对模型进行形状的调整和变形。用户可以通过使用拉伸、变形、填充和割裂等工具来改变模型的形状。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高度细节：ZBrush具有强大的雕刻和绘画工具，可以创建高度细节和逼真的模型。它支持多边形细分和多层次细节，可以处理高分辨率模型。
+实时反应：ZBrush提供实时反应的工作流程，可以即时显示和编辑模型的变化。用户可以实时预览模型的细节和材质，无需等待渲染。
+高效操作：ZBrush具有简单直观的用户界面和强大的工具集，可以帮助用户高效地完成工作。它支持快捷键、自定义界面和可编程的宏脚本，提供了灵活和个性化的操作方式。
+多平台支持：ZBrush可在Windows和macOS等多个操作系统上运行，适用于不同的计算机硬件和配置。用户可以根据自己的需求选择合适的平台进行使用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiOY7Qp9Hp23sx4Ix86bTiA1?pwd=au8t&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiOY7Qp9Hp23sx4Ix86bTiA1?pwd=au8t&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Maxon Red Giant(红巨星套装插件) 2025.2.1 中文破解版</title>
+        <link>https://www.danlong360.com/post/84691/</link>
+        <pubDate>Sun, 22 Dec 2024 20:36:09 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/84691/</guid>
+        <description>&lt;p&gt;‌Maxon Red Giant是一款专为影视后期制作设计的软件，包含了多种视频特效插件，如Red Giant Universe、Magic Bullet Suite、Trapcode Suite、VFX Suite和Shooter Suite等。‌这些插件在影视后期制作中提供了非常重要的作用，帮助用户实现高质量的视觉效果和后期处理‌。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/84691/20241222_083620.png&#34;
+	width=&#34;640&#34;
+	height=&#34;478&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;321px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;‌粒子特效‌：Trapcode Suite提供了创建动态图形和视觉效果的工具，可以模拟火、水、烟、雪等粒子效果。
+‌调色和降噪‌：Magic Bullet Suite用于色彩调整和降噪，精确模拟镜头滤镜和胶片库存。
+‌视觉特效‌：VFX Suite包含多种插件，用于抠像、跟踪、清理和视觉效果合成。
+‌镜头修复‌：Shooter Suite独立应用程序和插件，用于镜头修复和编辑，保障文件安全。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;‌高效工作流程‌：简化工作流程，提高精度和控制力，使用户能够更快更好地达到所需效果。
+‌跨平台支持‌：支持After Effects等多个平台，适应不同用户的需求。
+‌强大的功能‌：提供丰富的特效和工具，适用于电影级视觉效果合成和高级抠像、跟踪等操作。
+‌用户友好‌：界面设计简洁，功能强大，即使是非专业用户也能快速上手‌。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiPgAvJ-S-M_fGekxug9cCA1?pwd=atew&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiPgAvJ-S-M_fGekxug9cCA1?pwd=atew&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Red Giant Universe(视觉创意工具包) 2025.1.1 特别版</title>
+        <link>https://www.danlong360.com/post/86962/</link>
+        <pubDate>Sun, 22 Dec 2024 20:34:19 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/86962/</guid>
+        <description>&lt;p&gt;Red Giant Universe是一个创意工具包，为视频编辑人员提供了丰富的视觉效果和运动图形插件。该工具包包含超过60种独特的插件，可用于Adobe Premiere Pro、After Effects、Final Cut Pro X、DaVinci Resolve和其他流行的视频编辑软件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/86962/20241222_083429.png&#34;
+	width=&#34;640&#34;
+	height=&#34;360&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;视觉效果：Red Giant Universe提供了各种各样的视觉效果，包括光效、过渡、颜色校正和修饰等功能。
+运动图形：用户可以通过Red Giant Universe库中的插件创建高质量的运动图形效果，包括标题、文字动画和图形元素。
+时长修剪：软件还提供了一些时长修剪工具，可以帮助用户快速调整视频的时长和速度，以实现更吸引人的效果。
+自定义控制：Red Giant Universe的插件具有强大的自定义控制功能，用户可以轻松调整插件的参数以满足其特定需求。
+社区共享：用户可以在Red Giant Universe社区中分享和下载其他用户创建的插件和效果，从而丰富他们的视频编辑库。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;跨平台兼容：Red Giant Universe支持多种视频编辑软件，包括Adobe Premiere Pro、After Effects、Final Cut Pro X等，用户可以在不同的平台上无缝使用。
+多样化的插件库：软件提供了超过60种不同的插件，覆盖了各种不同的效果和功能，满足用户不同的创意需求。
+简单易用：Red Giant Universe的插件界面设计简洁直观，用户可以轻松找到并应用他们需要的效果。
+高质量效果：软件提供了高质量的效果和图形，用户可以通过Red Giant Universe的插件为其视频添加专业水准的视觉效果。&lt;/p&gt;
+&lt;h3 id=&#34;系统要求&#34;&gt;系统要求
+&lt;/h3&gt;&lt;p&gt;Adobe After Effects CC 2019 或更高版本
+Adob​​e Premiere Pro CC 2019 或更高版本
+Apple Final Cut Pro X 10.5 或更高版本
+Apple Motion 5.5 或更高版本
+Avid Media Composer 8.2 或更高版本
+Magix VEGAS Pro 14 或更高版本
+DaVinci Resolve 14 或更高版本&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiPgAvJ-S-M_fGekxug9cCA1?pwd=atew&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiPgAvJ-S-M_fGekxug9cCA1?pwd=atew&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Affinity Designer(专业的图形设计软件) v2.5.6.2887 中文直装版</title>
+        <link>https://www.danlong360.com/post/21980/</link>
+        <pubDate>Sun, 22 Dec 2024 20:21:17 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/21980/</guid>
+        <description>&lt;p&gt;Affinity Designer是一款专业的矢量图形设计软件，旨在提供强大的功能和直观的用户界面，以满足专业设计师和创意人员的需求。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/21980/20241222_082127.png&#34;
+	width=&#34;640&#34;
+	height=&#34;519&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;123&#34;
+		data-flex-basis=&#34;295px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;矢量图形设计：Affinity Designer支持创建和编辑矢量图形，包括插图、图标、网页和界面设计、徽标和全套品牌标识等。
+多种工具：软件提供了丰富的绘图和编辑工具，如选择工具、自由绘制工具、矩形工具、椭圆工具、文本工具、形状工具等，可以满足不同的设计需求。
+实时编辑：Affinity Designer可以实时编辑对象，包括移动、缩放、旋转、扭曲和变形等，使得设计过程更加高效和直观。
+层次管理：软件允许用户创建和管理多个图层，可以方便地对不同对象进行独立编辑和控制。
+色彩和渐变：Affinity Designer支持丰富的色彩和渐变工具，包括调整色相、饱和度和亮度、使用调色板、渐变工具等，可以创建出各种想要的色彩效果。
+视觉效果：软件提供了多种滤镜和效果，如模糊、锐化、光线效果、图像调整等，可以让设计作品更加生动和引人注目。
+导出和共享：Affinity Designer支持多种文件格式的导入和导出，如PDF、EPS、SVG、JPEG等，并且可以轻松与其他设计软件进行兼容。
+高级功能：软件还提供了一些高级功能，如矢量剪切和蒙版、符号和图层样式、图形网格和对齐工具等，可以提升设计的精度和效率。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;一般信息：
+类型：安装
+语言：多语言
+处理：MADARA 补丁&lt;/p&gt;
+&lt;p&gt;命令行选项：
+静默安装：/S
+选择安装位置：/D=PATH&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiRb0aPSWx_-SK6O72KTdwA1?pwd=am4p&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiRb0aPSWx_-SK6O72KTdwA1?pwd=am4p&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Affinity Publisher(排版及页面布局软件) v2.5.6.2887 中文直装版</title>
+        <link>https://www.danlong360.com/post/31811/</link>
+        <pubDate>Sun, 22 Dec 2024 20:20:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/31811/</guid>
+        <description>&lt;p&gt;Affinity Publisher是一款专业的排版及页面布局软件，适用于桌面出版物，如杂志、书籍、宣传册、报纸等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/31811/20241222_082048.png&#34;
+	width=&#34;640&#34;
+	height=&#34;488&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;131&#34;
+		data-flex-basis=&#34;314px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;强大的页面布局工具：包括文字工具、图形工具、表格工具、图像工具等，可帮助用户创建具有复杂布局的出版物。
+智能文本流：可以自动调整文本框的大小和位置，使其适应已有内容，并保持整体布局的连贯性。
+文字处理能力：提供广泛的文字样式和排版选项，包括字体、字号、颜色、行间距、首行缩进等，以满足不同排版需求。
+图像处理能力：支持常见的图像格式，可实现图像的裁剪、调整、滤镜效果等。
+导入和导出：支持导入和导出多种文件格式，如PDF、EPS、SVG、JPEG等，便于与其他软件进行协作和交流。
+多页面支持：可以创建多个页面并进行组织和导航，方便用户进行大型出版物的制作。
+自动排版功能：提供智能引导线、网格、对齐功能等，帮助用户快速、准确地进行页面布局。
+色彩管理：支持CMYK、RGB、灰度等颜色模式，确保输出的颜色准确无误。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观：采用现代化的用户界面设计，用户可以快速上手，提高工作效率。
+性能高效稳定：使用优化的渲染引擎，占用资源少，运行流畅，稳定性好。
+完全兼容Affinity系列软件：可以与Affinity Designer和Affinity Photo等软件进行无缝集成，方便用户进行多种设计任务。
+支持多种操作系统：可在Windows、Mac和iPad等平台上运行，满足不同用户的需求。
+实时预览：内置强大的即时预览功能，可以随时查看和调整设计效果，提升用户体验。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;一般信息：
+类型：安装
+语言：多语言
+处理：MADARA 补丁&lt;/p&gt;
+&lt;p&gt;命令行选项：
+静默安装：/S
+选择安装位置：/D=PATH&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiRb0aPSWx_-SK6O72KTdwA1?pwd=am4p&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiRb0aPSWx_-SK6O72KTdwA1?pwd=am4p&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Affinity Photo(专业级图像编辑软件) v2.5.6.2887 中文直装版</title>
+        <link>https://www.danlong360.com/post/12782/</link>
+        <pubDate>Sun, 22 Dec 2024 20:19:34 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/12782/</guid>
+        <description>&lt;p&gt;Affinity Photo 是一款功能强大、易于使用的专业级图像编辑软件，适用于照片修图、图像合成、图像处理等多种应用场景。它具有精确的图像编辑工具、高级图层功能、RAW 图像处理、批量处理功能等特点，可以满足专业用户对图像编辑的需求。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/12782/20241222_081948.png&#34;
+	width=&#34;640&#34;
+	height=&#34;471&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;135&#34;
+		data-flex-basis=&#34;326px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;精确的图像编辑工具：Affinity Photo 提供了一系列精确的图像编辑工具，包括选择工具、修复工具、调整工具、涂鸦工具等。这些工具可以帮助用户对图像进行精确调整和修复。
+高级图层功能：Affinity Photo 支持多层图像编辑，用户可以在不破坏原始图像的情况下进行各种调整。它还支持图层蒙版、混合模式和透明度调整等高级图层功能。
+RAW 图像处理：Affinity Photo 可以直接处理 RAW 格式的图像，提供了一系列专业级的 RAW 图像处理工具，包括白平衡、曝光补偿、色彩校正等。
+高级调整工具：Affinity Photo 提供了一系列高级调整工具，包括色阶、色调曲线、色彩平衡等。这些工具可以帮助用户精确调整图像的色彩和色调。
+批量处理功能：Affinity Photo 支持批量处理多个图像文件，用户可以自定义处理脚本，一次处理多个图像，提高工作效率。
+无破坏性编辑：Affinity Photo 使用非破坏性的编辑方式，所有的编辑操作都可以随时取消或者修改，不会对原始图像造成影响。
+多种输出格式支持：Affinity Photo 支持多种图像输出格式，包括 JPEG、PNG、PDF、PSD 等常见格式。用户可以根据需要选择最适合的输出格式。
+兼容性强：Affinity Photo 可以与主流的图像编辑软件无缝集成，比如 Adobe Photoshop、Lightroom 等。用户可以方便地在不同软件之间进行文件的导入和导出。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;一般信息：
+类型：安装
+语言：多语言
+处理：MADARA 补丁&lt;/p&gt;
+&lt;p&gt;命令行选项：
+静默安装：/S
+选择安装位置：/D=PATH&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiRb0aPSWx_-SK6O72KTdwA1?pwd=am4p&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiRb0aPSWx_-SK6O72KTdwA1?pwd=am4p&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Graphisoft ArchiCAD(3D建筑设计软件) v28.0.2.3110 中文破解版</title>
+        <link>https://www.danlong360.com/post/4751/</link>
+        <pubDate>Sun, 22 Dec 2024 20:16:24 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/4751/</guid>
+        <description>&lt;p&gt;Graphisoft ArchiCAD是一款专业的建筑设计软件，为建筑师和设计师提供了一套全面的建筑设计工具和功能，帮助用户创建复杂的建筑模型、制作施工图、进行设计协作和管理项目。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/4751/20241222_081634.png&#34;
+	width=&#34;640&#34;
+	height=&#34;472&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;135&#34;
+		data-flex-basis=&#34;325px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;三维建模：使用BIM技术进行建筑三维建模，能够轻松创建各种建筑结构和元素。
+自动施工图生成：可以根据建筑模型自动生成施工图和详细的建筑文档，提高设计效率和准确性。
+协作设计：支持多人同时对一个项目进行协作设计，方便团队成员之间的沟通和数据共享。
+参数化建模：支持参数化建模，可以根据需求调整建筑模型的尺寸和参数，方便快速进行设计修改。
+建筑分析：集成了建筑能耗分析、日照分析、结构分析等功能，帮助设计师评估建筑性能和优化设计方案。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;BIM技术：采用BIM技术，能够实现建筑设计、施工和运营全过程的信息集成和共享，提高项目管理效率和质量。
+自定义界面：支持用户自定义界面和工具栏，能够根据个人需求调整软件界面，提高工作效率。
+多平台支持：支持不同操作系统和平台，可以在Windows、MacOS等系统上运行，方便用户在不同设备上进行建筑设计工作。
+可扩展性：支持丰富的插件和扩展功能，可以根据需要扩展软件的功能和性能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiTlbDwn7kwp16TSQEfrQeA1?pwd=3sia&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiTlbDwn7kwp16TSQEfrQeA1?pwd=3sia&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>SolidWorks 2024 SP5.0(模具设计软件) Premium 中文直装版</title>
+        <link>https://www.danlong360.com/post/33433/</link>
+        <pubDate>Sun, 22 Dec 2024 20:13:09 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/33433/</guid>
+        <description>&lt;p&gt;SolidWorks 2024 是达索系统公司推出的最新版本，它提供了一套完整的设计和制造解决方案。它可以帮助工程师和设计师创建高质量的三维模型、进行设计分析和优化，并生成制造所需的图纸和文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/33433/20241222_081322.png&#34;
+	width=&#34;640&#34;
+	height=&#34;565&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;113&#34;
+		data-flex-basis=&#34;271px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;三维建模：SolidWorks 2024 提供了强大的三维建模工具，可以快速创建复杂的零件和装配体。它支持直接建模、参数化建模和曲面建模等多种建模方法。
+设计分析：软件内置了各种设计分析工具，如应力分析、热分析和流体分析等，可以帮助用户评估设计的性能和可靠性。
+装配体设计：SolidWorks 2024 允许用户创建复杂的装配体，并进行装配约束和碰撞检测。它还提供了虚拟设计验证和装配动画等功能。
+制图和细节设计：软件内置了强大的制图工具，可以生成高质量的二维图纸和零件清单。它还支持自定义的细节设计和注释。
+数据管理：SolidWorks 2024 提供了全面的数据管理功能，可以帮助用户组织和管理设计文件、版本控制和协作，以提高工作效率。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：SolidWorks 2024 具有直观的用户界面和简化的工作流程，使用户能够快速上手并提高设计效率。
+高性能：软件采用了先进的图形处理技术和多线程计算，可以处理复杂模型和大型装配体，并提供流畅的用户体验。
+多领域应用：SolidWorks 2024 可以广泛应用于机械设计、航空航天、汽车工程、电子产品和消费品等领域，满足不同行业的设计需求。
+扩展性：软件提供了丰富的插件和定制选项，以满足用户对特定功能和需求的扩展和定制。
+协同设计：SolidWorks 2024 支持多人协同设计，用户可以同时编辑和共享设计文件，提高团队协作效率。&lt;/p&gt;
+&lt;h3 id=&#34;注意事项&#34;&gt;注意事项
+&lt;/h3&gt;&lt;p&gt;1.安装前，请确保已安装。Net Framework 3.5和4.8。
+2.安装前关闭Internet。
+3.不要在SolidWorks安装程序中安装后台引导加载程序。
+4.卸载SolidWorks Flexnet Server for 2023或更早版本（如果已安装）。
+5.安装时会显示一条消息，说明无法访问Internet。忽略此消息。
+6.安装完成后，SolidWorks安装程序可能需要重新启动。选择稍后重新启动，并等待安装包本身的消息来启动程序。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiXaALIDpU_wkHuDTKG_O4A1?pwd=2r6x&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiXaALIDpU_wkHuDTKG_O4A1?pwd=2r6x&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Adobe InCopy 2025(Ic2025破解版) v20.0.1.32 直装破解版</title>
+        <link>https://www.danlong360.com/post/28120/</link>
+        <pubDate>Sun, 22 Dec 2024 20:12:24 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/28120/</guid>
+        <description>&lt;p&gt;Adobe InCopy是一款专为印刷和数字出版流程而设计的文字编辑软件，可以与Adobe InDesign配合使用，帮助编辑人员和设计人员更好地协作完成项目。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/28120/20241222_081234.png&#34;
+	width=&#34;645&#34;
+	height=&#34;490&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;131&#34;
+		data-flex-basis=&#34;315px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文字编辑：Adobe InCopy提供了丰富的文字编辑功能，包括文字格式设定、段落样式设置、拼写检查等。
+协作编辑：通过与InDesign的协作功能，编辑人员可以与设计人员实时协作编辑同一文档，实现更高效的工作流程。
+版本管理：支持版本管理功能，可以轻松查看和比较不同版本的文档，方便编辑人员对稿件进行追踪和管理。
+导入外部内容：可以导入Word文档、Excel表格、图片等外部内容进行编辑和排版。
+搜索替换：支持快速搜索和替换文字功能，帮助编辑人员快速修改文档中的内容。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;接近InDesign的界面：Adobe InCopy与InDesign的界面风格类似，编辑人员可以快速上手学习，无需额外的培训成本。
+实时预览：编辑人员可以通过实时预览功能查看文档的最终版面效果，方便调整文字内容和样式。
+多平台兼容：支持Windows和Mac平台，满足不同用户的需求。
+高度可定制性：用户可以根据自己的需求自定义工作区，添加或移除工具栏，实现个性化的工作环境。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;by KpoJIuK，m0nkrus
+- 程序集是基于独立的 Adob​​e 安装程序版本 6.4.0.359 创建的，该版本不向公众提供。
+- 需要由原始安装程序安装的 Adob​​e Desktop Common 模块已从安装程序中删除，但所需的最低限度除外。
+- 原始安装程序需要安装的 Adob​​e Creative Cloud 模块已从安装程序中完全删除。
+- 安装程序提供安装路径和程序界面语言的选择，以及安装完成后立即启动程序的能力。
+- 解锁了在 Windows 10 较低版本上安装程序的能力。
+- 间谍软件模块日志传输应用程序、CRLog 传输应用程序和 Adob​​e 崩溃处理器被禁用。
+- 该程序已被处理。安装后可立即使用。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编辑原因：11.24 更新 Adobe InCopy 2025 v20.0.1.32 m0nkrus &amp;amp; KpoJIuK 破解版&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEgPh2ulRQsP37Bn7xogX3lA1?pwd=pvyg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEgPh2ulRQsP37Bn7xogX3lA1?pwd=pvyg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;！！请注意KpoJIuK版安装时不要勾选界面的&amp;quot;Advertisement: install recommended software&amp;quot;选项&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEgPdT4wn7kwp16TSQDlLkgA1?pwd=gdpp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEgPdT4wn7kwp16TSQDlLkgA1?pwd=gdpp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Adobe InDesign 2025(Id2025破解版) v20.0.1.32 直装破解版</title>
+        <link>https://www.danlong360.com/post/22802/</link>
+        <pubDate>Sun, 22 Dec 2024 20:11:15 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/22802/</guid>
+        <description>&lt;p&gt;Adobe InDesign是一款专业的桌面排版软件，广泛用于平面设计、印刷出版和数字出版等领域。它具有强大的排版功能和工具，可以帮助用户创建精美的页面布局和设计。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/22802/20241222_081125.png&#34;
+	width=&#34;650&#34;
+	height=&#34;456&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;142&#34;
+		data-flex-basis=&#34;342px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;多元化的排版功能：支持文本排版、图像编辑、表格设计等功能，能够生成高质量的排版效果。
+多格式输出：支持输出PDF、印刷文件、数字出版等多种格式，适应不同的出版需求。
+灵活的版面设计：提供丰富的版面模板和设计工具，帮助用户快速创建各种风格的页面布局。
+高效的协作与共享：支持多人协同编辑和版本控制，方便团队合作完成项目。
+自动化排版：支持脚本编程和数据合并功能，可以批量处理大量文档，提高工作效率。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;专业级别的设计工具：Adobe InDesign是Adobe公司推出的桌面排版软件，拥有优秀的设计工具和功能，适用于专业设计师和出版人士。
+兼容性强：支持与其他Adobe Creative Cloud软件（如Photoshop、Illustrator）的无缝集成，方便用户在不同软件之间进行文件转换和交互操作。
+多平台支持：Adobe InDesign可以在Windows和Mac OS平台上运行，满足不同用户的使用需求。
+不断更新的功能和服务：Adobe公司会定期更新软件和提供新功能，保持软件的竞争力和用户体验。
+丰富的培训资源和社区支持：Adobe InDesign拥有丰富的培训教程和在线支持社区，用户可以轻松学习和解决问题。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;by KpoJIuK，m0nkrus
+- 程序集是基于独立的 Adob​​e 安装程序版本 6.4.0.359 创建的，该版本不向公众提供。
+- 需要由原始安装程序安装的 Adob​​e Desktop Common 模块已从安装程序中删除，但所需的最低限度除外。
+- 原始安装程序需要安装的 Adob​​e Creative Cloud 模块已从安装程序中完全删除。
+- 安装程序提供安装路径和程序界面语言的选择，以及安装完成后立即启动程序的能力。
+- 解锁了在 Windows 10 较低版本上安装程序的能力。
+- 将 Adob​​e InDesign 主模块更新至版本 20.0.1.032。
+- 间谍软件模块日志传输应用程序、CRLog 传输应用程序和 Adob​​e 崩溃处理器被禁用。
+- 该程序已被处理。授权后，您可以使用云存储、图书馆等一些在线服务。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编辑原因：11.24 更新 Adobe InDesign 2025 v20.0.1.32 m0nkrus &amp;amp; KpoJIuK 破解版&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEgPh2ulRQsP37Bn7xogX3lA1?pwd=pvyg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEgPh2ulRQsP37Bn7xogX3lA1?pwd=pvyg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;！！请注意KpoJIuK版安装时不要勾选界面的&amp;quot;Advertisement: install recommended software&amp;quot;选项&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEgPdT4wn7kwp16TSQDlLkgA1?pwd=gdpp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEgPdT4wn7kwp16TSQDlLkgA1?pwd=gdpp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Adobe Illustrator 2025(AI2025破解版) v29.1.0.142 直装破解版</title>
+        <link>https://www.danlong360.com/post/55990/</link>
+        <pubDate>Sun, 22 Dec 2024 20:06:12 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/55990/</guid>
+        <description>&lt;p&gt;Adobe Illustrator 2025 是一款专业的矢量绘图软件，可以帮助用户创建精美的插图、标识、图标、排版设计和复杂的艺术作品。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/55990/20241222_080632.png&#34;
+	width=&#34;840&#34;
+	height=&#34;602&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;139&#34;
+		data-flex-basis=&#34;334px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;矢量绘图：Adobe Illustrator 2025 使用矢量图形进行绘图，可以保证图像的清晰度和无损缩放，让用户获得更高质量的输出结果。
+多功能画笔工具：软件内置多种绘画工具，包括铅笔工具、钢笔工具、曲线工具等，用户可以根据需要选择合适的工具创建想要的图形。
+图层管理：软件支持多层级的图层管理，用户可以更方便地对设计元素进行组织、编辑和控制，提高工作效率。
+色彩管理：Adobe Illustrator 2025 提供了丰富的色彩管理功能，包括全球色彩、颜色库、渐变工具等，可以帮助用户精确控制图形的色彩和渐变效果。
+文字处理：软件内置强大的文字处理功能，用户可以创建和编辑文字，并应用多种字体、样式和效果，实现个性化的排版设计。
+自定义工作区：软件支持用户自定义工作区，可以根据个人喜好和习惯设置界面布局和工具栏，提高操作的便捷性和效率。
+平面设计工具集：Adobe Illustrator 2025 提供了多种平面设计工具，如形状工具、油漆桶工具、变换工具等，可以帮助用户更轻松地创建各种图形和图案。
+兼容性：软件兼容多种文件格式，包括 AI、EPS、PDF、SVG 等，用户可以方便地导入和导出不同格式的文件，与其他设计软件进行无缝衔接。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;by KpoJIuK，m0nkrus
+- 程序集是基于独立的 Adob​​e 安装程序版本 6.4.0.359 创建的，该版本不向公众提供。
+- 需要由原始安装程序安装的 Adob​​e Desktop Common 模块已从安装程序中删除，但所需的最低限度除外。
+- 原始安装程序需要安装的 Adob​​e Creative Cloud 模块已从安装程序中完全删除。
+- 安装程序提供安装路径和程序界面语言的选择，以及安装完成后立即启动程序的能力。
+- 在安装过程中，安装程序窗口中会启动“视频轮播”，展示该程序的功能。
+- 解锁了在 Windows 10 较低版本上安装程序的能力。
+- 将 Adob​​e Illustrator 主模块更新至版本 29.1.0.142。
+- 间谍软件模块日志传输应用程序、CRLog 传输应用程序和 Adob​​e 崩溃处理器被禁用。
+- 该程序已被处理。授权后，您可以使用云存储、图书馆等一些在线服务。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编辑原因：11.23 更新 Adobe Illustrator 2025 v29.1.0.142 m0nkrus &amp;amp; KpoJIuK 破解版&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEgPh2ulRQsP37Bn7xogX3lA1?pwd=pvyg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEgPh2ulRQsP37Bn7xogX3lA1?pwd=pvyg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;！！请注意KpoJIuK版安装时不要勾选界面的&amp;quot;Advertisement: install recommended software&amp;quot;选项&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEgPdT4wn7kwp16TSQDlLkgA1?pwd=gdpp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEgPdT4wn7kwp16TSQDlLkgA1?pwd=gdpp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Topaz Photo AI(专业的AI图片降噪软件) v3.3.2 汉化便携版 &amp; 直装版</title>
+        <link>https://www.danlong360.com/post/9750/</link>
+        <pubDate>Sun, 22 Dec 2024 19:54:46 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/9750/</guid>
+        <description>&lt;p&gt;Topaz Photo AI 是一款专业的照片处理软件，利用深度学习技术，能够快速高效地优化和增强照片质量。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/9750/20241222_075502.png&#34;
+	width=&#34;640&#34;
+	height=&#34;360&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;自动智能优化：Topaz Photo AI 能够自动识别照片中的不足之处，并对其进行智能优化，包括去除噪点、增强细节、调整色彩等，让照片看起来更加清晰和生动。
+AI 去模糊：Topaz Photo AI 是一款强大的去模糊工具，能够在不损失图像质量的情况下去除照片中的模糊效果，使照片看起来更加清晰。
+AI 改良：Topaz Photo AI 提供了一系列的 AI 滤镜，让用户可以轻松快速地对照片进行改良，实现各种艺术效果，如油画，水彩画，素描等。
+批量处理：Topaz Photo AI 支持批量处理功能，用户可以一次性对多张照片进行处理，提高工作效率。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高效快速：Topaz Photo AI 基于深度学习技术，能够快速高效地处理照片，提升工作效率。
+自动化处理：Topaz Photo AI 提供了自动化处理功能，用户只需点击几下，即可对照片进行智能优化，省时省力。
+高质量输出：Topaz Photo AI 能够保持照片的高质量，在处理过程中不会损失图像细节和清晰度。
+多样化效果：Topaz Photo AI 提供了丰富多样的 AI 滤镜和效果，让用户可以轻松实现各种照片风格，满足不同需求。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;Topaz Photo AI v3.3.2
+发布于 2024 年 11 月 15 日
+下载：https://downloads.topazlabs.com/deploy/TopazPhotoAI/3.3.2/TopazPhotoAI-3.3.2.msi&lt;/p&gt;
+&lt;p&gt;1.1 更改日志
+试用需要身份验证
+添加了对新相机的支持，包括 Canon R5 Mark II 和 Nikon Z6 III
+Show update dialog before trial mode 按钮
+允许在启用裁剪且未启用滤镜的情况下保存
+添加适用于 Windows 和 Mac 的深度链接
+修复文本恢复跳过控件选项卡按 esc 的问题
+修复应用程序可执行文件上的拖放文件夹
+删除高档的降噪停用消息
+修复 Autopilot 首选项中重置为默认的错误
+修复了应用当前设置以允许 RAW 滤镜加倍的问题
+修复将当前设置应用于添加 RAW 的线性 DNG 的问题
+修复 upscale 无法批量处理某些图像的问题
+更新 Exiftool
+自动 Lensfun 更新
+1.2 已知问题
+高效 （HE*） 压缩 Nikon Z8 和 Z9 文件有色偏
+在某些 Windows 11 设备上将 Photo AI 用作 Lightroom Classic 中的增效工具时发生崩溃
+在某些打开了人脸检测的 macOS 15 （Sequoia） 设备上崩溃。请在 Preferences &amp;gt; Recover Faces 中禁用人脸检测以防止崩溃。&lt;/p&gt;
+&lt;p&gt;-&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/p&gt;
+&lt;p&gt;2.1 汉化文件验证信息：
+2024/11/16 15:07 验证 sha256:
+ebe4a0f059d63c2bb6b7273d11296b073fa5434125b86661180eb2a61496d163 imageio.dll
+533ca2fee03abfef8336db14eab72b0f78fee0ea968b8fdc8484170b39590a62 Topaz Photo AI.exe&lt;/p&gt;
+&lt;p&gt;2.2 汉化安装：
+将 &amp;quot; Topaz Photo AI.exe 和 imageio.dll &amp;quot; 替换掉原版文件即可，在此之前请进行备份。
+默认替换位置 C:\Program Files\Topaz Labs LLC\Topaz Photo AI
+绿色版请认真查明Topaz Photo AI.exe所在文件夹再进行替换！！！！&lt;/p&gt;
+&lt;p&gt;2.3 Topaz Photo AI 正式版汉化说明：
+由于软件设计原因，部分英文汉化后可能导致软件故障！包括软件无法启动，功能面板打开后闪退和AI识别失效等。所以以部分汉化为主！
+有能力的工作室或者个人请支持正版，您的付出是值得的！禁止任何人将本汉化程序以任何形式进行贩卖活动！转载时请注明出处，谢谢。
+所有高于官方发布的版本是内测版，有未知bug所以不做汉化！&lt;/p&gt;
+&lt;p&gt;2.4 国内官方版安装注意：
+MSI安装时，用代理软件(可能需要用NSudoLG这类工具提权)对C:\Windows\System32\msiexec.exe系统进程进行代理实现模型下载。
+当然也可以提取绿色版模型到C:\ProgramData\Topaz Labs LLC\Topaz Photo AI\models。
+运行软件出现模型下载时，可对C:\Program Files\Topaz Labs LLC\Topaz Photo AI\Topaz Photo AI.exe进程进行代理实现模型下载。&lt;/p&gt;
+&lt;p&gt;2.5 Topaz Photo AI v3.3.2 正式版破解:
+将Crack文件夹内容替换到Topaz Photo AI.exe所在目录并覆盖network.dll, 以管理员运行TopazGPVAI-1.3-Patch.exe完成破解!&lt;/p&gt;
+&lt;p&gt;汉化: XFang&lt;/p&gt;
+&lt;p&gt;汉化log:
+增加汉化内容
+修改Mode汉化导致的面板透明问题
+3.3.2临时破解方案（请有能力的朋友支持正版）&lt;/p&gt;
+&lt;p&gt;将 &amp;quot; Topaz Photo AI.exe 和 imageio.dll &amp;quot; 替换掉原版文件即可，在此之前请进行备份。&lt;/p&gt;
+&lt;p&gt;默认替换位置 C:\Program Files\Topaz Labs LLC\Topaz Photo AI
+绿色版请认真查明Topaz Photo AI.exe所在文件夹再进行替换！！！！&lt;/p&gt;
+&lt;p&gt;Topaz Photo AI 正式版汉化说明：
+由于软件设计原因，部分英文汉化后可能导致软件故障！包括软件无法启动，功能面板打开后闪退和AI识别失效等。所以以部分汉化为主！
+有能力的工作室或者个人请支持正版，您的付出是值得的！禁止任何人将本汉化程序以任何形式进行贩卖活动！转载时请注明出处，谢谢。
+所有高于官方发布的版本是内测版，有未知bug所以不做汉化！&lt;/p&gt;
+&lt;p&gt;国内官方版安装注意：
+MSI安装时，用代理软件(可能需要用NSudoLG这类工具提权)对C:\Windows\System32\msiexec.exe系统进程进行代理实现模型下载。
+当然也可以提取绿色版模型到C:\ProgramData\Topaz Labs LLC\Topaz Photo AI\models。
+运行软件出现模型下载时，可对C:\Program Files\Topaz Labs LLC\Topaz Photo AI\Topaz Photo AI.exe进程进行代理实现模型下载。&lt;/p&gt;
+&lt;p&gt;汉化: XFang&lt;/p&gt;
+&lt;p&gt;#2024.10.25
+增加汉化，以意译为主。&lt;/p&gt;
+&lt;h3 id=&#34;运行要求&#34;&gt;运行要求
+&lt;/h3&gt;&lt;p&gt;Windows 10 或更高版64位
+CPU：最低需要支持AVX指令的 Intel i3 或 AMD Ryzen 3 及更高版(3.0GHz+)
+显卡：最低需要支持 OpenGL 3.3 或更高版的 Nvidia GTX 740 或 AMD 5870
+# 关于v2.4.0版本以后导入浏览图片出现程序闪退问题的解决办法？
+官方版部分系统环境也会这样，好像是软件不兼容部分NVIDIA显卡硬件加速导致！
+更新显卡驱动，点菜单编辑-&amp;gt;首选项-&amp;gt;通用-&amp;gt;AI处理器选择-&amp;gt;自动-&amp;gt;更改为CPU&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEialN1FpJR3jja3inM8vCeA1?pwd=smk9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEialN1FpJR3jja3inM8vCeA1?pwd=smk9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>NeeView(高效实用的图片浏览器) v42.3 中文绿色版</title>
         <link>https://www.danlong360.com/post/1702/</link>
         <pubDate>Sun, 22 Dec 2024 17:44:53 +0800</pubDate>

@@ -7,7 +7,500 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 22 Dec 2024 17:44:17 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 22 Dec 2024 22:12:28 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ESET Endpoint Antivirus/Security v12.0.2038.0 中文特别版</title>
+        <link>https://www.danlong360.com/post/8813/</link>
+        <pubDate>Sun, 22 Dec 2024 22:12:28 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/8813/</guid>
+        <description>&lt;p&gt;ESET工作站防护版最新版ESET Endpoint Antivirus破解版(ESET防病毒软件企业版标准防护版)ESET Endpoint Security破解版(ESET防病毒软件企业版高级防护版)NOD32杀毒软件提供ESET企业版和ESET个人家庭版.&lt;/p&gt;
+&lt;p&gt;ESET NOD32 防病毒软件以“轻、快、狠、准”而闻名，全球唯一通过26次VB100%测试的权威防病毒软件，高据众产品之榜首！ESET NOD32 安全杀毒软件设计了一个高效的内核，作为单独的、高度优化的引擎，提供统一的安全保护，防止不断的更新病毒、蠕虫、间谍程序的恶意攻击。ESET安全防护软件采用先进的ThreatSense技术，通过对恶意代码进行分析，实时侦测未知的病毒，让您时刻走在病毒编写者的前面。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/8813/20241222_101239.png&#34;
+	width=&#34;499&#34;
+	height=&#34;388&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;128&#34;
+		data-flex-basis=&#34;308px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;ESET Endpoint Antivirus Changelog | ESET
+&lt;a class=&#34;link&#34; href=&#34;https://eset.com/us/business/download/endpoint-antivirus-windows&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://eset.com/us/business/download/endpoint-antivirus-windows&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ESET Endpoint Products - ESET Security Forum
+&lt;a class=&#34;link&#34; href=&#34;https://forum.eset.com/forum/34-eset-endpoint-products&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://forum.eset.com/forum/34-eset-endpoint-products&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ESET Endpoint（企业版也称商业版）原名称ESET NOD32 for Business
+ESET企业版既能安装于个人系统，也能安装于服务器系统，即长期服务版
+相比ESET个人版多了网络防护, HIPS防御, RSA, IP6优化, 远程管理等功能。&lt;/p&gt;
+&lt;p&gt;2023.10.26 v10.1.2058.0
+- Fixed: Specific VB macro based malware not detected in docx documents
+- Fixed: GUI crash when navigating to Network connections list
+- Fixed: Operating system freezes caused by Endpoint Security product having unavailable network path excluded
+- Fixed: Vulnerability &amp;amp; Patch Management feature not available after Auto-update
+- Fixed: Check for Azure code signing compatibility of Operating system during installation
+- Improved: Extended possible columns in Firewall rule list&lt;/p&gt;
+&lt;h3 id=&#34;系统要求&#34;&gt;系统要求
+&lt;/h3&gt;&lt;p&gt;10：Windows 10, Windows 11
+9.x：Windows 7 SP1 with KB4474419, KB4490628, Windows 10+
+Win7系统如果安装提示当前系统版本过旧，就需要安装上面两个补丁&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;带有私人服务器的版本（阻塞概率低）&lt;/li&gt;
+&lt;li&gt;对于定期捐赠者 - ESET Server Security 的私人版本（通过个人消息）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;一般信息：
+类型：x86/x64 安装
+语言：英语、多语言
+激活：许可证、主机、SPYUZ 服务器
+另外：导入 cfg.xml&lt;/p&gt;
+&lt;p&gt;命令行选项：
+静默安装 Antivirus：/EEA
+静默安装 Security：/EES
+程序语言：/L=LANGUAGE_ID &amp;ndash; 列表：https
+://bit.ly/2M8PNPe选择安装位置：/D=PATH&lt;/p&gt;
+&lt;p&gt;/D=PATH 参数应指定为最新的
+，例如：EEA.EES.v7.0.2073.1.exe /S /EES /L=1049 /D=C:\MyProgram\。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEipBInsSs0sunbMym5HZ5gA1?pwd=hvy5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEipBInsSs0sunbMym5HZ5gA1?pwd=hvy5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Malwarebytes Premium(反恶意软件软件) v5.2.3 直装破解版</title>
+        <link>https://www.danlong360.com/post/64208/</link>
+        <pubDate>Sun, 22 Dec 2024 20:33:08 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/64208/</guid>
+        <description>&lt;p&gt;Malwarebytes是一款著名的反恶意软件软件，主要用于检测和清除计算机系统中的恶意软件、间谍软件、广告软件和其他可疑程序。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/64208/20241222_083316.png&#34;
+	width=&#34;640&#34;
+	height=&#34;452&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;141&#34;
+		data-flex-basis=&#34;339px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;实时保护：Malwarebytes可以实时监控系统，阻止恶意软件感染计算机，保护计算机系统安全。
+扫描和清除：Malwarebytes可以对系统进行全面扫描，检测和清除计算机中的恶意软件、间谍软件和广告软件。
+定时扫描：用户可以设置定时扫描计划，让Malwarebytes自动定期检测和清除计算机中的恶意软件。
+检测恶意网站：Malwarebytes可以检测和阻止访问恶意网站，保护用户的上网安全。
+强大的恶意软件数据库：Malwarebytes拥有庞大的恶意软件数据库，可以及时更新最新的恶意软件信息，确保对新的恶意软件进行检测和清除。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：Malwarebytes拥有直观的用户界面，用户可以轻松操作和使用软件进行系统保护。
+高效快速：Malwarebytes采用先进的扫描技术，能够快速检测和清除计算机中的恶意软件，提高系统运行效率。
+多种扫描模式：Malwarebytes支持快速扫描、全面扫描和自定义扫描等多种扫描模式，满足用户不同的需求。
+多平台支持：Malwarebytes不仅支持Windows系统，还支持Mac和Android系统，保护不同平台的计算机安全。
+支持多语言：Malwarebytes支持多种语言界面，方便国际用户使用软件进行系统保护。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiQ4BeTmi3r5axx3QGfhNVA1?pwd=2h68&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiQ4BeTmi3r5axx3QGfhNVA1?pwd=2h68&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AOMEI Partition Assistant(分区管理软件) v10.6.0 中文直装版</title>
+        <link>https://www.danlong360.com/post/64272/</link>
+        <pubDate>Sun, 22 Dec 2024 20:31:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/64272/</guid>
+        <description>&lt;p&gt;傲梅分区助手是一款功能强大的分区管理软件，可以帮助用户对计算机硬盘进行分区操作，并提供一系列分区管理功能。傲梅分区助手是一款由傲梅科技开发的专业分区管理软件。它可以帮助用户对硬盘进行分区、格式化、调整分区大小等操作，让用户能够灵活管理硬盘空间。该软件支持多种操作系统，包括 Windows、Mac、Linux 等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/64272/20241222_083135.png&#34;
+	width=&#34;640&#34;
+	height=&#34;387&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;165&#34;
+		data-flex-basis=&#34;396px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;分区创建：傲梅分区助手可以帮助用户创建新的分区，并可以灵活调整分区的大小和位置。&lt;/li&gt;
+&lt;li&gt;分区格式化：软件支持对分区进行格式化操作，包括常见的文件系统格式，如NTFS、FAT32、exFAT等。&lt;/li&gt;
+&lt;li&gt;分区合并和分割：用户可以通过傲梅分区助手将多个分区合并为一个分区，或者将一个分区分割成多个分区，以便更好地管理硬盘空间。&lt;/li&gt;
+&lt;li&gt;分区备份和恢复：软件提供了分区备份和恢复的功能，可以帮助用户在需要时恢复被删除或损坏的分区数据。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;类型：安装 - 官方安装程序
+语言：多语言，仅包含繁体中文
+处理：SND&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiQNQ1JmWs3zbXouHVQ_0SA1?pwd=6qr8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiQNQ1JmWs3zbXouHVQ_0SA1?pwd=6qr8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ESET Endpoint Antivirus v12.0.2038.0 x86 &amp; x64 特别版</title>
+        <link>https://www.danlong360.com/post/16955/</link>
+        <pubDate>Sun, 22 Dec 2024 20:30:40 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/16955/</guid>
+        <description>&lt;p&gt;ESET Endpoint Antivirus 是一款专为中小企业设计的全面安全解决方案，旨在保护计算机和网络免受各种恶意软件威胁。它结合了先进的威胁检测技术、实时防护和轻量级系统资源占用，确保企业在不影响性能的情况下保持高度的安全性。ESET Endpoint Antivirus 适用于多种操作系统，提供集中管理和灵活配置，帮助企业有效应对不断变化的网络安全挑战。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/16955/20241222_083050.png&#34;
+	width=&#34;640&#34;
+	height=&#34;419&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;152&#34;
+		data-flex-basis=&#34;366px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;实时防护：持续监控系统活动，检测并阻止恶意软件、病毒、间谍软件和其他威胁，确保计算机始终处于保护状态。
+行为分析：通过行为监控和机器学习技术，识别异常行为并及时采取措施，防止未知威胁和零日攻击。
+网络防护：保护网络流量，防止恶意网站和钓鱼攻击，确保用户访问安全的互联网资源。
+电子邮件保护：扫描电子邮件附件和链接，防止恶意内容进入企业网络，保障通信安全。
+漏洞利用防护：识别并修补系统和应用程序中的安全漏洞，防止黑客利用这些漏洞进行攻击。
+文件和对象扫描：定期扫描文件系统中的所有文件，确保没有隐藏的恶意软件或潜在威胁。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;先进威胁检测：采用多层次的安全技术，包括签名、启发式分析和机器学习，能够快速准确地检测已知和未知威胁，确保全面防护。
+轻量级运行：优化的引擎和算法使得 ESET Endpoint Antivirus 占用极少的系统资源，不会影响计算机的性能，提供流畅的用户体验。
+集中管理：通过统一的管理控制台，管理员可以轻松配置和监控所有端点的安全状态，简化安全管理流程，提高工作效率。
+快速响应：内置自动更新机制，确保安全定义和防护规则始终保持最新，能够迅速响应新出现的威胁。
+多平台支持：兼容 Windows 和 macOS 等多种操作系统，提供全方位的保护，确保企业内部不同设备的安全。
+用户友好界面：提供直观的操作界面，管理员和普通用户都可以轻松上手，无需复杂的培训或技术支持。
+灵活部署：支持多种部署方式，包括本地服务器和云端模式，适应不同规模和需求的企业环境。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;更新许可证 2027-10-08
+ESET阻止非主机模式。已经绕过。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiQdHhJ-S-M_fGekxugdiiA1?pwd=68fw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiQdHhJ-S-M_fGekxugdiiA1?pwd=68fw&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ESET Endpoint Security v12.0.2038.0 x86 &amp; x64 特别版</title>
+        <link>https://www.danlong360.com/post/7624/</link>
+        <pubDate>Sun, 22 Dec 2024 20:29:57 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/7624/</guid>
+        <description>&lt;p&gt;ESET Endpoint Security 是一款专为企业设计的全面安全解决方案，旨在保护计算机和网络免受各种威胁。它结合了先进的威胁检测技术、实时防护和轻量级系统资源占用，确保企业能够在不影响性能的情况下保持高度的安全性。ESET Endpoint Security 适用于多种操作系统和设备，提供集中管理和灵活配置，帮助企业有效应对不断变化的网络安全挑战。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/7624/20241222_083007.png&#34;
+	width=&#34;640&#34;
+	height=&#34;419&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;152&#34;
+		data-flex-basis=&#34;366px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;实时防护：持续监控系统活动，检测并阻止恶意软件、病毒、间谍软件和其他威胁，确保计算机始终处于保护状态。
+行为分析：通过行为监控和机器学习技术，识别异常行为并及时采取措施，防止未知威胁和零日攻击。
+网络防护：保护网络流量，防止恶意网站和钓鱼攻击，确保用户访问安全的互联网资源。
+电子邮件保护：扫描电子邮件附件和链接，防止恶意内容进入企业网络，保障通信安全。
+移动设备管理：支持对移动设备的安全管理，包括远程擦除数据和设备定位，确保企业数据在移动环境中的安全性。
+漏洞利用防护：识别并修补系统和应用程序中的安全漏洞，防止黑客利用这些漏洞进行攻击。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;先进威胁检测：采用多层次的安全技术，包括签名、启发式分析和机器学习，能够快速准确地检测已知和未知威胁，确保全面防护。
+轻量级运行：优化的引擎和算法使得 ESET Endpoint Security 占用极少的系统资源，不会影响计算机的性能，提供流畅的用户体验。
+集中管理：通过统一的管理控制台，管理员可以轻松配置和监控所有端点的安全状态，简化安全管理流程，提高工作效率。
+灵活部署：支持多种部署方式，包括本地服务器、云端和混合模式，适应不同规模和需求的企业环境。
+快速响应：内置自动更新机制，确保安全定义和防护规则始终保持最新，能够迅速响应新出现的威胁。
+多平台支持：兼容 Windows、macOS 和 Linux 等多种操作系统，以及智能手机和平板电脑，提供全方位的保护。
+用户友好界面：提供直观的操作界面，管理员和普通用户都可以轻松上手，无需复杂的培训或技术支持。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;更新许可证 2027-10-08
+ESET阻止非主机模式。已经绕过。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiQslRYUdaC_xsb12u8ypUA1?pwd=z9fj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiQslRYUdaC_xsb12u8ypUA1?pwd=z9fj&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Total Commander 11.03 Extended 24.11 直装破解版</title>
+        <link>https://www.danlong360.com/post/61496/</link>
+        <pubDate>Sun, 22 Dec 2024 20:17:10 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/61496/</guid>
+        <description>&lt;p&gt;Total Commander Extended是一款功能强大的文件管理软件，拥有诸多高级功能，可以帮助用户更方便地管理文件和文件夹。除了基本的文件管理功能外，Total Commander Extended还提供了一些扩展功能和插件，使其更加全面和实用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/61496/20241222_081752.png&#34;
+	width=&#34;499&#34;
+	height=&#34;388&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;128&#34;
+		data-flex-basis=&#34;308px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文件管理：支持文件和文件夹的复制、剪切、粘贴、重命名、删除等基本操作。
+批量操作：可以批量重命名文件、批量更改文件属性、批量添加文件注释等。
+自定义快捷键：用户可以自定义快捷键来快速执行常用操作。
+插件支持：支持各种插件，扩展软件功能。
+多标签界面：可以在同一个窗口中打开多个标签，方便用户在不同文件夹之间进行切换。
+文件搜索：支持快速搜索文件和文件夹，帮助用户快速定位所需文件。
+压缩和解压缩：支持多种压缩文件格式，方便用户进行文件压缩和解压缩操作。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观，操作简便：Total Commander Extended拥有友好的用户界面，操作简单直观，适合新手用户使用。
+功能丰富，满足各种文件管理需求：软件拥有众多高级功能，可以满足用户各种文件管理需求。
+插件支持，功能可扩展：Total Commander Extended支持各种插件，用户可以根据需要自行安装扩展软件功能。
+高效稳定，体验流畅：软件运行稳定，响应速度快，用户体验较为流畅。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;版本 24.11
+[^] 程序 Mozilla Firefox (v133.0)、SoftMaker Office 2024 (rev1220)、PotPlayer (v241015)、FastStone Image Viewer (v7.9)、Notepad++ (v8.7.2)、插件 DiskInternals Reader 4.22、Imagine 1.7。 0,PE查看器3.0.16.1, TCASwitcher 1.1.7、TrID_Identifier 1.0 (24/11/24)、xPDFSearch 1.43 更新至最新版本。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiRjtD9WExOYsEE_pmzC-dA1?pwd=j57t&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiRjtD9WExOYsEE_pmzC-dA1?pwd=j57t&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>IDM UltraFinder(文件搜索查找工具) v24.0.0.14 破解版</title>
+        <link>https://www.danlong360.com/post/7935/</link>
+        <pubDate>Sun, 22 Dec 2024 20:15:03 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/7935/</guid>
+        <description>&lt;p&gt;UltraFinder是一款功能强大的文件搜索和查找工具。它提供了文件搜索、内容搜索、正则表达式搜索和批量搜索等多种搜索方式，帮助用户快速准确地找到所需的文件和内容。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/7935/20241222_081513.png&#34;
+	width=&#34;595&#34;
+	height=&#34;477&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;124&#34;
+		data-flex-basis=&#34;299px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文件搜索：可以通过文件名、文件类型、大小、修改日期和访问日期等条件进行文件搜索，快速定位目标文件。
+内容搜索：支持文本文件、Office文档、PDF、压缩文件等多种格式的内容搜索，可以搜索文件的文本内容、属性信息和元数据。
+正则表达式搜索：支持使用正则表达式进行高级搜索，可以根据自定义的模式匹配文件内容和属性，提高搜索的精确度。
+批量搜索：可以同时搜索多个文件夹和文件类型，并进行深度搜索，帮助用户快速找到符合条件的文件和内容。
+快速预览：可以在搜索结果中预览文件的内容，方便用户确认搜索结果是否准确。
+搜索过滤：支持按文件大小、日期、扩展名、属性和正则表达式进行搜索过滤，可以筛选出符合条件的文件和内容。
+文件比较：可以对搜索结果进行文件比较，比较文件的内容、属性和元数据，帮助用户找到差异和相似之处。
+文件操作：支持对搜索结果进行文件复制、移动、删除、重命名和打开，方便用户管理和处理搜索到的文件。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁：提供直观的用户界面，操作简单，即使是初学者也能快速上手。
+文件搜索：快速扫描计算机上的文件和文件夹，支持关键字搜索、通配符匹配和正则表达式搜索，确保搜索结果的准确性和全面性。
+文件预览：在搜索结果中提供文件预览，用户可以快速查看文件内容，避免不必要的文件打开操作，提高工作效率。
+搜索条件：支持多种搜索条件，包括文件名、文件类型、文件大小、创建日期、修改日期等，帮助用户精准定位所需文件。
+搜索历史：记录用户的搜索历史，方便用户快速重复之前的搜索操作，提升搜索效率。
+搜索结果管理：支持对搜索结果进行排序、筛选和导出，方便用户管理和处理大量文件，确保数据的完整性和可用性。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiTv4Akbk5Y4zs1mFy7g-0A1?pwd=fky6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiTv4Akbk5Y4zs1mFy7g-0A1?pwd=fky6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Beyond Compare(文件比较工具) v5.0.4.30422 多语便携版</title>
+        <link>https://www.danlong360.com/post/15790/</link>
+        <pubDate>Sun, 22 Dec 2024 20:14:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/15790/</guid>
+        <description>&lt;p&gt;Beyond Compare是一款功能强大的文件和文件夹比较工具，它能够快速准确地比较文件之间的差异，并提供了一系列强大的功能和工具来帮助用户进行文件和文件夹的同步、合并和备份。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/15790/20241222_081430.png&#34;
+	width=&#34;640&#34;
+	height=&#34;419&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;152&#34;
+		data-flex-basis=&#34;366px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;- 文件和文件夹比较：Beyond Compare能够快速准确地比较两个文件或文件夹之间的差异，包括文件内容、文件夹结构等。
+- 文件和文件夹同步：用户可以使用Beyond Compare来同步文件夹之间的内容，确保两个文件夹的内容保持一致。
+- 文件和文件夹合并：Beyond Compare提供了一种直观的方式来合并两个文件或文件夹的内容，用户可以选择保留哪个版本的内容或者手动编辑合并结果。
+- 文件和文件夹备份：通过Beyond Compare，用户可以轻松地创建文件和文件夹的备份，并根据需要进行恢复。
+- 文件和文件夹压缩：Beyond Compare支持对文件和文件夹进行压缩和解压缩，以便节省磁盘空间。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;- 快速准确：Beyond Compare能够高效地比较大型文件和文件夹，同时保持精确的比较结果。
+- 灵活性：Beyond Compare提供了多种比较和同步选项，允许用户根据自己的需求进行配置。
+- 直观界面：Beyond Compare的界面友好，操作简单直观，即使没有任何经验的用户也能轻松上手。
+- 定制化：Beyond Compare允许用户根据自己的喜好和需求进行界面和功能的定制。
+- 兼容性：Beyond Compare支持Windows、Mac和Linux等多个操作系统，同时支持多种文件类型。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiU37plRQsP37Bn7xpajoWA1?pwd=apcd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiU37plRQsP37Bn7xpajoWA1?pwd=apcd&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>RollBack Rx Pro(系统恢复还原) v12.8.2710270711 中文直装版</title>
+        <link>https://www.danlong360.com/post/74656/</link>
+        <pubDate>Sun, 22 Dec 2024 20:04:44 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/74656/</guid>
+        <description>&lt;p&gt;RollBack Rx Pro是一款为计算机用户提供系统还原和恢复功能的高级软件。它可以在系统遭受错误、病毒感染、意外更改等情况下，快速将系统恢复到完全健康和稳定的状态。与传统的备份和还原方法相比，RollBack Rx Pro提供了更快速、简便的系统恢复解决方案。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/74656/20241222_080454.png&#34;
+	width=&#34;650&#34;
+	height=&#34;475&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;136&#34;
+		data-flex-basis=&#34;328px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;系统回滚：RollBack Rx Pro能够在几秒钟内将系统恢复到完整和健康的状态，包括操作系统、安装的程序和用户设置等。&lt;/li&gt;
+&lt;li&gt;快速恢复：无需重新启动计算机即可恢复系统，不会中断用户正在进行的工作，提供无缝体验。&lt;/li&gt;
+&lt;li&gt;多个快照：RollBack Rx Pro可以创建多个系统快照，用户可以根据需求选择恢复到特定的快照点。&lt;/li&gt;
+&lt;li&gt;定时快照：可以预先设置定时快照，按计划创建系统快照，确保系统处于最佳和可靠的状态。&lt;/li&gt;
+&lt;li&gt;数据保护：除了系统恢复外，RollBack Rx Pro还保护用户的文件和数据，确保它们不会被意外删除或更改。&lt;/li&gt;
+&lt;li&gt;高级设置：允许用户自定义系统恢复选项，如保留用户文件、设定恢复点个数等。&lt;/li&gt;
+&lt;li&gt;多用户支持：支持多个用户账户，每个账户可以独立设置快照和恢复选项。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;性能高效：RollBack Rx Pro具有高效的恢复引擎，能够在几秒钟内完成系统恢复，无需耗费大量时间。&lt;/li&gt;
+&lt;li&gt;强大的保护：系统快照能够有效防止恶意软件和病毒感染，确保计算机始终处于安全的状态。&lt;/li&gt;
+&lt;li&gt;灵活性：用户可以根据需求选择不同的恢复点，满足不同场景下的恢复需求。&lt;/li&gt;
+&lt;li&gt;用户友好：操作简单，用户界面直观易懂，即使是非技术人员也能轻松使用。&lt;/li&gt;
+&lt;li&gt;可定制性：RollBack Rx Pro提供了丰富的设置选项，允许用户根据自己的需求进行灵活的配置。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;类型：安装
+语言：多语种
+激活：安装并重新启动后，运行ACTIVATE AND REBOOT.cmd
+注：
+安装后必须重新启动
+激活后必须重新启动
+安装后不能立即激活&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiYzozJmWs3zbXouHVV6gUA1?pwd=j8w3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiYzozJmWs3zbXouHVV6gUA1?pwd=j8w3&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Reboot Restore Rx Pro(电脑重启还原) v12.8.2710270703 中文直装版</title>
+        <link>https://www.danlong360.com/post/99787/</link>
+        <pubDate>Sun, 22 Dec 2024 20:03:54 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/99787/</guid>
+        <description>&lt;p&gt;Reboot Restore Rx Pro 是一种系统还原软件，它能够保护计算机免受不良更改和恶意软件的影响。当系统恢复到先前的状态时，所有更改都会被还原，包括已安装的程序、文件和配置。这对于企业、学校实验室、公共场所以及家庭用户来说非常有用，可以保护计算机免受误操作、恶意软件和系统崩溃的影响。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/99787/image-20241222200412367.png&#34;
+	width=&#34;665&#34;
+	height=&#34;456&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20241222200412367&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;145&#34;
+		data-flex-basis=&#34;350px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;系统恢复: Reboot Restore Rx Pro能够将系统恢复到预定义的恢复点，还原系统的所有更改。&lt;/li&gt;
+&lt;li&gt;自动恢复: 可以在每次重启或按计划进行自动恢复，确保系统始终处于安全和可靠的状态。&lt;/li&gt;
+&lt;li&gt;定时冻结: 可以预先定义一个时间范围，在这个时间范围内，系统不允许进行任何更改，以保护系统的稳定性。&lt;/li&gt;
+&lt;li&gt;多用户支持: 支持多个用户账户，每个用户可以有不同的管理员权限和恢复设置。&lt;/li&gt;
+&lt;li&gt;用户界面: 具有直观易用的用户界面，使用户能够轻松设置和管理软件。&lt;/li&gt;
+&lt;li&gt;远程管理: 支持远程管理，可以通过网络管理和监控多台计算机上的Reboot Restore Rx Pro软件。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;快速恢复: 系统恢复速度快，只需重启计算机即可恢复系统到原始状态。&lt;/li&gt;
+&lt;li&gt;灵活性: 可以根据不同的需求和使用情况，自定义恢复设置和恢复点。&lt;/li&gt;
+&lt;li&gt;保护隐私: 在恢复过程中，可以选择保留用户数据和文件，确保个人文件的机密性和保密性。&lt;/li&gt;
+&lt;li&gt;轻量级: Reboot Restore Rx Pro是一款轻量级软件，不会占用太多系统资源，对系统性能影响较小。&lt;/li&gt;
+&lt;li&gt;可靠性: 使用可靠的恢复引擎和技术，确保系统恢复过程的准确性和可靠性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;p&gt;类型：安装
+语言：多语种
+激活：安装并重新启动后，运行ACTIVATE AND REBOOT.cmd
+注：
+安装后必须重新启动
+激活后必须重新启动
+安装后不能立即激活&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiZ8P_wn7kwp16TSQEifuFA1?pwd=7zhs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiZ8P_wn7kwp16TSQEifuFA1?pwd=7zhs&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>DU Meter(网络流量监控工具) v8.10.4848 中文直装版</title>
+        <link>https://www.danlong360.com/post/39372/</link>
+        <pubDate>Sun, 22 Dec 2024 20:00:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/39372/</guid>
+        <description>&lt;p&gt;DU Meter是一款网络流量监控工具，可以帮助用户实时监控网络流量的上传下载速度，帮助用户了解网络使用情况，以便更好地管理网络资源。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/39372/20241222_080101.png&#34;
+	width=&#34;640&#34;
+	height=&#34;429&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;149&#34;
+		data-flex-basis=&#34;358px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;实时监控网络连接的上传下载速度，包括速度图表和数据统计表格。
+显示网络连接的IP地址、端口号和连接状态。
+支持设定上传下载速度的限制，提醒用户超出限制。
+支持设定流量报警，当网络流量达到设定值时给出警告提示。
+可查看网络连接的历史记录，并生成报表进行分析。
+支持多种主题和样式，用户可以自定义界面风格。
+可在系统托盘中显示实时网络流量图标，方便随时查看网络状态。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观，操作方便，适合各种用户水平使用。
+实时监控网络流量，帮助用户更好地管理网络使用，避免超出流量限制。
+可按时间段统计流量使用情况，帮助用户了解网络使用习惯。
+支持定制化配置，用户可以根据自己的需求设定上传下载速度限制和流量报警。
+软件稳定可靠，不会对系统造成影响，占用系统资源少。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiZYRI-IMQk2enoy1--kqzA1?pwd=whpy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiZYRI-IMQk2enoy1--kqzA1?pwd=whpy&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>One Commander(文件管理器) Pro v3.94.2.0 中文绿色版</title>
         <link>https://www.danlong360.com/post/54907/</link>
         <pubDate>Sun, 22 Dec 2024 17:44:17 +0800</pubDate>

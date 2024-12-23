@@ -7,7 +7,54 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 25 Nov 2024 17:41:35 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 22 Dec 2024 20:08:35 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Microsoft .Net Packages AIO(.NET合集包) v12.11.24</title>
+        <link>https://www.danlong360.com/post/93294/</link>
+        <pubDate>Sun, 22 Dec 2024 20:08:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/93294/</guid>
+        <description>&lt;p&gt;Microsoft .NET Packages AIO（全套）是一款优秀的软件开发框架，为开发人员提供了一系列功能强大的工具和技术，用于构建各种类型的应用程序。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/93294/20241222_080847.png&#34;
+	width=&#34;499&#34;
+	height=&#34;387&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;128&#34;
+		data-flex-basis=&#34;309px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;应用程序开发：提供了丰富的类和工具，用于快速开发各种类型的应用程序，包括桌面应用程序、Web应用程序和分布式应用程序。
+数据库访问：提供了强大的数据访问功能，包括连接、查询和操作数据库的能力，并支持各种数据库管理系统。
+界面设计：提供了丰富的工具和控件，用于创建各种类型的用户界面，包括Windows界面、Web界面和移动界面。
+分布式应用程序：提供了各种技术和工具，用于创建分布式应用程序，并支持跨平台和跨语言的通信。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;强大的功能：提供了多种功能强大的工具和技术，用于满足不同类型应用程序的需求。
+易于使用：尽管功能强大，但Microsoft .NET Packages AIO的用户界面简单直观，易于上手。
+可扩展性：支持扩展和自定义，允许开发人员根据需要添加自己的功能和组件。
+兼容性：兼容各种Windows操作系统，支持多种开发语言和数据库管理系统。&lt;/p&gt;
+&lt;h3 id=&#34;此版特点&#34;&gt;此版特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;添加实用程序（.Net Framework 修复工具、.Net Framework 清理工具和 .Net 版本检测工具）。&lt;/li&gt;
+&lt;li&gt;Windows 8、8.1、10和11中已实现.Net Framework 3.5的离线激活。&lt;/li&gt;
+&lt;li&gt;添加了.Net Framework 3.5、.Net Framework 4、.Net Framework 4.8 和 .Net Framework 4.8.1 的语言包（俄语、英语和德语）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;4.安装程序语言：俄语和英语。
+5.自动和手动选择处理器架构（ia64、x86、x64和arm64）。&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Repak基于的是6.0.5 mod（来自Leserg）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEiYfBPeARqy741ZvgcAOaPA1?pwd=azk8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEiYfBPeARqy741ZvgcAOaPA1?pwd=azk8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>MultiPack .NET Windows Desktop Installer(.NET集合包) v1.2</title>
         <link>https://www.danlong360.com/post/2633/</link>
         <pubDate>Mon, 25 Nov 2024 17:41:35 +0800</pubDate>
