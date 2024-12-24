@@ -7,7 +7,72 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 21 Dec 2024 18:24:39 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%87%E4%BB%BD%E8%BF%98%E5%8E%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 24 Dec 2024 16:31:38 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%87%E4%BB%BD%E8%BF%98%E5%8E%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows Install Tool(系统安装备份工具) 24H2.1.0.1220 中文绿色版</title>
+        <link>https://www.danlong360.com/post/85705/</link>
+        <pubDate>Tue, 24 Dec 2024 16:31:38 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/85705/</guid>
+        <description>&lt;p&gt;WIT，全名是：Windows Install Tool，是 Anson4(秋刀鱼) 基于 5大的 CGI 3.4.2.5 编写开发，是一款系统安装工具，集系统安装还原、文档转移、系统备份、分区复制、磁盘复制、快速分区、印象管理、驱动管理等功能为一体的工具。感谢 CGI 原作者 JexChen、CloneCD 的努力！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/85705/20241224_043147.png&#34;
+	width=&#34;716&#34;
+	height=&#34;559&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;128&#34;
+		data-flex-basis=&#34;307px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;功能特征&#34;&gt;功能特征
+&lt;/h3&gt;&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;将原版映像+补丁作为安装源，使用WIT安装完就是最新的版本，省去频繁封装的麻烦！&lt;/li&gt;
+&lt;li&gt;系统安装，支持ESD、WIM、SWM、GHO、.SNA、.TBI。&lt;/li&gt;
+&lt;li&gt;简单的ESD、WIM映像维护&lt;/li&gt;
+&lt;li&gt;添加PE到启动菜单&lt;/li&gt;
+&lt;li&gt;维护BCD菜单&lt;/li&gt;
+&lt;li&gt;生成VHD/VHDX文件&lt;/li&gt;
+&lt;li&gt;备份驱动&lt;/li&gt;
+&lt;li&gt;分区、磁盘复制&lt;/li&gt;
+&lt;li&gt;快速分区&lt;/li&gt;
+&lt;li&gt;……&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;解压体积：
+删除自带的PE包之后，32+64位的文件体积大约38MB，还可以继续按照 读我文件.txt 末尾的文件清单进行精简。&lt;/p&gt;
+&lt;p&gt;附加说明：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;“全程无人值守”优化项会添加或者替换Unattend.xml。&lt;/li&gt;
+&lt;li&gt;其他优化项可能会修改oobe.cmd、SetupComple.cmd，因此可能会导致某些封装版的某些特征失效。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;其中发涉及到的优化项有：部署中安装驱动、部署中理顺盘符。&lt;/p&gt;
+&lt;p&gt;已知问题：
+– 文件路径包含特殊字符时可能会识别错误，比如：【】
+– 某些外设可能会导致挂载/卸载映像文件时卡死在操作VHD阶段，比如 ThinkPad X201 的内置读卡器插有TF卡时。&lt;/p&gt;
+&lt;p&gt;注意事项：
+– 勾选全程无人值守时，默认自动创建具备管理员权限的账户“WIT-User”。
+– 禁止跨版本更新推送仅适用于1607或者更高版本的Win10
+– 安装通用驱动的前提是使用环境满足驱动总裁或者万能驱动运行的需求
+– 映像挂载时，会自动挂载到VHD（%Temp%MountVHD.vhd）上，自动确定挂载盘符为Z。
+– 映像挂载卸载和映像导出合并使用DISM（因为Wimlib不支持这些操作），其余情况使用Wimlib。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;24H2.1.0 (Build day: 2024.08.20) 2024/12/20重编译版
+- 新增：[安装/还原]模块调用万能驱动8离线注入驱动时自动去除烦恼。
+- 新增：[安装/还原]模块调用万能驱动8部署中安装驱动时自动去除烦恼（更新 WIT_Inject.exe）。
+- 修复：[安装/还原]模块的全程无人值守安装XP时，未能创建新的用户账户（更新 WIT_Inject.exe）。
+- 修复：[安装/还原]模块调用万能驱动7部署中安装驱动时未能自动跳过旧版本提示对话框（更新 WIT_Inject.exe）。
+- 修复：[安装/还原]模块从命令行运行时，如果源文件是.gho、sna、.tbi格式，静默运行参数失效。
+- 修复：未能正确匹配 VMD 设备的硬件ID，导致[安装/还原]模块的“注入英特尔RST驱动”选项未能被勾选。
+- 修复：[安装/还原]模块的“注入英特尔RST驱动”勾选项，应为程序未能正确匹配 VMD 设备的硬件ID，导致被错误禁用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOErn3DwnUwW1BYGJY0jQ50fA1?pwd=9p8m&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOErn3DwnUwW1BYGJY0jQ50fA1?pwd=9p8m&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>AOMEI Backupper(傲梅轻松备份) v7.4.1 中文直装版</title>
         <link>https://www.danlong360.com/post/90150/</link>
         <pubDate>Sat, 21 Dec 2024 18:24:39 +0800</pubDate>
