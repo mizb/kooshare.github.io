@@ -7,7 +7,229 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 23 Dec 2024 19:45:15 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 24 Dec 2024 09:40:50 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>弹弹play(本地视频&#43;弹幕播放器) v15.11.0 绿色版</title>
+        <link>https://www.danlong360.com/post/58662/</link>
+        <pubDate>Tue, 24 Dec 2024 09:40:50 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/58662/</guid>
+        <description>&lt;p&gt;一款全功能的“本地视频+弹幕”播放器，可以用它来播放本地硬盘中的视频文件，并可实时加载，观看网络上的弹幕，和大家一同交流看法与观点。软件支持播放绝大部分视频及音频格式内置搜索、加载网络弹幕功能。是将视频与弹幕相结合的影音播放工具，可以支持分析你的视频文件，将它与网络上的弹幕进行匹配，不管你看的是渣360p，还是高清1080p，它都能够帮你找到同一份弹幕，和所有观看此动画的朋友进行交流。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/58662/20241224_094103.png&#34;
+	width=&#34;640&#34;
+	height=&#34;427&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;149&#34;
+		data-flex-basis=&#34;359px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1、支持的视频格式多，本地视频不用担心被删减和遮挡画面内容。
+2、视频智能识别，只要视频的内容相同，看到的就是同一份弹幕。
+3、能加载其他站点的弹幕。
+4、播放历史与更新提醒可以同步，并且与手机互通。
+5、支持视频插帧，可一键开启 Anime4K，实时提升低分辨率视频的清晰度。
+6、可以当作媒体库使用。
+7、支持高速下载种子等文件。
+8、提供远程访问功能，本地视频不必传来传去。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2024-10-25Windows版 v15.10.0
+VLC内核支持HDMI/SPDIF音频直通功能
+VLC内核支持新增强制开启杜比环绕（Dolby Surround）检测
+EVR内核调用SVP补帧时将使用AviSynth处理
+番剧详情页增加显示动画的预告片、PV等视频链接
+播放列表页、播放列表边栏支持拖拽排序
+媒体库中右键菜单可以将本地文件/文件夹加入待扫描队列
+个人中心等界面的筛选、排序菜单将记住上次的选择
+媒体库远程连接增加右键菜单编辑
+媒体库远程连接登录状态过期时将显示提示
+优化远程访问Web页图片加载方式，将优先读取本机缓存
+优化磁力链解析种子文件时的缓存机制
+优化网络检测与修复工具的相关功能
+修复了调用SVP补帧时，重复加载视频时无法继续启用的问题
+修复了部分情况下系统托盘图标和右键菜单显示异常的问题
+修复了远程访问启动时可能提示“重复添加”错误的问题
+修复了远程访问Web页选择字幕可能出错的问题
+修复了通过网页播放时播放历史没有上传至服务器的问题&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEqLLvHHrf1rP1INNRtnYF5A1?pwd=u35j&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEqLLvHHrf1rP1INNRtnYF5A1?pwd=u35j&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MPC-HC视频播放器(便捷视频播放器) v2.3.9 中文绿色版</title>
+        <link>https://www.danlong360.com/post/68561/</link>
+        <pubDate>Tue, 24 Dec 2024 09:06:30 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/68561/</guid>
+        <description>&lt;p&gt;MPC-HC是一款免费的媒体播放器，它源自于原始的Media Player Classic项目，并且在Windows操作系统上得到了广泛的应用。MPC-HC有着简洁直观的用户界面，并且具备强大的功能，以满足用户对于媒体播放的需求。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/68561/20241224_090640.png&#34;
+	width=&#34;507&#34;
+	height=&#34;438&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;115&#34;
+		data-flex-basis=&#34;277px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持各种媒体文件格式：MPC-HC可以播放几乎所有主流格式的音频和视频文件，包括MP3、AAC、WAV、MP4、AVI、MKV等，用户可以使用该软件来观看电影、听音乐和查看照片。
+播放器控制：MPC-HC提供了常规播放器控制，如播放、暂停、快进、快退等。此外，它还支持截图功能，允许用户在播放期间截取当前画面。
+多音轨和字幕支持：MPC-HC可以处理包含多个音轨的视频文件，并且允许用户切换音轨。此外，它还可以导入并显示外部字幕文件，以便用户更好地观看外语视频。
+虚拟音频设备模拟：MPC-HC可以模拟虚拟音频设备，允许用户以高音质的方式录制和保存音频流。
+定时播放和循环播放：MPC-HC拥有定时播放功能，可以设置在指定时间开始播放或暂停文件。此外，用户还可以使用该软件实现循环播放，以便反复播放视频或音频。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;轻量级和低资源占用：MPC-HC是一款非常轻量级的媒体播放器，其安装包较小，且软件本身消耗的系统资源也很少，使其在运行时不会导致计算机变慢。
+易于使用：MPC-HC具有简洁直观的用户界面，可以让用户快速上手并使用其功能。
+开源和免费：MPC-HC是开源软件，其源代码可以公开查看和修改。此外，它也是完全免费的，用户可以随时下载和使用，无需付费授权。
+播放质量优秀：MPC-HC支持多种音频和视频编解码器，可以播放高质量的媒体文件，并提供完善的音频和视频效果控制，使用户能够享受到更好的观看和听音乐的体验。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编辑原因：12.24 更新 MPC-HC视频播放器 v2.3.9 elchupacabra 增强绿色版&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEqGmrp0BLswX26HFw1YMQLA1?pwd=bvtc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEqGmrp0BLswX26HFw1YMQLA1?pwd=bvtc&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MPC-BE视频播放器(强大视频播放器) v1.8.2.55 中文绿色版</title>
+        <link>https://www.danlong360.com/post/35178/</link>
+        <pubDate>Tue, 24 Dec 2024 09:05:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/35178/</guid>
+        <description>&lt;p&gt;MPC-BE（Media Player Classic - Black Edition）是一款功能强大的视频播放器，是Media Player Classic的一个分支，它支持多种视频和音频文件格式，并提供多种附加功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/35178/20241224_090556.png&#34;
+	width=&#34;507&#34;
+	height=&#34;426&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;119&#34;
+		data-flex-basis=&#34;285px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持广泛的视频文件格式，如AVI、FLV、MP4、MKV、MOV等，以及多种音频文件格式，如MP3、WAV、AAC等。
+具有广泛的解码器支持，包括内置的解码器和外部的第三方解码器，可以确保播放器能够兼容几乎所有的媒体文件。
+提供各种视频和音频调整选项，如亮度、对比度、饱和度调整，以及音量控制、均衡器等。
+支持多种字幕格式，如SRT、SSA、ASS等，并提供字幕的显示和调整选项。
+提供多种界面语言和主题，可以根据用户的偏好进行定制。
+支持快速和精确的搜索功能，可以轻松找到想要播放的视频或音频文件。
+启用硬件加速和多线程解码，提供流畅的播放体验。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;开源免费：MPC-BE是一个开源项目，用户可以免费使用和分发该软件。
+轻量化：软件的安装文件很小，占用较少的系统资源，不会影响计算机的性能。
+高度可定制：用户可以根据自己的需求进行界面和功能的定制，使软件符合个人使用习惯。
+易于使用：软件的界面简洁明了，功能布局合理，使用户可以轻松找到所需的功能和选项。
+稳定可靠：MPC-BE经过多次测试和改进，具有较高的稳定性和可靠性，可以长时间运行而不会崩溃或出错。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEqGvvCTlJJTi9gsydwSUXzA1?pwd=atsg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEqGvvCTlJJTi9gsydwSUXzA1?pwd=atsg&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>TapinRadio(网络收音机软件) v2.16.001 多语便携版</title>
+        <link>https://www.danlong360.com/post/3989/</link>
+        <pubDate>Tue, 24 Dec 2024 09:03:55 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/3989/</guid>
+        <description>&lt;p&gt;TapinRadio是一款流行的网络收音机软件，它允许用户收听来自世界各地的数千个广播电台的在线广播。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/3989/20241224_090405.png&#34;
+	width=&#34;505&#34;
+	height=&#34;530&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;95&#34;
+		data-flex-basis=&#34;228px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;- 广播电台搜索：TapinRadio拥有内置的广播电台目录，用户可以使用搜索功能查找特定的广播电台，也可以按类别浏览和筛选广播电台。
+- 录制功能：TapinRadio支持将正在播放的广播节目录制下来，以便后续无需在线即可重播。
+- 定时器功能：用户可以设置定时器来启动和停止录制或收听收藏的广播节目。
+- 键盘快捷键：TapinRadio提供了一组方便的键盘快捷键，让用户能够更便捷地控制播放、调节音量等操作。
+- 背景录制：软件支持在后台录制广播节目，用户可以继续使用计算机进行其他任务，而不会中断录制。
+- 分享：用户可以将喜欢的广播电台或收录的广播节目分享给其他人，以推荐和交流。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;- 多样的广播电台：TapinRadio提供了广泛的广播电台目录，包括音乐、新闻、体育、娱乐等各种类别，满足用户不同的听音需求。
+- 界面简洁：软件界面清晰、简洁易用，用户可以方便地进行搜索、播放和管理广播电台。
+- 收藏功能：用户可以将喜爱的广播电台收藏起来，方便以后快速访问和收听。
+- 背景模式：TapinRadio可以在系统托盘中运行，以便用户在不影响工作的前提下随时收听或控制广播节目。
+- 轻量级：软件占用系统资源较少，运行稳定，不会拖慢电脑的运行速度。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编辑原因：12.24 扩展流派列表 (chOtky)，更新大多数 BASS 库&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEqHPLyfVvdC6NaRectfa1jA1?pwd=mq7x&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEqHPLyfVvdC6NaRectfa1jA1?pwd=mq7x&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>QMPlay2(免费开源媒体播放器) v24.12.23 中文绿色版</title>
+        <link>https://www.danlong360.com/post/97419/</link>
+        <pubDate>Tue, 24 Dec 2024 08:59:18 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/97419/</guid>
+        <description>&lt;p&gt;QMPlay2是一款开源的跨平台多媒体播放器，支持多种音频和视频格式。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/97419/20241224_085929.png&#34;
+	width=&#34;589&#34;
+	height=&#34;451&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;130&#34;
+		data-flex-basis=&#34;313px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种音频和视频格式，包括MP3、OGG、FLAC、MKV、AVI等。&lt;/li&gt;
+&lt;li&gt;可以播放网络媒体流，包括HTTP、FTP、RTSP等。&lt;/li&gt;
+&lt;li&gt;支持多种字幕格式，包括SRT、SSA、ASS等。&lt;/li&gt;
+&lt;li&gt;支持多种音频和视频效果，包括均衡器、音量增益、视频旋转等。&lt;/li&gt;
+&lt;li&gt;支持多种播放列表格式，包括M3U、PLS等。&lt;/li&gt;
+&lt;li&gt;支持多种语言界面，包括中文、英文等。&lt;/li&gt;
+&lt;li&gt;支持多种操作系统，包括Windows、Linux、Mac OS X等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简洁清晰，易于操作。&lt;/li&gt;
+&lt;li&gt;软件大小小巧，占用系统资源少。&lt;/li&gt;
+&lt;li&gt;支持多种音频和视频格式，可以满足用户的不同需求。&lt;/li&gt;
+&lt;li&gt;支持多种字幕格式，可以让用户更好的观看视频。&lt;/li&gt;
+&lt;li&gt;支持多种音频和视频效果，可以让用户更好的享受音乐和视频。&lt;/li&gt;
+&lt;li&gt;支持多种操作系统，可以让用户在不同平台上使用。&lt;/li&gt;
+&lt;li&gt;支持多种语言界面，可以让用户在不同国家和地区使用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEqIO60Hrf1rP1INNRtmjsnA1?pwd=gdh6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEqIO60Hrf1rP1INNRtmjsnA1?pwd=gdh6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Clementine(开源音乐播放器) v1.4.1.18 多语便携版</title>
         <link>https://www.danlong360.com/post/18357/</link>
         <pubDate>Mon, 23 Dec 2024 19:45:15 +0800</pubDate>
