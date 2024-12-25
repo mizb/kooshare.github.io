@@ -7,7 +7,138 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 25 Dec 2024 16:29:27 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 25 Dec 2024 18:48:27 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MemInfo(内存监视整理工具) v4.1 汉化绿色版</title>
+        <link>https://www.danlong360.com/post/67211/</link>
+        <pubDate>Wed, 25 Dec 2024 18:48:27 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/67211/</guid>
+        <description>&lt;p&gt;MemInfo 在系统托盘显示 Windows 当前内存（内存或页面文件）的使用情况。
+通过一个小图形和实时更新的值，MemInfo 可快速反馈 Windows 当前内存的使用情况。
+高度可定制，MemInfo 可设置内存使用警告、显示物理内存或 Windows 页面文件、显示可用或已用内存、更改字体等。
+MemInfo 内置内存碎片整理功能，通过最大化可用内存加速您的计算机。
+MemInfo 可设置在托盘菜单中显示占用内存最高的进程，按内存使用大小排序，您可以释放进程内存或终止它。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/67211/20241225_064848.png&#34;
+	width=&#34;382&#34;
+	height=&#34;492&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;77&#34;
+		data-flex-basis=&#34;186px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;系统要求&#34;&gt;系统要求
+&lt;/h3&gt;&lt;p&gt;64 位版本 – Windows 11/10/8.x/7（64 位）
+32 位版本 – Windows 10/8.x/7/Vista/XP
+注意：v4.0 或更高版本将专用于 64 位平台&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v4.1 版本更新：2024年12月24日
+– 新选项：“使用条形颜色作为字体颜色”
+– 新选项：菜单信息仪表板的“在托盘中显示值”
+– 删除了带有内存信息的托盘提示（在菜单信息仪表板上仍然可用）
+– 修复：在 Windows 11 上系统重启时托盘图标会被隐藏
+– 小的更改和代码调整&lt;/p&gt;
+&lt;p&gt;此汉化版由 th_sjy 汉化分享，已去除自动检测新版本可长期使用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOExREDuUClNYsDoqTQau-qyA1?pwd=fiev&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOExREDuUClNYsDoqTQau-qyA1?pwd=fiev&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Tabby(Windows终端模拟器) v1.0.216 中文绿色版</title>
+        <link>https://www.danlong360.com/post/52413/</link>
+        <pubDate>Wed, 25 Dec 2024 18:47:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/52413/</guid>
+        <description>&lt;p&gt;Tabby是一款免费开源的Windows终端模拟器，旨在为开发人员提供更强大、更可扩展的终端体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/52413/20241225_064758.png&#34;
+	width=&#34;615&#34;
+	height=&#34;568&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;108&#34;
+		data-flex-basis=&#34;259px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;- 多个选项卡式终端管理器，可在同一窗口中管理多个终端，方便快捷。
+- 支持SSH、Telnet和本地Shell，可连接本地和远程服务器、自定义终端等。
+- 自定义快捷键、颜色、字体等终端属性，以满足不同开发需求。
+- 内置多种主题（黑夜、白日、渐变），可根据不同的环境切换不同的主题，提高开发效率。
+- 可导出/导入配置、扩展插件、自动化脚本等功能，可提高开发效率。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;- 免费开源，又好用又实用。
+- 能够提供比Windows自带终端更好的显示效果和界面风格。
+- 多机种支持，可支持连接Windows、Linux、macOS等不同系统的服务器。
+- 支持扩展插件，可根据不同开发需求进行自定义扩展。
+- 集成快速启动菜单，可简化命令打开过程，提高效率。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOExRA4n85R5e4HRGrshN4gEA1?pwd=455n&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOExRA4n85R5e4HRGrshN4gEA1?pwd=455n&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜狗拼音输入法PC版 v14.12.0.1506 精简优化版</title>
+        <link>https://www.danlong360.com/post/94448/</link>
+        <pubDate>Wed, 25 Dec 2024 18:01:50 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/94448/</guid>
+        <description>&lt;p&gt;搜狗输入法电脑版是装机必备软件,其打字准,词库全,功能强大,使得输入更高效.搜狗拼音输入法最新版,AI打字准确高效.搜狗输入法去广告精简优化版,移除广告程序精简优化后的用着还不错,至少比官方版用着安心些.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/94448/20241225_060159.png&#34;
+	width=&#34;499&#34;
+	height=&#34;360&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;138&#34;
+		data-flex-basis=&#34;332px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;升级日志 - 搜狗输入法
+&lt;a class=&#34;link&#34; href=&#34;https://pinyin.sogou.com/changelog.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pinyin.sogou.com/changelog.php&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;√ 去广告，精简优化，彻底屏蔽升级、删除阻止广告弹窗！
+√ 纯净无广告，无干扰提示，默认无不必要程序驻留进程！
+√ 完全有效阻止下载释放广告程序收集相关信息推送广告行为！
+√ 可选：云计算候选、词库同步及账户配置同步、工具箱扩展管理器组件
+√ 删除：所有搜狗广告程序（广告获取模块、搜狐新闻弹窗、勋章推荐弹窗）
+√ 删除：搜索提示, 颜文字, 修复器, 核心服务, 网络更新, 辅助工具, 崩溃反馈等组件
+√ 删除：智能输入助手, 图片表情, 皮肤盒子/推荐/flash皮肤等（可在扩展管理器安装）
+√ 优化：搜索候选, 体验计划,账户提醒, 皮肤推荐, 检测升级, 活跃天数等各种干扰提示
+√ 安装程序：可选自定义组件、支持 Windows 10 Metro 模式，支持检测可覆盖安装
+√ 特别处理：即使安装了账户同步及扩展下载等联网组件 , 无需防火墙阻止也永不升级&lt;/p&gt;
+&lt;p&gt;# 如何启用语音输入和手写输入？
+1、安装 -&amp;gt;选择要安装的组件-&amp;gt;勾选工具箱及扩展管理器组件
+2、在开始菜单-搜狗输入法-输入法扩展管理器，安装启用组件&lt;/p&gt;
+&lt;p&gt;# 无人值守静默安装参数：
+/S =绝对路径默认C盘程序文件夹
+/D E:MyProgram ＝自定义路径&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;搜狗拼音输入法PC版 v14.12.0.1506 精简优化版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOExGNW6ITbjfgHuqMEcX1NPA1?pwd=ycey&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOExGNW6ITbjfgHuqMEcX1NPA1?pwd=ycey&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;搜狗输入法14.0正式版v14.12.0.1506 搜狗输入法官方最新版(2024/12/23)
+&lt;a class=&#34;link&#34; href=&#34;https://pinyin.sogou.com/windows/?r=mac&amp;amp;t=pinyin&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pinyin.sogou.com/windows/?r=mac&amp;t=pinyin&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>IObit Malware Fighter(电脑安全软件) Pro v12.1.0.1478</title>
         <link>https://www.danlong360.com/post/85158/</link>
         <pubDate>Wed, 25 Dec 2024 16:29:27 +0800</pubDate>
