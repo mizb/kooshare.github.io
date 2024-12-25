@@ -7,7 +7,126 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 25 Dec 2024 15:19:47 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 25 Dec 2024 16:30:06 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Notepad3(开源文本编辑器) v6.24.1221.1 断剑留痕版(12.25)</title>
+        <link>https://www.danlong360.com/post/6656/</link>
+        <pubDate>Wed, 25 Dec 2024 16:30:06 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6656/</guid>
+        <description>&lt;p&gt;Notepad3 是一款免费的开源文本编辑器，旨在为用户提供更加高效的编辑体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/6656/20241225_043016.png&#34;
+	width=&#34;611&#34;
+	height=&#34;474&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;128&#34;
+		data-flex-basis=&#34;309px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种编码格式，包括 ANSI、UTF-8、UTF-16 和 UTF-32 等。&lt;/li&gt;
+&lt;li&gt;支持多种语言环境，包括英语、中文等，用户可以根据需要进行切换。&lt;/li&gt;
+&lt;li&gt;支持自定义语法高亮，用户可以根据自己的需要添加或修改语法规则。&lt;/li&gt;
+&lt;li&gt;支持多个文档同时打开，用户可以轻松进行文本的复制和粘贴等操作。&lt;/li&gt;
+&lt;li&gt;支持拼写检查和自动完成功能，提高编辑效率。&lt;/li&gt;
+&lt;li&gt;支持自动保存功能，防止误操作导致的丢失文本。&lt;/li&gt;
+&lt;li&gt;支持搜索和替换功能，用户可以快速查找和替换文本内容。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;定制：by 断剑留痕
+Lite（绿色版）：
++ 基于官方2024年12月21日的 Notepad3 (x64) 6_24_1221_1 多国语言正式版制作。
++ 精简多余的语言文件，只保留简体中文。
+此版本不需要加载外置 lng 里的语言文件，运行即是简体中文（断剑留痕原创）
++ 保留 Themes 。
++ 已选定的文本右键添加【使用 百度 搜索】【使用 必应 搜索】（断剑留痕原创）&lt;/p&gt;
+&lt;p&gt;提示：
+【记事本替换工具_v1.25】仅适用于本人所修正的【Lite】和【Mod】及官方版，并不适用于其它版本。&lt;/p&gt;
+&lt;p&gt;2024年12月25日16 : 50更新：New
++ grepWinNP3.exe 汉化修正&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEwwlgJcc8KeUBBCn-kQEedA1?pwd=7pve&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEwwlgJcc8KeUBBCn-kQEedA1?pwd=7pve&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Free42(HP-42S 科学可编程计算器) v3.1.12 绿色版</title>
+        <link>https://www.danlong360.com/post/45286/</link>
+        <pubDate>Wed, 25 Dec 2024 16:27:58 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/45286/</guid>
+        <description>&lt;p&gt;Free42 是一款功能强大且用户友好的科学计算器仿真软件，它模拟了 Hewlett-Packard 的 HP-42S 科学计算器，提供了丰富的科学计算功能和高级编程能力。Free42 特别适合需要进行复杂科学计算和编程的学生、工程师和科研人员。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/45286/20241225_042817.png&#34;
+	width=&#34;342&#34;
+	height=&#34;669&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;51&#34;
+		data-flex-basis=&#34;122px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;科学计算：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;基本运算：支持加、减、乘、除等基本运算。
+高级函数：支持三角函数、对数函数、指数函数、复数运算等高级数学函数。
+统计计算：支持统计计算功能，如平均值、标准差、回归分析等。
+矩阵运算：支持矩阵运算，如矩阵加法、乘法、求逆等。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;编程功能：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;编程语言：支持 HP-42S 的编程语言，用户可以编写和运行复杂的程序。
+变量管理：支持变量管理和赋值，用户可以存储和调用变量值。
+条件判断：支持条件判断和循环结构，用户可以编写逻辑复杂的程序。
+子程序调用：支持子程序调用，用户可以编写模块化的程序。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;用户界面：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;仿真界面：提供仿真的 HP-42S 计算器界面，用户可以像使用真实计算器一样操作。
+键盘输入：支持键盘输入，用户可以通过键盘快速输入计算命令。
+自定义设置：支持自定义设置，用户可以调整界面布局和按键声音等。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;数据管理：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;数据导入导出：支持数据的导入和导出功能，用户可以将计算结果保存到文件或从文件中读取数据。
+历史记录：支持历史记录功能，用户可以查看和恢复之前的计算步骤。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;其他功能：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;单位转换：支持多种单位转换功能，用户可以方便地进行单位换算。
+常数库：提供丰富的数学和物理常数库，用户可以快速调用常用常数。
+帮助文档：提供详细的帮助文档和示例程序，帮助用户学习和使用软件。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高精度计算：支持高精度计算，确保计算结果的准确性。
+丰富的科学函数：提供丰富的科学函数和高级数学功能，满足复杂计算需求。
+强大的编程能力：支持 HP-42S 的编程语言，用户可以编写和运行复杂的程序。
+仿真界面：提供仿真的 HP-42S 计算器界面，用户可以像使用真实计算器一样操作。
+键盘输入支持：支持键盘输入，用户可以通过键盘快速输入计算命令。
+自定义设置：支持自定义设置，用户可以调整界面布局和按键声音等。
+数据管理：支持数据的导入和导出功能，用户可以方便地管理和保存计算结果。
+单位转换：支持多种单位转换功能，方便用户进行单位换算。
+常数库：提供丰富的数学和物理常数库，用户可以快速调用常用常数。
+多平台支持：支持 Windows、macOS 和 Linux 操作系统，用户可以在不同平台上使用。
+开源免费：Free42 是一款开源免费软件，用户可以自由下载和使用。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOEwxRVfUQFK13j4cSEToOfyA1?pwd=k5fp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOEwxRVfUQFK13j4cSEToOfyA1?pwd=k5fp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Notepad&#43;&#43;(功能强大的代码编辑器) v8.7.5 中文绿色版</title>
         <link>https://www.danlong360.com/post/2193/</link>
         <pubDate>Wed, 25 Dec 2024 15:19:47 +0800</pubDate>
