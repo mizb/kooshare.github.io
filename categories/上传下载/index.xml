@@ -7,7 +7,92 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 26 Dec 2024 09:57:39 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 26 Dec 2024 18:49:25 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>迅雷 v11.1.12.1692 去广告VIP绿色精简最终版(12.26)</title>
+        <link>https://www.danlong360.com/post/39181/</link>
+        <pubDate>Thu, 26 Dec 2024 18:49:25 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/39181/</guid>
+        <description>&lt;p&gt;迅雷11最新版(Thunder)于2020年8月推出,是继迅雷X之后的换代版PC迅雷客户端.迅雷11重新设计了主界面框架,将下载与云盘合二为一,在迅雷云盘里可以流畅的观看视频,从云盘取回文件的速度,号称将前所未有的快!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/39181/20241226_064941.png&#34;
+	width=&#34;640&#34;
+	height=&#34;523&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;293px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://yangtai.xunlei.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://yangtai.xunlei.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;迅雷11主要特点：
+迅雷云盘加持，将【下载】与【云盘】合二为一！支持【迅雷快鸟】功能
+得益于迅雷领先的下载技术，从云盘取回文件的速度，也将前所未有的快！
+现在登录迅雷云盘，即使是非会员用户也将免费获得2TB网盘空间！试下？
+- 全新主界面框架，结构清晰易上手
+- 全新下载详情页，播放视频更快捷
+- 全新”迅雷云盘”，空间大！看得爽！速度快！
+- -PC、Android、iOS、Web 全平台云盘内容互通！
+- 全新新建任务面板，化繁为简！更可直通云盘！&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;2024.12.26
+– 添加版本信息，改版本号解决无法记住登陆问题！
+包含 codecs 字样安装包整合了在线视频播放解码器
+该软件由 zdBryan 修改，mefcl打包&lt;/p&gt;
+&lt;p&gt;2024.12.25 去广告VIP最终版！
+- 去掉主程序版本信息，绕过服务器加强检测问题！&lt;/p&gt;
+&lt;p&gt;2024.12.17 去广告VIP最终版！
+- 修改renderer.js检测段绕过服务器加强检测问题！
+以解决12月17号上午开始官方服务器封堵旧版行为
+- 阻止后台下载不可见的广告配置文件modules.json&lt;/p&gt;
+&lt;p&gt;2024.12.16 去广告VIP最终版！
+- 仅更新SDK组件为12版以解决最近无法下载问题!&lt;/p&gt;
+&lt;p&gt;2021.07.08 去广告VIP最终版！
+- 去近期出现的右下角VIP促销弹窗
+- 去边下边播弹出扫码极速播放弹窗
+- 去播放器右下方手机扫码播放按钮&lt;/p&gt;
+&lt;p&gt;2021.04.23 更新至 迅雷 v11.1.12.1692 正式版
+- 去除 11.1.12.1692 版本新增的导航栏 &amp;ldquo;游戏&amp;rdquo; 及选项开关
+- 去除导航栏 &amp;ldquo;云盘&amp;rdquo; 首次 &amp;ldquo;全新云盘、最高领2T空间&amp;rdquo; 提示
+- 去除首次进入我的云盘主界面顶部&amp;quot;服务协议&amp;quot;黄色提示条&lt;/p&gt;
+&lt;p&gt;2021.04.17 更新至 迅雷 v11.1.12.1628 正式版
+- 去除手机扫码加速（下载任务和详情页的二维码提示）
+- 去除主菜单无用项遗留的空白块（深入修改代码逻辑）&lt;/p&gt;
+&lt;p&gt;//参考@落尘之木的过去修改更新而来并增加以下修改：
+* 解锁本地云盘极速下载特权，无开通会员提示（New）
+* 禁止非会员点击下载任务的超级加速弹出VIP过期弹窗（New）
+* 去云盘界面和传输文件界面顶部&amp;quot;服务协议&amp;quot;黄色提示条（New）
+* 去登陆VIP会员过期弹窗，去菜单开机启动、关于界面检查更新
+* 禁止首次退出软件弹出烦人的 &amp;ldquo;是否创建桌面快捷方式&amp;quot;提示弹窗
+* 禁止下载任务时点退出弹出烦人的 &amp;ldquo;当前任务正在下载&amp;quot;提示弹窗
+* 修改实现了可以左键按住主界面 [新建下载]按钮右侧空白区域拖动
+* 禁止后台下载迅雷影音安装包、禁播放组件自动创建桌面快捷方式&lt;/p&gt;
+&lt;p&gt;1、本地SVIP10会员，VIP标识和悬浮窗，解除主界面大小限制
+2、去右下角广告弹窗、去头像会员推广提示、去抱团下载滚动提示
+3、去主界面的：浏览器搜索框、用户消息按钮、登陆送2T空间按钮
+4、去侧边栏按钮：发现栏(浏览器)、消息、会员中心、下载手机迅雷
+5、去菜单无用项：下载诊断工具、开机启动、检查更新、意见反馈等
+6、禁止功能调用内置浏览器加载、禁止下载插件升级、禁止下载广告场景包
+7、删除大堆不必要的垃圾程序：迅雷基础服务、诊断工具、升级程序组件等
+8、此精简版支持接管浏览器下载、影音播放边下边看、抱团下载、字幕搜索&lt;/p&gt;
+&lt;p&gt;「关于非IE内核浏览器如何关联迅雷下载」
+Chrom/Edge：装[迅雷下载支持]扩展Thunder Download Extension.crx
+Firefox：安装扩展组件 xThunder.api 即可（可根据需要对扩展进行配置）
+百分浏览器, 360极速浏览器：无需扩展，运行绿化.bat后可直接调用迅雷
+Thunder\BHO有[迅雷下载支持]扩展CRX，当然也可在Chrome商店安装&lt;/p&gt;
+&lt;p&gt;温馨提醒：由于官方 11.2.x 以上版本插件被特殊加密防修改，故弃坑！&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/d/60968596-64437586-94f6bc?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/d/60968596-64437586-94f6bc?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Gopeed(功能强大的下载器) v1.6.5 中文绿色版</title>
         <link>https://www.danlong360.com/post/25655/</link>
         <pubDate>Thu, 26 Dec 2024 09:57:39 +0800</pubDate>
