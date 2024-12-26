@@ -7,7 +7,63 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 26 Dec 2024 09:56:59 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 26 Dec 2024 12:31:34 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Upscayl(AI图像放大增强工具) v2.15.0 中文绿色版</title>
+        <link>https://www.danlong360.com/post/68916/</link>
+        <pubDate>Thu, 26 Dec 2024 12:31:34 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/68916/</guid>
+        <description>&lt;p&gt;Upscayl 中文版是一款免费开源的 AI 图片放大软件，支持在 MacOS、Linux 和 Windows 操作系统上使用。它可以通过命令行来使用，并可检测到计算机中的多个显卡，用户可以通过设置 GPU ID 来控制使用哪个显卡进行图片放大处理。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/68916/20241226_123153.png&#34;
+	width=&#34;657&#34;
+	height=&#34;538&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GrayFraserGitSiYuanLocal&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;293px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;免费开源：Upscayl 中文版是一款免费开源的软件，任何人都可以下载和使用它，而且还可以自行修改和编译源代码来适应不同的应用场景。
+高质量放大：Upscayl 汉化版使用深度学习技术来识别和重建像素，能够将低分辨率的图片放大到高分辨率，并保持图像清晰度和细节。
+快速处理：Upscayl 中文版支持多GPU计算，用户可以选择使用哪个 GPU 来进行图片放大处理，从而加快图片处理速度。
+支持多种文件格式：Upscayl 支持多种图片文件格式，包括 JPEG、PNG、BMP、TIFF 等等，用户可以按需选择输入和输出文件格式。
+简单易用：Upscayl 的使用方法非常简单，用户只需通过命令行输入相关参数即可完成图片放大处理。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2.15 New Year Update
+A new updated interface for the 500th time! 💅🏻
+Upscayl now supports multiple languages! SAY WHAT!? 🤯
+Introducing an all new model - High Fidelity! 🎉
+English, Russian, Japanese, French, Spanish, Portuguese, Vietnamese, Indonesian and Chinese translations have been added 🤗 !
+Added an all new Lens Viewer! Programming it almost made me insane (NO CLICKBAIT) 🥰
+You can now paste and upscayl clipboard images! 📋 Thanks to @abhishek-gaonkar 🙏
+Added a new onboarding dialog that allows you to configure Upscayl before using 👶🏻
+Upscayl now shows you stats like total images upscaled, average upscayl time, etc. in the right sidebar 😉
+Refactored the whole codebase for the 1324215041th time 😮‍💨
+Updated the Right sidebar (More Options) drawer UI because I can 🙃
+Added TTA Mode, it&amp;rsquo;s too complicated, please brave/google/bing it 😀
+Added System Info section in Settings Tab and Logs 👌
+Updated AI models selection with example images and descriptions for people who love things simple 😎
+Added 256+ character length alert for Windows users (please switch to Linux) 😇
+Added support for JFIF format, don&amp;rsquo;t know who needs it but still&amp;hellip; 🃏
+Added the option to disable auto-updates check. Please stop bothering me about it now 😀👍🏻
+Added the option for Mac App Store users to email Upscayl Support directly with logs and all details pre-filled 😉
+Added the option to help Upscayl with stats like GPU models, DAU, etc. We don&amp;rsquo;t collect any personal data 😇
+Added a short tutorial video in the onboarding screen 💁🏻‍♂️
+Added language switcher in onboarding dialog 🈶
+Fixed Error Screen for client side issues 🫥
+Did all of this hard work, just for the one reading this ☺️&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOF0Fm1xX9bRKRu0cJV9cOTFA1?pwd=26u6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOF0Fm1xX9bRKRu0cJV9cOTFA1?pwd=26u6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>LuBan 3D(专业的3D建模软件) v18.12.2024 多语便携版</title>
         <link>https://www.danlong360.com/post/41282/</link>
         <pubDate>Thu, 26 Dec 2024 09:56:59 +0800</pubDate>
