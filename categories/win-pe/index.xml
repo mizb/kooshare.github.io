@@ -7,7 +7,63 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 27 Dec 2024 15:21:14 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/win-pe/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Dec 2024 19:29:17 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/win-pe/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>★最全驱动PE★全内置无网维护~声显网蓝牙全能VIP版&#43;增强启动制作工具【2024-12-26】</title>
+        <link>https://www.danlong360.com/post/64434/</link>
+        <pubDate>Fri, 27 Dec 2024 19:29:17 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/64434/</guid>
+        <description>&lt;p&gt;无忧论坛大佬 情深梦缘 制作的 PE ，集成非常多驱动，集维护、办公、娱乐为一体！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/64434/image.png&#34;
+	width=&#34;1920&#34;
+	height=&#34;1080&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;img&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;内置功能&#34;&gt;内置功能
+&lt;/h3&gt;&lt;p&gt;摄像头
+PPPOE宽带连接
+mstsc(远程桌面连接)
+ISCSI功能
+MTP(USB连接手机进行文件共享)
+RNDIS(使用手机共享网络)
+Microsoft Windows Installer(MSI)
+netsh(网络配置)
+BitLocker磁盘解锁 磁盘加锁
+网络共享
+安全移除硬件(弹出USB设备)功能-原生
+程序兼容性属性
+声网服务,自带有线网卡驱动
+集成VC++ 8,9 运行库
+VBS支持
+搜索
+集成大量Intel+AMD——io+disk驱动！&lt;/p&gt;
+&lt;h3 id=&#34;各版特点&#34;&gt;各版特点
+&lt;/h3&gt;&lt;p&gt;应用场景：目前版本内置软件和驱动已经非常全而且新，适用于经常接触新款电脑，或者很多不同品牌型号电脑，以及系统盘被BitLocker加密，没有本机系统驱动可以白嫖或者驱动不正常的应用场景，例如公司IT、电脑维修、维护、售后和网络装机工作人员。&lt;/p&gt;
+&lt;p&gt;(1)维护版：基于KuerPE_22631.3296，添加内置工具、大量磁盘、笔记本触摸板驱动，AMD USB4和Intel Thunderbolt（雷电）等驱动，无声网基本维护版。&lt;/p&gt;
+&lt;p&gt;(2)网络版：基于KuerPE_26100.1882，添加蓝牙功能，添加大量磁盘、笔记本触摸板驱动、声卡、网络、AMD USB4和Intel Thunderbolt（雷电）等驱动，FastStone Capture10.4，内置最新谷歌浏览器在线安装和世界之窗绿色版浏览器7，添加MPC-BE播放器，支持网络影音、摄像、蓝牙。&lt;/p&gt;
+&lt;p&gt;(3)珍藏版：基于KuerPE_22000.2777，添加蓝牙功能，添加大量磁盘、笔记本触摸板驱动、声卡+智音驱动、网络、蓝牙，AMD USB4和Intel Thunderbolt（雷电）等驱动，MPC-BE播放器，FastStone Capture10.9支持文字识别(极限精简.net)，内置最新谷歌浏览器在线安装和世界之窗绿色版浏览器7，添加完整Microsoft Visual C++ 2015-2022运行库，支持网络影音、摄像、蓝牙，经典珍藏！&lt;/p&gt;
+&lt;p&gt;友情提示：下面全能版和自用版内核超过1G，可能部分电脑不支持BIOS启动了，会提示内存不足，UEFI模式没问题。
+为了适应大多数网友习惯，内置很多功能重复的工具，会DIY的坛友根据自己需求删减，这样体积就下来了。&lt;/p&gt;
+&lt;p&gt;(4)全能版：基于KuerPE_19045.3996，添加大量内置工具、MPC-BE播放器，FastStone Capture10.9支持文字识别，绿色版WPS2016，稻壳阅读器，内置绿色版谷歌浏览器，大量磁盘、笔记本触摸板驱动、声卡+智音驱动、网络、蓝牙、AMD USB4和Intel Thunderbo（雷电）等驱动。添加.net精简版、WindowsPowerShell、原生屏幕键盘、完整Microsoft Visual C++ 2015-2022运行库和DirectX运行库等。支持网络影音、摄像、蓝牙、打印、扫描和简易办公。&lt;/p&gt;
+&lt;p&gt;(5)自用版：基于全能版添加Intel6-15代集显和锐炬/锐炫独显驱动、NVIDIA和AMD精简显卡驱动。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2024.12.26
+更新USB启动盘制作增强版V5.4.7 by baosheng00，WinNTSetup_5.4，硬盘哨兵HDSentinel v6.20.5_Lite和获取系统网络信息批处理工具 BY BEIKING，MPC-BE.1.8.2.58，Q-Dir_11.96，更新Realtek和MediaTek 网卡驱动等。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOF6sbRv2fR1wF1NyJdTCVE6A1?pwd=yg26&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOF6sbRv2fR1wF1NyJdTCVE6A1?pwd=yg26&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Universal USB Installer(可启动U盘制作工具) v2.0.2.6</title>
         <link>https://www.danlong360.com/post/12347/</link>
         <pubDate>Fri, 27 Dec 2024 15:21:14 +0800</pubDate>
