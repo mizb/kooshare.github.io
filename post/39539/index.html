@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+	<head><meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" /><meta name='description' content="ImHex 是一款开源的十六进制编辑器，专为逆向工程、数据分析和低级编程任务设计。它提供了强大的功能和灵活的配置选项，使得用户可以轻松查看、编辑和分析二进制文件。ImHex 的界面简洁直观，支持多种文件格式，并集成了高级功能如模式匹配、脚本编写和插件扩展，帮助用户更高效地处理复杂的二进制数据。无论是开发人员、安全研究人员还是爱好者，ImHex 都是一个不可或缺的工具，适用于需要深入理解文件结构和内容的场景。\n"> <title>ImHex(十六进制编辑器) v1.36.2 中文绿色版</title>
+
+<link rel="canonical" href="https://www.danlong360.com/post/39539/" />  <link rel="stylesheet" href="/scss/style.min.3e12a93b75c160cdeebb90c002987162b218a54705671094a0e3976e055017ee.css" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8204558500749788"
+     crossorigin="anonymous">
+</script><meta property='og:title' content="ImHex(十六进制编辑器) v1.36.2 中文绿色版">
+<meta property='og:description' content="ImHex 是一款开源的十六进制编辑器，专为逆向工程、数据分析和低级编程任务设计。它提供了强大的功能和灵活的配置选项，使得用户可以轻松查看、编辑和分析二进制文件。ImHex 的界面简洁直观，支持多种文件格式，并集成了高级功能如模式匹配、脚本编写和插件扩展，帮助用户更高效地处理复杂的二进制数据。无论是开发人员、安全研究人员还是爱好者，ImHex 都是一个不可或缺的工具，适用于需要深入理解文件结构和内容的场景。\n">
+<meta property='og:url' content='https://www.danlong360.com/post/39539/'>
+<meta property='og:site_name' content='KUL藏宝库'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2024-12-29T18:09:33&#43;08:00'/><meta property='article:modified_time' content='2024-12-29T18:09:33&#43;08:00'/>
+<meta name="twitter:title" content="ImHex(十六进制编辑器) v1.36.2 中文绿色版">
+<meta name="twitter:description" content="ImHex 是一款开源的十六进制编辑器，专为逆向工程、数据分析和低级编程任务设计。它提供了强大的功能和灵活的配置选项，使得用户可以轻松查看、编辑和分析二进制文件。ImHex 的界面简洁直观，支持多种文件格式，并集成了高级功能如模式匹配、脚本编写和插件扩展，帮助用户更高效地处理复杂的二进制数据。无论是开发人员、安全研究人员还是爱好者，ImHex 都是一个不可或缺的工具，适用于需要深入理解文件结构和内容的场景。\n">
+<link rel="shortcut icon" href="/favicon.ico" />
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-K19J3P52BR"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-K19J3P52BR');
+        }
+      </script>
+	</head>
+	<body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu12742395681378621043.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍥</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">KUL藏宝库</a></h1>
+            <h2 class="site-description">纯净软件爱好者</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>分类</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#软件功能">软件功能</a></li>
+        <li><a href="#软件特点">软件特点</a></li>
+        <li><a href="#下载地址">下载地址</a></li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+			<main class="main full-width">
+    <article class="main-article">
+	<header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/" >
+                电脑软件
+            </a>
+        
+            <a href="/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/" >
+                办公软件
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/39539/">ImHex(十六进制编辑器) v1.36.2 中文绿色版</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024-12-29</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header> <section class="article-content">
+    
+    
+    <p>ImHex 是一款开源的十六进制编辑器，专为逆向工程、数据分析和低级编程任务设计。它提供了强大的功能和灵活的配置选项，使得用户可以轻松查看、编辑和分析二进制文件。ImHex 的界面简洁直观，支持多种文件格式，并集成了高级功能如模式匹配、脚本编写和插件扩展，帮助用户更高效地处理复杂的二进制数据。无论是开发人员、安全研究人员还是爱好者，ImHex 都是一个不可或缺的工具，适用于需要深入理解文件结构和内容的场景。</p>
+<p><img src="/post/39539/20241229_060943.png"
+	width="640"
+	height="474"
+	
+	loading="lazy"
+	
+		alt="KUL藏宝库"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="135"
+		data-flex-basis="324px"
+	
+></p>
+<h3 id="软件功能">软件功能
+</h3><p>十六进制编辑：用户可以直接查看和编辑文件的原始字节数据。每个字节以十六进制和ASCII字符的形式显示，方便用户进行精确的修改。ImHex 支持大文件的快速加载和浏览，确保高效的编辑体验。</p>
+<p>模式匹配：内置强大的模式匹配功能，用户可以通过定义YARA规则或正则表达式来搜索特定的二进制模式。这一功能特别适用于查找和识别文件中的特定结构或签名，如文件头、加密密钥或恶意代码。</p>
+<p>脚本编写：ImHex 支持使用Lua脚本语言编写自定义脚本，用户可以根据需要实现各种自动化任务。脚本可以用于解析复杂的数据结构、生成报告或执行批量修改操作，极大地提高了工作效率。</p>
+<p>插件扩展：ImHex 拥有丰富的插件生态系统，用户可以根据需求安装不同的插件来增强软件的功能。插件可以提供额外的解析器、可视化工具或其他实用功能，使得ImHex更加灵活和强大。</p>
+<p>多文件格式支持：ImHex 支持多种常见的文件格式，包括ELF、PE、Mach-O等可执行文件，以及常见的压缩和归档格式。用户可以直接在ImHex中打开和编辑这些文件，无需额外转换。</p>
+<p>书签和注释：用户可以在文件中设置书签和添加注释，方便标记和记录重要的位置或发现。书签和注释可以帮助用户更好地组织和管理复杂的二进制数据，便于后续参考和分析。</p>
+<p>数据导出：ImHex 提供了多种导出选项，用户可以将选定的二进制数据导出为文本文件、CSV文件或其他格式。这一功能特别适用于与其他工具或应用程序共享数据，或者生成详细的分析报告。</p>
+<p>实时预览：对于某些文件类型，ImHex 可以提供实时预览功能，用户可以在编辑过程中立即看到更改的效果。例如，编辑图像文件时，用户可以实时查看图像的变化，确保编辑结果符合预期。</p>
+<p>命令行支持：ImHex 提供了命令行接口，用户可以通过命令行执行各种操作，如打开文件、应用脚本或导出数据。这对于需要批量处理文件或集成到自动化工作流中的用户来说非常有用。</p>
+<h3 id="软件特点">软件特点
+</h3><p>高效的十六进制编辑：ImHex 提供了直观的界面和强大的编辑功能，用户可以直接查看和编辑文件的原始字节数据。支持大文件的快速加载和浏览，确保高效的编辑体验。</p>
+<p>强大的模式匹配：通过定义YARA规则或正则表达式，用户可以搜索特定的二进制模式，查找和识别文件中的特定结构或签名。这一功能特别适用于逆向工程和安全分析。</p>
+<p>灵活的脚本编写：支持使用Lua脚本语言编写自定义脚本，用户可以根据需要实现各种自动化任务。脚本可以用于解析复杂的数据结构、生成报告或执行批量修改操作，极大地提高了工作效率。</p>
+<p>丰富的插件扩展：拥有丰富的插件生态系统，用户可以根据需求安装不同的插件来增强软件的功能。插件可以提供额外的解析器、可视化工具或其他实用功能，使得ImHex更加灵活和强大。</p>
+<p>多文件格式支持：支持多种常见的文件格式，包括ELF、PE、Mach-O等可执行文件，以及常见的压缩和归档格式。用户可以直接在ImHex中打开和编辑这些文件，无需额外转换。</p>
+<p>便捷的书签和注释：用户可以在文件中设置书签和添加注释，方便标记和记录重要的位置或发现。书签和注释可以帮助用户更好地组织和管理复杂的二进制数据，便于后续参考和分析。</p>
+<p>多种导出选项：ImHex 提供了多种导出选项，用户可以将选定的二进制数据导出为文本文件、CSV文件或其他格式。这一功能特别适用于与其他工具或应用程序共享数据，或者生成详细的分析报告。</p>
+<p>实时预览功能：对于某些文件类型，ImHex 可以提供实时预览功能，用户可以在编辑过程中立即看到更改的效果。例如，编辑图像文件时，用户可以实时查看图像的变化，确保编辑结果符合预期。</p>
+<p>命令行接口：提供命令行接口，用户可以通过命令行执行各种操作，如打开文件、应用脚本或导出数据。这对于需要批量处理文件或集成到自动化工作流中的用户来说非常有用。</p>
+<h3 id="下载地址">下载地址
+</h3><p><a class="link" href="https://pan.xunlei.com/s/VOFGw_nayHw0u4iLJevRH4hdA1?pwd=xpy4"  target="_blank" rel="noopener"
+    >https://pan.xunlei.com/s/VOFGw_nayHw0u4iLJevRH4hdA1?pwd=xpy4</a></p>
+
+</section>
+ <footer class="article-footer">
+    
+
+    </footer>
+ 
+</article>
+
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/11897/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">GeoGebra(动态数学软件) v6.0.871.0 多语便携版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/20328/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Text Editor Pro(文本代码编辑器) v31.2.0 中文绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/23178/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Office.Files.Images(Office文档图像工具) v2.59 中文绿色版</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/97855/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Jetbrains全家桶激活破解补丁(可激活Code With Me插件) 2024-2-8</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/34390/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">微软Office LTSC 2024(直装破解版)x64 v16.0.18426.20002 测试版</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+	<section class="copyright">
+		&copy;  2024 KUL藏宝库
+	</section>
+	
+	<section class="running-time">
+		本博客已稳定运行
+		<span id="runningdays" class="running-days"></span>
+	</section>
+	<section class="powerby">
+		 <br />
+		
+	</section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+</main>
+		</div>
+		<script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+<script>
+	let s1 = "2023-3-18"; 
+	s1 = new Date(s1.replace(/-/g, "/"));
+	let s2 = new Date();
+	let timeDifference = s2.getTime() - s1.getTime();
+
+	let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+	let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+	let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+	let result = days + "天" + hours + "小时" + minutes + "分钟";
+	document.getElementById("runningdays").innerHTML = result;
+</script>
+
+	</body>
+</html>
