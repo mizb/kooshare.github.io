@@ -7,7 +7,248 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 26 Dec 2024 18:23:21 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 29 Dec 2024 19:48:42 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>不忘初心 Windows11 LTSC2024 24H2 (26100.2605) x64 精简 游戏版 无更新 (2024.12.20) 正式版，推荐用于 游戏、办公、直播</title>
+        <link>https://www.danlong360.com/post/92217/</link>
+        <pubDate>Sun, 29 Dec 2024 19:48:42 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/92217/</guid>
+        <description>&lt;p&gt;注意此版不能更新补丁，为游戏稳定而生也可以用于办公、直播等，母版来自Windows11 24H2 LTSC2024 正式版 , 保留Hyper和linux，体积和稳定性介于可更新版和无更新版之间，集成任务栏透明软件，独家4K全新高清壁纸，增加右键一些功能，以及离线集成了运行库，绝对给你带来不一样的视觉体验，不一样的美！为了保证稳定初心的系统全部都是离线精简和优化并补齐DX所需DLL，非二次封装。系统纯净、流畅、进程少，游戏办公直播基本无影响&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/92217/BWCXWin1124H2YXB01.jpg&#34;
+	width=&#34;1366&#34;
+	height=&#34;768&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;不忘初心 Windows11 LTSC2024 24H2 (26100.2605) x64 精简 游戏版 无更新 &#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;windows-11-企业版-ltsc的特性&#34;&gt;Windows 11 企业版 LTSC的特性
+&lt;/h3&gt;&lt;p&gt;Windows 11 企业版 LTSC的特点主要包括稳定性、安全性以及不受强制更新的干扰。‌ 这一版本是微软为企业用户定制的，去除了众多非核心应用，仅保留最基础的功能模块。它的显著优势在于出色的稳定性和安全性，非常适合需要长时间稳定运行的环境‌。&lt;/p&gt;
+&lt;p&gt;具体来说，Windows 11 企业版 LTSC 不会进行功能性的大幅升级，仅针对安全、性能和稳定性进行必要的更新。微软承诺为LTSC版本提供长达5至10年的安全补丁和修复，确保企业用户能够在一个稳定、安全的环境中工作。此外，LTSC版本不包含许多额外的应用，如Edge浏览器、微软商店、Xbox、Skype等，界面、设置、任务栏、开始菜单与普通版Windows 11相似，但性能更好‌。&lt;/p&gt;
+&lt;h3 id=&#34;更新记录&#34;&gt;&lt;strong&gt;更新记录&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;2024.12.20更新记录&lt;/strong&gt;
+#更新安装包 MicrosoftEdgeX64_131.0.2903.86.msi
+#KB5048668（26100.2605）微软官方更新如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;此更新解决了 Windows 操作系统的安全问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;游戏版特色&#34;&gt;游戏版特色
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;保留游戏需要的相关组件&lt;/strong&gt;
+&lt;strong&gt;离线修复DX所需要的DLL&lt;/strong&gt;
+不一样的系统不一样的壁纸，集成4K桌面壁纸，从某图片网站购得，仅桌面一张壁纸180元，以及4张锁屏壁纸且用且珍惜！
+**桌面壁纸源文件在：**C:\Windows\Web\4K\Wallpaper\Windows
+&lt;strong&gt;锁屏壁纸源文件在&lt;/strong&gt;：C:\Windows\Web\Screen
+集成TranslucentTB非常好用的win10任务栏透明工具。轻量级(使用几MB的RAM,几乎没有CPU),可以根据自己的喜好来自定义设置任务栏的透明度，支持在不同的效果之间进行切换，你会发现自己的桌面任务栏很美观。
+&lt;strong&gt;TranslucentTB安装路径在&lt;/strong&gt;：C:\Program Files (x86)\TranslucentTB
+集成字体 雅痞-简体、腾祥爱情体简体、方正少儿_GBK、方正粗圆_GBK、造字工房朗倩常规体等5款字体，文章最后有字体预览图。
+集成右键在此处打开命令行，更加方便使用CMD命令。
+集成右键 用记事本打开文件，方便查看一些文件。
+集成右键 快捷设置 包含 注册表 组策略 计算器 桌面图标 控制面板 系统服务 重启桌面 系统版本。
+启用新的文件夹图标预览
+集成微软常用运行库&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名: V:\【不忘初心游戏版】Windows11_LTSC2024_24H2_26100.2605_X64_无更新精简版(2024.12.20).iso
+文件大小: 2583166976 字节
+MD5: 19D67F678454272241CB85A74DA03B37
+SHA1: C0EA3BF3D2CC935887B8D48AF0A8920846C4A13E
+CRC32: F92CC7EE&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOFHKby9yF5B6KsYWx4rA436A1?pwd=vt8m&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOFHKby9yF5B6KsYWx4rA436A1?pwd=vt8m&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>不忘初心 Windows11 LTSC2024 24H2 (26100.2605) x64 纯净 深度精简 无更新 (2024.12.20)</title>
+        <link>https://www.danlong360.com/post/94764/</link>
+        <pubDate>Sun, 29 Dec 2024 19:47:10 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/94764/</guid>
+        <description>&lt;p&gt;注意此版不能更新补丁，此版支持指纹和人脸，支持安装商店登录微软账号，做到了体积小，功能不减，母版来自Windows11 24H2 LTSC2024 正式版 集成中文语言包集成补丁,此版精简的比较多，体积小，进程少，如果软件不多一般办公没什么问题，以自己实际需要为准，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/94764/BWCXWin11LTSC2024JJB01.jpg&#34;
+	width=&#34;1280&#34;
+	height=&#34;720&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;不忘初心 Windows11 LTSC2024 24H2 (26100.2605) x64 纯净 深度精简 无更新 &#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;windows-11-企业版-ltsc的特性&#34;&gt;Windows 11 企业版 LTSC的特性
+&lt;/h3&gt;&lt;p&gt;Windows 11 企业版 LTSC的特点主要包括稳定性、安全性以及不受强制更新的干扰。‌ 这一版本是微软为企业用户定制的，去除了众多非核心应用，仅保留最基础的功能模块。它的显著优势在于出色的稳定性和安全性，非常适合需要长时间稳定运行的环境‌。&lt;/p&gt;
+&lt;p&gt;具体来说，Windows 11 企业版 LTSC 不会进行功能性的大幅升级，仅针对安全、性能和稳定性进行必要的更新。微软承诺为LTSC版本提供长达5至10年的安全补丁和修复，确保企业用户能够在一个稳定、安全的环境中工作。此外，LTSC版本不包含许多额外的应用，如Edge浏览器、微软商店、Xbox、Skype等，界面、设置、任务栏、开始菜单与普通版Windows 11相似，但性能更好‌。&lt;/p&gt;
+&lt;p&gt;对于特定用户群体，Windows 11 企业版 LTSC 适合拥有老旧硬件的用户以及对系统稳定性有更高要求的企业用户。普通家庭用户可能不是最佳选择，因为其更新频率较低，许多已知的bug可能不会及时修复‌。&lt;/p&gt;
+&lt;h3 id=&#34;更新记录&#34;&gt;更新记录
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;2024.12.20更新记录&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#修复打印到PDF只有“.prn”格式的问题。
+#更新安装包 MicrosoftEdgeX64_131.0.2903.86.msi
+#KB5048668（26100.2605）微软官方更新如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;此更新解决了 Windows 操作系统的安全问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名: V:\【不忘初心】Windows11_LTSC2024_24H2_26100.2605_X64_纯净深度精简版(2024.12.20).esd
+文件大小: 1420388694 字节
+MD5: B00D8073B8DA5872D63B7DD46281A8BC
+SHA1: 10BB6211ED0AB776892EC6703D3375B5879ED3C5
+CRC32: B7EBC5BD&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOFHL7XhPEsVDRAm7sy2znHJA1?pwd=hz7j&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOFHL7XhPEsVDRAm7sy2znHJA1?pwd=hz7j&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>不忘初心 Windows11 LTSC2024 24H2 (26100.2605) x64 精简 美化版 无更新 (2024.12.19)</title>
+        <link>https://www.danlong360.com/post/6431/</link>
+        <pubDate>Sun, 29 Dec 2024 19:45:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/6431/</guid>
+        <description>&lt;p&gt;此版不能更新补丁，并开启按流量计费，使用正式版 Windows 11 24H2 LTSC版本做母盘，在无更新版本的基础上修改壁纸，任务栏透明，集成运行库字体等，此版保留Hyper和linux，本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，老机器也可以安装，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/6431/BWCXWin1124H2MHB01.jpg&#34;
+	width=&#34;1280&#34;
+	height=&#34;800&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;不忘初心 Windows11 LTSC2024 24H2 (26100.2605) x64 精简 美化版 无更新&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;windows-11-企业版-ltsc的特性&#34;&gt;Windows 11 企业版 LTSC的特性
+&lt;/h3&gt;&lt;p&gt;Windows 11 企业版 LTSC的特点主要包括稳定性、安全性以及不受强制更新的干扰。‌ 这一版本是微软为企业用户定制的，去除了众多非核心应用，仅保留最基础的功能模块。它的显著优势在于出色的稳定性和安全性，非常适合需要长时间稳定运行的环境‌。&lt;/p&gt;
+&lt;p&gt;具体来说，Windows 11 企业版 LTSC 不会进行功能性的大幅升级，仅针对安全、性能和稳定性进行必要的更新。微软承诺为LTSC版本提供长达5至10年的安全补丁和修复，确保企业用户能够在一个稳定、安全的环境中工作。此外，LTSC版本不包含许多额外的应用，如Edge浏览器、微软商店、Xbox、Skype等，界面、设置、任务栏、开始菜单与普通版Windows 11相似，但性能更好‌。&lt;/p&gt;
+&lt;p&gt;对于特定用户群体，Windows 11 企业版 LTSC 适合拥有老旧硬件的用户以及对系统稳定性有更高要求的企业用户。普通家庭用户可能不是最佳选择，因为其更新频率较低，许多已知的bug可能不会及时修复‌。&lt;/p&gt;
+&lt;h3 id=&#34;更新记录&#34;&gt;更新记录
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;2024.12.19更新记录&lt;/strong&gt;
+#更新安装包 MicrosoftEdgeX64_131.0.2903.86.msi
+#KB5048668（26100.2605）微软官方更新如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;此更新解决了 Windows 操作系统的安全问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;美化版特色&#34;&gt;美化版特色
+&lt;/h3&gt;&lt;p&gt;离线更换系统自带的字体，更换为鸿蒙&lt;strong&gt;HarmonyOS 字体（可选）&lt;/strong&gt;。
+不一样的系统不一样的壁纸，集成4K桌面壁纸，以及4张锁屏壁纸，壁纸是初心从某图片网站购买，40多一张，且用且珍惜！**桌面壁纸源文件在：**C:\Windows\Web\4K\Wallpaper\Windows
+&lt;strong&gt;锁屏壁纸源文件在&lt;/strong&gt;：C:\Windows\Web\Screen
+集成TranslucentTB非常好用的win10任务栏透明工具。轻量级(使用几MB的RAM,几乎没有CPU),可以根据自己的喜好来自定义设置任务栏的透明度，支持在不同的效果之间进行切换，你会发现自己的桌面任务栏很美观。
+&lt;strong&gt;TranslucentTB安装路径在&lt;/strong&gt;：C:\Program Files (x86)\TranslucentTB
+集成字体 雅痞-简体、腾祥爱情体简体、方正少儿_GBK、方正粗圆_GBK、造字工房朗倩常规体等5款字体，文章最后有字体预览图。
+集成右键在此处打开命令行，更加方便使用CMD命令。
+集成右键 用记事本打开文件，方便查看一些文件。
+集成右键 快捷设置 包含 注册表 组策略 计算器 桌面图标 控制面板 系统服务 重启桌面 系统版本。
+启用新的文件夹图标预览
+集成微软常用运行库&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名: V:\【不忘初心美化版】Windows11_LTSC2024_24H2_26100.2605_X64_无更新精简版(2024.12.19).iso
+文件大小: 2342912000 字节
+MD5: 8E3BF6EC73EAD899E33B8637197A071C
+SHA1: 5CEF21176A37E16DC1DE8E303CC87676682B4AD1
+CRC32: 13063468&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOFHL1TCyHw0u4iLJevRRJ8IA1?pwd=br6n&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOFHL1TCyHw0u4iLJevRRJ8IA1?pwd=br6n&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>不忘初心 Windows11 LTSC2024 24H2 (26100.2605) x64 纯净 精简 无更新 (2024.12.19)</title>
+        <link>https://www.danlong360.com/post/58975/</link>
+        <pubDate>Sun, 29 Dec 2024 19:44:04 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/58975/</guid>
+        <description>&lt;p&gt;此版不能更新补丁，并开启按流量计费，母版来自Windows11 24H2 LTSC2024 正式版 ，此版保留Hyper和linux，本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，老机器也可以安装，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/58975/BWCXWin11LTSC2024JJB01.jpg&#34;
+	width=&#34;1280&#34;
+	height=&#34;720&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;不忘初心 Windows11 LTSC2024 24H2 (26100.2605) x64 纯净 精简 无更新&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;windows-11-企业版-ltsc的特性&#34;&gt;Windows 11 企业版 LTSC的特性
+&lt;/h3&gt;&lt;p&gt;Windows 11 企业版 LTSC的特点主要包括稳定性、安全性以及不受强制更新的干扰。‌ 这一版本是微软为企业用户定制的，去除了众多非核心应用，仅保留最基础的功能模块。它的显著优势在于出色的稳定性和安全性，非常适合需要长时间稳定运行的环境‌。&lt;/p&gt;
+&lt;p&gt;具体来说，Windows 11 企业版 LTSC 不会进行功能性的大幅升级，仅针对安全、性能和稳定性进行必要的更新。微软承诺为LTSC版本提供长达5至10年的安全补丁和修复，确保企业用户能够在一个稳定、安全的环境中工作。此外，LTSC版本不包含许多额外的应用，如Edge浏览器、微软商店、Xbox、Skype等，界面、设置、任务栏、开始菜单与普通版Windows 11相似，但性能更好‌。&lt;/p&gt;
+&lt;p&gt;对于特定用户群体，Windows 11 企业版 LTSC 适合拥有老旧硬件的用户以及对系统稳定性有更高要求的企业用户。普通家庭用户可能不是最佳选择，因为其更新频率较低，许多已知的bug可能不会及时修复‌。&lt;/p&gt;
+&lt;h3 id=&#34;更新记录&#34;&gt;更新记录
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;2024.12.19更新记录&lt;/strong&gt;
+#更新安装包 MicrosoftEdgeX64_131.0.2903.86.msi
+#KB5048668（26100.2605）微软官方更新如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;此更新解决了 Windows 操作系统的安全问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名: V:\【不忘初心】Windows11_LTSC2024_24H2_26100.2605_X64_无更新纯净精简版(2024.12.19).iso
+文件大小: 2130214912 字节
+MD5: 91CE0AAC8C607C71E2CF2FD054DD644F
+SHA1: B7B152D4699E3DD1BADBB71164F8C71431C6483C
+CRC32: 2C5ED5DD&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOFHKwD3WAtI6RWwAqisiWv9A1?pwd=nsgj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOFHKwD3WAtI6RWwAqisiWv9A1?pwd=nsgj&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>不忘初心 Windows11 LTSC2024 24H2 (26100.2605) x64 纯净 精简 可更新 (2024.12.18)</title>
+        <link>https://www.danlong360.com/post/36830/</link>
+        <pubDate>Sun, 29 Dec 2024 19:40:25 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/36830/</guid>
+        <description>&lt;p&gt;此版按照可更新补丁制作，但不保证永远更新成功，使用Windows 11 企业版 LTSC正式版作为母盘，保留语言识别TTS、安全中心、Defender、hyper、Linux，本系统自动绕过TPM bios检测，不强制使用微软账号登录，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/36830/BWCXWin1124H2JJB00.jpg&#34;
+	width=&#34;1280&#34;
+	height=&#34;768&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;不忘初心 Windows11 LTSC2024 24H2 (26100.2605) x64 纯净 精简 可更新 &#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;windows-11-企业版-ltsc的特性&#34;&gt;Windows 11 企业版 LTSC的特性
+&lt;/h3&gt;&lt;p&gt;Windows 11 企业版 LTSC的特点主要包括稳定性、安全性以及不受强制更新的干扰。‌ 这一版本是微软为企业用户定制的，去除了众多非核心应用，仅保留最基础的功能模块。它的显著优势在于出色的稳定性和安全性，非常适合需要长时间稳定运行的环境‌。&lt;/p&gt;
+&lt;p&gt;具体来说，Windows 11 企业版 LTSC 不会进行功能性的大幅升级，仅针对安全、性能和稳定性进行必要的更新。微软承诺为LTSC版本提供长达5至10年的安全补丁和修复，确保企业用户能够在一个稳定、安全的环境中工作。此外，LTSC版本不包含许多额外的应用，如Edge浏览器、微软商店、Xbox、Skype等，界面、设置、任务栏、开始菜单与普通版Windows 11相似，但性能更好‌。&lt;/p&gt;
+&lt;p&gt;对于特定用户群体，Windows 11 企业版 LTSC 适合拥有老旧硬件的用户以及对系统稳定性有更高要求的企业用户。普通家庭用户可能不是最佳选择，因为其更新频率较低，许多已知的bug可能不会及时修复‌。&lt;/p&gt;
+&lt;h3 id=&#34;更新记录&#34;&gt;更新记录
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;2024.12.18更新记录&lt;/strong&gt;
+#更新安装包 MicrosoftEdgeX64_131.0.2903.86.msi
+#KB5048668（26100.2605）微软官方更新如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;此更新解决了 Windows 操作系统的安全问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名: V:\【不忘初心】Windows11_LTSC2024_24H2_26100.2605_X64_可更新纯净精简版(2024.12.18).iso
+文件大小: 3163586560 字节
+MD5: DD8C4345EBAE189C69791C4D2B2883A3
+SHA1: 99BDDE41883D6EB04C3391CF2CE35A33CC4ACB0F
+CRC32: 8760AB17&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOFHKlMXE3tTyKr1eEPkv8fbA1?pwd=8u3q&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOFHKlMXE3tTyKr1eEPkv8fbA1?pwd=8u3q&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Windows 11 24H2官方正式版2024年12月版(微软原版ISO镜像)</title>
         <link>https://www.danlong360.com/post/79829/</link>
         <pubDate>Thu, 26 Dec 2024 18:23:21 +0800</pubDate>
