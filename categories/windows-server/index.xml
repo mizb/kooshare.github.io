@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Windows Server on KUL藏宝库</title>
-        <link>https://www.danlong360.com/categories/windows-server/</link>
+        <link>http://localhost:1313/categories/windows-server/</link>
         <description>Recent content in Windows Server on KUL藏宝库</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Thu, 26 Dec 2024 18:20:03 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-server/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 26 Dec 2024 18:20:03 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/windows-server/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Windows Server 2025官方正式版24年12月版(微软原版ISO镜像)</title>
-        <link>https://www.danlong360.com/post/56690/</link>
+        <link>http://localhost:1313/post/56690/</link>
         <pubDate>Thu, 26 Dec 2024 18:20:03 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/56690/</guid>
+        <guid>http://localhost:1313/post/56690/</guid>
         <description>&lt;p&gt;微软Win11服务器版WinSvr2025,微软Win Server 24H2正式版,微软服务器系统Win Server 2025官方最新版,微软原版系统ISO镜像微软Windows Server 2025官方正式版2024年12月更新版完整镜像.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/56690/20241226_062033.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/56690/20241226_062033.png&#34;
 	width=&#34;512&#34;
 	height=&#34;271&#34;
 	
@@ -42,12 +42,12 @@ Microsoft Windows Server 2025 [10.0.26100.2605], Version 24H2 Updated Dec 2024
         </item>
         <item>
         <title>Windows Server 2022官方正式版24年12月版(微软原版ISO镜像)</title>
-        <link>https://www.danlong360.com/post/55380/</link>
+        <link>http://localhost:1313/post/55380/</link>
         <pubDate>Thu, 26 Dec 2024 18:18:56 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/55380/</guid>
+        <guid>http://localhost:1313/post/55380/</guid>
         <description>&lt;p&gt;微软Win10服务器版WinSvr2022,微软Win Server 21H2正式版,微软服务器系统Win Server 2022官方最新版,微软原版系统ISO镜像微软Windows Server 2022官方正式版2024年12月更新版完整镜像.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/55380/18dfc5695929b3d.webp&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/55380/18dfc5695929b3d.webp&#34;
 	width=&#34;639&#34;
 	height=&#34;274&#34;
 	
@@ -75,12 +75,12 @@ Microsoft Windows Server 2022 [10.0.20348.2966], Version 21H2 Updated Nov 2024
         </item>
         <item>
         <title>Windows 7 &amp; Server 2008 R2 7601.27412 18in1镜像</title>
-        <link>https://www.danlong360.com/post/1675/</link>
+        <link>http://localhost:1313/post/1675/</link>
         <pubDate>Fri, 20 Dec 2024 16:38:04 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/1675/</guid>
+        <guid>http://localhost:1313/post/1675/</guid>
         <description>&lt;p&gt;Windows 7系统下载,Windows Serer 2008系统下载.GnDown站点提供原版集成2024年截止12月份更新完整版ISO镜像下载.微软于2020年1月15号正式停止对Windows7操作系统的支持,目前Windows系统的市场占有率来看仍旧有大量用户,部分用户认为无论是日常办公还是玩游戏,Win7的兼容性都要优于Win11系统.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/1675/image-20241220163930502.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/1675/image-20241220163930502.png&#34;
 	width=&#34;647&#34;
 	height=&#34;418&#34;
 	
@@ -137,12 +137,12 @@ MD5：1f5c34a1016bbc932b160efc7b55343c&lt;/p&gt;
         </item>
         <item>
         <title>Windows Server 2025 24H2 (26100.2605) 集成镜像 (2024年12月)</title>
-        <link>https://www.danlong360.com/post/30404/</link>
+        <link>http://localhost:1313/post/30404/</link>
         <pubDate>Thu, 12 Dec 2024 23:35:16 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/30404/</guid>
+        <guid>http://localhost:1313/post/30404/</guid>
         <description>&lt;p&gt;此页提供的Windows Server 2025系统为微软官方原版集成累积更新补丁的完整版ISO镜像。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/30404/Windows-Server-2025.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/30404/Windows-Server-2025.jpg&#34;
 	width=&#34;1080&#34;
 	height=&#34;608&#34;
 	
@@ -191,10 +191,10 @@ KB5048162（24年11月 .net 累积更新）（11月22日）&lt;/p&gt;
         </item>
         <item>
         <title>Windows Server 2025 24H2 (26100.2454)</title>
-        <link>https://www.danlong360.com/post/1532/</link>
+        <link>http://localhost:1313/post/1532/</link>
         <pubDate>Sun, 24 Nov 2024 20:27:08 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/1532/</guid>
+        <guid>http://localhost:1313/post/1532/</guid>
         <description>&lt;p&gt;Win10服务器版下载,微软服务器系统Win10 Server 2022正式版,微软Win10 Server 21H2正式版,Win10 Build 20348累积更新正式版.Windows 10 Server 2022正式版首个初始版官方ISO镜像22年8月推出,版本21H2,内部版20348&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/24/jkXCL92NSlzBsWt.png&#34;
 	
@@ -241,10 +241,10 @@ Windows Server 2025 Azure Stack HCI&lt;/p&gt;
         </item>
         <item>
         <title>Windows Server 2025官方正式版24年11月版(微软原版ISO镜像)</title>
-        <link>https://www.danlong360.com/post/85515/</link>
+        <link>http://localhost:1313/post/85515/</link>
         <pubDate>Wed, 20 Nov 2024 19:55:35 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/85515/</guid>
+        <guid>http://localhost:1313/post/85515/</guid>
         <description>&lt;p&gt;微软Win11服务器版WinSvr2025,微软Win Server 24H2正式版,微软服务器系统Win Server 2025官方最新版,微软原版系统ISO镜像微软Windows Server 2025官方正式版2024年11月更新版完整镜像&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/20/IG2RmfVHn86TYON.png&#34;
 	
@@ -270,10 +270,10 @@ Microsoft Windows Server 2025 [10.0.26100.2314], Version 24H2 Updated Nov 2024
         </item>
         <item>
         <title>Windows Server 2022官方正式版24年11月版(微软原版ISO镜像)</title>
-        <link>https://www.danlong360.com/post/7823/</link>
+        <link>http://localhost:1313/post/7823/</link>
         <pubDate>Wed, 20 Nov 2024 19:53:58 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/7823/</guid>
+        <guid>http://localhost:1313/post/7823/</guid>
         <description>&lt;p&gt;微软Win10服务器版WinSvr2022,微软Win Server 21H2正式版,微软服务器系统Win Server 2022官方最新版,微软原版系统ISO镜像微软Windows Server 2022官方正式版2024年11月更新版完整镜像&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/20/HKQLFvzOZbCIVwG.webp&#34;
 	

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Windows 7 on KUL藏宝库</title>
-        <link>https://www.danlong360.com/categories/windows-7/</link>
+        <link>http://localhost:1313/categories/windows-7/</link>
         <description>Recent content in Windows 7 on KUL藏宝库</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 23 Dec 2024 12:38:01 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 23 Dec 2024 12:38:01 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/windows-7/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>不忘初心 Windows7 SP1 专业版 旗舰版 (7601. 27467) IE8 IE11 x64 精简 美化版 太阳谷 (2024.12.17)</title>
-        <link>https://www.danlong360.com/post/90215/</link>
+        <link>http://localhost:1313/post/90215/</link>
         <pubDate>Mon, 23 Dec 2024 12:38:01 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/90215/</guid>
+        <guid>http://localhost:1313/post/90215/</guid>
         <description>&lt;p&gt;不忘初心美化版Windows7，集成4K高清壁纸，太阳谷图标，以及替换开始菜单图标，和以往不同的是，此次的太阳谷图标来自于Windows11，共修改替换了26个系统文件之多，之前的太阳谷只有3个，并对细节进行了精心处理，虽然是老系统，但是看上去一点也不老，这外观一点也不输Windows11，后续我们将会不断进行改进和完善。
 全新的优化、集成、精简方案，这版将近用了几个月的时间去深入研究，和上版相比，新版本的改进将性能提升到了一个更高的水平。新版解决部分新机型卡LOGO问题，支持部分7/8/9/10/11/12/13代CPU机器安装，本版以Win7旗舰版和专业版64位为核心，包含ESU补丁已经打到2023年12月最新，包含所有的重要更新，配合BypassESU-v12可正常更新补丁，考虑到政企有两个版本特意保留了IE8浏览器，以及集成政企公文必备的字体，另外所有版本均保留Win7经典的游戏，驱动方面集成NVME驱动 USB3.0/3.1驱动 、以及其他各种除显卡外的大量驱动，通过精简不必要的组件，优化进程服务、启动项等加快速度，经测试运行稳定，此版安装过程最快只需要5-6分钟，大大改善了装机等待时间。长期使用不容易变慢，始终保持极速，是大家老配置机器装机、政企办公的最佳选择。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/90215/BWCXWindows7MHB2023092304.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/90215/BWCXWindows7MHB2023092304.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;563&#34;
 	
@@ -163,10 +163,10 @@ CRC32: 419F8764&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows7 SP1 专业版 旗舰版 (7601.27467) IE8 IE11 x64 精简版 (2024.12.17)</title>
-        <link>https://www.danlong360.com/post/35645/</link>
+        <link>http://localhost:1313/post/35645/</link>
         <pubDate>Mon, 23 Dec 2024 12:35:25 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/35645/</guid>
+        <guid>http://localhost:1313/post/35645/</guid>
         <description>&lt;p&gt;时隔两年再次更新WIN7，高品质全新的优化、集成、精简方案，这版将近用了几个月的时间去深入研究，和上版相比，新版本的改进将性能提升到了一个更高的水平。新版解决部分新机型卡LOGO问题，支持部分7/8/9/10/11/12/13代CPU机器安装，本版以Win7旗舰版和专业版64位为核心，包含ESU补丁已经打到2024年12月最新，包含所有的重要更新，配合BypassESU-v12可正常更新补丁，考虑到政企有两个版本特意保留了IE8浏览器，以及集成政企公文必备的字体，另外所有版本均保留Win7经典的游戏，驱动方面集成NVME驱动 USB3.0/3.1驱动 、以及其他各种除显卡外的大量驱动，通过精简不必要的组件，优化进程服务、启动项等加快速度，经测试运行稳定，此版安装过程最快只需要5-6分钟，大大改善了装机等待时间。长期使用不容易变慢，始终保持极速，是大家老配置机器装机、政企办公的最佳选择。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;器需要进BIOS更改设置：&lt;/strong&gt;
 Secure Boot 设置为关闭或者Disabled【禁用启动安全检查，这个最重要】
@@ -178,7 +178,7 @@ UEFI/Legacy 设置 Legacy+MBR硬盘分区 或UEFI+GPT硬盘分区 。&lt;/p&gt;
 支持部分7/8/9/10/11/12/13代机器但不是所有，7代以后的机器非必要不推荐安装，驱动可能找不全（驱动问题请自行解决），另外8代之后的机器尤其是笔记本如果主板没有“CSM Support”设置选项的可能还是会卡在四叶草LOGO无法安装，另外AX200/210 等WIFI6网卡市面上都没有驱动哦。
 7代之后的机器未避免踩坑，可以先下载此精简版的原版系统测试，如果不卡LOGO再安装精简版&lt;/p&gt;
 &lt;p&gt;如果你是1-6代机器，或者正在使用Win7，以上的&amp;quot;注意事项&amp;quot;请忽略，放心安装。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/35645/BWCXWindows72023092104.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/35645/BWCXWindows72023092104.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;563&#34;
 	
@@ -395,12 +395,12 @@ CRC32: 3D1342A1&lt;/p&gt;
         </item>
         <item>
         <title>Windows 7 &amp; Server 2008 R2 7601.27412 18in1镜像</title>
-        <link>https://www.danlong360.com/post/1675/</link>
+        <link>http://localhost:1313/post/1675/</link>
         <pubDate>Fri, 20 Dec 2024 16:38:04 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/1675/</guid>
+        <guid>http://localhost:1313/post/1675/</guid>
         <description>&lt;p&gt;Windows 7系统下载,Windows Serer 2008系统下载.GnDown站点提供原版集成2024年截止12月份更新完整版ISO镜像下载.微软于2020年1月15号正式停止对Windows7操作系统的支持,目前Windows系统的市场占有率来看仍旧有大量用户,部分用户认为无论是日常办公还是玩游戏,Win7的兼容性都要优于Win11系统.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/1675/image-20241220163930502.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/1675/image-20241220163930502.png&#34;
 	width=&#34;647&#34;
 	height=&#34;418&#34;
 	
@@ -457,10 +457,10 @@ MD5：1f5c34a1016bbc932b160efc7b55343c&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows7 SP1 专业版 旗舰版 (7601. 27366) IE8 IE11 x64 精简 美化版 太阳谷 (2024.10.11) 新增两款字体</title>
-        <link>https://www.danlong360.com/post/1249/</link>
+        <link>http://localhost:1313/post/1249/</link>
         <pubDate>Tue, 15 Oct 2024 23:32:30 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/1249/</guid>
+        <guid>http://localhost:1313/post/1249/</guid>
         <description>&lt;p&gt;不忘初心美化版 Windows7，集成 4K 高清壁纸，太阳谷图标，以及替换开始菜单图标，和以往不同的是，此次的太阳谷图标来自于 Windows11，共修改替换了 26 个系统文件之多，之前的太阳谷只有 3 个，并对细节进行了精心处理，虽然是老系统，但是看上去一点也不老，这外观一点也不输 Windows11，后续我们将会不断进行改进和完善。
 全新的优化、集成、精简方案，这版将近用了几个月的时间去深入研究，和上版相比，新版本的改进将性能提升到了一个更高的水平。新版解决部分新机型卡 LOGO 问题，支持部分 7/8/9/10/11/12/13 代 CPU 机器安装，本版以 Win7 旗舰版和专业版 64 位为核心，包含 ESU 补丁已经打到 2023 年 9 月最新，包含所有的重要更新，配合 BypassESU-v12 可正常更新补丁，考虑到政企有两个版本特意保留了 IE8 浏览器，以及集成政企公文必备的字体，另外所有版本均保留 Win7 经典的游戏，驱动方面集成 NVME 驱动 USB3.0/3.1 驱动 、以及其他各种除显卡外的大量驱动，通过精简不必要的组件，优化进程服务、启动项等加快速度，经测试运行稳定，此版安装过程最快只需要 5-6 分钟，大大改善了装机等待时间。长期使用不容易变慢，始终保持极速，是大家老配置机器装机、政企办公的最佳选择。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;机器需要进 BIOS 更改设置：&lt;/strong&gt;
@@ -699,10 +699,10 @@ CRC32 ：D98D8312&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows7 SP1 专业版 旗舰版 (7601.27366) IE8 IE11 x64 精简版 (2024.10.10)</title>
-        <link>https://www.danlong360.com/post/1660/</link>
+        <link>http://localhost:1313/post/1660/</link>
         <pubDate>Tue, 15 Oct 2024 23:28:41 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/1660/</guid>
+        <guid>http://localhost:1313/post/1660/</guid>
         <description>&lt;p&gt;时隔两年再次更新 WIN7，高品质全新的优化、集成、精简方案，这版将近用了几个月的时间去深入研究，和上版相比，新版本的改进将性能提升到了一个更高的水平。新版解决部分新机型卡 LOGO 问题，支持部分 7/8/9/10/11/12/13 代 CPU 机器安装，本版以 Win7 旗舰版和专业版 64 位为核心，包含 ESU 补丁已经打到 2023 年 9 月最新，包含所有的重要更新，配合 BypassESU-v12 可正常更新补丁，考虑到政企有两个版本特意保留了 IE8 浏览器，以及集成政企公文必备的字体，另外所有版本均保留 Win7 经典的游戏，驱动方面集成 NVME 驱动 USB3.0/3.1 驱动 、以及其他各种除显卡外的大量驱动，通过精简不必要的组件，优化进程服务、启动项等加快速度，经测试运行稳定，此版安装过程最快只需要 5-6 分钟，大大改善了装机等待时间。长期使用不容易变慢，始终保持极速，是大家老配置机器装机、政企办公的最佳选择。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;机器需要进 BIOS 更改设置：&lt;/strong&gt;
 Secure Boot 设置为关闭或者 Disabled【禁用启动安全检查，这个最重要】
@@ -940,10 +940,10 @@ CRC32: 9434ABB4&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows7 SP1 专业版 旗舰版 (7601.27277) IE8 IE11 x64 精简版 (2024.08.17)</title>
-        <link>https://www.danlong360.com/post/buwangchuxin27277jingjianban/</link>
+        <link>http://localhost:1313/post/buwangchuxin27277jingjianban/</link>
         <pubDate>Mon, 26 Aug 2024 00:11:51 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxin27277jingjianban/</guid>
+        <guid>http://localhost:1313/post/buwangchuxin27277jingjianban/</guid>
         <description>&lt;p&gt;时隔两年再次更新 WIN7，高品质全新的优化、集成、精简方案，这版将近用了几个月的时间去深入研究，和上版相比，新版本的改进将性能提升到了一个更高的水平。新版解决部分新机型卡 LOGO 问题，支持部分 7/8/9/10/11/12/13 代 CPU 机器安装，本版以 Win7 旗舰版和专业版 64 位为核心，包含 ESU 补丁已经打到 2023 年 9 月最新，包含所有的重要更新，配合 BypassESU-v12 可正常更新补丁，考虑到政企有两个版本特意保留了 IE8 浏览器，以及集成政企公文必备的字体，另外所有版本均保留 Win7 经典的游戏，驱动方面集成 NVME 驱动 USB3.0/3.1 驱动 、以及其他各种除显卡外的大量驱动，通过精简不必要的组件，优化进程服务、启动项等加快速度，经测试运行稳定，此版安装过程最快只需要 5-6 分钟，大大改善了装机等待时间。长期使用不容易变慢，始终保持极速，是大家老配置机器装机、政企办公的最佳选择。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;机器需要进 BIOS 更改设置：&lt;/strong&gt;
 Secure Boot 设置为关闭或者 Disabled【禁用启动安全检查，这个最重要】
@@ -1368,10 +1368,10 @@ CRC32 ：C61DDC33&lt;/p&gt;
         </item>
         <item>
         <title>不忘初心 Windows7 SP1 专业版 旗舰版 (7601. 27277) IE8 IE11 x64 精简 美化版 太阳谷 (2024.08.18)</title>
-        <link>https://www.danlong360.com/post/buwangchuxinwin727277/</link>
+        <link>http://localhost:1313/post/buwangchuxinwin727277/</link>
         <pubDate>Mon, 26 Aug 2024 00:06:03 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/buwangchuxinwin727277/</guid>
+        <guid>http://localhost:1313/post/buwangchuxinwin727277/</guid>
         <description>&lt;p&gt;不忘初心美化版 Windows7，集成 4K 高清壁纸，太阳谷图标，以及替换开始菜单图标，和以往不同的是，此次的太阳谷图标来自于 Windows11，共修改替换了 26 个系统文件之多，之前的太阳谷只有 3 个，并对细节进行了精心处理，虽然是老系统，但是看上去一点也不老，这外观一点也不输 Windows11，后续我们将会不断进行改进和完善。&lt;/p&gt;
 &lt;p&gt;全新的优化、集成、精简方案，这版将近用了几个月的时间去深入研究，和上版相比，新版本的改进将性能提升到了一个更高的水平。新版解决部分新机型卡 LOGO 问题，支持部分 7/8/9/10/11/12/13 代 CPU 机器安装，本版以 Win7 旗舰版和专业版 64 位为核心，包含 ESU 补丁已经打到 2023 年 9 月最新，包含所有的重要更新，配合 BypassESU-v12 可正常更新补丁，考虑到政企有两个版本特意保留了 IE8 浏览器，以及集成政企公文必备的字体，另外所有版本均保留 Win7 经典的游戏，驱动方面集成 NVME 驱动 USB3.0/3.1 驱动 、以及其他各种除显卡外的大量驱动，通过精简不必要的组件，优化进程服务、启动项等加快速度，经测试运行稳定，此版安装过程最快只需要 5-6 分钟，大大改善了装机等待时间。长期使用不容易变慢，始终保持极速，是大家老配置机器装机、政企办公的最佳选择。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;机器需要进 BIOS 更改设置：&lt;/strong&gt;

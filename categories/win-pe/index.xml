@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Win PE on KUL藏宝库</title>
-        <link>https://www.danlong360.com/categories/win-pe/</link>
+        <link>http://localhost:1313/categories/win-pe/</link>
         <description>Recent content in Win PE on KUL藏宝库</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 27 Dec 2024 19:29:17 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/win-pe/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Dec 2024 19:29:17 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/win-pe/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>★最全驱动PE★全内置无网维护~声显网蓝牙全能VIP版&#43;增强启动制作工具【2024-12-26】</title>
-        <link>https://www.danlong360.com/post/64434/</link>
+        <link>http://localhost:1313/post/64434/</link>
         <pubDate>Fri, 27 Dec 2024 19:29:17 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/64434/</guid>
+        <guid>http://localhost:1313/post/64434/</guid>
         <description>&lt;p&gt;无忧论坛大佬 情深梦缘 制作的 PE ，集成非常多驱动，集维护、办公、娱乐为一体！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/64434/image.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/64434/image.png&#34;
 	width=&#34;1920&#34;
 	height=&#34;1080&#34;
 	
@@ -65,12 +65,12 @@ VBS支持
         </item>
         <item>
         <title>Universal USB Installer(可启动U盘制作工具) v2.0.2.6</title>
-        <link>https://www.danlong360.com/post/12347/</link>
+        <link>http://localhost:1313/post/12347/</link>
         <pubDate>Fri, 27 Dec 2024 15:21:14 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/12347/</guid>
+        <guid>http://localhost:1313/post/12347/</guid>
         <description>&lt;p&gt;Universal USB Installer是一款功能强大的软件，它的主要功能是通过将ISO镜像文件安装到USB闪存驱动器上，创建可启动的USB安装介质。这样，您可以使用USB驱动器来安装各种操作系统或软件。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/12347/20241227_032132.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/12347/20241227_032132.png&#34;
 	width=&#34;499&#34;
 	height=&#34;388&#34;
 	
@@ -101,12 +101,12 @@ VBS支持
         </item>
         <item>
         <title>优启通VIP版(U盘启动盘制作工具) v3.7.2024.1204</title>
-        <link>https://www.danlong360.com/post/43989/</link>
+        <link>http://localhost:1313/post/43989/</link>
         <pubDate>Sat, 14 Dec 2024 16:34:59 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/43989/</guid>
+        <guid>http://localhost:1313/post/43989/</guid>
         <description>&lt;p&gt;优启通VIP版(EasyU,简称EU)是IT天空打造的一款专业U盘启动盘制作工具,优启通工具采用U盘三分区方案,支持BIOS(Legacy)与UEFI双启动模式,在支持主流硬件基础上,同时兼容早期多数旧硬件.整合各种装机必备工具,并结合IT天空数款自研软件,有效提高系统安装效率.U盘PE所在分区于系统下自动隐藏,PE区与数据区分别独立,便于使用者对数据的各项操作.优启通WinPE系统定位于一线装机技术员,系统工程师和系统维护人员.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/43989/20241214_043528.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/43989/20241214_043528.png&#34;
 	width=&#34;582&#34;
 	height=&#34;400&#34;
 	
@@ -149,12 +149,12 @@ v3.7.2024.1204
         </item>
         <item>
         <title>WinToUSB(U盘安装操作系统工具) v9.4.0.2 多语便携版</title>
-        <link>https://www.danlong360.com/post/76664/</link>
+        <link>http://localhost:1313/post/76664/</link>
         <pubDate>Tue, 10 Dec 2024 18:40:43 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/76664/</guid>
+        <guid>http://localhost:1313/post/76664/</guid>
         <description>&lt;p&gt;WinToUSB是一款免费的Windows To Go制作工具，可以帮助用户在U盘上创建可移动的Windows系统，从而在不同的电脑上使用自己的个性化系统。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/76664/7ab9523ec28013f.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/76664/7ab9523ec28013f.png&#34;
 	width=&#34;640&#34;
 	height=&#34;443&#34;
 	
@@ -196,10 +196,10 @@ v3.7.2024.1204
         </item>
         <item>
         <title>WinToUSB(U盘安装操作系统工具) v9.2.0.2 多语便携版</title>
-        <link>https://www.danlong360.com/post/15338/</link>
+        <link>http://localhost:1313/post/15338/</link>
         <pubDate>Fri, 01 Nov 2024 23:01:39 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/15338/</guid>
+        <guid>http://localhost:1313/post/15338/</guid>
         <description>&lt;p&gt;WinToUSB是一款免费的Windows To Go制作工具，可以帮助用户在U盘上创建可移动的Windows系统，从而在不同的电脑上使用自己的个性化系统。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/11/01/odLGsKTQ3Np7aCh.png&#34;
 	
@@ -239,10 +239,10 @@ v3.7.2024.1204
         </item>
         <item>
         <title>优启通VIP版(U盘启动盘制作工具) v3.7.2024.1025</title>
-        <link>https://www.danlong360.com/post/94391/</link>
+        <link>http://localhost:1313/post/94391/</link>
         <pubDate>Wed, 30 Oct 2024 17:55:41 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/94391/</guid>
+        <guid>http://localhost:1313/post/94391/</guid>
         <description>&lt;p&gt;优启通VIP版(EasyU,简称EU)是IT天空打造的一款专业U盘启动盘制作工具,优启通工具采用U盘三分区方案,支持BIOS(Legacy)与UEFI双启动模式,在支持主流硬件基础上,同时兼容早期多数旧硬件.整合各种装机必备工具,并结合IT天空数款自研软件,有效提高系统安装效率.U盘PE所在分区于系统下自动隐藏,PE区与数据区分别独立,便于使用者对数据的各项操作.优启通WinPE系统定位于一线装机技术员,系统工程师和系统维护人员.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/30/CM1xcXQY38Rzola.png&#34;
 	
@@ -282,52 +282,11 @@ v3.7.2024.1204
 </description>
         </item>
         <item>
-        <title>Rufus中文版(U盘引导盘制作工具) v4.6.2208 中文绿色版</title>
-        <link>https://www.danlong360.com/post/61552/</link>
-        <pubDate>Tue, 22 Oct 2024 10:04:33 +0800</pubDate>
-        
-        <guid>https://www.danlong360.com/post/61552/</guid>
-        <description>&lt;p&gt;Rufus 是一款免费的开源软件，主要用于创建引导式 USB 启动盘。它可以帮助用户将 ISO 镜像文件写入 USB 闪存驱动器，使其成为可引导的安装介质，从而方便用户安装操作系统或进行系统恢复。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/22/uOTQq83S1ar26J4.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;GrayFraserGitSiYuanLocal&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;h3 id=&#34;软件特色&#34;&gt;软件特色
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;支持多种文件系统格式：Rufus 支持 FAT16、FAT32、NTFS、UDF 等多种文件系统格式，并可在 ISO/IMG/ZIP 等多种格式的映像文件之间切换。&lt;/li&gt;
-&lt;li&gt;支持多种操作系统：Rufus 支持制作 Windows、Linux、FreeDOS 等多种操作系统的可引导磁盘，用户可以根据需要选择不同的操作系统。&lt;/li&gt;
-&lt;li&gt;界面简洁易用：Rufus 的界面简洁明了，操作简单易学，即使是初学者也可以轻松制作可引导磁盘。&lt;/li&gt;
-&lt;li&gt;支持 UEFI/BIOS 引导：Rufus 支持 UEFI 和 BIOS 两种启动方式，用户可以根据计算机的启动模式进行选择，方便快捷。&lt;/li&gt;
-&lt;li&gt;支持文件损坏检查：Rufus 内置了 MD5、SHA-1、SHA-256 等多种文件损坏检查功能，确保制作出来的磁盘文件完整性。&lt;/li&gt;
-&lt;li&gt;具备可移动性：Rufus 不需要安装，可以直接将软件拷贝至 U 盘中，随时随地制作可引导磁盘。&lt;/li&gt;
-&lt;li&gt;支持多种语言：Rufus 支持多种语言界面，包括英语、中文、法语、德语、韩语等，满足不同用户的使用需求。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
-&lt;/h3&gt;&lt;p&gt;版本 4.6 (2024.10.21)
-Add a new setup.exe wrapper to bypass Windows 11 24H2 in-place upgrade restrictions
-Add TimeZone to regional options replication
-Set local account passwords to not expire by default
-Fix an error when trying to write compressed VHD images
-Fix an error when invoking Rufus from the PowerShell commandline
-Improve revoked UEFI bootloaders check to support Linux SBAT, Windows SVN and cert DBX
-Improve support for ReactOS boot media&lt;/p&gt;
-&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
-&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VO9m175QpTSV6dGWWd5XcQ0qA1?pwd=m5gi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://pan.xunlei.com/s/VO9m175QpTSV6dGWWd5XcQ0qA1?pwd=m5gi&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>玩酷之家启动U盘制作工具 v11.0.0 中文绿色版</title>
-        <link>https://www.danlong360.com/post/367/</link>
+        <link>http://localhost:1313/post/367/</link>
         <pubDate>Sun, 20 Oct 2024 22:58:45 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/367/</guid>
+        <guid>http://localhost:1313/post/367/</guid>
         <description>&lt;p&gt;玩酷之家启动 U 盘制作工具 CoolStartup 是由 玩酷之家论坛雅铭居士开发，为优盘启动三分区方案制作工具，支持免格升级，工具以发布 PE 为目的，以适应菜鸟为目的。功能简单！只需将你的 UD 映像（.FBA）、EFI 映像（.ISO)、外置包（.7z 非必要）放在本程序的目录下或目录下的 PE 文件夹下，即可开始一键制作。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/20/EAZkmYcGqCIfs2b.png&#34;
 	
@@ -350,10 +309,10 @@ Improve support for ReactOS boot media&lt;/p&gt;
         </item>
         <item>
         <title>balenaEtcher(U盘镜像制作工具) v1.19.25 中文绿色版</title>
-        <link>https://www.danlong360.com/post/976/</link>
+        <link>http://localhost:1313/post/976/</link>
         <pubDate>Fri, 11 Oct 2024 11:35:58 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/976/</guid>
+        <guid>http://localhost:1313/post/976/</guid>
         <description>&lt;p&gt;BalenaEtcher 是一款操作简单且兼容多种操作系统的烧写工具，你可以用它来快速将镜像文件烧写到 USB 设备、SD 卡或其他外部储存设备上。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/wUpTEzBf9Mb8jPZ.png&#34;
 	
@@ -387,10 +346,10 @@ Improve support for ReactOS boot media&lt;/p&gt;
         </item>
         <item>
         <title>Rufus中文版(U盘引导盘制作工具) v4.5 / 4.6 Beta 中文绿色版</title>
-        <link>https://www.danlong360.com/post/9416/</link>
+        <link>http://localhost:1313/post/9416/</link>
         <pubDate>Fri, 11 Oct 2024 11:34:47 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/9416/</guid>
+        <guid>http://localhost:1313/post/9416/</guid>
         <description>&lt;p&gt;Rufus 是一款免费的开源软件，主要用于创建引导式 USB 启动盘。它可以帮助用户将 ISO 镜像文件写入 USB 闪存驱动器，使其成为可引导的安装介质，从而方便用户安装操作系统或进行系统恢复。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2024/10/11/mUaqgHvT9f34woX.png&#34;
 	
@@ -431,10 +390,10 @@ Don&amp;rsquo;t display the WUE dialog when a conflicting unattend.xml already e
         </item>
         <item>
         <title>EasyU(优启通) v3.7.2024.0918 VIP版</title>
-        <link>https://www.danlong360.com/post/easyu0918/</link>
+        <link>http://localhost:1313/post/easyu0918/</link>
         <pubDate>Tue, 24 Sep 2024 13:46:48 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/easyu0918/</guid>
+        <guid>http://localhost:1313/post/easyu0918/</guid>
         <description>&lt;p&gt;优启通是 IT 天空出品的一款 U 盘启动制作工具，提供的 PE 系统方便好用，是唯一一个官方纯净并且还维护的系统。软件不仅附带 Win10 PE,还附带 Win2003 PE 系统，兼容性高。&lt;/p&gt;
 &lt;p&gt;优启通（EasyU，简称 EU）是 IT 天空精心打造的一款系统预安装环境（PE），它具有简约、易操作等特点，使用起来十分人性化。以 U 盘作为使用载体，空间更为充分，携带更为方便。同时整合各种装机必备工具，并结合 IT 天空数款自研软件，有效提高系统安装效率。新优启通将为大家带来全新的用户体验！&lt;/p&gt;
 &lt;p&gt;定位：优启通定位于一线装机技术员、系统工程师和系统维护人员，在广泛兼容、稳定耐用、快速启动、体积小巧等多方面找到一位最为合适的平衡点。优启通的打造过程结合了大量一线工作者的经验与需求，并经过了严格的测试，尽一切可能贴近使用者的实际需求，倾力将优启通打造为一线装机工程师们的利刃。&lt;/p&gt;
@@ -468,10 +427,10 @@ Don&amp;rsquo;t display the WUE dialog when a conflicting unattend.xml already e
         </item>
         <item>
         <title>USBOS V3.0 标准版/增强版(更新到2024.08.25)</title>
-        <link>https://www.danlong360.com/post/usbosv3.0/</link>
+        <link>http://localhost:1313/post/usbosv3.0/</link>
         <pubDate>Thu, 29 Aug 2024 09:00:09 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/usbosv3.0/</guid>
+        <guid>http://localhost:1313/post/usbosv3.0/</guid>
         <description>&lt;h3 id=&#34;增强版介绍&#34;&gt;增强版介绍
 &lt;/h3&gt;&lt;p&gt;ISO 版与 UD 版合体，总体积 1.62GB&amp;ndash;3.0GB（视是否拓展）！
 USBOS V3 是计算机超级维护工具，此话怎讲？
@@ -572,10 +531,10 @@ Intel Serial IO 30.100.2351.81、RST-VMD 20.1.0.1015.1 WHQL。&lt;/p&gt;
         </item>
         <item>
         <title>优启通VIP版 3.7.2024.0720 (启动盘制作) 绿色版</title>
-        <link>https://www.danlong360.com/post/youqitong/</link>
+        <link>http://localhost:1313/post/youqitong/</link>
         <pubDate>Tue, 13 Aug 2024 00:41:43 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/youqitong/</guid>
+        <guid>http://localhost:1313/post/youqitong/</guid>
         <description>&lt;p&gt;优启通 VIP 版(EasyU,简称 EU)是 IT 天空打造的一款专业 U 盘启动盘制作工具,优启通工具采用 U 盘三分区方案,支持 BIOS(Legacy)与 UEFI 双启动模式,在支持主流硬件基础上,同时兼容早期多数旧硬件.整合各种装机必备工具,并结合 IT 天空数款自研软件,有效提高系统安装效率.U 盘 PE 所在分区于系统下自动隐藏,PE 区与数据区分别独立,便于使用者对数据的各项操作.优启通 WinPE 系统定位于一线装机技术员,系统工程师和系统维护人员.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.rjcxb.com/img/cover/windows/395/01.jpg&#34;
 	
@@ -610,10 +569,10 @@ Intel Serial IO 30.100.2351.81、RST-VMD 20.1.0.1015.1 WHQL。&lt;/p&gt;
         </item>
         <item>
         <title>杏雨梨云启动维护系统2024端午版v4 (杏雨梨云PE) 绿色版</title>
-        <link>https://www.danlong360.com/post/xingyuliyun/</link>
+        <link>http://localhost:1313/post/xingyuliyun/</link>
         <pubDate>Tue, 13 Aug 2024 00:40:18 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/xingyuliyun/</guid>
+        <guid>http://localhost:1313/post/xingyuliyun/</guid>
         <description>&lt;p&gt;杏雨梨云 USB 维护系统是一款知名的老牌 U 盘启动系统制作工具,杏雨梨云启动维护系统 2024 端午版提供个人开发的第十代 IQI X Windows 一键安装系统工具及 OBR 一键备份&amp;amp;一键还原,IQI 一键分区等人性化功能.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;含标准版、精简版、备选组件
@@ -654,10 +613,10 @@ V4 更新：
         </item>
         <item>
         <title>蜂鸟PE 2.4.1 (PE系统) 绿色版</title>
-        <link>https://www.danlong360.com/post/fengniaope/</link>
+        <link>http://localhost:1313/post/fengniaope/</link>
         <pubDate>Tue, 13 Aug 2024 00:38:44 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/fengniaope/</guid>
+        <guid>http://localhost:1313/post/fengniaope/</guid>
         <description>&lt;p&gt;蜂鸟 PE 使用批处理构建，WimBuilder2 处理注册表整合而成的维护 PE，是一个以维护为目的的 PE，励志做一个安全、小巧、稳定、流畅、可靠的 WinPE。蜂鸟 PE，小而强悍的 WinPE 维护系统，支持：笔记本电量显示、Bitlocker、Linux 分区、VHD 虚拟磁盘 等功能。&lt;/p&gt;
 &lt;h2 id=&#34;pe-特点&#34;&gt;PE 特点
 &lt;/h2&gt;&lt;p&gt;• 精简的文件内核与注册表
@@ -675,10 +634,10 @@ V4 更新：
         </item>
         <item>
         <title>微PE工具箱 2.3 官方版</title>
-        <link>https://www.danlong360.com/post/weipegongjuxiang/</link>
+        <link>http://localhost:1313/post/weipegongjuxiang/</link>
         <pubDate>Tue, 13 Aug 2024 00:16:17 +0800</pubDate>
         
-        <guid>https://www.danlong360.com/post/weipegongjuxiang/</guid>
+        <guid>http://localhost:1313/post/weipegongjuxiang/</guid>
         <description>&lt;p&gt;微 PE 工具箱是一款免费纯净无广告的 WinPE 装机维护工具.WePE 工具箱是装机维护最得力的助手,最后救命稻草.化繁为简,小材大用,一键安装,极速启动.微 PE 工具箱,最好用的 PE 启动盘,没有之一.无任何广告推广,内核完整精简,性价比超高的第三方工具合集.WePE2.3 最新版采用全新 Win10PE 内核,堪称最好用的全能 PE 维护系统.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;新版变化&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;微 PE 工具箱 – 官网
