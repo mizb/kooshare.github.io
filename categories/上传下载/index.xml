@@ -7,7 +7,219 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 01 Jan 2025 19:25:41 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 02 Jan 2025 19:06:10 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>闪豆视频下载器(视频批量下载器) v4.0.0.0-2024.12.30</title>
+        <link>https://www.danlong360.com/post/637785/</link>
+        <pubDate>Thu, 02 Jan 2025 19:06:10 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/637785/</guid>
+        <description>&lt;p&gt;闪豆视频下载器是一款强大的闪豆多平台视频批量下载器,支持解析多个视频站,支持批量下载,转码自动合并,登录网站账号,解析下载会员视频,例如B站还能同步账号信息,一键批量下载关注的视频,收藏列表,番剧等等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/637785/20250102_070622.png&#34;
+	width=&#34;640&#34;
+	height=&#34;428&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;149&#34;
+		data-flex-basis=&#34;358px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1、闪豆多平台视频批量下载器，功能强大!
+2、支持下载B站(哔哩哔哩),抖音,TikTok,油管(YouTube)等视频
+3、支持批量下载，支持单独分开下载封面、音频、弹幕、字幕等
+4、支持下载画质，4K、1080p60、720p60、1080+、720p、480p、360p
+5、可以查看up博主的相关信息，比如up主频道名称、up主签名、粉丝数等等&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;2024.12.20
+【更新】例行更新解析插件
+2024年11月26
+【增加】皖教云、上海空中课堂等资源解析下载
+【增加】抖音收藏夹列表解析下载，增加[收藏夹名称]规则
+【增加】企鹅体育解析下载
+【增加】浙江卫视、Z视介解析
+【增加】12371视频下载
+【增加】北京时间电视栏目解析下载
+【增加】Instagram解析下载
+【增加】优先下载高码选项，部分站点可优先下载高码视频
+【修复】芒果TV下载，适配avc hevc编码
+【修复】文件名带.mp4字符导致分段合并失败的问题
+【修复】B站字幕下载状态，字幕接口已鉴权， 下载字幕需要登录后下载
+【修复】列表多选全选操作某些情况下失效，增加支持Shift键和Alt键多选
+【删除】部分失效站点&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;闪豆下载器最新版,闪豆视频下载器绿色版,闪豆多平台视频批量下载器&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;取消首次启动使用须知弹窗，并反汇编修改禁止启动强制下载安装恒星播放器&lt;/li&gt;
+&lt;li&gt;解压了主程序UPX壳，禁止启动强制性添加右键哔哩哔哩一键智能转码菜单项&lt;/li&gt;
+&lt;li&gt;切断了自动更新，禁止强制下载升级程序；优化默认设置：退出关闭下载引擎&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOFal25xP_TsHV66TEh6CKMHA1?pwd=bmkk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOFal25xP_TsHV66TEh6CKMHA1?pwd=bmkk&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Bilidown(B站视频下载工具) v1.2.6 中文绿色版</title>
+        <link>https://www.danlong360.com/post/625901/</link>
+        <pubDate>Thu, 02 Jan 2025 19:04:36 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/625901/</guid>
+        <description>&lt;p&gt;一款简洁好用的B站视频下载工具。支持由UP主上传的单集，多集以及相关封面，弹幕，字幕，音乐，刮削等等。支持任意粒度批量组合，登录后最高支持到1080P,大会员可获取所有画质及音质。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/625901/20250102_070447.png&#34;
+	width=&#34;640&#34;
+	height=&#34;425&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;150&#34;
+		data-flex-basis=&#34;361px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v1.2.6
+[重要] 适配了新版移动端bv2233链接，并兼容旧版b23链接。
+修订设置编码，采用了更标准的编码描述方式。
+修复了一些已知问题。&lt;/p&gt;
+&lt;p&gt;下载地址&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOFalHCbG958V0CGUDrZUFmwA1?pwd=tmsr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOFalHCbG958V0CGUDrZUFmwA1?pwd=tmsr&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>123云盘PC版客户端 v2.2.7_123网盘绿色版</title>
+        <link>https://www.danlong360.com/post/179915/</link>
+        <pubDate>Thu, 02 Jan 2025 19:01:16 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/179915/</guid>
+        <description>&lt;p&gt;123云盘是一款功能强大的云存储软件，它能够帮助用户轻松地存储、管理和共享各种文件和数据。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/179915/20250102_070139.png&#34;
+	width=&#34;640&#34;
+	height=&#34;412&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;155&#34;
+		data-flex-basis=&#34;372px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;文件存储：用户可以将各种类型的文件和数据上传到云盘中进行存储，包括文档、图片、视频、音频等。&lt;/li&gt;
+&lt;li&gt;文件管理：用户可以根据自己的需求对云盘中的文件进行管理，包括创建文件夹、重命名、删除、移动文件等操作。&lt;/li&gt;
+&lt;li&gt;文件共享：用户可以快速生成分享链接，将文件或文件夹分享给他人，方便共享和协作。&lt;/li&gt;
+&lt;li&gt;多设备同步：用户可以在不同的设备上安装云盘客户端，实现文件的自动同步，无论在哪个设备上进行修改，都能够实时同步到其他设备上。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;安全性高：通过数据加密和权限管理等措施，保护用户的文件安全，防止数据被非法获取或篡改。&lt;/li&gt;
+&lt;li&gt;大容量存储：提供大容量的云存储空间，可以满足用户对大量文件的存储需求。&lt;/li&gt;
+&lt;li&gt;便捷易用：界面简洁友好，操作简单，用户可以快速上手使用，无需复杂的设置和操作。&lt;/li&gt;
+&lt;li&gt;多平台支持：支持多种操作系统和设备类型，包括Windows、Mac、iOS和Android，用户可以在不同设备上无缝使用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;123云盘PC版123云盘Windows版
+&lt;a class=&#34;link&#34; href=&#34;https://www.123pan.com/Downloadclient?type=Pc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.123pan.com/Downloadclient?type=Pc&lt;/a&gt;
+- 2T超大空间，文件集中存储云端
+- 免登陆下载，一键分享下载文件
+- 大文件快传，最高支持100G文件上传
+- 免费极速传输，上传下载尊享极速传输
+- 数据安全，多副本部署，加密存储保障&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOFamASKO7b_LiTJxNMKlsMXA1?pwd=kb5n&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOFamASKO7b_LiTJxNMKlsMXA1?pwd=kb5n&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>DLNow Video Downloader v1.54.2025.01.01 多语便携版</title>
+        <link>https://www.danlong360.com/post/609985/</link>
+        <pubDate>Thu, 02 Jan 2025 18:54:16 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/609985/</guid>
+        <description>&lt;p&gt;DLNow Video Downloader 是一款功能强大的视频下载软件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/609985/20250102_065427.png&#34;
+	width=&#34;620&#34;
+	height=&#34;439&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;141&#34;
+		data-flex-basis=&#34;338px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;视频下载：DLNow Video Downloader 可以帮助用户从多个流行视频网站下载视频，包括 YouTube、Facebook、Instagram、Vimeo、Dailymotion 等。
+批量下载：用户可以选择下载单个视频或批量下载多个视频，提高下载效率。
+视频转换：DLNow Video Downloader 支持将下载的视频转换为其他常见的视频格式，如 MP4、AVI、MOV、WMV 等。
+高质量下载：软件支持下载高清视频，并提供不同的清晰度选项，使用户可以选择适合自己需求的视频质量。
+下载速度优化：DLNow Video Downloader 可以优化下载速度，提供更快的下载体验。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：DLNow Video Downloader 的界面简单直观，用户可以轻松学习和使用该软件。
+多平台支持：DLNow Video Downloader 支持 Windows、Mac、Android 等多个平台，适用于多种设备。
+自定义选项：软件提供了一些个性化设置选项，如选择下载目录、设置下载速度限制等，提供更好的用户体验。
+高速下载：DLNow Video Downloader 使用多线程下载技术，可以加快下载速度。
+免费试用：软件提供免费试用版本，用户可以在购买之前先体验软件的功能和性能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOFanjvh0qKe0dDVyNObkNhCA1?pwd=p9fv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOFanjvh0qKe0dDVyNObkNhCA1?pwd=p9fv&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>YT Downloader(下载YouTube视频工具) v9.11.15 便携版</title>
+        <link>https://www.danlong360.com/post/557318/</link>
+        <pubDate>Thu, 02 Jan 2025 18:53:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/557318/</guid>
+        <description>&lt;p&gt;YT Downloader是一款用于下载YouTube视频的工具。它提供了一种简单快捷的方式，让用户能够将自己喜欢的视频保存到本地，并随时观看，无需依赖网络连接。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/557318/20250102_065346.png&#34;
+	width=&#34;640&#34;
+	height=&#34;430&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;148&#34;
+		data-flex-basis=&#34;357px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;下载YouTube视频：YT Downloader能够将YouTube上的视频以各种格式下载到计算机上，包括MP4、AVI、WMV等常见格式。
+转换音频文件：除了视频下载，该软件还提供了将视频转换为音频文件的功能，支持MP3、WAV、AAC等格式。
+批量下载：用户可以将多个YouTube视频链接复制到软件中，一次性下载多个视频，提高下载效率。
+提供多种视频质量选择：YT Downloader可以根据用户的需求，提供多种视频质量供选择。用户可以选择高清、标清等不同画质，以适应不同设备和网络环境。
+音频提取：软件还支持从视频中提取音频部分，用户可以将喜欢的音乐保存到本地，并添加到自己的音乐播放列表中。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观：YT Downloader拥有简单易用的用户界面，用户只需复制YouTube视频链接，选择下载格式和质量即可完成下载。
+高速稳定的下载：该软件使用先进的下载技术，能够以更快的速度下载视频，并且保持下载过程的稳定性。
+多种格式支持：YT Downloader支持多种视频和音频格式的下载和转换，满足用户不同的需求。
+无广告：该软件没有任何弹窗广告或其他干扰用户体验的广告内容，提供纯净的下载服务。
+免费使用：YT Downloader是一款免费的工具，用户可以自由下载和使用，无需支付任何费用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOFanxaRnzqtyCmz0v232jSbA1?pwd=ebdj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOFanxaRnzqtyCmz0v232jSbA1?pwd=ebdj&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Youtube Downloader HD(Youtube视频下载) v5.9.3 便携版</title>
         <link>https://www.danlong360.com/post/347813/</link>
         <pubDate>Wed, 01 Jan 2025 19:25:41 +0800</pubDate>
