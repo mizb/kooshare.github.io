@@ -7,7 +7,445 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 06 Jan 2025 20:31:47 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 07 Jan 2025 20:05:42 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Inno Setup(安装制作软件) v6.4.0 简体中文汉化版</title>
+        <link>https://www.danlong360.com/post/365820/</link>
+        <pubDate>Tue, 07 Jan 2025 20:05:42 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/365820/</guid>
+        <description>&lt;p&gt;Inno Setup 是一款用于创建安装程序的软件，它可以帮助你快速创建安装程序。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/365820/20250107_080553.png&#34;
+	width=&#34;643&#34;
+	height=&#34;488&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;131&#34;
+		data-flex-basis=&#34;316px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;脚本语言：
+Inno Setup 使用一种基于 Pascal 的简单脚本语言来描述安装过程，允许用户高度定制安装行为。
+多语言支持：
+提供多语言支持，可以轻松地为不同地区创建多语言安装包。
+安装类型：
+允许定义多种安装类型（例如完整安装、最小安装或自定义安装），以便用户根据需要选择安装组件。
+文件压缩：
+可以将安装文件压缩到单个 EXE 文件中，便于网络分发并节省存储空间。
+磁盘跨越：
+支持创建跨越多个磁盘的安装程序，适用于大型软件包。
+注册表和 INI 文件操作：
+可以在安装过程中自动更新系统注册表和 INI 文件。
+卸载程序集成：
+创建的安装程序会自动添加到“控制面板”的“添加/删除程序”列表中，方便用户卸载。
+自定义界面：
+用户可以自定义安装向导的界面，包括背景图片、按钮样式等。
+错误处理：
+具有强大的错误处理机制，能够捕获并记录安装过程中的错误。
+插件扩展性：
+支持各种插件，可以通过插件扩展功能，如数据库操作、额外的压缩格式等。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;免费开源：
+Inno Setup 是完全免费且开源的，遵循 zlib/libpng 许可证，这意味着它可以用于任何类型的项目，无论是个人还是商业用途。
+小巧简便：
+它体积小，占用资源少，但功能强大，能满足大多数安装程序的制作需求。
+易于学习：
+尽管使用脚本语言，但语法直观，对于初学者来说容易上手。
+稳定性：
+经过多年的开发和维护，Inno Setup 在稳定性和可靠性方面表现优异。
+兼容性广泛：
+支持从 Windows 95 到最新版本的 Windows 操作系统，包括 Windows XP、Vista、7、8、10 和 Server 版本。
+用户社区活跃：
+拥有活跃的用户和开发者社区，可以找到大量的教程、示例和插件。&lt;/p&gt;
+&lt;h3 id=&#34;本版特点&#34;&gt;本版特点
+&lt;/h3&gt;&lt;p&gt;6.4.0
+该版由 王苏 大佬汉化
+6.3.3
+该版本由 MonKeyDu(杜敏俊) 大佬上传
+6.3.1
+该版本由原汉化新世纪成员 沈忠良 大佬汉化。
+重新翻译了帮助文件，并且把收集的插件和皮肤构建器也集成到了一起。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG-mOGI-Of6Vb3vecSUGiycA1?pwd=rwet&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG-mOGI-Of6Vb3vecSUGiycA1?pwd=rwet&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>O&amp;O ShutUp10(Win10隐私工具) v1.9.1442 多语便携版</title>
+        <link>https://www.danlong360.com/post/696508/</link>
+        <pubDate>Tue, 07 Jan 2025 20:04:05 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/696508/</guid>
+        <description>&lt;p&gt;O&amp;amp;O ShutUp10是一款免费的Windows 10隐私工具，帮助用户更好地控制自己的操作系统。&lt;/p&gt;
+&lt;p&gt;O&amp;amp;O ShutUp10旨在使用户更好地控制其Windows 10操作系统中的隐私设置，防止Windows 10收集过多的用户数据，保障用户的隐私和安全。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/696508/20250107_080416.png&#34;
+	width=&#34;755&#34;
+	height=&#34;517&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;146&#34;
+		data-flex-basis=&#34;350px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;- 已安装的Windows 10系统中的所有可用设置的详细解释和列表。
+- 分类显示所需的隐私设置和启用/禁用它们。
+- 允许用户使某些设置无效，以便Windows 10不会收集有关用户的个人数据。
+- 完全控制Windows 10数据共享和独立的应用程序隐私设置。
+- 帮助用户创建系统还原点以便在必要时进行恢复。
+- 界面简单易用，用户很容易就能进行设置。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;- 可完全控制Windows 10的隐私设置，保护用户的隐私。
+- 免费下载和使用，方便快捷。
+- 提供了易于阅读的所有已知设置的列表，简化了用户的操作。
+- 帮助用户创建系统还原点以便在必要时进行恢复，较为安全可靠。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG-mFLlp6ltncYL96gbK_t_A1?pwd=6k5m&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG-mFLlp6ltncYL96gbK_t_A1?pwd=6k5m&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Macrorit Partition Expert(磁盘分区工具) v8.5.0 多语便携版</title>
+        <link>https://www.danlong360.com/post/879790/</link>
+        <pubDate>Tue, 07 Jan 2025 20:03:18 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/879790/</guid>
+        <description>&lt;p&gt;Macrorit Partition Expert 是一款磁盘分区工具，可以帮助用户对磁盘进行调整、管理和优化。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/879790/20250107_080329.png&#34;
+	width=&#34;640&#34;
+	height=&#34;477&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;134&#34;
+		data-flex-basis=&#34;322px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;分区创建：可以帮助用户在硬盘上创建新的分区，方便用户对硬盘进行合理的管理和规划。
+分区调整：支持用户对现有分区进行大小调整，方便用户调整硬盘空间的分配。
+分区合并：支持将相邻的分区合并为一个更大的分区，方便用户进行空间的整合和优化。
+分区移动：支持用户将分区从一个位置移动到另一个位置，方便用户对硬盘进行重新组织。
+分区拆分：支持用户将一个大分区拆分为两个或多个小分区，方便用户进行数据分类管理。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;操作简单：软件拥有直观的用户界面，操作简单易懂，即使是初学者也可以轻松上手。
+功能强大：软件具有丰富的分区管理功能，满足用户对硬盘管理的各种需求。
+安全可靠：软件操作过程中会进行详细的提示，避免误操作导致数据丢失，保障用户数据安全。
+快速高效：软件对硬盘进行操作速度快，效率高，大大节省用户的时间。
+兼容性强：软件支持对各种硬盘类型的操作，兼容性强，适用范围广泛。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG-lwBOp6ltncYL96gbKSTlA1?pwd=f7hw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG-lwBOp6ltncYL96gbKSTlA1?pwd=f7hw&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ReNamer(文件重命名工具) Pro v7.6.0.4 多语便携版</title>
+        <link>https://www.danlong360.com/post/407225/</link>
+        <pubDate>Tue, 07 Jan 2025 20:00:28 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/407225/</guid>
+        <description>&lt;p&gt;ReNamer是一款功能强大的文件重命名工具，它可以帮助用户快速方便地批量重命名文件和文件夹。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/407225/20250107_080040.png&#34;
+	width=&#34;602&#34;
+	height=&#34;522&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;115&#34;
+		data-flex-basis=&#34;276px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;批量重命名：ReNamer可以同时处理多个文件和文件夹，并对其进行批量重命名，从而节省时间和劳动力。
+灵活的重命名规则：ReNamer提供了多种灵活的重命名规则，包括添加、删除、替换、移动和修改文件名等操作。用户可以根据需要自定义重命名方案。
+文件标签：ReNamer支持将文件的标签添加到文件名中，从而更好地组织和管理文件。
+文件预览：ReNamer提供了文件预览功能，用户可以在重命名操作之前预览文件名的变化，避免错误操作。
+导出和导入：ReNamer支持将重命名方案导出和导入，方便用户在不同的计算机上使用和共享。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;免费且开源：ReNamer是一款免费软件，用户可以免费使用其所有功能，并可以在其官方网站上获取其源代码。
+多语言支持：ReNamer支持多种语言界面，包括英语、法语、德语、西班牙语、俄语等。
+快速处理：ReNamer具有高速处理能力，可以快速处理大量文件，提高工作效率。
+扩展性：ReNamer支持用户自定义脚本，用户可以编写自己的脚本来实现更复杂的重命名操作。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG-ka-8G52YiDPoZNEwbVfeA1?pwd=66pt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG-ka-8G52YiDPoZNEwbVfeA1?pwd=66pt&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ILSpy(.NET反编译工具) v8.2.0.7535 / 9.0 RC 中文绿色版</title>
+        <link>https://www.danlong360.com/post/643335/</link>
+        <pubDate>Tue, 07 Jan 2025 19:41:42 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/643335/</guid>
+        <description>&lt;p&gt;ILSpy是一款免费开源的.NET反编译器，它可以将.NET程序集反编译为C#代码、VB代码或IL代码，从而帮助开发人员更好地理解和修改.NET程序的工作方式。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/643335/20250107_074152.png&#34;
+	width=&#34;640&#34;
+	height=&#34;472&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;135&#34;
+		data-flex-basis=&#34;325px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;反编译.NET程序集为C#代码、VB代码或IL代码。&lt;/li&gt;
+&lt;li&gt;支持反编译多种.NET程序集文件，包括.exe、.dll、.winmd等。&lt;/li&gt;
+&lt;li&gt;支持查看程序集中的类型、方法、字段、属性和事件等信息。&lt;/li&gt;
+&lt;li&gt;支持搜索程序集中的类型和成员。&lt;/li&gt;
+&lt;li&gt;支持导出反编译后的代码为文件或剪贴板。&lt;/li&gt;
+&lt;li&gt;支持插件扩展，可以通过插件实现更多功能。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;免费开源，基于MIT协议发布。&lt;/li&gt;
+&lt;li&gt;界面简洁，易于使用。&lt;/li&gt;
+&lt;li&gt;反编译速度快，支持多线程处理。&lt;/li&gt;
+&lt;li&gt;支持多种.NET版本，包括.NET Framework、.NET Core和.NET Standard。&lt;/li&gt;
+&lt;li&gt;支持反编译混淆过的程序集。&lt;/li&gt;
+&lt;li&gt;提供多种语言界面，包括英语、中文、法语、德语、俄语等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG-jIp1Io_hl3rjSvl3Bg0qA1?pwd=cwv2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG-jIp1Io_hl3rjSvl3Bg0qA1?pwd=cwv2&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>x64dbg(反汇编逆向神器) 2025-01-06_23-25 中文绿色版</title>
+        <link>https://www.danlong360.com/post/820321/</link>
+        <pubDate>Tue, 07 Jan 2025 19:24:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/820321/</guid>
+        <description>&lt;p&gt;x64dbg中文版是一款x32/x64位调试器的程序调试工具,这款反汇编逆向神器支持中文和插件,支持类似C表达式解析器,DLL和EXE文件调试,IDA式的跳跃箭头与侧边栏,动态识别模块指令,反汇编CPU窗口,自动化可调试的脚本语言等诸多逆向分析功能.x64dbg调试器主要分为三部分载体:DBG是调试器的调试功能部分,它处理调试技术(使用的 TitanEngine),并为GUI提供数据.GUI是调试器的图形部分,它采用的Qt编程语言,提供用户交互界面.Bridge是DBG和GUI部分的通信库,它可以用在新建功能上工作,而无需更新汇编代码的其它部分.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/820321/20250107_072433.png&#34;
+	width=&#34;698&#34;
+	height=&#34;511&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;136&#34;
+		data-flex-basis=&#34;327px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持多种CPU架构，包括x86，x64，ARM和ARM64。
+提供实时调试功能，包括断点设置、单步执行、查看寄存器和内存，以及修改数据。
+支持动态分析，可以查看和修改程序的内存和寄存器状态。
+支持多种格式的二进制文件，包括PE、ELF和Mach-O。
+提供强大的插件系统，允许用户添加自定义功能和扩展工具。
+支持调试符号和调试信息，可以帮助用户理解程序的结构和功能。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;开源免费：x64dbg是开源软件，可以免费使用和修改。
+跨平台：x64dbg可以在Windows平台上运行，并支持多个CPU架构。
+功能强大：x64dbg提供了丰富的调试功能和工具，方便用户对程序进行逆向工程和动态分析。
+用户友好：x64dbg具有直观的用户界面，易于上手和操作。
+不断更新：x64dbg团队会持续更新和改进软件，以提供更好的用户体验和功能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG-hdLgZd7dlej0MwyP_kw5A1?pwd=h7cp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG-hdLgZd7dlej0MwyP_kw5A1?pwd=h7cp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Process Lasso(进程优化工具) Pro v15.0.4.22 多语便携版</title>
+        <link>https://www.danlong360.com/post/595898/</link>
+        <pubDate>Tue, 07 Jan 2025 19:22:08 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/595898/</guid>
+        <description>&lt;p&gt;Process Lasso 是一款用于管理和优化计算机进程的软件。它可以帮助用户最大程度地提高计算机的性能，并提供了一系列功能和特点来优化系统的运行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/595898/20250107_072218.png&#34;
+	width=&#34;703&#34;
+	height=&#34;516&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;136&#34;
+		data-flex-basis=&#34;326px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;进程优先级管理：Process Lasso可以根据用户设定的规则和条件调整进程的优先级，确保重要进程的优先级更高，从而提高系统的响应速度。
+自动优化：软件会动态分配计算资源，通过自动调整进程优先级，提高CPU利用率和响应速度。
+进程控制：用户可以选择暂停、结束或恢复特定的进程，并设定进程的启动规则。
+能耗优化：软件可以根据电源状态自动调整进程的优先级和CPU使用率，以最大程度地节省电池电量。
+系统稳定性：通过限制某些进程的CPU使用率，软件可以帮助避免系统崩溃和死机现象。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高级优化算法：Process Lasso使用先进的算法来自动调整进程优先级，确保系统的稳定性和性能。
+图形化界面：软件提供了直观的图形界面，让用户轻松管理和优化进程。
+低系统资源占用：软件运行时占用的系统资源较少，对计算机性能的影响非常小。
+可自定义规则：用户可以根据自己的需求和喜好设定进程的优先级规则。
+支持多语言：软件支持多种语言界面，方便用户在不同地区使用。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;Process Lasso(进程优化工具) Pro v15.0.4.22 多语便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG-hRQS8NYjj5QXvU5OuvNjA1?pwd=jnkg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG-hRQS8NYjj5QXvU5OuvNjA1?pwd=jnkg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Process Lasso Pro 15.0.4.22 Multilingual (2025/01/06)
+&lt;a class=&#34;link&#34; href=&#34;https://dl.bitsum.com/files/processlassosetup64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://dl.bitsum.com/files/processlassosetup64.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://dl.bitsum.com/files/processlassosetup32.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://dl.bitsum.com/files/processlassosetup32.exe&lt;/a&gt;
+Process Lasso Patch by RadiXX11 (2024/05/07)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/f/60968596-1444469228-6c910e?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/f/60968596-1444469228-6c910e?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>IM-Magic Partition Resizer(分区调整软件) v7.5.0 多语便携版</title>
+        <link>https://www.danlong360.com/post/234913/</link>
+        <pubDate>Tue, 07 Jan 2025 19:21:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/234913/</guid>
+        <description>&lt;p&gt;IM-Magic Partition Resizer是一款功能强大的分区调整软件，允许用户调整并重新分配硬盘分区空间，从而在不丢失数据的情况下改变分区的大小和位置。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/234913/20250107_072136.png&#34;
+	width=&#34;640&#34;
+	height=&#34;443&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;144&#34;
+		data-flex-basis=&#34;346px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持调整和重新分配硬盘分区的空间大小。
+能够将分区扩大或缩小而不会导致数据丢失。
+可以改变分区的位置，将分区移动到不同的位置。
+能够合并多个分区为一个大分区，或者将一个大分区分割为多个小分区。
+支持调整NTFS和FAT32文件系统的分区大小。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：用户友好的界面和直观的操作使得调整分区变得轻松快捷。
+安全可靠：通过采用先进的数据保护技术，软件可以在调整分区大小时保障数据的安全性。
+快速效率：软件具有快速的分区调整速度，可以在几分钟内完成调整操作。
+支持多种存储设备：软件支持调整硬盘、SSD、USB闪存驱动器等多种存储设备的分区大小。
+支持不同的操作系统：软件可以运行在Windows 10/8/7/Vista/XP和Windows Server 2016/2012/2008/2003等多个操作系统上。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG-hKlSY-I9lVhuW9D50E6CA1?pwd=j7a8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG-hKlSY-I9lVhuW9D50E6CA1?pwd=j7a8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Microsoft Safety Scanner(微软安全扫描程序) v1.421.1229.0</title>
+        <link>https://www.danlong360.com/post/48317/</link>
+        <pubDate>Tue, 07 Jan 2025 19:11:12 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/48317/</guid>
+        <description>&lt;p&gt;Microsoft Safety Scanner是微软公司开发的一款免费的病毒和恶意软件扫描工具。它可以扫描计算机上的文件和文件夹，检测和删除计算机中的病毒、间谍软件和其他恶意软件。与其他杀毒软件不同的是，Microsoft Safety Scanner不需要安装，可以直接运行，适用于Windows操作系统。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/48317/20250107_071122.png&#34;
+	width=&#34;524&#34;
+	height=&#34;495&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;105&#34;
+		data-flex-basis=&#34;254px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;扫描计算机上的文件和文件夹，检测病毒、间谍软件和其他恶意软件。&lt;/li&gt;
+&lt;li&gt;可以选择快速扫描或完整扫描。&lt;/li&gt;
+&lt;li&gt;支持定期更新病毒和恶意软件数据库，以确保最新的检测能力。&lt;/li&gt;
+&lt;li&gt;提供扫描日志和报告，方便用户查看扫描结果。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;免费使用，无需注册或订阅。&lt;/li&gt;
+&lt;li&gt;不需要安装，可以直接运行。&lt;/li&gt;
+&lt;li&gt;可以与其他杀毒软件一起使用，提高计算机的安全性。&lt;/li&gt;
+&lt;li&gt;可以在安全模式下运行，以便更彻底地扫描计算机。&lt;/li&gt;
+&lt;li&gt;支持多种语言界面，方便全球用户使用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;Microsoft Safety Scanner(微软安全扫描程序) v1.421.1229.0&lt;/p&gt;
+&lt;p&gt;32位:&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://definitionupdates.microsoft.com/download/DefinitionUpdates/versionedsignatures/am/1.421.1234.0/x86/msert.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://definitionupdates.microsoft.com/download/DefinitionUpdates/versionedsignatures/am/1.421.1234.0/x86/msert.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;64位:&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://definitionupdates.microsoft.com/download/DefinitionUpdates/versionedsignatures/am/1.421.1234.0/amd64/msert.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://definitionupdates.microsoft.com/download/DefinitionUpdates/versionedsignatures/am/1.421.1234.0/amd64/msert.exe&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>PowerISO(虚拟光驱软件) v9.0 多语便携版</title>
+        <link>https://www.danlong360.com/post/733675/</link>
+        <pubDate>Tue, 07 Jan 2025 19:04:03 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/733675/</guid>
+        <description>&lt;p&gt;PowerISO是一款功能强大的光盘映像文件处理工具，可以帮助用户快速管理和处理CD/DVD/BD映像文件。它支持标准ISO文件格式，支持创建、编辑、提取、转换、压缩、加密等多种操作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/733675/20250107_070437.png&#34;
+	width=&#34;640&#34;
+	height=&#34;447&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;143&#34;
+		data-flex-basis=&#34;343px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1.创建镜像文件：可以创建CD/DVD/BD的ISO镜像文件，支持创建各种光盘格式的镜像文件。
+2.编辑镜像文件：可以编辑ISO镜像文件，如添加、删除、重命名、文件夹等。
+3.提取光盘内容：可以提取ISO镜像文件中的文件和文件夹。
+4.转换文件格式：可以在不同格式之间转换光盘镜像文件，如ISO、BIN、NRG等。
+5.压缩文件：可以将ISO镜像文件压缩为其他格式，减小文件大小。
+6.加密保护：可以对ISO镜像文件进行加密处理，保护文件安全。
+7.刻录光盘：可以用PowerISO直接刻录ISO镜像文件到光盘上。
+8.刻录音频CD：可以将音频文件刻录为音频CD。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.界面简洁直观：PowerISO的界面设计简洁直观，容易上手操作。
+2.功能强大：PowerISO提供了丰富的光盘镜像处理功能，满足用户多种需求。
+3.稳定性高：PowerISO的稳定性高，运行流畅，不易崩溃。
+4.兼容性好：PowerISO可以在Windows平台上运行，并支持多种光盘格式的处理。
+5.操作便捷：PowerISO操作简单方便，可以通过简单的拖拽操作完成文件处理。
+6.速度快：PowerISO在处理光盘镜像文件时速度快，节省用户时间。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG-fPN5mbfAMNM2TbYTBw6xA1?pwd=qxtp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG-fPN5mbfAMNM2TbYTBw6xA1?pwd=qxtp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>WindowTop(窗口置顶工具) Pro v5.26.3 中文绿色版</title>
         <link>https://www.danlong360.com/post/133523/</link>
         <pubDate>Mon, 06 Jan 2025 20:31:47 +0800</pubDate>

@@ -7,7 +7,234 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 06 Jan 2025 20:29:06 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 07 Jan 2025 19:26:33 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PotPlayer 250103(1.7.22406) 去广告增强绿色版</title>
+        <link>https://www.danlong360.com/post/935520/</link>
+        <pubDate>Tue, 07 Jan 2025 19:26:33 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/935520/</guid>
+        <description>&lt;p&gt;Daum PotPlayer播放器是一款全能多媒体影音播放器,堪称Windows平台最强大的本地视频播放器.PotPlayer最新版拥有强劲播放引擎加速,支持DXVA,CUDA,QuickSync,多媒体播放器支持蓝光3D,其内置强大的编码器及滤镜/分离器,支持自定义添加解码器,对字幕的支持非常优秀,能兼容特效字幕及在线搜索字幕实时翻译.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/935520/20250107_072644.png&#34;
+	width=&#34;723&#34;
+	height=&#34;399&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;181&#34;
+		data-flex-basis=&#34;434px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;PotPlayer Version History - VideoHelp
+&lt;a class=&#34;link&#34; href=&#34;https://www.videohelp.com/software/PotPlayer/version-history&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.videohelp.com/software/PotPlayer/version-history&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;231220(1.7.22074)版本之后PotPlayer64.dll已被作者加壳防修改！&lt;/p&gt;
+&lt;p&gt;[241216] v241216(1.7.22398) 正式版
+-&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
++ 添加使用 Whisper 从语音生成字幕的功能
++ 添加使用命令行选项打开音频的功能
++ 添加为 HDR 2084 设置显示器亮度的功能
+- 修正 WEBP 图片文件无法播放的问题
+- 修正某些 MP3 歌词不出现的问题
+- 修正某些 MPEG TS 文件播放缓慢的问题
+- 修正播放某些文件时黑屏的问题&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;pot播放器,potplayer绿色精简版,potplayer绿色便携版
+1、去效验，去右下角空白广告弹窗！卸载可选备份设置
+2、禁止后台联网请求：境外广告、发送日志、检查升级
+3、集成额外的音频解码器及视频解码器组件：Open Codec for PotPlayer
+├—DTS, MLP, TrueHD编码器ModuleFFmpeg4FFmpegMininum64.dll
+├—S/W HEVC(H265)编码器PotPlayerModuleFFmpeg4FFmpeg64.dll
+├—Intel H.264 MVC 3D编解码器库 PotPlayerModulelibmfxsw(64).dll
+4、预设配置：常规设置 + 默认启用自定义解码器H.265/HEVC及硬件加速
+├—滤镜—视频解码器—内置解码器/DXVA设置—&amp;gt;使用硬件加速 (DXVA)
+├—滤镜—视频解码器—内置解码器/DXVA设置—解码器—&amp;gt;H.265/HEVC
+5、集成三款精选皮肤主题：简约暴风, ModernW10, Carefree (轻尘系列)
+6、删除TV直播列表, 登陆程序,日志管理, 消息通知, 多语言等不必要的文件&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编辑原因：01.07 更新 PotPlayer 250103(1.7.22406) elchupacabra 去广告增强绿色版&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG-iShYQtjRTb6SWttw2f46A1?pwd=nnjb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG-iShYQtjRTb6SWttw2f46A1?pwd=nnjb&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MPC-HC视频播放器(便捷视频播放器) v2.3.9 中文绿色版</title>
+        <link>https://www.danlong360.com/post/359292/</link>
+        <pubDate>Tue, 07 Jan 2025 19:25:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/359292/</guid>
+        <description>&lt;p&gt;MPC-HC是一款免费的媒体播放器，它源自于原始的Media Player Classic项目，并且在Windows操作系统上得到了广泛的应用。MPC-HC有着简洁直观的用户界面，并且具备强大的功能，以满足用户对于媒体播放的需求。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/359292/20250107_072604.png&#34;
+	width=&#34;507&#34;
+	height=&#34;438&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;115&#34;
+		data-flex-basis=&#34;277px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持各种媒体文件格式：MPC-HC可以播放几乎所有主流格式的音频和视频文件，包括MP3、AAC、WAV、MP4、AVI、MKV等，用户可以使用该软件来观看电影、听音乐和查看照片。
+播放器控制：MPC-HC提供了常规播放器控制，如播放、暂停、快进、快退等。此外，它还支持截图功能，允许用户在播放期间截取当前画面。
+多音轨和字幕支持：MPC-HC可以处理包含多个音轨的视频文件，并且允许用户切换音轨。此外，它还可以导入并显示外部字幕文件，以便用户更好地观看外语视频。
+虚拟音频设备模拟：MPC-HC可以模拟虚拟音频设备，允许用户以高音质的方式录制和保存音频流。
+定时播放和循环播放：MPC-HC拥有定时播放功能，可以设置在指定时间开始播放或暂停文件。此外，用户还可以使用该软件实现循环播放，以便反复播放视频或音频。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;轻量级和低资源占用：MPC-HC是一款非常轻量级的媒体播放器，其安装包较小，且软件本身消耗的系统资源也很少，使其在运行时不会导致计算机变慢。
+易于使用：MPC-HC具有简洁直观的用户界面，可以让用户快速上手并使用其功能。
+开源和免费：MPC-HC是开源软件，其源代码可以公开查看和修改。此外，它也是完全免费的，用户可以随时下载和使用，无需付费授权。
+播放质量优秀：MPC-HC支持多种音频和视频编解码器，可以播放高质量的媒体文件，并提供完善的音频和视频效果控制，使用户能够享受到更好的观看和听音乐的体验。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编辑原因：01.07 更新 插件 yt-dlp 2025.01.01&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG-htVsK8Utdtu0oIX4FYV4A1?pwd=ck6v&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG-htVsK8Utdtu0oIX4FYV4A1?pwd=ck6v&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MPC-BE视频播放器(强大视频播放器) v1.8.2.78 中文绿色版</title>
+        <link>https://www.danlong360.com/post/455790/</link>
+        <pubDate>Tue, 07 Jan 2025 19:25:16 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/455790/</guid>
+        <description>&lt;p&gt;MPC-BE（Media Player Classic - Black Edition）是一款功能强大的视频播放器，是Media Player Classic的一个分支，它支持多种视频和音频文件格式，并提供多种附加功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/455790/20250107_072526.png&#34;
+	width=&#34;507&#34;
+	height=&#34;426&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;119&#34;
+		data-flex-basis=&#34;285px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持广泛的视频文件格式，如AVI、FLV、MP4、MKV、MOV等，以及多种音频文件格式，如MP3、WAV、AAC等。
+具有广泛的解码器支持，包括内置的解码器和外部的第三方解码器，可以确保播放器能够兼容几乎所有的媒体文件。
+提供各种视频和音频调整选项，如亮度、对比度、饱和度调整，以及音量控制、均衡器等。
+支持多种字幕格式，如SRT、SSA、ASS等，并提供字幕的显示和调整选项。
+提供多种界面语言和主题，可以根据用户的偏好进行定制。
+支持快速和精确的搜索功能，可以轻松找到想要播放的视频或音频文件。
+启用硬件加速和多线程解码，提供流畅的播放体验。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;开源免费：MPC-BE是一个开源项目，用户可以免费使用和分发该软件。
+轻量化：软件的安装文件很小，占用较少的系统资源，不会影响计算机的性能。
+高度可定制：用户可以根据自己的需求进行界面和功能的定制，使软件符合个人使用习惯。
+易于使用：软件的界面简洁明了，功能布局合理，使用户可以轻松找到所需的功能和选项。
+稳定可靠：MPC-BE经过多次测试和改进，具有较高的稳定性和可靠性，可以长时间运行而不会崩溃或出错。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG-hmVLG52YiDPoZNEwa2lbA1?pwd=s7tr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG-hmVLG52YiDPoZNEwa2lbA1?pwd=s7tr&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>TapinRadio(网络收音机软件) v2.16.002 多语便携版</title>
+        <link>https://www.danlong360.com/post/975466/</link>
+        <pubDate>Tue, 07 Jan 2025 19:19:54 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/975466/</guid>
+        <description>&lt;p&gt;TapinRadio是一款流行的网络收音机软件，它允许用户收听来自世界各地的数千个广播电台的在线广播。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/975466/20250107_072007.png&#34;
+	width=&#34;505&#34;
+	height=&#34;530&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;95&#34;
+		data-flex-basis=&#34;228px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;- 广播电台搜索：TapinRadio拥有内置的广播电台目录，用户可以使用搜索功能查找特定的广播电台，也可以按类别浏览和筛选广播电台。
+- 录制功能：TapinRadio支持将正在播放的广播节目录制下来，以便后续无需在线即可重播。
+- 定时器功能：用户可以设置定时器来启动和停止录制或收听收藏的广播节目。
+- 键盘快捷键：TapinRadio提供了一组方便的键盘快捷键，让用户能够更便捷地控制播放、调节音量等操作。
+- 背景录制：软件支持在后台录制广播节目，用户可以继续使用计算机进行其他任务，而不会中断录制。
+- 分享：用户可以将喜欢的广播电台或收录的广播节目分享给其他人，以推荐和交流。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;- 多样的广播电台：TapinRadio提供了广泛的广播电台目录，包括音乐、新闻、体育、娱乐等各种类别，满足用户不同的听音需求。
+- 界面简洁：软件界面清晰、简洁易用，用户可以方便地进行搜索、播放和管理广播电台。
+- 收藏功能：用户可以将喜爱的广播电台收藏起来，方便以后快速访问和收听。
+- 背景模式：TapinRadio可以在系统托盘中运行，以便用户在不影响工作的前提下随时收听或控制广播节目。
+- 轻量级：软件占用系统资源较少，运行稳定，不会拖慢电脑的运行速度。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编辑原因：01.07 扩展流派列表 (chOtky),大多数 BASS 库已更新&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG-gpL3avMMfujlD2kLv9btA1?pwd=v94q&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG-gpL3avMMfujlD2kLv9btA1?pwd=v94q&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>腾讯视频PC版 v11.110.9589.0 去广告绿色纯净版</title>
+        <link>https://www.danlong360.com/post/926214/</link>
+        <pubDate>Tue, 07 Jan 2025 19:07:49 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/926214/</guid>
+        <description>&lt;p&gt;腾讯视频PC客户端,腾讯视频最新版支持沉浸式无框播放器,三倍流畅播放,界面交互不错.腾讯视频Windows客户端腾讯视频播放器(QQLive)拥有海量正版高清影视,大量独播英美剧,独播NBA版权,热门赛事,短视频频道等.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/926214/20250107_070759.png&#34;
+	width=&#34;640&#34;
+	height=&#34;440&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;145&#34;
+		data-flex-basis=&#34;349px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;腾讯视频2024 v11.80 更新内容
+- 桌面迷你模式，让追剧触手可及；&lt;/p&gt;
+&lt;p&gt;腾讯视频2023 v11.70 更新内容
+- 新版导航样式，频道切换更方便；
+- 近期热播好剧，升级观看体验更佳；
+- 频道页面全新改版，沉浸式找片更高效；
+- 首页增加我的在追，常看影片续看更方便；
+- 视频内容在线讨论，紧扣剧情边看边聊；&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;- 绿化处理免安装，去安全效验、去各种广告视频秒播!
+- 去首次启动的隐私政策弹窗，去右下角游戏推荐弹窗
+- 去迷你腾讯弹窗、禁止任务栏通知区域定时推送弹窗
+- 去所有的广告：缓冲广告、暂停广告、播放中等广告
+- 去主界面标题游戏中心按钮、去设置界面游戏管理项
+- 逆向修改默认点关闭不最小化到托盘，而是彻底完全退出
+- 禁止每次启动在磁盘目录生成QLDownloadGame文件夹
+- 禁止检测升级，禁止后续强制在后台下载新版安装包升级
+- 禁止播放本地视频关闭返回界面后弹出“QQ影音下载安装”询问弹窗
+- 禁止驻留后台，去设置界面项：允许腾讯视频驻留、允许推送迷你页面
+- 去主菜单和托盘菜单无用项：迷你腾讯、在线升级、修复与反馈，帮助
+- 禁止在系统后台 %AppData%Tencent目录里面生成logs产品日志的文件夹
+- 删除服务程序、自动升级插件、安全修复相关模块等大量无用的不必要的文件&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG-gLL4mIFCJqCQJ_fun0czA1?pwd=2n5e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG-gLL4mIFCJqCQJ_fun0czA1?pwd=2n5e&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>TagScanner(音乐标签编辑工具) v6.1.19 多语便携版</title>
         <link>https://www.danlong360.com/post/209703/</link>
         <pubDate>Mon, 06 Jan 2025 20:29:06 +0800</pubDate>
