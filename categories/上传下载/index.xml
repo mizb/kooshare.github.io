@@ -7,7 +7,166 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 06 Jan 2025 20:29:45 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 08 Jan 2025 19:18:37 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>AB Download Manager(下载管理工具) v1.5.1 中文绿色版</title>
+        <link>https://www.danlong360.com/post/272413/</link>
+        <pubDate>Wed, 08 Jan 2025 19:18:37 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/272413/</guid>
+        <description>&lt;p&gt;AB Download Manager 是一款功能强大且用户友好的下载管理工具，它提供了丰富的下载管理和优化功能，帮助用户高效地下载和管理互联网资源。AB Download Manager 特别适合需要频繁下载文件的用户，如学生、研究人员和下载爱好者。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/272413/20250108_071848.png&#34;
+	width=&#34;640&#34;
+	height=&#34;320&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;200&#34;
+		data-flex-basis=&#34;480px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;下载管理：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;多任务下载：支持同时下载多个文件，提高下载效率。
+暂停和恢复：支持暂停和恢复下载功能，用户可以在需要时停止下载并在稍后继续。
+断点续传：支持断点续传功能，如果下载中断，可以从断点处继续下载，避免重新开始。
+下载队列：支持下载队列管理，用户可以安排多个下载任务按顺序执行。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;下载优化：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;多线程下载：支持多线程下载功能，利用多线程技术提高下载速度。
+带宽控制：支持带宽控制功能，用户可以设置下载速度上限，避免影响其他网络活动。
+文件校验：支持文件校验功能，确保下载文件的完整性和准确性。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;文件管理：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文件分类：支持文件分类功能，用户可以将下载的文件按类别进行管理。
+文件预览：支持文件预览功能，用户可以快速查看下载文件的内容。
+文件搜索：支持文件搜索功能，用户可以快速查找已下载的文件。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;下载调度：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;定时下载：支持定时下载功能，用户可以设置在特定时间自动开始下载任务。
+计划任务：支持计划任务功能，用户可以安排定期下载任务，如每天或每周下载特定文件。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;浏览器集成：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;浏览器插件：提供浏览器插件，支持 Chrome、Firefox 等主流浏览器，用户可以一键将下载链接发送到 AB Download Manager。
+下载链接捕获：支持下载链接捕获功能，自动检测网页中的下载链接并添加到下载列表。&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;其他工具：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;文件转换：支持文件转换功能，用户可以将下载的文件转换为其他格式。
+文件修复：支持文件修复功能，用户可以尝试修复损坏的下载文件。
+日志记录：支持日志记录功能，用户可以查看和记录下载任务的历史记录。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：提供直观的用户界面和丰富的设置选项，适合各水平用户使用。
+多功能集成：集成了下载管理、优化、文件管理和调度等多种功能，用户无需在多个工具之间切换。
+高效下载：采用多线程技术和断点续传功能，确保高效的下载速度和可靠性。
+带宽控制：支持带宽控制功能，用户可以设置下载速度上限，避免影响其他网络活动。
+文件分类：支持文件分类功能，用户可以将下载的文件按类别进行管理。
+定时任务：支持定时下载和计划任务功能，用户可以安排定期下载任务。
+浏览器集成：提供浏览器插件，支持主流浏览器，方便用户一键添加下载链接。
+轻量级：占用系统资源少，启动速度快，运行流畅。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。
+社区和支持：提供详细的使用指南和技术支持，帮助用户解决使用过程中遇到的问题。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG4jk2YdB3RQSncBzvXSj6EA1?pwd=6aw8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG4jk2YdB3RQSncBzvXSj6EA1?pwd=6aw8&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Dropbox(云存储服务软件) v215.4.7202 Final</title>
+        <link>https://www.danlong360.com/post/816899/</link>
+        <pubDate>Wed, 08 Jan 2025 19:16:39 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/816899/</guid>
+        <description>&lt;p&gt;Dropbox是一款云存储服务软件，能够帮助用户在不同设备之间同步、分享和存储文件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/816899/20250108_071650.png&#34;
+	width=&#34;640&#34;
+	height=&#34;440&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;145&#34;
+		data-flex-basis=&#34;349px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;文件同步：Dropbox能够将文件同步到不同设备之间，包括桌面电脑、笔记本电脑、平板电脑和手机等。&lt;/li&gt;
+&lt;li&gt;文件分享：用户可以将Dropbox中的文件与他人共享，可以设置共享权限，控制他人对文件的访问和编辑权限。&lt;/li&gt;
+&lt;li&gt;文件备份：Dropbox能够将文件备份到云端，确保文件安全且不会丢失。&lt;/li&gt;
+&lt;li&gt;文件版本控制：Dropbox会自动保存文件的历史版本，可以随时恢复或查看之前的版本。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;跨平台：Dropbox支持Windows、Mac、Linux、iOS和Android等主流操作系统，能够在不同设备之间同步和分享文件。&lt;/li&gt;
+&lt;li&gt;高安全性：Dropbox使用SSL/TLS加密传输数据，确保用户的数据安全，同时支持二步验证，防止账户被盗。&lt;/li&gt;
+&lt;li&gt;智能同步：Dropbox采用增量同步技术，只传送更改过的文件块，能够大大提高同步速度。&lt;/li&gt;
+&lt;li&gt;强大的协作功能：Dropbox可以与各种软件集成，如Microsoft Office，Google Docs和Slack等，方便用户协同编辑文件。&lt;/li&gt;
+&lt;li&gt;大存储空间：Dropbox提供多种存储空间选项，消费者方案从2GB到3TB，商业方案从5TB到10TB 或者更大，根据用户需求选择。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG4ihp0M3Zd0BcIGAcbgt_LA1?pwd=33na&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG4ihp0M3Zd0BcIGAcbgt_LA1?pwd=33na&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>百度网盘官方原版丨最新版下载丨版本号 7.51.0.133</title>
+        <link>https://www.danlong360.com/post/152201/</link>
+        <pubDate>Wed, 08 Jan 2025 19:10:27 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/152201/</guid>
+        <description>&lt;p&gt;百度网盘（原百度云）是一款由百度公司推出的云存储服务，它提供了丰富的文件存储、管理和分享功能，帮助用户高效地管理和备份个人和工作文件。百度网盘特别适合需要频繁处理和分享文件的个人用户、企业和团队。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/152201/20250108_071040.png&#34;
+	width=&#34;640&#34;
+	height=&#34;421&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;152&#34;
+		data-flex-basis=&#34;364px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;大容量：提供丰富的云存储容量，用户可以根据自身需求选择适合自己的套餐。&lt;/li&gt;
+&lt;li&gt;高速传输：支持高速上传、下载，大幅缩短文件传输时间。&lt;/li&gt;
+&lt;li&gt;多平台支持：支持多种操作系统和设备，如Windows、Mac、Android、iOS等。&lt;/li&gt;
+&lt;li&gt;多人协作：支持多人分享和协作，方便团队合作和数据共享。&lt;/li&gt;
+&lt;li&gt;安全可靠：提供高级的安全保障措施，如SSL加密、防攻击、数据备份等，确保用户数据的安全可靠。&lt;/li&gt;
+&lt;li&gt;直链下载：支持生成直链下载地址，方便用户外链分享。&lt;/li&gt;
+&lt;li&gt;视频播放：支持在线播放视频文件，无需下载到本地即可观看。&lt;/li&gt;
+&lt;li&gt;丰富应用：提供多种应用，如文档编辑、音乐播放、图片浏览等，扩展了网盘的功能。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新内容&#34;&gt;更新内容
+&lt;/h3&gt;&lt;p&gt;百度网盘Windows电脑客户端V7.51.0.133 更新时间：2025年01月07日
+白雪皑皑，银装素裹，百度网盘为您带来温暖更新：
+1、本地文件支持快速上传，本地文件/悬浮球右键、系统底栏均可一键上传
+2、「我的文件」展示标签，帮助找到上次、常用、更新的文件
+3、文件上传消息提醒体验优化，新增文件开始上传提醒
+4、首页最近模块修复bug&lt;/p&gt;
+&lt;p&gt;官方网站：https://pan.baidu.com/download#win&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;百度网盘官方原版丨最新版下载丨版本号 7.51.0.133
+官方下载：https://issuepcdn.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_7.51.0.133.exe&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Extreme Picture Finder(图片下载工具) v3.66.16.0 多语便携版</title>
         <link>https://www.danlong360.com/post/517315/</link>
         <pubDate>Mon, 06 Jan 2025 20:29:45 +0800</pubDate>

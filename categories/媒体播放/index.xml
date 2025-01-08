@@ -7,7 +7,238 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 07 Jan 2025 19:26:33 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 08 Jan 2025 19:34:43 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MusicFree音乐播放器(在线音乐播放) v0.0.6 中文绿色版</title>
+        <link>https://www.danlong360.com/post/715644/</link>
+        <pubDate>Wed, 08 Jan 2025 19:34:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/715644/</guid>
+        <description>&lt;p&gt;MusicFree 是一个插件化、定制化、无广告的免费音乐播放器，并且他还是开源项目。
+当前测试版支持 Windows8.1 以上版本；macos 和 linux 可自行打包。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/715644/20250108_073452.png&#34;
+	width=&#34;640&#34;
+	height=&#34;427&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;149&#34;
+		data-flex-basis=&#34;359px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特性&#34;&gt;软件特性
+&lt;/h3&gt;&lt;p&gt;插件化：本软件仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件。这也就意味着，只要可以在互联网上搜索到的音源，只要有对应的插件，你都可以使用本软件进行搜索、播放等功能。 关于插件的详细说明请参考 安卓版 Readme 的插件部分。
+插件支持的功能：搜索（音乐、专辑、作者、歌单）、播放、查看专辑、查看作者详细信息、导入单曲、导入歌单、获取歌词等。
+定制化：本软件可以通过主题包定义软件外观及背景，详见下方主题包一节。
+无广告：基于 GPL3.0 协议开源，将会保持免费。
+隐私：软件所有数据存储在本地，本软件不会上传你的个人信息。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v0.0.6
+【优化】大量代码重构
+【功能】新增播放失败时不寻找其他音质版本的配置
+【功能】歌单内支持通过 ctrl 键盘多选歌曲批量操作
+【功能】支持自定义主窗口大小
+【功能】支持自定义歌词窗口大小
+【功能】调整播放详情页面的样式
+【功能】支持了评论功能（需要插件支持）
+【修复】修复了歌单id无法带特殊字符的问题
+【修复】修复了音源太多时布局异常的问题&lt;/p&gt;
+&lt;h3 id=&#34;如何使用&#34;&gt;如何使用
+&lt;/h3&gt;&lt;p&gt;安装后需要手动添加插件，设置》插件管理》可选本地或在线，在线的本文有。&lt;/p&gt;
+&lt;p&gt;在线源：
+&lt;a class=&#34;link&#34; href=&#34;https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json&lt;/a&gt;
+小枸音乐:
+&lt;a class=&#34;link&#34; href=&#34;https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaogou.js&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaogou.js&lt;/a&gt;
+小秋音乐:
+&lt;a class=&#34;link&#34; href=&#34;https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaoqiu.js&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaoqiu.js&lt;/a&gt;
+小蜗音乐:
+&lt;a class=&#34;link&#34; href=&#34;https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaowo.js&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaowo.js&lt;/a&gt;
+小蜜音乐:
+&lt;a class=&#34;link&#34; href=&#34;https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaomi.js&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaomi.js&lt;/a&gt;
+小芸音乐:
+&lt;a class=&#34;link&#34; href=&#34;https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaoyun.js&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/xiaoyun.js&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG4ml2NzAR8IloGegEUE-W-A1?pwd=w33k&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG4ml2NzAR8IloGegEUE-W-A1?pwd=w33k&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Zoom Player MAX(媒体播放器) v20.0.0.2000 多语便携版</title>
+        <link>https://www.danlong360.com/post/941134/</link>
+        <pubDate>Wed, 08 Jan 2025 19:33:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/941134/</guid>
+        <description>&lt;p&gt;Zoom Player MAX 是一款功能强大的多媒体播放器，它由 inmatrix 公司开发，主要针对 Windows 平台。这款播放器的特点在于其高度的灵活性和可定制性，以及对多种媒体格式的支持。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/941134/f354accc65c14c4.webp&#34;
+	width=&#34;640&#34;
+	height=&#34;480&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Zoom Player MAX(媒体播放器) v19.0.0.1900 多语便携版&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高度可定制：用户可以根据自己的需求自定义界面布局、快捷键、颜色主题等。
+多格式支持：支持播放几乎所有流行的音频和视频格式，包括DVD、Blu-ray、FLV、AVI、MP3、MP4等。
+强大的播放控制：支持全屏、窗口、跨屏播放，提供丰富的缓冲区设置和快进、快退等控制选项。
+高质量音频和视频：通过使用专业的音频和视频解码器，提供出色的画质和声音效果。
+多音轨和字幕支持：支持播放带有多个音轨和字幕的视频文件，并可以自定义音轨和字幕的样式和位置。
+多媒体库管理：支持创建和管理个人多媒体库，方便快速查找和播放文件。
+媒体转码和播放列表：支持将媒体文件转换为其他格式，并可以创建和管理播放列表。
+网络流媒体：支持播放来自网络的音频和视频流。&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;高清视频播放：支持高清视频播放，包括1080p和4K分辨率。
+DTS和Dolby解码支持：提供DTS和Dolby解码支持，使用户可以享受沉浸式的音频体验。
+蓝光光盘播放：支持播放蓝光光盘，包括菜单导航和特殊功能，如章节跳转和字幕选择。
+多屏幕播放：支持在多个屏幕上同时播放不同的视频文件，并可以独立控制每个屏幕的播放模式和设置。
+音频增强器：提供各种音频增强选项，如均衡器、音效增强和环绕声效果。
+视频截图和屏幕录制：可以截取视频画面并保存为图片，也可以录制屏幕上的视频内容。
+脚本和插件支持：支持使用自定义脚本和插件扩展软件功能，例如自动下载字幕和自定义播放器皮肤。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG4malB-Of6Vb3vecSWB-N1A1?pwd=6asi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG4malB-Of6Vb3vecSWB-N1A1?pwd=6asi&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Clementine(开源音乐播放器) v1.4.1.22 多语便携版</title>
+        <link>https://www.danlong360.com/post/252396/</link>
+        <pubDate>Wed, 08 Jan 2025 19:23:09 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/252396/</guid>
+        <description>&lt;p&gt;Clementine 是一款开源的音乐播放器，它继承了 Amarok 的许多优秀特性，同时加入了更多实用功能，旨在为用户提供一个强大且易用的音乐播放体验。Clementine 支持多种音频格式，提供丰富的音乐库管理和播放列表功能，是音乐爱好者的理想选择。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/252396/image-20250108192342277.png&#34;
+	width=&#34;640&#34;
+	height=&#34;449&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250108192342277&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;142&#34;
+		data-flex-basis=&#34;342px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;音乐库管理：自动扫描本地音乐文件，创建和管理音乐库。支持多种音频格式，如 MP3、FLAC、OGG 等。
+播放列表：创建和管理多个播放列表，支持拖放操作，方便添加和排序歌曲。
+搜索功能：快速搜索音乐库中的歌曲、专辑和艺术家。
+封面艺术：自动下载和显示歌曲的专辑封面艺术，提升视觉体验。
+互联网广播：收听全球数千个互联网广播电台，支持添加和收藏喜欢的电台。
+Podcast 订阅：订阅和管理 Podcast，自动下载新发布的节目。
+歌词显示：自动下载和显示歌词，同步歌词显示，增强音乐欣赏体验。
+音频标签编辑：编辑音乐文件的元数据，如标题、艺术家、专辑等。
+音频效果：内置均衡器和多种音频效果，调整音乐播放的声音效果。
+远程控制：通过智能手机或平板电脑远程控制 Clementine，方便在不同设备上操作。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;用户友好：界面简洁明了，操作直观，即使是初学者也能快速上手。
+强大的音乐库管理：自动扫描和整理音乐文件，支持多种音频格式，方便管理和播放。
+丰富的播放列表功能：支持创建和管理多个播放列表，提供灵活的播放控制。
+高质量音频支持：支持无损音频格式，如 FLAC，确保音质的高保真。
+互联网广播和 Podcast：集成互联网广播和 Podcast 功能，提供更多音乐来源。
+自动下载封面艺术和歌词：自动下载和显示专辑封面和歌词，提升音乐欣赏体验。
+音频标签编辑：方便编辑音乐文件的元数据，保持音乐库的整洁和有序。
+音频效果和均衡器：内置多种音频效果和均衡器，个性化调整音乐播放效果。
+远程控制：支持通过智能手机或平板电脑远程控制播放器，方便在不同场景下使用。
+开源和免费：Clementine 是开源软件，免费使用，社区活跃，持续更新和改进。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG4knieqLFI8BrSRY0lMFXMA1?pwd=m5wj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG4knieqLFI8BrSRY0lMFXMA1?pwd=m5wj&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>JRiver Media Center(媒体管理软件) v33.0.55 多语便携版</title>
+        <link>https://www.danlong360.com/post/950797/</link>
+        <pubDate>Wed, 08 Jan 2025 19:22:32 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/950797/</guid>
+        <description>&lt;p&gt;JRiver Media Center是一款全能的多媒体播放器，可以播放音乐、视频、图片、电视等多种媒体文件。同时它还具备完善的管理和组织功能，能够帮助用户将多种类型的媒体文件整合到一个软件中进行统一管理。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/950797/20250108_072244.png&#34;
+	width=&#34;640&#34;
+	height=&#34;480&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;1.多媒体播放：JRiver Media Center支持播放多种格式的音乐、视频和图片，可以在一个窗口内同时播放多个文件。
+2.媒体管理：JRiver Media Center有强大的文档管理功能，可以通过扫描硬盘上的媒体文件来自动识别每个文档的类型以及一些相关的演员名字、音乐专辑信息等。
+3.高质量音视频输出：JRiver Media Center支持输出高质量的音频和视频，可以让你的音乐和电影享受更好的体验。
+4.多种实用插件：JRiver Media Center支持数百种实用的插件，例如可以允许你在多个房间内随时切换音频、视频和图像源，允许你用手机对你的音乐和电影进行远程控制等。
+5.自定义皮肤：JRiver Media Center允许用户使用自定义或者第三方皮肤来美化软件界面，提高个性化体验。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.全能多媒体播放器：JRiver Media Center支持播放多种格式的音乐、视频和图片，支持绝大多数媒体文件扩展名。
+2.便捷灵活的媒体管理：能够有效地管理和维护用户的多种媒体文件，并且可以快速查找目录。
+3.高质量输出：软件支持输出高质量的音频和视频，比如DVD、Blu-Ray、HDMI和网络连接等的输出。
+4.多平台支持：JRiver Media Center支持多平台的音视频播放，不管你是在Windows、Mac OS X、Linux或者Android上使用，他都有版本支持。
+5.多功能接口：JRiver Media Center可以通过外部接口与其他设备进行通讯，例如通过DLNA和UPnP来与其他设备共享媒体内容。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG4kgi-8NYjj5QXvU5QreUTA1?pwd=fqhk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG4kgi-8NYjj5QXvU5QreUTA1?pwd=fqhk&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>抖音客户端官方原版丨最新版下载丨版本号 5.3.1</title>
+        <link>https://www.danlong360.com/post/516630/</link>
+        <pubDate>Wed, 08 Jan 2025 19:09:48 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/516630/</guid>
+        <description>&lt;p&gt;抖音是一款流行的短视频分享软件，用户可以拍摄15秒的短视频，并进行剪辑和添加音乐等特效。抖音根据用户的喜好和互动记录，推荐个性化的短视频内容，让用户更容易找到自己感兴趣的内容。同时，抖音允许用户关注其他用户，点赞、评论和分享他们的短视频，是一个社交化的平台。抖音提供了多种拍摄、剪辑和配音工具，让用户可以创意地表达自己，展示个性。抖音在全球范围内拥有数亿用户，成为了一种大众化的文化现象，吸引了各种各样的人群加入使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/516630/20250108_071000.png&#34;
+	width=&#34;640&#34;
+	height=&#34;393&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;162&#34;
+		data-flex-basis=&#34;390px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;视频拍摄和编辑：抖音提供了丰富的拍摄和编辑功能，用户可以选择不同的滤镜、音乐、特效和字幕等来制作独特的短视频。
+社交互动：用户可以在抖音上关注其他用户、点赞和评论其视频，也可以通过私信和其他用户进行互动。
+探索发现：抖音会根据用户的兴趣和行为推荐相关的视频，用户可以通过浏览发现页面来观看和发现新的内容。
+直播功能：抖音还提供了直播功能，用户可以在直播中和观众进行互动，分享自己的生活或展示自己的才艺。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：抖音的界面简洁清晰，操作简单，用户可以很快上手拍摄和编辑视频。
+大量音乐库：抖音拥有丰富的音乐库，用户可以根据自己的喜好选择适合的音乐为视频配乐。
+热门话题：抖音会根据用户的兴趣和热门话题进行推荐，用户可以了解最新的流行话题并与其他用户交流。
+创意特效：抖音提供了多种特效供用户选择，用户可以添加不同的特效来制作个性化的视频。&lt;/p&gt;
+&lt;p&gt;官方网站：https://www.douyin.com/downloadpage&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;抖音客户端官方原版丨最新版下载丨版本号 5.3.1
+&lt;a class=&#34;link&#34; href=&#34;https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12270856/5.3.1/win32-ia32/douyin-downloader-v5.3.1-win32-ia32-douyin.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12270856/5.3.1/win32-ia32/douyin-downloader-v5.3.1-win32-ia32-douyin.exe&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>PotPlayer 250103(1.7.22406) 去广告增强绿色版</title>
         <link>https://www.danlong360.com/post/935520/</link>
         <pubDate>Tue, 07 Jan 2025 19:26:33 +0800</pubDate>
