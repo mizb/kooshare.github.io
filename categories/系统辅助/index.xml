@@ -7,7 +7,561 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Wed, 08 Jan 2025 19:39:10 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 09 Jan 2025 19:55:59 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%B3%BB%E7%BB%9F%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>CHK Hash Tool(文件完整性校验工具) v5.53 中文绿色版</title>
+        <link>https://www.danlong360.com/post/369847/</link>
+        <pubDate>Thu, 09 Jan 2025 19:55:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/369847/</guid>
+        <description>&lt;p&gt;CHK 是一个免费的校验和实用程序 – 旨在帮助您验证您的文件的完整性一个简单的应用程序，找到重复以及更多！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/369847/20250109_075609.png&#34;
+	width=&#34;587&#34;
+	height=&#34;440&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;哈希值计算：
+支持多种哈希算法，如 MD5、SHA-1、SHA-256、SHA-384、SHA-512 等。
+可以快速计算单个文件或多文件的哈希值。
+哈希值校验：
+允许用户输入已知的哈希值，与计算出的哈希值进行对比，验证文件的完整性。
+支持批量校验多个文件的哈希值。
+文件拖放：
+用户可以通过拖放文件到主界面，快速进行哈希值计算和校验。
+日志记录：
+记录校验过程和结果，方便用户查看和保存。
+命令行支持：
+提供命令行接口，方便脚本自动化使用。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;轻量级：占用系统资源少，运行速度快，不会对系统性能产生明显影响。
+用户友好：提供简洁直观的图形用户界面，操作简便，适合各水平用户使用。
+多算法支持：支持多种主流哈希算法，满足不同场景下的需求。
+批量处理：支持批量计算和校验多个文件的哈希值，提高工作效率。
+跨平台支持：支持 Windows、macOS 和 Linux 操作系统，确保跨平台的兼容性。
+实时反馈：在计算和校验过程中提供实时反馈，用户可以随时查看进度。
+安全可靠：不包含任何恶意软件或广告，确保用户数据的安全。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGA6OTOXjxXQfR2SGfK-5ZmA1?pwd=jbwg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGA6OTOXjxXQfR2SGfK-5ZmA1?pwd=jbwg&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Don’t Sleep(防止计算机进入睡眠) v9.69 中文绿色版</title>
+        <link>https://www.danlong360.com/post/684412/</link>
+        <pubDate>Thu, 09 Jan 2025 19:52:57 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/684412/</guid>
+        <description>&lt;p&gt;Don&amp;rsquo;t Sleep 是一款免费的小巧实用工具，它可以帮助用户防止计算机进入睡眠或待机状态，保持计算机的唤醒状态，以便用户可以在不间断地下载文件，备份数据或执行其他任务。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/684412/20250109_075307.png&#34;
+	width=&#34;548&#34;
+	height=&#34;440&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;124&#34;
+		data-flex-basis=&#34;298px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;防止计算机进入睡眠或待机状态。&lt;/li&gt;
+&lt;li&gt;保持计算机的唤醒状态，以便用户可以在不间断地下载文件，备份数据或执行其他任务。&lt;/li&gt;
+&lt;li&gt;支持设置倒计时，让计算机在指定时间后自动进入睡眠或待机状态。&lt;/li&gt;
+&lt;li&gt;支持设置唤醒计算机的时间和日期，让计算机在指定时间自动唤醒。&lt;/li&gt;
+&lt;li&gt;支持设置唤醒计算机的事件，例如网络连接，网络断开，电源状态改变等。&lt;/li&gt;
+&lt;li&gt;支持命令行操作，方便用户集成到自己的脚本中使用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;小巧实用，不需要安装，直接运行即可使用。&lt;/li&gt;
+&lt;li&gt;界面简洁直观，易于操作。&lt;/li&gt;
+&lt;li&gt;支持多种语言，包括中文。&lt;/li&gt;
+&lt;li&gt;免费软件，无广告，无插件，无病毒，安全可靠。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGA5UgVWwCrqIwhUV68QS-ZA1?pwd=9ys4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGA5UgVWwCrqIwhUV68QS-ZA1?pwd=9ys4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Wise Disk Cleaner(系统清理工具) v11.1.9.835 多语便携版</title>
+        <link>https://www.danlong360.com/post/989494/</link>
+        <pubDate>Thu, 09 Jan 2025 19:51:21 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/989494/</guid>
+        <description>&lt;p&gt;Wise Disk Cleaner 是一款免费的系统清理工具，可以帮助用户清理系统中无用的文件和垃圾文件，从而释放磁盘空间，提高系统运行速度。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/989494/20250109_075131.png&#34;
+	width=&#34;640&#34;
+	height=&#34;424&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;150&#34;
+		data-flex-basis=&#34;362px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;清理无用文件：可以清理系统中的临时文件、日志文件、垃圾文件、无用的安装文件和下载文件等。&lt;/li&gt;
+&lt;li&gt;清理浏览器缓存：可以清理浏览器中的缓存文件、Cookie、历史记录等，保护用户的隐私。&lt;/li&gt;
+&lt;li&gt;定时清理：可以设置定时清理计划，让系统自动清理垃圾文件，不需要手动操作。&lt;/li&gt;
+&lt;li&gt;磁盘分析：可以分析磁盘使用情况，查看哪些文件占用了大量空间，从而可以有针对性地清理。&lt;/li&gt;
+&lt;li&gt;文件恢复：可以恢复误删除的文件，避免误操作导致数据丢失。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;免费：Wise Disk Cleaner 是一款完全免费的软件，无需付费就可以享受其强大的功能。&lt;/li&gt;
+&lt;li&gt;安全：Wise Disk Cleaner 支持备份和恢复功能，可以在清理前备份重要文件，避免误删重要数据。&lt;/li&gt;
+&lt;li&gt;简单易用：Wise Disk Cleaner 操作简单，界面清晰，用户可以轻松上手使用。&lt;/li&gt;
+&lt;li&gt;快速高效：Wise Disk Cleaner 可以快速扫描系统，找到并清理无用文件，提高系统运行速度。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;by 9649
+- 去主界面顶部无用按钮：消息、反馈，LOGO，去底部分享到连接&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGA5KhZLxj93v7uo3_Ah5uEA1?pwd=fy5x&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGA5KhZLxj93v7uo3_Ah5uEA1?pwd=fy5x&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>NIUBI Partition Editor(磁盘分区软件) v10.2.0 多语便携版</title>
+        <link>https://www.danlong360.com/post/574790/</link>
+        <pubDate>Thu, 09 Jan 2025 19:46:45 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/574790/</guid>
+        <description>&lt;p&gt;NIUBI Partition Editor是一款功能强大的磁盘分区管理软件，它可以帮助用户进行磁盘分区的创建、调整、合并、移动、拆分、格式化和删除等操作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/574790/20250109_074656.png&#34;
+	width=&#34;640&#34;
+	height=&#34;477&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;134&#34;
+		data-flex-basis=&#34;322px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;磁盘分区调整：可以调整磁盘分区的大小，合并多个分区为一个分区，移动分区的位置等。&lt;/li&gt;
+&lt;li&gt;磁盘分区创建：可以创建新的磁盘分区，并自定义分区的大小和文件系统类型。&lt;/li&gt;
+&lt;li&gt;磁盘分区格式化：可以对磁盘分区进行格式化，支持多种文件系统格式，如NTFS、FAT32、exFAT等。&lt;/li&gt;
+&lt;li&gt;磁盘分区拆分：可以将一个分区拆分成多个分区，按照用户需求来重新划分磁盘空间。&lt;/li&gt;
+&lt;li&gt;数据保护：软件内置了一系列数据保护机制，可以防止误操作导致数据丢失，同时也支持回滚操作。&lt;/li&gt;
+&lt;li&gt;引导修复：可以修复损坏的引导记录，解决系统启动问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;安全可靠：NIUBI Partition Editor采用了先进的数据保护技术，能够确保用户的数据安全，在操作过程中提供多重保护措施。&lt;/li&gt;
+&lt;li&gt;快速高效：软件具备出色的分区操作速度和性能，可以帮助用户快速完成各种磁盘分区操作。&lt;/li&gt;
+&lt;li&gt;友好易用：NIUBI Partition Editor提供了直观易懂的操作界面，即使对于没有专业知识的用户也能够轻松上手。&lt;/li&gt;
+&lt;li&gt;兼容性强：软件支持多种Windows操作系统版本，包括Windows 10、Windows 8、Windows 7等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;NIUBI Partition Editor(磁盘分区软件) v10.2.0 多语便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGA56F7ThWKU8Xnwd0qZ5evA1?pwd=k9hq&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGA56F7ThWKU8Xnwd0qZ5evA1?pwd=k9hq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;NIUBI Partition Editor v10.2.0 Technician Edition (2025/01/06)
+&lt;a class=&#34;link&#34; href=&#34;https://www.hdd-tool.com/download/NPE_technician.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.hdd-tool.com/download/NPE_technician.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.hdd-tool.com/download/portable_technician.zip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.hdd-tool.com/download/portable_technician.zip&lt;/a&gt;
+NIUBI Partition Editor v10.2 Patch x64 - xanax [mod] (2025/01/09)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/f/60968596-1445308358-2486be?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/f/60968596-1445308358-2486be?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Wireshark中文版(网络抓包工具) v4.4.3 多语便携版</title>
+        <link>https://www.danlong360.com/post/603730/</link>
+        <pubDate>Thu, 09 Jan 2025 19:44:44 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/603730/</guid>
+        <description>&lt;p&gt;Wireshark是一款强大的网络分析软件，可以帮助用户抓取、分析、解码网络上的数据包。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/603730/20250109_074454.png&#34;
+	width=&#34;640&#34;
+	height=&#34;495&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;129&#34;
+		data-flex-basis=&#34;310px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h3&gt;&lt;p&gt;• 可视化功能：支持抓取、显示和分析网络上的数据包，并以图形化的方式显示出来；
+• 网络协议：支持多种常见的网络协议，可以分析IP、TPC、UDP、HTTP、FTP等等；
+• 解码功能：可以对网络上的数据包进行解码，以便更好地理解网络上发生的事情；
+• 数据报表：可以生成网络抓包的详细报表，以便进一步分析网络流量；
+• 滤波器功能：可以使用多种滤波器进行数据抓取，从而提高数据抓取的效率；
+• 用户友好：UI界面友好，操作简便，易于使用；
+• 兼容性：可以在Windows、Mac OS X和Linux等操作系统上运行。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;Wireshark中文版(网络抓包工具) v4.4.3 多语便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGA4KDVhgBXj3sXcLFzndRwA1?pwd=rr72&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGA4KDVhgBXj3sXcLFzndRwA1?pwd=rr72&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Wireshark 4.4.3 Multilingual Stable + Portable (2024/11/21)
+&lt;a class=&#34;link&#34; href=&#34;https://2.na.dl.wireshark.org/win64/Wireshark-4.4.3-x64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://2.na.dl.wireshark.org/win64/Wireshark-4.4.3-x64.exe&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://2.na.dl.wireshark.org/win64/WiresharkPortable64_4.4.3.paf.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://2.na.dl.wireshark.org/win64/WiresharkPortable64_4.4.3.paf.exe&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Aiseesoft Phone Mirror(手机镜像软件) 2.2.58 多语便携版</title>
+        <link>https://www.danlong360.com/post/678671/</link>
+        <pubDate>Thu, 09 Jan 2025 19:32:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/678671/</guid>
+        <description>&lt;p&gt;Aiseesoft Phone Mirror是一款功能强大的手机镜像软件，它可以将手机屏幕实时投射到电脑上，并支持通过电脑对手机进行控制和操作。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/678671/20250109_073303.png&#34;
+	width=&#34;640&#34;
+	height=&#34;387&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;165&#34;
+		data-flex-basis=&#34;396px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;实时投射手机屏幕：将手机屏幕内容实时投射显示在电脑上。
+屏幕录制：可以录制手机屏幕上的操作过程，并保存成视频文件。
+屏幕截图：可以快速截取手机屏幕上的任意区域，并保存成图片。
+文件传输：支持将电脑上的文件快速传输到手机上，或将手机上的文件传输到电脑上。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简便易用：操作简单，界面友好，即使对于新手用户也能快速上手。
+高清画质：支持高清屏幕显示，投射的画面清晰细腻，色彩逼真。
+兼容性强：支持各种主流手机品牌和操作系统，如苹果、安卓等。
+无时差传输：数据传输稳定快速，无延迟和卡顿现象。
+安全可靠：采用安全协议，保障用户的隐私和数据安全。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGA2qr1ThWKU8Xnwd0qY9F3A1?pwd=8tx6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGA2qr1ThWKU8Xnwd0qY9F3A1?pwd=8tx6&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Aiseesoft FoneTrans(iPhone数据传输软件) v9.3.82 多语便携版</title>
+        <link>https://www.danlong360.com/post/23217/</link>
+        <pubDate>Thu, 09 Jan 2025 19:32:14 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/23217/</guid>
+        <description>&lt;p&gt;Aiseesoft FoneTrans是一款iPhone数据传输软件，它可以帮助用户快速、安全、简单地传输iPhone上的各种数据，如照片、音乐、短信、联系人、视频等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/23217/20250109_073225.png&#34;
+	width=&#34;640&#34;
+	height=&#34;373&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;171&#34;
+		data-flex-basis=&#34;411px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文件传输：可以将iPhone上的文件传输到电脑上或其他iOS设备上，也可以从电脑或其他iOS设备上传输文件到iPhone上。
+数据备份与还原：可以备份iPhone上的数据，包括照片、音乐、短信、联系人等，并在需要时进行还原。
+铃声制作：可以将音乐或录音转换为手机铃声，并将其传输到iPhone上。
+视频转换：可以将视频文件转换为适用于iPhone播放的格式，并进行传输。
+照片压缩：可以将手机上的照片进行压缩，以节省存储空间。
+音乐播放列表管理：可以创建、编辑或删除iPhone上的音乐播放列表。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁友好，操作简单：软件设计简洁，操作流程清晰，即使是不懂技术的用户也可以轻松上手。
+传输速度快，稳定可靠：软件采用高效的数据传输技术，可以快速而稳定地完成数据传输任务。
+兼容性强：软件兼容最新的iOS设备和最新的iOS系统，可以满足用户不同设备和系统的需求。
+安全保密：在数据传输过程中，软件会对数据进行加密，以确保数据的安全性和保密性。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGA2hSTIMVfYmc49AETxKkGA1?pwd=rfin&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGA2hSTIMVfYmc49AETxKkGA1?pwd=rfin&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>VueScan(扫描仪增强软件) Pro v9.8.43.05 多语便携版</title>
+        <link>https://www.danlong360.com/post/444717/</link>
+        <pubDate>Thu, 09 Jan 2025 19:29:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/444717/</guid>
+        <description>&lt;p&gt;VueScan是一款功能强大的扫描仪软件，可用于扫描、拍摄和打印高质量的图片和文档。它支持大量的扫描仪品牌和型号，包括HP、Canon、Epson、Nikon、Brother等，而且可以在Windows、Mac OS X和Linux等各种操作系统上运行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/444717/20250109_072955.png&#34;
+	width=&#34;640&#34;
+	height=&#34;501&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;127&#34;
+		data-flex-basis=&#34;306px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种扫描仪型号，包括扫描仪、相机和文件夹。&lt;/li&gt;
+&lt;li&gt;支持多种文件格式，包括JPEG、TIFF、PDF和RAW格式。&lt;/li&gt;
+&lt;li&gt;可以进行自动校正、色彩校正和曝光校正等操作，以获得最佳的扫描效果。&lt;/li&gt;
+&lt;li&gt;支持扫描多页文档并将其保存为单个PDF文件。&lt;/li&gt;
+&lt;li&gt;可以进行扫描预览、裁剪和旋转等常见操作。&lt;/li&gt;
+&lt;li&gt;支持OCR（光学字符识别）功能，可以将扫描的文本转换为可编辑的文本格式。&lt;/li&gt;
+&lt;li&gt;可以进行高级图像处理，包括去除噪点、调整色彩和对比度等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;界面简单直观，易于操作。&lt;/li&gt;
+&lt;li&gt;支持多种语言，包括英语、法语、德语、意大利语、西班牙语等。&lt;/li&gt;
+&lt;li&gt;更新频繁，可以及时支持最新的扫描仪型号和操作系统。&lt;/li&gt;
+&lt;li&gt;支持扫描多种类型的文档，包括照片、书籍、报纸和信件等。&lt;/li&gt;
+&lt;li&gt;可以进行批量扫描和批量处理，提高工作效率。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;vuescan pro中文破解版,vuescan pro免激活绿色便携版
+- 免注册激活，32位+64位，集成OCR语言中文/俄/英语
+- 9.8.37，支持 32 位 系统&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;VueScan(扫描仪增强软件) Pro v9.8.43.05 多语便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGA2Q1X5U6fF-uANw-h90aeA1?pwd=trzb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGA2Q1X5U6fF-uANw-h90aeA1?pwd=trzb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;VueScan Pro 9.8.43 Multilingual (2025/01/01)
+&lt;a class=&#34;link&#34; href=&#34;https://www.hamrick.com/files/vuex6498.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.hamrick.com/files/vuex6498.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;VueScan KeyGen v1.1 &amp;amp; 9.8.37.13+ Patcher v1.0 (2024/10/29)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://url96.ctfile.com/f/60968596-1445306492-fe57d4?p=7788&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://url96.ctfile.com/f/60968596-1445306492-fe57d4?p=7788&lt;/a&gt; (访问密码: 7788)&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Macrorit Partition Expert(磁盘分区工具) v8.5.0 多语便携版</title>
+        <link>https://www.danlong360.com/post/623172/</link>
+        <pubDate>Thu, 09 Jan 2025 19:27:33 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/623172/</guid>
+        <description>&lt;p&gt;Macrorit Partition Expert 是一款磁盘分区工具，可以帮助用户对磁盘进行调整、管理和优化。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/623172/20250109_072745.png&#34;
+	width=&#34;640&#34;
+	height=&#34;477&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;134&#34;
+		data-flex-basis=&#34;322px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;分区创建：可以帮助用户在硬盘上创建新的分区，方便用户对硬盘进行合理的管理和规划。
+分区调整：支持用户对现有分区进行大小调整，方便用户调整硬盘空间的分配。
+分区合并：支持将相邻的分区合并为一个更大的分区，方便用户进行空间的整合和优化。
+分区移动：支持用户将分区从一个位置移动到另一个位置，方便用户对硬盘进行重新组织。
+分区拆分：支持用户将一个大分区拆分为两个或多个小分区，方便用户进行数据分类管理。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;操作简单：软件拥有直观的用户界面，操作简单易懂，即使是初学者也可以轻松上手。
+功能强大：软件具有丰富的分区管理功能，满足用户对硬盘管理的各种需求。
+安全可靠：软件操作过程中会进行详细的提示，避免误操作导致数据丢失，保障用户数据安全。
+快速高效：软件对硬盘进行操作速度快，效率高，大大节省用户的时间。
+兼容性强：软件支持对各种硬盘类型的操作，兼容性强，适用范围广泛。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编辑原因：01.09 更新 Macrorit Partition Exper v8.5.0 32位/64位&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGA26RM0_zsNgE6T1gbDmnkA1?pwd=h7mp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGA26RM0_zsNgE6T1gbDmnkA1?pwd=h7mp&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Tabby(Windows终端模拟器) v1.0.218 中文绿色版</title>
+        <link>https://www.danlong360.com/post/17511/</link>
+        <pubDate>Thu, 09 Jan 2025 19:22:53 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/17511/</guid>
+        <description>&lt;p&gt;Tabby是一款免费开源的Windows终端模拟器，旨在为开发人员提供更强大、更可扩展的终端体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/17511/20250109_072303.png&#34;
+	width=&#34;615&#34;
+	height=&#34;568&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;108&#34;
+		data-flex-basis=&#34;259px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;- 多个选项卡式终端管理器，可在同一窗口中管理多个终端，方便快捷。
+- 支持SSH、Telnet和本地Shell，可连接本地和远程服务器、自定义终端等。
+- 自定义快捷键、颜色、字体等终端属性，以满足不同开发需求。
+- 内置多种主题（黑夜、白日、渐变），可根据不同的环境切换不同的主题，提高开发效率。
+- 可导出/导入配置、扩展插件、自动化脚本等功能，可提高开发效率。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;- 免费开源，又好用又实用。
+- 能够提供比Windows自带终端更好的显示效果和界面风格。
+- 多机种支持，可支持连接Windows、Linux、macOS等不同系统的服务器。
+- 支持扩展插件，可根据不同开发需求进行自定义扩展。
+- 集成快速启动菜单，可简化命令打开过程，提高效率。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGA0QPmR6FltKDpuonqf9Z2A1?pwd=p9ij&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGA0QPmR6FltKDpuonqf9Z2A1?pwd=p9ij&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>TweakNow WinSecret Plus!(系统优化软件) v6.0.1 便携版</title>
+        <link>https://www.danlong360.com/post/482419/</link>
+        <pubDate>Thu, 09 Jan 2025 19:18:06 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/482419/</guid>
+        <description>&lt;p&gt;TweakNow WinSecret Plus是一款功能强大的系统优化软件，它提供了许多实用的工具和功能，可以帮助用户优化Windows操作系统的性能和设置。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/482419/20250109_071816.png&#34;
+	width=&#34;640&#34;
+	height=&#34;419&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;152&#34;
+		data-flex-basis=&#34;366px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;注册表清理：该软件可以扫描和清理Windows注册表中无效的、过时的和无用的条目，以提高系统的响应速度和稳定性。&lt;/li&gt;
+&lt;li&gt;磁盘清理：它可以帮助用户清理系统磁盘上的临时文件、缓存文件、垃圾文件等，释放磁盘空间并提升系统性能。&lt;/li&gt;
+&lt;li&gt;系统优化：软件提供了一些系统优化工具，如启动管理器、服务管理器和任务管理器，可以帮助用户优化系统启动速度、管理运行的服务和进程，提升系统性能。&lt;/li&gt;
+&lt;li&gt;隐私保护：它可以帮助用户保护个人隐私，清理浏览器的历史记录、临时文件、Cookie等，防止个人信息被泄露。&lt;/li&gt;
+&lt;li&gt;窗口定制：软件提供了一些界面定制工具，用户可以自定义Windows界面的外观和行为，如调整平滑滚动、窗口动画等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;简单易用：软件界面友好，操作简单，即使是没有技术背景的用户也能轻松使用。&lt;/li&gt;
+&lt;li&gt;多功能：软件提供了多种系统优化和调整工具，满足用户对系统性能和设置的各种需求。&lt;/li&gt;
+&lt;li&gt;安全可靠：软件操作不会对系统造成损坏或错误，而且会备份修改前的设置，以便在需要时还原。&lt;/li&gt;
+&lt;li&gt;兼容性强：软件适用于各个版本的Windows操作系统，包括Windows 10、Windows 8/8.1、Windows 7等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG9wl1hR6FltKDpuonqd4fiA1?pwd=65q4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG9wl1hR6FltKDpuonqd4fiA1?pwd=65q4&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Total Commander 11.50 Extended 25.1 直装破解版</title>
+        <link>https://www.danlong360.com/post/830988/</link>
+        <pubDate>Thu, 09 Jan 2025 19:16:33 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/830988/</guid>
+        <description>&lt;p&gt;Total Commander Extended是一款功能强大的文件管理软件，拥有诸多高级功能，可以帮助用户更方便地管理文件和文件夹。除了基本的文件管理功能外，Total Commander Extended还提供了一些扩展功能和插件，使其更加全面和实用。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/830988/20250109_071645.png&#34;
+	width=&#34;499&#34;
+	height=&#34;388&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;128&#34;
+		data-flex-basis=&#34;308px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文件管理：支持文件和文件夹的复制、剪切、粘贴、重命名、删除等基本操作。
+批量操作：可以批量重命名文件、批量更改文件属性、批量添加文件注释等。
+自定义快捷键：用户可以自定义快捷键来快速执行常用操作。
+插件支持：支持各种插件，扩展软件功能。
+多标签界面：可以在同一个窗口中打开多个标签，方便用户在不同文件夹之间进行切换。
+文件搜索：支持快速搜索文件和文件夹，帮助用户快速定位所需文件。
+压缩和解压缩：支持多种压缩文件格式，方便用户进行文件压缩和解压缩操作。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观，操作简便：Total Commander Extended拥有友好的用户界面，操作简单直观，适合新手用户使用。
+功能丰富，满足各种文件管理需求：软件拥有众多高级功能，可以满足用户各种文件管理需求。
+插件支持，功能可扩展：Total Commander Extended支持各种插件，用户可以根据需要自行安装扩展软件功能。
+高效稳定，体验流畅：软件运行稳定，响应速度快，用户体验较为流畅。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;版本 25.1
+[^] 程序 Total Commander 11.50、Mozilla Firefox (v134.0)、SoftMaker Office 2024 (rev1222)、PotPlayer (v241211)、AIMP (v5.40.2653)、Notepad++ (v8.7.5)、WiseCare365 (7.1.0.692) qBittorrent (5.0.3)、AIDA64 工程师 (v7.50.7200)、Imagine 插件 1.7.3、PEViewer 3.0.17、TCMediaInfo 1.1.0 (MediaInfo 24.12)、TCSumatraPDF 1.17、Total7zip 0.8.5.6 (7-Zip 24.09)、TrID_Identifier 1.0 (06/01/25)，xPDFSearch 1.44更新至最新版本。
+[^] 更新了 petermad 的扩展英文菜单。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG9wXCeA4rvaGoDWkc-43_0A1?pwd=b584&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG9wXCeA4rvaGoDWkc-43_0A1?pwd=b584&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>闪电藤(局域网文件传输工具) v2.8.3 中文绿色版</title>
+        <link>https://www.danlong360.com/post/327760/</link>
+        <pubDate>Thu, 09 Jan 2025 19:13:51 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/327760/</guid>
+        <description>&lt;p&gt;闪电藤是基于LocalSend二次开发的一款局域网文件传输工具，在它的基础上进行UI交互的重新设计，以及功能上的增强和删减，使其更加符合中国用户的使用体验。有了LocalSend，还要开发闪电藤，在于LocalSend的更新迭代速度较慢，并且它的使用体验更多的是按国外的来设计的，国内很多需求反馈无法实现，所以我重新设计LocalSend，并征集大家的需求，共同建设一个更完美的LocalSend。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/327760/20250109_071412.png&#34;
+	width=&#34;551&#34;
+	height=&#34;493&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;111&#34;
+		data-flex-basis=&#34;268px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;极简无广告
+免登录
+自动连接同局域网内设备
+跨网段连接
+传输快，不限速&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2.8.3
+优化：(pc)改回按回车发送消息(2.8.3)
+优化：(pc)复制文件不再支持通知，因为通知会干扰用户工作(2.8.2)
+优化：(pc)删除control+b快捷键，因为有较大快捷键冲突(2.8.2)
+优化：(pc)仍然支持按control+v在闪电藤内粘贴已复制的文件（包括文件夹和截图）(2.8.2)&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOG9vQCCM4EaajUS50imZZltA1?pwd=7nr5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOG9vQCCM4EaajUS50imZZltA1?pwd=7nr5&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>SmartSystemMenu(窗口置顶工具) v2.29.0 中文绿色版</title>
         <link>https://www.danlong360.com/post/126484/</link>
         <pubDate>Wed, 08 Jan 2025 19:39:10 +0800</pubDate>
