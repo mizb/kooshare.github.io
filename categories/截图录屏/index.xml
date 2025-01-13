@@ -7,7 +7,54 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 12 Jan 2025 20:02:28 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 13 Jan 2025 19:45:05 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PixPin截图工具(支持截长图截动图) v1.9.5.0 / 1.9.11.2 beta 中文绿色版</title>
+        <link>https://www.danlong360.com/post/145370/</link>
+        <pubDate>Mon, 13 Jan 2025 19:45:05 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/145370/</guid>
+        <description>&lt;p&gt;PixPin截图工具适用于Windows系统，它的主要功能是帮助用户轻松地截取屏幕上的任意区域，并将其保存为图片文件，用户可以自由地选择要截取的屏幕区域，无论是整个屏幕、某个窗口还是任意形状的区域，都可以轻松地被截取下来，还支持滚动截图和自动滚动截取长页面的功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/145370/20250113_074517.png&#34;
+	width=&#34;640&#34;
+	height=&#34;442&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;144&#34;
+		data-flex-basis=&#34;347px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特色&#34;&gt;软件特色
+&lt;/h3&gt;&lt;p&gt;截图
+自动识别窗口元素，可使用滚轮切换父/子元素
+附带各种标注工具
+贴图
+把剪贴板的图片/文字贴到其他窗口最上层，方便参考查阅
+自动识别图片上的文字，离线识别引擎，无数据上传
+提供标注工具方便二次标注
+截长图
+智能图像识别算法自动捕捉滚动的图片
+截动图
+把操作过程保存为 Gif/Png/Webp 动图
+提供标注过程，可以在录制过程中方便地标注&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2024年1月13日
+【优化】设置窗口不再置顶
+【修复】开启二维码自动识别后，没有显示二维码识别按钮
+【修复】某些情况下放大镜的位置会不正确
+【修复】设置内置快捷键的时候，回车和小键盘回车不能混用&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;PixPin截图工具(支持截长图截动图) v1.9.5.0 / 1.9.11.2 beta 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGU_LvejQPLU7cpDjlvDUG5A1?pwd=z8xg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGU_LvejQPLU7cpDjlvDUG5A1?pwd=z8xg&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Fast Screen Recorder(屏幕录制软件) v2.1.0.11 多语便携版</title>
         <link>https://www.danlong360.com/post/179338/</link>
         <pubDate>Sun, 12 Jan 2025 20:02:28 +0800</pubDate>
