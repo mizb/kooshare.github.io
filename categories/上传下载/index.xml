@@ -7,7 +7,195 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 13 Jan 2025 19:31:32 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 14 Jan 2025 19:28:41 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>BitComet(比特彗星) v2.12 官方绿色版 &amp; 安装版</title>
+        <link>https://www.danlong360.com/post/309556/</link>
+        <pubDate>Tue, 14 Jan 2025 19:28:41 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/309556/</guid>
+        <description>&lt;p&gt;BitComet是一款使用BitTorrent协议进行文件传输的免费P2P下载工具。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/309556/20250114_072852.png&#34;
+	width=&#34;640&#34;
+	height=&#34;488&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;131&#34;
+		data-flex-basis=&#34;314px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;文件共享：BitComet可以通过BitTorrent协议下载和分享文件。用户可以通过多线程下载，从多个源同时下载同一文件，提高下载速度。
+种子管理：BitComet支持种子文件的下载和管理。用户可以通过添加种子文件，获取包含文件元数据的种子，并使用种子文件进行下载。
+高速下载：BitComet支持多线程下载和优化连接算法，可以提供更快的下载速度。
+文件预览：BitComet支持对部分文件类型进行在线预览，以便用户可以在下载完成之前查看文件内容。
+下载管理：BitComet提供了一个下载管理器，可以对正在下载的文件进行管理，包括暂停、恢复、取消和删除等操作。
+队列系统：BitComet支持将任务添加到下载队列中，以便在有限的带宽情况下自动调度和下载文件。
+智能错误纠正：BitComet具有智能错误纠正功能，可以自动检测并修复下载过程中可能出现的错误或数据损坏。
+自定义设置：BitComet提供了一系列自定义设置选项，使用户可以根据自己的需求对下载行为和界面进行调整和优化。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;界面改进：完善bc_bak文件格式错误提示
+界面改进：webui剪贴板权限错误提示改为 “访问剪贴板需要HTTPS协议”
+界面改进：选项窗口HTTP下载任务默认连接数上限提升到2000
+界面修复：允许下载文件名以&amp;quot;.&amp;ldquo;开头
+界面修复：完善新版WebUI界面默认语言检测
+核心修复：修复多次导出配置和数据备份文件可能引发的问题
+界面改进：HTTP下载任务连接数上限提升到2000
+界面改进：个别界面翻译
+界面修复：远程访问BT任务页面没有显示peerID
+核心改进：完善HTTP下载任务队URL路径中的加号处理
+核心改进：改进HTTP下载任务进度接近100%时的区块请求算法
+核心改进：HTTP Tracker、Torrent下载、访问RSS源支持 zstd 压缩算法
+界面改进：完善新版WebUI界面
+界面改进：新版WebUI界面（功能还不完整，继续完善中）
+界面改进：完善远程下载提示信息&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;BitComet(比特彗星) v2.12 官方绿色版 &amp;amp; 安装版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGZjuWAAT6KaeugPEZF9X5NA1?pwd=r4zd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGZjuWAAT6KaeugPEZF9X5NA1?pwd=r4zd&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Ghost Downloader(多功能下载管理工具) v3.4.6 中文绿色版</title>
+        <link>https://www.danlong360.com/post/675856/</link>
+        <pubDate>Tue, 14 Jan 2025 19:27:05 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/675856/</guid>
+        <description>&lt;p&gt;Ghost Downloader 是一款高效、多功能的下载管理工具，旨在为用户提供快速、稳定且易于使用的下载体验。它支持多种协议和文件类型，能够处理从普通网页文件到大型媒体文件的各种下载任务。Ghost Downloader 通过智能调度和优化技术，确保下载速度最大化，并提供丰富的功能来帮助用户管理和组织下载内容。无论是日常下载、批量下载还是复杂的多部分文件下载，Ghost Downloader 都能显著提升用户的下载效率和体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/675856/image-20250114192759657.png&#34;
+	width=&#34;640&#34;
+	height=&#34;457&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;image-20250114192759657&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;140&#34;
+		data-flex-basis=&#34;336px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;多协议支持：支持 HTTP、HTTPS、FTP 和 BitTorrent 等多种下载协议，确保用户可以下载各种类型的文件，包括网页资源、软件安装包、音乐、视频等。对于 BitTorrent 下载，软件内置了完整的客户端功能，用户可以直接管理和监控种子文件的下载进度。&lt;/p&gt;
+&lt;p&gt;分段下载：通过将大文件分割成多个部分并同时下载，Ghost Downloader 可以显著提高下载速度。每个部分独立下载，完成后自动合并，确保文件完整性和下载效率。即使在断网或意外中断的情况下，用户也可以从中断处继续下载，无需重新开始。&lt;/p&gt;
+&lt;p&gt;批量下载：用户可以一次性添加多个下载任务，Ghost Downloader 会自动排队并按顺序进行下载。支持从网页中提取链接并批量添加到下载队列，方便用户快速下载大量文件。此外，软件还提供了定时下载功能，用户可以设置特定时间开始或暂停下载任务。&lt;/p&gt;
+&lt;p&gt;下载加速：通过智能连接调度和优化技术，Ghost Downloader 能够充分利用用户的网络带宽，最大化下载速度。它可以根据网络状况自动调整连接数和下载策略，确保稳定的下载体验。对于限速的网络环境，软件还提供了流量控制功能，避免占用过多带宽影响其他网络活动。&lt;/p&gt;
+&lt;p&gt;下载管理：提供直观的下载管理界面，用户可以查看所有下载任务的状态，包括已完成、正在进行和等待中的任务。支持对下载任务进行分类、排序和搜索，方便用户快速找到所需的文件。用户还可以暂停、恢复和删除下载任务，灵活管理下载进度。&lt;/p&gt;
+&lt;p&gt;文件校验与修复：在下载完成后，Ghost Downloader 会自动校验文件的完整性，确保下载的文件没有损坏。如果发现文件不完整或损坏，软件会尝试自动修复，确保用户获得完整的文件。对于分段下载的文件，软件会在合并时进行额外的校验，保证文件的正确性。&lt;/p&gt;
+&lt;p&gt;下载历史记录：保存所有的下载历史记录，用户可以随时查看和重新下载之前的文件。历史记录中包含下载的时间、文件名、来源地址等信息，方便用户追溯和管理下载内容。支持导出和导入历史记录，便于备份和分享。&lt;/p&gt;
+&lt;p&gt;插件扩展：Ghost Downloader 支持插件扩展，用户可以根据需要安装不同的插件来增强软件的功能。例如，视频抓取插件可以帮助用户从在线视频网站下载视频，字幕插件可以自动查找和下载对应的字幕文件。插件系统使得软件更加灵活和个性化，满足不同用户的需求。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高效的下载速度：通过分段下载和智能连接调度技术，Ghost Downloader 能够充分利用用户的网络带宽，最大化下载速度。无论是在高速网络还是限速环境中，软件都能提供稳定的下载体验。&lt;/p&gt;
+&lt;p&gt;丰富的下载管理：提供直观的下载管理界面，用户可以轻松查看和管理所有下载任务。支持分类、排序和搜索功能，方便用户快速找到所需的文件。灵活的下载任务控制，如暂停、恢复和删除，使用户能够更好地管理下载进度。&lt;/p&gt;
+&lt;p&gt;强大的文件校验与修复：在下载完成后，Ghost Downloader 会自动校验文件的完整性，确保下载的文件没有损坏。如果发现文件不完整或损坏，软件会尝试自动修复，保证用户获得完整的文件。对于分段下载的文件，软件会在合并时进行额外的校验，确保文件的正确性。&lt;/p&gt;
+&lt;p&gt;便捷的批量下载：用户可以一次性添加多个下载任务，软件会自动排队并按顺序进行下载。支持从网页中提取链接并批量添加到下载队列，方便用户快速下载大量文件。定时下载功能允许用户设置特定时间开始或暂停下载任务，进一步提高管理效率。&lt;/p&gt;
+&lt;p&gt;全面的多协议支持：支持 HTTP、HTTPS、FTP 和 BitTorrent 等多种下载协议，确保用户可以下载各种类型的文件。对于 BitTorrent 下载，软件内置了完整的客户端功能，用户可以直接管理和监控种子文件的下载进度。&lt;/p&gt;
+&lt;p&gt;详细的下载历史记录：保存所有的下载历史记录，用户可以随时查看和重新下载之前的文件。历史记录中包含下载的时间、文件名、来源地址等信息，方便用户追溯和管理下载内容。支持导出和导入历史记录，便于备份和分享。&lt;/p&gt;
+&lt;p&gt;灵活的插件扩展：支持插件扩展，用户可以根据需要安装不同的插件来增强软件的功能。例如，视频抓取插件可以帮助用户从在线视频网站下载视频，字幕插件可以自动查找和下载对应的字幕文件。插件系统使得软件更加灵活和个性化，满足不同用户的需求。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Ghost Downloader(多功能下载管理工具) v3.4.6 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGZjnPZmBf6mhDzwe0dOnroA1?pwd=j7w9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGZjnPZmBf6mhDzwe0dOnroA1?pwd=j7w9&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Fast Video Downloader(视频下载器) v4.0.0.68 多语便携版</title>
+        <link>https://www.danlong360.com/post/654774/</link>
+        <pubDate>Tue, 14 Jan 2025 19:11:07 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/654774/</guid>
+        <description>&lt;p&gt;Fast Video Downloader 是一款简单易用的视频下载器。它可以帮助用户快速下载 YouTube、Facebook、Vimeo、Dailymotion 等流行视频平台的视频，支持将视频以常见的视频格式（如MP4、FLV、MOV）保存到本地设备上。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/654774/20250114_071117.png&#34;
+	width=&#34;640&#34;
+	height=&#34;467&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;328px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持从多个视频平台下载视频。
+可以下载高清视频。
+快速下载整个播放列表或频道的视频。
+可以选择下载视频的质量和格式。
+可以将下载的视频转换为不同的格式。
+具有下载速度限制和任务调度功能，以便在下载过程中灵活地管理下载任务。
+提供简单直观的用户界面，易于使用。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;高速下载：Fast Video Downloader 采用多线程技术，可以提高下载速度，使用户能够快速下载大型视频文件。
+多平台支持：该软件支持多个流行的视频平台，用户可以方便地从这些平台上下载视频。
+批量下载：快速视频下载器支持批量下载，用户可以选择下载整个播放列表或频道中的所有视频，而不需要一个一个地下载。
+下载质量和格式选择：用户可以根据自己的需求选择不同的视频质量和格式进行下载，以适应不同设备和需求。
+视频转换：Fast Video Downloader 还提供视频转换功能，用户可以将下载的视频转换为其他常见格式，以便在不同设备上播放。
+简单易用：该软件提供简洁直观的用户界面，使用户可以轻松地进行视频下载操作。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编辑原因：01.14 更新下载引擎，试用时间已破解，不会变化&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Fast Video Downloader(视频下载器) v4.0.0.68 多语便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGZfq7oXqxrLL1dVPOLNAoAA1?pwd=sgts&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGZfq7oXqxrLL1dVPOLNAoAA1?pwd=sgts&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Cyberduck(免费FTP/SFTP客户端) v9.1.2.42722</title>
+        <link>https://www.danlong360.com/post/561855/</link>
+        <pubDate>Tue, 14 Jan 2025 19:03:47 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/561855/</guid>
+        <description>&lt;p&gt;Cyberduck 是一款免费开源的 FTP/SFTP/WebDAV/iCloud 等协议的客户端软件。它有一个直观的用户界面，支持文本编辑器、外部工具编辑器等实用功能。在协议支持方面，Cyberduck 特别强调对 Amazon S3 和 WebDAV 的支持，其支持该协议接口，甚至还支持 Google 地址的云端硬盘、Google Docs 等云存储服务。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/561855/20250114_070357.png&#34;
+	width=&#34;640&#34;
+	height=&#34;511&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;125&#34;
+		data-flex-basis=&#34;300px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;支持多种文件传输协议：FTP、SFTP、WebDAV、Amazon S3 等；&lt;/li&gt;
+&lt;li&gt;支持 Google Drive 、Google Docs 云存储服务；&lt;/li&gt;
+&lt;li&gt;支持作者设定项；&lt;/li&gt;
+&lt;li&gt;集成基本的文件编辑器和外部编辑器；&lt;/li&gt;
+&lt;li&gt;支持多语言界面。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;简洁易用：Cyberduck 的操作界面简洁易用，便于用户快速上手；&lt;/li&gt;
+&lt;li&gt;支持多种文件传输协议：利用 Cyberduck ，用户可以方便地进行多种文件传输；&lt;/li&gt;
+&lt;li&gt;强大的文件管理功能：Cyberduck 支持文件拖拽、复制、粘贴、删除、重命名等基本管理操作；&lt;/li&gt;
+&lt;li&gt;可扩展性强：Cyberduck 支持外部工具编辑器，用户可以根据自己的需求自由扩展功能；&lt;/li&gt;
+&lt;li&gt;多语言支持：Cyberduck 支持多种语言界面。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Cyberduck(免费FTP/SFTP客户端) v9.1.2.42722&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGZeB2ixMa3V6-OM80uWmG1A1?pwd=v89k&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGZeB2ixMa3V6-OM80uWmG1A1?pwd=v89k&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>SmartFTP Client Enterprise(FTP客户端) v10.0.3251 多语便携版</title>
         <link>https://www.danlong360.com/post/265853/</link>
         <pubDate>Mon, 13 Jan 2025 19:31:32 +0800</pubDate>

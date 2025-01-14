@@ -7,7 +7,113 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Mon, 13 Jan 2025 19:26:03 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 14 Jan 2025 19:31:39 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>火狐浏览器(Firefox)tete009 Firefox 134.0.1 private build</title>
+        <link>https://www.danlong360.com/post/147664/</link>
+        <pubDate>Tue, 14 Jan 2025 19:31:39 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/147664/</guid>
+        <description>&lt;p&gt;tete009 Firefox最新版火狐浏览器知名第三方编译版,火狐浏览器tete009编译版,其优化设计和兼容性非常优秀.它的便携化制作方式完美,加载大容量网页速度特别快,尤其是加载图片速度快,兼容性启动速度非常不错.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/147664/20250114_073150.png&#34;
+	width=&#34;640&#34;
+	height=&#34;438&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;146&#34;
+		data-flex-basis=&#34;350px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;-tete009-firefox-特点介绍&#34;&gt;● tete009 Firefox 特点介绍
+&lt;/h3&gt;&lt;p&gt;tete009 Mozilla Firefox - Tete&amp;rsquo;s Atelier
+&lt;a class=&#34;link&#34; href=&#34;http://www1.plala.or.jp/tete009/en-US/software.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www1.plala.or.jp/tete009/en-US/software.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;tete009 Firefox 编译版的启动和加载图片时间是所有火狐浏览器版本里最快的!tete009的版本改进了Firefox内存占用，根据不同的CPU指令集重写了tmemutil.dll，即内存管理的dll文件，使效率大为提高;改善了浏览器的渲染过程，使渲染效率更高;此外Module Binder能缩短Firefox的启动时间。根据不同的CPU指令集制作不同的版本，使Mozilla Firefox能够根据不同的平台而优化，这也是众多第三方编译版共同的特征。&lt;/p&gt;
+&lt;h3 id=&#34;-tete009-firefox版本切换简体中文方法&#34;&gt;● tete009 Firefox版本切换简体中文方法
+&lt;/h3&gt;&lt;p&gt;设置(Settings)-&amp;gt;常规(General)-&amp;gt;language(语言)
+English(US)-&amp;gt;下拉-&amp;gt;Search for more languages (搜索更多语言)
+Select a language to add-&amp;gt;下拉-&amp;gt;简体中文-&amp;gt;Add-&amp;gt;添加完-OK&lt;/p&gt;
+&lt;h3 id=&#34;-tete009-firefox版本如何启用便携模式&#34;&gt;● tete009 Firefox版本如何启用便携模式?
+&lt;/h3&gt;&lt;p&gt;在根目录新建文件 tmemutil.ini，启用以下内容即可完成便携模式
+%AppData%LocalMozillaFirefoxProfiles可以保存到跟根目录
+Portable = 1，如果为0则禁用便携模式
+[General]
+Portable = 1
+PortableDataPath = D:FirefoxProfiles
+● 如何更新tete009 Firefox版本 (作者方法)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打开tete009 Firefox旧版的所在位置，根据需要备份以下文件和文件夹&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;├—PortableDataPath 指定的文件夹(如果启用了便携模式)
+├—searchplugins folder (搜索插件目录)
+├—plugins folder (插件目录)
+├—tmemutil.ini (如果已存在)&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;删除tete009 Firefox旧版本&lt;/li&gt;
+&lt;li&gt;解压tete009 Firefox最新版&lt;/li&gt;
+&lt;li&gt;将备份文件复制到新版目录&lt;/li&gt;
+&lt;li&gt;如有必要重新安装语言包&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;x64 SSE3
+Firefox 134.0.1 [2025011312 en-US win32 tete009 x64 sse3 cspgo] (68.9MB)
+MD5: 13d3a26ba1e0613db6844d4a4bacae77
+SHA1: 84072820b13892375a9301c533a614b8f3c79914
+SHA256: 2cf98086f8ad5f15a92a6ca8d483b9b38e04cce0079d390a60f647210b39c130&lt;/p&gt;
+&lt;p&gt;Language packs:
+&lt;a class=&#34;link&#34; href=&#34;https://releases.mozilla.org/pub/mozilla.org/firefox/releases/134.0.1/win64/xpi/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://releases.mozilla.org/pub/mozilla.org/firefox/releases/134.0.1/win64/xpi/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;火狐浏览器(Firefox)tete009 Firefox 134.0.1 private build&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGZlDvM6Du160ZcZu12EnUEA1?pwd=vwhv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGZlDvM6Du160ZcZu12EnUEA1?pwd=vwhv&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Mozilla Firefox(火狐浏览器) v134.0.1 官方正式版</title>
+        <link>https://www.danlong360.com/post/125688/</link>
+        <pubDate>Tue, 14 Jan 2025 19:21:36 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/125688/</guid>
+        <description>&lt;p&gt;Mozilla Firefox火狐浏览器下载,火狐浏览器2024最新版官方稳定版,火狐浏览器(Firefox2024)速度快,上网体验最安全!火狐游览器内核性能非常优秀,采用Gecko引擎主流网络浏览器,提供多种网络标准和个性化定制.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/125688/20250114_072146.png&#34;
+	width=&#34;735&#34;
+	height=&#34;533&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;330px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;快速浏览：火狐浏览器采用了先进的渲染引擎，可以快速加载网页，并且具有快速的响应速度。
+安全性：火狐浏览器内置了丰富的安全功能，包括恶意软件和钓鱼网站的防护机制，保护用户的个人信息安全。
+隐私保护：火狐浏览器提供了一系列的隐私保护功能，例如追踪保护、强制加密的HTTPS连接和个人数据同步功能。
+全面自定义：火狐浏览器提供了丰富的扩展和主题，用户可以根据自己的喜好自定义浏览器的外观和功能。
+跨平台兼容：火狐浏览器可在Windows、Mac、Linux和Android等多个平台上运行，并且提供了统一的用户体验。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;强调用户体验：火狐浏览器致力于提供简洁而直观的用户界面，使用户能够更容易地浏览和管理网页。
+开源：火狐浏览器采用了开源的软件开发模式，这意味着任何人都可以查看和修改其源代码，增加其安全性和可信度。
+多进程架构：火狐浏览器使用多进程架构，使得浏览器更稳定，能够更好地处理多个标签页和插件。
+扩展生态系统：火狐浏览器具有丰富的扩展生态系统，用户可以根据自己的需要选择和安装各种功能扩展，从而增强浏览器的功能和定制性。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Mozilla Firefox(火狐浏览器) v134.0.1 官方正式版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGZhIiq8cCPRkD7_e0VsDo3A1?pwd=thbr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGZhIiq8cCPRkD7_e0VsDo3A1?pwd=thbr&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>傲游浏览器 v7.3.1.2200 中文绿色版</title>
         <link>https://www.danlong360.com/post/659807/</link>
         <pubDate>Mon, 13 Jan 2025 19:26:03 +0800</pubDate>

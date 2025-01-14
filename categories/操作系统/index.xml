@@ -7,7 +7,71 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 07 Jan 2025 19:06:19 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 14 Jan 2025 19:22:59 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>蜂鸟WinPE维护系统(小巧PE维护系统) v2.4.2</title>
+        <link>https://www.danlong360.com/post/687896/</link>
+        <pubDate>Tue, 14 Jan 2025 19:22:59 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/687896/</guid>
+        <description>&lt;p&gt;蜂鸟PE是基于WimBuilder2构建而成的PE维护系统。励志做一个安全、小巧、稳定、流畅的维护PE。
+精简的文件内核与注册表，减少对内存的占用。全面的维护工具。透明无加密的系统文件。不接受任何形式的软件捆绑。干净清晰的维护体验。
+蜂鸟PE之所以用蜂鸟来命名，是因为有个叫Lubuntu的Linux系统。那时候喜欢体积小，功能多的系统。而且它的桌面壁纸就是一只蜂鸟。所以这个PE就叫蜂鸟PE。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/687896/20250114_072325.png&#34;
+	width=&#34;640&#34;
+	height=&#34;480&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持：笔记本电量显示、Bitlocker、Linux分区 等功能。蜂鸟PE体积在400MB以下,并完整保留了Windows的众多原生功能无捆绑 不会篡改浏览器主页、不会安装任何第三方应用。给予用户一个原生 Windows 系统的使用环境，无繁杂 PE内核。
+蜂鸟PE是基于WimBuilder2构建而成的PE维护系统。励志做一个安全、小巧、稳定、流畅的维护PE。
+精简的文件内核与注册表，减少对内存的占用。全面的维护工具。透明无加密的系统文件。不接受任何形式的软件捆绑。干净清晰的维护体验。
+蜂鸟PE之所以用蜂鸟来命名，是因为有个叫Lubuntu的Linux系统。那时候喜欢体积小，功能多的系统。而且它的桌面壁纸就是一只蜂鸟。所以这个PE就叫蜂鸟PE。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;v2.4.2
+1.更新 7-Zip 23.01 至 24.09
+2.更新 WinHex 20.4 至 21.3
+3.更新 内存检测 4.68 至 4.83
+4.更新 CPU-Z 2.09.0 至 2.13.0
+5.更新 WinNTSetup 5.3.4 至 5.4.1
+6.更新 CrystalDiskInfo 9.2.3 至 9.5.0
+7.更新 Everything 1.4.1.1024 至 1.4.1.1026
+8.更新 DiskGenius 5.5.1.1508 至 5.6.1.1580
+9.更新 内核由 22000.2836 至 22000.3260
+10.更新 WimTool 1.30.2011.0501 至 1.6.2025.0101
+11.内置 WinXShell
+12.取消小键盘禁用
+13.将 密码修改 (NTPassword) 更改为 登录解锁器 (Windows Login Unlocker)
+14.调整PE加载 自定义功能.TXT 脚本逻辑，与 v2.4.1 不通用。如已修改 TOOL.ZIP，将 TOOL.ZIP 备份，免格升级后再替换
+XP PE：
+1.新增 USB3.0 驱动
+2.取消小键盘禁用
+写入器：
+1.新增 启动盘制作失败的提示
+2.新增 PECMD 和 Gdisk32 的制作方案。写入器会自动判断系统环境选择制作方案
+3.部分系统的 defragsvc 服务被禁用，使用 diskpart 方案时，会自动将 defragsvc 服务设为手动
+4.启动盘 EFI 分区格式更改为 FAT32。每次免格升级，会格式化启动盘的 EFI 分区为 FAT32 格式
+5.本地模式支持 Win7 EFI 方式启动（自动替换本机 bootmgfw.efi、bootmgfw.efi.mui 文件）
+6.本地模式支持 NT5（XP、2003、2000）修改启动等待时间
+7.更改 NT5 本地模式的安装、卸载算法（NT5 中，卸载和升级功能对之前的版本无效）
+其它：
+1.在 Legacy 启动下，不使用 GRLDR 引导、移除两个 DOS 工具。使用 BCD 作为系统选择界面&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;蜂鸟WinPE维护系统(小巧PE维护系统) v2.4.2&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGZiW8xV64O4u4-dj5igblvA1?pwd=4zrs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGZiW8xV64O4u4-dj5igblvA1?pwd=4zrs&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>WinToUSB(U盘安装操作系统工具) v9.5.0.2 多语便携版</title>
         <link>https://www.danlong360.com/post/46617/</link>
         <pubDate>Tue, 07 Jan 2025 19:06:19 +0800</pubDate>
