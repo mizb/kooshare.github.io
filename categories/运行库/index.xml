@@ -7,7 +7,229 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sun, 22 Dec 2024 20:08:35 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 16 Jan 2025 02:59:18 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E8%BF%90%E8%A1%8C%E5%BA%93/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>游戏常用运行库合集 Game Runtime Libraries Package v5.0.25.0115</title>
+        <link>https://www.danlong360.com/post/345823/</link>
+        <pubDate>Thu, 16 Jan 2025 02:59:18 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/345823/</guid>
+        <description>&lt;p&gt;游戏常用运行库 合集 整合了许多游戏会用到的运行库，支持 Windows XP – Windows 11 系统，并且支持自动检测系统勾选推荐的运行库，方便快捷。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/345823/20250116_025931.png&#34;
+	width=&#34;499&#34;
+	height=&#34;360&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;138&#34;
+		data-flex-basis=&#34;332px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;游戏常用运行库合集 v1.0.24.0426&lt;/p&gt;
+&lt;h3 id=&#34;本版特点&#34;&gt;本版特点
+&lt;/h3&gt;&lt;p&gt;By：mefcl
+整合常见最新游戏所需运行库
+根据系统自动勾选推荐的版本
+纯净安装包无病毒和弹窗行为
+支持静默安装，静默参数：/S
+致谢：
+David R. Stein、Dreamcast、NanLon、rizalmart、断剑留痕、云水扶摇&lt;/p&gt;
+&lt;p&gt;包含组件
+Microsoft Visual C++ 2002-2003 Runtime x86
+Microsoft Visual C++ 2005 Redist x86 x64
+Microsoft Visual C++ 2008 Redist x86 x64
+Microsoft Visual C++ 2010 Redist x86 x64
+Microsoft Visual C++ 2012 Redist x86 x64
+Microsoft Visual C++ 2013 Redist x86 x64
+Microsoft Visual C++ 2015-2022 Redist x86 x64
+Microsoft .NET Framework 1.0
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 3.5（含2.0、3.0） x86 x64
+Microsoft .NET Framework 4.0 x86 x64
+Microsoft .NET Framework 4.8 x86 x64
+Microsoft .NET Framework 6.0 x86 x64
+Microsoft .NET Framework 7.0 x86 x64
+Microsoft .NET Framework 8.0 x86 x64
+Microsoft XNA Framework 1.0 x86 x64
+Microsoft XNA Framework 2.0 x86 x64
+Microsoft XNA Framework 3.0 x86 x64
+Microsoft XNA Framework 3.1 x86 x64
+Microsoft XNA Framework 4.0 x86 x64
+Microsoft Visual F# Runtime
+Microsoft Visual J# Redistributable Package
+Microsoft AppLocale
+Microsoft XML Core Services 4.0
+Microsoft XML Core Services 6.0
+Microsoft Silverlight 5.0
+Microsoft Games for Windows Marketplace
+Microsoft Games for Windows – LIVE Redistributable
+Microsoft Visual Basic/C++ Runtime
+Microsoft Visual Basic 6.0 Runtime Plus
+– Visual Basic runtime files (v1.0 至 v6.0)
+– Visual Basic Extensions (VBX)
+– ActiveX Controls
+– Dynamic Data Exchange (DDE)
+– Open Link Embedding (OLE)
+– OLE Automation
+– Data Access Objects (DAO)
+– Remote Data Objects (RDO)
+– Distributive Component Object Model (DCOM)
+– Microsoft Data Access Components (MDAC)
+– Microsoft Jet (from 1.x 至 3.x)
+– Windows Script Host (WSH)
+– Windows Management Instrumentation (WMI)
+– DirectX Components for Visual Basic
+– WinG
+– Crystal Report runtime files
+– Third-party ActiveX Controls 和 libraries
+– Microsoft XML Services
+– NTVDM 和 DirectPlay（通过 Windows 功能，仅适用于 Windows 8 或更高版本）
+Microsoft Visual Studio 2010 Tools for Office Runtime
+DirectX 9.0c 9.0、10、11
+NVIDIA PhysX System Software
+Open Audio Library (OpenAL) 2.1
+Rapture3D 2.7.4
+SlimDX Runtime .NET 2.0
+SlimDX Runtime .NET 4.0
+Rockstar Games Social Club 1.1
+Unity Web Player 5.3
+VulkanRT 1.3
+UE4 Prerequisites 1.0 x64&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;2025.01.15
+更新 Microsoft .NET Framework Ver 8.0.12.34404
+更新 Microsoft .NET Framework Ver 9.0.1.34410&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;p&gt;游戏常用运行库合集 Game Runtime Libraries Package v5.0.25.0115&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGfUHVZ2xYQ8aHBqsFSi_DUA1?pwd=p96m&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGfUHVZ2xYQ8aHBqsFSi_DUA1?pwd=p96m&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Microsoft .NET Runtime(.NET8.0下载) v8.0.12</title>
+        <link>https://www.danlong360.com/post/301384/</link>
+        <pubDate>Wed, 15 Jan 2025 19:11:06 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/301384/</guid>
+        <description>&lt;p&gt;Microsoft .NET 8.0.0 是微软推出的一款软件开发平台，用于创建和运行各种类型的应用程序。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/301384/20250115_071119.png&#34;
+	width=&#34;646&#34;
+	height=&#34;461&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;140&#34;
+		data-flex-basis=&#34;336px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;跨平台支持：.NET 8.0.0 可在 Windows、Mac 和 Linux 等多种操作系统上开发和运行应用程序。
+高性能：通过优化和并行计算技术，.NET 8.0.0 可以提供高性能的应用程序执行效果。
+多语言支持：.NET 8.0.0 支持多种编程语言，包括C#、F#和Visual Basic等。开发人员可以根据自己的偏好选择合适的语言进行开发。
+网络和云集成：.NET 8.0.0 提供了强大的网络和云集成功能，使开发人员能够轻松地与 Web 服务、云存储和数据库等进行交互。
+模块化开发：.NET 8.0.0 支持模块化开发，开发人员可以将应用程序划分为多个可重用的模块，以提高开发效率。
+安全性：.NET 8.0.0 提供了多种安全功能和机制，包括代码签名、数据加密和身份验证等，以保护应用程序和用户数据的安全性。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;强大的工具集：.NET 8.0.0 提供了丰富的工具和库，使开发人员能够更快地构建和调试应用程序。这些工具包括代码编辑器、调试器和性能分析器等。
+大规模应用支持：.NET 8.0.0 支持构建和部署大规模的应用程序，可以处理数千个并发请求，保持应用程序的高响应性能。
+面向未来的技术：.NET 8.0.0 不断更新和改进，以支持最新的技术和趋势。开发人员可以利用各种新功能和特性来构建现代化的应用程序。
+开放源代码：.NET 8.0.0 是开源的，开发人员可以获取其源代码并自由地进行修改和定制，以满足自己的需求。
+向后兼容性：.NET 8.0.0 具有良好的向后兼容性，意味着旧版本的应用程序可以无缝地迁移到新版本，无需进行大量的修改和调整。
+强大的社区支持：.NET 8.0.0 拥有庞大的开发者社区，开发人员可以获得来自社区的支持、教程和资源，加速应用程序的开发过程。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Microsoft .NET Runtime 8.0.12 (2024/12/04)&lt;/p&gt;
+&lt;p&gt;x64：https://download.visualstudio.microsoft.com/download/pr/136f4593-e3cd-4d52-bc25-579cdf46e80c/8b98c1347293b48c56c3a68d72f586a1/dotnet-runtime-8.0.12-win-x64.exe
+x86：https://download.visualstudio.microsoft.com/download/pr/3210417e-ab32-4d14-a152-1ad9a2fcfdd2/da097cee5aa85bd79b6d593e3866fb7f/dotnet-runtime-8.0.12-win-x86.exe&lt;/p&gt;
+&lt;p&gt;Microsoft Windows Desktop Runtime 8.0.12 (2024/12/05)
+x64：https://download.visualstudio.microsoft.com/download/pr/f1e7ffc8-c278-4339-b460-517420724524/f36bb75b2e86a52338c4d3a90f8dac9b/windowsdesktop-runtime-8.0.12-win-x64.exe
+x86：https://download.visualstudio.microsoft.com/download/pr/acf6e5d3-1e2f-4072-833c-fa84a10841c5/acd48342207247f404a5aaa58d1a1ea1/windowsdesktop-runtime-8.0.12-win-x86.exe&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Microsoft .NET Runtime(.NET9.0下载) v9.0.1</title>
+        <link>https://www.danlong360.com/post/768818/</link>
+        <pubDate>Wed, 15 Jan 2025 19:10:24 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/768818/</guid>
+        <description>&lt;p&gt;Microsoft .NET 9.0.0 是微软推出的一个重要的框架更新，旨在为开发者提供更强大的工具和功能来构建现代化的应用程序。.NET 9.0.0 支持 Windows、macOS 和 Linux 等多种操作系统，适用于开发桌面应用、Web 应用、移动应用和云服务。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/768818/20250115_071035.png&#34;
+	width=&#34;646&#34;
+	height=&#34;461&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;140&#34;
+		data-flex-basis=&#34;336px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;跨平台开发：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;多平台支持：支持 Windows、macOS 和 Linux 等多种操作系统，开发者可以在不同平台上构建和运行应用程序。
+统一开发体验：提供统一的开发体验，开发者可以使用相同的工具和语言在不同平台上进行开发。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;高性能：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;优化的运行时：包含优化的运行时环境，提高应用程序的性能和响应速度。
+异步编程：支持异步编程模型，提高应用程序的并发性和响应能力。
+内存管理：改进的内存管理机制，减少内存泄漏和提高内存利用率。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;现代化的开发工具：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Visual Studio 集成：与 Visual Studio 集成，提供强大的开发环境和调试工具。
+命令行工具：支持命令行工具，如 dotnet CLI，方便开发者进行自动化构建和部署。
+依赖管理：支持 NuGet 包管理器，方便管理和更新项目依赖。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;丰富的框架和库：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;ASP.NET Core：支持 ASP.NET Core 框架，用于构建高性能的 Web 应用和服务。
+Blazor：支持 Blazor 框架，用于构建客户端 Web 应用，使用 C# 和 Razor 视图。
+Entity Framework Core：支持 Entity Framework Core ORM，用于数据库操作和数据访问。
+Windows Forms 和 WPF：支持 Windows Forms 和 WPF 框架，用于构建桌面应用程序。&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;云原生支持：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;容器化：支持 Docker 容器化，方便应用程序的打包和部署。
+微服务架构：支持微服务架构，方便构建和管理分布式应用程序。
+Azure 集成：与 Azure 云服务集成，提供丰富的云原生开发和管理工具。&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;安全性和可靠性：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;安全特性：提供多种安全特性，如身份验证、授权和数据加密，确保应用程序的安全性。
+可靠性：提供高可靠性的运行时环境，确保应用程序的稳定性和可用性。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;跨平台开发：支持多平台开发，提供统一的开发体验，方便开发者在不同平台上构建和运行应用程序。
+高性能：优化的运行时环境和异步编程模型，提高应用程序的性能和响应速度。
+现代化的开发工具：与 Visual Studio 和 dotnet CLI 集成，提供强大的开发环境和工具。
+丰富的框架和库：支持多种框架和库，满足不同应用场景的需求。
+云原生支持：支持容器化和微服务架构，方便构建和管理云原生应用程序。
+安全性和可靠性：提供多种安全特性和高可靠的运行时环境，确保应用程序的安全性和稳定性。
+社区和支持：提供详细的使用指南和技术支持，帮助开发者解决使用过程中遇到的问题。
+定期更新：开发团队定期发布更新，修复已知问题并增加新功能，确保软件的稳定性和兼容性。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Microsoft .NET Runtime 9.0.1 (2024/12/11)&lt;/p&gt;
+&lt;p&gt;x64：https://download.visualstudio.microsoft.com/download/pr/24046c49-1b56-4c1b-9c15-75c94d7a841a/d089fe00210b8113c33ea96e1e932fb7/dotnet-runtime-9.0.1-win-x64.exe
+x86：https://download.visualstudio.microsoft.com/download/pr/21eed405-253a-4ac5-8eed-e54d36bffdaa/3692b7badff8c4311474b4511c3ab929/dotnet-runtime-9.0.1-win-x86.exe&lt;/p&gt;
+&lt;p&gt;Microsoft Windows Desktop Runtime 9.0.1 (2024/12/11)
+x64：https://download.visualstudio.microsoft.com/download/pr/ae0291d4-bcdc-4e56-a952-4f7d84bf2673/1bc4a93f466aab309776931e5a5c4eb4/windowsdesktop-runtime-9.0.1-win-x64.exe
+x86：https://download.visualstudio.microsoft.com/download/pr/dcd86c7a-9e55-4cc0-8c71-b99ece1350c4/7cc9c0996933075f56ad69c1169e0c1c/windowsdesktop-runtime-9.0.1-win-x86.exe&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Microsoft .Net Packages AIO(.NET合集包) v12.11.24</title>
         <link>https://www.danlong360.com/post/93294/</link>
         <pubDate>Sun, 22 Dec 2024 20:08:35 +0800</pubDate>

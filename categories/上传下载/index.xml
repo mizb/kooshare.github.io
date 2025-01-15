@@ -7,7 +7,194 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 14 Jan 2025 19:28:41 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 16 Jan 2025 02:48:26 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Tixati(免费群组BitTorrent客户端) v3.32 多语便携版</title>
+        <link>https://www.danlong360.com/post/339553/</link>
+        <pubDate>Thu, 16 Jan 2025 02:48:26 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/339553/</guid>
+        <description>&lt;p&gt;Tixati 是一款专为 BitTorrent 下载设计的高效、轻量级客户端，旨在提供快速、稳定的下载体验。它结合了先进的 P2P 技术和用户友好的界面，帮助用户轻松管理种子文件，优化下载速度，并确保资源的有效利用。Tixati 适用于需要频繁使用 BitTorrent 协议进行文件共享和下载的用户，无论是个人用户还是专业人士，都能从中受益。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/339553/20250116_024843.png&#34;
+	width=&#34;640&#34;
+	height=&#34;467&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;328px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;快速下载：采用先进的 P2P 技术，优化下载算法，确保用户能够以最快速度获取文件，同时保持网络连接的稳定性。
+智能带宽管理：内置智能带宽管理器，用户可以根据需要设置上传和下载速度限制，确保其他网络活动不受影响。
+磁力链接支持：直接支持磁力链接（Magnet Links），用户无需下载 .torrent 文件即可开始下载，简化了操作流程。
+种子管理：提供详细的种子信息和统计，用户可以查看每个任务的进度、连接数、上传和下载速度等，方便监控和管理下载任务。
+自动更新：定期检查并自动下载最新的软件更新，确保用户始终使用最新版本，享受最佳性能和安全性。
+隐私保护：内置加密和匿名功能，用户可以选择启用加密连接，保护隐私并减少被追踪的风险。
+RSS 订阅：支持 RSS 订阅功能，用户可以订阅喜欢的站点，自动发现和下载新发布的种子文件。
+调度任务：允许用户设置定时任务，如在特定时间段内暂停或恢复下载，合理安排网络资源。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;轻量级运行：占用系统资源少，即使在老旧设备上也能保持流畅运行，不影响其他应用程序的性能。
+直观界面：提供简洁明了的操作界面，用户可以轻松找到所需功能，无需复杂的培训或技术支持，快速上手。
+高级定制：支持高度自定义，用户可以根据个人需求调整界面布局、设置偏好选项，满足不同用户的使用习惯。
+稳定可靠：经过多次优化和测试，Tixati 在处理大量并发下载时表现出色，确保下载任务的稳定性和可靠性。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Tixati(免费群组BitTorrent客户端) v3.32 多语便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGfU5ASQz3ukLPLryJkgsEUA1?pwd=tyfr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGfU5ASQz3ukLPLryJkgsEUA1?pwd=tyfr&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>BitComet(比特彗星) v2.12 解锁全功能豪华版</title>
+        <link>https://www.danlong360.com/post/468674/</link>
+        <pubDate>Thu, 16 Jan 2025 02:47:13 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/468674/</guid>
+        <description>&lt;p&gt;比特彗星(BitComet，简写为”BC”)是一款采用“C++”编程语言为Microsoft Windows平台编写的BitTorrent客户端软件，也可用于HTTP/FTP下载，并可选装eMule插件(eMule plug-in)通过ed2k网络进行BT/eMule同时下载。它的特性包括同时下载，下载队列，从多文件种子(torrent)中选择下载单个文件，快速恢复下载，聊天，磁盘缓存，速度限制，端口映射，代理服务器和IP地址过滤等。最新的版本中加入了公用DHT网络的支持和反吸血保护(针对迅雷)设定。该版本由 itzmx 论坛小樱制作维护，感谢。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/468674/20250116_024727.png&#34;
+	width=&#34;640&#34;
+	height=&#34;388&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;164&#34;
+		data-flex-basis=&#34;395px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;彗星論壇
+&lt;a class=&#34;link&#34; href=&#34;https://www.cometbbs.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.cometbbs.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;v2.12 正式版预览
+界面修复：主界面隐藏到系统托盘的情况下，浏览器打开磁链后不应显示主窗口
+核心改进：调整Tracker、RSS等TCP连接的优先级
+核心改进：HTTPS 下载增加 ALPN 协议头
+核心修复：HTTP 任务处理原始链接转跳到不同CDN地址的情况&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;by 小樱
+- 解锁种子市场（即改繁体为简体中文）
+- 集成启用经典电驴插件eMule v0.50a
++禁止启动自动强制创建开始菜单快捷方式
+- 预设配置文件：去除侧边栏精品软件链接
+- 预设配置文件：用户显IP地址、其它优化
+- 预设配置文件：去详细信息界面起始页（广告页）
+- 预设配置文件：精选订阅更新Tracker服务器自动添加到BT
+- 优化提高了种子上传传输速度和程序长时间挂机做种稳定性
+- 适合大量种子RSS自动发布，支持国内外各大PT站挂机做种&lt;/p&gt;
+&lt;p&gt;# 关于端口堵塞解决办法：
+前提要有个外网IP，如果没有就给运营商打电话，告诉他你要个外网IP，要不然不能下载。
+使用下面解决办法的时候，要先关闭系统防火墙（不想关闭，可以在防火墙添加允许程序）
+解决办法1：去路由器设置界面，打开upnp
+解决办法2：去路由器设置界面，设置端口转发，TCP和UDP，端口22223，指向本机IP
+解决办法3：去路由器设置界面，设置DMZ主机为本机IP（不推荐）&lt;/p&gt;
+&lt;p&gt;# 默认种子传输端口22223
+电驴传输端口22224 网页监听端口1235&lt;/p&gt;
+&lt;p&gt;# 网页远控登陆地址 http://127.0.0.1:1235
+管理员默认账号：admin 密码：用户自定义&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;BitComet(比特彗星) v2.12 解锁全功能豪华版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGfTvvpKgExfmYcbMgv0yKUA1?pwd=8b75&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGfTvvpKgExfmYcbMgv0yKUA1?pwd=8b75&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BitComet 2.12 Multilingual + Portable (2025/01/14)
+&lt;a class=&#34;link&#34; href=&#34;https://download.bitcomet.com/achive&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.bitcomet.com/achive&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://download.bitcomet.com/achive/BitComet_2.12.zip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.bitcomet.com/achive/BitComet_2.12.zip&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>DLNow Video Downloader v1.54.2025.01.13 多语便携版</title>
+        <link>https://www.danlong360.com/post/674225/</link>
+        <pubDate>Wed, 15 Jan 2025 19:14:35 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/674225/</guid>
+        <description>&lt;p&gt;DLNow Video Downloader 是一款功能强大的视频下载软件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/674225/20250115_071446.png&#34;
+	width=&#34;620&#34;
+	height=&#34;439&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;141&#34;
+		data-flex-basis=&#34;338px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;视频下载：DLNow Video Downloader 可以帮助用户从多个流行视频网站下载视频，包括 YouTube、Facebook、Instagram、Vimeo、Dailymotion 等。
+批量下载：用户可以选择下载单个视频或批量下载多个视频，提高下载效率。
+视频转换：DLNow Video Downloader 支持将下载的视频转换为其他常见的视频格式，如 MP4、AVI、MOV、WMV 等。
+高质量下载：软件支持下载高清视频，并提供不同的清晰度选项，使用户可以选择适合自己需求的视频质量。
+下载速度优化：DLNow Video Downloader 可以优化下载速度，提供更快的下载体验。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;简单易用：DLNow Video Downloader 的界面简单直观，用户可以轻松学习和使用该软件。
+多平台支持：DLNow Video Downloader 支持 Windows、Mac、Android 等多个平台，适用于多种设备。
+自定义选项：软件提供了一些个性化设置选项，如选择下载目录、设置下载速度限制等，提供更好的用户体验。
+高速下载：DLNow Video Downloader 使用多线程下载技术，可以加快下载速度。
+免费试用：软件提供免费试用版本，用户可以在购买之前先体验软件的功能和性能。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;DLNow Video Downloader v1.54.2025.01.13 多语便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGfP7h870B0xxxnFPD5NdAfA1?pwd=hyjj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGfP7h870B0xxxnFPD5NdAfA1?pwd=hyjj&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>4K Downloader(高清4K视频下载软件) v5.12.10 便携版</title>
+        <link>https://www.danlong360.com/post/338894/</link>
+        <pubDate>Wed, 15 Jan 2025 19:13:08 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/338894/</guid>
+        <description>&lt;p&gt;4K Downloader是一款专业的视频下载软件，可以帮助用户快速方便地下载高清视频和音频文件。该软件支持从各大视频网站获取视频链接并下载，包括YouTube、Facebook、Vimeo、Dailymotion等。用户只需将视频链接粘贴到软件中，就能一键下载视频到本地。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/338894/20250115_071320.png&#34;
+	width=&#34;640&#34;
+	height=&#34;420&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;152&#34;
+		data-flex-basis=&#34;365px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件功能&#34;&gt;软件功能
+&lt;/h3&gt;&lt;p&gt;支持下载高清视频和音频文件，包括4K、8K、1080p等多种分辨率。
+自动提取视频链接，用户只需复制粘贴视频链接即可下载。
+支持批量下载，可以同时下载多个视频链接。
+支持下载YouTube播放列表和频道视频。
+支持转换下载视频为MP3音频文件。
+内置搜索功能，可以直接搜索视频并下载。&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;界面简洁直观，操作简单方便。
+下载速度快，支持多线程下载，节省用户时间。
+支持多种视频格式和分辨率选择，满足用户不同需求。
+支持下载YouTube的高清视频，包括4K、8K等清晰度。
+支持下载YouTube播放列表和频道视频，方便用户批量下载视频。
+软件更新频繁，支持最新的视频网站和格式。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;4K Downloader(高清4K视频下载软件) v5.12.10 便携版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGfOvm6NFTowUi1wf4HyodCA1?pwd=v73b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGfOvm6NFTowUi1wf4HyodCA1?pwd=v73b&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>BitComet(比特彗星) v2.12 官方绿色版 &amp; 安装版</title>
         <link>https://www.danlong360.com/post/309556/</link>
         <pubDate>Tue, 14 Jan 2025 19:28:41 +0800</pubDate>
