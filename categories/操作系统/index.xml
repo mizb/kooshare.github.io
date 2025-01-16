@@ -7,7 +7,184 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Tue, 14 Jan 2025 19:22:59 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 16 Jan 2025 19:15:17 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows 11 24H2 Build 26100.2894 RTM</title>
+        <link>https://www.danlong360.com/post/134298/</link>
+        <pubDate>Thu, 16 Jan 2025 19:15:17 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/134298/</guid>
+        <description>&lt;p&gt;微软Win11系统下载,微软Win11 24H2正式版,微软Win11 Build 26100正式版,微软Windows 11 24H2正式版,Windows 11 24H2官方正式版首个初始版的微软原版ISO镜像于2024年10月推出,系统版本为24H2,OS内部版本为26100&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/134298/20250116_071546.png&#34;
+	width=&#34;640&#34;
+	height=&#34;430&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;148&#34;
+		data-flex-basis=&#34;357px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Windows 11 - 版本信息 | Microsoft Docs
+&lt;a class=&#34;link&#34; href=&#34;https://docs.microsoft.com/zh-cn/windows/release-health/windows11-release-information&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.microsoft.com/zh-cn/windows/release-health/windows11-release-information&lt;/a&gt;
+2025年1月累积更新(KB5050009) Windows 11 version 24H2(OS build 26100.2894) Update
+&lt;a class=&#34;link&#34; href=&#34;https://support.microsoft.com/zh-cn/help/5048667&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/zh-cn/help/5048667&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;[Windows 11 GE-24H2]26100.2894 原版集成映像 25年1月第1次更新 - ananhaid
+● 14合1：直接选取所需版本即可安装，也支持安装之后使用其他密钥转换版本，包含版本为：
+﹂家庭版、专业版、企业版、教育版、专业工作站版、专业教育版、家庭单语言版、家庭中文版
+﹂企业版多会话、IoT 企业版、IoT 企业版订阅、SE版、专业单语言版、专业中文版(总共14个版)
+- 这里发布的是官方MSVS渠道版前面8个版+转换后的6个版，总共14个集成发布
+- 没有添加任何三方数据，母盘选用的GE-24H2（26100.1742)官方ISO镜像制作
+- 使用工具只有DISM，没有删减任何内容，完全原版。系统镜像ESD格式生成ISO
+● 集成功能：
+.net framework 3.5
+● 集成补丁：
+KB5043080（24年9月检查点累积更新 26100.1742）
+KB5050009（25年1月累积更新 26100.2894）（1月15日）
+KB5049622（25年1月 .net 累积更新）（1月15日）
+集成库文件（微软修复映像错误之前会一直提供）：
+官方 VP9VideoExtensions 库文件，修复设置-&amp;gt;应用-&amp;gt;视频播放中的预览错误。
+原版 ISO 内置的密钥无改动，有数字权利的安装之后记得改成公共密钥（\sources\product.ini）
+关于品牌机，为了跳过读取板载随机附送操作系统版本从而没有版本选择，已在 sources 目录内添加 ei.cfg 文件，比如机器默认为家庭中文版，全新安装会时会有选择版本菜单。如有其他需求请网络搜索。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Windows 11 24H2 原版集成2025年1月份累积更新完整ISO镜像14合1 (2025/01/15)
+Windows 11 version 24H2(OS build 26100.2894) x64 AIO 14in1 zh-CN Jan 2025&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/8d00938ef198&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/8d00938ef198&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGj1nap-igUomBkc0f-X2oJA1?pwd=mpbc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGj1nap-igUomBkc0f-X2oJA1?pwd=mpbc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Windows 11 24H2 Build 26100.2894 Update 1月份累积更新正式版 (2025/01/14)
+&lt;a class=&#34;link&#34; href=&#34;https://www.catalog.update.microsoft.com/Search.aspx?q=KB5050009&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.catalog.update.microsoft.com/Search.aspx?q=KB5050009&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows 11 LTSC 2024 Build 26100.2894</title>
+        <link>https://www.danlong360.com/post/465767/</link>
+        <pubDate>Thu, 16 Jan 2025 19:13:17 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/465767/</guid>
+        <description>&lt;p&gt;微软Win11LTSC2024最新版,微软Win11 LTSC 24H2下载,Windows 11 LTSC 24H2系统Win11 Build 26100累积更新.Windows 11企业版LTSC版堪称官方Win11精简版,相对普通企业版,不会获得新增功能仅提供安全更新,可以控制升级&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/465767/20250116_071345.png&#34;
+	width=&#34;639&#34;
+	height=&#34;359&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Windows 11 - 版本信息 | Microsoft Docs
+&lt;a class=&#34;link&#34; href=&#34;https://learn.microsoft.com/zh-cn/windows/release-health/windows11-release-information&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://learn.microsoft.com/zh-cn/windows/release-health/windows11-release-information&lt;/a&gt;
+2025年1月累积更新(KB5050009) Windows 11 version 24H2(OS build 26100.2894) Update
+&lt;a class=&#34;link&#34; href=&#34;https://support.microsoft.com/zh-cn/help/5048667&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/zh-cn/help/5048667&lt;/a&gt;
+Win11企业版2024长期服务版 (Windows 11 IoT Enterprise 2024 LTSC) 提供长期支持至2038年
+它相当于就是官方Win11精简版，稳定流畅，对电脑硬件配置要求较低，可以用数字权利永久激活。
+LTSC版本无应用商店、无微软小娜，无OneDriver、Windows更新提供高级设置可选安装更新方式。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;[Windows 11 LTSC 2024]26100.2894 原版集成映像 25年1月第1次更新 - ananhaid
+3合1（官方“1个”加转换“2个”）：直接选取所需版本即可安装，也支持安装之后使用其他密钥转换版本，
+包含版本：Windows 11 企业版 LTSC/ Windows 11 IoT 企业版 LTSC/ Windows 11 IoT 企业版订阅 LTSC
+- 这里发布的是官方MSVS渠道版前面1个版+转换后的2个版，总共3个集成发布！
+- 没有添加任何三方数据，母盘选用的LTSC 2024(26100.1742)官方ISO镜像制作
+- 使用工具只有DISM，没有删减任何内容，完全原版。系统镜像ESD格式生成ISO
+● 集成功能：
+.net framework 3.5
+● 集成补丁：
+KB5043080（24年9月检查点累积更新 26100.1742）
+KB5050009（25年1月累积更新 26100.2894）（1月15日）
+KB5049622（25年1月 .net 累积更新）（1月15日）
+集成库文件（微软修复映像错误之前会一直提供）：
+官方 VP9VideoExtensions 库文件，修复设置-&amp;gt;应用-&amp;gt;视频播放中的预览错误。
+原版 ISO 内置的密钥无改动，有数字权利的安装之后记得改成公共密钥（\sources\product.ini）
+关于品牌机，为了跳过读取板载随机附送操作系统版本从而没有版本选择，已在 sources 目录内添加 ei.cfg 文件，比如机器默认为家庭中文版，全新安装会时会有选择版本菜单。如有其他需求请网络搜索。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Windows 11 企业版 LTSC 2024 原版集成2025年1月份累积更新完整ISO镜像3合1 (2025/01/15)
+::Windows 11 IoT Enterprise 2024 LTSC(OS build 26100.2894) x64 AIO 3in1 zh-CN Jan 2025&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/f87cd9f522ef&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/f87cd9f522ef&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGj1aetQX5C_sP4UjPe3QCyA1?pwd=xshr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGj1aetQX5C_sP4UjPe3QCyA1?pwd=xshr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Windows 11 LTSC 24H2 Build 26100.2894 Update 2025年1月份累积更新正式版 (2025/01/14)
+&lt;a class=&#34;link&#34; href=&#34;https://www.catalog.update.microsoft.com/Search.aspx?q=KB5050009&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.catalog.update.microsoft.com/Search.aspx?q=KB5050009&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows 10 LTSC 2021 Build 19044.5371</title>
+        <link>https://www.danlong360.com/post/883863/</link>
+        <pubDate>Thu, 16 Jan 2025 19:11:45 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/883863/</guid>
+        <description>&lt;p&gt;微软Win10LTSC2021最新版,微软Win10 LTSC 21H2下载,Windows 10 LTSC 21H2系统Win10 Build 19044累积更新.Windows 10企业版LTSC版堪称官方Win10精简版,相对普通企业版,不会获得新增功能仅提供安全更新,可以控制升级&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/883863/20250116_071222.png&#34;
+	width=&#34;512&#34;
+	height=&#34;288&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;Windows 10 - 版本信息 | Microsoft Docs
+&lt;a class=&#34;link&#34; href=&#34;https://docs.microsoft.com/zh-cn/windows/release-health/release-information&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.microsoft.com/zh-cn/windows/release-health/release-information&lt;/a&gt;
+2025年1月累积更新(KB5049981) Windows 10 version 21H2(OS build 19044.5371) Update
+&lt;a class=&#34;link&#34; href=&#34;https://support.microsoft.com/zh-cn/help/5049981&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://support.microsoft.com/zh-cn/help/5049981&lt;/a&gt;
+Win10企业版2021长期服务版（Windows 10 Enterprise LTSC 21H2），提供长期支持至2031年
+它相当于就是官方Win10精简版，稳定流畅，对电脑硬件配置要求较低，可以用数字权利永久激活。
+LTSC版本无应用商店、无微软小娜，无OneDriver、Windows更新提供高级设置可选安装更新方式。&lt;/p&gt;
+&lt;h3 id=&#34;特点描述&#34;&gt;特点描述
+&lt;/h3&gt;&lt;p&gt;Windows 10 LTSC 2021 Build 19044.5371 原版集成2025年1月更新补丁最新完整版镜像
+母版基于简体中文官方初始版，使用工具仅Win_ISO_Patching_Scripts，最新完整功能原版！&lt;/p&gt;
+&lt;p&gt;采用Win_ISO_Patching_Scripts自动化集成：
+启用 .NET Framewrok 3.5（简体中文语言包）
+KB4486129（.NET Framework 4.8 10.0.1.2752初始版本）
+KB4486131（.NET Framework 4.8 简体中文语言包 10.0.1.2752）
+KB5048161（2024年11月.NET Framewrok 3.5和4.8.1 累积更新）
+KB5049981（2025年01月累积更新 19044.5247）[1月14号更新]
+KB5046913 (2024年11月安全OS动态更新)
+KB5046905（2024年11月设置动态更新）&lt;/p&gt;
+&lt;p&gt;LTSC 2021 集成库文件（微软修复映像错误之前会一直提供）：
+﹂ 集成官方 VP9VideoExtensions 库文件，修复设置-&amp;gt;应用-&amp;gt;视频播放中的预览错误。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;Windows 10 企业版 LTSC 21H2原版集成25年1月份累积更新完整ISO镜像 (2025/01/16)
+:: Windows 10 Enterprise LTSC 21H2(OS build 19044.5371) x64 AIO zh-CN Jan 2025&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/5a44d1a77edd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/5a44d1a77edd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGj1QkJ4EyesjEmB3YAb9z_A1?pwd=kw73&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGj1QkJ4EyesjEmB3YAb9z_A1?pwd=kw73&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Windows 10 LTSC 21H2 Build 19044.5371 Update 2025年1月份累积更新正式版 (2025/01/14)
+&lt;a class=&#34;link&#34; href=&#34;https://www.catalog.update.microsoft.com/Search.aspx?q=KB5048652&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.catalog.update.microsoft.com/Search.aspx?q=KB5048652&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>蜂鸟WinPE维护系统(小巧PE维护系统) v2.4.2</title>
         <link>https://www.danlong360.com/post/687896/</link>
         <pubDate>Tue, 14 Jan 2025 19:22:59 +0800</pubDate>
