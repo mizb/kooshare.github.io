@@ -7,7 +7,55 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Fri, 17 Jan 2025 19:47:57 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 18 Jan 2025 19:41:17 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>QOwnNotes(跨平台笔记应用程序) v25.1.4 中文绿色版</title>
+        <link>https://www.danlong360.com/post/132950/</link>
+        <pubDate>Sat, 18 Jan 2025 19:41:17 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/132950/</guid>
+        <description>&lt;p&gt;QOwnNotes是一款功能强大的跨平台笔记应用程序，可以帮助用户轻松管理笔记、任务和清单。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/132950/20250118_074126.png&#34;
+	width=&#34;697&#34;
+	height=&#34;517&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;134&#34;
+		data-flex-basis=&#34;323px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;软件特点&#34;&gt;软件特点
+&lt;/h3&gt;&lt;p&gt;1.支持多种编辑器：支持Markdown、Html、和其它多种文本编辑器；
+2.易于搜索：可设置快捷键进行搜索，支持正则表达式搜索；
+3.多个账户：可以管理多个账户，并可以自定义设置；
+4.可定义笔记标签：可以使用标签来组织笔记，方便查找；
+5.全文搜索：支持全文搜索，可以在整个笔记库中搜索文本；
+6.数据同步：可以通过多种方式进行数据同步，包括Dropbox、Nextcloud等；
+7.导出功能：可以通过PDF、HTML等格式导出笔记。&lt;/p&gt;
+&lt;h3 id=&#34;更新日志&#34;&gt;更新日志
+&lt;/h3&gt;&lt;p&gt;25.1.4
+More key combinations, like Ctrl + Enter or Ctrl + Z are now respecting the read-only
+mode and will not perform their operation (for #3208)
+An issue was fixed where some links to a note were not adapted when the note was
+moved or renamed (for #3200)
+If the application is built in debug mode the IDs of the notes, note-subfolders and tags
+are now shown in the tooltips of their list panels (for #3200)
+index.php will now not be used in Nextcloud Deck links anymore, since it seems
+to mess up the deep link to a card (for #3210)&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;QOwnNotes(跨平台笔记应用程序) v25.1.4 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/59fb9fb6f983&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/59fb9fb6f983&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGtLSu1HBJ0iWMxzGQzZ-a1A1?pwd=w8e7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGtLSu1HBJ0iWMxzGQzZ-a1A1?pwd=w8e7&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>轻闪PDF(傲软PDF编辑软件) v2.15.6.7 中文破解版</title>
         <link>https://www.danlong360.com/post/612756/</link>
         <pubDate>Fri, 17 Jan 2025 19:47:57 +0800</pubDate>
