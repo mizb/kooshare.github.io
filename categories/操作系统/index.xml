@@ -7,7 +7,80 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 18 Jan 2025 21:41:52 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 19 Jan 2025 21:23:11 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>不忘初心 Windows10 22H2 (19045.5371) x64 纯净版 精简版 (2025.1.16)</title>
+        <link>https://www.danlong360.com/post/377431/</link>
+        <pubDate>Sun, 19 Jan 2025 21:23:11 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/377431/</guid>
+        <description>&lt;p&gt;不忘初心Win10精简版, 不忘初心Win10纯净版, 不忘初心Win10 22H2精简版, 不忘初心Win10 22H2纯净版, 最新不忘初心Win10 22H2可更新版系统, 最新不忘初心Win10 22H2无更新版系统, 最新不忘初心Win10 22H2系统下载。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不忘初心纯净版Win10 22H2精简版系统无更新版概述：&lt;/strong&gt;
+注意此版不能更新补丁，此版保留Hyper和linux，集成RST-VMD驱动，比可以更新的补丁的版本体积要小很多，虽小但无过渡精简优化，该有的功能还会有，精简方法基本上还是原来配方，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公无影响！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不忘初心纯净版Win10 22H2精简版系统可更新版概述：&lt;/strong&gt;
+此版可正常更新补丁，此版本已经重新定义精简方案，比以前更稳定！为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/377431/20250119_092418.png&#34;
+	width=&#34;1024&#34;
+	height=&#34;768&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更新记录&#34;&gt;更新记录
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;2025.1.16更新记录&lt;/strong&gt;
+#彻底移除困扰多年顽固的任务栏“资讯和兴趣”。
+#移除 部分用户桌面上出现的 “了解此图片”图标
+#禁止 安装系统后自动安装“微软电脑管家”
+#禁用 系统安装过程中的Bitlocker自动加密
+#禁用 Edge浏览器右上角显示的Copliot图标
+#关闭 EDGE下载时文件安全保留提示
+#解除 系统默认保留的20%宽带限速。
+#控制面板\网络和 Internet\网络和共享中心\高级共享设置\ &amp;ldquo;网络发现&amp;quot;和&amp;quot;文件和打印机共享&amp;quot;设置为开启。
+#更新安装包 Microsoft.WindowsStore_22411.1401.3.0商店安装包_pc528.net_(20250115).zip
+#更新安装包 Microsoft.Windows.Photos_2025.11010.9001.0照片安装包_pc528.net_(20250115).zip
+#更新安装包 Microsoft.XboxApp_Xbox.TCUI_XboxGaming_XBOX游戏安装包_pc528.net_(20250115).zip
+#更新安装包 Microsoft.HEVCVideoExtension_2.2.25.0_HEVC视频扩展安装包_pc528.net_(20250115).zip
+#更新安装包 Microsoft.MicrosoftPCManager_3.14.14.0_微软电脑管家安装包_pc528.net_(20250115).zip
+#更新安装包 MicrosoftEdgeX64_131.0.2903.146.msi
+#更新安装包 OneDriveSetup_24.226.1110.4.exe
+#KB5049981（19045.5371）微软官方更新如下：
+此更新解决了 Windows 操作系统的安全问题。&lt;/p&gt;
+&lt;h3 id=&#34;系统集成&#34;&gt;系统集成
+&lt;/h3&gt;&lt;p&gt;1、Microsoft .NET Framework 3.5&lt;/p&gt;
+&lt;h3 id=&#34;保留列表&#34;&gt;保留列表
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;[无更新版]&lt;/strong&gt;
+保留组件：打印、蓝牙、指纹、人脸、共享、微软账户、搜索、计算器、屏幕投影、平板模式、BitLocker、远程桌面、IIS 、NFS 、IE浏览器、画图、截图、防火墙、WMP、旧版组件 、hyper、Linux、Telnet 、UWF&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[可更新版]&lt;/strong&gt;
+保留组件：EDGE浏览器、语言识别TTS、打印、蓝牙、指纹、语音识别TTS、共享、微软账户、搜索、计算器、屏幕投影、平板模式、BitLocker、远程桌面、IIS 、NFS 、IE浏览器、画图、截图、防火墙、WMP、旧版组件 、hyper、Linux、Telnet&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名: V:\【不忘初心】Windows10_22H2_19045.5371_X64_无更新纯净精简版(2025.1.16).iso
+文件大小：2400387072 字节
+MD5 ：3A553B3613E2C14344450EB9735CDBFF
+SHA1 ：5BA818ED013FB26AC7CAA25B08D44A0A8B1D32A8
+CRC32 ：CF0B7A43&lt;/p&gt;
+&lt;p&gt;文件名: V:\【不忘初心】Windows10_22H2_19045.5371_X64_可更新纯净精简版(2025.1.16).iso
+文件大小: 3986259968 字节
+MD5: 7B743693B302BFF45F31E64F5B05E492
+SHA1: 571EA62E11B4391C3CCD04FF1FEDA8D7C96FEF57
+CRC32: 53B1DE53&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;【不忘初心】Windows10 22H2 (19045.5371) X64 无更新纯净精简版(2025.1.16)
+【不忘初心】Windows10 22H2 (19045.5371) X64 可更新纯净精简版(2025.1.16)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/7ece74a4a3cf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/7ece74a4a3cf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGylwKhihncbAZYCKEoGqYZA1?pwd=89ut&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGylwKhihncbAZYCKEoGqYZA1?pwd=89ut&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>小修 Windows 11 Pro (22631.4751) 稳定精简 极限版 二合一 (2025.01.17)</title>
         <link>https://www.danlong360.com/post/580205/</link>
         <pubDate>Sat, 18 Jan 2025 21:41:52 +0800</pubDate>
