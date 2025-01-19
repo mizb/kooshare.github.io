@@ -7,7 +7,160 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 18 Jan 2025 21:41:52 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 19 Jan 2025 22:08:22 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/windows-11/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>不忘初心 Windows11 LTSC2024 (26100.2894) x64 纯净版 精简版 (2025.01.17)</title>
+        <link>https://www.danlong360.com/post/901263/</link>
+        <pubDate>Sun, 19 Jan 2025 22:08:22 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/901263/</guid>
+        <description>&lt;p&gt;不忘初心Win11精简版, 不忘初心Win11纯净版, 不忘初心Win11 LTSC2024精简版, 不忘初心Win11 LTSC2024纯净版, 最新不忘初心Win11 LTSC2024可更新版系统, 最新不忘初心Win11 LTSC2024无更新版系统, 最新不忘初心Win11 LTSC2024系统下载。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不忘初心纯净版Win11 LTSC2024精简版系统无更新版概述：&lt;/strong&gt;
+此版不能更新补丁，并开启按流量计费，母版来自Windows11 24H2 LTSC2024 正式版 ，此版保留Hyper和linux，本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，老机器也可以安装，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不忘初心纯净版Win11 LTSC2024精简版系统可更新版概述：&lt;/strong&gt;
+此版按照可更新补丁制作，但不保证永远更新成功，使用Windows 11 企业版 LTSC正式版作为母盘，保留语言识别TTS、安全中心、Defender、hyper、Linux，本系统自动绕过TPM bios检测，不强制使用微软账号登录，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响、欢迎朋友们测试反馈，提出意见！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/901263/20250119_100930.png&#34;
+	width=&#34;1280&#34;
+	height=&#34;768&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;windows-11-企业版-ltsc的特性&#34;&gt;Windows 11 企业版 LTSC的特性：
+&lt;/h3&gt;&lt;p&gt;Windows 11 企业版 LTSC的特点主要包括稳定性、安全性以及不受强制更新的干扰。‌ 这一版本是微软为企业用户定制的，去除了众多非核心应用，仅保留最基础的功能模块。它的显著优势在于出色的稳定性和安全性，非常适合需要长时间稳定运行的环境‌。&lt;/p&gt;
+&lt;p&gt;具体来说，Windows 11 企业版 LTSC 不会进行功能性的大幅升级，仅针对安全、性能和稳定性进行必要的更新。微软承诺为LTSC版本提供长达5至10年的安全补丁和修复，确保企业用户能够在一个稳定、安全的环境中工作。此外，LTSC版本不包含许多额外的应用，如Edge浏览器、微软商店、Xbox、Skype等，界面、设置、任务栏、开始菜单与普通版Windows 11相似，但性能更好‌。&lt;/p&gt;
+&lt;p&gt;对于特定用户群体，Windows 11 企业版 LTSC 适合拥有老旧硬件的用户以及对系统稳定性有更高要求的企业用户。普通家庭用户可能不是最佳选择，因为其更新频率较低，许多已知的bug可能不会及时修复‌。&lt;/p&gt;
+&lt;h3 id=&#34;更新记录&#34;&gt;更新记录
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;2025.1.17更新记录&lt;/strong&gt;
+#移除入门 组件。
+#禁用 系统安装过程中的Bitlocker自动加密
+#禁用 Edge浏览器右上角显示的Copliot图标
+#关闭 EDGE下载时文件安全保留提示
+#解除 系统默认保留的20%宽带限速。
+#控制面板\网络和 Internet\网络和共享中心\高级共享设置\ “网络发现”和”文件和打印机共享”设置为开启。
+#更新安装包 Microsoft.WindowsStore_22411.1401.3.0商店安装包_pc528.net_(20250115).zip
+#更新安装包 Microsoft.Windows.Photos_2025.11010.9001.0照片安装包_pc528.net_(20250115).zip
+#更新安装包 Microsoft.XboxApp_Xbox.TCUI_XboxGaming_XBOX游戏安装包_pc528.net_(20250115).zip
+#更新安装包 Microsoft.HEVCVideoExtension_2.2.25.0_HEVC视频扩展安装包_pc528.net_(20250115).zip
+#更新安装包 Microsoft.MicrosoftPCManager_3.14.14.0_微软电脑管家安装包_pc528.net_(20250115).zip
+#更新安装包 Microsoft.DesktopAppInstaller_2024.1108.1842.0安装包_pc528.net_(20250116).zip
+#更新安装包 Microsoft.WindowsNotepad_11.2410.21.0多标签记事本安装包_pc521.net_(20250116).zip
+#更新安装包 Microsoft.WindowsTerminal_3001.21.3231.0Windows终端_pc528.net_(20250116).zip
+#更新安装包 Microsoft.Paint_11.2411.471.0画图安装包_pc528.net_(20250116).zip
+#更新安装包 MicrosoftEdgeX64_131.0.2903.146.msi
+#更新安装包 OneDriveSetup_24.226.1110.4.exe
+#KB5050009（26100.2894）微软官方更新如下：
+此更新解决了 Windows 操作系统的安全问题。&lt;/p&gt;
+&lt;h3 id=&#34;保留列表&#34;&gt;保留列表
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;[无更新版]&lt;/strong&gt;
+保留组件：打印、蓝牙、指纹、共享、微软账户、搜索、计算器、屏幕投影、平板模式、BitLocker、远程桌面、IIS 、NFS 、IE浏览器、截图、防火墙、WMP、旧版组件 、hyper、Linux、Telnet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[可更新版]&lt;/strong&gt;
+保留组件：EDGE浏览器、语音识别TTS、安全中心、Defender、打印、蓝牙、指纹、安全中心、共享、微软账户、搜索、计算器、屏幕投影、平板模式、BitLocker、远程桌面、IIS 、NFS 、超级终端、IE浏览器、画图、防火墙、WMP、旧版组件 、Linux、Telnet&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名: V:\【不忘初心】Windows11_LTSC2024_26100.2894_X64_无更新纯净精简版(2025.1.17).iso
+文件大小: 2134802432 字节
+MD5: 0AD7A1863B4BBCC66882E1C56A0FE91C
+SHA1: 3173A9CDF749E6D6DC067A8574D70222A5537B50
+CRC32: 1528AD19&lt;/p&gt;
+&lt;p&gt;文件名: V:\【不忘初心】Windows11_LTSC2024_26100.2894_X64_可更新纯净精简版(2025.1.17).iso
+文件大小: 3159752704 字节
+MD5: 006165714DC5835C55E5EB6060D3C58E
+SHA1: E0E7BD63DF9C8DDD4834AA57489B89BD41952B54
+CRC32: 838E0919&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;【不忘初心】Windows11 LTSC2024 (26100.2894) X64 无更新纯净精简版(2025.1.17)
+【不忘初心】Windows11 LTSC2024 (26100.2894) X64 可更新纯净精简版(2024.1.17)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/72122e94f93f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/72122e94f93f&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGyvfNd96wnlOPadWxAzl7-A1?pwd=hf4c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGyvfNd96wnlOPadWxAzl7-A1?pwd=hf4c&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>不忘初心 Windows11 24H2 (26100.2894) x64 纯净版 精简版 (2025.01.16)</title>
+        <link>https://www.danlong360.com/post/804464/</link>
+        <pubDate>Sun, 19 Jan 2025 22:06:20 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/804464/</guid>
+        <description>&lt;p&gt;不忘初心Win11精简版, 不忘初心Win11纯净版, 不忘初心Win11 24H2精简版, 不忘初心Win11 24H2纯净版, 最新不忘初心Win11 24H2可更新版系统, 最新不忘初心Win11 24H2无更新版系统, 最新不忘初心Win11 24H2系统下载。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不忘初心纯净版Win11 24H2精简版系统无更新版概述：&lt;/strong&gt;
+此版不能更新补丁，并开启按流量计费，使用正式版 Windows 11 24H2 版本做母盘，建议12-15代CPU机器使用,本版本自动跳过硬件检测，自建账户支持在不联网的情况下安装和跳过微软账户登录，通过优化后台进程和服务，精简一些日常不常用的组件，速度和性能比原版更胜一筹，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装，系统纯净、流畅、进程少无任何第三方软件，办公基本无影响！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不忘初心纯净版Win11 24H2精简版系统可更新版概述：&lt;/strong&gt;
+此版按照可更新补丁制作，但不保证永远更新成功，保留语言识别TTS、安全中心、Defender、hyper、Linux，离线精简部分APP、以及其他不常用组件，本系统自动绕过TPM bios检测，不强制使用微软账号登录，为了保证稳定初心的系统全部都是离线精简和优化，非二次封装。系统纯净、流畅、进程少无任何第三方软件，办公基本无影响！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/804464/20250119_100721.png&#34;
+	width=&#34;1280&#34;
+	height=&#34;768&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;windows11-24h2的主要特性&#34;&gt;Windows11 24H2的主要特性：
+&lt;/h3&gt;&lt;p&gt;在界面优化方面，Win11 24H2的文件资源管理器进行了重大更新，界面更加简洁明了，分类、查找和预览更加直观，提高了工作效率‌此外，系统界面更加美观易用，支持HDR背景和改进的开始菜单，提供了更好的用户体验&lt;/p&gt;
+&lt;p&gt;性能方面，Win11 24H2针对大文件和大文件夹的操作进行了优化，减少了卡顿和延迟现象，提供了更加流畅的操作体验‌。同时，内核修改支持WiFi7，提高了系统的稳定性和无线速度，适用于需要高速网络连接的用户&lt;/p&gt;
+&lt;p&gt;新增功能方面，Win11 24H2引入了快速访问最近文件和文件夹的功能，以及更智能的文件搜索建议，提升了文件管理的便捷性‌1。此外，还新增了受Windows保护的打印模式，增强了打印安全性，并支持Mopria认证的打印机&lt;/p&gt;
+&lt;h3 id=&#34;更新记录&#34;&gt;&lt;strong&gt;更新记录&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;2025.1.16更新记录&lt;/strong&gt;
+#移除入门 组件。
+#移除 部分用户桌面上出现的 “了解此图片”图标
+#禁用 系统安装过程中的Bitlocker自动加密
+#禁用 Edge浏览器右上角显示的Copliot图标
+#关闭 EDGE下载时文件安全保留提示
+#解除 系统默认保留的20%宽带限速。
+#控制面板\网络和 Internet\网络和共享中心\高级共享设置\ “网络发现”和”文件和打印机共享”设置为开启。
+#更新安装包 Microsoft.WindowsStore_22411.1401.3.0商店安装包_pc528.net_(20250115).zip
+#更新安装包 Microsoft.Windows.Photos_2025.11010.9001.0照片安装包_pc528.net_(20250115).zip
+#更新安装包 Microsoft.XboxApp_Xbox.TCUI_XboxGaming_XBOX游戏安装包_pc528.net_(20250115).zip
+#更新安装包 Microsoft.HEVCVideoExtension_2.2.25.0_HEVC视频扩展安装包_pc528.net_(20250115).zip
+#更新安装包 Microsoft.MicrosoftPCManager_3.14.14.0_微软电脑管家安装包_pc528.net_(20250115).zip
+#更新安装包 Microsoft.DesktopAppInstaller_2024.1108.1842.0安装包_pc528.net_(20250116).zip
+#更新安装包 Microsoft.WindowsNotepad_11.2410.21.0多标签记事本安装包_pc521.net_(20250116).zip
+#更新安装包 Microsoft.WindowsTerminal_3001.21.3231.0Windows终端_pc528.net_(20250116).zip
+#更新安装包 Microsoft.Paint_11.2411.471.0画图安装包_pc528.net_(20250116).zip
+#更新安装包 MicrosoftEdgeX64_131.0.2903.146.msi
+#更新安装包 OneDriveSetup_24.226.1110.4.exe
+#KB5050009（26100.2894）微软官方更新如下：
+此更新解决了 Windows 操作系统的安全问题。&lt;/p&gt;
+&lt;h3 id=&#34;保留列表&#34;&gt;保留列表
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;[无更新版]&lt;/strong&gt;
+保留组件：打印、蓝牙、指纹、共享、微软账户、搜索、计算器、屏幕投影、平板模式、BitLocker、远程桌面、IIS 、NFS 、IE浏览器、截图、防火墙、WMP、旧版组件 、hyper、Linux、Telnet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[可更新版]&lt;/strong&gt;
+保留组件：EDGE浏览器、语音识别TTS、安全中心、Defender、打印、蓝牙、指纹、安全中心、共享、微软账户、搜索、计算器、屏幕投影、平板模式、BitLocker、远程桌面、IIS 、NFS 、超级终端、IE浏览器、画图、照片、截图、防火墙、WMP、旧版组件 、Linux、Telnet&lt;/p&gt;
+&lt;h3 id=&#34;文件信息&#34;&gt;文件信息
+&lt;/h3&gt;&lt;p&gt;文件名: V:\【不忘初心】Windows11_24H2_26100.2894_X64_无更新纯净精简版(2025.01.16).iso
+文件大小: 2178678784 字节
+MD5: 5E713B6D21597CBEC9AEFCA5559053AA
+SHA1: 2A92F000D490E702A6990C65E2C81F72511964A1
+CRC32: C1B16454&lt;/p&gt;
+&lt;p&gt;文件名: V:\【不忘初心】Windows11_24H2_26100.2894_X64_可更新纯净精简版(2025.01.16).iso
+文件大小: 3318841344 字节
+MD5: 7692E877C7158D164E1C62179BF5DCB5
+SHA1: E89C3A9623A29872A8F52879C1B8626E6575D1AD
+CRC32: FFF38FE5&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;【不忘初心】Windows11 24H2 (26100.2894) X64 无更新纯净精简版(2025.1.16)
+【不忘初心】Windows11 24H2 (26100.2894) X64 可更新纯净精简版(2025.1.16)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6949fb875264&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6949fb875264&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGyulXykCbFtF07rN6vDvgEA1?pwd=rj2h&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGyulXykCbFtF07rN6vDvgEA1?pwd=rj2h&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>小修 Windows 11 Pro (22631.4751) 稳定精简 极限版 二合一 (2025.01.17)</title>
         <link>https://www.danlong360.com/post/580205/</link>
         <pubDate>Sat, 18 Jan 2025 21:41:52 +0800</pubDate>
