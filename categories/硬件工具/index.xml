@@ -7,7 +7,65 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>KUL藏宝库</copyright>
-        <lastBuildDate>Sat, 18 Jan 2025 19:53:25 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 19 Jan 2025 08:01:43 +0800</lastBuildDate><atom:link href="https://www.danlong360.com/categories/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>图吧工具箱(图拉丁吧硬件检测工具箱) v2025.01 中文绿色版</title>
+        <link>https://www.danlong360.com/post/433751/</link>
+        <pubDate>Sun, 19 Jan 2025 08:01:43 +0800</pubDate>
+        
+        <guid>https://www.danlong360.com/post/433751/</guid>
+        <description>&lt;p&gt;图吧工具箱(全名图拉丁吧硬件检测工具箱)是个免费开源绿色纯净的硬件检测工具合集,专为图钉及所有DIY爱好者制作,包含常用硬件测试和检测工具,月工JS必备.图拉丁工具箱硬件检测工具,免费无限制功能全免费.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.danlong360.com/post/433751/20250119_080154.png&#34;
+	width=&#34;640&#34;
+	height=&#34;375&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;KUL藏宝库&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;170&#34;
+		data-flex-basis=&#34;409px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;新版变化&#34;&gt;新版变化
+&lt;/h3&gt;&lt;p&gt;图吧工具箱2025.01更新内容如下：
+CPUZ、Furmark2、Procexp、Rufus、显卡天梯图、DDU、GPUZ、HWiNFO、HWMonitor更新到最新版本，删除随机报错的diskfresh。
+由于windows defender smartscreen和windows defender的拦截，2023.11版本、2023.12版本均已夭折。
+2025.01版本于2024.12.17制作完成，下载链接已在制作组内部测试，如果还是拦截，可能2501版也会夭折。
+作者目前工作强度较高，无法投入太多精力到图吧工具箱项目中，望谅解。&lt;/p&gt;
+&lt;h3 id=&#34;常见问题&#34;&gt;常见问题
+&lt;/h3&gt;&lt;p&gt;1.使用浏览器或群文件都下载失败？
+工具箱安装包内包含Windows系统激活工具，会被大部分杀毒软件尤其是Windows10自带的Windows defender当成病毒处理，因此在开启这部分杀毒软件的情况下可能出现无法正常下载、下载失败或无法完成下载的现象， 点此了解详情 。
+解决方法：建议下载之前暂时关闭杀毒软件，下载、安装完成之后再重新打开杀毒软件。&lt;/p&gt;
+&lt;p&gt;2.提示打开数据库失败、皮肤文件丢失且无法打开工具？
+出现这种问题的原因多是使用绿色版时未解压导致，也可能是由于工具箱权限不足导致。
+解决方法：将绿色版压缩包内所有文件解压后，以管理员身份运行工具箱即可正常使用。&lt;/p&gt;
+&lt;p&gt;3.有些工具打不开？
+多为缺少工具所需运行库导致，也有可能是工具版本与系统位宽不匹配导致。
+解决方法：建议下载并安装运行库合集、.net运行库后再尝试打开。此外32位系统应选择32位工具即可正常打开。&lt;/p&gt;
+&lt;p&gt;4.硬件检测不准确或存在争议？
+工具箱收集的硬件信息均来自SMBios、WMI、CPUID，数据仅供参考，并不保证一定准确，请以实物为准。
+解决方法：建议使用工具箱内更专业的工具检测硬件信息。&lt;/p&gt;
+&lt;p&gt;5.为什么有的工具是英文版？
+汉化版无法保证安全性，作者在收集、打包工具时会优先打包官方版 原版或未经修改的版本，这些工具官方可能并没有提供中文，因此工具箱内有一部分工具是英文版。
+解决方法：提升自己的英语水平、或者通过百度、搜狗、404等搜索引擎搜索使用教程。&lt;/p&gt;
+&lt;p&gt;6.安装版安装失败？
+工具箱所谓的安装版与绿色版的区别仅为解压方式不同，安装包会自动解压，绿色版需要手动解压，除此之外没有任何区别。
+解决方法：可以使用绿色版或使用7zip打开工具箱安装包并手动解压。&lt;/p&gt;
+&lt;p&gt;7.无法卸载、找不到卸载程序？
+工具箱安装版安装时仅进行了解压操作，并未对系统、注册表之类做任何修改，所以无需卸载，直接删除即可。
+解决方法：无需卸载，直接删除。或在图吧工具箱的目录下有所谓的卸载程序(自动删除工具)。&lt;/p&gt;
+&lt;h3 id=&#34;下载地址&#34;&gt;下载地址
+&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;图吧工具箱(图拉丁吧硬件检测工具箱) v2025.01 中文绿色版&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.quark.cn/s/6c7c70c98717&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.quark.cn/s/6c7c70c98717&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.xunlei.com/s/VOGvuA0XEtBtDEGnVbOY-VFVA1?pwd=macy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pan.xunlei.com/s/VOGvuA0XEtBtDEGnVbOY-VFVA1?pwd=macy&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>FanControl(电脑风扇转速控制软件) v212 中文绿色版</title>
         <link>https://www.danlong360.com/post/669612/</link>
         <pubDate>Sat, 18 Jan 2025 19:53:25 +0800</pubDate>
